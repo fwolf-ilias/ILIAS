@@ -1,5 +1,54 @@
 # ILIAS Installation
 
+## Introduction
+
+## Pre-installation Requirements
+### Hardware
+The hardware requirements for ILIAS vary widely, depending on the number of concurrent
+users you expect and the features you want to enable. Please be aware that ILIAS
+is not a webpage, but a highly interactive application, thus requirements will be
+higher than in case of the former. Snappiness of the system will highly depend on
+deploying enough resources and tailoring the system to your needs.
+
+| Resource | Minimal Requirements |
+| --- | ----------- |
+| CPU | dual core server CPU |
+| RAM | 4GB |
+| Drive | ~25GB OS and ILIAS |
+| Connection | 100 Mbit/s |
+
+From there you can calculate your storage
+needs based on the amount of files and media content you expect to upload plus a
+few GBs for the database.
+
+### Recommended Setup for Running ILIAS
+
+For best results we recommend:
+
+  * a current version of Debian GNU Linux, Ubuntu or RHEL
+    * works best with Ubuntu 20.04 or Fedora 35 due to package versions
+  * MySQL 8.0 or MariaDB 10.3
+  * PHP 8.0
+    * Required packages php-gd, php-xml, php-mysql, php-mbstring
+  * Apache 2.4.x with `mod_php`
+  * ImageMagick 6.8+
+  * OpenJDK 11
+  * zip, unzip
+  * Node.js: 14 (LTS)
+  * git
+  * composer v2
+  * a contemporary browser supporting ES6, CSS3 and HTML 5
+
+## Installation instructions and steps
+
+## Configuration settings
+
+## Post-Installation Tasks
+
+## Troubleshooting
+
+## Further reading
+
 # Table of Contents
 
 <!-- MarkdownTOC depth=0 autolink="true" bracket="round" autoanchor="true" style="ordered" indent="   " -->
