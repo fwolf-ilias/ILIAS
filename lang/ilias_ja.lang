@@ -2505,6 +2505,7 @@ book#:#book_cal_entry#:#予約名:
 book#:#book_confirm_booking#:#予約確認
 book#:#book_confirm_booking_no_schedule#:#次のオブジェクトを本当に予約しますか?
 book#:#book_confirm_booking_schedule_number_of_objects#:#予約確認
+book#:#book_confirm_booking_schedule_number_of_objects_info#:#Please enter the number of items that you would like to book.###16 02 2024 new variable
 book#:#book_confirm_cancel#:#本当に次の予約をキャンセルしますか?
 book#:#book_confirm_cancel_aggregation#:#キャンセル数
 book#:#book_confirm_delete#:#本当に次のアイテムを削除しますか?
@@ -2957,8 +2958,6 @@ chatroom#:#client_chatserver_connection#:#サーバ接続へのクライアン�
 chatroom#:#client_proxy_info#:#IPアドレスとポートの既定値でサーバがアクセスできない場合はサーバ接続へのクライアント用カスタムURL構成が可能になります。
 chatroom#:#connection_url_info#:#サーバ接続用のURLを挿入してください。
 chatroom#:#custom_username#:#カスタムユーザ名
-chatroom#:#delete_private_room#:#プライベートルームを削除
-chatroom#:#delete_private_room_question#:#プライベートルーム削除を確認しますか?
 chatroom#:#dhparam#:#Diffie-Hellmanパラメータ
 chatroom#:#display_past_msgs#:#過去のメッセージ数
 chatroom#:#duration_from#:#From
@@ -2980,9 +2979,6 @@ chatroom#:#invite_username#:#ユーザ名
 chatroom#:#key#:#Key
 chatroom#:#kick_question#:#現在の部屋からユーザを本当に退室させますか?
 chatroom#:#kicked#:#このチャットルームからキックされました。
-chatroom#:#kicked_from_private_room#:#プライベートルームから退室させられています<b>#title#</b>。
-chatroom#:#leave_private_room#:#プライベートルームを退室
-chatroom#:#left_private_room#:#プライベートルームから外れる
 chatroom#:#lost_connection#:#チャットサーバーへのコネクションは中断されました。
 chatroom#:#main#:#メインルーム
 chatroom#:#messages#:#Messages###12 12 2023 new variable
@@ -2999,10 +2995,6 @@ chatroom#:#osc_noti_title#:#新しいチャットメッセージ
 chatroom#:#period#:#時間
 chatroom#:#permissions#:#アクセス権
 chatroom#:#preferred_chatname#:#Preferred Name###19 08 2022 new variable
-chatroom#:#private_room_closed#:#チャットルーム<b>#title#</b>は閉じています。
-chatroom#:#private_room_entered#:#ようこそプライベートルーム<b>#title#</b>へ。
-chatroom#:#private_room_entered_user#:#ユーザ<b>#user#</b>はプライベートルームへ入室しています<b>#title#</b>。
-chatroom#:#private_room_left#:#ユーザ<b>#user#</b>はプライベートルームから退室しています<b>#title#</b>。
 chatroom#:#public_chat_created#:#パブリックチャットルームがリポジトリへ追加されました。
 chatroom#:#scope#:#部屋/プライベートルーム
 chatroom#:#select_custom_username#:#カスタムユーザ名を選択
@@ -4756,6 +4748,7 @@ common#:#msg_perm_adopted_from_itself#:#現在の役割/役割テンプレート
 common#:#msg_removed#:#オブジェクトはシステムから削除されました。
 common#:#msg_role_reserved_prefix#:#拡張子 'il_'は自動的に作成される役割として予約されています。他の名前を選択してください。
 common#:#msg_roleassignment_changed#:#役割変更
+common#:#msg_security_svg_rejected#:#File upload removed due to security reasons. The SVG file contains possibily malicious code.###16 02 2024 new variable
 common#:#msg_sysrole_not_deletable#:#システム役割は削除できません
 common#:#msg_sysrole_not_editable#:#システム役割のアクセス権限設定は変更されません。システムの役割はすべてのオブジェクトと機能に割り当てられたユーザへ制限なしのアクセスをすべて許可します。
 common#:#msg_to_many_files#:#選択ファイル数が多すぎます、許容ファイル数:
@@ -7333,6 +7326,7 @@ copg#:#copg_cron_keep_entries#:#Keep Minimum###19 08 2022 new variable
 copg#:#copg_cron_keep_entries_info#:#This number is the minimum of entries that will be kept, even if they are older than the deletion period.###19 08 2022 new variable
 copg#:#copg_days#:#Days###19 08 2022 new variable
 copg#:#copg_details#:#詳細
+copg#:#copg_edit_iframe_title#:#Text Editing of Page Editor###16 02 2024 new variable
 copg#:#copg_entries#:#Entries###19 08 2022 new variable
 copg#:#copg_error#:#Error
 copg#:#copg_error_occured_modal#:#ページ処理中にエラー発生。保存した状態前に戻るには"ページの再読み込み"を押す。
@@ -7342,11 +7336,14 @@ copg#:#copg_history_cleanup_cron_info#:#Removes older entries from the page hist
 copg#:#copg_list_item_style#:#List Item###12 12 2023 new variable
 copg#:#copg_list_style#:#List###12 12 2023 new variable
 copg#:#copg_list_styles#:#List Formats###12 12 2023 new variable
+copg#:#copg_more_character_formats#:#More Styles for Characters###16 02 2024 new variable
 copg#:#copg_page_element_not_found#:#ページ要素が見つかりません。
 copg#:#copg_page_type_stys#:#ページをレイアウト
+copg#:#copg_par_format_selection#:#Paragraph Format Selection###16 02 2024 new variable
 copg#:#copg_pc_mob_does_not_exist#:#This media object does not exist.###12 12 2023 new variable
 copg#:#copg_questions_not_supported_here#:#問題はこのコンテキスト内でサポートされません。
 copg#:#copg_reload_page#:#ページの再読み込み
+copg#:#copg_remove_formats#:#Remove Formatting###16 02 2024 new variable
 copg#:#copg_sec_link_info#:#全セクションのリンクを設定するには他のインタラクティブ要素がセクション内に含まれない事を確認して下さい。そうでないと動作が不安定になります。
 copg#:#copg_snippet_cannot_be_edited#:#これは定義済みコンテンツスニペットなのでここでは編集できません。
 copg#:#copg_x_minutes#:#%s minute(s)###19 08 2022 new variable
@@ -8450,6 +8447,7 @@ dateplaner#:#cal_weekly#:#毎週
 dateplaner#:#cal_where#:#ロケーション
 dateplaner#:#cal_year_s#:#年
 dateplaner#:#cal_yearly#:#年間
+dateplaner#:#consultation_hours_block_title#:#Consultation Hours###16 02 2024 new variable
 dateplaner#:#created#:#作成済
 dateplaner#:#crs_cal_activation_end#:#コースの終了
 dateplaner#:#crs_cal_activation_start#:#コースの開始
@@ -9716,6 +9714,8 @@ file#:#preview_persisting_info#:#Generated preview images will be stored by ILIA
 file#:#publish_before_delete#:#Version(s) could not be deleted because an unpublished draft exists.###12 12 2023 new variable
 file#:#replace_file_info#:#全ての旧バージョンファイルは削除されます。
 file#:#resource_id#:#リソースID
+file#:#service_settings#:#Additional Features###16 02 2024 new variable
+file#:#service_settings_saved#:#Saved###16 02 2024 new variable
 file#:#set_license_for_all_files#:#Set License for All Files###12 12 2023 new variable
 file#:#show_amount_of_downloads#:#Show Number of Downloads###12 12 2023 new variable
 file#:#show_amount_of_downloads_info#:#Display the number of times a file object has been downloaded on its 'Info' page.###12 12 2023 new variable
@@ -11352,8 +11352,8 @@ mail#:#mail_second_email#:#第2メールアドレス
 mail#:#mail_sel_label#:#受信者を選択
 mail#:#mail_sel_users#:#選択したユーザへメールを送信
 mail#:#mail_select_attachment#:#ダウンロード用の添付ファイルを選択してください。
-mail#:#mail_select_course#:#コースを一つは選択してください。
-mail#:#mail_select_group#:#グループを一つは選んでください。
+mail#:#mail_select_crs#:#Please select at least one course.###16 02 2024 new variable
+mail#:#mail_select_grp#:#Please select at least one group.###16 02 2024 new variable
 mail#:#mail_select_one_entry#:#エントリーを一つ選択しなければなりません
 mail#:#mail_select_one_file#:#ファイルを一つ選択しなければなりません
 mail#:#mail_send_html#:#HTMLフレーム
@@ -12941,6 +12941,7 @@ poll#:#poll_activation_online_info#:#オフラインの場合は管理者のみ�
 poll#:#poll_add#:#投票を追加
 poll#:#poll_anonymous_warning#:#投票結果の中にあなたの名前はありません。
 poll#:#poll_answer#:#回答
+poll#:#poll_answer_selected_alt_text#:#Selected###16 02 2024 new variable
 poll#:#poll_answers#:#予想回答
 poll#:#poll_barchart#:#棒グラフ
 poll#:#poll_block_message_already_voted#:#この投票にすでに投票済です。
@@ -13030,6 +13031,7 @@ prg#:#edit_participants#:#メンバーを編集
 prg#:#error_updating_deadline#:#締切更新時のエラー
 prg#:#error_updating_expire_date#:#期日更新時のエラー
 prg#:#export_memberships#:#Export Assignments###12 12 2023 new variable
+prg#:#foreign_assignment#:#not top node###16 02 2024 new variable
 prg#:#form_msg_file_wrong_file_type#:#ファイルタイプが間違っています。
 prg#:#header_remove_certificate#:#Do you really want to remove the certificate for the selected Users?###12 12 2023 new variable
 prg#:#header_update_certificate#:#Do you really want to update the certificate?###12 12 2023 new variable
@@ -13044,6 +13046,7 @@ prg#:#label_role#:#役割名
 prg#:#last_edited#:#最終更新日
 prg#:#last_edited_by#:#最終更新者
 prg#:#mail_assignments#:#割当てたユーザへメール
+prg#:#mails_foreign_assignment_failed#:#Selected assignments are not in current context. Mails should be sent from Study Programme's top node.###16 02 2024 new variable
 prg#:#manage_assignments#:#割当てを管理
 prg#:#membership_source_id#:#Id
 prg#:#membership_source_id_byline_objid#:#<b>object-id</b>を使用して下さい。
@@ -13578,6 +13581,8 @@ pwsp#:#pwsp_enable_personal_resources#:#パーソナルリソースを有効化
 pwsp#:#pwsp_enable_wsp_blogs#:#ブログを有効化
 pwsp#:#pwsp_enable_wsp_files#:#ファイルを有効化
 pwsp#:#pwsp_enable_wsp_links#:#リンクを有効化
+qpl#:#qpl_filter_commented_exclude#:#Questions without comments###16 02 2024 new variable
+qpl#:#qpl_filter_commented_only#:#Questions with comments###16 02 2024 new variable
 qpl#:#qpl_page_type_qfbg#:#全般フィードバック
 qpl#:#qpl_page_type_qfbs#:#特別フィードバック
 qpl#:#qpl_page_type_qht#:#ヒント
@@ -15486,8 +15491,11 @@ style#:#color_changed_to#:#to:
 style#:#color_reset#:#アイコンの色はリセットされました。キャッシング表示されてから変更になるかもしれない事に要注意。ブラウザーキャッシュをクリアする必要があるかもしれません
 style#:#color_update#:#アイコンの色は更新されました。キャッシング表示されてから変更になるかもしれない事に要注意。ブラウザーキャッシュをクリアする必要があるかもしれません。
 style#:#default_style_set_to#:#Defaultのシステムスタイルを設定先:
+style#:#dir_changed_to#:#The directory has been moved to:###16 02 2024 new variable
 style#:#dir_copied_from#:#ディレクトリのコピー元:
+style#:#dir_created#:#The following directory has been created:###16 02 2024 new variable
 style#:#dir_deleted#:#次のディレクトリは削除されました:
+style#:#dir_preserved_backup#:#Preserved Backup folder:###16 02 2024 new variable
 style#:#dir_preserved_linked#:#保存したリンク:
 style#:#directory_created#:#作成したディレクトリ:
 style#:#documentation#:#ドキュメンテーション
@@ -15513,6 +15521,7 @@ style#:#in_main_scss_file#:#is not imported inside the system styles main scss f
 style#:#invalid_scss_path#:#The provided sass/scss path is not valid or the webserver does not have the proper permission to read and execute sass/scss. Sass/scss (or the file linked to by the file pointed to by the scss path) has to be readabele and executable by your webserver.###12 12 2023 new variable
 style#:#ks_documentation_of_style#:#スタイルの一切合切(Kitchen Sink)ドキュメント
 style#:#ks_documentation_of_substyle#:#サブスタイルの一切合切(Kitchen Sink)ドキュメント
+style#:#main_scss_created#:#Main SCSS has been created:###16 02 2024 new variable
 style#:#manage_system_styles#:#システムスタイルを管理
 style#:#msg_sub_style_created#:#サブスタイルが作成されました。
 style#:#msg_sys_style_created#:#新しいシステムスタイルは正しく作成されました。
@@ -15539,6 +15548,8 @@ style#:#scss_can_not_be_modified#:#Scss cannot be modified###12 12 2023 new vari
 style#:#scss_compile_failed#:#Something in the compilation of the scss file went wrong. Is scss installed and the path set correctly in ILIAS setup? Original error:###12 12 2023 new variable
 style#:#scss_file_reset#:#The scss variables have been reset. Important: Note that caching might prevent your changes from being shown. You might need to clear your browsers cache.###12 12 2023 new variable
 style#:#scss_file_updated#:#The scss variables have been updated. Important: Note that caching might prevent your changes from being shown. You might need to clear your browsers cache.###12 12 2023 new variable
+style#:#scss_folder_reset#:#Scss folder reset###16 02 2024 new variable
+style#:#scss_folder_updated#:#Scss folder has been updated###16 02 2024 new variable
 style#:#scss_scss_installation_detected#:#Scss/sass installation detected at:###12 12 2023 new variable
 style#:#scss_variable_empty#:#This variable was empty. The default from your settings files has been set. Please check if this is correct before compiling.###12 12 2023 new variable
 style#:#scss_variables_empty_might_have_changed#:#There are empty variables in your form. You might have changed your settings files since loading this form. The defaults from the settings files have been set for the empty fields. Please check those marked empty fields before compiling and saving the values to your settings files.###12 12 2023 new variable
@@ -15779,6 +15790,7 @@ style#:#sty_type_ca_icont#:#カルーセルアイテム内容
 style#:#sty_type_ca_ihead#:#カルーセルアイテムヘッダー
 style#:#sty_type_code_block#:#Code (Block)
 style#:#sty_type_code_inline#:#Code (Inline)
+style#:#sty_type_em#:#Emphasised###16 02 2024 new variable
 style#:#sty_type_flist#:#File List
 style#:#sty_type_flist_a#:#File List Item Link
 style#:#sty_type_flist_cont#:#File List Container
@@ -15850,6 +15862,7 @@ style#:#sty_type_sco_keyw#:#SCO キーワード
 style#:#sty_type_sco_obj#:#SCO 目標
 style#:#sty_type_sco_title#:#SCO タイトル
 style#:#sty_type_section#:#セクション
+style#:#sty_type_strong#:#Strong###16 02 2024 new variable
 style#:#sty_type_sub#:#下付き
 style#:#sty_type_sup#:#上付き
 style#:#sty_type_table#:#Table
@@ -16824,6 +16837,8 @@ trac#:#trac_filter_hidden#:#非表示
 trac#:#trac_first_access#:#初回アクセス日時
 trac#:#trac_first_and_last_access#:#初回と最終アクセス
 trac#:#trac_frm_contribution_num_postings#:#Minimum number of Postings###19 08 2022 new variable
+trac#:#trac_frm_contribution_num_postings_info_p#:#%s: %s Postings###16 02 2024 new variable
+trac#:#trac_frm_contribution_num_postings_info_s#:#%s: %s Posting###16 02 2024 new variable
 trac#:#trac_group_materials#:#オプション教材でグループを作成
 trac#:#trac_group_materials_save#:#必須教材数を保存
 trac#:#trac_grouped_material_obligatory_err#:#教材数はゼロ以上でかつグループの教材数よりも小さくする必要があります。
@@ -17050,9 +17065,7 @@ ui#:#ui_link_label#:#Label###19 08 2022 new variable
 ui#:#ui_link_url#:#URL###19 08 2022 new variable
 ui#:#ui_md_input_edit#:#Edit###12 12 2023 new variable
 ui#:#ui_md_input_view#:#View###12 12 2023 new variable
-ui#:#ui_numeric_only#:#数字全部を挿入してください。
 ui#:#ui_table_no_records#:#No records###12 12 2023 new variable
-ui#:#ui_tag_required#:#タグを一つは挿入してください。
 ui#:#ui_transcription#:#Transcript###19 08 2022 new variable
 user#:#all_roles_has_starting_point#:#全ての役割は開始位置があります。
 user#:#back_to_starting_points_list#:#開始位置へ戻る
@@ -17212,6 +17225,8 @@ validation#:#not_max_length#:#入力のテキスト長は'%s'以上あります�
 validation#:#not_min_length#:#入力の長さはf %dで最小長%dなので失敗します。
 validation#:#not_numeric#:#%s' は数字ではありません。
 validation#:#not_numeric_empty_string#:#入力が数字ではありません。
+validation#:#numeric_only#:#Please insert a whole number.###16 02 2024 new variable
+validation#:#tag_required#:#Please insert at least one tag.###16 02 2024 new variable
 violation#:#not_a_string#:#Given value is not a String###19 08 2022 new variable
 webr#:#invalid_links_tbl#:#不正なリンク
 webr#:#webr_active#:#アクティブ

@@ -2507,6 +2507,7 @@ book#:#book_cal_entry#:#Reserva de:
 book#:#book_confirm_booking#:#Confirmar reserva
 book#:#book_confirm_booking_no_schedule#:#¿Está seguro de que quiere reservar el siguiente recurso?
 book#:#book_confirm_booking_schedule_number_of_objects#:#Confirmación de la reserva
+book#:#book_confirm_booking_schedule_number_of_objects_info#:#Please enter the number of items that you would like to book.###16 02 2024 new variable
 book#:#book_confirm_cancel#:#¿Está seguro que desea cancelar la siguiente reserva?
 book#:#book_confirm_cancel_aggregation#:#Número de cancelacinones.
 book#:#book_confirm_delete#:#¿Está seguro de querer eliminar los siguientes recursos?
@@ -2959,8 +2960,6 @@ chatroom#:#client_chatserver_connection#:#Conexión de cliente a servidor
 chatroom#:#client_proxy_info#:#Si el servidor no es accesible con el puerto y la dirección IP predeterminados, es posible configurar una dirección URL personalizada para la conexión de cliente a servidor.
 chatroom#:#connection_url_info#:#Inserte una dirección URL para la conexión del servidor.
 chatroom#:#custom_username#:#Nombre de usuario personalizado
-chatroom#:#delete_private_room#:#Borrar sala privada
-chatroom#:#delete_private_room_question#:#¿Confirma la eliminación de la sala privada?
 chatroom#:#dhparam#:#Parámetro Diffie-Hellman
 chatroom#:#display_past_msgs#:#Número de mensajes anteriores
 chatroom#:#duration_from#:#Desde
@@ -2982,9 +2981,6 @@ chatroom#:#invite_username#:#Nombre de usuario
 chatroom#:#key#:#Clave
 chatroom#:#kick_question#:#¿De verdad quiere expulsar al usuario de la sala actual?
 chatroom#:#kicked#:#Le han expulsado de esta sala de chat
-chatroom#:#kicked_from_private_room#:#Has sido expulsado de la sala privada <b>
-chatroom#:#leave_private_room#:#Abandonar sala privada
-chatroom#:#left_private_room#:#Sala privada abandonada
 chatroom#:#lost_connection#:#La conexión al servidor de chat fue interrumpida
 chatroom#:#main#:#Sala principal
 chatroom#:#messages#:#Messages###12 12 2023 new variable
@@ -3001,10 +2997,6 @@ chatroom#:#osc_noti_title#:#New Chat Message###07 02 2020 new variable
 chatroom#:#period#:#Periodo
 chatroom#:#permissions#:#Permisos
 chatroom#:#preferred_chatname#:#Preferred Name###29 07 2022 new variable
-chatroom#:#private_room_closed#:#La sala de chat <b>
-chatroom#:#private_room_entered#:#Bienvenido a la sala privada <b>
-chatroom#:#private_room_entered_user#:#El usuario <b>
-chatroom#:#private_room_left#:#El usuario <b>
 chatroom#:#public_chat_created#:#La sala pública ha sido añadida al repositorio
 chatroom#:#scope#:#Sala/Sala privada
 chatroom#:#select_custom_username#:#Seleccionar nombre de usuario personalizado
@@ -4758,6 +4750,7 @@ common#:#msg_perm_adopted_from_itself#:#No puede adoptar configuraciones de perm
 common#:#msg_removed#:#Objeto(s) eliminado(s) del sistema
 common#:#msg_role_reserved_prefix#:#El prefijo 'il_' está reservado para roles autogenerados. Por favor escoja otro nombre
 common#:#msg_roleassignment_changed#:#Asignación de Rol modificada
+common#:#msg_security_svg_rejected#:#File upload removed due to security reasons. The SVG file contains possibily malicious code.###16 02 2024 new variable
 common#:#msg_sysrole_not_deletable#:#El Rol de sistema no puede ser eliminado
 common#:#msg_sysrole_not_editable#:#La configuración de permisos del rol de sistema no puede ser modificada. El rol de sistema permite a todos sus usuarios acceso ilimitado a todos los objetos y funciones
 common#:#msg_to_many_files#:#Too many files selected, allowed amount of files:###29 07 2022 new variable
@@ -7335,6 +7328,7 @@ copg#:#copg_cron_keep_entries#:#Keep Minimum###29 07 2022 new variable
 copg#:#copg_cron_keep_entries_info#:#This number is the minimum of entries that will be kept, even if they are older than the deletion period.###29 07 2022 new variable
 copg#:#copg_days#:#Days###29 07 2022 new variable
 copg#:#copg_details#:#Details###29 07 2022 new variable
+copg#:#copg_edit_iframe_title#:#Text Editing of Page Editor###16 02 2024 new variable
 copg#:#copg_entries#:#Entries###29 07 2022 new variable
 copg#:#copg_error#:#Error###29 07 2022 new variable
 copg#:#copg_error_occured_modal#:#An error occured while processing the page. Hit "Reload Page" to return to the previously saved state.###29 07 2022 new variable
@@ -7344,11 +7338,14 @@ copg#:#copg_history_cleanup_cron_info#:#Removes older entries from the page hist
 copg#:#copg_list_item_style#:#List Item###12 12 2023 new variable
 copg#:#copg_list_style#:#List###12 12 2023 new variable
 copg#:#copg_list_styles#:#List Formats###12 12 2023 new variable
+copg#:#copg_more_character_formats#:#More Styles for Characters###16 02 2024 new variable
 copg#:#copg_page_element_not_found#:#Page element not found.###29 07 2022 new variable
 copg#:#copg_page_type_stys#:#Layout Page###29 07 2022 new variable
+copg#:#copg_par_format_selection#:#Paragraph Format Selection###16 02 2024 new variable
 copg#:#copg_pc_mob_does_not_exist#:#This media object does not exist.###12 12 2023 new variable
 copg#:#copg_questions_not_supported_here#:#En este contexto no se admiten preguntas.
 copg#:#copg_reload_page#:#Reload Page###29 07 2022 new variable
+copg#:#copg_remove_formats#:#Remove Formatting###16 02 2024 new variable
 copg#:#copg_sec_link_info#:#Si configura un enlace a toda la sección, asegúrese de que la sección no incluya otros elementos interactivos. De lo contrario, su comportamiento podría ser errático.
 copg#:#copg_snippet_cannot_be_edited#:#Este es un fragmento de contenido predefinido y no se puede editar aquí.
 copg#:#copg_x_minutes#:#%s minute(s)###29 07 2022 new variable
@@ -8452,6 +8449,7 @@ dateplaner#:#cal_weekly#:#Semanalmente
 dateplaner#:#cal_where#:#Localización
 dateplaner#:#cal_year_s#:#A&ntilde;o(s)
 dateplaner#:#cal_yearly#:#Anualmente
+dateplaner#:#consultation_hours_block_title#:#Consultation Hours###16 02 2024 new variable
 dateplaner#:#created#:#Creada
 dateplaner#:#crs_cal_activation_end#:#Fin de curso
 dateplaner#:#crs_cal_activation_start#:#Comienzo de curso
@@ -9718,6 +9716,8 @@ file#:#preview_persisting_info#:#Generated preview images will be stored by ILIA
 file#:#publish_before_delete#:#Version(s) could not be deleted because an unpublished draft exists.###12 12 2023 new variable
 file#:#replace_file_info#:#Todas las versiones del Archivo serán borradas
 file#:#resource_id#:#Resource ID###29 07 2022 new variable
+file#:#service_settings#:#Additional Features###16 02 2024 new variable
+file#:#service_settings_saved#:#Saved###16 02 2024 new variable
 file#:#set_license_for_all_files#:#Set License for All Files###12 12 2023 new variable
 file#:#show_amount_of_downloads#:#Show Number of Downloads###12 12 2023 new variable
 file#:#show_amount_of_downloads_info#:#Display the number of times a file object has been downloaded on its 'Info' page.###12 12 2023 new variable
@@ -11354,8 +11354,8 @@ mail#:#mail_second_email#:#Segunda dirección de correo electrónico
 mail#:#mail_sel_label#:#Choose the Recipients###29 07 2022 new variable
 mail#:#mail_sel_users#:#Enviar correo a los usuarios seleccionados
 mail#:#mail_select_attachment#:#Por favor seleccione un adjunto para descargar.
-mail#:#mail_select_course#:#Por favor seleccione al menos un curso.
-mail#:#mail_select_group#:#Por favor seleccione al menos un grupo.
+mail#:#mail_select_crs#:#Please select at least one course.###16 02 2024 new variable
+mail#:#mail_select_grp#:#Please select at least one group.###16 02 2024 new variable
 mail#:#mail_select_one_entry#:#Tiene que seleccionar una entrada
 mail#:#mail_select_one_file#:#Tiene que seleccionar un archivo
 mail#:#mail_send_html#:#Marco HTML para correos externos
@@ -12943,6 +12943,7 @@ poll#:#poll_activation_online_info#:#Se se desactiva, solo los administradores p
 poll#:#poll_add#:#Añadir Votación
 poll#:#poll_anonymous_warning#:#Su nombre no es visible en los resultados de la votación
 poll#:#poll_answer#:#Respuesta
+poll#:#poll_answer_selected_alt_text#:#Selected###16 02 2024 new variable
 poll#:#poll_answers#:#Posibles respuestas
 poll#:#poll_barchart#:#Diagrama de barras
 poll#:#poll_block_message_already_voted#:#Usted ya ha votado en esta votación
@@ -13032,6 +13033,7 @@ prg#:#edit_participants#:#Edit Members###07 02 2020 new variable
 prg#:#error_updating_deadline#:#Error during updating deadline.###07 02 2020 new variable
 prg#:#error_updating_expire_date#:#Error during updating expire date.###07 02 2020 new variable
 prg#:#export_memberships#:#Export Assignments###12 12 2023 new variable
+prg#:#foreign_assignment#:#not top node###16 02 2024 new variable
 prg#:#form_msg_file_wrong_file_type#:#Tipo de archivo erróneo.
 prg#:#header_remove_certificate#:#Do you really want to remove the certificate for the selected Users?###12 12 2023 new variable
 prg#:#header_update_certificate#:#Do you really want to update the certificate?###12 12 2023 new variable
@@ -13046,6 +13048,7 @@ prg#:#label_role#:#Role Name###07 02 2020 new variable
 prg#:#last_edited#:#Last edited###07 02 2020 new variable
 prg#:#last_edited_by#:#Last Editor###07 02 2020 new variable
 prg#:#mail_assignments#:#Mail to assigned Users###29 07 2022 new variable
+prg#:#mails_foreign_assignment_failed#:#Selected assignments are not in current context. Mails should be sent from Study Programme's top node.###16 02 2024 new variable
 prg#:#manage_assignments#:#Manage Assignments###29 07 2022 new variable
 prg#:#membership_source_id#:#Id###07 02 2020 new variable
 prg#:#membership_source_id_byline_objid#:#Please use the <b>object-id</b>###07 02 2020 new variable
@@ -13580,6 +13583,8 @@ pwsp#:#pwsp_enable_personal_resources#:#Enable personal resources###07 02 2020 n
 pwsp#:#pwsp_enable_wsp_blogs#:#Enable Blogs###07 02 2020 new variable
 pwsp#:#pwsp_enable_wsp_files#:#Enable Files###07 02 2020 new variable
 pwsp#:#pwsp_enable_wsp_links#:#Enable Links###07 02 2020 new variable
+qpl#:#qpl_filter_commented_exclude#:#Questions without comments###16 02 2024 new variable
+qpl#:#qpl_filter_commented_only#:#Questions with comments###16 02 2024 new variable
 qpl#:#qpl_page_type_qfbg#:#General Feedback###29 07 2022 new variable
 qpl#:#qpl_page_type_qfbs#:#Special Feedback###29 07 2022 new variable
 qpl#:#qpl_page_type_qht#:#Hint###29 07 2022 new variable
@@ -15488,8 +15493,11 @@ style#:#color_changed_to#:#a:
 style#:#color_reset#:#Se han restablecido los colores de los iconos. Importante: Tenga en cuenta que el almacenamiento en caché puede evitar que se muestren los cambios. Es posible que necesite borrar la caché de sus navegadores.
 style#:#color_update#:#Se han actualizado los colores de los iconos. Importante: Tenga en cuenta que el almacenamiento en caché puede evitar que se muestren los cambios. Es posible que necesite borrar la caché de sus navegadores.
 style#:#default_style_set_to#:#El estilo de sistema predeterminado se ha establecido en:
+style#:#dir_changed_to#:#The directory has been moved to:###16 02 2024 new variable
 style#:#dir_copied_from#:#Se ha copiado el directorio desde:
+style#:#dir_created#:#The following directory has been created:###16 02 2024 new variable
 style#:#dir_deleted#:#Se ha eliminado el siguiente directorio:
+style#:#dir_preserved_backup#:#Preserved Backup folder:###16 02 2024 new variable
 style#:#dir_preserved_linked#:#Enlace preservado:
 style#:#directory_created#:#Directorio creado:
 style#:#documentation#:#Documentación
@@ -15515,6 +15523,7 @@ style#:#in_main_scss_file#:#is not imported inside the system styles main scss f
 style#:#invalid_scss_path#:#The provided sass/scss path is not valid or the webserver does not have the proper permission to read and execute sass/scss. Sass/scss (or the file linked to by the file pointed to by the scss path) has to be readabele and executable by your webserver.###12 12 2023 new variable
 style#:#ks_documentation_of_style#:#Documentación de Kitchen Sink de estilo:
 style#:#ks_documentation_of_substyle#:#Documentación de Kitchen Sink de subestilo:
+style#:#main_scss_created#:#Main SCSS has been created:###16 02 2024 new variable
 style#:#manage_system_styles#:#Administrar estilos del sistema
 style#:#msg_sub_style_created#:#Se ha creado el subestilo.
 style#:#msg_sys_style_created#:#El nuevo estilo de sistema se ha creado correctamente.
@@ -15541,6 +15550,8 @@ style#:#scss_can_not_be_modified#:#Scss cannot be modified###12 12 2023 new vari
 style#:#scss_compile_failed#:#Something in the compilation of the scss file went wrong. Is scss installed and the path set correctly in ILIAS setup? Original error:###12 12 2023 new variable
 style#:#scss_file_reset#:#The scss variables have been reset. Important: Note that caching might prevent your changes from being shown. You might need to clear your browsers cache.###12 12 2023 new variable
 style#:#scss_file_updated#:#The scss variables have been updated. Important: Note that caching might prevent your changes from being shown. You might need to clear your browsers cache.###12 12 2023 new variable
+style#:#scss_folder_reset#:#Scss folder reset###16 02 2024 new variable
+style#:#scss_folder_updated#:#Scss folder has been updated###16 02 2024 new variable
 style#:#scss_scss_installation_detected#:#Scss/sass installation detected at:###12 12 2023 new variable
 style#:#scss_variable_empty#:#This variable was empty. The default from your settings files has been set. Please check if this is correct before compiling.###12 12 2023 new variable
 style#:#scss_variables_empty_might_have_changed#:#There are empty variables in your form. You might have changed your settings files since loading this form. The defaults from the settings files have been set for the empty fields. Please check those marked empty fields before compiling and saving the values to your settings files.###12 12 2023 new variable
@@ -15781,6 +15792,7 @@ style#:#sty_type_ca_icont#:#Elemento de contenido de Carrusel
 style#:#sty_type_ca_ihead#:#Elemento de encabezado de Carrusel
 style#:#sty_type_code_block#:#Code (Block)###07 02 2020 new variable
 style#:#sty_type_code_inline#:#Code (Inline)###07 02 2020 new variable
+style#:#sty_type_em#:#Emphasised###16 02 2024 new variable
 style#:#sty_type_flist#:#Lista de Archivos
 style#:#sty_type_flist_a#:#Enlace a elemento en lista de Archivos
 style#:#sty_type_flist_cont#:#Contenedor en lista de Archivos
@@ -15852,6 +15864,7 @@ style#:#sty_type_sco_keyw#:#Palabras clave SCO
 style#:#sty_type_sco_obj#:#Objetivo SCO
 style#:#sty_type_sco_title#:#Título SCO
 style#:#sty_type_section#:#Sección
+style#:#sty_type_strong#:#Strong###16 02 2024 new variable
 style#:#sty_type_sub#:#Subíndice
 style#:#sty_type_sup#:#Súperindice
 style#:#sty_type_table#:#Tabla
@@ -16826,6 +16839,8 @@ trac#:#trac_filter_hidden#:#Oculto:
 trac#:#trac_first_access#:#Primer acceso
 trac#:#trac_first_and_last_access#:#Primer y último acceso
 trac#:#trac_frm_contribution_num_postings#:#Minimum number of Postings###29 07 2022 new variable
+trac#:#trac_frm_contribution_num_postings_info_p#:#%s: %s Postings###16 02 2024 new variable
+trac#:#trac_frm_contribution_num_postings_info_s#:#%s: %s Posting###16 02 2024 new variable
 trac#:#trac_group_materials#:#Agrupar materiales
 trac#:#trac_group_materials_save#:#Guardar número de materiales obligatorios
 trac#:#trac_grouped_material_obligatory_err#:#El número de materiales que deberá ser superado tiene que ser mayor que 0 y menor que el número de materiales de la agrupación
@@ -17052,9 +17067,7 @@ ui#:#ui_link_label#:#Label###29 07 2022 new variable
 ui#:#ui_link_url#:#URL###29 07 2022 new variable
 ui#:#ui_md_input_edit#:#Edit###12 12 2023 new variable
 ui#:#ui_md_input_view#:#View###12 12 2023 new variable
-ui#:#ui_numeric_only#:#Please insert a whole number.###29 07 2022 new variable
 ui#:#ui_table_no_records#:#No records###12 12 2023 new variable
-ui#:#ui_tag_required#:#Please insert at least one tag.###29 07 2022 new variable
 ui#:#ui_transcription#:#Transcript###29 07 2022 new variable
 user#:#all_roles_has_starting_point#:#Todos los roles tienen puntos de inicio
 user#:#back_to_starting_points_list#:#Volver a puntos de inicio
@@ -17214,6 +17227,8 @@ validation#:#not_max_length#:#The entered text has a length more than '%s'.
 validation#:#not_min_length#:#Your input has a length of %d and falls below the minimum length %d.
 validation#:#not_numeric#:#'%s' is not numeric.
 validation#:#not_numeric_empty_string#:#Your input is not numeric.###07 02 2020 new variable
+validation#:#numeric_only#:#Please insert a whole number.###16 02 2024 new variable
+validation#:#tag_required#:#Please insert at least one tag.###16 02 2024 new variable
 violation#:#not_a_string#:#Given value is not a String###29 07 2022 new variable
 webr#:#invalid_links_tbl#:#Enlaces inválidos
 webr#:#webr_active#:#Activo
