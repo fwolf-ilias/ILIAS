@@ -1,0 +1,1618 @@
+[
+    {
+        "id": 8932,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/Certificate\/class.ilCmiXapiPlaceholderDescription.php",
+        "line": 65,
+        "code": "$this->language->txt('cmix_cert_ph_object_title')",
+        "has_variable": false,
+        "variable": "cmix_cert_ph_object_title"
+    },
+    {
+        "id": 8934,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/Certificate\/class.ilCmiXapiPlaceholderDescription.php",
+        "line": 68,
+        "code": "$this->language->txt('cmix_cert_ph_object_description')",
+        "has_variable": false,
+        "variable": "cmix_cert_ph_object_description"
+    },
+    {
+        "id": 8936,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/Certificate\/class.ilCmiXapiPlaceholderDescription.php",
+        "line": 71,
+        "code": "$this->language->txt('cmix_cert_ph_reached_score')",
+        "has_variable": false,
+        "variable": "cmix_cert_ph_reached_score"
+    },
+    {
+        "id": 8938,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/Certificate\/class.ilCmiXapiPlaceholderDescription.php",
+        "line": 89,
+        "code": "$this->language->txt('certificate_ph_introduction')",
+        "has_variable": false,
+        "variable": "certificate_ph_introduction"
+    },
+    {
+        "id": 8940,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/Certificate\/class.ilCmiXapiPlaceholderValues.php",
+        "line": 111,
+        "code": "$this->language->txt('lti_cert_ph_object_title')",
+        "has_variable": false,
+        "variable": "lti_cert_ph_object_title"
+    },
+    {
+        "id": 8942,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/Certificate\/class.ilCmiXapiPlaceholderValues.php",
+        "line": 112,
+        "code": "$this->language->txt('lti_cert_ph_object_description')",
+        "has_variable": false,
+        "variable": "lti_cert_ph_object_description"
+    },
+    {
+        "id": 8944,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/Certificate\/class.ilCmiXapiPlaceholderValues.php",
+        "line": 114,
+        "code": "$this->language->txt('lti_cert_ph_mastery_score')",
+        "has_variable": false,
+        "variable": "lti_cert_ph_mastery_score"
+    },
+    {
+        "id": 8946,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/Certificate\/class.ilCmiXapiPlaceholderValues.php",
+        "line": 115,
+        "code": "$this->language->txt('lti_cert_ph_reached_score')",
+        "has_variable": false,
+        "variable": "lti_cert_ph_reached_score"
+    },
+    {
+        "id": 8948,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/Verification\/class.ilCmiXapiVerificationTableGUI.php",
+        "line": 40,
+        "code": "$this->lng->txt(\"title\")",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 8950,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/Verification\/class.ilCmiXapiVerificationTableGUI.php",
+        "line": 41,
+        "code": "$this->lng->txt(\"passed\")",
+        "has_variable": false,
+        "variable": "passed"
+    },
+    {
+        "id": 8952,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/Verification\/class.ilCmiXapiVerificationTableGUI.php",
+        "line": 42,
+        "code": "$this->lng->txt(\"action\")",
+        "has_variable": false,
+        "variable": "action"
+    },
+    {
+        "id": 8954,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/Verification\/class.ilCmiXapiVerificationTableGUI.php",
+        "line": 44,
+        "code": "$this->lng->txt(\"cmxv_create\")",
+        "has_variable": false,
+        "variable": "cmxv_create"
+    },
+    {
+        "id": 8956,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/Verification\/class.ilCmiXapiVerificationTableGUI.php",
+        "line": 45,
+        "code": "$this->lng->txt(\"cmxv_create_info\")",
+        "has_variable": false,
+        "variable": "cmxv_create_info"
+    },
+    {
+        "id": 8958,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/Verification\/class.ilCmiXapiVerificationTableGUI.php",
+        "line": 91,
+        "code": "$this->lng->txt(\"yes\")",
+        "has_variable": false,
+        "variable": "yes"
+    },
+    {
+        "id": 8960,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/Verification\/class.ilCmiXapiVerificationTableGUI.php",
+        "line": 92,
+        "code": "$this->lng->txt(\"no\")",
+        "has_variable": false,
+        "variable": "no"
+    },
+    {
+        "id": 8962,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/Verification\/class.ilCmiXapiVerificationTableGUI.php",
+        "line": 98,
+        "code": "$this->lng->txt(\"select\")",
+        "has_variable": false,
+        "variable": "select"
+    },
+    {
+        "id": 8964,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/Verification\/class.ilObjCmiXapiVerificationGUI.php",
+        "line": 47,
+        "code": "$this->lng->txt(\"back\")",
+        "has_variable": false,
+        "variable": "back"
+    },
+    {
+        "id": 8966,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/Verification\/class.ilObjCmiXapiVerificationGUI.php",
+        "line": 81,
+        "code": "$this->lng->txt('error_creating_certificate_pdf')",
+        "has_variable": false,
+        "variable": "error_creating_certificate_pdf"
+    },
+    {
+        "id": 8968,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/Verification\/class.ilObjCmiXapiVerificationGUI.php",
+        "line": 92,
+        "code": "$this->lng->txt(\"msg_failed\")",
+        "has_variable": false,
+        "variable": "msg_failed"
+    },
+    {
+        "id": 8970,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/Verification\/class.ilObjCmiXapiVerificationGUI.php",
+        "line": 95,
+        "code": "$this->lng->txt(\"select_one\")",
+        "has_variable": false,
+        "variable": "select_one"
+    },
+    {
+        "id": 8972,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/Verification\/class.ilObjCmiXapiVerificationGUI.php",
+        "line": 124,
+        "code": "$lng->txt(\"wsp_type_cmxv\")",
+        "has_variable": false,
+        "variable": "wsp_type_cmxv"
+    },
+    {
+        "id": 8974,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/Verification\/class.ilObjCmiXapiVerificationGUI.php",
+        "line": 130,
+        "code": "$lng->txt(\"url_not_found\")",
+        "has_variable": false,
+        "variable": "url_not_found"
+    },
+    {
+        "id": 8976,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/Verification\/class.ilObjCmiXapiVerificationGUI.php",
+        "line": 135,
+        "code": "$lng->txt(\"permission_denied\")",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 8978,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/Verification\/class.ilObjCmiXapiVerificationGUI.php",
+        "line": 157,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 8980,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/Verification\/class.ilObjCmiXapiVerificationListGUI.php",
+        "line": 57,
+        "code": "$lng->txt(\"type\")",
+        "has_variable": false,
+        "variable": "type"
+    },
+    {
+        "id": 8982,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/Verification\/class.ilObjCmiXapiVerificationListGUI.php",
+        "line": 58,
+        "code": "$lng->txt(\"wsp_list_cmxv\")",
+        "has_variable": false,
+        "variable": "wsp_list_cmxv"
+    },
+    {
+        "id": 8984,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilCmiXapiLrsTypesTableGUI.php",
+        "line": 95,
+        "code": "$this->lng->txt('edit')",
+        "has_variable": false,
+        "variable": "edit"
+    },
+    {
+        "id": 8986,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilCmiXapiLrsTypesTableGUI.php",
+        "line": 96,
+        "code": "$this->lng->txt('actions')",
+        "has_variable": false,
+        "variable": "actions"
+    },
+    {
+        "id": 8988,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilCmiXapiScoringTableGUI.php",
+        "line": 69,
+        "code": "$this->language->txt('toplist_top_n_results')",
+        "has_variable": false,
+        "variable": "toplist_top_n_results"
+    },
+    {
+        "id": 8990,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilCmiXapiScoringTableGUI.php",
+        "line": 72,
+        "code": "$this->language->txt('toplist_your_result')",
+        "has_variable": false,
+        "variable": "toplist_your_result"
+    },
+    {
+        "id": 8992,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilCmiXapiScoringTableGUI.php",
+        "line": 89,
+        "code": "$this->language->txt('toplist_col_rank')",
+        "has_variable": false,
+        "variable": "toplist_col_rank"
+    },
+    {
+        "id": 8994,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilCmiXapiScoringTableGUI.php",
+        "line": 90,
+        "code": "$this->language->txt('toplist_col_participant')",
+        "has_variable": false,
+        "variable": "toplist_col_participant"
+    },
+    {
+        "id": 8996,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilCmiXapiScoringTableGUI.php",
+        "line": 93,
+        "code": "$this->language->txt('toplist_col_achieved')",
+        "has_variable": false,
+        "variable": "toplist_col_achieved"
+    },
+    {
+        "id": 8998,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilCmiXapiScoringTableGUI.php",
+        "line": 97,
+        "code": "$this->language->txt('toplist_col_percentage')",
+        "has_variable": false,
+        "variable": "toplist_col_percentage"
+    },
+    {
+        "id": 9000,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilCmiXapiScoringTableGUI.php",
+        "line": 101,
+        "code": "$this->language->txt('toplist_col_wtime')",
+        "has_variable": false,
+        "variable": "toplist_col_wtime"
+    },
+    {
+        "id": 9002,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilCmiXapiScoringTableGUI.php",
+        "line": 150,
+        "code": "$this->language->txt('deleted_user')",
+        "has_variable": false,
+        "variable": "deleted_user"
+    },
+    {
+        "id": 9004,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilCmiXapiSettingsGUI.php",
+        "line": 65,
+        "code": "$this->language->txt(self::SUBTAB_ID_SETTINGS)",
+        "has_variable": true,
+        "variable": "SUBTAB_ID_SETTINGS"
+    },
+    {
+        "id": 9006,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilCmiXapiSettingsGUI.php",
+        "line": 74,
+        "code": "$this->language->txt(self::SUBTAB_ID_CERTIFICATE)",
+        "has_variable": true,
+        "variable": "SUBTAB_ID_CERTIFICATE"
+    },
+    {
+        "id": 9008,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilCmiXapiSettingsGUI.php",
+        "line": 115,
+        "code": "$this->language->txt('msg_obj_modified')",
+        "has_variable": false,
+        "variable": "msg_obj_modified"
+    },
+    {
+        "id": 9010,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilCmiXapiSettingsGUI.php",
+        "line": 138,
+        "code": "$this->language->txt('type')",
+        "has_variable": false,
+        "variable": "type"
+    },
+    {
+        "id": 9012,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilCmiXapiSettingsGUI.php",
+        "line": 139,
+        "code": "$this->language->txt('type_' . $this->object->getContentType())",
+        "has_variable": true,
+        "variable": "'type_' . $this->object->getContentType()"
+    },
+    {
+        "id": 9014,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilCmiXapiSettingsGUI.php",
+        "line": 142,
+        "code": "$this->language->txt('cmix_lrs_type')",
+        "has_variable": false,
+        "variable": "cmix_lrs_type"
+    },
+    {
+        "id": 9016,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilCmiXapiSettingsGUI.php",
+        "line": 146,
+        "code": "$this->language->txt('title')",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 9018,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilCmiXapiSettingsGUI.php",
+        "line": 150,
+        "code": "$this->language->txt('title_info')",
+        "has_variable": false,
+        "variable": "title_info"
+    },
+    {
+        "id": 9020,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilCmiXapiSettingsGUI.php",
+        "line": 154,
+        "code": "$this->language->txt('description')",
+        "has_variable": false,
+        "variable": "description"
+    },
+    {
+        "id": 9022,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilCmiXapiSettingsGUI.php",
+        "line": 155,
+        "code": "$this->language->txt('description_info')",
+        "has_variable": false,
+        "variable": "description_info"
+    },
+    {
+        "id": 9024,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilCmiXapiSettingsGUI.php",
+        "line": 161,
+        "code": "$this->language->txt('activity_id')",
+        "has_variable": false,
+        "variable": "activity_id"
+    },
+    {
+        "id": 9026,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilCmiXapiSettingsGUI.php",
+        "line": 166,
+        "code": "$this->language->txt('activity_id_info')",
+        "has_variable": false,
+        "variable": "activity_id_info"
+    },
+    {
+        "id": 9028,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilCmiXapiSettingsGUI.php",
+        "line": 170,
+        "code": "$this->language->txt('online')",
+        "has_variable": false,
+        "variable": "online"
+    },
+    {
+        "id": 9030,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilCmiXapiSettingsGUI.php",
+        "line": 171,
+        "code": "$this->language->txt(\"online_info\")",
+        "has_variable": false,
+        "variable": "online_info"
+    },
+    {
+        "id": 9032,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilCmiXapiSettingsGUI.php",
+        "line": 178,
+        "code": "$this->language->txt('conf_keep_lp')",
+        "has_variable": false,
+        "variable": "conf_keep_lp"
+    },
+    {
+        "id": 9034,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilCmiXapiSettingsGUI.php",
+        "line": 179,
+        "code": "$this->language->txt('conf_keep_lp_info')",
+        "has_variable": false,
+        "variable": "conf_keep_lp_info"
+    },
+    {
+        "id": 9036,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilCmiXapiSettingsGUI.php",
+        "line": 188,
+        "code": "$this->language->txt(\"obj_presentation\")",
+        "has_variable": false,
+        "variable": "obj_presentation"
+    },
+    {
+        "id": 9038,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilCmiXapiSettingsGUI.php",
+        "line": 196,
+        "code": "$this->language->txt(\"launch_options\")",
+        "has_variable": false,
+        "variable": "launch_options"
+    },
+    {
+        "id": 9040,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilCmiXapiSettingsGUI.php",
+        "line": 200,
+        "code": "$this->language->txt('launch_url')",
+        "has_variable": false,
+        "variable": "launch_url"
+    },
+    {
+        "id": 9042,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilCmiXapiSettingsGUI.php",
+        "line": 204,
+        "code": "$this->language->txt('launch_url_info')",
+        "has_variable": false,
+        "variable": "launch_url_info"
+    },
+    {
+        "id": 9044,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilCmiXapiSettingsGUI.php",
+        "line": 210,
+        "code": "$this->language->txt('use_fetch')",
+        "has_variable": false,
+        "variable": "use_fetch"
+    },
+    {
+        "id": 9046,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilCmiXapiSettingsGUI.php",
+        "line": 211,
+        "code": "$this->language->txt(\"use_fetch_info\")",
+        "has_variable": false,
+        "variable": "use_fetch_info"
+    },
+    {
+        "id": 9048,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilCmiXapiSettingsGUI.php",
+        "line": 220,
+        "code": "$this->language->txt('launch_options')",
+        "has_variable": false,
+        "variable": "launch_options"
+    },
+    {
+        "id": 9050,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilCmiXapiSettingsGUI.php",
+        "line": 223,
+        "code": "$this->language->txt('conf_own_window')",
+        "has_variable": false,
+        "variable": "conf_own_window"
+    },
+    {
+        "id": 9052,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilCmiXapiSettingsGUI.php",
+        "line": 224,
+        "code": "$this->language->txt('conf_own_window_info')",
+        "has_variable": false,
+        "variable": "conf_own_window_info"
+    },
+    {
+        "id": 9054,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilCmiXapiSettingsGUI.php",
+        "line": 226,
+        "code": "$this->language->txt('conf_new_window')",
+        "has_variable": false,
+        "variable": "conf_new_window"
+    },
+    {
+        "id": 9056,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilCmiXapiSettingsGUI.php",
+        "line": 227,
+        "code": "$this->language->txt('conf_new_window_info')",
+        "has_variable": false,
+        "variable": "conf_new_window_info"
+    },
+    {
+        "id": 9058,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilCmiXapiSettingsGUI.php",
+        "line": 231,
+        "code": "$this->language->txt('conf_launch_mode')",
+        "has_variable": false,
+        "variable": "conf_launch_mode"
+    },
+    {
+        "id": 9060,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilCmiXapiSettingsGUI.php",
+        "line": 234,
+        "code": "$this->language->txt('conf_launch_mode_normal')",
+        "has_variable": false,
+        "variable": "conf_launch_mode_normal"
+    },
+    {
+        "id": 9062,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilCmiXapiSettingsGUI.php",
+        "line": 235,
+        "code": "$this->language->txt('conf_launch_mode_normal_info')",
+        "has_variable": false,
+        "variable": "conf_launch_mode_normal_info"
+    },
+    {
+        "id": 9064,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilCmiXapiSettingsGUI.php",
+        "line": 240,
+        "code": "$this->language->txt('conf_launch_mode_browse')",
+        "has_variable": false,
+        "variable": "conf_launch_mode_browse"
+    },
+    {
+        "id": 9066,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilCmiXapiSettingsGUI.php",
+        "line": 241,
+        "code": "$this->language->txt('conf_launch_mode_browse_info')",
+        "has_variable": false,
+        "variable": "conf_launch_mode_browse_info"
+    },
+    {
+        "id": 9068,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilCmiXapiSettingsGUI.php",
+        "line": 243,
+        "code": "$this->language->txt('conf_launch_mode_review')",
+        "has_variable": false,
+        "variable": "conf_launch_mode_review"
+    },
+    {
+        "id": 9070,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilCmiXapiSettingsGUI.php",
+        "line": 244,
+        "code": "$this->language->txt('conf_launch_mode_review_info')",
+        "has_variable": false,
+        "variable": "conf_launch_mode_review_info"
+    },
+    {
+        "id": 9072,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilCmiXapiSettingsGUI.php",
+        "line": 252,
+        "code": "$this->language->txt('conf_switch_to_review')",
+        "has_variable": false,
+        "variable": "conf_switch_to_review"
+    },
+    {
+        "id": 9074,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilCmiXapiSettingsGUI.php",
+        "line": 253,
+        "code": "$this->language->txt(\"conf_switch_to_review_info\")",
+        "has_variable": false,
+        "variable": "conf_switch_to_review_info"
+    },
+    {
+        "id": 9076,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilCmiXapiSettingsGUI.php",
+        "line": 260,
+        "code": "$this->language->txt('conf_mastery_score')",
+        "has_variable": false,
+        "variable": "conf_mastery_score"
+    },
+    {
+        "id": 9078,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilCmiXapiSettingsGUI.php",
+        "line": 261,
+        "code": "$this->language->txt('conf_mastery_score_info')",
+        "has_variable": false,
+        "variable": "conf_mastery_score_info"
+    },
+    {
+        "id": 9080,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilCmiXapiSettingsGUI.php",
+        "line": 279,
+        "code": "$this->language->txt('privacy_options')",
+        "has_variable": false,
+        "variable": "privacy_options"
+    },
+    {
+        "id": 9082,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilCmiXapiSettingsGUI.php",
+        "line": 282,
+        "code": "$this->language->txt('conf_use_proxy')",
+        "has_variable": false,
+        "variable": "conf_use_proxy"
+    },
+    {
+        "id": 9084,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilCmiXapiSettingsGUI.php",
+        "line": 283,
+        "code": "$this->language->txt('conf_use_proxy_info_xapi')",
+        "has_variable": false,
+        "variable": "conf_use_proxy_info_xapi"
+    },
+    {
+        "id": 9086,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilCmiXapiSettingsGUI.php",
+        "line": 290,
+        "code": "$this->language->txt('conf_use_proxy_info_cmi5')",
+        "has_variable": false,
+        "variable": "conf_use_proxy_info_cmi5"
+    },
+    {
+        "id": 9088,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilCmiXapiSettingsGUI.php",
+        "line": 293,
+        "code": "$this->language->txt('only_moveon_label')",
+        "has_variable": false,
+        "variable": "only_moveon_label"
+    },
+    {
+        "id": 9090,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilCmiXapiSettingsGUI.php",
+        "line": 294,
+        "code": "$this->language->txt('only_moveon_info')",
+        "has_variable": false,
+        "variable": "only_moveon_info"
+    },
+    {
+        "id": 9092,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilCmiXapiSettingsGUI.php",
+        "line": 297,
+        "code": "$this->language->txt('achieved_label')",
+        "has_variable": false,
+        "variable": "achieved_label"
+    },
+    {
+        "id": 9094,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilCmiXapiSettingsGUI.php",
+        "line": 298,
+        "code": "$this->language->txt('achieved_info')",
+        "has_variable": false,
+        "variable": "achieved_info"
+    },
+    {
+        "id": 9096,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilCmiXapiSettingsGUI.php",
+        "line": 305,
+        "code": "$this->language->txt('answered_label')",
+        "has_variable": false,
+        "variable": "answered_label"
+    },
+    {
+        "id": 9098,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilCmiXapiSettingsGUI.php",
+        "line": 306,
+        "code": "$this->language->txt('answered_info')",
+        "has_variable": false,
+        "variable": "answered_info"
+    },
+    {
+        "id": 9100,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilCmiXapiSettingsGUI.php",
+        "line": 313,
+        "code": "$this->language->txt('completed_label')",
+        "has_variable": false,
+        "variable": "completed_label"
+    },
+    {
+        "id": 9102,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilCmiXapiSettingsGUI.php",
+        "line": 314,
+        "code": "$this->language->txt('completed_info')",
+        "has_variable": false,
+        "variable": "completed_info"
+    },
+    {
+        "id": 9104,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilCmiXapiSettingsGUI.php",
+        "line": 321,
+        "code": "$this->language->txt('failed_label')",
+        "has_variable": false,
+        "variable": "failed_label"
+    },
+    {
+        "id": 9106,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilCmiXapiSettingsGUI.php",
+        "line": 322,
+        "code": "$this->language->txt('failed_info')",
+        "has_variable": false,
+        "variable": "failed_info"
+    },
+    {
+        "id": 9108,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilCmiXapiSettingsGUI.php",
+        "line": 329,
+        "code": "$this->language->txt('initialized_label')",
+        "has_variable": false,
+        "variable": "initialized_label"
+    },
+    {
+        "id": 9110,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilCmiXapiSettingsGUI.php",
+        "line": 330,
+        "code": "$this->language->txt('initialized_info')",
+        "has_variable": false,
+        "variable": "initialized_info"
+    },
+    {
+        "id": 9112,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilCmiXapiSettingsGUI.php",
+        "line": 337,
+        "code": "$this->language->txt('passed_label')",
+        "has_variable": false,
+        "variable": "passed_label"
+    },
+    {
+        "id": 9114,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilCmiXapiSettingsGUI.php",
+        "line": 338,
+        "code": "$this->language->txt('passed_info')",
+        "has_variable": false,
+        "variable": "passed_info"
+    },
+    {
+        "id": 9116,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilCmiXapiSettingsGUI.php",
+        "line": 345,
+        "code": "$this->language->txt('progressed_label')",
+        "has_variable": false,
+        "variable": "progressed_label"
+    },
+    {
+        "id": 9118,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilCmiXapiSettingsGUI.php",
+        "line": 346,
+        "code": "$this->language->txt('progressed_info')",
+        "has_variable": false,
+        "variable": "progressed_info"
+    },
+    {
+        "id": 9120,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilCmiXapiSettingsGUI.php",
+        "line": 353,
+        "code": "$this->language->txt('satisfied_label')",
+        "has_variable": false,
+        "variable": "satisfied_label"
+    },
+    {
+        "id": 9122,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilCmiXapiSettingsGUI.php",
+        "line": 354,
+        "code": "$this->language->txt('satisfied_info')",
+        "has_variable": false,
+        "variable": "satisfied_info"
+    },
+    {
+        "id": 9124,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilCmiXapiSettingsGUI.php",
+        "line": 361,
+        "code": "$this->language->txt('terminated_label')",
+        "has_variable": false,
+        "variable": "terminated_label"
+    },
+    {
+        "id": 9126,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilCmiXapiSettingsGUI.php",
+        "line": 362,
+        "code": "$this->language->txt('terminated_info')",
+        "has_variable": false,
+        "variable": "terminated_info"
+    },
+    {
+        "id": 9128,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilCmiXapiSettingsGUI.php",
+        "line": 374,
+        "code": "$this->language->txt('hide_data_label')",
+        "has_variable": false,
+        "variable": "hide_data_label"
+    },
+    {
+        "id": 9130,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilCmiXapiSettingsGUI.php",
+        "line": 375,
+        "code": "$this->language->txt('hide_data_info')",
+        "has_variable": false,
+        "variable": "hide_data_info"
+    },
+    {
+        "id": 9132,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilCmiXapiSettingsGUI.php",
+        "line": 378,
+        "code": "$this->language->txt('timestamp_label')",
+        "has_variable": false,
+        "variable": "timestamp_label"
+    },
+    {
+        "id": 9134,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilCmiXapiSettingsGUI.php",
+        "line": 379,
+        "code": "$this->language->txt('timestamp_info')",
+        "has_variable": false,
+        "variable": "timestamp_info"
+    },
+    {
+        "id": 9136,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilCmiXapiSettingsGUI.php",
+        "line": 386,
+        "code": "$this->language->txt('duration_label')",
+        "has_variable": false,
+        "variable": "duration_label"
+    },
+    {
+        "id": 9138,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilCmiXapiSettingsGUI.php",
+        "line": 387,
+        "code": "$this->language->txt('duration_info')",
+        "has_variable": false,
+        "variable": "duration_info"
+    },
+    {
+        "id": 9140,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilCmiXapiSettingsGUI.php",
+        "line": 399,
+        "code": "$this->language->txt('no_substatements_label')",
+        "has_variable": false,
+        "variable": "no_substatements_label"
+    },
+    {
+        "id": 9142,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilCmiXapiSettingsGUI.php",
+        "line": 400,
+        "code": "$this->language->txt('no_substatements_info')",
+        "has_variable": false,
+        "variable": "no_substatements_info"
+    },
+    {
+        "id": 9144,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilCmiXapiSettingsGUI.php",
+        "line": 410,
+        "code": "$this->language->txt('conf_privacy_ident')",
+        "has_variable": false,
+        "variable": "conf_privacy_ident"
+    },
+    {
+        "id": 9146,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilCmiXapiSettingsGUI.php",
+        "line": 412,
+        "code": "$this->language->txt('conf_privacy_ident_il_uuid_user_id')",
+        "has_variable": false,
+        "variable": "conf_privacy_ident_il_uuid_user_id"
+    },
+    {
+        "id": 9148,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilCmiXapiSettingsGUI.php",
+        "line": 415,
+        "code": "$this->language->txt('conf_privacy_ident_il_uuid_user_id_info')",
+        "has_variable": false,
+        "variable": "conf_privacy_ident_il_uuid_user_id_info"
+    },
+    {
+        "id": 9150,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilCmiXapiSettingsGUI.php",
+        "line": 418,
+        "code": "$this->language->txt('conf_privacy_ident_il_uuid_login')",
+        "has_variable": false,
+        "variable": "conf_privacy_ident_il_uuid_login"
+    },
+    {
+        "id": 9152,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilCmiXapiSettingsGUI.php",
+        "line": 421,
+        "code": "$this->language->txt('conf_privacy_ident_il_uuid_login_info')",
+        "has_variable": false,
+        "variable": "conf_privacy_ident_il_uuid_login_info"
+    },
+    {
+        "id": 9154,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilCmiXapiSettingsGUI.php",
+        "line": 424,
+        "code": "$this->language->txt('conf_privacy_ident_il_uuid_ext_account')",
+        "has_variable": false,
+        "variable": "conf_privacy_ident_il_uuid_ext_account"
+    },
+    {
+        "id": 9156,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilCmiXapiSettingsGUI.php",
+        "line": 427,
+        "code": "$this->language->txt('conf_privacy_ident_il_uuid_ext_account_info')",
+        "has_variable": false,
+        "variable": "conf_privacy_ident_il_uuid_ext_account_info"
+    },
+    {
+        "id": 9158,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilCmiXapiSettingsGUI.php",
+        "line": 430,
+        "code": "$this->language->txt('conf_privacy_ident_il_uuid_sha256')",
+        "has_variable": false,
+        "variable": "conf_privacy_ident_il_uuid_sha256"
+    },
+    {
+        "id": 9160,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilCmiXapiSettingsGUI.php",
+        "line": 433,
+        "code": "$this->language->txt('conf_privacy_ident_il_uuid_sha256_info')",
+        "has_variable": false,
+        "variable": "conf_privacy_ident_il_uuid_sha256_info"
+    },
+    {
+        "id": 9162,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilCmiXapiSettingsGUI.php",
+        "line": 436,
+        "code": "$this->language->txt('conf_privacy_ident_il_uuid_sha256url')",
+        "has_variable": false,
+        "variable": "conf_privacy_ident_il_uuid_sha256url"
+    },
+    {
+        "id": 9164,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilCmiXapiSettingsGUI.php",
+        "line": 439,
+        "code": "$this->language->txt('conf_privacy_ident_il_uuid_sha256url_info')",
+        "has_variable": false,
+        "variable": "conf_privacy_ident_il_uuid_sha256url_info"
+    },
+    {
+        "id": 9166,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilCmiXapiSettingsGUI.php",
+        "line": 442,
+        "code": "$this->language->txt('conf_privacy_ident_il_uuid_random')",
+        "has_variable": false,
+        "variable": "conf_privacy_ident_il_uuid_random"
+    },
+    {
+        "id": 9168,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilCmiXapiSettingsGUI.php",
+        "line": 445,
+        "code": "$this->language->txt('conf_privacy_ident_il_uuid_random_info')",
+        "has_variable": false,
+        "variable": "conf_privacy_ident_il_uuid_random_info"
+    },
+    {
+        "id": 9170,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilCmiXapiSettingsGUI.php",
+        "line": 448,
+        "code": "$this->language->txt('conf_privacy_ident_real_email')",
+        "has_variable": false,
+        "variable": "conf_privacy_ident_real_email"
+    },
+    {
+        "id": 9172,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilCmiXapiSettingsGUI.php",
+        "line": 451,
+        "code": "$this->language->txt('conf_privacy_ident_real_email_info')",
+        "has_variable": false,
+        "variable": "conf_privacy_ident_real_email_info"
+    },
+    {
+        "id": 9174,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilCmiXapiSettingsGUI.php",
+        "line": 455,
+        "code": "$this->language->txt('conf_privacy_ident_info')",
+        "has_variable": false,
+        "variable": "conf_privacy_ident_info"
+    },
+    {
+        "id": 9176,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilCmiXapiSettingsGUI.php",
+        "line": 460,
+        "code": "$this->language->txt('conf_privacy_name')",
+        "has_variable": false,
+        "variable": "conf_privacy_name"
+    },
+    {
+        "id": 9178,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilCmiXapiSettingsGUI.php",
+        "line": 462,
+        "code": "$this->language->txt('conf_privacy_name_none')",
+        "has_variable": false,
+        "variable": "conf_privacy_name_none"
+    },
+    {
+        "id": 9180,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilCmiXapiSettingsGUI.php",
+        "line": 465,
+        "code": "$this->language->txt('conf_privacy_name_none_info')",
+        "has_variable": false,
+        "variable": "conf_privacy_name_none_info"
+    },
+    {
+        "id": 9182,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilCmiXapiSettingsGUI.php",
+        "line": 468,
+        "code": "$this->language->txt('conf_privacy_name_firstname')",
+        "has_variable": false,
+        "variable": "conf_privacy_name_firstname"
+    },
+    {
+        "id": 9184,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilCmiXapiSettingsGUI.php",
+        "line": 473,
+        "code": "$this->language->txt('conf_privacy_name_lastname')",
+        "has_variable": false,
+        "variable": "conf_privacy_name_lastname"
+    },
+    {
+        "id": 9186,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilCmiXapiSettingsGUI.php",
+        "line": 478,
+        "code": "$this->language->txt('conf_privacy_name_fullname')",
+        "has_variable": false,
+        "variable": "conf_privacy_name_fullname"
+    },
+    {
+        "id": 9188,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilCmiXapiSettingsGUI.php",
+        "line": 483,
+        "code": "$this->language->txt('conf_privacy_name_info')",
+        "has_variable": false,
+        "variable": "conf_privacy_name_info"
+    },
+    {
+        "id": 9190,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilCmiXapiSettingsGUI.php",
+        "line": 493,
+        "code": "$this->language->txt('enrich_data_label')",
+        "has_variable": false,
+        "variable": "enrich_data_label"
+    },
+    {
+        "id": 9192,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilCmiXapiSettingsGUI.php",
+        "line": 494,
+        "code": "$this->language->txt('enrich_data_info')",
+        "has_variable": false,
+        "variable": "enrich_data_info"
+    },
+    {
+        "id": 9194,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilCmiXapiSettingsGUI.php",
+        "line": 504,
+        "code": "$this->language->txt('conf_delete_data')",
+        "has_variable": false,
+        "variable": "conf_delete_data"
+    },
+    {
+        "id": 9196,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilCmiXapiSettingsGUI.php",
+        "line": 507,
+        "code": "$this->language->txt('conf_delete_data_opt' . $options[$i])",
+        "has_variable": true,
+        "variable": "'conf_delete_data_opt' . $options[$i]"
+    },
+    {
+        "id": 9198,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilCmiXapiSettingsGUI.php",
+        "line": 511,
+        "code": "$this->language->txt('conf_delete_data_info')",
+        "has_variable": false,
+        "variable": "conf_delete_data_info"
+    },
+    {
+        "id": 9200,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilCmiXapiSettingsGUI.php",
+        "line": 520,
+        "code": "$this->language->txt(\"log_options\")",
+        "has_variable": false,
+        "variable": "log_options"
+    },
+    {
+        "id": 9202,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilCmiXapiSettingsGUI.php",
+        "line": 523,
+        "code": "$this->language->txt('show_debug')",
+        "has_variable": false,
+        "variable": "show_debug"
+    },
+    {
+        "id": 9204,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilCmiXapiSettingsGUI.php",
+        "line": 524,
+        "code": "$this->language->txt(\"show_debug_info\")",
+        "has_variable": false,
+        "variable": "show_debug_info"
+    },
+    {
+        "id": 9206,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilCmiXapiSettingsGUI.php",
+        "line": 531,
+        "code": "$this->language->txt(\"highscore_enabled\")",
+        "has_variable": false,
+        "variable": "highscore_enabled"
+    },
+    {
+        "id": 9208,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilCmiXapiSettingsGUI.php",
+        "line": 534,
+        "code": "$this->language->txt(\"highscore_description\")",
+        "has_variable": false,
+        "variable": "highscore_description"
+    },
+    {
+        "id": 9210,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilCmiXapiSettingsGUI.php",
+        "line": 536,
+        "code": "$this->language->txt('highscore_mode')",
+        "has_variable": false,
+        "variable": "highscore_mode"
+    },
+    {
+        "id": 9212,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilCmiXapiSettingsGUI.php",
+        "line": 540,
+        "code": "$this->language->txt('highscore_own_table')",
+        "has_variable": false,
+        "variable": "highscore_own_table"
+    },
+    {
+        "id": 9214,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilCmiXapiSettingsGUI.php",
+        "line": 543,
+        "code": "$this->language->txt('highscore_own_table_description')",
+        "has_variable": false,
+        "variable": "highscore_own_table_description"
+    },
+    {
+        "id": 9216,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilCmiXapiSettingsGUI.php",
+        "line": 546,
+        "code": "$this->language->txt('highscore_top_table')",
+        "has_variable": false,
+        "variable": "highscore_top_table"
+    },
+    {
+        "id": 9218,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilCmiXapiSettingsGUI.php",
+        "line": 549,
+        "code": "$this->language->txt('highscore_top_table_description')",
+        "has_variable": false,
+        "variable": "highscore_top_table_description"
+    },
+    {
+        "id": 9220,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilCmiXapiSettingsGUI.php",
+        "line": 552,
+        "code": "$this->language->txt('highscore_all_tables')",
+        "has_variable": false,
+        "variable": "highscore_all_tables"
+    },
+    {
+        "id": 9222,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilCmiXapiSettingsGUI.php",
+        "line": 555,
+        "code": "$this->language->txt('highscore_all_tables_description')",
+        "has_variable": false,
+        "variable": "highscore_all_tables_description"
+    },
+    {
+        "id": 9224,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilCmiXapiSettingsGUI.php",
+        "line": 558,
+        "code": "$this->language->txt(\"highscore_top_num\")",
+        "has_variable": false,
+        "variable": "highscore_top_num"
+    },
+    {
+        "id": 9226,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilCmiXapiSettingsGUI.php",
+        "line": 562,
+        "code": "$this->language->txt(\"highscore_top_num_unit\")",
+        "has_variable": false,
+        "variable": "highscore_top_num_unit"
+    },
+    {
+        "id": 9228,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilCmiXapiSettingsGUI.php",
+        "line": 564,
+        "code": "$this->language->txt(\"highscore_top_num_description\")",
+        "has_variable": false,
+        "variable": "highscore_top_num_description"
+    },
+    {
+        "id": 9230,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilCmiXapiSettingsGUI.php",
+        "line": 566,
+        "code": "$this->language->txt(\"highscore_achieved_ts\")",
+        "has_variable": false,
+        "variable": "highscore_achieved_ts"
+    },
+    {
+        "id": 9232,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilCmiXapiSettingsGUI.php",
+        "line": 569,
+        "code": "$this->language->txt(\"highscore_achieved_ts_description\")",
+        "has_variable": false,
+        "variable": "highscore_achieved_ts_description"
+    },
+    {
+        "id": 9234,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilCmiXapiSettingsGUI.php",
+        "line": 571,
+        "code": "$this->language->txt(\"highscore_percentage\")",
+        "has_variable": false,
+        "variable": "highscore_percentage"
+    },
+    {
+        "id": 9236,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilCmiXapiSettingsGUI.php",
+        "line": 574,
+        "code": "$this->language->txt(\"highscore_percentage_description\")",
+        "has_variable": false,
+        "variable": "highscore_percentage_description"
+    },
+    {
+        "id": 9238,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilCmiXapiSettingsGUI.php",
+        "line": 576,
+        "code": "$this->language->txt(\"highscore_wtime\")",
+        "has_variable": false,
+        "variable": "highscore_wtime"
+    },
+    {
+        "id": 9240,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilCmiXapiSettingsGUI.php",
+        "line": 579,
+        "code": "$this->language->txt(\"highscore_wtime_description\")",
+        "has_variable": false,
+        "variable": "highscore_wtime_description"
+    },
+    {
+        "id": 9242,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilCmiXapiSettingsGUI.php",
+        "line": 583,
+        "code": "$this->language->txt('settings')",
+        "has_variable": false,
+        "variable": "settings"
+    },
+    {
+        "id": 9244,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilCmiXapiSettingsGUI.php",
+        "line": 584,
+        "code": "$this->language->txt(\"save\")",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 9246,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilCmiXapiSettingsGUI.php",
+        "line": 585,
+        "code": "$this->language->txt(\"cancel\")",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 9248,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilCmiXapiSettingsGUI.php",
+        "line": 689,
+        "code": "$this->language->txt(\"permission_denied\")",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 9250,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilCmiXapiSettingsGUI.php",
+        "line": 701,
+        "code": "$this->language->txt('error_creating_certificate_pdf')",
+        "has_variable": false,
+        "variable": "error_creating_certificate_pdf"
+    },
+    {
+        "id": 9252,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilCmiXapiStatementsTableGUI.php",
+        "line": 79,
+        "code": "$this->language->txt('tbl_statements_date')",
+        "has_variable": false,
+        "variable": "tbl_statements_date"
+    },
+    {
+        "id": 9254,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilCmiXapiStatementsTableGUI.php",
+        "line": 82,
+        "code": "$this->language->txt('tbl_statements_actor')",
+        "has_variable": false,
+        "variable": "tbl_statements_actor"
+    },
+    {
+        "id": 9256,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilCmiXapiStatementsTableGUI.php",
+        "line": 85,
+        "code": "$this->language->txt('tbl_statements_verb')",
+        "has_variable": false,
+        "variable": "tbl_statements_verb"
+    },
+    {
+        "id": 9258,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilCmiXapiStatementsTableGUI.php",
+        "line": 86,
+        "code": "$this->language->txt('tbl_statements_object')",
+        "has_variable": false,
+        "variable": "tbl_statements_object"
+    },
+    {
+        "id": 9260,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilCmiXapiStatementsTableGUI.php",
+        "line": 160,
+        "code": "$this->language->txt('tbl_action_raw_data')",
+        "has_variable": false,
+        "variable": "tbl_action_raw_data"
+    },
+    {
+        "id": 9262,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilCmiXapiStatementsTableGUI.php",
+        "line": 163,
+        "code": "$this->language->txt('actions')",
+        "has_variable": false,
+        "variable": "actions"
+    },
+    {
+        "id": 9264,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilCmiXapiStatementsTableGUI.php",
+        "line": 173,
+        "code": "$this->language->txt('close')",
+        "has_variable": false,
+        "variable": "close"
+    },
+    {
+        "id": 9266,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilCmiXapiStatementsTableGUI.php",
+        "line": 183,
+        "code": "$this->language->txt('deleted_user')",
+        "has_variable": false,
+        "variable": "deleted_user"
+    },
+    {
+        "id": 9268,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilCmiXapiVerbList.php",
+        "line": 129,
+        "code": "$lng->txt($langVar)",
+        "has_variable": true,
+        "variable": "$langVar"
+    },
+    {
+        "id": 9270,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilObjCmiXapiAdministrationGUI.php",
+        "line": 49,
+        "code": "$this->lng->txt(self::TAB_ID_LRS_TYPES)",
+        "has_variable": true,
+        "variable": "TAB_ID_LRS_TYPES"
+    },
+    {
+        "id": 9272,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilObjCmiXapiAdministrationGUI.php",
+        "line": 57,
+        "code": "$this->lng->txt(self::TAB_ID_PERMISSIONS)",
+        "has_variable": true,
+        "variable": "TAB_ID_PERMISSIONS"
+    },
+    {
+        "id": 9274,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilObjCmiXapiAdministrationGUI.php",
+        "line": 113,
+        "code": "$this->lng->txt(\"btn_create_lrs_type\")",
+        "has_variable": false,
+        "variable": "btn_create_lrs_type"
+    },
+    {
+        "id": 9276,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilObjCmiXapiGUI.php",
+        "line": 92,
+        "code": "$this->lng->txt($a_new_type . \"_new\")",
+        "has_variable": true,
+        "variable": "$a_new_type . \"_new\""
+    },
+    {
+        "id": 9278,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilObjCmiXapiGUI.php",
+        "line": 103,
+        "code": "$this->lng->txt('cmix_add_cmi5_lm')",
+        "has_variable": false,
+        "variable": "cmix_add_cmi5_lm"
+    },
+    {
+        "id": 9280,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilObjCmiXapiGUI.php",
+        "line": 104,
+        "code": "$this->lng->txt('cmix_add_cmi5_lm_info')",
+        "has_variable": false,
+        "variable": "cmix_add_cmi5_lm_info"
+    },
+    {
+        "id": 9282,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilObjCmiXapiGUI.php",
+        "line": 108,
+        "code": "$this->lng->txt('cmix_add_xapi_standard_object')",
+        "has_variable": false,
+        "variable": "cmix_add_xapi_standard_object"
+    },
+    {
+        "id": 9284,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilObjCmiXapiGUI.php",
+        "line": 111,
+        "code": "$this->lng->txt('cmix_add_xapi_standard_object_info')",
+        "has_variable": false,
+        "variable": "cmix_add_xapi_standard_object_info"
+    },
+    {
+        "id": 9286,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilObjCmiXapiGUI.php",
+        "line": 116,
+        "code": "$this->lng->txt('cmix_add_lrs_type')",
+        "has_variable": false,
+        "variable": "cmix_add_lrs_type"
+    },
+    {
+        "id": 9288,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilObjCmiXapiGUI.php",
+        "line": 125,
+        "code": "$this->lng->txt('cmix_add_source')",
+        "has_variable": false,
+        "variable": "cmix_add_source"
+    },
+    {
+        "id": 9290,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilObjCmiXapiGUI.php",
+        "line": 128,
+        "code": "$this->lng->txt('cmix_add_source_url')",
+        "has_variable": false,
+        "variable": "cmix_add_source_url"
+    },
+    {
+        "id": 9292,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilObjCmiXapiGUI.php",
+        "line": 129,
+        "code": "$this->lng->txt('cmix_add_source_url_info')",
+        "has_variable": false,
+        "variable": "cmix_add_source_url_info"
+    },
+    {
+        "id": 9294,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilObjCmiXapiGUI.php",
+        "line": 132,
+        "code": "$this->lng->txt('cmix_add_source_local_dir')",
+        "has_variable": false,
+        "variable": "cmix_add_source_local_dir"
+    },
+    {
+        "id": 9296,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilObjCmiXapiGUI.php",
+        "line": 133,
+        "code": "$this->lng->txt('cmix_add_source_local_dir_info')",
+        "has_variable": false,
+        "variable": "cmix_add_source_local_dir_info"
+    },
+    {
+        "id": 9298,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilObjCmiXapiGUI.php",
+        "line": 136,
+        "code": "$this->lng->txt(\"select_file\")",
+        "has_variable": false,
+        "variable": "select_file"
+    },
+    {
+        "id": 9300,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilObjCmiXapiGUI.php",
+        "line": 143,
+        "code": "$this->lng->txt('cmix_add_source_upload_dir')",
+        "has_variable": false,
+        "variable": "cmix_add_source_upload_dir"
+    },
+    {
+        "id": 9302,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilObjCmiXapiGUI.php",
+        "line": 144,
+        "code": "$this->lng->txt('cmix_add_source_upload_dir_info')",
+        "has_variable": false,
+        "variable": "cmix_add_source_upload_dir_info"
+    },
+    {
+        "id": 9304,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilObjCmiXapiGUI.php",
+        "line": 147,
+        "code": "$this->lng->txt('cmix_add_source_upload_select')",
+        "has_variable": false,
+        "variable": "cmix_add_source_upload_select"
+    },
+    {
+        "id": 9306,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilObjCmiXapiGUI.php",
+        "line": 153,
+        "code": "$this->lng->txt(\"select_file\")",
+        "has_variable": false,
+        "variable": "select_file"
+    },
+    {
+        "id": 9308,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilObjCmiXapiGUI.php",
+        "line": 158,
+        "code": "$this->lng->txt('cmix_add_source_external_app')",
+        "has_variable": false,
+        "variable": "cmix_add_source_external_app"
+    },
+    {
+        "id": 9310,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilObjCmiXapiGUI.php",
+        "line": 159,
+        "code": "$this->lng->txt('cmix_add_source_external_app_info')",
+        "has_variable": false,
+        "variable": "cmix_add_source_external_app_info"
+    },
+    {
+        "id": 9312,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilObjCmiXapiGUI.php",
+        "line": 164,
+        "code": "$this->lng->txt($a_new_type . \"_add\")",
+        "has_variable": true,
+        "variable": "$a_new_type . \"_add\""
+    },
+    {
+        "id": 9314,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilObjCmiXapiGUI.php",
+        "line": 165,
+        "code": "$this->lng->txt(\"cancel\")",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 9316,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilObjCmiXapiGUI.php",
+        "line": 174,
+        "code": "$this->lng->txt(\"no_create_permission\")",
+        "has_variable": false,
+        "variable": "no_create_permission"
+    },
+    {
+        "id": 9318,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilObjCmiXapiGUI.php",
+        "line": 248,
+        "code": "$this->lng->txt('upload_error_file_not_found')",
+        "has_variable": false,
+        "variable": "upload_error_file_not_found"
+    },
+    {
+        "id": 9320,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilObjCmiXapiGUI.php",
+        "line": 308,
+        "code": "$this->lng->txt('download_certificate')",
+        "has_variable": false,
+        "variable": "download_certificate"
+    },
+    {
+        "id": 9322,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilObjCmiXapiGUI.php",
+        "line": 334,
+        "code": "$lng->txt('msg_no_perm_read')",
+        "has_variable": false,
+        "variable": "msg_no_perm_read"
+    },
+    {
+        "id": 9324,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilObjCmiXapiGUI.php",
+        "line": 345,
+        "code": "$lng->txt('msg_no_perm_read_item')",
+        "has_variable": false,
+        "variable": "msg_no_perm_read_item"
+    },
+    {
+        "id": 9326,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilObjCmiXapiGUI.php",
+        "line": 352,
+        "code": "$lng->txt(\"msg_no_perm_read_lm\")",
+        "has_variable": false,
+        "variable": "msg_no_perm_read_lm"
+    },
+    {
+        "id": 9328,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilObjCmiXapiGUI.php",
+        "line": 777,
+        "code": "$this->lng->txt('change_registration')",
+        "has_variable": false,
+        "variable": "change_registration"
+    },
+    {
+        "id": 9330,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilObjCmiXapiGUI.php",
+        "line": 780,
+        "code": "$this->lng->txt('create_registration')",
+        "has_variable": false,
+        "variable": "create_registration"
+    },
+    {
+        "id": 9332,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilObjCmiXapiGUI.php",
+        "line": 807,
+        "code": "$this->lng->txt('launch')",
+        "has_variable": false,
+        "variable": "launch"
+    },
+    {
+        "id": 9334,
+        "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilObjCmiXapiGUI.php",
+        "line": 833,
+        "code": "$this->lng->txt('fetch_xapi_statements')",
+        "has_variable": false,
+        "variable": "fetch_xapi_statements"
+    }
+]

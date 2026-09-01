@@ -1,0 +1,64 @@
+{
+    "metadata": {
+        "type": "full",
+        "count": 5,
+        "description": "Variable usages without detectable prefixes or suffixes (pure variable references without static strings)"
+    },
+    "matches": [
+        {
+            "id": 9004,
+            "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilCmiXapiSettingsGUI.php",
+            "line": 65,
+            "code": "$this->language->txt(self::SUBTAB_ID_SETTINGS)",
+            "variable": "SUBTAB_ID_SETTINGS",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 9006,
+            "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilCmiXapiSettingsGUI.php",
+            "line": 74,
+            "code": "$this->language->txt(self::SUBTAB_ID_CERTIFICATE)",
+            "variable": "SUBTAB_ID_CERTIFICATE",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 9268,
+            "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilCmiXapiVerbList.php",
+            "line": 129,
+            "code": "$lng->txt($langVar)",
+            "variable": "$langVar",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 9270,
+            "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilObjCmiXapiAdministrationGUI.php",
+            "line": 49,
+            "code": "$this->lng->txt(self::TAB_ID_LRS_TYPES)",
+            "variable": "TAB_ID_LRS_TYPES",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 9272,
+            "file": "components\/ILIAS\/CmiXapi\/classes\/class.ilObjCmiXapiAdministrationGUI.php",
+            "line": 57,
+            "code": "$this->lng->txt(self::TAB_ID_PERMISSIONS)",
+            "variable": "TAB_ID_PERMISSIONS",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        }
+    ]
+}

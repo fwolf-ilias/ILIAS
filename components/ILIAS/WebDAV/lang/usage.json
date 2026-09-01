@@ -1,0 +1,514 @@
+[
+    {
+        "id": 48490,
+        "file": "components\/ILIAS\/WebDAV\/classes\/class.ilObjWebDAV.php",
+        "line": 38,
+        "code": "$this->lng->txt(\"webdav\")",
+        "has_variable": false,
+        "variable": "webdav"
+    },
+    {
+        "id": 48492,
+        "file": "components\/ILIAS\/WebDAV\/classes\/class.ilObjWebDAV.php",
+        "line": 44,
+        "code": "$this->lng->txt(\"webdav_description\")",
+        "has_variable": false,
+        "variable": "webdav_description"
+    },
+    {
+        "id": 48494,
+        "file": "components\/ILIAS\/WebDAV\/classes\/class.ilObjWebDAVGUI.php",
+        "line": 60,
+        "code": "$this->lng->txt('no_permission')",
+        "has_variable": false,
+        "variable": "no_permission"
+    },
+    {
+        "id": 48496,
+        "file": "components\/ILIAS\/WebDAV\/classes\/class.ilObjWebDAVGUI.php",
+        "line": 88,
+        "code": "$this->lng->txt(\"webdav_general_settings\")",
+        "has_variable": false,
+        "variable": "webdav_general_settings"
+    },
+    {
+        "id": 48498,
+        "file": "components\/ILIAS\/WebDAV\/classes\/class.ilObjWebDAVGUI.php",
+        "line": 93,
+        "code": "$this->lng->txt(\"webdav_upload_instructions\")",
+        "has_variable": false,
+        "variable": "webdav_upload_instructions"
+    },
+    {
+        "id": 48500,
+        "file": "components\/ILIAS\/WebDAV\/classes\/class.ilObjWebDAVGUI.php",
+        "line": 110,
+        "code": "$this->lng->txt(\"settings\")",
+        "has_variable": false,
+        "variable": "settings"
+    },
+    {
+        "id": 48502,
+        "file": "components\/ILIAS\/WebDAV\/classes\/class.ilObjWebDAVGUI.php",
+        "line": 112,
+        "code": "$this->lng->txt(\"enable_webdav\")",
+        "has_variable": false,
+        "variable": "enable_webdav"
+    },
+    {
+        "id": 48504,
+        "file": "components\/ILIAS\/WebDAV\/classes\/class.ilObjWebDAVGUI.php",
+        "line": 113,
+        "code": "$this->lng->txt(\"enable_webdav_info\")",
+        "has_variable": false,
+        "variable": "enable_webdav_info"
+    },
+    {
+        "id": 48506,
+        "file": "components\/ILIAS\/WebDAV\/classes\/class.ilObjWebDAVGUI.php",
+        "line": 118,
+        "code": "$this->lng->txt('save')",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 48508,
+        "file": "components\/ILIAS\/WebDAV\/classes\/class.ilObjWebDAVGUI.php",
+        "line": 129,
+        "code": "$this->lng->txt(\"no_permission\")",
+        "has_variable": false,
+        "variable": "no_permission"
+    },
+    {
+        "id": 48510,
+        "file": "components\/ILIAS\/WebDAV\/classes\/class.ilObjWebDAVGUI.php",
+        "line": 142,
+        "code": "$this->lng->txt('no_permission')",
+        "has_variable": false,
+        "variable": "no_permission"
+    },
+    {
+        "id": 48512,
+        "file": "components\/ILIAS\/WebDAV\/classes\/class.ilObjWebDAVGUI.php",
+        "line": 150,
+        "code": "$this->lng->txt('settings_saved')",
+        "has_variable": false,
+        "variable": "settings_saved"
+    },
+    {
+        "id": 48514,
+        "file": "components\/ILIAS\/WebDAV\/src\/Entity\/ProblemInfoFile.php",
+        "line": 80,
+        "code": "$this->lang->txt('webdav_problem_info_duplicate')",
+        "has_variable": false,
+        "variable": "webdav_problem_info_duplicate"
+    },
+    {
+        "id": 48516,
+        "file": "components\/ILIAS\/WebDAV\/src\/Entity\/ProblemInfoFile.php",
+        "line": 84,
+        "code": "$this->lang->txt('webdav_duplicate_detected_title')",
+        "has_variable": false,
+        "variable": "webdav_duplicate_detected_title"
+    },
+    {
+        "id": 48518,
+        "file": "components\/ILIAS\/WebDAV\/src\/Entity\/ProblemInfoFile.php",
+        "line": 92,
+        "code": "$this->lang->txt('webdav_forbidden_chars_title')",
+        "has_variable": false,
+        "variable": "webdav_forbidden_chars_title"
+    },
+    {
+        "id": 48520,
+        "file": "components\/ILIAS\/WebDAV\/src\/Entity\/ProblemInfoFile.php",
+        "line": 100,
+        "code": "$this->lang->txt('webdav_problem_free_container')",
+        "has_variable": false,
+        "variable": "webdav_problem_free_container"
+    },
+    {
+        "id": 48522,
+        "file": "components\/ILIAS\/WebDAV\/src\/Mount\/DocumentFormGUI.php",
+        "line": 63,
+        "code": "$this->lng->txt('webdav_form_edit_doc_head')",
+        "has_variable": false,
+        "variable": "webdav_form_edit_doc_head"
+    },
+    {
+        "id": 48524,
+        "file": "components\/ILIAS\/WebDAV\/src\/Mount\/DocumentFormGUI.php",
+        "line": 65,
+        "code": "$this->lng->txt('webdav_form_new_doc_head')",
+        "has_variable": false,
+        "variable": "webdav_form_new_doc_head"
+    },
+    {
+        "id": 48526,
+        "file": "components\/ILIAS\/WebDAV\/src\/Mount\/DocumentFormGUI.php",
+        "line": 70,
+        "code": "$this->lng->txt('webdav_form_document_title')",
+        "has_variable": false,
+        "variable": "webdav_form_document_title"
+    },
+    {
+        "id": 48528,
+        "file": "components\/ILIAS\/WebDAV\/src\/Mount\/DocumentFormGUI.php",
+        "line": 71,
+        "code": "$this->lng->txt('webdav_form_document_title_info')",
+        "has_variable": false,
+        "variable": "webdav_form_document_title_info"
+    },
+    {
+        "id": 48530,
+        "file": "components\/ILIAS\/WebDAV\/src\/Mount\/DocumentFormGUI.php",
+        "line": 78,
+        "code": "$this->lng->txt('webdav_form_document')",
+        "has_variable": false,
+        "variable": "webdav_form_document"
+    },
+    {
+        "id": 48532,
+        "file": "components\/ILIAS\/WebDAV\/src\/Mount\/DocumentFormGUI.php",
+        "line": 79,
+        "code": "$this->lng->txt('webdav_form_document_info')",
+        "has_variable": false,
+        "variable": "webdav_form_document_info"
+    },
+    {
+        "id": 48534,
+        "file": "components\/ILIAS\/WebDAV\/src\/Mount\/DocumentFormGUI.php",
+        "line": 82,
+        "code": "$this->lng->txt('language')",
+        "has_variable": false,
+        "variable": "language"
+    },
+    {
+        "id": 48536,
+        "file": "components\/ILIAS\/WebDAV\/src\/Mount\/DocumentFormGUI.php",
+        "line": 89,
+        "code": "$this->lng->txt('meta_l_' . $lng, 'meta')",
+        "has_variable": true,
+        "variable": "'meta_l_' . $lng, 'meta'"
+    },
+    {
+        "id": 48538,
+        "file": "components\/ILIAS\/WebDAV\/src\/Mount\/DocumentFormGUI.php",
+        "line": 94,
+        "code": "$this->lng->txt('please_choose')",
+        "has_variable": false,
+        "variable": "please_choose"
+    },
+    {
+        "id": 48540,
+        "file": "components\/ILIAS\/WebDAV\/src\/Mount\/DocumentFormGUI.php",
+        "line": 113,
+        "code": "$this->lng->txt('save')",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 48542,
+        "file": "components\/ILIAS\/WebDAV\/src\/Mount\/DocumentFormGUI.php",
+        "line": 168,
+        "code": "$this->lng->txt('form_input_not_valid')",
+        "has_variable": false,
+        "variable": "form_input_not_valid"
+    },
+    {
+        "id": 48544,
+        "file": "components\/ILIAS\/WebDAV\/src\/Mount\/DocumentFormGUI.php",
+        "line": 178,
+        "code": "$this->lng->txt('form_input_not_valid')",
+        "has_variable": false,
+        "variable": "form_input_not_valid"
+    },
+    {
+        "id": 48546,
+        "file": "components\/ILIAS\/WebDAV\/src\/Mount\/DocumentFormGUI.php",
+        "line": 195,
+        "code": "$this->lng->txt('webdav_choosen_language_already_used')",
+        "has_variable": false,
+        "variable": "webdav_choosen_language_already_used"
+    },
+    {
+        "id": 48548,
+        "file": "components\/ILIAS\/WebDAV\/src\/Mount\/DocumentFormGUI.php",
+        "line": 201,
+        "code": "$this->lng->txt('webdav_chosen_language_already_used')",
+        "has_variable": false,
+        "variable": "webdav_chosen_language_already_used"
+    },
+    {
+        "id": 48550,
+        "file": "components\/ILIAS\/WebDAV\/src\/Mount\/DocumentFormGUI.php",
+        "line": 240,
+        "code": "$this->lng->txt('form_input_not_valid')",
+        "has_variable": false,
+        "variable": "form_input_not_valid"
+    },
+    {
+        "id": 48552,
+        "file": "components\/ILIAS\/WebDAV\/src\/Mount\/DocumentFormGUI.php",
+        "line": 253,
+        "code": "$this->lng->txt('form_msg_file_no_upload')",
+        "has_variable": false,
+        "variable": "form_msg_file_no_upload"
+    },
+    {
+        "id": 48554,
+        "file": "components\/ILIAS\/WebDAV\/src\/Mount\/DocumentFormGUI.php",
+        "line": 254,
+        "code": "$this->lng->txt('form_input_not_valid')",
+        "has_variable": false,
+        "variable": "form_input_not_valid"
+    },
+    {
+        "id": 48556,
+        "file": "components\/ILIAS\/WebDAV\/src\/Mount\/DocumentFormGUI.php",
+        "line": 276,
+        "code": "$this->lng->txt('form_msg_file_no_upload')",
+        "has_variable": false,
+        "variable": "form_msg_file_no_upload"
+    },
+    {
+        "id": 48558,
+        "file": "components\/ILIAS\/WebDAV\/src\/Mount\/DocumentFormGUI.php",
+        "line": 277,
+        "code": "$this->lng->txt('form_input_not_valid')",
+        "has_variable": false,
+        "variable": "form_input_not_valid"
+    },
+    {
+        "id": 48560,
+        "file": "components\/ILIAS\/WebDAV\/src\/Mount\/DocumentTableGUI.php",
+        "line": 74,
+        "code": "$this->lng->txt('webdav_tbl_docs_title')",
+        "has_variable": false,
+        "variable": "webdav_tbl_docs_title"
+    },
+    {
+        "id": 48562,
+        "file": "components\/ILIAS\/WebDAV\/src\/Mount\/DocumentTableGUI.php",
+        "line": 86,
+        "code": "$this->lng->txt('sorting_save')",
+        "has_variable": false,
+        "variable": "sorting_save"
+    },
+    {
+        "id": 48564,
+        "file": "components\/ILIAS\/WebDAV\/src\/Mount\/DocumentTableGUI.php",
+        "line": 166,
+        "code": "$this->lng->txt('meta_order', 'meta')",
+        "has_variable": true,
+        "variable": "_"
+    },
+    {
+        "id": 48566,
+        "file": "components\/ILIAS\/WebDAV\/src\/Mount\/DocumentTableGUI.php",
+        "line": 175,
+        "code": "$this->lng->txt('webdav_tbl_docs_head_title')",
+        "has_variable": false,
+        "variable": "webdav_tbl_docs_head_title"
+    },
+    {
+        "id": 48568,
+        "file": "components\/ILIAS\/WebDAV\/src\/Mount\/DocumentTableGUI.php",
+        "line": 184,
+        "code": "$this->lng->txt('created')",
+        "has_variable": false,
+        "variable": "created"
+    },
+    {
+        "id": 48570,
+        "file": "components\/ILIAS\/WebDAV\/src\/Mount\/DocumentTableGUI.php",
+        "line": 192,
+        "code": "$this->lng->txt('last_change')",
+        "has_variable": false,
+        "variable": "last_change"
+    },
+    {
+        "id": 48572,
+        "file": "components\/ILIAS\/WebDAV\/src\/Mount\/DocumentTableGUI.php",
+        "line": 200,
+        "code": "$this->lng->txt('language')",
+        "has_variable": false,
+        "variable": "language"
+    },
+    {
+        "id": 48574,
+        "file": "components\/ILIAS\/WebDAV\/src\/Mount\/DocumentTableGUI.php",
+        "line": 209,
+        "code": "$this->lng->txt('actions')",
+        "has_variable": false,
+        "variable": "actions"
+    },
+    {
+        "id": 48576,
+        "file": "components\/ILIAS\/WebDAV\/src\/Mount\/DocumentTableGUI.php",
+        "line": 297,
+        "code": "$this->lng->txt('edit')",
+        "has_variable": false,
+        "variable": "edit"
+    },
+    {
+        "id": 48578,
+        "file": "components\/ILIAS\/WebDAV\/src\/Mount\/DocumentTableGUI.php",
+        "line": 304,
+        "code": "$this->lng->txt('webdav_doc_delete')",
+        "has_variable": false,
+        "variable": "webdav_doc_delete"
+    },
+    {
+        "id": 48580,
+        "file": "components\/ILIAS\/WebDAV\/src\/Mount\/DocumentTableGUI.php",
+        "line": 305,
+        "code": "$this->lng->txt('webdav_sure_delete_documents_s')",
+        "has_variable": false,
+        "variable": "webdav_sure_delete_documents_s"
+    },
+    {
+        "id": 48582,
+        "file": "components\/ILIAS\/WebDAV\/src\/Mount\/DocumentTableGUI.php",
+        "line": 311,
+        "code": "$this->lng->txt('delete')",
+        "has_variable": false,
+        "variable": "delete"
+    },
+    {
+        "id": 48584,
+        "file": "components\/ILIAS\/WebDAV\/src\/Mount\/DocumentTableGUI.php",
+        "line": 321,
+        "code": "$this->lng->txt('actions')",
+        "has_variable": false,
+        "variable": "actions"
+    },
+    {
+        "id": 48586,
+        "file": "components\/ILIAS\/WebDAV\/src\/Mount\/InstructionsGUI.php",
+        "line": 116,
+        "code": "$this->lang->txt('webfolder_instructions_text')",
+        "has_variable": false,
+        "variable": "webfolder_instructions_text"
+    },
+    {
+        "id": 48588,
+        "file": "components\/ILIAS\/WebDAV\/src\/Mount\/InstructionsGUI.php",
+        "line": 121,
+        "code": "$this->lang->txt('error')",
+        "has_variable": false,
+        "variable": "error"
+    },
+    {
+        "id": 48590,
+        "file": "components\/ILIAS\/WebDAV\/src\/Mount\/InstructionsGUI.php",
+        "line": 122,
+        "code": "$this->lang->txt('webdav_missing_lang')",
+        "has_variable": false,
+        "variable": "webdav_missing_lang"
+    },
+    {
+        "id": 48592,
+        "file": "components\/ILIAS\/WebDAV\/src\/Mount\/ModalGUI.php",
+        "line": 46,
+        "code": "$this->lng->txt('webfolder_instructions_titletext')",
+        "has_variable": false,
+        "variable": "webfolder_instructions_titletext"
+    },
+    {
+        "id": 48594,
+        "file": "components\/ILIAS\/WebDAV\/src\/Mount\/UploadGUI.php",
+        "line": 78,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 48596,
+        "file": "components\/ILIAS\/WebDAV\/src\/Mount\/UploadGUI.php",
+        "line": 99,
+        "code": "$this->lng->txt('webdav_add_instructions_btn_label')",
+        "has_variable": false,
+        "variable": "webdav_add_instructions_btn_label"
+    },
+    {
+        "id": 48598,
+        "file": "components\/ILIAS\/WebDAV\/src\/Mount\/UploadGUI.php",
+        "line": 153,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 48600,
+        "file": "components\/ILIAS\/WebDAV\/src\/Mount\/UploadGUI.php",
+        "line": 163,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 48602,
+        "file": "components\/ILIAS\/WebDAV\/src\/Mount\/UploadGUI.php",
+        "line": 175,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 48604,
+        "file": "components\/ILIAS\/WebDAV\/src\/Mount\/UploadGUI.php",
+        "line": 180,
+        "code": "$this->lng->txt('saved_successfully')",
+        "has_variable": false,
+        "variable": "saved_successfully"
+    },
+    {
+        "id": 48606,
+        "file": "components\/ILIAS\/WebDAV\/src\/Mount\/UploadGUI.php",
+        "line": 196,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 48608,
+        "file": "components\/ILIAS\/WebDAV\/src\/Mount\/UploadGUI.php",
+        "line": 204,
+        "code": "$this->lng->txt('saved_successfully')",
+        "has_variable": false,
+        "variable": "saved_successfully"
+    },
+    {
+        "id": 48610,
+        "file": "components\/ILIAS\/WebDAV\/src\/Mount\/UploadGUI.php",
+        "line": 220,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 48612,
+        "file": "components\/ILIAS\/WebDAV\/src\/Mount\/UploadGUI.php",
+        "line": 226,
+        "code": "$this->lng->txt('deleted_successfully')",
+        "has_variable": false,
+        "variable": "deleted_successfully"
+    },
+    {
+        "id": 48614,
+        "file": "components\/ILIAS\/WebDAV\/src\/Mount\/UploadGUI.php",
+        "line": 233,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 48616,
+        "file": "components\/ILIAS\/WebDAV\/src\/Mount\/UploadGUI.php",
+        "line": 253,
+        "code": "$this->lng->txt('webdav_saved_sorting')",
+        "has_variable": false,
+        "variable": "webdav_saved_sorting"
+    }
+]

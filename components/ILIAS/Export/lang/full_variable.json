@@ -1,0 +1,86 @@
+{
+    "metadata": {
+        "type": "full",
+        "count": 7,
+        "description": "Variable usages without detectable prefixes or suffixes (pure variable references without static strings)"
+    },
+    "matches": [
+        {
+            "id": 16532,
+            "file": "components\/ILIAS\/Export\/classes\/ExportHandler\/Table\/DataRetrieval\/Handler.php",
+            "line": 88,
+            "code": "$this->lng->txt(self::LNG_PUBLIC_ACCESS_STATUS)",
+            "variable": "LNG_PUBLIC_ACCESS_STATUS",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 16534,
+            "file": "components\/ILIAS\/Export\/classes\/ExportHandler\/Table\/DataRetrieval\/Handler.php",
+            "line": 89,
+            "code": "$this->lng->txt(self::LNG_NOT_PUBLIC_ACCESS_STATUS)",
+            "variable": "LNG_NOT_PUBLIC_ACCESS_STATUS",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 16536,
+            "file": "components\/ILIAS\/Export\/classes\/ExportHandler\/Table\/Handler.php",
+            "line": 104,
+            "code": "$this->lng->txt(self::TABLE_COL_LNG_TYPE)",
+            "variable": "TABLE_COL_LNG_TYPE",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 16538,
+            "file": "components\/ILIAS\/Export\/classes\/ExportHandler\/Table\/Handler.php",
+            "line": 107,
+            "code": "$this->lng->txt(self::TABLE_COL_LNG_FILE)",
+            "variable": "TABLE_COL_LNG_FILE",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 16540,
+            "file": "components\/ILIAS\/Export\/classes\/ExportHandler\/Table\/Handler.php",
+            "line": 110,
+            "code": "$this->lng->txt(self::TABLE_COL_LNG_SIZE)",
+            "variable": "TABLE_COL_LNG_SIZE",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 16542,
+            "file": "components\/ILIAS\/Export\/classes\/ExportHandler\/Table\/Handler.php",
+            "line": 115,
+            "code": "$this->lng->txt(self::TABLE_COL_LNG_TIMESTAMP)",
+            "variable": "TABLE_COL_LNG_TIMESTAMP",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 16544,
+            "file": "components\/ILIAS\/Export\/classes\/ExportHandler\/Table\/Handler.php",
+            "line": 121,
+            "code": "$this->lng->txt(self::TABLE_COL_LNG_PUBLIC_ACCESS)",
+            "variable": "TABLE_COL_LNG_PUBLIC_ACCESS",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        }
+    ]
+}

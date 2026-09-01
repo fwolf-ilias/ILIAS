@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "type": "full",
+        "count": 1,
+        "description": "Variable usages without detectable prefixes or suffixes (pure variable references without static strings)"
+    },
+    "matches": [
+        {
+            "id": 39594,
+            "file": "components\/ILIAS\/Taxonomy\/classes\/class.ilTaxonomyTableGUI.php",
+            "line": 78,
+            "code": "$this->lng->txt(\"\")",
+            "variable": "",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        }
+    ]
+}

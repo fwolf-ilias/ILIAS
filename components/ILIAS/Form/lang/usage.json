@@ -1,0 +1,1282 @@
+[
+    {
+        "id": 17346,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilAlphabetInputGUI.php",
+        "line": 98,
+        "code": "$lng->txt(\"msg_input_is_required\")",
+        "has_variable": false,
+        "variable": "msg_input_is_required"
+    },
+    {
+        "id": 17348,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilAlphabetInputGUI.php",
+        "line": 173,
+        "code": "$lng->txt(\"form_alphabet_all\")",
+        "has_variable": false,
+        "variable": "form_alphabet_all"
+    },
+    {
+        "id": 17350,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilCSSRectInputGUI.php",
+        "line": 157,
+        "code": "$lng->txt(\"msg_input_is_required\")",
+        "has_variable": false,
+        "variable": "msg_input_is_required"
+    },
+    {
+        "id": 17352,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilCSSRectInputGUI.php",
+        "line": 165,
+        "code": "$lng->txt('msg_invalid_value_css_rect_input')",
+        "has_variable": false,
+        "variable": "msg_invalid_value_css_rect_input"
+    },
+    {
+        "id": 17354,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilCSSRectInputGUI.php",
+        "line": 175,
+        "code": "$lng->txt(\"msg_unit_is_required\")",
+        "has_variable": false,
+        "variable": "msg_unit_is_required"
+    },
+    {
+        "id": 17356,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilCSSRectInputGUI.php",
+        "line": 220,
+        "code": "$lng->txt(\"pos_top\")",
+        "has_variable": false,
+        "variable": "pos_top"
+    },
+    {
+        "id": 17358,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilCSSRectInputGUI.php",
+        "line": 221,
+        "code": "$lng->txt(\"pos_right\")",
+        "has_variable": false,
+        "variable": "pos_right"
+    },
+    {
+        "id": 17360,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilCSSRectInputGUI.php",
+        "line": 222,
+        "code": "$lng->txt(\"pos_bottom\")",
+        "has_variable": false,
+        "variable": "pos_bottom"
+    },
+    {
+        "id": 17362,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilCSSRectInputGUI.php",
+        "line": 223,
+        "code": "$lng->txt(\"pos_left\")",
+        "has_variable": false,
+        "variable": "pos_left"
+    },
+    {
+        "id": 17364,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilCheckboxGroupInputGUI.php",
+        "line": 113,
+        "code": "$lng->txt('msg_input_is_required')",
+        "has_variable": false,
+        "variable": "msg_input_is_required"
+    },
+    {
+        "id": 17366,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilColorPickerInputGUI.php",
+        "line": 46,
+        "code": "$this->lng->txt(\"msg_input_is_required\")",
+        "has_variable": false,
+        "variable": "msg_input_is_required"
+    },
+    {
+        "id": 17368,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilCountrySelectInputGUI.php",
+        "line": 48,
+        "code": "$lng->txt(\"meta_c_\" . $c)",
+        "has_variable": true,
+        "variable": "\"meta_c_\" . $c"
+    },
+    {
+        "id": 17370,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilCountrySelectInputGUI.php",
+        "line": 52,
+        "code": "$lng->txt(\"form_please_select\")",
+        "has_variable": false,
+        "variable": "form_please_select"
+    },
+    {
+        "id": 17372,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilCustomInputGUI.php",
+        "line": 78,
+        "code": "$lng->txt(\"msg_input_is_required\")",
+        "has_variable": false,
+        "variable": "msg_input_is_required"
+    },
+    {
+        "id": 17374,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilDateDurationInputGUI.php",
+        "line": 279,
+        "code": "$lng->txt(\"form_msg_wrong_date\")",
+        "has_variable": false,
+        "variable": "form_msg_wrong_date"
+    },
+    {
+        "id": 17376,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilDateDurationInputGUI.php",
+        "line": 378,
+        "code": "$lng->txt(\"form_date_duration_start\")",
+        "has_variable": false,
+        "variable": "form_date_duration_start"
+    },
+    {
+        "id": 17378,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilDateDurationInputGUI.php",
+        "line": 388,
+        "code": "$lng->txt(\"form_date_duration_end\")",
+        "has_variable": false,
+        "variable": "form_date_duration_end"
+    },
+    {
+        "id": 17380,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilDateTimeInputGUI.php",
+        "line": 163,
+        "code": "$lng->txt(\"form_msg_wrong_date\")",
+        "has_variable": false,
+        "variable": "form_msg_wrong_date"
+    },
+    {
+        "id": 17382,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilDurationInputGUI.php",
+        "line": 189,
+        "code": "$lng->txt(\"form_months\")",
+        "has_variable": false,
+        "variable": "form_months"
+    },
+    {
+        "id": 17384,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilDurationInputGUI.php",
+        "line": 212,
+        "code": "$lng->txt(\"form_days\")",
+        "has_variable": false,
+        "variable": "form_days"
+    },
+    {
+        "id": 17386,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilDurationInputGUI.php",
+        "line": 235,
+        "code": "$lng->txt(\"form_hours\")",
+        "has_variable": false,
+        "variable": "form_hours"
+    },
+    {
+        "id": 17388,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilDurationInputGUI.php",
+        "line": 258,
+        "code": "$lng->txt(\"form_minutes\")",
+        "has_variable": false,
+        "variable": "form_minutes"
+    },
+    {
+        "id": 17390,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilDurationInputGUI.php",
+        "line": 281,
+        "code": "$lng->txt(\"form_seconds\")",
+        "has_variable": false,
+        "variable": "form_seconds"
+    },
+    {
+        "id": 17392,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilEMailInputGUI.php",
+        "line": 87,
+        "code": "$lng->txt(\"msg_input_is_required\")",
+        "has_variable": false,
+        "variable": "msg_input_is_required"
+    },
+    {
+        "id": 17394,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilEMailInputGUI.php",
+        "line": 92,
+        "code": "$lng->txt('email_not_match')",
+        "has_variable": false,
+        "variable": "email_not_match"
+    },
+    {
+        "id": 17396,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilEMailInputGUI.php",
+        "line": 98,
+        "code": "$lng->txt(\"email_not_valid\")",
+        "has_variable": false,
+        "variable": "email_not_valid"
+    },
+    {
+        "id": 17398,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilEMailInputGUI.php",
+        "line": 127,
+        "code": "$lng->txt('form_retype_email')",
+        "has_variable": false,
+        "variable": "form_retype_email"
+    },
+    {
+        "id": 17400,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilFileInputGUI.php",
+        "line": 59,
+        "code": "$this->lng->txt(\"form_file_input\")",
+        "has_variable": false,
+        "variable": "form_file_input"
+    },
+    {
+        "id": 17402,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilFileInputGUI.php",
+        "line": 183,
+        "code": "$this->lng->txt(\"form_msg_file_size_exceeds\")",
+        "has_variable": false,
+        "variable": "form_msg_file_size_exceeds"
+    },
+    {
+        "id": 17404,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilFileInputGUI.php",
+        "line": 206,
+        "code": "$this->lng->txt(\"form_msg_file_size_exceeds\")",
+        "has_variable": false,
+        "variable": "form_msg_file_size_exceeds"
+    },
+    {
+        "id": 17406,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilFileInputGUI.php",
+        "line": 210,
+        "code": "$this->lng->txt(\"form_msg_file_partially_uploaded\")",
+        "has_variable": false,
+        "variable": "form_msg_file_partially_uploaded"
+    },
+    {
+        "id": 17408,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilFileInputGUI.php",
+        "line": 216,
+        "code": "$this->lng->txt(\"form_msg_file_no_upload\")",
+        "has_variable": false,
+        "variable": "form_msg_file_no_upload"
+    },
+    {
+        "id": 17410,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilFileInputGUI.php",
+        "line": 223,
+        "code": "$this->lng->txt(\"form_msg_file_missing_tmp_dir\")",
+        "has_variable": false,
+        "variable": "form_msg_file_missing_tmp_dir"
+    },
+    {
+        "id": 17412,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilFileInputGUI.php",
+        "line": 227,
+        "code": "$this->lng->txt(\"form_msg_file_cannot_write_to_disk\")",
+        "has_variable": false,
+        "variable": "form_msg_file_cannot_write_to_disk"
+    },
+    {
+        "id": 17414,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilFileInputGUI.php",
+        "line": 231,
+        "code": "$this->lng->txt(\"form_msg_file_upload_stopped_ext\")",
+        "has_variable": false,
+        "variable": "form_msg_file_upload_stopped_ext"
+    },
+    {
+        "id": 17416,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilFileInputGUI.php",
+        "line": 239,
+        "code": "$this->lng->txt(\"form_msg_file_type_is_not_allowed\")",
+        "has_variable": false,
+        "variable": "form_msg_file_type_is_not_allowed"
+    },
+    {
+        "id": 17418,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilFileInputGUI.php",
+        "line": 244,
+        "code": "$this->lng->txt(\"form_msg_file_wrong_file_type\")",
+        "has_variable": false,
+        "variable": "form_msg_file_wrong_file_type"
+    },
+    {
+        "id": 17420,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilFileInputGUI.php",
+        "line": 254,
+        "code": "$this->lng->txt(\"form_msg_file_virus_found\")",
+        "has_variable": false,
+        "variable": "form_msg_file_virus_found"
+    },
+    {
+        "id": 17422,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilFileInputGUI.php",
+        "line": 286,
+        "code": "$this->lng->txt('if_no_title_then_filename')",
+        "has_variable": false,
+        "variable": "if_no_title_then_filename"
+    },
+    {
+        "id": 17424,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilFileInputGUI.php",
+        "line": 295,
+        "code": "$this->lng->txt(\"delete_existing_file\")",
+        "has_variable": false,
+        "variable": "delete_existing_file"
+    },
+    {
+        "id": 17426,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilFileInputGUI.php",
+        "line": 311,
+        "code": "$this->lng->txt(\"file_notice\")",
+        "has_variable": false,
+        "variable": "file_notice"
+    },
+    {
+        "id": 17428,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilFileInputGUI.php",
+        "line": 331,
+        "code": "$this->lng->txt(\"file_upload_pending\")",
+        "has_variable": false,
+        "variable": "file_upload_pending"
+    },
+    {
+        "id": 17430,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilFileInputGUI.php",
+        "line": 343,
+        "code": "$this->lng->txt('form_msg_file_size_exceeds')",
+        "has_variable": false,
+        "variable": "form_msg_file_size_exceeds"
+    },
+    {
+        "id": 17432,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilFileInputGUI.php",
+        "line": 348,
+        "code": "$this->lng->txt('selected_files')",
+        "has_variable": false,
+        "variable": "selected_files"
+    },
+    {
+        "id": 17434,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilFileInputGUI.php",
+        "line": 352,
+        "code": "$this->lng->txt(\"select_file\")",
+        "has_variable": false,
+        "variable": "select_file"
+    },
+    {
+        "id": 17436,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilFileInputGUI.php",
+        "line": 381,
+        "code": "$this->lng->txt(\"file_allowed_suffixes\")",
+        "has_variable": false,
+        "variable": "file_allowed_suffixes"
+    },
+    {
+        "id": 17438,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilFileWizardInputGUI.php",
+        "line": 90,
+        "code": "$lng->txt(\"form_msg_file_size_exceeds\")",
+        "has_variable": false,
+        "variable": "form_msg_file_size_exceeds"
+    },
+    {
+        "id": 17440,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilFileWizardInputGUI.php",
+        "line": 115,
+        "code": "$lng->txt(\"form_msg_file_size_exceeds\")",
+        "has_variable": false,
+        "variable": "form_msg_file_size_exceeds"
+    },
+    {
+        "id": 17442,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilFileWizardInputGUI.php",
+        "line": 120,
+        "code": "$lng->txt(\"form_msg_file_partially_uploaded\")",
+        "has_variable": false,
+        "variable": "form_msg_file_partially_uploaded"
+    },
+    {
+        "id": 17444,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilFileWizardInputGUI.php",
+        "line": 128,
+        "code": "$lng->txt(\"form_msg_file_no_upload\")",
+        "has_variable": false,
+        "variable": "form_msg_file_no_upload"
+    },
+    {
+        "id": 17446,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilFileWizardInputGUI.php",
+        "line": 135,
+        "code": "$lng->txt(\"form_msg_file_missing_tmp_dir\")",
+        "has_variable": false,
+        "variable": "form_msg_file_missing_tmp_dir"
+    },
+    {
+        "id": 17448,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilFileWizardInputGUI.php",
+        "line": 140,
+        "code": "$lng->txt(\"form_msg_file_cannot_write_to_disk\")",
+        "has_variable": false,
+        "variable": "form_msg_file_cannot_write_to_disk"
+    },
+    {
+        "id": 17450,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilFileWizardInputGUI.php",
+        "line": 145,
+        "code": "$lng->txt(\"form_msg_file_upload_stopped_ext\")",
+        "has_variable": false,
+        "variable": "form_msg_file_upload_stopped_ext"
+    },
+    {
+        "id": 17452,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilFileWizardInputGUI.php",
+        "line": 154,
+        "code": "$lng->txt(\"form_msg_file_wrong_file_type\")",
+        "has_variable": false,
+        "variable": "form_msg_file_wrong_file_type"
+    },
+    {
+        "id": 17454,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilFileWizardInputGUI.php",
+        "line": 163,
+        "code": "$lng->txt(\"form_msg_file_virus_found\")",
+        "has_variable": false,
+        "variable": "form_msg_file_virus_found"
+    },
+    {
+        "id": 17456,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilFileWizardInputGUI.php",
+        "line": 225,
+        "code": "$lng->txt(\"add\")",
+        "has_variable": false,
+        "variable": "add"
+    },
+    {
+        "id": 17458,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilFileWizardInputGUI.php",
+        "line": 226,
+        "code": "$lng->txt(\"remove\")",
+        "has_variable": false,
+        "variable": "remove"
+    },
+    {
+        "id": 17460,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilFileWizardInputGUI.php",
+        "line": 246,
+        "code": "$lng->txt(\"file_notice\")",
+        "has_variable": false,
+        "variable": "file_notice"
+    },
+    {
+        "id": 17462,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilFileWizardInputGUI.php",
+        "line": 248,
+        "code": "$lng->txt(\"form_msg_max_upload\")",
+        "has_variable": false,
+        "variable": "form_msg_max_upload"
+    },
+    {
+        "id": 17464,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilFormPropertyGUI.php",
+        "line": 375,
+        "code": "$lng->txt(\"add\")",
+        "has_variable": false,
+        "variable": "add"
+    },
+    {
+        "id": 17466,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilFormPropertyGUI.php",
+        "line": 376,
+        "code": "$lng->txt(\"remove\")",
+        "has_variable": false,
+        "variable": "remove"
+    },
+    {
+        "id": 17468,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilFormPropertyGUI.php",
+        "line": 385,
+        "code": "$lng->txt(\"down\")",
+        "has_variable": false,
+        "variable": "down"
+    },
+    {
+        "id": 17470,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilFormPropertyGUI.php",
+        "line": 386,
+        "code": "$lng->txt(\"up\")",
+        "has_variable": false,
+        "variable": "up"
+    },
+    {
+        "id": 17472,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilFormulaInputGUI.php",
+        "line": 56,
+        "code": "$lng->txt(\"msg_input_is_required\")",
+        "has_variable": false,
+        "variable": "msg_input_is_required"
+    },
+    {
+        "id": 17474,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilFormulaInputGUI.php",
+        "line": 63,
+        "code": "$lng->txt(\"form_msg_formula_is_required\")",
+        "has_variable": false,
+        "variable": "form_msg_formula_is_required"
+    },
+    {
+        "id": 17476,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilImageFileInputGUI.php",
+        "line": 48,
+        "code": "$lng->txt(\"form_image_file_input\")",
+        "has_variable": false,
+        "variable": "form_image_file_input"
+    },
+    {
+        "id": 17478,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilImageFileInputGUI.php",
+        "line": 119,
+        "code": "$lng->txt(\"form_use_camera\")",
+        "has_variable": false,
+        "variable": "form_use_camera"
+    },
+    {
+        "id": 17480,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilImageFileInputGUI.php",
+        "line": 120,
+        "code": "$lng->txt(\"form_take_snapshot\")",
+        "has_variable": false,
+        "variable": "form_take_snapshot"
+    },
+    {
+        "id": 17482,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilImageFileInputGUI.php",
+        "line": 132,
+        "code": "$lng->txt(\"delete_existing_file\")",
+        "has_variable": false,
+        "variable": "delete_existing_file"
+    },
+    {
+        "id": 17484,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilImageFileInputGUI.php",
+        "line": 161,
+        "code": "$lng->txt(\"file_upload_pending\")",
+        "has_variable": false,
+        "variable": "file_upload_pending"
+    },
+    {
+        "id": 17486,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilImageFileInputGUI.php",
+        "line": 166,
+        "code": "$this->lng->txt('form_msg_file_size_exceeds')",
+        "has_variable": false,
+        "variable": "form_msg_file_size_exceeds"
+    },
+    {
+        "id": 17488,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilImageFileInputGUI.php",
+        "line": 170,
+        "code": "$this->lng->txt('selected_files')",
+        "has_variable": false,
+        "variable": "selected_files"
+    },
+    {
+        "id": 17490,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilImageFileInputGUI.php",
+        "line": 173,
+        "code": "$lng->txt(\"select_file\")",
+        "has_variable": false,
+        "variable": "select_file"
+    },
+    {
+        "id": 17492,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilImageFileInputGUI.php",
+        "line": 177,
+        "code": "$lng->txt(\"file_notice\")",
+        "has_variable": false,
+        "variable": "file_notice"
+    },
+    {
+        "id": 17494,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilLinkInputGUI.php",
+        "line": 261,
+        "code": "$lng->txt(\"msg_input_is_required\")",
+        "has_variable": false,
+        "variable": "msg_input_is_required"
+    },
+    {
+        "id": 17496,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilLinkInputGUI.php",
+        "line": 268,
+        "code": "$lng->txt(\"msg_input_is_required\")",
+        "has_variable": false,
+        "variable": "msg_input_is_required"
+    },
+    {
+        "id": 17498,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilLinkInputGUI.php",
+        "line": 275,
+        "code": "$lng->txt(\"msg_input_is_required\")",
+        "has_variable": false,
+        "variable": "msg_input_is_required"
+    },
+    {
+        "id": 17500,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilLinkInputGUI.php",
+        "line": 346,
+        "code": "$lng->txt(\"url\")",
+        "has_variable": false,
+        "variable": "url"
+    },
+    {
+        "id": 17502,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilLinkInputGUI.php",
+        "line": 368,
+        "code": "$lng->txt(\"form_get_link\")",
+        "has_variable": false,
+        "variable": "form_get_link"
+    },
+    {
+        "id": 17504,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilLinkInputGUI.php",
+        "line": 370,
+        "code": "$lng->txt(\"remove\")",
+        "has_variable": false,
+        "variable": "remove"
+    },
+    {
+        "id": 17506,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilLinkInputGUI.php",
+        "line": 372,
+        "code": "$lng->txt(\"object\")",
+        "has_variable": false,
+        "variable": "object"
+    },
+    {
+        "id": 17508,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilLinkInputGUI.php",
+        "line": 384,
+        "code": "$lng->txt(\"form_link_external\")",
+        "has_variable": false,
+        "variable": "form_link_external"
+    },
+    {
+        "id": 17510,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilLinkInputGUI.php",
+        "line": 389,
+        "code": "$lng->txt(\"form_link_internal\")",
+        "has_variable": false,
+        "variable": "form_link_internal"
+    },
+    {
+        "id": 17512,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilLinkInputGUI.php",
+        "line": 395,
+        "code": "$lng->txt(\"form_no_link\")",
+        "has_variable": false,
+        "variable": "form_no_link"
+    },
+    {
+        "id": 17514,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilLinkInputGUI.php",
+        "line": 417,
+        "code": "$lng->txt(\"webr_link_type_single\")",
+        "has_variable": false,
+        "variable": "webr_link_type_single"
+    },
+    {
+        "id": 17516,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilLinkInputGUI.php",
+        "line": 419,
+        "code": "$lng->txt(\"webr_link_type_list\")",
+        "has_variable": false,
+        "variable": "webr_link_type_list"
+    },
+    {
+        "id": 17518,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilLinkInputGUI.php",
+        "line": 421,
+        "code": "$lng->txt(\"webr_link_target\")",
+        "has_variable": false,
+        "variable": "webr_link_target"
+    },
+    {
+        "id": 17520,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilLinkInputGUI.php",
+        "line": 423,
+        "code": "$lng->txt(\"form_no_link\")",
+        "has_variable": false,
+        "variable": "form_no_link"
+    },
+    {
+        "id": 17522,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilLinkInputGUI.php",
+        "line": 426,
+        "code": "$lng->txt(\"form_link_external\")",
+        "has_variable": false,
+        "variable": "form_link_external"
+    },
+    {
+        "id": 17524,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilLinkInputGUI.php",
+        "line": 428,
+        "code": "$lng->txt(\"form_link_internal\")",
+        "has_variable": false,
+        "variable": "form_link_internal"
+    },
+    {
+        "id": 17526,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilLinkInputGUI.php",
+        "line": 539,
+        "code": "$lng->txt(\"obj_mob\")",
+        "has_variable": false,
+        "variable": "obj_mob"
+    },
+    {
+        "id": 17528,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilLinkInputGUI.php",
+        "line": 544,
+        "code": "$lng->txt(\"obj_pg\")",
+        "has_variable": false,
+        "variable": "obj_pg"
+    },
+    {
+        "id": 17530,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilLinkInputGUI.php",
+        "line": 549,
+        "code": "$lng->txt(\"cont_prtf_page\")",
+        "has_variable": false,
+        "variable": "cont_prtf_page"
+    },
+    {
+        "id": 17532,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilLinkInputGUI.php",
+        "line": 554,
+        "code": "$lng->txt(\"obj_st\")",
+        "has_variable": false,
+        "variable": "obj_st"
+    },
+    {
+        "id": 17534,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilLinkInputGUI.php",
+        "line": 559,
+        "code": "$lng->txt(\"term\")",
+        "has_variable": false,
+        "variable": "term"
+    },
+    {
+        "id": 17536,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilLinkInputGUI.php",
+        "line": 564,
+        "code": "$lng->txt(\"cont_wiki_page\")",
+        "has_variable": false,
+        "variable": "cont_wiki_page"
+    },
+    {
+        "id": 17538,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilLinkInputGUI.php",
+        "line": 569,
+        "code": "$lng->txt(\"obj_\" . $value[0])",
+        "has_variable": true,
+        "variable": "\"obj_\" . $value[0]"
+    },
+    {
+        "id": 17540,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilLocationInputGUI.php",
+        "line": 109,
+        "code": "$lng->txt(\"msg_input_is_required\")",
+        "has_variable": false,
+        "variable": "msg_input_is_required"
+    },
+    {
+        "id": 17542,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilLocationInputGUI.php",
+        "line": 135,
+        "code": "$lng->txt(\"maps_zoom_level\")",
+        "has_variable": false,
+        "variable": "maps_zoom_level"
+    },
+    {
+        "id": 17544,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilLocationInputGUI.php",
+        "line": 136,
+        "code": "$lng->txt(\"maps_latitude\")",
+        "has_variable": false,
+        "variable": "maps_latitude"
+    },
+    {
+        "id": 17546,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilLocationInputGUI.php",
+        "line": 137,
+        "code": "$lng->txt(\"maps_longitude\")",
+        "has_variable": false,
+        "variable": "maps_longitude"
+    },
+    {
+        "id": 17548,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilLocationInputGUI.php",
+        "line": 138,
+        "code": "$lng->txt(\"maps_std_location_desc\")",
+        "has_variable": false,
+        "variable": "maps_std_location_desc"
+    },
+    {
+        "id": 17550,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilLocationInputGUI.php",
+        "line": 175,
+        "code": "$lng->txt(\"address\")",
+        "has_variable": false,
+        "variable": "address"
+    },
+    {
+        "id": 17552,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilLocationInputGUI.php",
+        "line": 176,
+        "code": "$lng->txt(\"maps_lookup_address\")",
+        "has_variable": false,
+        "variable": "maps_lookup_address"
+    },
+    {
+        "id": 17554,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilLocationInputGUI.php",
+        "line": 182,
+        "code": "$lng->txt(\"configure_geolocation\")",
+        "has_variable": false,
+        "variable": "configure_geolocation"
+    },
+    {
+        "id": 17556,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilMultiSelectInputGUI.php",
+        "line": 130,
+        "code": "$lng->txt(\"msg_input_is_required\")",
+        "has_variable": false,
+        "variable": "msg_input_is_required"
+    },
+    {
+        "id": 17558,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilMultiSelectInputGUI.php",
+        "line": 140,
+        "code": "$lng->txt(\"msg_unknown_value\")",
+        "has_variable": false,
+        "variable": "msg_unknown_value"
+    },
+    {
+        "id": 17560,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilMultiSelectInputGUI.php",
+        "line": 169,
+        "code": "$lng->txt(\"select_all\")",
+        "has_variable": false,
+        "variable": "select_all"
+    },
+    {
+        "id": 17562,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilNumberInputGUI.php",
+        "line": 204,
+        "code": "$lng->txt(\"msg_input_is_required\")",
+        "has_variable": false,
+        "variable": "msg_input_is_required"
+    },
+    {
+        "id": 17564,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilNumberInputGUI.php",
+        "line": 212,
+        "code": "$lng->txt(\"form_msg_numeric_value_required\")",
+        "has_variable": false,
+        "variable": "form_msg_numeric_value_required"
+    },
+    {
+        "id": 17566,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilNumberInputGUI.php",
+        "line": 220,
+        "code": "$lng->txt(\"form_msg_value_too_low\")",
+        "has_variable": false,
+        "variable": "form_msg_value_too_low"
+    },
+    {
+        "id": 17568,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilNumberInputGUI.php",
+        "line": 228,
+        "code": "$lng->txt(\"form_msg_value_too_low\")",
+        "has_variable": false,
+        "variable": "form_msg_value_too_low"
+    },
+    {
+        "id": 17570,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilNumberInputGUI.php",
+        "line": 238,
+        "code": "$lng->txt(\"form_msg_value_too_high\")",
+        "has_variable": false,
+        "variable": "form_msg_value_too_high"
+    },
+    {
+        "id": 17572,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilNumberInputGUI.php",
+        "line": 246,
+        "code": "$lng->txt(\"form_msg_value_too_high\")",
+        "has_variable": false,
+        "variable": "form_msg_value_too_high"
+    },
+    {
+        "id": 17574,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilNumberInputGUI.php",
+        "line": 294,
+        "code": "$lng->txt(\"form_format\")",
+        "has_variable": false,
+        "variable": "form_format"
+    },
+    {
+        "id": 17576,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilNumberInputGUI.php",
+        "line": 298,
+        "code": "$lng->txt(\"form_min_value\")",
+        "has_variable": false,
+        "variable": "form_min_value"
+    },
+    {
+        "id": 17578,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilNumberInputGUI.php",
+        "line": 302,
+        "code": "$lng->txt(\"form_max_value\")",
+        "has_variable": false,
+        "variable": "form_max_value"
+    },
+    {
+        "id": 17580,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilPasswordInputGUI.php",
+        "line": 179,
+        "code": "$lng->txt(\"msg_input_is_required\")",
+        "has_variable": false,
+        "variable": "msg_input_is_required"
+    },
+    {
+        "id": 17582,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilPasswordInputGUI.php",
+        "line": 188,
+        "code": "$lng->txt(\"form_password_required_for_auth\")",
+        "has_variable": false,
+        "variable": "form_password_required_for_auth"
+    },
+    {
+        "id": 17584,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilPasswordInputGUI.php",
+        "line": 195,
+        "code": "$lng->txt(\"form_password_not_allowed_for_auth\")",
+        "has_variable": false,
+        "variable": "form_password_not_allowed_for_auth"
+    },
+    {
+        "id": 17586,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilPasswordInputGUI.php",
+        "line": 201,
+        "code": "$lng->txt(\"passwd_not_match\")",
+        "has_variable": false,
+        "variable": "passwd_not_match"
+    },
+    {
+        "id": 17588,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilPasswordInputGUI.php",
+        "line": 210,
+        "code": "$lng->txt(\"passwd_invalid\")",
+        "has_variable": false,
+        "variable": "passwd_invalid"
+    },
+    {
+        "id": 17590,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilPasswordInputGUI.php",
+        "line": 259,
+        "code": "$lng->txt(\"form_retype_password\")",
+        "has_variable": false,
+        "variable": "form_retype_password"
+    },
+    {
+        "id": 17592,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilPropertyFormGUI.php",
+        "line": 540,
+        "code": "$lng->txt(\"required_field\")",
+        "has_variable": false,
+        "variable": "required_field"
+    },
+    {
+        "id": 17594,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilPropertyFormGUI.php",
+        "line": 552,
+        "code": "$lng->txt(\"required_field\")",
+        "has_variable": false,
+        "variable": "required_field"
+    },
+    {
+        "id": 17596,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilPropertyFormGUI.php",
+        "line": 568,
+        "code": "$lng->txt(\"required_field\")",
+        "has_variable": false,
+        "variable": "required_field"
+    },
+    {
+        "id": 17598,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilPropertyFormGUI.php",
+        "line": 755,
+        "code": "$lng->txt(\"alert\")",
+        "has_variable": false,
+        "variable": "alert"
+    },
+    {
+        "id": 17600,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilRadioGroupInputGUI.php",
+        "line": 79,
+        "code": "$lng->txt(\"msg_input_is_required\")",
+        "has_variable": false,
+        "variable": "msg_input_is_required"
+    },
+    {
+        "id": 17602,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilRegExpInputGUI.php",
+        "line": 74,
+        "code": "$lng->txt(\"msg_input_is_required\")",
+        "has_variable": false,
+        "variable": "msg_input_is_required"
+    },
+    {
+        "id": 17604,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilRegExpInputGUI.php",
+        "line": 81,
+        "code": "$lng->txt(\"msg_input_does_not_match_regexp\")",
+        "has_variable": false,
+        "variable": "msg_input_does_not_match_regexp"
+    },
+    {
+        "id": 17606,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilRepositorySelectorInputGUI.php",
+        "line": 60,
+        "code": "$lng->txt('search_area_info')",
+        "has_variable": false,
+        "variable": "search_area_info"
+    },
+    {
+        "id": 17608,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilRepositorySelectorInputGUI.php",
+        "line": 62,
+        "code": "$lng->txt(\"select\")",
+        "has_variable": false,
+        "variable": "select"
+    },
+    {
+        "id": 17610,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilRepositorySelectorInputGUI.php",
+        "line": 119,
+        "code": "$lng->txt(\"msg_input_is_required\")",
+        "has_variable": false,
+        "variable": "msg_input_is_required"
+    },
+    {
+        "id": 17612,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilRepositorySelectorInputGUI.php",
+        "line": 195,
+        "code": "$lng->txt(\"reset\")",
+        "has_variable": false,
+        "variable": "reset"
+    },
+    {
+        "id": 17614,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilRepositorySelectorInputGUI.php",
+        "line": 235,
+        "code": "$lng->txt(\"repository\")",
+        "has_variable": false,
+        "variable": "repository"
+    },
+    {
+        "id": 17616,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilSelectBuilderInputGUI.php",
+        "line": 73,
+        "code": "$lng->txt(\"msg_input_is_required\")",
+        "has_variable": false,
+        "variable": "msg_input_is_required"
+    },
+    {
+        "id": 17618,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilSelectBuilderInputGUI.php",
+        "line": 77,
+        "code": "$lng->txt(\"msg_wrong_format\")",
+        "has_variable": false,
+        "variable": "msg_wrong_format"
+    },
+    {
+        "id": 17620,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilSelectBuilderInputGUI.php",
+        "line": 83,
+        "code": "$lng->txt(\"msg_input_is_required\")",
+        "has_variable": false,
+        "variable": "msg_input_is_required"
+    },
+    {
+        "id": 17622,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilSelectBuilderInputGUI.php",
+        "line": 139,
+        "code": "$lng->txt(\"form_open_answer\")",
+        "has_variable": false,
+        "variable": "form_open_answer"
+    },
+    {
+        "id": 17624,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilSelectInputGUI.php",
+        "line": 111,
+        "code": "$lng->txt('msg_invalid_post_input')",
+        "has_variable": false,
+        "variable": "msg_invalid_post_input"
+    },
+    {
+        "id": 17626,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilSelectInputGUI.php",
+        "line": 118,
+        "code": "$lng->txt('msg_invalid_post_input')",
+        "has_variable": false,
+        "variable": "msg_invalid_post_input"
+    },
+    {
+        "id": 17628,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilSelectInputGUI.php",
+        "line": 127,
+        "code": "$lng->txt(\"msg_input_is_required\")",
+        "has_variable": false,
+        "variable": "msg_input_is_required"
+    },
+    {
+        "id": 17630,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilTextAreaInputGUI.php",
+        "line": 270,
+        "code": "$lng->txt(\"msg_input_is_required\")",
+        "has_variable": false,
+        "variable": "msg_input_is_required"
+    },
+    {
+        "id": 17632,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilTextAreaInputGUI.php",
+        "line": 278,
+        "code": "$lng->txt(\"msg_input_char_limit_max\")",
+        "has_variable": false,
+        "variable": "msg_input_char_limit_max"
+    },
+    {
+        "id": 17634,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilTextAreaInputGUI.php",
+        "line": 281,
+        "code": "$lng->txt(\"msg_input_char_limit_min\")",
+        "has_variable": false,
+        "variable": "msg_input_char_limit_min"
+    },
+    {
+        "id": 17636,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilTextAreaInputGUI.php",
+        "line": 430,
+        "code": "$lng->txt(\"form_chars_remaining\")",
+        "has_variable": false,
+        "variable": "form_chars_remaining"
+    },
+    {
+        "id": 17638,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilTextInputGUI.php",
+        "line": 186,
+        "code": "$lng->txt(\"msg_input_is_required\")",
+        "has_variable": false,
+        "variable": "msg_input_is_required"
+    },
+    {
+        "id": 17640,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilTextInputGUI.php",
+        "line": 192,
+        "code": "$lng->txt('msg_wrong_format')",
+        "has_variable": false,
+        "variable": "msg_wrong_format"
+    },
+    {
+        "id": 17642,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilTextInputGUI.php",
+        "line": 200,
+        "code": "$lng->txt(\"msg_input_is_required\")",
+        "has_variable": false,
+        "variable": "msg_input_is_required"
+    },
+    {
+        "id": 17644,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilTextInputGUI.php",
+        "line": 213,
+        "code": "$lng->txt('msg_wrong_format')",
+        "has_variable": false,
+        "variable": "msg_wrong_format"
+    },
+    {
+        "id": 17646,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilTextInputGUI.php",
+        "line": 362,
+        "code": "$this->lng->txt('autocomplete_more')",
+        "has_variable": false,
+        "variable": "autocomplete_more"
+    },
+    {
+        "id": 17648,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilTextWizardInputGUI.php",
+        "line": 81,
+        "code": "$lng->txt(\"msg_input_is_required\")",
+        "has_variable": false,
+        "variable": "msg_input_is_required"
+    },
+    {
+        "id": 17650,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilTextWizardInputGUI.php",
+        "line": 85,
+        "code": "$lng->txt(\"msg_wrong_format\")",
+        "has_variable": false,
+        "variable": "msg_wrong_format"
+    },
+    {
+        "id": 17652,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilTextWizardInputGUI.php",
+        "line": 89,
+        "code": "$lng->txt(\"msg_input_char_limit_max\")",
+        "has_variable": false,
+        "variable": "msg_input_char_limit_max"
+    },
+    {
+        "id": 17654,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilTextWizardInputGUI.php",
+        "line": 94,
+        "code": "$lng->txt(\"msg_input_is_required\")",
+        "has_variable": false,
+        "variable": "msg_input_is_required"
+    },
+    {
+        "id": 17656,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilUriInputGUI.php",
+        "line": 54,
+        "code": "$lng->txt(\"msg_input_is_required\")",
+        "has_variable": false,
+        "variable": "msg_input_is_required"
+    },
+    {
+        "id": 17658,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilUriInputGUI.php",
+        "line": 63,
+        "code": "$lng->txt(\"form_invalid_uri\")",
+        "has_variable": false,
+        "variable": "form_invalid_uri"
+    },
+    {
+        "id": 17660,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilUserLoginInputGUI.php",
+        "line": 89,
+        "code": "$lng->txt(\"msg_input_is_required\")",
+        "has_variable": false,
+        "variable": "msg_input_is_required"
+    },
+    {
+        "id": 17662,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilUserLoginInputGUI.php",
+        "line": 93,
+        "code": "$lng->txt(\"login_invalid\")",
+        "has_variable": false,
+        "variable": "login_invalid"
+    },
+    {
+        "id": 17664,
+        "file": "components\/ILIAS\/Form\/classes\/class.ilUserLoginInputGUI.php",
+        "line": 98,
+        "code": "$lng->txt(\"login_exists\")",
+        "has_variable": false,
+        "variable": "login_exists"
+    }
+]

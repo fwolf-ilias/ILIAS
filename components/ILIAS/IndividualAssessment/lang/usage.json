@@ -1,0 +1,1114 @@
+[
+    {
+        "id": 20884,
+        "file": "components\/ILIAS\/IndividualAssessment\/classes\/Settings\/class.ilIndividualAssessmentCommonSettingsGUI.php",
+        "line": 73,
+        "code": "$this->txt('obj_features')",
+        "has_variable": false,
+        "variable": "obj_features"
+    },
+    {
+        "id": 20886,
+        "file": "components\/ILIAS\/IndividualAssessment\/classes\/Settings\/class.ilIndividualAssessmentCommonSettingsGUI.php",
+        "line": 74,
+        "code": "$this->txt('save')",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 20888,
+        "file": "components\/ILIAS\/IndividualAssessment\/classes\/Settings\/class.ilIndividualAssessmentCommonSettingsGUI.php",
+        "line": 75,
+        "code": "$this->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 20890,
+        "file": "components\/ILIAS\/IndividualAssessment\/classes\/Settings\/class.ilIndividualAssessmentCommonSettingsGUI.php",
+        "line": 98,
+        "code": "$this->txt('cont_presentation')",
+        "has_variable": false,
+        "variable": "cont_presentation"
+    },
+    {
+        "id": 20892,
+        "file": "components\/ILIAS\/IndividualAssessment\/classes\/Settings\/class.ilIndividualAssessmentCommonSettingsGUI.php",
+        "line": 126,
+        "code": "$this->lng->txt('iass_settings_saved')",
+        "has_variable": false,
+        "variable": "iass_settings_saved"
+    },
+    {
+        "id": 20894,
+        "file": "components\/ILIAS\/IndividualAssessment\/classes\/Settings\/class.ilIndividualAssessmentCommonSettingsGUI.php",
+        "line": 132,
+        "code": "$this->lng->txt($code)",
+        "has_variable": true,
+        "variable": "$code"
+    },
+    {
+        "id": 20896,
+        "file": "components\/ILIAS\/IndividualAssessment\/classes\/Settings\/class.ilIndividualAssessmentInfoSettings.php",
+        "line": 86,
+        "code": "$lng->txt(\"iass_contact\")",
+        "has_variable": false,
+        "variable": "iass_contact"
+    },
+    {
+        "id": 20898,
+        "file": "components\/ILIAS\/IndividualAssessment\/classes\/Settings\/class.ilIndividualAssessmentInfoSettings.php",
+        "line": 89,
+        "code": "$lng->txt(\"iass_responsibility\")",
+        "has_variable": false,
+        "variable": "iass_responsibility"
+    },
+    {
+        "id": 20900,
+        "file": "components\/ILIAS\/IndividualAssessment\/classes\/Settings\/class.ilIndividualAssessmentInfoSettings.php",
+        "line": 91,
+        "code": "$lng->txt(\"iass_phone\")",
+        "has_variable": false,
+        "variable": "iass_phone"
+    },
+    {
+        "id": 20902,
+        "file": "components\/ILIAS\/IndividualAssessment\/classes\/Settings\/class.ilIndividualAssessmentInfoSettings.php",
+        "line": 93,
+        "code": "$lng->txt(\"iass_mails\")",
+        "has_variable": false,
+        "variable": "iass_mails"
+    },
+    {
+        "id": 20904,
+        "file": "components\/ILIAS\/IndividualAssessment\/classes\/Settings\/class.ilIndividualAssessmentInfoSettings.php",
+        "line": 93,
+        "code": "$lng->txt(\"iass_info_emails_expl\")",
+        "has_variable": false,
+        "variable": "iass_info_emails_expl"
+    },
+    {
+        "id": 20906,
+        "file": "components\/ILIAS\/IndividualAssessment\/classes\/Settings\/class.ilIndividualAssessmentInfoSettings.php",
+        "line": 95,
+        "code": "$lng->txt(\"iass_consultation_hours\")",
+        "has_variable": false,
+        "variable": "iass_consultation_hours"
+    },
+    {
+        "id": 20908,
+        "file": "components\/ILIAS\/IndividualAssessment\/classes\/Settings\/class.ilIndividualAssessmentInfoSettings.php",
+        "line": 98,
+        "code": "$lng->txt(\"settings\")",
+        "has_variable": false,
+        "variable": "settings"
+    },
+    {
+        "id": 20910,
+        "file": "components\/ILIAS\/IndividualAssessment\/classes\/Settings\/class.ilIndividualAssessmentSettings.php",
+        "line": 120,
+        "code": "$lng->txt(\"title\")",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 20912,
+        "file": "components\/ILIAS\/IndividualAssessment\/classes\/Settings\/class.ilIndividualAssessmentSettings.php",
+        "line": 123,
+        "code": "$lng->txt(\"description\")",
+        "has_variable": false,
+        "variable": "description"
+    },
+    {
+        "id": 20914,
+        "file": "components\/ILIAS\/IndividualAssessment\/classes\/Settings\/class.ilIndividualAssessmentSettings.php",
+        "line": 125,
+        "code": "$lng->txt(\"iass_content\")",
+        "has_variable": false,
+        "variable": "iass_content"
+    },
+    {
+        "id": 20916,
+        "file": "components\/ILIAS\/IndividualAssessment\/classes\/Settings\/class.ilIndividualAssessmentSettings.php",
+        "line": 125,
+        "code": "$lng->txt(\"iass_content_explanation\")",
+        "has_variable": false,
+        "variable": "iass_content_explanation"
+    },
+    {
+        "id": 20918,
+        "file": "components\/ILIAS\/IndividualAssessment\/classes\/Settings\/class.ilIndividualAssessmentSettings.php",
+        "line": 127,
+        "code": "$lng->txt(\"iass_record_template\")",
+        "has_variable": false,
+        "variable": "iass_record_template"
+    },
+    {
+        "id": 20920,
+        "file": "components\/ILIAS\/IndividualAssessment\/classes\/Settings\/class.ilIndividualAssessmentSettings.php",
+        "line": 127,
+        "code": "$lng->txt(\"iass_record_template_explanation\")",
+        "has_variable": false,
+        "variable": "iass_record_template_explanation"
+    },
+    {
+        "id": 20922,
+        "file": "components\/ILIAS\/IndividualAssessment\/classes\/Settings\/class.ilIndividualAssessmentSettings.php",
+        "line": 129,
+        "code": "$lng->txt(\"iass_event_time_place_required\")",
+        "has_variable": false,
+        "variable": "iass_event_time_place_required"
+    },
+    {
+        "id": 20924,
+        "file": "components\/ILIAS\/IndividualAssessment\/classes\/Settings\/class.ilIndividualAssessmentSettings.php",
+        "line": 129,
+        "code": "$lng->txt(\"iass_event_time_place_required_info\")",
+        "has_variable": false,
+        "variable": "iass_event_time_place_required_info"
+    },
+    {
+        "id": 20926,
+        "file": "components\/ILIAS\/IndividualAssessment\/classes\/Settings\/class.ilIndividualAssessmentSettings.php",
+        "line": 131,
+        "code": "$lng->txt(\"iass_file_required\")",
+        "has_variable": false,
+        "variable": "iass_file_required"
+    },
+    {
+        "id": 20928,
+        "file": "components\/ILIAS\/IndividualAssessment\/classes\/Settings\/class.ilIndividualAssessmentSettings.php",
+        "line": 131,
+        "code": "$lng->txt(\"iass_file_required_info\")",
+        "has_variable": false,
+        "variable": "iass_file_required_info"
+    },
+    {
+        "id": 20930,
+        "file": "components\/ILIAS\/IndividualAssessment\/classes\/Settings\/class.ilIndividualAssessmentSettings.php",
+        "line": 134,
+        "code": "$lng->txt(\"settings\")",
+        "has_variable": false,
+        "variable": "settings"
+    },
+    {
+        "id": 20932,
+        "file": "components\/ILIAS\/IndividualAssessment\/classes\/class.ilIndividualAssessmentMemberGUI.php",
+        "line": 150,
+        "code": "$this->lng->txt('iass_membership_saved')",
+        "has_variable": false,
+        "variable": "iass_membership_saved"
+    },
+    {
+        "id": 20934,
+        "file": "components\/ILIAS\/IndividualAssessment\/classes\/class.ilIndividualAssessmentMemberGUI.php",
+        "line": 163,
+        "code": "$this->lng->txt(\"save_amend\")",
+        "has_variable": false,
+        "variable": "save_amend"
+    },
+    {
+        "id": 20936,
+        "file": "components\/ILIAS\/IndividualAssessment\/classes\/class.ilIndividualAssessmentMemberGUI.php",
+        "line": 206,
+        "code": "$this->lng->txt('iass_amend_saved')",
+        "has_variable": false,
+        "variable": "iass_amend_saved"
+    },
+    {
+        "id": 20938,
+        "file": "components\/ILIAS\/IndividualAssessment\/classes\/class.ilIndividualAssessmentMemberGUI.php",
+        "line": 250,
+        "code": "$this->lng->txt('iass_may_not_finalize')",
+        "has_variable": false,
+        "variable": "iass_may_not_finalize"
+    },
+    {
+        "id": 20940,
+        "file": "components\/ILIAS\/IndividualAssessment\/classes\/class.ilIndividualAssessmentMemberGUI.php",
+        "line": 278,
+        "code": "$this->lng->txt('iass_membership_finalized')",
+        "has_variable": false,
+        "variable": "iass_membership_finalized"
+    },
+    {
+        "id": 20942,
+        "file": "components\/ILIAS\/IndividualAssessment\/classes\/class.ilIndividualAssessmentMemberGUI.php",
+        "line": 289,
+        "code": "$this->lng->txt('iass_finalize_user_qst')",
+        "has_variable": false,
+        "variable": "iass_finalize_user_qst"
+    },
+    {
+        "id": 20944,
+        "file": "components\/ILIAS\/IndividualAssessment\/classes\/class.ilIndividualAssessmentMemberGUI.php",
+        "line": 296,
+        "code": "$this->lng->txt('iass_confirm_finalize')",
+        "has_variable": false,
+        "variable": "iass_confirm_finalize"
+    },
+    {
+        "id": 20946,
+        "file": "components\/ILIAS\/IndividualAssessment\/classes\/class.ilIndividualAssessmentMemberGUI.php",
+        "line": 297,
+        "code": "$this->lng->txt('iass_cancel')",
+        "has_variable": false,
+        "variable": "iass_cancel"
+    },
+    {
+        "id": 20948,
+        "file": "components\/ILIAS\/IndividualAssessment\/classes\/class.ilIndividualAssessmentMemberGUI.php",
+        "line": 327,
+        "code": "$this->lng->txt('iass_status_pending')",
+        "has_variable": false,
+        "variable": "iass_status_pending"
+    },
+    {
+        "id": 20950,
+        "file": "components\/ILIAS\/IndividualAssessment\/classes\/class.ilIndividualAssessmentMemberGUI.php",
+        "line": 328,
+        "code": "$this->lng->txt('iass_status_completed')",
+        "has_variable": false,
+        "variable": "iass_status_completed"
+    },
+    {
+        "id": 20952,
+        "file": "components\/ILIAS\/IndividualAssessment\/classes\/class.ilIndividualAssessmentMemberGUI.php",
+        "line": 329,
+        "code": "$this->lng->txt('iass_status_failed')",
+        "has_variable": false,
+        "variable": "iass_status_failed"
+    },
+    {
+        "id": 20954,
+        "file": "components\/ILIAS\/IndividualAssessment\/classes\/class.ilIndividualAssessmentMemberGUI.php",
+        "line": 360,
+        "code": "$this->lng->txt('iass_file_deleted')",
+        "has_variable": false,
+        "variable": "iass_file_deleted"
+    },
+    {
+        "id": 20956,
+        "file": "components\/ILIAS\/IndividualAssessment\/classes\/class.ilIndividualAssessmentMemberGUI.php",
+        "line": 485,
+        "code": "$this->lng->txt('download_assessment_paper')",
+        "has_variable": false,
+        "variable": "download_assessment_paper"
+    },
+    {
+        "id": 20958,
+        "file": "components\/ILIAS\/IndividualAssessment\/classes\/class.ilIndividualAssessmentMemberGUI.php",
+        "line": 543,
+        "code": "$this->lng->txt(\"msg_no_perm_read\")",
+        "has_variable": false,
+        "variable": "msg_no_perm_read"
+    },
+    {
+        "id": 20960,
+        "file": "components\/ILIAS\/IndividualAssessment\/classes\/class.ilIndividualAssessmentMembersGUI.php",
+        "line": 127,
+        "code": "$this->lng->txt('back')",
+        "has_variable": false,
+        "variable": "back"
+    },
+    {
+        "id": 20962,
+        "file": "components\/ILIAS\/IndividualAssessment\/classes\/class.ilIndividualAssessmentMembersGUI.php",
+        "line": 145,
+        "code": "$this->txt('iass_add_user_failure')",
+        "has_variable": false,
+        "variable": "iass_add_user_failure"
+    },
+    {
+        "id": 20964,
+        "file": "components\/ILIAS\/IndividualAssessment\/classes\/class.ilIndividualAssessmentMembersGUI.php",
+        "line": 147,
+        "code": "$this->txt('iass_add_user_success')",
+        "has_variable": false,
+        "variable": "iass_add_user_success"
+    },
+    {
+        "id": 20966,
+        "file": "components\/ILIAS\/IndividualAssessment\/classes\/class.ilIndividualAssessmentMembersGUI.php",
+        "line": 162,
+        "code": "$this->txt('user')",
+        "has_variable": false,
+        "variable": "user"
+    },
+    {
+        "id": 20968,
+        "file": "components\/ILIAS\/IndividualAssessment\/classes\/class.ilIndividualAssessmentMembersGUI.php",
+        "line": 163,
+        "code": "$this->txt('add')",
+        "has_variable": false,
+        "variable": "add"
+    },
+    {
+        "id": 20970,
+        "file": "components\/ILIAS\/IndividualAssessment\/classes\/class.ilIndividualAssessmentMembersGUI.php",
+        "line": 173,
+        "code": "$this->txt('user')",
+        "has_variable": false,
+        "variable": "user"
+    },
+    {
+        "id": 20972,
+        "file": "components\/ILIAS\/IndividualAssessment\/classes\/class.ilIndividualAssessmentMembersGUI.php",
+        "line": 174,
+        "code": "$this->txt('add')",
+        "has_variable": false,
+        "variable": "add"
+    },
+    {
+        "id": 20974,
+        "file": "components\/ILIAS\/IndividualAssessment\/classes\/class.ilIndividualAssessmentMembersGUI.php",
+        "line": 216,
+        "code": "$this->txt(\"search_no_selection\")",
+        "has_variable": false,
+        "variable": "search_no_selection"
+    },
+    {
+        "id": 20976,
+        "file": "components\/ILIAS\/IndividualAssessment\/classes\/class.ilIndividualAssessmentMembersGUI.php",
+        "line": 259,
+        "code": "$this->lng->txt('iass_remove_user_qst')",
+        "has_variable": false,
+        "variable": "iass_remove_user_qst"
+    },
+    {
+        "id": 20978,
+        "file": "components\/ILIAS\/IndividualAssessment\/classes\/class.ilIndividualAssessmentMembersGUI.php",
+        "line": 267,
+        "code": "$this->lng->txt('remove')",
+        "has_variable": false,
+        "variable": "remove"
+    },
+    {
+        "id": 20980,
+        "file": "components\/ILIAS\/IndividualAssessment\/classes\/class.ilIndividualAssessmentMembersGUI.php",
+        "line": 268,
+        "code": "$this->lng->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 20982,
+        "file": "components\/ILIAS\/IndividualAssessment\/classes\/class.ilIndividualAssessmentMembersGUI.php",
+        "line": 288,
+        "code": "$this->txt(\"iass_user_removed\")",
+        "has_variable": false,
+        "variable": "iass_user_removed"
+    },
+    {
+        "id": 20984,
+        "file": "components\/ILIAS\/IndividualAssessment\/classes\/class.ilIndividualAssessmentMembersGUI.php",
+        "line": 344,
+        "code": "$this->txt(\"iass_filter_all\")",
+        "has_variable": false,
+        "variable": "iass_filter_all"
+    },
+    {
+        "id": 20986,
+        "file": "components\/ILIAS\/IndividualAssessment\/classes\/class.ilIndividualAssessmentMembersGUI.php",
+        "line": 347,
+        "code": "$this->txt(\"iass_filter_not_started\")",
+        "has_variable": false,
+        "variable": "iass_filter_not_started"
+    },
+    {
+        "id": 20988,
+        "file": "components\/ILIAS\/IndividualAssessment\/classes\/class.ilIndividualAssessmentMembersGUI.php",
+        "line": 349,
+        "code": "$this->txt(\"iass_filter_not_finalized\")",
+        "has_variable": false,
+        "variable": "iass_filter_not_finalized"
+    },
+    {
+        "id": 20990,
+        "file": "components\/ILIAS\/IndividualAssessment\/classes\/class.ilIndividualAssessmentMembersGUI.php",
+        "line": 351,
+        "code": "$this->txt(\"iass_filter_finalized\")",
+        "has_variable": false,
+        "variable": "iass_filter_finalized"
+    },
+    {
+        "id": 20992,
+        "file": "components\/ILIAS\/IndividualAssessment\/classes\/class.ilIndividualAssessmentMembersGUI.php",
+        "line": 353,
+        "code": "$this->txt(\"iass_filter_failed\")",
+        "has_variable": false,
+        "variable": "iass_filter_failed"
+    },
+    {
+        "id": 20994,
+        "file": "components\/ILIAS\/IndividualAssessment\/classes\/class.ilIndividualAssessmentMembersGUI.php",
+        "line": 366,
+        "code": "$this->txt(\"iass_filter_not_started\")",
+        "has_variable": false,
+        "variable": "iass_filter_not_started"
+    },
+    {
+        "id": 20996,
+        "file": "components\/ILIAS\/IndividualAssessment\/classes\/class.ilIndividualAssessmentMembersGUI.php",
+        "line": 368,
+        "code": "$this->txt(\"iass_filter_not_finalized\")",
+        "has_variable": false,
+        "variable": "iass_filter_not_finalized"
+    },
+    {
+        "id": 20998,
+        "file": "components\/ILIAS\/IndividualAssessment\/classes\/class.ilIndividualAssessmentMembersGUI.php",
+        "line": 370,
+        "code": "$this->txt(\"iass_filter_finalized\")",
+        "has_variable": false,
+        "variable": "iass_filter_finalized"
+    },
+    {
+        "id": 21000,
+        "file": "components\/ILIAS\/IndividualAssessment\/classes\/class.ilIndividualAssessmentMembersGUI.php",
+        "line": 372,
+        "code": "$this->txt(\"iass_filter_failed\")",
+        "has_variable": false,
+        "variable": "iass_filter_failed"
+    },
+    {
+        "id": 21002,
+        "file": "components\/ILIAS\/IndividualAssessment\/classes\/class.ilIndividualAssessmentMembersGUI.php",
+        "line": 374,
+        "code": "$this->txt(\"iass_filter_all\")",
+        "has_variable": false,
+        "variable": "iass_filter_all"
+    },
+    {
+        "id": 21004,
+        "file": "components\/ILIAS\/IndividualAssessment\/classes\/class.ilIndividualAssessmentMembersGUI.php",
+        "line": 417,
+        "code": "$this->txt(\"iass_sort_name_asc\")",
+        "has_variable": false,
+        "variable": "iass_sort_name_asc"
+    },
+    {
+        "id": 21006,
+        "file": "components\/ILIAS\/IndividualAssessment\/classes\/class.ilIndividualAssessmentMembersGUI.php",
+        "line": 418,
+        "code": "$this->txt(\"iass_sort_name_desc\")",
+        "has_variable": false,
+        "variable": "iass_sort_name_desc"
+    },
+    {
+        "id": 21008,
+        "file": "components\/ILIAS\/IndividualAssessment\/classes\/class.ilIndividualAssessmentMembersGUI.php",
+        "line": 419,
+        "code": "$this->txt(\"iass_sort_examiner_login_asc\")",
+        "has_variable": false,
+        "variable": "iass_sort_examiner_login_asc"
+    },
+    {
+        "id": 21010,
+        "file": "components\/ILIAS\/IndividualAssessment\/classes\/class.ilIndividualAssessmentMembersGUI.php",
+        "line": 420,
+        "code": "$this->txt(\"iass_sort_examiner_login_desc\")",
+        "has_variable": false,
+        "variable": "iass_sort_examiner_login_desc"
+    },
+    {
+        "id": 21012,
+        "file": "components\/ILIAS\/IndividualAssessment\/classes\/class.ilIndividualAssessmentMembersGUI.php",
+        "line": 421,
+        "code": "$this->txt(\"iass_sort_changetime_asc\")",
+        "has_variable": false,
+        "variable": "iass_sort_changetime_asc"
+    },
+    {
+        "id": 21014,
+        "file": "components\/ILIAS\/IndividualAssessment\/classes\/class.ilIndividualAssessmentMembersGUI.php",
+        "line": 422,
+        "code": "$this->txt(\"iass_sort_changetime_desc\")",
+        "has_variable": false,
+        "variable": "iass_sort_changetime_desc"
+    },
+    {
+        "id": 21016,
+        "file": "components\/ILIAS\/IndividualAssessment\/classes\/class.ilIndividualAssessmentMembersGUI.php",
+        "line": 451,
+        "code": "$this->txt(\"msg_no_perm_read\")",
+        "has_variable": false,
+        "variable": "msg_no_perm_read"
+    },
+    {
+        "id": 21018,
+        "file": "components\/ILIAS\/IndividualAssessment\/classes\/class.ilIndividualAssessmentMembersGUI.php",
+        "line": 456,
+        "code": "$this->lng->txt($code)",
+        "has_variable": true,
+        "variable": "$code"
+    },
+    {
+        "id": 21020,
+        "file": "components\/ILIAS\/IndividualAssessment\/classes\/class.ilIndividualAssessmentMembersTableGUI.php",
+        "line": 99,
+        "code": "$this->txt(\"iass_further_field_headline\")",
+        "has_variable": false,
+        "variable": "iass_further_field_headline"
+    },
+    {
+        "id": 21022,
+        "file": "components\/ILIAS\/IndividualAssessment\/classes\/class.ilIndividualAssessmentMembersTableGUI.php",
+        "line": 127,
+        "code": "$this->txt(\"grading\")",
+        "has_variable": false,
+        "variable": "grading"
+    },
+    {
+        "id": 21024,
+        "file": "components\/ILIAS\/IndividualAssessment\/classes\/class.ilIndividualAssessmentMembersTableGUI.php",
+        "line": 159,
+        "code": "$this->txt('iass_graded_by')",
+        "has_variable": false,
+        "variable": "iass_graded_by"
+    },
+    {
+        "id": 21026,
+        "file": "components\/ILIAS\/IndividualAssessment\/classes\/class.ilIndividualAssessmentMembersTableGUI.php",
+        "line": 159,
+        "code": "$this->txt(\"user_deleted\")",
+        "has_variable": false,
+        "variable": "user_deleted"
+    },
+    {
+        "id": 21028,
+        "file": "components\/ILIAS\/IndividualAssessment\/classes\/class.ilIndividualAssessmentMembersTableGUI.php",
+        "line": 164,
+        "code": "$this->txt('iass_graded_by')",
+        "has_variable": false,
+        "variable": "iass_graded_by"
+    },
+    {
+        "id": 21030,
+        "file": "components\/ILIAS\/IndividualAssessment\/classes\/class.ilIndividualAssessmentMembersTableGUI.php",
+        "line": 168,
+        "code": "$this->txt('iass_graded_by')",
+        "has_variable": false,
+        "variable": "iass_graded_by"
+    },
+    {
+        "id": 21032,
+        "file": "components\/ILIAS\/IndividualAssessment\/classes\/class.ilIndividualAssessmentMembersTableGUI.php",
+        "line": 185,
+        "code": "$this->txt('iass_changed_by')",
+        "has_variable": false,
+        "variable": "iass_changed_by"
+    },
+    {
+        "id": 21034,
+        "file": "components\/ILIAS\/IndividualAssessment\/classes\/class.ilIndividualAssessmentMembersTableGUI.php",
+        "line": 189,
+        "code": "$this->txt('iass_changed_by')",
+        "has_variable": false,
+        "variable": "iass_changed_by"
+    },
+    {
+        "id": 21036,
+        "file": "components\/ILIAS\/IndividualAssessment\/classes\/class.ilIndividualAssessmentMembersTableGUI.php",
+        "line": 243,
+        "code": "$this->txt(\"grading\")",
+        "has_variable": false,
+        "variable": "grading"
+    },
+    {
+        "id": 21038,
+        "file": "components\/ILIAS\/IndividualAssessment\/classes\/class.ilIndividualAssessmentMembersTableGUI.php",
+        "line": 270,
+        "code": "$this->txt('iass_usr_edit')",
+        "has_variable": false,
+        "variable": "iass_usr_edit"
+    },
+    {
+        "id": 21040,
+        "file": "components\/ILIAS\/IndividualAssessment\/classes\/class.ilIndividualAssessmentMembersTableGUI.php",
+        "line": 276,
+        "code": "$this->txt('iass_usr_remove')",
+        "has_variable": false,
+        "variable": "iass_usr_remove"
+    },
+    {
+        "id": 21042,
+        "file": "components\/ILIAS\/IndividualAssessment\/classes\/class.ilIndividualAssessmentMembersTableGUI.php",
+        "line": 282,
+        "code": "$this->txt('iass_usr_amend')",
+        "has_variable": false,
+        "variable": "iass_usr_amend"
+    },
+    {
+        "id": 21044,
+        "file": "components\/ILIAS\/IndividualAssessment\/classes\/class.ilIndividualAssessmentMembersTableGUI.php",
+        "line": 287,
+        "code": "$this->txt('iass_usr_download_attachment')",
+        "has_variable": false,
+        "variable": "iass_usr_download_attachment"
+    },
+    {
+        "id": 21046,
+        "file": "components\/ILIAS\/IndividualAssessment\/classes\/class.ilIndividualAssessmentMembersTableGUI.php",
+        "line": 291,
+        "code": "$this->txt(\"actions\")",
+        "has_variable": false,
+        "variable": "actions"
+    },
+    {
+        "id": 21048,
+        "file": "components\/ILIAS\/IndividualAssessment\/classes\/class.ilIndividualAssessmentMembersTableGUI.php",
+        "line": 304,
+        "code": "$this->txt('iass_assessment_not_completed')",
+        "has_variable": false,
+        "variable": "iass_assessment_not_completed"
+    },
+    {
+        "id": 21050,
+        "file": "components\/ILIAS\/IndividualAssessment\/classes\/class.ilIndividualAssessmentMembersTableGUI.php",
+        "line": 321,
+        "code": "$this->txt(\"iass_event_time\")",
+        "has_variable": false,
+        "variable": "iass_event_time"
+    },
+    {
+        "id": 21052,
+        "file": "components\/ILIAS\/IndividualAssessment\/classes\/class.ilIndividualAssessmentMembersTableGUI.php",
+        "line": 379,
+        "code": "$this->txt(\"iass_location\")",
+        "has_variable": false,
+        "variable": "iass_location"
+    },
+    {
+        "id": 21054,
+        "file": "components\/ILIAS\/IndividualAssessment\/classes\/class.ilIndividualAssessmentMembersTableGUI.php",
+        "line": 393,
+        "code": "$this->txt(\"iass_record\")",
+        "has_variable": false,
+        "variable": "iass_record"
+    },
+    {
+        "id": 21056,
+        "file": "components\/ILIAS\/IndividualAssessment\/classes\/class.ilIndividualAssessmentMembersTableGUI.php",
+        "line": 407,
+        "code": "$this->txt(\"iass_internal_note\")",
+        "has_variable": false,
+        "variable": "iass_internal_note"
+    },
+    {
+        "id": 21058,
+        "file": "components\/ILIAS\/IndividualAssessment\/classes\/class.ilIndividualAssessmentMembersTableGUI.php",
+        "line": 421,
+        "code": "$this->txt(\"iass_download\")",
+        "has_variable": false,
+        "variable": "iass_download"
+    },
+    {
+        "id": 21060,
+        "file": "components\/ILIAS\/IndividualAssessment\/classes\/class.ilIndividualAssessmentMembersTableGUI.php",
+        "line": 424,
+        "code": "$this->txt(\"iass_file\")",
+        "has_variable": false,
+        "variable": "iass_file"
+    },
+    {
+        "id": 21062,
+        "file": "components\/ILIAS\/IndividualAssessment\/classes\/class.ilIndividualAssessmentMembersTableGUI.php",
+        "line": 435,
+        "code": "$this->txt('iass_status_pending')",
+        "has_variable": false,
+        "variable": "iass_status_pending"
+    },
+    {
+        "id": 21064,
+        "file": "components\/ILIAS\/IndividualAssessment\/classes\/class.ilIndividualAssessmentMembersTableGUI.php",
+        "line": 437,
+        "code": "$this->txt('iass_status_completed')",
+        "has_variable": false,
+        "variable": "iass_status_completed"
+    },
+    {
+        "id": 21066,
+        "file": "components\/ILIAS\/IndividualAssessment\/classes\/class.ilIndividualAssessmentMembersTableGUI.php",
+        "line": 439,
+        "code": "$this->txt('iass_status_failed')",
+        "has_variable": false,
+        "variable": "iass_status_failed"
+    },
+    {
+        "id": 21068,
+        "file": "components\/ILIAS\/IndividualAssessment\/classes\/class.ilIndividualAssessmentMembersTableGUI.php",
+        "line": 527,
+        "code": "$this->lng->txt($code)",
+        "has_variable": true,
+        "variable": "$code"
+    },
+    {
+        "id": 21070,
+        "file": "components\/ILIAS\/IndividualAssessment\/classes\/class.ilIndividualAssessmentSettingsGUI.php",
+        "line": 92,
+        "code": "$this->lng->txt(\"general\")",
+        "has_variable": false,
+        "variable": "general"
+    },
+    {
+        "id": 21072,
+        "file": "components\/ILIAS\/IndividualAssessment\/classes\/class.ilIndividualAssessmentSettingsGUI.php",
+        "line": 97,
+        "code": "$this->lng->txt(\"obj_features\")",
+        "has_variable": false,
+        "variable": "obj_features"
+    },
+    {
+        "id": 21074,
+        "file": "components\/ILIAS\/IndividualAssessment\/classes\/class.ilIndividualAssessmentSettingsGUI.php",
+        "line": 108,
+        "code": "$this->lng->txt(\"iass_edit_info\")",
+        "has_variable": false,
+        "variable": "iass_edit_info"
+    },
+    {
+        "id": 21076,
+        "file": "components\/ILIAS\/IndividualAssessment\/classes\/class.ilIndividualAssessmentSettingsGUI.php",
+        "line": 160,
+        "code": "$this->lng->txt('iass_settings_availability')",
+        "has_variable": false,
+        "variable": "iass_settings_availability"
+    },
+    {
+        "id": 21078,
+        "file": "components\/ILIAS\/IndividualAssessment\/classes\/class.ilIndividualAssessmentSettingsGUI.php",
+        "line": 193,
+        "code": "$this->lng->txt(\"settings_saved\")",
+        "has_variable": false,
+        "variable": "settings_saved"
+    },
+    {
+        "id": 21080,
+        "file": "components\/ILIAS\/IndividualAssessment\/classes\/class.ilIndividualAssessmentSettingsGUI.php",
+        "line": 244,
+        "code": "$this->lng->txt(\"msg_no_perm_read\")",
+        "has_variable": false,
+        "variable": "msg_no_perm_read"
+    },
+    {
+        "id": 21082,
+        "file": "components\/ILIAS\/IndividualAssessment\/classes\/class.ilObjIndividualAssessmentGUI.php",
+        "line": 206,
+        "code": "$this->txt('grading_info')",
+        "has_variable": false,
+        "variable": "grading_info"
+    },
+    {
+        "id": 21084,
+        "file": "components\/ILIAS\/IndividualAssessment\/classes\/class.ilObjIndividualAssessmentGUI.php",
+        "line": 208,
+        "code": "$this->txt('grading')",
+        "has_variable": false,
+        "variable": "grading"
+    },
+    {
+        "id": 21086,
+        "file": "components\/ILIAS\/IndividualAssessment\/classes\/class.ilObjIndividualAssessmentGUI.php",
+        "line": 211,
+        "code": "$this->txt('grading_record')",
+        "has_variable": false,
+        "variable": "grading_record"
+    },
+    {
+        "id": 21088,
+        "file": "components\/ILIAS\/IndividualAssessment\/classes\/class.ilObjIndividualAssessmentGUI.php",
+        "line": 216,
+        "code": "$this->txt('iass_upload_file')",
+        "has_variable": false,
+        "variable": "iass_upload_file"
+    },
+    {
+        "id": 21090,
+        "file": "components\/ILIAS\/IndividualAssessment\/classes\/class.ilObjIndividualAssessmentGUI.php",
+        "line": 246,
+        "code": "$this->txt('general')",
+        "has_variable": false,
+        "variable": "general"
+    },
+    {
+        "id": 21092,
+        "file": "components\/ILIAS\/IndividualAssessment\/classes\/class.ilObjIndividualAssessmentGUI.php",
+        "line": 247,
+        "code": "$this->txt('content')",
+        "has_variable": false,
+        "variable": "content"
+    },
+    {
+        "id": 21094,
+        "file": "components\/ILIAS\/IndividualAssessment\/classes\/class.ilObjIndividualAssessmentGUI.php",
+        "line": 256,
+        "code": "$this->txt('iass_contact_info')",
+        "has_variable": false,
+        "variable": "iass_contact_info"
+    },
+    {
+        "id": 21096,
+        "file": "components\/ILIAS\/IndividualAssessment\/classes\/class.ilObjIndividualAssessmentGUI.php",
+        "line": 257,
+        "code": "$this->txt('iass_contact')",
+        "has_variable": false,
+        "variable": "iass_contact"
+    },
+    {
+        "id": 21098,
+        "file": "components\/ILIAS\/IndividualAssessment\/classes\/class.ilObjIndividualAssessmentGUI.php",
+        "line": 258,
+        "code": "$this->txt('iass_responsibility')",
+        "has_variable": false,
+        "variable": "iass_responsibility"
+    },
+    {
+        "id": 21100,
+        "file": "components\/ILIAS\/IndividualAssessment\/classes\/class.ilObjIndividualAssessmentGUI.php",
+        "line": 259,
+        "code": "$this->txt('iass_phone')",
+        "has_variable": false,
+        "variable": "iass_phone"
+    },
+    {
+        "id": 21102,
+        "file": "components\/ILIAS\/IndividualAssessment\/classes\/class.ilObjIndividualAssessmentGUI.php",
+        "line": 260,
+        "code": "$this->txt('iass_mails')",
+        "has_variable": false,
+        "variable": "iass_mails"
+    },
+    {
+        "id": 21104,
+        "file": "components\/ILIAS\/IndividualAssessment\/classes\/class.ilObjIndividualAssessmentGUI.php",
+        "line": 261,
+        "code": "$this->txt('iass_consultation_hours')",
+        "has_variable": false,
+        "variable": "iass_consultation_hours"
+    },
+    {
+        "id": 21106,
+        "file": "components\/ILIAS\/IndividualAssessment\/classes\/class.ilObjIndividualAssessmentGUI.php",
+        "line": 299,
+        "code": "$this->txt('il_iass_members')",
+        "has_variable": false,
+        "variable": "il_iass_members"
+    },
+    {
+        "id": 21108,
+        "file": "components\/ILIAS\/IndividualAssessment\/classes\/class.ilObjIndividualAssessmentGUI.php",
+        "line": 307,
+        "code": "$this->txt('info_short')",
+        "has_variable": false,
+        "variable": "info_short"
+    },
+    {
+        "id": 21110,
+        "file": "components\/ILIAS\/IndividualAssessment\/classes\/class.ilObjIndividualAssessmentGUI.php",
+        "line": 315,
+        "code": "$this->txt('settings')",
+        "has_variable": false,
+        "variable": "settings"
+    },
+    {
+        "id": 21112,
+        "file": "components\/ILIAS\/IndividualAssessment\/classes\/class.ilObjIndividualAssessmentGUI.php",
+        "line": 327,
+        "code": "$this->txt('learning_progress')",
+        "has_variable": false,
+        "variable": "learning_progress"
+    },
+    {
+        "id": 21114,
+        "file": "components\/ILIAS\/IndividualAssessment\/classes\/class.ilObjIndividualAssessmentGUI.php",
+        "line": 338,
+        "code": "$this->txt(\"meta_data\")",
+        "has_variable": false,
+        "variable": "meta_data"
+    },
+    {
+        "id": 21116,
+        "file": "components\/ILIAS\/IndividualAssessment\/classes\/class.ilObjIndividualAssessmentGUI.php",
+        "line": 391,
+        "code": "$this->txt(\"msg_no_perm_read\")",
+        "has_variable": false,
+        "variable": "msg_no_perm_read"
+    },
+    {
+        "id": 21118,
+        "file": "components\/ILIAS\/IndividualAssessment\/classes\/class.ilObjIndividualAssessmentGUI.php",
+        "line": 409,
+        "code": "$lng->txt(\"msg_no_perm_read\")",
+        "has_variable": false,
+        "variable": "msg_no_perm_read"
+    },
+    {
+        "id": 21120,
+        "file": "components\/ILIAS\/IndividualAssessment\/classes\/class.ilObjIndividualAssessmentGUI.php",
+        "line": 416,
+        "code": "$this->txt('iass_status_pending')",
+        "has_variable": false,
+        "variable": "iass_status_pending"
+    },
+    {
+        "id": 21122,
+        "file": "components\/ILIAS\/IndividualAssessment\/classes\/class.ilObjIndividualAssessmentGUI.php",
+        "line": 418,
+        "code": "$this->txt('iass_status_completed')",
+        "has_variable": false,
+        "variable": "iass_status_completed"
+    },
+    {
+        "id": 21124,
+        "file": "components\/ILIAS\/IndividualAssessment\/classes\/class.ilObjIndividualAssessmentGUI.php",
+        "line": 420,
+        "code": "$this->txt('iass_status_failed')",
+        "has_variable": false,
+        "variable": "iass_status_failed"
+    },
+    {
+        "id": 21126,
+        "file": "components\/ILIAS\/IndividualAssessment\/classes\/class.ilObjIndividualAssessmentGUI.php",
+        "line": 428,
+        "code": "$this->txt(\"iass_added\")",
+        "has_variable": false,
+        "variable": "iass_added"
+    },
+    {
+        "id": 21128,
+        "file": "components\/ILIAS\/IndividualAssessment\/classes\/class.ilObjIndividualAssessmentGUI.php",
+        "line": 452,
+        "code": "$this->lng->txt($code)",
+        "has_variable": true,
+        "variable": "$code"
+    },
+    {
+        "id": 21130,
+        "file": "components\/ILIAS\/IndividualAssessment\/classes\/ilIndividualAssessmentUserGrading.php",
+        "line": 147,
+        "code": "$lng->txt('name')",
+        "has_variable": false,
+        "variable": "name"
+    },
+    {
+        "id": 21132,
+        "file": "components\/ILIAS\/IndividualAssessment\/classes\/ilIndividualAssessmentUserGrading.php",
+        "line": 153,
+        "code": "$lng->txt('iass_record')",
+        "has_variable": false,
+        "variable": "iass_record"
+    },
+    {
+        "id": 21134,
+        "file": "components\/ILIAS\/IndividualAssessment\/classes\/ilIndividualAssessmentUserGrading.php",
+        "line": 153,
+        "code": "$lng->txt('iass_record_info')",
+        "has_variable": false,
+        "variable": "iass_record_info"
+    },
+    {
+        "id": 21136,
+        "file": "components\/ILIAS\/IndividualAssessment\/classes\/ilIndividualAssessmentUserGrading.php",
+        "line": 159,
+        "code": "$lng->txt('iass_internal_note')",
+        "has_variable": false,
+        "variable": "iass_internal_note"
+    },
+    {
+        "id": 21138,
+        "file": "components\/ILIAS\/IndividualAssessment\/classes\/ilIndividualAssessmentUserGrading.php",
+        "line": 159,
+        "code": "$lng->txt('iass_internal_note_info')",
+        "has_variable": false,
+        "variable": "iass_internal_note_info"
+    },
+    {
+        "id": 21140,
+        "file": "components\/ILIAS\/IndividualAssessment\/classes\/ilIndividualAssessmentUserGrading.php",
+        "line": 165,
+        "code": "$lng->txt('iass_upload_file')",
+        "has_variable": false,
+        "variable": "iass_upload_file"
+    },
+    {
+        "id": 21142,
+        "file": "components\/ILIAS\/IndividualAssessment\/classes\/ilIndividualAssessmentUserGrading.php",
+        "line": 165,
+        "code": "$lng->txt('iass_file_dropzone')",
+        "has_variable": false,
+        "variable": "iass_file_dropzone"
+    },
+    {
+        "id": 21144,
+        "file": "components\/ILIAS\/IndividualAssessment\/classes\/ilIndividualAssessmentUserGrading.php",
+        "line": 171,
+        "code": "$lng->txt('iass_file_visible_examinee')",
+        "has_variable": false,
+        "variable": "iass_file_visible_examinee"
+    },
+    {
+        "id": 21146,
+        "file": "components\/ILIAS\/IndividualAssessment\/classes\/ilIndividualAssessmentUserGrading.php",
+        "line": 177,
+        "code": "$lng->txt('grading')",
+        "has_variable": false,
+        "variable": "grading"
+    },
+    {
+        "id": 21148,
+        "file": "components\/ILIAS\/IndividualAssessment\/classes\/ilIndividualAssessmentUserGrading.php",
+        "line": 184,
+        "code": "$lng->txt('iass_place')",
+        "has_variable": false,
+        "variable": "iass_place"
+    },
+    {
+        "id": 21150,
+        "file": "components\/ILIAS\/IndividualAssessment\/classes\/ilIndividualAssessmentUserGrading.php",
+        "line": 191,
+        "code": "$lng->txt('iass_event_time')",
+        "has_variable": false,
+        "variable": "iass_event_time"
+    },
+    {
+        "id": 21152,
+        "file": "components\/ILIAS\/IndividualAssessment\/classes\/ilIndividualAssessmentUserGrading.php",
+        "line": 205,
+        "code": "$lng->txt('iass_notify')",
+        "has_variable": false,
+        "variable": "iass_notify"
+    },
+    {
+        "id": 21154,
+        "file": "components\/ILIAS\/IndividualAssessment\/classes\/ilIndividualAssessmentUserGrading.php",
+        "line": 205,
+        "code": "$lng->txt('iass_notify_explanation')",
+        "has_variable": false,
+        "variable": "iass_notify_explanation"
+    },
+    {
+        "id": 21156,
+        "file": "components\/ILIAS\/IndividualAssessment\/classes\/ilIndividualAssessmentUserGrading.php",
+        "line": 224,
+        "code": "$lng->txt('iass_finalize')",
+        "has_variable": false,
+        "variable": "iass_finalize"
+    },
+    {
+        "id": 21158,
+        "file": "components\/ILIAS\/IndividualAssessment\/classes\/ilIndividualAssessmentUserGrading.php",
+        "line": 224,
+        "code": "$lng->txt('iass_finalize_info')",
+        "has_variable": false,
+        "variable": "iass_finalize_info"
+    },
+    {
+        "id": 21160,
+        "file": "components\/ILIAS\/IndividualAssessment\/classes\/ilIndividualAssessmentUserGrading.php",
+        "line": 234,
+        "code": "$lng->txt('iass_edit_record')",
+        "has_variable": false,
+        "variable": "iass_edit_record"
+    }
+]

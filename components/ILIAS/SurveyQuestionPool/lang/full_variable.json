@@ -1,0 +1,251 @@
+{
+    "metadata": {
+        "type": "full",
+        "count": 22,
+        "description": "Variable usages without detectable prefixes or suffixes (pure variable references without static strings)"
+    },
+    "matches": [
+        {
+            "id": 38652,
+            "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyMatrixQuestionGUI.php",
+            "line": 56,
+            "code": "$this->lng->txt($st)",
+            "variable": "$st",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 38688,
+            "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyMatrixQuestionGUI.php",
+            "line": 377,
+            "code": "$this->lng->txt($col[\"checked\"])",
+            "variable": "\\$col",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 38690,
+            "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyMatrixQuestionGUI.php",
+            "line": 378,
+            "code": "$this->lng->txt($col[\"checked\"])",
+            "variable": "\\$col",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 38692,
+            "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyMatrixQuestionGUI.php",
+            "line": 388,
+            "code": "$this->lng->txt($col[\"checked\"])",
+            "variable": "\\$col",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 38694,
+            "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyMatrixQuestionGUI.php",
+            "line": 389,
+            "code": "$this->lng->txt($col[\"checked\"])",
+            "variable": "\\$col",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 38802,
+            "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyMultipleChoiceQuestionGUI.php",
+            "line": 218,
+            "code": "$this->lng->txt($option[\"checked\"])",
+            "variable": "\\$option",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 38804,
+            "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyMultipleChoiceQuestionGUI.php",
+            "line": 219,
+            "code": "$this->lng->txt($option[\"checked\"])",
+            "variable": "\\$option",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 38806,
+            "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyMultipleChoiceQuestionGUI.php",
+            "line": 230,
+            "code": "$this->lng->txt($option[\"checked\"])",
+            "variable": "\\$option",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 38808,
+            "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyMultipleChoiceQuestionGUI.php",
+            "line": 231,
+            "code": "$this->lng->txt($option[\"checked\"])",
+            "variable": "\\$option",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 38810,
+            "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyMultipleChoiceQuestionGUI.php",
+            "line": 242,
+            "code": "$this->lng->txt($option[\"checked\"])",
+            "variable": "\\$option",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 38812,
+            "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyMultipleChoiceQuestionGUI.php",
+            "line": 243,
+            "code": "$this->lng->txt($option[\"checked\"])",
+            "variable": "\\$option",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 38828,
+            "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyQuestion.php",
+            "line": 1072,
+            "code": "$lng->txt($type_tag)",
+            "variable": "$type_tag",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 38860,
+            "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyQuestionGUI.php",
+            "line": 217,
+            "code": "$this->lng->txt($this->getQuestionType())",
+            "variable": "$this->getQuestionType()",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 38862,
+            "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyQuestionGUI.php",
+            "line": 232,
+            "code": "$this->lng->txt($this->getQuestionType())",
+            "variable": "$this->getQuestionType()",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 38928,
+            "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveySingleChoiceQuestionGUI.php",
+            "line": 158,
+            "code": "$this->lng->txt($option[\"checked\"])",
+            "variable": "\\$option",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 38930,
+            "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveySingleChoiceQuestionGUI.php",
+            "line": 159,
+            "code": "$this->lng->txt($option[\"checked\"])",
+            "variable": "\\$option",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 38932,
+            "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveySingleChoiceQuestionGUI.php",
+            "line": 170,
+            "code": "$this->lng->txt($option[\"checked\"])",
+            "variable": "\\$option",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 38934,
+            "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveySingleChoiceQuestionGUI.php",
+            "line": 171,
+            "code": "$this->lng->txt($option[\"checked\"])",
+            "variable": "\\$option",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 38936,
+            "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveySingleChoiceQuestionGUI.php",
+            "line": 182,
+            "code": "$this->lng->txt($option[\"checked\"])",
+            "variable": "\\$option",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 38938,
+            "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveySingleChoiceQuestionGUI.php",
+            "line": 183,
+            "code": "$this->lng->txt($option[\"checked\"])",
+            "variable": "\\$option",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 39038,
+            "file": "components\/ILIAS\/SurveyQuestionPool\/classes\/class.ilObjSurveyQuestionPool.php",
+            "line": 657,
+            "code": "$lng->txt($row[\"type_tag\"])",
+            "variable": "_",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 39040,
+            "file": "components\/ILIAS\/SurveyQuestionPool\/classes\/class.ilObjSurveyQuestionPool.php",
+            "line": 728,
+            "code": "$lng->txt($row[\"type_tag\"])",
+            "variable": "_",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        }
+    ]
+}

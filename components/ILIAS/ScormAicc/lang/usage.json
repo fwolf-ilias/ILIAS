@@ -1,0 +1,2754 @@
+[
+    {
+        "id": 32800,
+        "file": "components\/ILIAS\/ScormAicc\/Editing\/classes\/class.ilSAHSEditGUI.php",
+        "line": 80,
+        "code": "$lng->txt(\"permission_denied\")",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 32802,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/Certificate\/class.ilCertificateScormPdfFilename.php",
+        "line": 36,
+        "code": "$this->lng->txt('certificate_var_user_lastname')",
+        "has_variable": false,
+        "variable": "certificate_var_user_lastname"
+    },
+    {
+        "id": 32804,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/Certificate\/class.ilCertificateSettingsScormFormRepository.php",
+        "line": 69,
+        "code": "$this->language->txt('certificate_short_name')",
+        "has_variable": false,
+        "variable": "certificate_short_name"
+    },
+    {
+        "id": 32806,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/Certificate\/class.ilCertificateSettingsScormFormRepository.php",
+        "line": 79,
+        "code": "$this->language->txt('certificate_short_name_description')",
+        "has_variable": false,
+        "variable": "certificate_short_name_description"
+    },
+    {
+        "id": 32808,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/Certificate\/class.ilScormPlaceholderDescription.php",
+        "line": 62,
+        "code": "$language->txt('certificate_ph_scormtitle')",
+        "has_variable": false,
+        "variable": "certificate_ph_scormtitle"
+    },
+    {
+        "id": 32810,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/Certificate\/class.ilScormPlaceholderDescription.php",
+        "line": 63,
+        "code": "$language->txt('certificate_ph_scormpoints')",
+        "has_variable": false,
+        "variable": "certificate_ph_scormpoints"
+    },
+    {
+        "id": 32812,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/Certificate\/class.ilScormPlaceholderDescription.php",
+        "line": 64,
+        "code": "$language->txt('certificate_ph_scormmaxpoints')",
+        "has_variable": false,
+        "variable": "certificate_ph_scormmaxpoints"
+    },
+    {
+        "id": 32814,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/Certificate\/class.ilScormPlaceholderDescription.php",
+        "line": 66,
+        "code": "$language->txt('certificate_ph_date_completed')",
+        "has_variable": false,
+        "variable": "certificate_ph_date_completed"
+    },
+    {
+        "id": 32816,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/Certificate\/class.ilScormPlaceholderDescription.php",
+        "line": 69,
+        "code": "$language->txt('certificate_ph_datetime_completed')",
+        "has_variable": false,
+        "variable": "certificate_ph_datetime_completed"
+    },
+    {
+        "id": 32818,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/Certificate\/class.ilScormPlaceholderDescription.php",
+        "line": 93,
+        "code": "$this->language->txt('certificate_ph_introduction')",
+        "has_variable": false,
+        "variable": "certificate_ph_introduction"
+    },
+    {
+        "id": 32820,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/Certificate\/class.ilScormPlaceholderDescription.php",
+        "line": 103,
+        "code": "$this->language->txt('certificate_ph_scos')",
+        "has_variable": false,
+        "variable": "certificate_ph_scos"
+    },
+    {
+        "id": 32822,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/Certificate\/class.ilScormPlaceholderDescription.php",
+        "line": 106,
+        "code": "$this->language->txt('certificate_ph_title_sco')",
+        "has_variable": false,
+        "variable": "certificate_ph_title_sco"
+    },
+    {
+        "id": 32824,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/Certificate\/class.ilScormPlaceholderDescription.php",
+        "line": 107,
+        "code": "$this->language->txt('certificate_ph_sco_title')",
+        "has_variable": false,
+        "variable": "certificate_ph_sco_title"
+    },
+    {
+        "id": 32826,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/Certificate\/class.ilScormPlaceholderDescription.php",
+        "line": 108,
+        "code": "$this->language->txt('certificate_ph_sco_points_raw')",
+        "has_variable": false,
+        "variable": "certificate_ph_sco_points_raw"
+    },
+    {
+        "id": 32828,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/Certificate\/class.ilScormPlaceholderDescription.php",
+        "line": 109,
+        "code": "$this->language->txt('certificate_ph_sco_points_max')",
+        "has_variable": false,
+        "variable": "certificate_ph_sco_points_max"
+    },
+    {
+        "id": 32830,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/Certificate\/class.ilScormPlaceholderDescription.php",
+        "line": 110,
+        "code": "$this->language->txt('certificate_ph_sco_points_scaled')",
+        "has_variable": false,
+        "variable": "certificate_ph_sco_points_scaled"
+    },
+    {
+        "id": 32832,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/Certificate\/class.ilScormPlaceholderDescription.php",
+        "line": 113,
+        "code": "$this->language->txt('certificate_ph_no_sco')",
+        "has_variable": false,
+        "variable": "certificate_ph_no_sco"
+    },
+    {
+        "id": 32834,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/Certificate\/class.ilScormPlaceholderValues.php",
+        "line": 96,
+        "code": "$this->language->txt('certificate_points_notavailable')",
+        "has_variable": false,
+        "variable": "certificate_points_notavailable"
+    },
+    {
+        "id": 32836,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/Certificate\/class.ilScormPlaceholderValues.php",
+        "line": 101,
+        "code": "$this->language->txt('lang_sep_decimal')",
+        "has_variable": false,
+        "variable": "lang_sep_decimal"
+    },
+    {
+        "id": 32838,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/Certificate\/class.ilScormPlaceholderValues.php",
+        "line": 102,
+        "code": "$this->language->txt('lang_sep_thousand')",
+        "has_variable": false,
+        "variable": "lang_sep_thousand"
+    },
+    {
+        "id": 32840,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/Certificate\/class.ilScormPlaceholderValues.php",
+        "line": 109,
+        "code": "$this->language->txt('certificate_points_notavailable')",
+        "has_variable": false,
+        "variable": "certificate_points_notavailable"
+    },
+    {
+        "id": 32842,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/Certificate\/class.ilScormPlaceholderValues.php",
+        "line": 114,
+        "code": "$this->language->txt('lang_sep_decimal')",
+        "has_variable": false,
+        "variable": "lang_sep_decimal"
+    },
+    {
+        "id": 32844,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/Certificate\/class.ilScormPlaceholderValues.php",
+        "line": 115,
+        "code": "$this->language->txt('lang_sep_thousand')",
+        "has_variable": false,
+        "variable": "lang_sep_thousand"
+    },
+    {
+        "id": 32846,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/Certificate\/class.ilScormPlaceholderValues.php",
+        "line": 147,
+        "code": "$this->language->txt('certificate_points_notavailable')",
+        "has_variable": false,
+        "variable": "certificate_points_notavailable"
+    },
+    {
+        "id": 32848,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/Certificate\/class.ilScormPlaceholderValues.php",
+        "line": 152,
+        "code": "$this->language->txt('lang_sep_decimal')",
+        "has_variable": false,
+        "variable": "lang_sep_decimal"
+    },
+    {
+        "id": 32850,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/Certificate\/class.ilScormPlaceholderValues.php",
+        "line": 153,
+        "code": "$this->language->txt('lang_sep_thousand')",
+        "has_variable": false,
+        "variable": "lang_sep_thousand"
+    },
+    {
+        "id": 32852,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/Certificate\/class.ilScormPlaceholderValues.php",
+        "line": 157,
+        "code": "$this->language->txt('certificate_points_notavailable')",
+        "has_variable": false,
+        "variable": "certificate_points_notavailable"
+    },
+    {
+        "id": 32854,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/Certificate\/class.ilScormPlaceholderValues.php",
+        "line": 162,
+        "code": "$this->language->txt('lang_sep_decimal')",
+        "has_variable": false,
+        "variable": "lang_sep_decimal"
+    },
+    {
+        "id": 32856,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/Certificate\/class.ilScormPlaceholderValues.php",
+        "line": 163,
+        "code": "$this->language->txt('lang_sep_thousand')",
+        "has_variable": false,
+        "variable": "lang_sep_thousand"
+    },
+    {
+        "id": 32858,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/Certificate\/class.ilScormPlaceholderValues.php",
+        "line": 167,
+        "code": "$this->language->txt('certificate_points_notavailable')",
+        "has_variable": false,
+        "variable": "certificate_points_notavailable"
+    },
+    {
+        "id": 32860,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/Certificate\/class.ilScormPlaceholderValues.php",
+        "line": 172,
+        "code": "$this->language->txt('lang_sep_decimal')",
+        "has_variable": false,
+        "variable": "lang_sep_decimal"
+    },
+    {
+        "id": 32862,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/Certificate\/class.ilScormPlaceholderValues.php",
+        "line": 173,
+        "code": "$this->language->txt('lang_sep_thousand')",
+        "has_variable": false,
+        "variable": "lang_sep_thousand"
+    },
+    {
+        "id": 32864,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/Certificate\/class.ilScormPlaceholderValues.php",
+        "line": 203,
+        "code": "$this->language->txt('lang_sep_decimal')",
+        "has_variable": false,
+        "variable": "lang_sep_decimal"
+    },
+    {
+        "id": 32866,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/Certificate\/class.ilScormPlaceholderValues.php",
+        "line": 204,
+        "code": "$this->language->txt('lang_sep_thousand')",
+        "has_variable": false,
+        "variable": "lang_sep_thousand"
+    },
+    {
+        "id": 32868,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/Certificate\/class.ilScormPlaceholderValues.php",
+        "line": 210,
+        "code": "$this->language->txt('lang_sep_decimal')",
+        "has_variable": false,
+        "variable": "lang_sep_decimal"
+    },
+    {
+        "id": 32870,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/Certificate\/class.ilScormPlaceholderValues.php",
+        "line": 211,
+        "code": "$this->language->txt('lang_sep_thousand')",
+        "has_variable": false,
+        "variable": "lang_sep_thousand"
+    },
+    {
+        "id": 32872,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/Certificate\/class.ilScormPlaceholderValues.php",
+        "line": 231,
+        "code": "$this->language->txt('lang_sep_decimal')",
+        "has_variable": false,
+        "variable": "lang_sep_decimal"
+    },
+    {
+        "id": 32874,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/Certificate\/class.ilScormPlaceholderValues.php",
+        "line": 232,
+        "code": "$this->language->txt('lang_sep_thousand')",
+        "has_variable": false,
+        "variable": "lang_sep_thousand"
+    },
+    {
+        "id": 32876,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/Certificate\/class.ilScormPlaceholderValues.php",
+        "line": 238,
+        "code": "$this->language->txt('lang_sep_decimal')",
+        "has_variable": false,
+        "variable": "lang_sep_decimal"
+    },
+    {
+        "id": 32878,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/Certificate\/class.ilScormPlaceholderValues.php",
+        "line": 239,
+        "code": "$this->language->txt('lang_sep_thousand')",
+        "has_variable": false,
+        "variable": "lang_sep_thousand"
+    },
+    {
+        "id": 32880,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/Certificate\/class.ilScormPlaceholderValues.php",
+        "line": 245,
+        "code": "$this->language->txt('lang_sep_decimal')",
+        "has_variable": false,
+        "variable": "lang_sep_decimal"
+    },
+    {
+        "id": 32882,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/Certificate\/class.ilScormPlaceholderValues.php",
+        "line": 246,
+        "code": "$this->language->txt('lang_sep_thousand')",
+        "has_variable": false,
+        "variable": "lang_sep_thousand"
+    },
+    {
+        "id": 32884,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/SCORM\/class.ilObjSCORMInitData.php",
+        "line": 203,
+        "code": "$lng->txt(\"please_wait\")",
+        "has_variable": false,
+        "variable": "please_wait"
+    },
+    {
+        "id": 32886,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/SCORM\/class.ilObjSCORMInitData.php",
+        "line": 204,
+        "code": "$lng->txt(\"cont_status\")",
+        "has_variable": false,
+        "variable": "cont_status"
+    },
+    {
+        "id": 32888,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/SCORM\/class.ilObjSCORMInitData.php",
+        "line": 205,
+        "code": "$lng->txt(\"cont_sc_stat_browsed\")",
+        "has_variable": false,
+        "variable": "cont_sc_stat_browsed"
+    },
+    {
+        "id": 32890,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/SCORM\/class.ilObjSCORMInitData.php",
+        "line": 206,
+        "code": "$lng->txt(\"cont_sc_stat_completed\")",
+        "has_variable": false,
+        "variable": "cont_sc_stat_completed"
+    },
+    {
+        "id": 32892,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/SCORM\/class.ilObjSCORMInitData.php",
+        "line": 207,
+        "code": "$lng->txt(\"cont_sc_stat_failed\")",
+        "has_variable": false,
+        "variable": "cont_sc_stat_failed"
+    },
+    {
+        "id": 32894,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/SCORM\/class.ilObjSCORMInitData.php",
+        "line": 208,
+        "code": "$lng->txt(\"cont_sc_stat_incomplete\")",
+        "has_variable": false,
+        "variable": "cont_sc_stat_incomplete"
+    },
+    {
+        "id": 32896,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/SCORM\/class.ilObjSCORMInitData.php",
+        "line": 209,
+        "code": "$lng->txt(\"cont_sc_stat_not_attempted\")",
+        "has_variable": false,
+        "variable": "cont_sc_stat_not_attempted"
+    },
+    {
+        "id": 32898,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/SCORM\/class.ilObjSCORMInitData.php",
+        "line": 210,
+        "code": "$lng->txt(\"cont_sc_stat_passed\")",
+        "has_variable": false,
+        "variable": "cont_sc_stat_passed"
+    },
+    {
+        "id": 32900,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/SCORM\/class.ilObjSCORMInitData.php",
+        "line": 211,
+        "code": "$lng->txt(\"cont_sc_stat_running\")",
+        "has_variable": false,
+        "variable": "cont_sc_stat_running"
+    },
+    {
+        "id": 32902,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/SCORM\/class.ilSCORMExplorer.php",
+        "line": 65,
+        "code": "$lng->txt(\"cont_manifest\")",
+        "has_variable": false,
+        "variable": "cont_manifest"
+    },
+    {
+        "id": 32904,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/SCORM\/class.ilSCORMExplorer.php",
+        "line": 291,
+        "code": "$lng->txt(\"cont_status\")",
+        "has_variable": false,
+        "variable": "cont_status"
+    },
+    {
+        "id": 32906,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/SCORM\/class.ilSCORMExplorer.php",
+        "line": 292,
+        "code": "$lng->txt(\"cont_sc_stat_\" . str_replace(\" \", \"_\", $status))",
+        "has_variable": true,
+        "variable": "\"cont_sc_stat_\" . str_replace(\" \", \"_\", $status)"
+    },
+    {
+        "id": 32908,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/SCORM\/class.ilSCORMExplorer.php",
+        "line": 296,
+        "code": "$lng->txt(\"cont_credits\")",
+        "has_variable": false,
+        "variable": "cont_credits"
+    },
+    {
+        "id": 32910,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/SCORM\/class.ilSCORMExplorer.php",
+        "line": 303,
+        "code": "$lng->txt(\"cont_total_time\")",
+        "has_variable": false,
+        "variable": "cont_total_time"
+    },
+    {
+        "id": 32912,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/SCORM\/class.ilSCORMItemGUI.php",
+        "line": 71,
+        "code": "$this->lng->txt(\"cont_item\")",
+        "has_variable": false,
+        "variable": "cont_item"
+    },
+    {
+        "id": 32914,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/SCORM\/class.ilSCORMItemGUI.php",
+        "line": 73,
+        "code": "$this->lng->txt(\"cont_import_id\")",
+        "has_variable": false,
+        "variable": "cont_import_id"
+    },
+    {
+        "id": 32916,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/SCORM\/class.ilSCORMItemGUI.php",
+        "line": 77,
+        "code": "$this->lng->txt(\"cont_id_ref\")",
+        "has_variable": false,
+        "variable": "cont_id_ref"
+    },
+    {
+        "id": 32918,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/SCORM\/class.ilSCORMItemGUI.php",
+        "line": 84,
+        "code": "$this->lng->txt(\"cont_is_visible\")",
+        "has_variable": false,
+        "variable": "cont_is_visible"
+    },
+    {
+        "id": 32920,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/SCORM\/class.ilSCORMItemGUI.php",
+        "line": 88,
+        "code": "$this->lng->txt(\"cont_parameters\")",
+        "has_variable": false,
+        "variable": "cont_parameters"
+    },
+    {
+        "id": 32922,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/SCORM\/class.ilSCORMItemGUI.php",
+        "line": 92,
+        "code": "$this->lng->txt(\"cont_sc_title\")",
+        "has_variable": false,
+        "variable": "cont_sc_title"
+    },
+    {
+        "id": 32924,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/SCORM\/class.ilSCORMItemGUI.php",
+        "line": 96,
+        "code": "$this->lng->txt(\"cont_prereq_type\")",
+        "has_variable": false,
+        "variable": "cont_prereq_type"
+    },
+    {
+        "id": 32926,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/SCORM\/class.ilSCORMItemGUI.php",
+        "line": 100,
+        "code": "$this->lng->txt(\"cont_prerequisites\")",
+        "has_variable": false,
+        "variable": "cont_prerequisites"
+    },
+    {
+        "id": 32928,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/SCORM\/class.ilSCORMItemGUI.php",
+        "line": 104,
+        "code": "$this->lng->txt(\"cont_max_time_allowed\")",
+        "has_variable": false,
+        "variable": "cont_max_time_allowed"
+    },
+    {
+        "id": 32930,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/SCORM\/class.ilSCORMItemGUI.php",
+        "line": 108,
+        "code": "$this->lng->txt(\"cont_time_limit_action\")",
+        "has_variable": false,
+        "variable": "cont_time_limit_action"
+    },
+    {
+        "id": 32932,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/SCORM\/class.ilSCORMItemGUI.php",
+        "line": 112,
+        "code": "$this->lng->txt(\"cont_data_from_lms\")",
+        "has_variable": false,
+        "variable": "cont_data_from_lms"
+    },
+    {
+        "id": 32934,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/SCORM\/class.ilSCORMItemGUI.php",
+        "line": 116,
+        "code": "$this->lng->txt(\"cont_mastery_score\")",
+        "has_variable": false,
+        "variable": "cont_mastery_score"
+    },
+    {
+        "id": 32936,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/SCORM\/class.ilSCORMManifestGUI.php",
+        "line": 40,
+        "code": "$this->lng->txt(\"cont_import_id\")",
+        "has_variable": false,
+        "variable": "cont_import_id"
+    },
+    {
+        "id": 32938,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/SCORM\/class.ilSCORMManifestGUI.php",
+        "line": 44,
+        "code": "$this->lng->txt(\"cont_version\")",
+        "has_variable": false,
+        "variable": "cont_version"
+    },
+    {
+        "id": 32940,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/SCORM\/class.ilSCORMManifestGUI.php",
+        "line": 48,
+        "code": "$this->lng->txt(\"cont_xml_base\")",
+        "has_variable": false,
+        "variable": "cont_xml_base"
+    },
+    {
+        "id": 32942,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/SCORM\/class.ilSCORMManifestGUI.php",
+        "line": 52,
+        "code": "$this->lng->txt(\"cont_manifest\")",
+        "has_variable": false,
+        "variable": "cont_manifest"
+    },
+    {
+        "id": 32944,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/SCORM\/class.ilSCORMOrganizationGUI.php",
+        "line": 40,
+        "code": "$this->lng->txt(\"cont_organization\")",
+        "has_variable": false,
+        "variable": "cont_organization"
+    },
+    {
+        "id": 32946,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/SCORM\/class.ilSCORMOrganizationGUI.php",
+        "line": 42,
+        "code": "$this->lng->txt(\"cont_import_id\")",
+        "has_variable": false,
+        "variable": "cont_import_id"
+    },
+    {
+        "id": 32948,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/SCORM\/class.ilSCORMOrganizationGUI.php",
+        "line": 46,
+        "code": "$this->lng->txt(\"cont_structure\")",
+        "has_variable": false,
+        "variable": "cont_structure"
+    },
+    {
+        "id": 32950,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/SCORM\/class.ilSCORMOrganizationGUI.php",
+        "line": 50,
+        "code": "$this->lng->txt(\"cont_sc_title\")",
+        "has_variable": false,
+        "variable": "cont_sc_title"
+    },
+    {
+        "id": 32952,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/SCORM\/class.ilSCORMOrganizations.php",
+        "line": 42,
+        "code": "$lng->txt(\"cont_organizations\")",
+        "has_variable": false,
+        "variable": "cont_organizations"
+    },
+    {
+        "id": 32954,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/SCORM\/class.ilSCORMOrganizationsGUI.php",
+        "line": 40,
+        "code": "$this->lng->txt(\"cont_organizations\")",
+        "has_variable": false,
+        "variable": "cont_organizations"
+    },
+    {
+        "id": 32956,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/SCORM\/class.ilSCORMOrganizationsGUI.php",
+        "line": 42,
+        "code": "$this->lng->txt(\"cont_def_organization\")",
+        "has_variable": false,
+        "variable": "cont_def_organization"
+    },
+    {
+        "id": 32958,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/SCORM\/class.ilSCORMPresentationGUI.php",
+        "line": 72,
+        "code": "$lng->txt(\"permission_denied\")",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 32960,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/SCORM\/class.ilSCORMPresentationGUI.php",
+        "line": 114,
+        "code": "$lng->txt(\"cont_sc_max_attempt_exceed\")",
+        "has_variable": false,
+        "variable": "cont_sc_max_attempt_exceed"
+    },
+    {
+        "id": 32962,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/SCORM\/class.ilSCORMPresentationGUI.php",
+        "line": 401,
+        "code": "$this->lng->txt(\"cont_content\")",
+        "has_variable": false,
+        "variable": "cont_content"
+    },
+    {
+        "id": 32964,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/SCORM\/class.ilSCORMPresentationGUI.php",
+        "line": 402,
+        "code": "$this->lng->txt(\"refresh\")",
+        "has_variable": false,
+        "variable": "refresh"
+    },
+    {
+        "id": 32966,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/SCORM\/class.ilSCORMPresentationGUI.php",
+        "line": 445,
+        "code": "$lng->txt(\"seq_toc\")",
+        "has_variable": false,
+        "variable": "seq_toc"
+    },
+    {
+        "id": 32968,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/SCORM\/class.ilSCORMPresentationGUI.php",
+        "line": 518,
+        "code": "$this->lng->txt('error_creating_certificate_pdf')",
+        "has_variable": false,
+        "variable": "error_creating_certificate_pdf"
+    },
+    {
+        "id": 32970,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/SCORM\/class.ilSCORMResourceGUI.php",
+        "line": 45,
+        "code": "$this->lng->txt(\"cont_import_id\")",
+        "has_variable": false,
+        "variable": "cont_import_id"
+    },
+    {
+        "id": 32972,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/SCORM\/class.ilSCORMResourceGUI.php",
+        "line": 49,
+        "code": "$this->lng->txt(\"cont_resource_type\")",
+        "has_variable": false,
+        "variable": "cont_resource_type"
+    },
+    {
+        "id": 32974,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/SCORM\/class.ilSCORMResourceGUI.php",
+        "line": 53,
+        "code": "$this->lng->txt(\"cont_scorm_type\")",
+        "has_variable": false,
+        "variable": "cont_scorm_type"
+    },
+    {
+        "id": 32976,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/SCORM\/class.ilSCORMResourceGUI.php",
+        "line": 57,
+        "code": "$this->lng->txt(\"cont_href\")",
+        "has_variable": false,
+        "variable": "cont_href"
+    },
+    {
+        "id": 32978,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/SCORM\/class.ilSCORMResourceGUI.php",
+        "line": 61,
+        "code": "$this->lng->txt(\"cont_xml_base\")",
+        "has_variable": false,
+        "variable": "cont_xml_base"
+    },
+    {
+        "id": 32980,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/SCORM\/class.ilSCORMResourceGUI.php",
+        "line": 65,
+        "code": "$this->lng->txt(\"cont_resource\")",
+        "has_variable": false,
+        "variable": "cont_resource"
+    },
+    {
+        "id": 32982,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/SCORM\/class.ilSCORMResourceGUI.php",
+        "line": 72,
+        "code": "$this->lng->txt(\"cont_href\")",
+        "has_variable": false,
+        "variable": "cont_href"
+    },
+    {
+        "id": 32984,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/SCORM\/class.ilSCORMResourceGUI.php",
+        "line": 77,
+        "code": "$this->lng->txt(\"cont_files\")",
+        "has_variable": false,
+        "variable": "cont_files"
+    },
+    {
+        "id": 32986,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/SCORM\/class.ilSCORMResourceGUI.php",
+        "line": 84,
+        "code": "$this->lng->txt(\"cont_id_ref\")",
+        "has_variable": false,
+        "variable": "cont_id_ref"
+    },
+    {
+        "id": 32988,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/SCORM\/class.ilSCORMResourceGUI.php",
+        "line": 89,
+        "code": "$this->lng->txt(\"cont_dependencies\")",
+        "has_variable": false,
+        "variable": "cont_dependencies"
+    },
+    {
+        "id": 32990,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/SCORM\/class.ilSCORMResources.php",
+        "line": 44,
+        "code": "$lng->txt('cont_resources')",
+        "has_variable": false,
+        "variable": "cont_resources"
+    },
+    {
+        "id": 32992,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/SCORM\/class.ilSCORMResourcesGUI.php",
+        "line": 40,
+        "code": "$this->lng->txt(\"cont_resources\")",
+        "has_variable": false,
+        "variable": "cont_resources"
+    },
+    {
+        "id": 32994,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/SCORM\/class.ilSCORMResourcesGUI.php",
+        "line": 42,
+        "code": "$this->lng->txt(\"cont_xml_base\")",
+        "has_variable": false,
+        "variable": "cont_xml_base"
+    },
+    {
+        "id": 32996,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/Verification\/class.ilObjSCORMVerificationGUI.php",
+        "line": 44,
+        "code": "$this->lng->txt(\"back\")",
+        "has_variable": false,
+        "variable": "back"
+    },
+    {
+        "id": 32998,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/Verification\/class.ilObjSCORMVerificationGUI.php",
+        "line": 82,
+        "code": "$this->lng->txt('error_creating_certificate_pdf')",
+        "has_variable": false,
+        "variable": "error_creating_certificate_pdf"
+    },
+    {
+        "id": 33000,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/Verification\/class.ilObjSCORMVerificationGUI.php",
+        "line": 94,
+        "code": "$this->lng->txt(\"msg_failed\")",
+        "has_variable": false,
+        "variable": "msg_failed"
+    },
+    {
+        "id": 33002,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/Verification\/class.ilObjSCORMVerificationGUI.php",
+        "line": 97,
+        "code": "$this->lng->txt(\"select_one\")",
+        "has_variable": false,
+        "variable": "select_one"
+    },
+    {
+        "id": 33004,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/Verification\/class.ilObjSCORMVerificationGUI.php",
+        "line": 122,
+        "code": "$lng->txt(\"wsp_type_scov\")",
+        "has_variable": false,
+        "variable": "wsp_type_scov"
+    },
+    {
+        "id": 33006,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/Verification\/class.ilObjSCORMVerificationGUI.php",
+        "line": 128,
+        "code": "$lng->txt(\"url_not_found\")",
+        "has_variable": false,
+        "variable": "url_not_found"
+    },
+    {
+        "id": 33008,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/Verification\/class.ilObjSCORMVerificationGUI.php",
+        "line": 133,
+        "code": "$lng->txt(\"permission_denied\")",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 33010,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/Verification\/class.ilObjSCORMVerificationGUI.php",
+        "line": 159,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 33012,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/Verification\/class.ilObjSCORMVerificationListGUI.php",
+        "line": 52,
+        "code": "$lng->txt('type')",
+        "has_variable": false,
+        "variable": "type"
+    },
+    {
+        "id": 33014,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/Verification\/class.ilObjSCORMVerificationListGUI.php",
+        "line": 53,
+        "code": "$lng->txt('wsp_list_scov')",
+        "has_variable": false,
+        "variable": "wsp_list_scov"
+    },
+    {
+        "id": 33016,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/Verification\/class.ilSCORMVerificationTableGUI.php",
+        "line": 50,
+        "code": "$this->lng->txt('title')",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 33018,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/Verification\/class.ilSCORMVerificationTableGUI.php",
+        "line": 51,
+        "code": "$this->lng->txt('passed')",
+        "has_variable": false,
+        "variable": "passed"
+    },
+    {
+        "id": 33020,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/Verification\/class.ilSCORMVerificationTableGUI.php",
+        "line": 52,
+        "code": "$this->lng->txt('action')",
+        "has_variable": false,
+        "variable": "action"
+    },
+    {
+        "id": 33022,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/Verification\/class.ilSCORMVerificationTableGUI.php",
+        "line": 54,
+        "code": "$this->lng->txt('scov_create')",
+        "has_variable": false,
+        "variable": "scov_create"
+    },
+    {
+        "id": 33024,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/Verification\/class.ilSCORMVerificationTableGUI.php",
+        "line": 55,
+        "code": "$this->lng->txt('scov_create_info')",
+        "has_variable": false,
+        "variable": "scov_create_info"
+    },
+    {
+        "id": 33026,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/Verification\/class.ilSCORMVerificationTableGUI.php",
+        "line": 102,
+        "code": "$this->lng->txt('yes')",
+        "has_variable": false,
+        "variable": "yes"
+    },
+    {
+        "id": 33028,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/Verification\/class.ilSCORMVerificationTableGUI.php",
+        "line": 102,
+        "code": "$this->lng->txt('no')",
+        "has_variable": false,
+        "variable": "no"
+    },
+    {
+        "id": 33030,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/Verification\/class.ilSCORMVerificationTableGUI.php",
+        "line": 109,
+        "code": "$this->lng->txt('select')",
+        "has_variable": false,
+        "variable": "select"
+    },
+    {
+        "id": 33032,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSAHSLearningModule.php",
+        "line": 1194,
+        "code": "$lng->txt('copy_of_suffix')",
+        "has_variable": false,
+        "variable": "copy_of_suffix"
+    },
+    {
+        "id": 33034,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSAHSLearningModule.php",
+        "line": 1326,
+        "code": "$lng->txt('salutation_f')",
+        "has_variable": false,
+        "variable": "salutation_f"
+    },
+    {
+        "id": 33036,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSAHSLearningModule.php",
+        "line": 1330,
+        "code": "$lng->txt('salutation_m')",
+        "has_variable": false,
+        "variable": "salutation_m"
+    },
+    {
+        "id": 33038,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSAHSLearningModule.php",
+        "line": 1334,
+        "code": "$lng->txt('salutation_n')",
+        "has_variable": false,
+        "variable": "salutation_n"
+    },
+    {
+        "id": 33040,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSAHSLearningModule.php",
+        "line": 1338,
+        "code": "$lng->txt('salutation')",
+        "has_variable": false,
+        "variable": "salutation"
+    },
+    {
+        "id": 33042,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSAHSLearningModuleGUI.php",
+        "line": 102,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 33044,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSAHSLearningModuleGUI.php",
+        "line": 193,
+        "code": "$this->lng->txt(\"msg_no_perm_read\")",
+        "has_variable": false,
+        "variable": "msg_no_perm_read"
+    },
+    {
+        "id": 33046,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSAHSLearningModuleGUI.php",
+        "line": 260,
+        "code": "$lng->txt(\"type\")",
+        "has_variable": false,
+        "variable": "type"
+    },
+    {
+        "id": 33048,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSAHSLearningModuleGUI.php",
+        "line": 261,
+        "code": "$this->lng->txt(\"lm_type_scorm\")",
+        "has_variable": false,
+        "variable": "lm_type_scorm"
+    },
+    {
+        "id": 33050,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSAHSLearningModuleGUI.php",
+        "line": 262,
+        "code": "$this->lng->txt(\"lm_type_scorm_info\")",
+        "has_variable": false,
+        "variable": "lm_type_scorm_info"
+    },
+    {
+        "id": 33052,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSAHSLearningModuleGUI.php",
+        "line": 264,
+        "code": "$this->lng->txt(\"lm_type_scorm2004\")",
+        "has_variable": false,
+        "variable": "lm_type_scorm2004"
+    },
+    {
+        "id": 33054,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSAHSLearningModuleGUI.php",
+        "line": 265,
+        "code": "$this->lng->txt(\"lm_type_scorm2004_info\")",
+        "has_variable": false,
+        "variable": "lm_type_scorm2004_info"
+    },
+    {
+        "id": 33056,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSAHSLearningModuleGUI.php",
+        "line": 272,
+        "code": "$this->lng->txt(\"cont_select_from_upload_dir\")",
+        "has_variable": false,
+        "variable": "cont_select_from_upload_dir"
+    },
+    {
+        "id": 33058,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSAHSLearningModuleGUI.php",
+        "line": 281,
+        "code": "$lng->txt(\"cont_choose_file_source\")",
+        "has_variable": false,
+        "variable": "cont_choose_file_source"
+    },
+    {
+        "id": 33060,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSAHSLearningModuleGUI.php",
+        "line": 282,
+        "code": "$this->lng->txt(\"cont_choose_local\")",
+        "has_variable": false,
+        "variable": "cont_choose_local"
+    },
+    {
+        "id": 33062,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSAHSLearningModuleGUI.php",
+        "line": 284,
+        "code": "$this->lng->txt(\"cont_choose_upload_dir\")",
+        "has_variable": false,
+        "variable": "cont_choose_upload_dir"
+    },
+    {
+        "id": 33064,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSAHSLearningModuleGUI.php",
+        "line": 288,
+        "code": "$this->lng->txt(\"select_file\")",
+        "has_variable": false,
+        "variable": "select_file"
+    },
+    {
+        "id": 33066,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSAHSLearningModuleGUI.php",
+        "line": 292,
+        "code": "$this->lng->txt(\"cont_uploaded_file\")",
+        "has_variable": false,
+        "variable": "cont_uploaded_file"
+    },
+    {
+        "id": 33068,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSAHSLearningModuleGUI.php",
+        "line": 298,
+        "code": "$this->lng->txt(\"select_file\")",
+        "has_variable": false,
+        "variable": "select_file"
+    },
+    {
+        "id": 33070,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSAHSLearningModuleGUI.php",
+        "line": 303,
+        "code": "$lng->txt(\"create\")",
+        "has_variable": false,
+        "variable": "create"
+    },
+    {
+        "id": 33072,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSAHSLearningModuleGUI.php",
+        "line": 304,
+        "code": "$lng->txt(\"cancel\")",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 33074,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSAHSLearningModuleGUI.php",
+        "line": 306,
+        "code": "$lng->txt(\"import_sahs\")",
+        "has_variable": false,
+        "variable": "import_sahs"
+    },
+    {
+        "id": 33076,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSAHSLearningModuleGUI.php",
+        "line": 331,
+        "code": "$this->lng->txt(\"no_create_permission\")",
+        "has_variable": false,
+        "variable": "no_create_permission"
+    },
+    {
+        "id": 33078,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSAHSLearningModuleGUI.php",
+        "line": 336,
+        "code": "$this->lng->txt(\"msg_no_file\")",
+        "has_variable": false,
+        "variable": "msg_no_file"
+    },
+    {
+        "id": 33080,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSAHSLearningModuleGUI.php",
+        "line": 342,
+        "code": "$this->lng->txt(\"err_max_file_size_exceeds\")",
+        "has_variable": false,
+        "variable": "err_max_file_size_exceeds"
+    },
+    {
+        "id": 33082,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSAHSLearningModuleGUI.php",
+        "line": 346,
+        "code": "$this->lng->txt(\"err_partial_file_upload\")",
+        "has_variable": false,
+        "variable": "err_partial_file_upload"
+    },
+    {
+        "id": 33084,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSAHSLearningModuleGUI.php",
+        "line": 350,
+        "code": "$this->lng->txt(\"err_no_file_uploaded\")",
+        "has_variable": false,
+        "variable": "err_no_file_uploaded"
+    },
+    {
+        "id": 33086,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSAHSLearningModuleGUI.php",
+        "line": 359,
+        "code": "$this->lng->txt(\"upload_error_file_not_found\")",
+        "has_variable": false,
+        "variable": "upload_error_file_not_found"
+    },
+    {
+        "id": 33088,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSAHSLearningModuleGUI.php",
+        "line": 364,
+        "code": "$this->lng->txt(\"msg_no_file\")",
+        "has_variable": false,
+        "variable": "msg_no_file"
+    },
+    {
+        "id": 33090,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSAHSLearningModuleGUI.php",
+        "line": 369,
+        "code": "$this->lng->txt(\"no_title\")",
+        "has_variable": false,
+        "variable": "no_title"
+    },
+    {
+        "id": 33092,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSAHSLearningModuleGUI.php",
+        "line": 449,
+        "code": "$this->lng->txt($newObj->getType() . \"_added\")",
+        "has_variable": true,
+        "variable": "$newObj->getType() . \"_added\""
+    },
+    {
+        "id": 33094,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSAHSLearningModuleGUI.php",
+        "line": 496,
+        "code": "$this->lng->txt(\"import_file_not_valid_here\")",
+        "has_variable": false,
+        "variable": "import_file_not_valid_here"
+    },
+    {
+        "id": 33096,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSAHSLearningModuleGUI.php",
+        "line": 544,
+        "code": "$this->lng->txt($new_obj->getType() . \"_added\")",
+        "has_variable": true,
+        "variable": "$new_obj->getType() . \"_added\""
+    },
+    {
+        "id": 33098,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSAHSLearningModuleGUI.php",
+        "line": 574,
+        "code": "$this->lng->txt(\"status\")",
+        "has_variable": false,
+        "variable": "status"
+    },
+    {
+        "id": 33100,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSAHSLearningModuleGUI.php",
+        "line": 575,
+        "code": "$this->lng->txt(\"offline\")",
+        "has_variable": false,
+        "variable": "offline"
+    },
+    {
+        "id": 33102,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSAHSLearningModuleGUI.php",
+        "line": 745,
+        "code": "$lng->txt('msg_no_perm_read')",
+        "has_variable": false,
+        "variable": "msg_no_perm_read"
+    },
+    {
+        "id": 33104,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSAHSLearningModuleGUI.php",
+        "line": 759,
+        "code": "$lng->txt(\"msg_no_perm_read_item\")",
+        "has_variable": false,
+        "variable": "msg_no_perm_read_item"
+    },
+    {
+        "id": 33106,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSAHSLearningModuleGUI.php",
+        "line": 766,
+        "code": "$lng->txt(\"msg_no_perm_read\")",
+        "has_variable": false,
+        "variable": "msg_no_perm_read"
+    },
+    {
+        "id": 33108,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSAHSLearningModuleListGUI.php",
+        "line": 148,
+        "code": "$lng->txt(\"type\")",
+        "has_variable": false,
+        "variable": "type"
+    },
+    {
+        "id": 33110,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSAHSLearningModuleListGUI.php",
+        "line": 149,
+        "code": "$lng->txt(\"sahs\")",
+        "has_variable": false,
+        "variable": "sahs"
+    },
+    {
+        "id": 33112,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSAHSLearningModuleListGUI.php",
+        "line": 160,
+        "code": "$lng->txt('certificate')",
+        "has_variable": false,
+        "variable": "certificate"
+    },
+    {
+        "id": 33114,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSAHSLearningModuleListGUI.php",
+        "line": 162,
+        "code": "$lng->txt('download_certificate')",
+        "has_variable": false,
+        "variable": "download_certificate"
+    },
+    {
+        "id": 33116,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSCORMLearningModule.php",
+        "line": 90,
+        "code": "$this->lng->txt(\"Manifestfile $manifest_file not found!\")",
+        "has_variable": true,
+        "variable": "Manifestfile $manifest_file not found!"
+    },
+    {
+        "id": 33118,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSCORMLearningModule.php",
+        "line": 139,
+        "code": "$this->lng->txt(\"cont_no_manifest\")",
+        "has_variable": false,
+        "variable": "cont_no_manifest"
+    },
+    {
+        "id": 33120,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSCORMLearningModule.php",
+        "line": 145,
+        "code": "$this->lng->txt(\"Not enough space left on device!\")",
+        "has_variable": true,
+        "variable": "Not enough space left on device!"
+    },
+    {
+        "id": 33122,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSCORMLearningModule.php",
+        "line": 838,
+        "code": "$lng->txt(\"user\")",
+        "has_variable": false,
+        "variable": "user"
+    },
+    {
+        "id": 33124,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSCORMLearningModule.php",
+        "line": 839,
+        "code": "$lng->txt(\"user\")",
+        "has_variable": false,
+        "variable": "user"
+    },
+    {
+        "id": 33126,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSCORMLearningModule.php",
+        "line": 840,
+        "code": "$lng->txt(\"user\")",
+        "has_variable": false,
+        "variable": "user"
+    },
+    {
+        "id": 33128,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSCORMLearningModule.php",
+        "line": 843,
+        "code": "$lng->txt(\"login\")",
+        "has_variable": false,
+        "variable": "login"
+    },
+    {
+        "id": 33130,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSCORMLearningModule.php",
+        "line": 844,
+        "code": "$lng->txt(\"login\")",
+        "has_variable": false,
+        "variable": "login"
+    },
+    {
+        "id": 33132,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSCORMLearningModule.php",
+        "line": 853,
+        "code": "$lng->txt(\"identifierref\")",
+        "has_variable": false,
+        "variable": "identifierref"
+    },
+    {
+        "id": 33134,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSCORMLearningModule.php",
+        "line": 854,
+        "code": "$lng->txt(\"identifierref\")",
+        "has_variable": false,
+        "variable": "identifierref"
+    },
+    {
+        "id": 33136,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSCORMLearningModule.php",
+        "line": 861,
+        "code": "$lng->txt(\"c_timestamp\")",
+        "has_variable": false,
+        "variable": "c_timestamp"
+    },
+    {
+        "id": 33138,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSCORMLearningModule.php",
+        "line": 1126,
+        "code": "$lng->txt(\"cont_complete\")",
+        "has_variable": false,
+        "variable": "cont_complete"
+    },
+    {
+        "id": 33140,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSCORMLearningModule.php",
+        "line": 1129,
+        "code": "$lng->txt(\"cont_incomplete\")",
+        "has_variable": false,
+        "variable": "cont_incomplete"
+    },
+    {
+        "id": 33142,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSCORMLearningModule.php",
+        "line": 1207,
+        "code": "$this->lng->txt(\"cont_complete\")",
+        "has_variable": false,
+        "variable": "cont_complete"
+    },
+    {
+        "id": 33144,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSCORMLearningModule.php",
+        "line": 1210,
+        "code": "$this->lng->txt(\"cont_incomplete\")",
+        "has_variable": false,
+        "variable": "cont_incomplete"
+    },
+    {
+        "id": 33146,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSCORMLearningModuleGUI.php",
+        "line": 107,
+        "code": "$this->lng->txt(\"cont_lm_properties\")",
+        "has_variable": false,
+        "variable": "cont_lm_properties"
+    },
+    {
+        "id": 33148,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSCORMLearningModuleGUI.php",
+        "line": 113,
+        "code": "$this->lng->txt(\"title\")",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 33150,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSCORMLearningModuleGUI.php",
+        "line": 118,
+        "code": "$this->lng->txt(\"description\")",
+        "has_variable": false,
+        "variable": "description"
+    },
+    {
+        "id": 33152,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSCORMLearningModuleGUI.php",
+        "line": 124,
+        "code": "$this->lng->txt(\"type\")",
+        "has_variable": false,
+        "variable": "type"
+    },
+    {
+        "id": 33154,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSCORMLearningModuleGUI.php",
+        "line": 125,
+        "code": "$this->lng->txt(\"lm_type_\" . ilObjSAHSLearningModule::_lookupSubType($this->object->getID()))",
+        "has_variable": true,
+        "variable": "\"lm_type_\" . ilObjSAHSLearningModule::_lookupSubType($this->object->getID())"
+    },
+    {
+        "id": 33156,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSCORMLearningModuleGUI.php",
+        "line": 129,
+        "code": "$this->lng->txt(\"cont_sc_version\")",
+        "has_variable": false,
+        "variable": "cont_sc_version"
+    },
+    {
+        "id": 33158,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSCORMLearningModuleGUI.php",
+        "line": 131,
+        "code": "$this->lng->txt(\"cont_sc_version_info\")",
+        "has_variable": false,
+        "variable": "cont_sc_version_info"
+    },
+    {
+        "id": 33160,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSCORMLearningModuleGUI.php",
+        "line": 138,
+        "code": "$this->lng->txt(\"activation\")",
+        "has_variable": false,
+        "variable": "activation"
+    },
+    {
+        "id": 33162,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSCORMLearningModuleGUI.php",
+        "line": 142,
+        "code": "$this->lng->txt(\"cont_online\")",
+        "has_variable": false,
+        "variable": "cont_online"
+    },
+    {
+        "id": 33164,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSCORMLearningModuleGUI.php",
+        "line": 143,
+        "code": "$this->lng->txt(\"cont_online_info\")",
+        "has_variable": false,
+        "variable": "cont_online_info"
+    },
+    {
+        "id": 33166,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSCORMLearningModuleGUI.php",
+        "line": 151,
+        "code": "$this->lng->txt(\"cont_presentation\")",
+        "has_variable": false,
+        "variable": "cont_presentation"
+    },
+    {
+        "id": 33168,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSCORMLearningModuleGUI.php",
+        "line": 154,
+        "code": "$this->lng->txt(\"cont_open\")",
+        "has_variable": false,
+        "variable": "cont_open"
+    },
+    {
+        "id": 33170,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSCORMLearningModuleGUI.php",
+        "line": 155,
+        "code": "$this->lng->txt(\"cont_open_normal\")",
+        "has_variable": false,
+        "variable": "cont_open_normal"
+    },
+    {
+        "id": 33172,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSCORMLearningModuleGUI.php",
+        "line": 156,
+        "code": "$this->lng->txt(\"cont_open_normal_info\")",
+        "has_variable": false,
+        "variable": "cont_open_normal_info"
+    },
+    {
+        "id": 33174,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSCORMLearningModuleGUI.php",
+        "line": 158,
+        "code": "$this->lng->txt(\"cont_open_iframe\")",
+        "has_variable": false,
+        "variable": "cont_open_iframe"
+    },
+    {
+        "id": 33176,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSCORMLearningModuleGUI.php",
+        "line": 159,
+        "code": "$this->lng->txt(\"cont_open_iframe_info\")",
+        "has_variable": false,
+        "variable": "cont_open_iframe_info"
+    },
+    {
+        "id": 33178,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSCORMLearningModuleGUI.php",
+        "line": 161,
+        "code": "$this->lng->txt(\"cont_open_window\")",
+        "has_variable": false,
+        "variable": "cont_open_window"
+    },
+    {
+        "id": 33180,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSCORMLearningModuleGUI.php",
+        "line": 162,
+        "code": "$this->lng->txt(\"cont_open_window_info\")",
+        "has_variable": false,
+        "variable": "cont_open_window_info"
+    },
+    {
+        "id": 33182,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSCORMLearningModuleGUI.php",
+        "line": 166,
+        "code": "$this->lng->txt(\"cont_width\")",
+        "has_variable": false,
+        "variable": "cont_width"
+    },
+    {
+        "id": 33184,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSCORMLearningModuleGUI.php",
+        "line": 170,
+        "code": "$this->lng->txt(\"cont_width\")",
+        "has_variable": false,
+        "variable": "cont_width"
+    },
+    {
+        "id": 33186,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSCORMLearningModuleGUI.php",
+        "line": 175,
+        "code": "$this->lng->txt(\"cont_height\")",
+        "has_variable": false,
+        "variable": "cont_height"
+    },
+    {
+        "id": 33188,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSCORMLearningModuleGUI.php",
+        "line": 178,
+        "code": "$this->lng->txt(\"cont_width_height_info\")",
+        "has_variable": false,
+        "variable": "cont_width_height_info"
+    },
+    {
+        "id": 33190,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSCORMLearningModuleGUI.php",
+        "line": 180,
+        "code": "$this->lng->txt(\"cont_height\")",
+        "has_variable": false,
+        "variable": "cont_height"
+    },
+    {
+        "id": 33192,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSCORMLearningModuleGUI.php",
+        "line": 183,
+        "code": "$this->lng->txt(\"cont_width_height_info\")",
+        "has_variable": false,
+        "variable": "cont_width_height_info"
+    },
+    {
+        "id": 33194,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSCORMLearningModuleGUI.php",
+        "line": 189,
+        "code": "$this->lng->txt(\"cont_auto_last_visited\")",
+        "has_variable": false,
+        "variable": "cont_auto_last_visited"
+    },
+    {
+        "id": 33196,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSCORMLearningModuleGUI.php",
+        "line": 191,
+        "code": "$this->lng->txt(\"cont_auto_last_visited_info\")",
+        "has_variable": false,
+        "variable": "cont_auto_last_visited_info"
+    },
+    {
+        "id": 33198,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSCORMLearningModuleGUI.php",
+        "line": 195,
+        "code": "$this->lng->txt(\"cont_sc_auto_continue\")",
+        "has_variable": false,
+        "variable": "cont_sc_auto_continue"
+    },
+    {
+        "id": 33200,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSCORMLearningModuleGUI.php",
+        "line": 197,
+        "code": "$this->lng->txt(\"cont_sc_auto_continue_info\")",
+        "has_variable": false,
+        "variable": "cont_sc_auto_continue_info"
+    },
+    {
+        "id": 33202,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSCORMLearningModuleGUI.php",
+        "line": 207,
+        "code": "$this->lng->txt(\"cont_scorm_options\")",
+        "has_variable": false,
+        "variable": "cont_scorm_options"
+    },
+    {
+        "id": 33204,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSCORMLearningModuleGUI.php",
+        "line": 211,
+        "code": "$this->lng->txt(\"cont_def_lesson_mode\")",
+        "has_variable": false,
+        "variable": "cont_def_lesson_mode"
+    },
+    {
+        "id": 33206,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSCORMLearningModuleGUI.php",
+        "line": 212,
+        "code": "$this->lng->txt(\"cont_sc_less_mode_normal\")",
+        "has_variable": false,
+        "variable": "cont_sc_less_mode_normal"
+    },
+    {
+        "id": 33208,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSCORMLearningModuleGUI.php",
+        "line": 213,
+        "code": "$this->lng->txt(\"cont_sc_less_mode_normal_info\")",
+        "has_variable": false,
+        "variable": "cont_sc_less_mode_normal_info"
+    },
+    {
+        "id": 33210,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSCORMLearningModuleGUI.php",
+        "line": 215,
+        "code": "$this->lng->txt(\"cont_sc_less_mode_browse\")",
+        "has_variable": false,
+        "variable": "cont_sc_less_mode_browse"
+    },
+    {
+        "id": 33212,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSCORMLearningModuleGUI.php",
+        "line": 216,
+        "code": "$this->lng->txt(\"cont_sc_less_mode_browse_info\")",
+        "has_variable": false,
+        "variable": "cont_sc_less_mode_browse_info"
+    },
+    {
+        "id": 33214,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSCORMLearningModuleGUI.php",
+        "line": 222,
+        "code": "$this->lng->txt(\"cont_sc_auto_review_no\")",
+        "has_variable": false,
+        "variable": "cont_sc_auto_review_no"
+    },
+    {
+        "id": 33216,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSCORMLearningModuleGUI.php",
+        "line": 223,
+        "code": "$this->lng->txt(\"cont_sc_auto_review_completed_or_passed\")",
+        "has_variable": false,
+        "variable": "cont_sc_auto_review_completed_or_passed"
+    },
+    {
+        "id": 33218,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSCORMLearningModuleGUI.php",
+        "line": 225,
+        "code": "$this->lng->txt(\"cont_sc_auto_review_2004\")",
+        "has_variable": false,
+        "variable": "cont_sc_auto_review_2004"
+    },
+    {
+        "id": 33220,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSCORMLearningModuleGUI.php",
+        "line": 227,
+        "code": "$this->lng->txt(\"cont_sc_auto_review_info_12\")",
+        "has_variable": false,
+        "variable": "cont_sc_auto_review_info_12"
+    },
+    {
+        "id": 33222,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSCORMLearningModuleGUI.php",
+        "line": 234,
+        "code": "$this->lng->txt(\"cont_mastery_score_12\")",
+        "has_variable": false,
+        "variable": "cont_mastery_score_12"
+    },
+    {
+        "id": 33224,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSCORMLearningModuleGUI.php",
+        "line": 237,
+        "code": "$this->lng->txt(\"cont_mastery_score_12_info\")",
+        "has_variable": false,
+        "variable": "cont_mastery_score_12_info"
+    },
+    {
+        "id": 33226,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSCORMLearningModuleGUI.php",
+        "line": 245,
+        "code": "$this->lng->txt(\"cont_rte_settings\")",
+        "has_variable": false,
+        "variable": "cont_rte_settings"
+    },
+    {
+        "id": 33228,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSCORMLearningModuleGUI.php",
+        "line": 249,
+        "code": "$this->lng->txt(\"cont_sc_usession\")",
+        "has_variable": false,
+        "variable": "cont_sc_usession"
+    },
+    {
+        "id": 33230,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSCORMLearningModuleGUI.php",
+        "line": 251,
+        "code": "$this->lng->txt(\"cont_sc_usession_info\")",
+        "has_variable": false,
+        "variable": "cont_sc_usession_info"
+    },
+    {
+        "id": 33232,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSCORMLearningModuleGUI.php",
+        "line": 255,
+        "code": "$this->lng->txt(\"cont_interactions\")",
+        "has_variable": false,
+        "variable": "cont_interactions"
+    },
+    {
+        "id": 33234,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSCORMLearningModuleGUI.php",
+        "line": 257,
+        "code": "$this->lng->txt(\"cont_interactions_info_12\")",
+        "has_variable": false,
+        "variable": "cont_interactions_info_12"
+    },
+    {
+        "id": 33236,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSCORMLearningModuleGUI.php",
+        "line": 261,
+        "code": "$this->lng->txt(\"cont_objectives\")",
+        "has_variable": false,
+        "variable": "cont_objectives"
+    },
+    {
+        "id": 33238,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSCORMLearningModuleGUI.php",
+        "line": 263,
+        "code": "$this->lng->txt(\"cont_objectives_info\")",
+        "has_variable": false,
+        "variable": "cont_objectives_info"
+    },
+    {
+        "id": 33240,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSCORMLearningModuleGUI.php",
+        "line": 267,
+        "code": "$this->lng->txt(\"cont_time_from_lms\")",
+        "has_variable": false,
+        "variable": "cont_time_from_lms"
+    },
+    {
+        "id": 33242,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSCORMLearningModuleGUI.php",
+        "line": 269,
+        "code": "$this->lng->txt(\"cont_time_from_lms_info\")",
+        "has_variable": false,
+        "variable": "cont_time_from_lms_info"
+    },
+    {
+        "id": 33244,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSCORMLearningModuleGUI.php",
+        "line": 273,
+        "code": "$this->lng->txt(\"cont_check_values\")",
+        "has_variable": false,
+        "variable": "cont_check_values"
+    },
+    {
+        "id": 33246,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSCORMLearningModuleGUI.php",
+        "line": 275,
+        "code": "$this->lng->txt(\"cont_check_values_info\")",
+        "has_variable": false,
+        "variable": "cont_check_values_info"
+    },
+    {
+        "id": 33248,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSCORMLearningModuleGUI.php",
+        "line": 279,
+        "code": "$this->lng->txt(\"cont_auto_suspend\")",
+        "has_variable": false,
+        "variable": "cont_auto_suspend"
+    },
+    {
+        "id": 33250,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSCORMLearningModuleGUI.php",
+        "line": 281,
+        "code": "$this->lng->txt(\"cont_auto_suspend_info\")",
+        "has_variable": false,
+        "variable": "cont_auto_suspend_info"
+    },
+    {
+        "id": 33252,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSCORMLearningModuleGUI.php",
+        "line": 286,
+        "code": "$this->lng->txt(\"cont_sc_id_setting_user_id\")",
+        "has_variable": false,
+        "variable": "cont_sc_id_setting_user_id"
+    },
+    {
+        "id": 33254,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSCORMLearningModuleGUI.php",
+        "line": 287,
+        "code": "$this->lng->txt(\"cont_sc_id_setting_user_login\")",
+        "has_variable": false,
+        "variable": "cont_sc_id_setting_user_login"
+    },
+    {
+        "id": 33256,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSCORMLearningModuleGUI.php",
+        "line": 288,
+        "code": "$this->lng->txt(\"cont_sc_id_setting_user_id_plus_ref_id\")",
+        "has_variable": false,
+        "variable": "cont_sc_id_setting_user_id_plus_ref_id"
+    },
+    {
+        "id": 33258,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSCORMLearningModuleGUI.php",
+        "line": 289,
+        "code": "$this->lng->txt(\"cont_sc_id_setting_user_login_plus_ref_id\")",
+        "has_variable": false,
+        "variable": "cont_sc_id_setting_user_login_plus_ref_id"
+    },
+    {
+        "id": 33260,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSCORMLearningModuleGUI.php",
+        "line": 290,
+        "code": "$this->lng->txt(\"cont_sc_id_setting_user_id_plus_obj_id\")",
+        "has_variable": false,
+        "variable": "cont_sc_id_setting_user_id_plus_obj_id"
+    },
+    {
+        "id": 33262,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSCORMLearningModuleGUI.php",
+        "line": 291,
+        "code": "$this->lng->txt(\"cont_sc_id_setting_user_login_plus_obj_id\")",
+        "has_variable": false,
+        "variable": "cont_sc_id_setting_user_login_plus_obj_id"
+    },
+    {
+        "id": 33264,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSCORMLearningModuleGUI.php",
+        "line": 293,
+        "code": "$this->lng->txt(\"cont_sc_id_setting\")",
+        "has_variable": false,
+        "variable": "cont_sc_id_setting"
+    },
+    {
+        "id": 33266,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSCORMLearningModuleGUI.php",
+        "line": 295,
+        "code": "$this->lng->txt(\"cont_sc_id_setting_info\")",
+        "has_variable": false,
+        "variable": "cont_sc_id_setting_info"
+    },
+    {
+        "id": 33268,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSCORMLearningModuleGUI.php",
+        "line": 300,
+        "code": "$this->lng->txt(\"cont_sc_name_setting_last_firstname\")",
+        "has_variable": false,
+        "variable": "cont_sc_name_setting_last_firstname"
+    },
+    {
+        "id": 33270,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSCORMLearningModuleGUI.php",
+        "line": 301,
+        "code": "$this->lng->txt(\"cont_sc_name_setting_first_lastname\")",
+        "has_variable": false,
+        "variable": "cont_sc_name_setting_first_lastname"
+    },
+    {
+        "id": 33272,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSCORMLearningModuleGUI.php",
+        "line": 302,
+        "code": "$this->lng->txt(\"cont_sc_name_setting_fullname\")",
+        "has_variable": false,
+        "variable": "cont_sc_name_setting_fullname"
+    },
+    {
+        "id": 33274,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSCORMLearningModuleGUI.php",
+        "line": 303,
+        "code": "$this->lng->txt(\"cont_sc_name_setting_salutation_lastname\")",
+        "has_variable": false,
+        "variable": "cont_sc_name_setting_salutation_lastname"
+    },
+    {
+        "id": 33276,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSCORMLearningModuleGUI.php",
+        "line": 304,
+        "code": "$this->lng->txt(\"cont_sc_name_setting_first_name\")",
+        "has_variable": false,
+        "variable": "cont_sc_name_setting_first_name"
+    },
+    {
+        "id": 33278,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSCORMLearningModuleGUI.php",
+        "line": 305,
+        "code": "$this->lng->txt(\"cont_sc_name_setting_no_name\")",
+        "has_variable": false,
+        "variable": "cont_sc_name_setting_no_name"
+    },
+    {
+        "id": 33280,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSCORMLearningModuleGUI.php",
+        "line": 307,
+        "code": "$this->lng->txt(\"cont_sc_name_setting\")",
+        "has_variable": false,
+        "variable": "cont_sc_name_setting"
+    },
+    {
+        "id": 33282,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSCORMLearningModuleGUI.php",
+        "line": 309,
+        "code": "$this->lng->txt(\"cont_sc_name_setting_info\")",
+        "has_variable": false,
+        "variable": "cont_sc_name_setting_info"
+    },
+    {
+        "id": 33284,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSCORMLearningModuleGUI.php",
+        "line": 316,
+        "code": "$this->lng->txt(\"cont_debugging\")",
+        "has_variable": false,
+        "variable": "cont_debugging"
+    },
+    {
+        "id": 33286,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSCORMLearningModuleGUI.php",
+        "line": 320,
+        "code": "$this->lng->txt(\"cont_debug\")",
+        "has_variable": false,
+        "variable": "cont_debug"
+    },
+    {
+        "id": 33288,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSCORMLearningModuleGUI.php",
+        "line": 324,
+        "code": "$this->lng->txt(\"cont_debug_deactivated\")",
+        "has_variable": false,
+        "variable": "cont_debug_deactivated"
+    },
+    {
+        "id": 33290,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSCORMLearningModuleGUI.php",
+        "line": 326,
+        "code": "$this->lng->txt(\"cont_debug_deactivate12\")",
+        "has_variable": false,
+        "variable": "cont_debug_deactivate12"
+    },
+    {
+        "id": 33292,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSCORMLearningModuleGUI.php",
+        "line": 329,
+        "code": "$this->lng->txt(\"save\")",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 33294,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSCORMLearningModuleGUI.php",
+        "line": 382,
+        "code": "$this->lng->txt(\"import_sahs_new\")",
+        "has_variable": false,
+        "variable": "import_sahs_new"
+    },
+    {
+        "id": 33296,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSCORMLearningModuleGUI.php",
+        "line": 384,
+        "code": "$this->lng->txt(\"import_sahs_info\")",
+        "has_variable": false,
+        "variable": "import_sahs_info"
+    },
+    {
+        "id": 33298,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSCORMLearningModuleGUI.php",
+        "line": 387,
+        "code": "$this->lng->txt(\"type\")",
+        "has_variable": false,
+        "variable": "type"
+    },
+    {
+        "id": 33300,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSCORMLearningModuleGUI.php",
+        "line": 388,
+        "code": "$this->lng->txt(\"lm_type_\" . ilObjSAHSLearningModule::_lookupSubType($this->object->getID()))",
+        "has_variable": true,
+        "variable": "\"lm_type_\" . ilObjSAHSLearningModule::_lookupSubType($this->object->getID())"
+    },
+    {
+        "id": 33302,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSCORMLearningModuleGUI.php",
+        "line": 393,
+        "code": "$this->lng->txt(\"cont_select_from_upload_dir\")",
+        "has_variable": false,
+        "variable": "cont_select_from_upload_dir"
+    },
+    {
+        "id": 33304,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSCORMLearningModuleGUI.php",
+        "line": 402,
+        "code": "$this->lng->txt(\"cont_choose_file_source\")",
+        "has_variable": false,
+        "variable": "cont_choose_file_source"
+    },
+    {
+        "id": 33306,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSCORMLearningModuleGUI.php",
+        "line": 403,
+        "code": "$this->lng->txt(\"cont_choose_local\")",
+        "has_variable": false,
+        "variable": "cont_choose_local"
+    },
+    {
+        "id": 33308,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSCORMLearningModuleGUI.php",
+        "line": 405,
+        "code": "$this->lng->txt(\"cont_choose_upload_dir\")",
+        "has_variable": false,
+        "variable": "cont_choose_upload_dir"
+    },
+    {
+        "id": 33310,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSCORMLearningModuleGUI.php",
+        "line": 409,
+        "code": "$this->lng->txt(\"select_file\")",
+        "has_variable": false,
+        "variable": "select_file"
+    },
+    {
+        "id": 33312,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSCORMLearningModuleGUI.php",
+        "line": 413,
+        "code": "$this->lng->txt(\"cont_uploaded_file\")",
+        "has_variable": false,
+        "variable": "cont_uploaded_file"
+    },
+    {
+        "id": 33314,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSCORMLearningModuleGUI.php",
+        "line": 419,
+        "code": "$this->lng->txt(\"select_file\")",
+        "has_variable": false,
+        "variable": "select_file"
+    },
+    {
+        "id": 33316,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSCORMLearningModuleGUI.php",
+        "line": 423,
+        "code": "$this->lng->txt(\"upload\")",
+        "has_variable": false,
+        "variable": "upload"
+    },
+    {
+        "id": 33318,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSCORMLearningModuleGUI.php",
+        "line": 424,
+        "code": "$this->lng->txt(\"cancel\")",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 33320,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSCORMLearningModuleGUI.php",
+        "line": 475,
+        "code": "$this->lng->txt(\"no_create_permission\")",
+        "has_variable": false,
+        "variable": "no_create_permission"
+    },
+    {
+        "id": 33322,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSCORMLearningModuleGUI.php",
+        "line": 480,
+        "code": "$this->lng->txt(\"upload_error_file_not_found\")",
+        "has_variable": false,
+        "variable": "upload_error_file_not_found"
+    },
+    {
+        "id": 33324,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSCORMLearningModuleGUI.php",
+        "line": 488,
+        "code": "$this->lng->txt(\"upload_error_file_not_found\")",
+        "has_variable": false,
+        "variable": "upload_error_file_not_found"
+    },
+    {
+        "id": 33326,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSCORMLearningModuleGUI.php",
+        "line": 496,
+        "code": "$this->lng->txt(\"upload_error_file_not_found\")",
+        "has_variable": false,
+        "variable": "upload_error_file_not_found"
+    },
+    {
+        "id": 33328,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSCORMLearningModuleGUI.php",
+        "line": 564,
+        "code": "$this->lng->txt(\"cont_new_module_added\")",
+        "has_variable": false,
+        "variable": "cont_new_module_added"
+    },
+    {
+        "id": 33330,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSCORMLearningModuleGUI.php",
+        "line": 573,
+        "code": "$this->lng->txt(\"cont_invalid_new_module\")",
+        "has_variable": false,
+        "variable": "cont_invalid_new_module"
+    },
+    {
+        "id": 33332,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSCORMLearningModuleGUI.php",
+        "line": 637,
+        "code": "$this->lng->txt(\"msg_obj_modified\")",
+        "has_variable": false,
+        "variable": "msg_obj_modified"
+    },
+    {
+        "id": 33334,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSCORMLearningModuleGUI.php",
+        "line": 768,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 33336,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSCORMLearningModuleGUI.php",
+        "line": 775,
+        "code": "$this->lng->txt('import')",
+        "has_variable": false,
+        "variable": "import"
+    },
+    {
+        "id": 33338,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSCORMLearningModuleGUI.php",
+        "line": 779,
+        "code": "$this->lng->txt('cont_export_all')",
+        "has_variable": false,
+        "variable": "cont_export_all"
+    },
+    {
+        "id": 33340,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSCORMLearningModuleGUI.php",
+        "line": 825,
+        "code": "$this->lng->txt(\"no_checkbox\")",
+        "has_variable": false,
+        "variable": "no_checkbox"
+    },
+    {
+        "id": 33342,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSCORMLearningModuleGUI.php",
+        "line": 831,
+        "code": "$this->lng->txt(\"info_delete_sure\")",
+        "has_variable": false,
+        "variable": "info_delete_sure"
+    },
+    {
+        "id": 33344,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSCORMLearningModuleGUI.php",
+        "line": 832,
+        "code": "$this->lng->txt(\"cancel\")",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 33346,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSCORMLearningModuleGUI.php",
+        "line": 833,
+        "code": "$this->lng->txt(\"confirm\")",
+        "has_variable": false,
+        "variable": "confirm"
+    },
+    {
+        "id": 33348,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSCORMLearningModuleGUI.php",
+        "line": 839,
+        "code": "$this->lng->txt(\"cont_tracking_data\")",
+        "has_variable": false,
+        "variable": "cont_tracking_data"
+    },
+    {
+        "id": 33350,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSCORMLearningModuleGUI.php",
+        "line": 854,
+        "code": "$this->lng->txt(\"msg_cancel\")",
+        "has_variable": false,
+        "variable": "msg_cancel"
+    },
+    {
+        "id": 33352,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSCORMLearningModuleGUI.php",
+        "line": 873,
+        "code": "$this->lng->txt(\"msg_cancel\")",
+        "has_variable": false,
+        "variable": "msg_cancel"
+    },
+    {
+        "id": 33354,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSCORMLearningModuleGUI.php",
+        "line": 893,
+        "code": "$this->lng->txt('err_check_input')",
+        "has_variable": false,
+        "variable": "err_check_input"
+    },
+    {
+        "id": 33356,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSCORMLearningModuleGUI.php",
+        "line": 898,
+        "code": "$this->lng->txt('err_check_input')",
+        "has_variable": false,
+        "variable": "err_check_input"
+    },
+    {
+        "id": 33358,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSCORMLearningModuleGUI.php",
+        "line": 913,
+        "code": "$this->lng->txt('back')",
+        "has_variable": false,
+        "variable": "back"
+    },
+    {
+        "id": 33360,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSCORMLearningModuleGUI.php",
+        "line": 927,
+        "code": "$this->lng->txt('cont_import_tracking')",
+        "has_variable": false,
+        "variable": "cont_import_tracking"
+    },
+    {
+        "id": 33362,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSCORMLearningModuleGUI.php",
+        "line": 928,
+        "code": "$this->lng->txt('import')",
+        "has_variable": false,
+        "variable": "import"
+    },
+    {
+        "id": 33364,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSCORMLearningModuleGUI.php",
+        "line": 929,
+        "code": "$this->lng->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 33366,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSCORMLearningModuleGUI.php",
+        "line": 931,
+        "code": "$this->lng->txt('select_file')",
+        "has_variable": false,
+        "variable": "select_file"
+    },
+    {
+        "id": 33368,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSCORMLearningModuleGUI.php",
+        "line": 955,
+        "code": "$this->lng->txt('select_one')",
+        "has_variable": false,
+        "variable": "select_one"
+    },
+    {
+        "id": 33370,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSCORMLearningModuleGUI.php",
+        "line": 956,
+        "code": "$this->lng->txt(\"no_checkbox\")",
+        "has_variable": false,
+        "variable": "no_checkbox"
+    },
+    {
+        "id": 33372,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilSAHSPresentationGUI.php",
+        "line": 206,
+        "code": "$this->lng->txt('msg_no_perm_read')",
+        "has_variable": false,
+        "variable": "msg_no_perm_read"
+    },
+    {
+        "id": 33374,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilSAHSPresentationGUI.php",
+        "line": 211,
+        "code": "$this->lng->txt(\"info_short\")",
+        "has_variable": false,
+        "variable": "info_short"
+    },
+    {
+        "id": 33376,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilSAHSPresentationGUI.php",
+        "line": 217,
+        "code": "$this->lng->txt(\"learning_progress\")",
+        "has_variable": false,
+        "variable": "learning_progress"
+    },
+    {
+        "id": 33378,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilSAHSPresentationGUI.php",
+        "line": 229,
+        "code": "$this->lng->txt(\"cont_tracking_data\")",
+        "has_variable": false,
+        "variable": "cont_tracking_data"
+    },
+    {
+        "id": 33380,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilSAHSPresentationGUI.php",
+        "line": 235,
+        "code": "$this->lng->txt(\"cont_tracking_data\")",
+        "has_variable": false,
+        "variable": "cont_tracking_data"
+    },
+    {
+        "id": 33382,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilSCORMTrackingItemPerUserTableGUI.php",
+        "line": 121,
+        "code": "$this->lng->txt('cont_lvalue')",
+        "has_variable": false,
+        "variable": "cont_lvalue"
+    },
+    {
+        "id": 33384,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilSCORMTrackingItemPerUserTableGUI.php",
+        "line": 122,
+        "code": "$this->lng->txt('cont_rvalue')",
+        "has_variable": false,
+        "variable": "cont_rvalue"
+    },
+    {
+        "id": 33386,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilSCORMTrackingItems.php",
+        "line": 45,
+        "code": "$lng->txt($a_cols[$i])",
+        "has_variable": true,
+        "variable": "_"
+    },
+    {
+        "id": 33388,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilSCORMTrackingItems.php",
+        "line": 88,
+        "code": "$lng->txt($a_cols[$i])",
+        "has_variable": true,
+        "variable": "_"
+    },
+    {
+        "id": 33390,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilSCORMTrackingItems.php",
+        "line": 113,
+        "code": "$lng->txt($a_cols[$i])",
+        "has_variable": true,
+        "variable": "_"
+    },
+    {
+        "id": 33392,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilSCORMTrackingItems.php",
+        "line": 138,
+        "code": "$lng->txt($a_cols[$i])",
+        "has_variable": true,
+        "variable": "_"
+    },
+    {
+        "id": 33394,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilSCORMTrackingItems.php",
+        "line": 163,
+        "code": "$lng->txt($a_cols[$i])",
+        "has_variable": true,
+        "variable": "_"
+    },
+    {
+        "id": 33396,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilSCORMTrackingItems.php",
+        "line": 252,
+        "code": "$lng->txt('yes')",
+        "has_variable": false,
+        "variable": "yes"
+    },
+    {
+        "id": 33398,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilSCORMTrackingItems.php",
+        "line": 254,
+        "code": "$lng->txt('no')",
+        "has_variable": false,
+        "variable": "no"
+    },
+    {
+        "id": 33400,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilSCORMTrackingItemsPerScoFilterGUI.php",
+        "line": 51,
+        "code": "$lng->txt(\"all\")",
+        "has_variable": false,
+        "variable": "all"
+    },
+    {
+        "id": 33402,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilSCORMTrackingItemsPerScoFilterGUI.php",
+        "line": 57,
+        "code": "$lng->txt(\"chapter\")",
+        "has_variable": false,
+        "variable": "chapter"
+    },
+    {
+        "id": 33404,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilSCORMTrackingItemsPerScoFilterGUI.php",
+        "line": 62,
+        "code": "$lng->txt(\"please_choose\")",
+        "has_variable": false,
+        "variable": "please_choose"
+    },
+    {
+        "id": 33406,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilSCORMTrackingItemsPerScoFilterGUI.php",
+        "line": 64,
+        "code": "$lng->txt(strtolower($value))",
+        "has_variable": true,
+        "variable": "\\$value"
+    },
+    {
+        "id": 33408,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilSCORMTrackingItemsPerScoFilterGUI.php",
+        "line": 66,
+        "code": "$lng->txt(\"report\")",
+        "has_variable": false,
+        "variable": "report"
+    },
+    {
+        "id": 33410,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilSCORMTrackingItemsPerScoFilterGUI.php",
+        "line": 70,
+        "code": "$lng->txt(\"apply_filter\")",
+        "has_variable": false,
+        "variable": "apply_filter"
+    },
+    {
+        "id": 33412,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilSCORMTrackingItemsPerScoTableGUI.php",
+        "line": 85,
+        "code": "$this->lng->txt('cont_tracking_items')",
+        "has_variable": false,
+        "variable": "cont_tracking_items"
+    },
+    {
+        "id": 33414,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilSCORMTrackingItemsPerScoTableGUI.php",
+        "line": 87,
+        "code": "$this->lng->txt('title')",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 33416,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilSCORMTrackingItemsPerUserFilterGUI.php",
+        "line": 51,
+        "code": "$lng->txt(\"all\")",
+        "has_variable": false,
+        "variable": "all"
+    },
+    {
+        "id": 33418,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilSCORMTrackingItemsPerUserFilterGUI.php",
+        "line": 69,
+        "code": "$lng->txt(\"no_items\")",
+        "has_variable": false,
+        "variable": "no_items"
+    },
+    {
+        "id": 33420,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilSCORMTrackingItemsPerUserFilterGUI.php",
+        "line": 72,
+        "code": "$lng->txt(\"user\")",
+        "has_variable": false,
+        "variable": "user"
+    },
+    {
+        "id": 33422,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilSCORMTrackingItemsPerUserFilterGUI.php",
+        "line": 77,
+        "code": "$lng->txt(\"please_choose\")",
+        "has_variable": false,
+        "variable": "please_choose"
+    },
+    {
+        "id": 33424,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilSCORMTrackingItemsPerUserFilterGUI.php",
+        "line": 79,
+        "code": "$lng->txt(strtolower($value))",
+        "has_variable": true,
+        "variable": "\\$value"
+    },
+    {
+        "id": 33426,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilSCORMTrackingItemsPerUserFilterGUI.php",
+        "line": 81,
+        "code": "$lng->txt(\"report\")",
+        "has_variable": false,
+        "variable": "report"
+    },
+    {
+        "id": 33428,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilSCORMTrackingItemsPerUserFilterGUI.php",
+        "line": 85,
+        "code": "$lng->txt(\"apply_filter\")",
+        "has_variable": false,
+        "variable": "apply_filter"
+    },
+    {
+        "id": 33430,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilSCORMTrackingItemsPerUserTableGUI.php",
+        "line": 102,
+        "code": "$this->lng->txt('title')",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 33432,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilSCORMTrackingItemsPerUserTableGUI.php",
+        "line": 103,
+        "code": "$this->lng->txt('cont_status')",
+        "has_variable": false,
+        "variable": "cont_status"
+    },
+    {
+        "id": 33434,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilSCORMTrackingItemsPerUserTableGUI.php",
+        "line": 104,
+        "code": "$this->lng->txt('cont_time')",
+        "has_variable": false,
+        "variable": "cont_time"
+    },
+    {
+        "id": 33436,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilSCORMTrackingItemsPerUserTableGUI.php",
+        "line": 105,
+        "code": "$this->lng->txt('cont_score')",
+        "has_variable": false,
+        "variable": "cont_score"
+    },
+    {
+        "id": 33438,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilSCORMTrackingItemsScoTableGUI.php",
+        "line": 115,
+        "code": "$this->lng->txt('name')",
+        "has_variable": false,
+        "variable": "name"
+    },
+    {
+        "id": 33440,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilSCORMTrackingItemsScoTableGUI.php",
+        "line": 116,
+        "code": "$this->lng->txt('cont_status')",
+        "has_variable": false,
+        "variable": "cont_status"
+    },
+    {
+        "id": 33442,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilSCORMTrackingItemsScoTableGUI.php",
+        "line": 117,
+        "code": "$this->lng->txt('cont_time')",
+        "has_variable": false,
+        "variable": "cont_time"
+    },
+    {
+        "id": 33444,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilSCORMTrackingItemsScoTableGUI.php",
+        "line": 118,
+        "code": "$this->lng->txt('cont_score')",
+        "has_variable": false,
+        "variable": "cont_score"
+    },
+    {
+        "id": 33446,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilSCORMTrackingItemsTableGUI.php",
+        "line": 80,
+        "code": "$this->lng->txt($l)",
+        "has_variable": true,
+        "variable": "$l"
+    },
+    {
+        "id": 33448,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilSCORMTrackingItemsTableGUI.php",
+        "line": 82,
+        "code": "$this->lng->txt(substr($l, 0, 14))",
+        "has_variable": true,
+        "variable": "\\$l"
+    },
+    {
+        "id": 33450,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilSCORMTrackingItemsTableGUI.php",
+        "line": 85,
+        "code": "$this->lng->txt(substr($l, 0, 17))",
+        "has_variable": true,
+        "variable": "\\$l"
+    },
+    {
+        "id": 33452,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilSCORMTrackingItemsTableGUI.php",
+        "line": 88,
+        "code": "$this->lng->txt(substr($l, 0, 23))",
+        "has_variable": true,
+        "variable": "\\$l"
+    },
+    {
+        "id": 33454,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilSCORMTrackingUsersTableGUI.php",
+        "line": 126,
+        "code": "$this->lng->txt('cont_tracking_items')",
+        "has_variable": false,
+        "variable": "cont_tracking_items"
+    },
+    {
+        "id": 33456,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilSCORMTrackingUsersTableGUI.php",
+        "line": 129,
+        "code": "$this->lng->txt('user')",
+        "has_variable": false,
+        "variable": "user"
+    },
+    {
+        "id": 33458,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilSCORMTrackingUsersTableGUI.php",
+        "line": 130,
+        "code": "$this->lng->txt('last_access')",
+        "has_variable": false,
+        "variable": "last_access"
+    },
+    {
+        "id": 33460,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilSCORMTrackingUsersTableGUI.php",
+        "line": 131,
+        "code": "$this->lng->txt('attempts')",
+        "has_variable": false,
+        "variable": "attempts"
+    },
+    {
+        "id": 33462,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilSCORMTrackingUsersTableGUI.php",
+        "line": 132,
+        "code": "$this->lng->txt('version')",
+        "has_variable": false,
+        "variable": "version"
+    },
+    {
+        "id": 33464,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilSCORMTrackingUsersTableGUI.php",
+        "line": 137,
+        "code": "$this->lng->txt('delete')",
+        "has_variable": false,
+        "variable": "delete"
+    },
+    {
+        "id": 33466,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilSCORMTrackingUsersTableGUI.php",
+        "line": 138,
+        "code": "$this->lng->txt('export')",
+        "has_variable": false,
+        "variable": "export"
+    },
+    {
+        "id": 33468,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilScormMailTemplateLPContext.php",
+        "line": 43,
+        "code": "$lng->txt('sahs_mail_context_lp')",
+        "has_variable": false,
+        "variable": "sahs_mail_context_lp"
+    },
+    {
+        "id": 33470,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilScormMailTemplateLPContext.php",
+        "line": 53,
+        "code": "$lng->txt('sahs_mail_context_lp_info')",
+        "has_variable": false,
+        "variable": "sahs_mail_context_lp_info"
+    },
+    {
+        "id": 33472,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilScormMailTemplateLPContext.php",
+        "line": 77,
+        "code": "$lng->txt('obj_sahs')",
+        "has_variable": false,
+        "variable": "obj_sahs"
+    },
+    {
+        "id": 33474,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilScormMailTemplateLPContext.php",
+        "line": 82,
+        "code": "$lng->txt('trac_status')",
+        "has_variable": false,
+        "variable": "trac_status"
+    },
+    {
+        "id": 33476,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilScormMailTemplateLPContext.php",
+        "line": 87,
+        "code": "$lng->txt('trac_mark')",
+        "has_variable": false,
+        "variable": "trac_mark"
+    },
+    {
+        "id": 33478,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilScormMailTemplateLPContext.php",
+        "line": 94,
+        "code": "$lng->txt('cont_score')",
+        "has_variable": false,
+        "variable": "cont_score"
+    },
+    {
+        "id": 33480,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilScormMailTemplateLPContext.php",
+        "line": 100,
+        "code": "$lng->txt('trac_spent_seconds')",
+        "has_variable": false,
+        "variable": "trac_spent_seconds"
+    },
+    {
+        "id": 33482,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilScormMailTemplateLPContext.php",
+        "line": 107,
+        "code": "$lng->txt('trac_first_access')",
+        "has_variable": false,
+        "variable": "trac_first_access"
+    },
+    {
+        "id": 33484,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilScormMailTemplateLPContext.php",
+        "line": 112,
+        "code": "$lng->txt('trac_last_access')",
+        "has_variable": false,
+        "variable": "trac_last_access"
+    },
+    {
+        "id": 33486,
+        "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilScormMailTemplateLPContext.php",
+        "line": 119,
+        "code": "$lng->txt('perma_link')",
+        "has_variable": false,
+        "variable": "perma_link"
+    }
+]

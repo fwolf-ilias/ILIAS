@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "type": "full",
+        "count": 1,
+        "description": "Variable usages without detectable prefixes or suffixes (pure variable references without static strings)"
+    },
+    "matches": [
+        {
+            "id": 19828,
+            "file": "components\/ILIAS\/HTMLLearningModule\/classes\/class.ilObjFileBasedLMGUI.php",
+            "line": 262,
+            "code": "$this->lng->txt(\"\")",
+            "variable": "",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        }
+    ]
+}

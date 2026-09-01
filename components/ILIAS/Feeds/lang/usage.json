@@ -1,0 +1,58 @@
+[
+    {
+        "id": 16640,
+        "file": "components\/ILIAS\/Feeds\/classes\/class.ilFeedWriter.php",
+        "line": 211,
+        "code": "$lng->txt(\"repository\")",
+        "has_variable": false,
+        "variable": "repository"
+    },
+    {
+        "id": 16642,
+        "file": "components\/ILIAS\/Feeds\/classes\/class.ilObjectFeedWriter.php",
+        "line": 76,
+        "code": "$lng->txt(\"mcst_media_cast_not_online\")",
+        "has_variable": false,
+        "variable": "mcst_media_cast_not_online"
+    },
+    {
+        "id": 16644,
+        "file": "components\/ILIAS\/Feeds\/classes\/class.ilObjectFeedWriter.php",
+        "line": 77,
+        "code": "$lng->txt(\"mcst_media_cast_not_online_text\")",
+        "has_variable": false,
+        "variable": "mcst_media_cast_not_online_text"
+    },
+    {
+        "id": 16646,
+        "file": "components\/ILIAS\/Feeds\/resources\/privfeed.php",
+        "line": 79,
+        "code": "$lng->txt(\"priv_feed_no_access_title\")",
+        "has_variable": false,
+        "variable": "priv_feed_no_access_title"
+    },
+    {
+        "id": 16648,
+        "file": "components\/ILIAS\/Feeds\/resources\/privfeed.php",
+        "line": 82,
+        "code": "$lng->txt(\"priv_feed_no_access_body\")",
+        "has_variable": false,
+        "variable": "priv_feed_no_access_body"
+    },
+    {
+        "id": 16650,
+        "file": "components\/ILIAS\/Feeds\/resources\/privfeed.php",
+        "line": 88,
+        "code": "$lng->txt(\"priv_feed_no_auth_title\")",
+        "has_variable": false,
+        "variable": "priv_feed_no_auth_title"
+    },
+    {
+        "id": 16652,
+        "file": "components\/ILIAS\/Feeds\/resources\/privfeed.php",
+        "line": 91,
+        "code": "$lng->txt(\"priv_feed_no_auth_body\")",
+        "has_variable": false,
+        "variable": "priv_feed_no_auth_body"
+    }
+]

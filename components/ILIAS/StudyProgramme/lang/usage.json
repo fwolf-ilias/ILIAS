@@ -1,0 +1,3170 @@
+[
+    {
+        "id": 35154,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/Certificate\/class.ilStudyProgrammePlaceholderDescription.php",
+        "line": 57,
+        "code": "$this->language->txt('sp_certificate_title')",
+        "has_variable": false,
+        "variable": "sp_certificate_title"
+    },
+    {
+        "id": 35156,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/Certificate\/class.ilStudyProgrammePlaceholderDescription.php",
+        "line": 58,
+        "code": "$this->language->txt('sp_certificate_description')",
+        "has_variable": false,
+        "variable": "sp_certificate_description"
+    },
+    {
+        "id": 35158,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/Certificate\/class.ilStudyProgrammePlaceholderDescription.php",
+        "line": 59,
+        "code": "$this->language->txt('sp_certificate_type')",
+        "has_variable": false,
+        "variable": "sp_certificate_type"
+    },
+    {
+        "id": 35160,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/Certificate\/class.ilStudyProgrammePlaceholderDescription.php",
+        "line": 60,
+        "code": "$this->language->txt('sp_certificate_points')",
+        "has_variable": false,
+        "variable": "sp_certificate_points"
+    },
+    {
+        "id": 35162,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/Certificate\/class.ilStudyProgrammePlaceholderDescription.php",
+        "line": 61,
+        "code": "$this->language->txt('sp_certificate_completion_date')",
+        "has_variable": false,
+        "variable": "sp_certificate_completion_date"
+    },
+    {
+        "id": 35164,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/Certificate\/class.ilStudyProgrammePlaceholderDescription.php",
+        "line": 62,
+        "code": "$this->language->txt('sp_certificate_progress_expires_at')",
+        "has_variable": false,
+        "variable": "sp_certificate_progress_expires_at"
+    },
+    {
+        "id": 35166,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/Certificate\/class.ilStudyProgrammePlaceholderDescription.php",
+        "line": 75,
+        "code": "$this->language->txt('certificate_ph_introduction')",
+        "has_variable": false,
+        "variable": "certificate_ph_introduction"
+    },
+    {
+        "id": 35168,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/Mail\/class.ilPRGMail.php",
+        "line": 85,
+        "code": "$this->txt(\"mail_salutation_\" . $gender, $lang)",
+        "has_variable": true,
+        "variable": "\"mail_salutation_\" . $gender, $lang"
+    },
+    {
+        "id": 35170,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/Mail\/class.ilPRGMail.php",
+        "line": 86,
+        "code": "$this->txt($subject, $lang)",
+        "has_variable": true,
+        "variable": "\\$subject"
+    },
+    {
+        "id": 35172,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/Mail\/class.ilPRGMail.php",
+        "line": 87,
+        "code": "$this->txt($body_template, $lang)",
+        "has_variable": true,
+        "variable": "_"
+    },
+    {
+        "id": 35174,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/PageEditor\/class.ilPCPRGActionNote.php",
+        "line": 113,
+        "code": "$this->lng->txt(\"study_programme_icon\")",
+        "has_variable": false,
+        "variable": "study_programme_icon"
+    },
+    {
+        "id": 35176,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/PageEditor\/class.ilPCPRGActionNote.php",
+        "line": 114,
+        "code": "$this->lng->txt(\"pc_prg_action_note_label\")",
+        "has_variable": false,
+        "variable": "pc_prg_action_note_label"
+    },
+    {
+        "id": 35178,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/PageEditor\/class.ilPCPRGStatusInfo.php",
+        "line": 113,
+        "code": "$this->lng->txt(\"study_programme_icon\")",
+        "has_variable": false,
+        "variable": "study_programme_icon"
+    },
+    {
+        "id": 35180,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/PageEditor\/class.ilPCPRGStatusInfo.php",
+        "line": 114,
+        "code": "$this->lng->txt(\"pc_prg_statusinfo_label\")",
+        "has_variable": false,
+        "variable": "pc_prg_statusinfo_label"
+    },
+    {
+        "id": 35182,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/PageEditor\/ilPRGActionNoteBuilder.php",
+        "line": 108,
+        "code": "$this->lng->txt($instruction)",
+        "has_variable": true,
+        "variable": "$instruction"
+    },
+    {
+        "id": 35184,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/PageEditor\/ilPRGActionNoteBuilder.php",
+        "line": 112,
+        "code": "$this->lng->txt('pc_prgactionnote_headline')",
+        "has_variable": false,
+        "variable": "pc_prgactionnote_headline"
+    },
+    {
+        "id": 35186,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/PageEditor\/ilPRGActionNoteBuilder.php",
+        "line": 114,
+        "code": "$this->lng->txt($instruction)",
+        "has_variable": true,
+        "variable": "$instruction"
+    },
+    {
+        "id": 35188,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/PageEditor\/ilPRGStatusInfoBuilder.php",
+        "line": 96,
+        "code": "$this->lng->txt($status_txt)",
+        "has_variable": true,
+        "variable": "$status_txt"
+    },
+    {
+        "id": 35190,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/PageEditor\/ilPRGStatusInfoBuilder.php",
+        "line": 101,
+        "code": "$this->lng->txt(\"pc_prgstatus_qualification_headline\")",
+        "has_variable": false,
+        "variable": "pc_prgstatus_qualification_headline"
+    },
+    {
+        "id": 35192,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/PageEditor\/ilPRGStatusInfoBuilder.php",
+        "line": 102,
+        "code": "$this->lng->txt($status)",
+        "has_variable": true,
+        "variable": "$status"
+    },
+    {
+        "id": 35194,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/PageEditor\/ilPRGStatusInfoBuilder.php",
+        "line": 103,
+        "code": "$this->lng->txt($status_txt)",
+        "has_variable": true,
+        "variable": "$status_txt"
+    },
+    {
+        "id": 35196,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/PageEditor\/ilPRGStatusInfoBuilder.php",
+        "line": 108,
+        "code": "$this->lng->txt(\"pc_prgstatus_edit_qualification\")",
+        "has_variable": false,
+        "variable": "pc_prgstatus_edit_qualification"
+    },
+    {
+        "id": 35198,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/PageEditor\/ilPRGStatusInfoBuilder.php",
+        "line": 127,
+        "code": "$this->lng->txt('download_certificate')",
+        "has_variable": false,
+        "variable": "download_certificate"
+    },
+    {
+        "id": 35200,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilObjStudyProgramme.php",
+        "line": 1896,
+        "code": "$lng->txt(\"prg_status_in_progress\")",
+        "has_variable": false,
+        "variable": "prg_status_in_progress"
+    },
+    {
+        "id": 35202,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilObjStudyProgramme.php",
+        "line": 1899,
+        "code": "$lng->txt(\"prg_status_completed\")",
+        "has_variable": false,
+        "variable": "prg_status_completed"
+    },
+    {
+        "id": 35204,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilObjStudyProgramme.php",
+        "line": 1902,
+        "code": "$lng->txt(\"prg_status_accredited\")",
+        "has_variable": false,
+        "variable": "prg_status_accredited"
+    },
+    {
+        "id": 35206,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilObjStudyProgramme.php",
+        "line": 1905,
+        "code": "$lng->txt(\"prg_status_not_relevant\")",
+        "has_variable": false,
+        "variable": "prg_status_not_relevant"
+    },
+    {
+        "id": 35208,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilObjStudyProgramme.php",
+        "line": 1908,
+        "code": "$lng->txt(\"prg_status_failed\")",
+        "has_variable": false,
+        "variable": "prg_status_failed"
+    },
+    {
+        "id": 35210,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilObjStudyProgrammeAdminGUI.php",
+        "line": 93,
+        "code": "$this->lng->txt(\"no_permission\")",
+        "has_variable": false,
+        "variable": "no_permission"
+    },
+    {
+        "id": 35212,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilObjStudyProgrammeAdminGUI.php",
+        "line": 131,
+        "code": "$this->lng->txt(\"settings\")",
+        "has_variable": false,
+        "variable": "settings"
+    },
+    {
+        "id": 35214,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilObjStudyProgrammeAdminGUI.php",
+        "line": 141,
+        "code": "$this->lng->txt(\"prg_show_programmes\")",
+        "has_variable": false,
+        "variable": "prg_show_programmes"
+    },
+    {
+        "id": 35216,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilObjStudyProgrammeAdminGUI.php",
+        "line": 143,
+        "code": "$this->lng->txt(\"prg_show_programmes_on_pd_always\")",
+        "has_variable": false,
+        "variable": "prg_show_programmes_on_pd_always"
+    },
+    {
+        "id": 35218,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilObjStudyProgrammeAdminGUI.php",
+        "line": 147,
+        "code": "$this->lng->txt(\"prg_show_programmes_on_pd_only_read\")",
+        "has_variable": false,
+        "variable": "prg_show_programmes_on_pd_only_read"
+    },
+    {
+        "id": 35220,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilObjStudyProgrammeAdminGUI.php",
+        "line": 156,
+        "code": "$this->lng->txt(\"save\")",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 35222,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilObjStudyProgrammeAdminGUI.php",
+        "line": 157,
+        "code": "$this->lng->txt(\"cancel\")",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 35224,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilObjStudyProgrammeAdminGUI.php",
+        "line": 175,
+        "code": "$this->lng->txt(\"settings_saved\")",
+        "has_variable": false,
+        "variable": "settings_saved"
+    },
+    {
+        "id": 35226,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilObjStudyProgrammeAutoCategoriesGUI.php",
+        "line": 133,
+        "code": "$this->lng->txt('prg_profile_not_public')",
+        "has_variable": false,
+        "variable": "prg_profile_not_public"
+    },
+    {
+        "id": 35228,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilObjStudyProgrammeAutoCategoriesGUI.php",
+        "line": 193,
+        "code": "$this->lng->txt('not_a_valid_cat_id')",
+        "has_variable": false,
+        "variable": "not_a_valid_cat_id"
+    },
+    {
+        "id": 35230,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilObjStudyProgrammeAutoCategoriesGUI.php",
+        "line": 220,
+        "code": "$this->lng->txt('prg_delete_single_confirmation')",
+        "has_variable": false,
+        "variable": "prg_delete_single_confirmation"
+    },
+    {
+        "id": 35232,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilObjStudyProgrammeAutoCategoriesGUI.php",
+        "line": 223,
+        "code": "$this->lng->txt('prg_delete_confirmation')",
+        "has_variable": false,
+        "variable": "prg_delete_confirmation"
+    },
+    {
+        "id": 35234,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilObjStudyProgrammeAutoCategoriesGUI.php",
+        "line": 225,
+        "code": "$this->lng->txt('prg_delete_nothing_selected')",
+        "has_variable": false,
+        "variable": "prg_delete_nothing_selected"
+    },
+    {
+        "id": 35236,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilObjStudyProgrammeAutoCategoriesGUI.php",
+        "line": 237,
+        "code": "$this->lng->txt('prg_confirm_delete')",
+        "has_variable": false,
+        "variable": "prg_confirm_delete"
+    },
+    {
+        "id": 35238,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilObjStudyProgrammeAutoCategoriesGUI.php",
+        "line": 238,
+        "code": "$this->lng->txt('prg_cancel')",
+        "has_variable": false,
+        "variable": "prg_cancel"
+    },
+    {
+        "id": 35240,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilObjStudyProgrammeAutoCategoriesGUI.php",
+        "line": 252,
+        "code": "$this->lng->txt('prg_delete_failure')",
+        "has_variable": false,
+        "variable": "prg_delete_failure"
+    },
+    {
+        "id": 35242,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilObjStudyProgrammeAutoCategoriesGUI.php",
+        "line": 262,
+        "code": "$this->lng->txt('prg_delete_single_success')",
+        "has_variable": false,
+        "variable": "prg_delete_single_success"
+    },
+    {
+        "id": 35244,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilObjStudyProgrammeAutoCategoriesGUI.php",
+        "line": 264,
+        "code": "$this->lng->txt('prg_delete_success')",
+        "has_variable": false,
+        "variable": "prg_delete_success"
+    },
+    {
+        "id": 35246,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilObjStudyProgrammeAutoCategoriesGUI.php",
+        "line": 318,
+        "code": "$this->lng->txt('add')",
+        "has_variable": false,
+        "variable": "add"
+    },
+    {
+        "id": 35248,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilObjStudyProgrammeAutoCategoriesGUI.php",
+        "line": 325,
+        "code": "$this->lng->txt('modal_categories_title')",
+        "has_variable": false,
+        "variable": "modal_categories_title"
+    },
+    {
+        "id": 35250,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilObjStudyProgrammeAutoCategoriesGUI.php",
+        "line": 356,
+        "code": "$this->lng->txt(\"category\")",
+        "has_variable": false,
+        "variable": "category"
+    },
+    {
+        "id": 35252,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilObjStudyProgrammeAutoCategoriesGUI.php",
+        "line": 382,
+        "code": "$this->lng->txt('add_category')",
+        "has_variable": false,
+        "variable": "add_category"
+    },
+    {
+        "id": 35254,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilObjStudyProgrammeAutoCategoriesGUI.php",
+        "line": 394,
+        "code": "$this->lng->txt('edit')",
+        "has_variable": false,
+        "variable": "edit"
+    },
+    {
+        "id": 35256,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilObjStudyProgrammeAutoCategoriesGUI.php",
+        "line": 404,
+        "code": "$this->lng->txt('delete')",
+        "has_variable": false,
+        "variable": "delete"
+    },
+    {
+        "id": 35258,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilObjStudyProgrammeAutoMembershipsGUI.php",
+        "line": 144,
+        "code": "$this->txt('modal_member_auto_select_title')",
+        "has_variable": false,
+        "variable": "modal_member_auto_select_title"
+    },
+    {
+        "id": 35260,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilObjStudyProgrammeAutoMembershipsGUI.php",
+        "line": 148,
+        "code": "$this->txt('add')",
+        "has_variable": false,
+        "variable": "add"
+    },
+    {
+        "id": 35262,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilObjStudyProgrammeAutoMembershipsGUI.php",
+        "line": 166,
+        "code": "$this->lng->txt('prg_profile_not_public')",
+        "has_variable": false,
+        "variable": "prg_profile_not_public"
+    },
+    {
+        "id": 35264,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilObjStudyProgrammeAutoMembershipsGUI.php",
+        "line": 215,
+        "code": "$this->txt('no_srctype_or_id')",
+        "has_variable": false,
+        "variable": "no_srctype_or_id"
+    },
+    {
+        "id": 35266,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilObjStudyProgrammeAutoMembershipsGUI.php",
+        "line": 236,
+        "code": "$this->txt(\"auto_add_success\")",
+        "has_variable": false,
+        "variable": "auto_add_success"
+    },
+    {
+        "id": 35268,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilObjStudyProgrammeAutoMembershipsGUI.php",
+        "line": 253,
+        "code": "$this->lng->txt('prg_delete_single_confirmation')",
+        "has_variable": false,
+        "variable": "prg_delete_single_confirmation"
+    },
+    {
+        "id": 35270,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilObjStudyProgrammeAutoMembershipsGUI.php",
+        "line": 256,
+        "code": "$this->lng->txt('prg_delete_confirmation')",
+        "has_variable": false,
+        "variable": "prg_delete_confirmation"
+    },
+    {
+        "id": 35272,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilObjStudyProgrammeAutoMembershipsGUI.php",
+        "line": 258,
+        "code": "$this->lng->txt('prg_delete_nothing_selected')",
+        "has_variable": false,
+        "variable": "prg_delete_nothing_selected"
+    },
+    {
+        "id": 35274,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilObjStudyProgrammeAutoMembershipsGUI.php",
+        "line": 270,
+        "code": "$this->lng->txt('prg_confirm_delete')",
+        "has_variable": false,
+        "variable": "prg_confirm_delete"
+    },
+    {
+        "id": 35276,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilObjStudyProgrammeAutoMembershipsGUI.php",
+        "line": 271,
+        "code": "$this->lng->txt('prg_cancel')",
+        "has_variable": false,
+        "variable": "prg_cancel"
+    },
+    {
+        "id": 35278,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilObjStudyProgrammeAutoMembershipsGUI.php",
+        "line": 285,
+        "code": "$this->lng->txt('prg_delete_failure')",
+        "has_variable": false,
+        "variable": "prg_delete_failure"
+    },
+    {
+        "id": 35280,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilObjStudyProgrammeAutoMembershipsGUI.php",
+        "line": 297,
+        "code": "$this->lng->txt('prg_delete_single_success')",
+        "has_variable": false,
+        "variable": "prg_delete_single_success"
+    },
+    {
+        "id": 35282,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilObjStudyProgrammeAutoMembershipsGUI.php",
+        "line": 299,
+        "code": "$this->lng->txt('prg_delete_success')",
+        "has_variable": false,
+        "variable": "prg_delete_success"
+    },
+    {
+        "id": 35284,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilObjStudyProgrammeAutoMembershipsGUI.php",
+        "line": 406,
+        "code": "$this->txt('modal_member_auto_select_title')",
+        "has_variable": false,
+        "variable": "modal_member_auto_select_title"
+    },
+    {
+        "id": 35286,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilObjStudyProgrammeAutoMembershipsGUI.php",
+        "line": 420,
+        "code": "$this->txt('search')",
+        "has_variable": false,
+        "variable": "search"
+    },
+    {
+        "id": 35288,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilObjStudyProgrammeAutoMembershipsGUI.php",
+        "line": 482,
+        "code": "$this->txt('membership_source_type')",
+        "has_variable": false,
+        "variable": "membership_source_type"
+    },
+    {
+        "id": 35290,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilObjStudyProgrammeAutoMembershipsGUI.php",
+        "line": 487,
+        "code": "$this->txt('select_' . ilStudyProgrammeAutoMembershipSource::TYPE_ROLE)",
+        "has_variable": true,
+        "variable": "'select_' . ilStudyProgrammeAutoMembershipSource::TYPE_ROLE"
+    },
+    {
+        "id": 35292,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilObjStudyProgrammeAutoMembershipsGUI.php",
+        "line": 492,
+        "code": "$this->txt('label_' . ilStudyProgrammeAutoMembershipSource::TYPE_ROLE)",
+        "has_variable": true,
+        "variable": "'label_' . ilStudyProgrammeAutoMembershipSource::TYPE_ROLE"
+    },
+    {
+        "id": 35294,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilObjStudyProgrammeAutoMembershipsGUI.php",
+        "line": 499,
+        "code": "$this->txt('select_' . ilStudyProgrammeAutoMembershipSource::TYPE_GROUP)",
+        "has_variable": true,
+        "variable": "'select_' . ilStudyProgrammeAutoMembershipSource::TYPE_GROUP"
+    },
+    {
+        "id": 35296,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilObjStudyProgrammeAutoMembershipsGUI.php",
+        "line": 503,
+        "code": "$this->txt('label_' . ilStudyProgrammeAutoMembershipSource::TYPE_GROUP)",
+        "has_variable": true,
+        "variable": "'label_' . ilStudyProgrammeAutoMembershipSource::TYPE_GROUP"
+    },
+    {
+        "id": 35298,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilObjStudyProgrammeAutoMembershipsGUI.php",
+        "line": 510,
+        "code": "$this->txt('select_' . ilStudyProgrammeAutoMembershipSource::TYPE_COURSE)",
+        "has_variable": true,
+        "variable": "'select_' . ilStudyProgrammeAutoMembershipSource::TYPE_COURSE"
+    },
+    {
+        "id": 35300,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilObjStudyProgrammeAutoMembershipsGUI.php",
+        "line": 514,
+        "code": "$this->txt('label_' . ilStudyProgrammeAutoMembershipSource::TYPE_COURSE)",
+        "has_variable": true,
+        "variable": "'label_' . ilStudyProgrammeAutoMembershipSource::TYPE_COURSE"
+    },
+    {
+        "id": 35302,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilObjStudyProgrammeAutoMembershipsGUI.php",
+        "line": 521,
+        "code": "$this->txt('select_' . ilStudyProgrammeAutoMembershipSource::TYPE_ORGU)",
+        "has_variable": true,
+        "variable": "'select_' . ilStudyProgrammeAutoMembershipSource::TYPE_ORGU"
+    },
+    {
+        "id": 35304,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilObjStudyProgrammeAutoMembershipsGUI.php",
+        "line": 536,
+        "code": "$this->txt('search_for_orgu_members_recursive')",
+        "has_variable": false,
+        "variable": "search_for_orgu_members_recursive"
+    },
+    {
+        "id": 35306,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilObjStudyProgrammeAutoMembershipsGUI.php",
+        "line": 590,
+        "code": "$this->txt(\"prg_auto_member_select_\" . $selected_source_type)",
+        "has_variable": true,
+        "variable": "\"prg_auto_member_select_\" . $selected_source_type"
+    },
+    {
+        "id": 35308,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilObjStudyProgrammeAutoMembershipsGUI.php",
+        "line": 640,
+        "code": "$this->txt('add_automembership_source')",
+        "has_variable": false,
+        "variable": "add_automembership_source"
+    },
+    {
+        "id": 35310,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilObjStudyProgrammeAutoMembershipsGUI.php",
+        "line": 654,
+        "code": "$this->txt('edit')",
+        "has_variable": false,
+        "variable": "edit"
+    },
+    {
+        "id": 35312,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilObjStudyProgrammeAutoMembershipsGUI.php",
+        "line": 661,
+        "code": "$this->txt('deactivate')",
+        "has_variable": false,
+        "variable": "deactivate"
+    },
+    {
+        "id": 35314,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilObjStudyProgrammeAutoMembershipsGUI.php",
+        "line": 666,
+        "code": "$this->txt('activate')",
+        "has_variable": false,
+        "variable": "activate"
+    },
+    {
+        "id": 35316,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilObjStudyProgrammeAutoMembershipsGUI.php",
+        "line": 672,
+        "code": "$this->txt('delete')",
+        "has_variable": false,
+        "variable": "delete"
+    },
+    {
+        "id": 35318,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilObjStudyProgrammeAutoMembershipsGUI.php",
+        "line": 767,
+        "code": "$this->lng->txt($code)",
+        "has_variable": true,
+        "variable": "$code"
+    },
+    {
+        "id": 35320,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilObjStudyProgrammeGUI.php",
+        "line": 371,
+        "code": "$this->lng->txt('prg_availability_action_not_allowed')",
+        "has_variable": false,
+        "variable": "prg_availability_action_not_allowed"
+    },
+    {
+        "id": 35322,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilObjStudyProgrammeGUI.php",
+        "line": 375,
+        "code": "$this->lng->txt('prg_cut_action_not_allowed')",
+        "has_variable": false,
+        "variable": "prg_cut_action_not_allowed"
+    },
+    {
+        "id": 35324,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilObjStudyProgrammeGUI.php",
+        "line": 379,
+        "code": "$this->lng->txt('prg_import_action_not_allowed')",
+        "has_variable": false,
+        "variable": "prg_import_action_not_allowed"
+    },
+    {
+        "id": 35326,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilObjStudyProgrammeGUI.php",
+        "line": 415,
+        "code": "$this->lng->txt(\"object_added\")",
+        "has_variable": false,
+        "variable": "object_added"
+    },
+    {
+        "id": 35328,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilObjStudyProgrammeGUI.php",
+        "line": 447,
+        "code": "$this->lng->txt('save')",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 35330,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilObjStudyProgrammeGUI.php",
+        "line": 448,
+        "code": "$this->lng->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 35332,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilObjStudyProgrammeGUI.php",
+        "line": 456,
+        "code": "$this->lng->txt(\"permission_denied\")",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 35334,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilObjStudyProgrammeGUI.php",
+        "line": 475,
+        "code": "$this->lng->txt(\"permission_denied\")",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 35336,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilObjStudyProgrammeGUI.php",
+        "line": 492,
+        "code": "$this->lng->txt('settings_saved')",
+        "has_variable": false,
+        "variable": "settings_saved"
+    },
+    {
+        "id": 35338,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilObjStudyProgrammeGUI.php",
+        "line": 533,
+        "code": "$this->lng->txt(\"msg_no_perm_write\")",
+        "has_variable": false,
+        "variable": "msg_no_perm_write"
+    },
+    {
+        "id": 35340,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilObjStudyProgrammeGUI.php",
+        "line": 536,
+        "code": "$this->lng->txt(\"msg_no_perm_read\")",
+        "has_variable": false,
+        "variable": "msg_no_perm_read"
+    },
+    {
+        "id": 35342,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilObjStudyProgrammeGUI.php",
+        "line": 545,
+        "code": "$this->lng->txt(\"content\")",
+        "has_variable": false,
+        "variable": "content"
+    },
+    {
+        "id": 35344,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilObjStudyProgrammeGUI.php",
+        "line": 551,
+        "code": "$this->lng->txt(\"info_short\")",
+        "has_variable": false,
+        "variable": "info_short"
+    },
+    {
+        "id": 35346,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilObjStudyProgrammeGUI.php",
+        "line": 559,
+        "code": "$this->lng->txt(\"settings\")",
+        "has_variable": false,
+        "variable": "settings"
+    },
+    {
+        "id": 35348,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilObjStudyProgrammeGUI.php",
+        "line": 567,
+        "code": "$this->lng->txt(\"assignments\")",
+        "has_variable": false,
+        "variable": "assignments"
+    },
+    {
+        "id": 35350,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilObjStudyProgrammeGUI.php",
+        "line": 577,
+        "code": "$this->lng->txt('meta_data')",
+        "has_variable": false,
+        "variable": "meta_data"
+    },
+    {
+        "id": 35352,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilObjStudyProgrammeGUI.php",
+        "line": 602,
+        "code": "$this->lng->txt('general')",
+        "has_variable": false,
+        "variable": "general"
+    },
+    {
+        "id": 35354,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilObjStudyProgrammeGUI.php",
+        "line": 609,
+        "code": "$this->lng->txt(\"content_automation\")",
+        "has_variable": false,
+        "variable": "content_automation"
+    },
+    {
+        "id": 35356,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilObjStudyProgrammeGUI.php",
+        "line": 616,
+        "code": "$this->lng->txt(\"obj_multilinguality\")",
+        "has_variable": false,
+        "variable": "obj_multilinguality"
+    },
+    {
+        "id": 35358,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilObjStudyProgrammeGUI.php",
+        "line": 633,
+        "code": "$this->lng->txt(\"obj_features\")",
+        "has_variable": false,
+        "variable": "obj_features"
+    },
+    {
+        "id": 35360,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilObjStudyProgrammeGUI.php",
+        "line": 643,
+        "code": "$this->lng->txt('edit_participants')",
+        "has_variable": false,
+        "variable": "edit_participants"
+    },
+    {
+        "id": 35362,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilObjStudyProgrammeGUI.php",
+        "line": 650,
+        "code": "$this->lng->txt('auto_memberships')",
+        "has_variable": false,
+        "variable": "auto_memberships"
+    },
+    {
+        "id": 35364,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilObjStudyProgrammeGUI.php",
+        "line": 658,
+        "code": "$this->lng->txt('export_memberships')",
+        "has_variable": false,
+        "variable": "export_memberships"
+    },
+    {
+        "id": 35366,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilObjStudyProgrammeGUI.php",
+        "line": 784,
+        "code": "$this->lng->txt(\"download_certificate\")",
+        "has_variable": false,
+        "variable": "download_certificate"
+    },
+    {
+        "id": 35368,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilObjStudyProgrammeGUI.php",
+        "line": 802,
+        "code": "$this->lng->txt(\"permission_denied\")",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 35370,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilObjStudyProgrammeGUI.php",
+        "line": 809,
+        "code": "$this->lng->txt('error_creating_certificate_pdf')",
+        "has_variable": false,
+        "variable": "error_creating_certificate_pdf"
+    },
+    {
+        "id": 35372,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilObjStudyProgrammeIndividualPlanGUI.php",
+        "line": 286,
+        "code": "$this->lng->txt(\"prg_$lng_var\")",
+        "has_variable": true,
+        "variable": "prg_$lng_var"
+    },
+    {
+        "id": 35374,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilObjStudyProgrammeIndividualPlanGUI.php",
+        "line": 308,
+        "code": "$this->lng->txt(\"prg_$_tab\")",
+        "has_variable": true,
+        "variable": "prg_$_tab"
+    },
+    {
+        "id": 35376,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilObjStudyProgrammeIndividualPlanGUI.php",
+        "line": 327,
+        "code": "$this->lng->txt(\"prg_update_from_current_plan\")",
+        "has_variable": false,
+        "variable": "prg_update_from_current_plan"
+    },
+    {
+        "id": 35378,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilObjStudyProgrammeIndividualPlanGUI.php",
+        "line": 328,
+        "code": "$this->lng->txt(\"save\")",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 35380,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilObjStudyProgrammeListGUI.php",
+        "line": 75,
+        "code": "$this->lng->txt(\"prg_can_not_manage_in_repo\")",
+        "has_variable": false,
+        "variable": "prg_can_not_manage_in_repo"
+    },
+    {
+        "id": 35382,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilObjStudyProgrammeMembersGUI.php",
+        "line": 124,
+        "code": "$this->lng->txt('btn_back')",
+        "has_variable": false,
+        "variable": "btn_back"
+    },
+    {
+        "id": 35384,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilObjStudyProgrammeMembersGUI.php",
+        "line": 138,
+        "code": "$this->lng->txt('btn_back')",
+        "has_variable": false,
+        "variable": "btn_back"
+    },
+    {
+        "id": 35386,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilObjStudyProgrammeMembersGUI.php",
+        "line": 150,
+        "code": "$this->lng->txt('btn_back')",
+        "has_variable": false,
+        "variable": "btn_back"
+    },
+    {
+        "id": 35388,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilObjStudyProgrammeMembersGUI.php",
+        "line": 214,
+        "code": "$this->lng->txt(\"permission_denied\")",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 35390,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilObjStudyProgrammeMembersGUI.php",
+        "line": 330,
+        "code": "$this->lng->txt(\"prg_no_members_not_active\")",
+        "has_variable": false,
+        "variable": "prg_no_members_not_active"
+    },
+    {
+        "id": 35392,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilObjStudyProgrammeMembersGUI.php",
+        "line": 373,
+        "code": "$this->lng->txt(\"prg_added_member\")",
+        "has_variable": false,
+        "variable": "prg_added_member"
+    },
+    {
+        "id": 35394,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilObjStudyProgrammeMembersGUI.php",
+        "line": 376,
+        "code": "$this->lng->txt(\"prg_added_members\")",
+        "has_variable": false,
+        "variable": "prg_added_members"
+    },
+    {
+        "id": 35396,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilObjStudyProgrammeMembersGUI.php",
+        "line": 425,
+        "code": "$this->lng->txt(\"prg_acknowledge_completed_courses\")",
+        "has_variable": false,
+        "variable": "prg_acknowledge_completed_courses"
+    },
+    {
+        "id": 35398,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilObjStudyProgrammeMembersGUI.php",
+        "line": 439,
+        "code": "$this->lng->txt(\"btn_next\")",
+        "has_variable": false,
+        "variable": "btn_next"
+    },
+    {
+        "id": 35400,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilObjStudyProgrammeMembersGUI.php",
+        "line": 444,
+        "code": "$this->lng->txt('prg_cancel_acknowledge_completed_courses')",
+        "has_variable": false,
+        "variable": "prg_cancel_acknowledge_completed_courses"
+    },
+    {
+        "id": 35402,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilObjStudyProgrammeMembersGUI.php",
+        "line": 450,
+        "code": "$this->lng->txt('prg_acknowledge_all_completed_courses')",
+        "has_variable": false,
+        "variable": "prg_acknowledge_all_completed_courses"
+    },
+    {
+        "id": 35404,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilObjStudyProgrammeMembersGUI.php",
+        "line": 474,
+        "code": "$this->lng->txt('could_not_add_users_no_permissons')",
+        "has_variable": false,
+        "variable": "could_not_add_users_no_permissons"
+    },
+    {
+        "id": 35406,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilObjStudyProgrammeMembersGUI.php",
+        "line": 608,
+        "code": "$this->lng->txt('header_update_current_plan')",
+        "has_variable": false,
+        "variable": "header_update_current_plan"
+    },
+    {
+        "id": 35408,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilObjStudyProgrammeMembersGUI.php",
+        "line": 609,
+        "code": "$this->lng->txt('confirm')",
+        "has_variable": false,
+        "variable": "confirm"
+    },
+    {
+        "id": 35410,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilObjStudyProgrammeMembersGUI.php",
+        "line": 610,
+        "code": "$this->lng->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 35412,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilObjStudyProgrammeMembersGUI.php",
+        "line": 625,
+        "code": "$this->lng->txt('header_update_current_plan')",
+        "has_variable": false,
+        "variable": "header_update_current_plan"
+    },
+    {
+        "id": 35414,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilObjStudyProgrammeMembersGUI.php",
+        "line": 626,
+        "code": "$this->lng->txt('confirm')",
+        "has_variable": false,
+        "variable": "confirm"
+    },
+    {
+        "id": 35416,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilObjStudyProgrammeMembersGUI.php",
+        "line": 627,
+        "code": "$this->lng->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 35418,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilObjStudyProgrammeMembersGUI.php",
+        "line": 837,
+        "code": "$this->lng->txt('confirm_to_remove_selected_assignments')",
+        "has_variable": false,
+        "variable": "confirm_to_remove_selected_assignments"
+    },
+    {
+        "id": 35420,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilObjStudyProgrammeMembersGUI.php",
+        "line": 838,
+        "code": "$this->lng->txt('prg_remove_user')",
+        "has_variable": false,
+        "variable": "prg_remove_user"
+    },
+    {
+        "id": 35422,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilObjStudyProgrammeMembersGUI.php",
+        "line": 839,
+        "code": "$this->lng->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 35424,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilObjStudyProgrammeMembersGUI.php",
+        "line": 901,
+        "code": "$this->lng->txt(\"prg_$lng_var\")",
+        "has_variable": true,
+        "variable": "prg_$lng_var"
+    },
+    {
+        "id": 35426,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilObjStudyProgrammeMembersGUI.php",
+        "line": 909,
+        "code": "$this->lng->txt(\"prg_$lng_var\")",
+        "has_variable": true,
+        "variable": "prg_$lng_var"
+    },
+    {
+        "id": 35428,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilObjStudyProgrammeMembersGUI.php",
+        "line": 918,
+        "code": "$this->lng->txt(\"user\")",
+        "has_variable": false,
+        "variable": "user"
+    },
+    {
+        "id": 35430,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilObjStudyProgrammeMembersGUI.php",
+        "line": 919,
+        "code": "$this->lng->txt(\"add\")",
+        "has_variable": false,
+        "variable": "add"
+    },
+    {
+        "id": 35432,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilObjStudyProgrammeMembersGUI.php",
+        "line": 933,
+        "code": "$this->lng->txt('mail_assignments')",
+        "has_variable": false,
+        "variable": "mail_assignments"
+    },
+    {
+        "id": 35434,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilObjStudyProgrammeMembersGUI.php",
+        "line": 1040,
+        "code": "$this->lng->txt('btn_back')",
+        "has_variable": false,
+        "variable": "btn_back"
+    },
+    {
+        "id": 35436,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilObjStudyProgrammeMembersGUI.php",
+        "line": 1049,
+        "code": "$this->lng->txt('header_update_certificate')",
+        "has_variable": false,
+        "variable": "header_update_certificate"
+    },
+    {
+        "id": 35438,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilObjStudyProgrammeMembersGUI.php",
+        "line": 1050,
+        "code": "$this->lng->txt('confirm')",
+        "has_variable": false,
+        "variable": "confirm"
+    },
+    {
+        "id": 35440,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilObjStudyProgrammeMembersGUI.php",
+        "line": 1051,
+        "code": "$this->lng->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 35442,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilObjStudyProgrammeMembersGUI.php",
+        "line": 1066,
+        "code": "$this->lng->txt('header_update_certificate')",
+        "has_variable": false,
+        "variable": "header_update_certificate"
+    },
+    {
+        "id": 35444,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilObjStudyProgrammeMembersGUI.php",
+        "line": 1067,
+        "code": "$this->lng->txt('confirm')",
+        "has_variable": false,
+        "variable": "confirm"
+    },
+    {
+        "id": 35446,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilObjStudyProgrammeMembersGUI.php",
+        "line": 1068,
+        "code": "$this->lng->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 35448,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilObjStudyProgrammeMembersGUI.php",
+        "line": 1113,
+        "code": "$this->lng->txt('header_remove_certificate')",
+        "has_variable": false,
+        "variable": "header_remove_certificate"
+    },
+    {
+        "id": 35450,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilObjStudyProgrammeMembersGUI.php",
+        "line": 1114,
+        "code": "$this->lng->txt('confirm')",
+        "has_variable": false,
+        "variable": "confirm"
+    },
+    {
+        "id": 35452,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilObjStudyProgrammeMembersGUI.php",
+        "line": 1115,
+        "code": "$this->lng->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 35454,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilObjStudyProgrammeMembersGUI.php",
+        "line": 1130,
+        "code": "$this->lng->txt('header_remove_certificate')",
+        "has_variable": false,
+        "variable": "header_remove_certificate"
+    },
+    {
+        "id": 35456,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilObjStudyProgrammeMembersGUI.php",
+        "line": 1131,
+        "code": "$this->lng->txt('confirm')",
+        "has_variable": false,
+        "variable": "confirm"
+    },
+    {
+        "id": 35458,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilObjStudyProgrammeMembersGUI.php",
+        "line": 1132,
+        "code": "$this->lng->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 35460,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilObjStudyProgrammeMembersGUI.php",
+        "line": 1170,
+        "code": "$this->lng->txt('error_creating_certificate_pdf')",
+        "has_variable": false,
+        "variable": "error_creating_certificate_pdf"
+    },
+    {
+        "id": 35462,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilObjStudyProgrammeSettingsGUI.php",
+        "line": 140,
+        "code": "$this->lng->txt('prg_async_settings')",
+        "has_variable": false,
+        "variable": "prg_async_settings"
+    },
+    {
+        "id": 35464,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilObjStudyProgrammeSettingsGUI.php",
+        "line": 158,
+        "code": "$this->lng->txt(\"msg_obj_modified\")",
+        "has_variable": false,
+        "variable": "msg_obj_modified"
+    },
+    {
+        "id": 35466,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilObjStudyProgrammeSettingsGUI.php",
+        "line": 161,
+        "code": "$this->lng->txt(\"msg_form_save_error\")",
+        "has_variable": false,
+        "variable": "msg_form_save_error"
+    },
+    {
+        "id": 35468,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilObjStudyProgrammeSettingsGUI.php",
+        "line": 250,
+        "code": "$this->txt(\"title\")",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 35470,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilObjStudyProgrammeSettingsGUI.php",
+        "line": 254,
+        "code": "$this->txt(\"description\")",
+        "has_variable": false,
+        "variable": "description"
+    },
+    {
+        "id": 35472,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilObjStudyProgrammeSettingsGUI.php",
+        "line": 257,
+        "code": "$this->txt(\"prg_edit\")",
+        "has_variable": false,
+        "variable": "prg_edit"
+    },
+    {
+        "id": 35474,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilObjStudyProgrammeSettingsGUI.php",
+        "line": 258,
+        "code": "$this->txt(\"language\")",
+        "has_variable": false,
+        "variable": "language"
+    },
+    {
+        "id": 35476,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilObjStudyProgrammeSettingsGUI.php",
+        "line": 260,
+        "code": "$this->txt(\"obj_more_translations\")",
+        "has_variable": false,
+        "variable": "obj_more_translations"
+    },
+    {
+        "id": 35478,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilObjStudyProgrammeSettingsGUI.php",
+        "line": 274,
+        "code": "$this->lng->txt($code)",
+        "has_variable": true,
+        "variable": "$code"
+    },
+    {
+        "id": 35480,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilPDStudyProgrammeSimpleListGUI.php",
+        "line": 83,
+        "code": "$this->lng->txt(\"objs_prg\")",
+        "has_variable": false,
+        "variable": "objs_prg"
+    },
+    {
+        "id": 35482,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilPrgInvalidateExpiredProgressesCronJob.php",
+        "line": 55,
+        "code": "$this->lng->txt('prg_invalidate_expired_progresses_title')",
+        "has_variable": false,
+        "variable": "prg_invalidate_expired_progresses_title"
+    },
+    {
+        "id": 35484,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilPrgInvalidateExpiredProgressesCronJob.php",
+        "line": 60,
+        "code": "$this->lng->txt('prg_invalidate_expired_progresses_desc')",
+        "has_variable": false,
+        "variable": "prg_invalidate_expired_progresses_desc"
+    },
+    {
+        "id": 35486,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilPrgRestartAssignmentsCronJob.php",
+        "line": 55,
+        "code": "$this->lng->txt('prg_restart_assignments_temporal_progress_title')",
+        "has_variable": false,
+        "variable": "prg_restart_assignments_temporal_progress_title"
+    },
+    {
+        "id": 35488,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilPrgRestartAssignmentsCronJob.php",
+        "line": 60,
+        "code": "$this->lng->txt('prg_restart_assignments_temporal_progress_desc')",
+        "has_variable": false,
+        "variable": "prg_restart_assignments_temporal_progress_desc"
+    },
+    {
+        "id": 35490,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilPrgUpdateProgressCronJob.php",
+        "line": 53,
+        "code": "$this->lng->txt('prg_update_progress_title')",
+        "has_variable": false,
+        "variable": "prg_update_progress_title"
+    },
+    {
+        "id": 35492,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilPrgUpdateProgressCronJob.php",
+        "line": 58,
+        "code": "$this->lng->txt('prg_update_progress_description')",
+        "has_variable": false,
+        "variable": "prg_update_progress_description"
+    },
+    {
+        "id": 35494,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilPrgUserNotRestartedCronJob.php",
+        "line": 51,
+        "code": "$this->lng->txt('prg_user_not_restarted_title')",
+        "has_variable": false,
+        "variable": "prg_user_not_restarted_title"
+    },
+    {
+        "id": 35496,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilPrgUserNotRestartedCronJob.php",
+        "line": 56,
+        "code": "$this->lng->txt('prg_user_not_restarted_desc')",
+        "has_variable": false,
+        "variable": "prg_user_not_restarted_desc"
+    },
+    {
+        "id": 35498,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilPrgUserRiskyToFailCronJob.php",
+        "line": 48,
+        "code": "$this->lng->txt('prg_user_risky_to_fail_title')",
+        "has_variable": false,
+        "variable": "prg_user_risky_to_fail_title"
+    },
+    {
+        "id": 35500,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilPrgUserRiskyToFailCronJob.php",
+        "line": 53,
+        "code": "$this->lng->txt('prg_user_risky_to_fail_desc')",
+        "has_variable": false,
+        "variable": "prg_user_risky_to_fail_desc"
+    },
+    {
+        "id": 35502,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeAssessmentSettings.php",
+        "line": 91,
+        "code": "$lng->txt('prg_points')",
+        "has_variable": false,
+        "variable": "prg_points"
+    },
+    {
+        "id": 35504,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeAssessmentSettings.php",
+        "line": 91,
+        "code": "$lng->txt('prg_points_byline')",
+        "has_variable": false,
+        "variable": "prg_points_byline"
+    },
+    {
+        "id": 35506,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeAssessmentSettings.php",
+        "line": 99,
+        "code": "$lng->txt('prg_status')",
+        "has_variable": false,
+        "variable": "prg_status"
+    },
+    {
+        "id": 35508,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeAssessmentSettings.php",
+        "line": 101,
+        "code": "$lng->txt('prg_status_byline')",
+        "has_variable": false,
+        "variable": "prg_status_byline"
+    },
+    {
+        "id": 35510,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeAssessmentSettings.php",
+        "line": 112,
+        "code": "$lng->txt('prg_assessment')",
+        "has_variable": false,
+        "variable": "prg_assessment"
+    },
+    {
+        "id": 35512,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeAssessmentSettings.php",
+        "line": 125,
+        "code": "$lng->txt(\"prg_status_draft\")",
+        "has_variable": false,
+        "variable": "prg_status_draft"
+    },
+    {
+        "id": 35514,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeAssessmentSettings.php",
+        "line": 126,
+        "code": "$lng->txt(\"prg_status_active\")",
+        "has_variable": false,
+        "variable": "prg_status_active"
+    },
+    {
+        "id": 35516,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeAssessmentSettings.php",
+        "line": 127,
+        "code": "$lng->txt(\"prg_status_outdated\")",
+        "has_variable": false,
+        "variable": "prg_status_outdated"
+    },
+    {
+        "id": 35518,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeAutoCategoriesTableGUI.php",
+        "line": 36,
+        "code": "$this->lng->txt('content_automation_title')",
+        "has_variable": false,
+        "variable": "content_automation_title"
+    },
+    {
+        "id": 35520,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeAutoCategoriesTableGUI.php",
+        "line": 48,
+        "code": "$this->lng->txt('title')",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 35522,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeAutoCategoriesTableGUI.php",
+        "line": 49,
+        "code": "$this->lng->txt('last_edited_by')",
+        "has_variable": false,
+        "variable": "last_edited_by"
+    },
+    {
+        "id": 35524,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeAutoCategoriesTableGUI.php",
+        "line": 50,
+        "code": "$this->lng->txt('last_edited')",
+        "has_variable": false,
+        "variable": "last_edited"
+    },
+    {
+        "id": 35526,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeAutoCategoriesTableGUI.php",
+        "line": 51,
+        "code": "$this->lng->txt('')",
+        "has_variable": true,
+        "variable": ""
+    },
+    {
+        "id": 35528,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeAutoCategoriesTableGUI.php",
+        "line": 55,
+        "code": "$this->lng->txt('delete')",
+        "has_variable": false,
+        "variable": "delete"
+    },
+    {
+        "id": 35530,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeAutoMailSettings.php",
+        "line": 104,
+        "code": "$ilLng->txt(\"send_re_assigned_mail\")",
+        "has_variable": false,
+        "variable": "send_re_assigned_mail"
+    },
+    {
+        "id": 35532,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeAutoMailSettings.php",
+        "line": 105,
+        "code": "$ilLng->txt('send_re_assigned_mail_info')",
+        "has_variable": false,
+        "variable": "send_re_assigned_mail_info"
+    },
+    {
+        "id": 35534,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeAutoMailSettings.php",
+        "line": 111,
+        "code": "$ilLng->txt('prg_user_not_restarted_time_input')",
+        "has_variable": false,
+        "variable": "prg_user_not_restarted_time_input"
+    },
+    {
+        "id": 35536,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeAutoMailSettings.php",
+        "line": 112,
+        "code": "$ilLng->txt('prg_user_not_restarted_time_input_info')",
+        "has_variable": false,
+        "variable": "prg_user_not_restarted_time_input_info"
+    },
+    {
+        "id": 35538,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeAutoMailSettings.php",
+        "line": 114,
+        "code": "$ilLng->txt(\"send_info_to_re_assign_mail\")",
+        "has_variable": false,
+        "variable": "send_info_to_re_assign_mail"
+    },
+    {
+        "id": 35540,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeAutoMailSettings.php",
+        "line": 115,
+        "code": "$ilLng->txt(\"send_info_to_re_assign_mail_info\")",
+        "has_variable": false,
+        "variable": "send_info_to_re_assign_mail_info"
+    },
+    {
+        "id": 35542,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeAutoMailSettings.php",
+        "line": 121,
+        "code": "$ilLng->txt('prg_processing_ends_no_success')",
+        "has_variable": false,
+        "variable": "prg_processing_ends_no_success"
+    },
+    {
+        "id": 35544,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeAutoMailSettings.php",
+        "line": 122,
+        "code": "$ilLng->txt('prg_processing_ends_no_success_info')",
+        "has_variable": false,
+        "variable": "prg_processing_ends_no_success_info"
+    },
+    {
+        "id": 35546,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeAutoMailSettings.php",
+        "line": 124,
+        "code": "$ilLng->txt(\"send_risky_to_fail_mail\")",
+        "has_variable": false,
+        "variable": "send_risky_to_fail_mail"
+    },
+    {
+        "id": 35548,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeAutoMailSettings.php",
+        "line": 125,
+        "code": "$ilLng->txt(\"send_risky_to_fail_mail_info\")",
+        "has_variable": false,
+        "variable": "send_risky_to_fail_mail_info"
+    },
+    {
+        "id": 35550,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeAutoMailSettings.php",
+        "line": 129,
+        "code": "$ilLng->txt(\"prg_cron_job_configuration\")",
+        "has_variable": false,
+        "variable": "prg_cron_job_configuration"
+    },
+    {
+        "id": 35552,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeAutoMembershipsTableGUI.php",
+        "line": 35,
+        "code": "$this->lng->txt('auto_membership_title')",
+        "has_variable": false,
+        "variable": "auto_membership_title"
+    },
+    {
+        "id": 35554,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeAutoMembershipsTableGUI.php",
+        "line": 36,
+        "code": "$this->lng->txt('auto_membership_description')",
+        "has_variable": false,
+        "variable": "auto_membership_description"
+    },
+    {
+        "id": 35556,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeAutoMembershipsTableGUI.php",
+        "line": 47,
+        "code": "$this->lng->txt('auto_membership_src_type')",
+        "has_variable": false,
+        "variable": "auto_membership_src_type"
+    },
+    {
+        "id": 35558,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeAutoMembershipsTableGUI.php",
+        "line": 48,
+        "code": "$this->lng->txt('title')",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 35560,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeAutoMembershipsTableGUI.php",
+        "line": 49,
+        "code": "$this->lng->txt('last_edited_by')",
+        "has_variable": false,
+        "variable": "last_edited_by"
+    },
+    {
+        "id": 35562,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeAutoMembershipsTableGUI.php",
+        "line": 50,
+        "code": "$this->lng->txt('last_edited')",
+        "has_variable": false,
+        "variable": "last_edited"
+    },
+    {
+        "id": 35564,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeAutoMembershipsTableGUI.php",
+        "line": 51,
+        "code": "$this->lng->txt('status')",
+        "has_variable": false,
+        "variable": "status"
+    },
+    {
+        "id": 35566,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeAutoMembershipsTableGUI.php",
+        "line": 52,
+        "code": "$this->lng->txt('search_for_orgu_members_recursive')",
+        "has_variable": false,
+        "variable": "search_for_orgu_members_recursive"
+    },
+    {
+        "id": 35568,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeAutoMembershipsTableGUI.php",
+        "line": 53,
+        "code": "$this->lng->txt('actions')",
+        "has_variable": false,
+        "variable": "actions"
+    },
+    {
+        "id": 35570,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeAutoMembershipsTableGUI.php",
+        "line": 56,
+        "code": "$this->lng->txt('delete')",
+        "has_variable": false,
+        "variable": "delete"
+    },
+    {
+        "id": 35572,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeAutoMembershipsTableGUI.php",
+        "line": 72,
+        "code": "$this->lng->txt('active')",
+        "has_variable": false,
+        "variable": "active"
+    },
+    {
+        "id": 35574,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeAutoMembershipsTableGUI.php",
+        "line": 72,
+        "code": "$this->lng->txt('inactive')",
+        "has_variable": false,
+        "variable": "inactive"
+    },
+    {
+        "id": 35576,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeAutoMembershipsTableGUI.php",
+        "line": 75,
+        "code": "$this->lng->txt(\"no\")",
+        "has_variable": false,
+        "variable": "no"
+    },
+    {
+        "id": 35578,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeAutoMembershipsTableGUI.php",
+        "line": 77,
+        "code": "$this->lng->txt(\"yes\")",
+        "has_variable": false,
+        "variable": "yes"
+    },
+    {
+        "id": 35580,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeAutoMembershipsTableGUI.php",
+        "line": 81,
+        "code": "$this->lng->txt($ams->getSourceType())",
+        "has_variable": true,
+        "variable": "$ams->getSourceType()"
+    },
+    {
+        "id": 35582,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeChangeDeadlineGUI.php",
+        "line": 113,
+        "code": "$this->lng->txt($id)",
+        "has_variable": true,
+        "variable": "$id"
+    },
+    {
+        "id": 35584,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeChangeDeadlineGUI.php",
+        "line": 130,
+        "code": "$this->lng->txt($id)",
+        "has_variable": true,
+        "variable": "$id"
+    },
+    {
+        "id": 35586,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeChangeDeadlineGUI.php",
+        "line": 201,
+        "code": "$this->lng->txt('error_updating_deadline')",
+        "has_variable": false,
+        "variable": "error_updating_deadline"
+    },
+    {
+        "id": 35588,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeChangeDeadlineGUI.php",
+        "line": 216,
+        "code": "$this->lng->txt('error_updating_deadline')",
+        "has_variable": false,
+        "variable": "error_updating_deadline"
+    },
+    {
+        "id": 35590,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeChangeExpireDateGUI.php",
+        "line": 113,
+        "code": "$this->lng->txt($id)",
+        "has_variable": true,
+        "variable": "$id"
+    },
+    {
+        "id": 35592,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeChangeExpireDateGUI.php",
+        "line": 130,
+        "code": "$this->lng->txt($id)",
+        "has_variable": true,
+        "variable": "$id"
+    },
+    {
+        "id": 35594,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeChangeExpireDateGUI.php",
+        "line": 193,
+        "code": "$this->lng->txt('error_updating_expire_date')",
+        "has_variable": false,
+        "variable": "error_updating_expire_date"
+    },
+    {
+        "id": 35596,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeChangeExpireDateGUI.php",
+        "line": 206,
+        "code": "$this->lng->txt('error_updating_expire_date')",
+        "has_variable": false,
+        "variable": "error_updating_expire_date"
+    },
+    {
+        "id": 35598,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeCommonSettingsGUI.php",
+        "line": 84,
+        "code": "$this->txt('obj_features')",
+        "has_variable": false,
+        "variable": "obj_features"
+    },
+    {
+        "id": 35600,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeCommonSettingsGUI.php",
+        "line": 85,
+        "code": "$this->txt('save')",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 35602,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeCommonSettingsGUI.php",
+        "line": 86,
+        "code": "$this->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 35604,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeCommonSettingsGUI.php",
+        "line": 122,
+        "code": "$this->lng->txt('msg_obj_modified')",
+        "has_variable": false,
+        "variable": "msg_obj_modified"
+    },
+    {
+        "id": 35606,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeCommonSettingsGUI.php",
+        "line": 128,
+        "code": "$this->lng->txt($code)",
+        "has_variable": true,
+        "variable": "$code"
+    },
+    {
+        "id": 35608,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeDashboardViewGUI.php",
+        "line": 58,
+        "code": "$this->lng->txt('prg_dash_label_minimum')",
+        "has_variable": false,
+        "variable": "prg_dash_label_minimum"
+    },
+    {
+        "id": 35610,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeDashboardViewGUI.php",
+        "line": 59,
+        "code": "$this->lng->txt('prg_dash_label_gain')",
+        "has_variable": false,
+        "variable": "prg_dash_label_gain"
+    },
+    {
+        "id": 35612,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeDashboardViewGUI.php",
+        "line": 60,
+        "code": "$this->lng->txt('prg_dash_label_status')",
+        "has_variable": false,
+        "variable": "prg_dash_label_status"
+    },
+    {
+        "id": 35614,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeDashboardViewGUI.php",
+        "line": 66,
+        "code": "$this->lng->txt('prg_dash_label_valid')",
+        "has_variable": false,
+        "variable": "prg_dash_label_valid"
+    },
+    {
+        "id": 35616,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeDashboardViewGUI.php",
+        "line": 73,
+        "code": "$this->lng->txt('certificate')",
+        "has_variable": false,
+        "variable": "certificate"
+    },
+    {
+        "id": 35618,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeDashboardViewGUI.php",
+        "line": 77,
+        "code": "$this->lng->txt('prg_dash_label_finish_until')",
+        "has_variable": false,
+        "variable": "prg_dash_label_finish_until"
+    },
+    {
+        "id": 35620,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeDashboardViewGUI.php",
+        "line": 128,
+        "code": "$this->lng->txt('download_certificate')",
+        "has_variable": false,
+        "variable": "download_certificate"
+    },
+    {
+        "id": 35622,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeDeadlineSettings.php",
+        "line": 76,
+        "code": "$lng->txt('prg_no_deadline')",
+        "has_variable": false,
+        "variable": "prg_no_deadline"
+    },
+    {
+        "id": 35624,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeDeadlineSettings.php",
+        "line": 80,
+        "code": "$lng->txt('prg_deadline_period_label')",
+        "has_variable": false,
+        "variable": "prg_deadline_period_label"
+    },
+    {
+        "id": 35626,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeDeadlineSettings.php",
+        "line": 81,
+        "code": "$lng->txt('prg_deadline_period_desc')",
+        "has_variable": false,
+        "variable": "prg_deadline_period_desc"
+    },
+    {
+        "id": 35628,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeDeadlineSettings.php",
+        "line": 86,
+        "code": "$lng->txt('prg_deadline_period')",
+        "has_variable": false,
+        "variable": "prg_deadline_period"
+    },
+    {
+        "id": 35630,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeDeadlineSettings.php",
+        "line": 91,
+        "code": "$lng->txt('prg_deadline_date_label')",
+        "has_variable": false,
+        "variable": "prg_deadline_date_label"
+    },
+    {
+        "id": 35632,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeDeadlineSettings.php",
+        "line": 92,
+        "code": "$lng->txt('prg_deadline_date_desc')",
+        "has_variable": false,
+        "variable": "prg_deadline_date_desc"
+    },
+    {
+        "id": 35634,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeDeadlineSettings.php",
+        "line": 98,
+        "code": "$lng->txt('prg_deadline_date')",
+        "has_variable": false,
+        "variable": "prg_deadline_date"
+    },
+    {
+        "id": 35636,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeDeadlineSettings.php",
+        "line": 121,
+        "code": "$lng->txt('prg_deadline_settings')",
+        "has_variable": false,
+        "variable": "prg_deadline_settings"
+    },
+    {
+        "id": 35638,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeExpandableProgressListGUI.php",
+        "line": 50,
+        "code": "$this->lng->txt(\"warning\")",
+        "has_variable": false,
+        "variable": "warning"
+    },
+    {
+        "id": 35640,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeExpandableProgressListGUI.php",
+        "line": 88,
+        "code": "$this->lng->txt(\"expand\")",
+        "has_variable": false,
+        "variable": "expand"
+    },
+    {
+        "id": 35642,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeExpandableProgressListGUI.php",
+        "line": 90,
+        "code": "$this->lng->txt(\"expanded\")",
+        "has_variable": false,
+        "variable": "expanded"
+    },
+    {
+        "id": 35644,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeIndividualPlanTableGUI.php",
+        "line": 75,
+        "code": "$this->lng->txt($lng_var)",
+        "has_variable": true,
+        "variable": "$lng_var"
+    },
+    {
+        "id": 35646,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeIndividualPlanTableGUI.php",
+        "line": 102,
+        "code": "$this->lng->txt(\"prg_status_draft\")",
+        "has_variable": false,
+        "variable": "prg_status_draft"
+    },
+    {
+        "id": 35648,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeIndividualPlanTableGUI.php",
+        "line": 104,
+        "code": "$this->lng->txt(\"prg_status_outdated\")",
+        "has_variable": false,
+        "variable": "prg_status_outdated"
+    },
+    {
+        "id": 35650,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeIndividualPlanTableGUI.php",
+        "line": 148,
+        "code": "$this->lng->txt(\"assignment_date\")",
+        "has_variable": false,
+        "variable": "assignment_date"
+    },
+    {
+        "id": 35652,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeIndividualPlanTableGUI.php",
+        "line": 150,
+        "code": "$this->lng->txt(\"prg_deadline\")",
+        "has_variable": false,
+        "variable": "prg_deadline"
+    },
+    {
+        "id": 35654,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeIndividualPlanTableGUI.php",
+        "line": 152,
+        "code": "$this->lng->txt(\"completion_date\")",
+        "has_variable": false,
+        "variable": "completion_date"
+    },
+    {
+        "id": 35656,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeIndividualPlanTableGUI.php",
+        "line": 218,
+        "code": "$this->lng->txt(\"prg_status_in_progress\")",
+        "has_variable": false,
+        "variable": "prg_status_in_progress"
+    },
+    {
+        "id": 35658,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeIndividualPlanTableGUI.php",
+        "line": 219,
+        "code": "$this->lng->txt(\"prg_status_accredited\")",
+        "has_variable": false,
+        "variable": "prg_status_accredited"
+    },
+    {
+        "id": 35660,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeIndividualPlanTableGUI.php",
+        "line": 220,
+        "code": "$this->lng->txt(\"prg_status_not_relevant\")",
+        "has_variable": false,
+        "variable": "prg_status_not_relevant"
+    },
+    {
+        "id": 35662,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeMailMemberSearchGUI.php",
+        "line": 177,
+        "code": "$this->lng->txt(\"no_checkbox\")",
+        "has_variable": false,
+        "variable": "no_checkbox"
+    },
+    {
+        "id": 35664,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeMailMemberSearchGUI.php",
+        "line": 188,
+        "code": "$this->lng->txt(\"no_checkbox\")",
+        "has_variable": false,
+        "variable": "no_checkbox"
+    },
+    {
+        "id": 35666,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeMailMemberSearchGUI.php",
+        "line": 241,
+        "code": "$this->lng->txt('prg_mail_permanent_link')",
+        "has_variable": false,
+        "variable": "prg_mail_permanent_link"
+    },
+    {
+        "id": 35668,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeMailMemberSearchTableGUI.php",
+        "line": 36,
+        "code": "$this->lng->txt('members')",
+        "has_variable": false,
+        "variable": "members"
+    },
+    {
+        "id": 35670,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeMailMemberSearchTableGUI.php",
+        "line": 45,
+        "code": "$this->lng->txt('login')",
+        "has_variable": false,
+        "variable": "login"
+    },
+    {
+        "id": 35672,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeMailMemberSearchTableGUI.php",
+        "line": 46,
+        "code": "$this->lng->txt('name')",
+        "has_variable": false,
+        "variable": "name"
+    },
+    {
+        "id": 35674,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeMailMemberSearchTableGUI.php",
+        "line": 51,
+        "code": "$this->lng->txt('mail_assignments')",
+        "has_variable": false,
+        "variable": "mail_assignments"
+    },
+    {
+        "id": 35676,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeMailMemberSearchTableGUI.php",
+        "line": 52,
+        "code": "$this->lng->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 35678,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeMailTemplateContext.php",
+        "line": 88,
+        "code": "$this->lng->txt('prg_mail_context_title')",
+        "has_variable": false,
+        "variable": "prg_mail_context_title"
+    },
+    {
+        "id": 35680,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeMailTemplateContext.php",
+        "line": 93,
+        "code": "$this->lng->txt('prg_mail_context_info')",
+        "has_variable": false,
+        "variable": "prg_mail_context_info"
+    },
+    {
+        "id": 35682,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeMailTemplateContext.php",
+        "line": 105,
+        "code": "$this->lng->txt($label)",
+        "has_variable": true,
+        "variable": "$label"
+    },
+    {
+        "id": 35684,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeMembersTableGUI.php",
+        "line": 98,
+        "code": "$this->lng->txt('action')",
+        "has_variable": false,
+        "variable": "action"
+    },
+    {
+        "id": 35686,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeMembersTableGUI.php",
+        "line": 169,
+        "code": "$this->lng->txt('usr_account_inactive')",
+        "has_variable": false,
+        "variable": "usr_account_inactive"
+    },
+    {
+        "id": 35688,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeMembersTableGUI.php",
+        "line": 314,
+        "code": "$this->lng->txt(\"prg_$action\")",
+        "has_variable": true,
+        "variable": "prg_$action"
+    },
+    {
+        "id": 35690,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeMembersTableGUI.php",
+        "line": 356,
+        "code": "$this->lng->txt('prg_multi_update_from_current_plan')",
+        "has_variable": false,
+        "variable": "prg_multi_update_from_current_plan"
+    },
+    {
+        "id": 35692,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeMembersTableGUI.php",
+        "line": 357,
+        "code": "$this->lng->txt('prg_acknowledge_completed_courses')",
+        "has_variable": false,
+        "variable": "prg_acknowledge_completed_courses"
+    },
+    {
+        "id": 35694,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeMembersTableGUI.php",
+        "line": 358,
+        "code": "$this->lng->txt('prg_multi_mark_relevant')",
+        "has_variable": false,
+        "variable": "prg_multi_mark_relevant"
+    },
+    {
+        "id": 35696,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeMembersTableGUI.php",
+        "line": 359,
+        "code": "$this->lng->txt('prg_multi_unmark_relevant')",
+        "has_variable": false,
+        "variable": "prg_multi_unmark_relevant"
+    },
+    {
+        "id": 35698,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeMembersTableGUI.php",
+        "line": 360,
+        "code": "$this->lng->txt('prg_multi_change_deadline')",
+        "has_variable": false,
+        "variable": "prg_multi_change_deadline"
+    },
+    {
+        "id": 35700,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeMembersTableGUI.php",
+        "line": 361,
+        "code": "$this->lng->txt('prg_multi_change_expire_date')",
+        "has_variable": false,
+        "variable": "prg_multi_change_expire_date"
+    },
+    {
+        "id": 35702,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeMembersTableGUI.php",
+        "line": 362,
+        "code": "$this->lng->txt('prg_multi_mark_accredited')",
+        "has_variable": false,
+        "variable": "prg_multi_mark_accredited"
+    },
+    {
+        "id": 35704,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeMembersTableGUI.php",
+        "line": 363,
+        "code": "$this->lng->txt('prg_multi_unmark_accredited')",
+        "has_variable": false,
+        "variable": "prg_multi_unmark_accredited"
+    },
+    {
+        "id": 35706,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeMembersTableGUI.php",
+        "line": 366,
+        "code": "$this->lng->txt('prg_multi_update_certificate')",
+        "has_variable": false,
+        "variable": "prg_multi_update_certificate"
+    },
+    {
+        "id": 35708,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeMembersTableGUI.php",
+        "line": 367,
+        "code": "$this->lng->txt('prg_multi_remove_certificate')",
+        "has_variable": false,
+        "variable": "prg_multi_remove_certificate"
+    },
+    {
+        "id": 35710,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeMembersTableGUI.php",
+        "line": 371,
+        "code": "$this->lng->txt('prg_multi_remove_user')",
+        "has_variable": false,
+        "variable": "prg_multi_remove_user"
+    },
+    {
+        "id": 35712,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeMembersTableGUI.php",
+        "line": 372,
+        "code": "$this->lng->txt('prg_multi_mail_user')",
+        "has_variable": false,
+        "variable": "prg_multi_mail_user"
+    },
+    {
+        "id": 35714,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeProgressListGUI.php",
+        "line": 97,
+        "code": "$this->lng->txt(\"prg_more_objects_without_read_permission\")",
+        "has_variable": false,
+        "variable": "prg_more_objects_without_read_permission"
+    },
+    {
+        "id": 35716,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeProgressListGUI.php",
+        "line": 124,
+        "code": "$this->lng->txt(\"icon\")",
+        "has_variable": false,
+        "variable": "icon"
+    },
+    {
+        "id": 35718,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeProgressListGUI.php",
+        "line": 124,
+        "code": "$this->lng->txt(\"obj_prg\")",
+        "has_variable": false,
+        "variable": "obj_prg"
+    },
+    {
+        "id": 35720,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeProgressListGUI.php",
+        "line": 184,
+        "code": "$this->lng->txt(\"prg_progress_info\")",
+        "has_variable": false,
+        "variable": "prg_progress_info"
+    },
+    {
+        "id": 35722,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeProgressListGUI.php",
+        "line": 205,
+        "code": "$this->lng->txt($lang_val)",
+        "has_variable": true,
+        "variable": "$lang_val"
+    },
+    {
+        "id": 35724,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeRepositorySearchGUI.php",
+        "line": 67,
+        "code": "$lng->txt('obj_user')",
+        "has_variable": false,
+        "variable": "obj_user"
+    },
+    {
+        "id": 35726,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeRepositorySearchGUI.php",
+        "line": 73,
+        "code": "$lng->txt('btn_add')",
+        "has_variable": false,
+        "variable": "btn_add"
+    },
+    {
+        "id": 35728,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeRepositorySearchGUI.php",
+        "line": 125,
+        "code": "$lng->txt('search_users')",
+        "has_variable": false,
+        "variable": "search_users"
+    },
+    {
+        "id": 35730,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeRepositorySearchGUI.php",
+        "line": 151,
+        "code": "$lng->txt('search_add_members_from_container_' . $parent_container_type)",
+        "has_variable": true,
+        "variable": "'search_add_members_from_container_' . $parent_container_type"
+    },
+    {
+        "id": 35732,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeTypeSettings.php",
+        "line": 50,
+        "code": "$lng->txt('type')",
+        "has_variable": false,
+        "variable": "type"
+    },
+    {
+        "id": 35734,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeTypeSettings.php",
+        "line": 50,
+        "code": "$lng->txt('prg_type_byline')",
+        "has_variable": false,
+        "variable": "prg_type_byline"
+    },
+    {
+        "id": 35736,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeTypeSettings.php",
+        "line": 64,
+        "code": "$lng->txt('prg_type')",
+        "has_variable": false,
+        "variable": "prg_type"
+    },
+    {
+        "id": 35738,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeUserTable.php",
+        "line": 97,
+        "code": "$this->lng->txt($k[1])",
+        "has_variable": true,
+        "variable": "\\$k"
+    },
+    {
+        "id": 35740,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeUserTable.php",
+        "line": 120,
+        "code": "$this->lng->txt(\"active\")",
+        "has_variable": false,
+        "variable": "active"
+    },
+    {
+        "id": 35742,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeUserTable.php",
+        "line": 123,
+        "code": "$this->lng->txt(\"cert_relevance\")",
+        "has_variable": false,
+        "variable": "cert_relevance"
+    },
+    {
+        "id": 35744,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeUserTable.php",
+        "line": 218,
+        "code": "$this->lng->txt('gender_' . $ass->getUserInformation()->getGender())",
+        "has_variable": true,
+        "variable": "'gender_' . $ass->getUserInformation()->getGender()"
+    },
+    {
+        "id": 35746,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeUserTable.php",
+        "line": 270,
+        "code": "$this->lng->txt(\"prg_status_in_progress\")",
+        "has_variable": false,
+        "variable": "prg_status_in_progress"
+    },
+    {
+        "id": 35748,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeUserTable.php",
+        "line": 273,
+        "code": "$this->lng->txt(\"prg_status_completed\")",
+        "has_variable": false,
+        "variable": "prg_status_completed"
+    },
+    {
+        "id": 35750,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeUserTable.php",
+        "line": 276,
+        "code": "$this->lng->txt(\"prg_status_accredited\")",
+        "has_variable": false,
+        "variable": "prg_status_accredited"
+    },
+    {
+        "id": 35752,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeUserTable.php",
+        "line": 279,
+        "code": "$this->lng->txt(\"prg_status_not_relevant\")",
+        "has_variable": false,
+        "variable": "prg_status_not_relevant"
+    },
+    {
+        "id": 35754,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeUserTable.php",
+        "line": 282,
+        "code": "$this->lng->txt(\"prg_status_failed\")",
+        "has_variable": false,
+        "variable": "prg_status_failed"
+    },
+    {
+        "id": 35756,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeUserTable.php",
+        "line": 289,
+        "code": "$this->lng->txt(\"yes\")",
+        "has_variable": false,
+        "variable": "yes"
+    },
+    {
+        "id": 35758,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeUserTable.php",
+        "line": 289,
+        "code": "$this->lng->txt(\"no\")",
+        "has_variable": false,
+        "variable": "no"
+    },
+    {
+        "id": 35760,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeUserTable.php",
+        "line": 297,
+        "code": "$this->lng->txt(\"prg_not_valid\")",
+        "has_variable": false,
+        "variable": "prg_not_valid"
+    },
+    {
+        "id": 35762,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeUserTable.php",
+        "line": 297,
+        "code": "$this->lng->txt(\"prg_still_valid\")",
+        "has_variable": false,
+        "variable": "prg_still_valid"
+    },
+    {
+        "id": 35764,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeUserTable.php",
+        "line": 302,
+        "code": "$this->lng->txt('active')",
+        "has_variable": false,
+        "variable": "active"
+    },
+    {
+        "id": 35766,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeUserTable.php",
+        "line": 302,
+        "code": "$this->lng->txt('inactive')",
+        "has_variable": false,
+        "variable": "inactive"
+    },
+    {
+        "id": 35768,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeUserTable.php",
+        "line": 313,
+        "code": "$this->lng->txt('prg_autoassignment')",
+        "has_variable": false,
+        "variable": "prg_autoassignment"
+    },
+    {
+        "id": 35770,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeUserTable.php",
+        "line": 314,
+        "code": "$this->lng->txt($srcs[$assignment_src])",
+        "has_variable": true,
+        "variable": "_"
+    },
+    {
+        "id": 35772,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeValidityOfAchievedQualificationSettings.php",
+        "line": 110,
+        "code": "$lng->txt('prg_no_validity_qualification')",
+        "has_variable": false,
+        "variable": "prg_no_validity_qualification"
+    },
+    {
+        "id": 35774,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeValidityOfAchievedQualificationSettings.php",
+        "line": 114,
+        "code": "$lng->txt('vq_period_label')",
+        "has_variable": false,
+        "variable": "vq_period_label"
+    },
+    {
+        "id": 35776,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeValidityOfAchievedQualificationSettings.php",
+        "line": 115,
+        "code": "$lng->txt('validity_qualification_period_desc')",
+        "has_variable": false,
+        "variable": "validity_qualification_period_desc"
+    },
+    {
+        "id": 35778,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeValidityOfAchievedQualificationSettings.php",
+        "line": 120,
+        "code": "$lng->txt('validity_qualification_period')",
+        "has_variable": false,
+        "variable": "validity_qualification_period"
+    },
+    {
+        "id": 35780,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeValidityOfAchievedQualificationSettings.php",
+        "line": 125,
+        "code": "$lng->txt('vq_date_label')",
+        "has_variable": false,
+        "variable": "vq_date_label"
+    },
+    {
+        "id": 35782,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeValidityOfAchievedQualificationSettings.php",
+        "line": 126,
+        "code": "$lng->txt('validity_qualification_date_desc')",
+        "has_variable": false,
+        "variable": "validity_qualification_date_desc"
+    },
+    {
+        "id": 35784,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeValidityOfAchievedQualificationSettings.php",
+        "line": 132,
+        "code": "$lng->txt('validity_qualification_date')",
+        "has_variable": false,
+        "variable": "validity_qualification_date"
+    },
+    {
+        "id": 35786,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeValidityOfAchievedQualificationSettings.php",
+        "line": 134,
+        "code": "$lng->txt('prg_no_restart')",
+        "has_variable": false,
+        "variable": "prg_no_restart"
+    },
+    {
+        "id": 35788,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeValidityOfAchievedQualificationSettings.php",
+        "line": 138,
+        "code": "$lng->txt('restart_period_label')",
+        "has_variable": false,
+        "variable": "restart_period_label"
+    },
+    {
+        "id": 35790,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeValidityOfAchievedQualificationSettings.php",
+        "line": 139,
+        "code": "$lng->txt('restart_period_desc')",
+        "has_variable": false,
+        "variable": "restart_period_desc"
+    },
+    {
+        "id": 35792,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeValidityOfAchievedQualificationSettings.php",
+        "line": 146,
+        "code": "$lng->txt('restart_recheck_label')",
+        "has_variable": false,
+        "variable": "restart_recheck_label"
+    },
+    {
+        "id": 35794,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeValidityOfAchievedQualificationSettings.php",
+        "line": 147,
+        "code": "$lng->txt('restart_recheck_desc')",
+        "has_variable": false,
+        "variable": "restart_recheck_desc"
+    },
+    {
+        "id": 35796,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeValidityOfAchievedQualificationSettings.php",
+        "line": 152,
+        "code": "$lng->txt('restart_period')",
+        "has_variable": false,
+        "variable": "restart_period"
+    },
+    {
+        "id": 35798,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeValidityOfAchievedQualificationSettings.php",
+        "line": 162,
+        "code": "$lng->txt('optgrp_label_validity')",
+        "has_variable": false,
+        "variable": "optgrp_label_validity"
+    },
+    {
+        "id": 35800,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeValidityOfAchievedQualificationSettings.php",
+        "line": 170,
+        "code": "$lng->txt('optgrp_label_restart')",
+        "has_variable": false,
+        "variable": "optgrp_label_restart"
+    },
+    {
+        "id": 35802,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeValidityOfAchievedQualificationSettings.php",
+        "line": 191,
+        "code": "$lng->txt('prg_validity_of_qualification')",
+        "has_variable": false,
+        "variable": "prg_validity_of_qualification"
+    },
+    {
+        "id": 35804,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/helpers\/ilPRGMessagePrinter.php",
+        "line": 50,
+        "code": "$this->lng->txt($msg->getDescription())",
+        "has_variable": true,
+        "variable": "$msg->getDescription()"
+    },
+    {
+        "id": 35806,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/helpers\/ilPRGMessagePrinter.php",
+        "line": 60,
+        "code": "$this->lng->txt($message)",
+        "has_variable": true,
+        "variable": "$message"
+    },
+    {
+        "id": 35808,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/helpers\/ilPRGMessagePrinter.php",
+        "line": 64,
+        "code": "$this->lng->txt($msg->getDescription() . '_failed')",
+        "has_variable": true,
+        "variable": "$msg->getDescription() . '_failed'"
+    },
+    {
+        "id": 35810,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/memberexport\/class.ilPRGMembersExportGUI.php",
+        "line": 52,
+        "code": "$this->lng->txt('ps_export_settings')",
+        "has_variable": false,
+        "variable": "ps_export_settings"
+    },
+    {
+        "id": 35812,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/memberexport\/class.ilPRGMembersExportGUI.php",
+        "line": 55,
+        "code": "$this->lng->txt('ps_export_excel')",
+        "has_variable": false,
+        "variable": "ps_export_excel"
+    },
+    {
+        "id": 35814,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/memberexport\/class.ilPRGMembersExportGUI.php",
+        "line": 57,
+        "code": "$this->lng->txt('ps_perform_export')",
+        "has_variable": false,
+        "variable": "ps_perform_export"
+    },
+    {
+        "id": 35816,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/memberexport\/class.ilPRGMembersExportGUI.php",
+        "line": 59,
+        "code": "$this->lng->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 35818,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/memberexport\/class.ilPRGMembersExportGUI.php",
+        "line": 62,
+        "code": "$this->lng->txt('ps_export_user_data')",
+        "has_variable": false,
+        "variable": "ps_export_user_data"
+    },
+    {
+        "id": 35820,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/memberexport\/class.ilPRGMembersExportGUI.php",
+        "line": 183,
+        "code": "$this->lng->txt('ps_files_deleted')",
+        "has_variable": false,
+        "variable": "ps_files_deleted"
+    },
+    {
+        "id": 35822,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/memberexport\/ilPRGMemberExport.php",
+        "line": 70,
+        "code": "$this->lng->txt(\"assignments\")",
+        "has_variable": false,
+        "variable": "assignments"
+    },
+    {
+        "id": 35824,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/model\/Assignments\/ilPRGAssignmentFilter.php",
+        "line": 164,
+        "code": "$this->lng->txt(\"all\")",
+        "has_variable": false,
+        "variable": "all"
+    },
+    {
+        "id": 35826,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/model\/Assignments\/ilPRGAssignmentFilter.php",
+        "line": 165,
+        "code": "$this->lng->txt(\"prg_still_valid\")",
+        "has_variable": false,
+        "variable": "prg_still_valid"
+    },
+    {
+        "id": 35828,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/model\/Assignments\/ilPRGAssignmentFilter.php",
+        "line": 166,
+        "code": "$this->lng->txt(\"prg_not_valid\")",
+        "has_variable": false,
+        "variable": "prg_not_valid"
+    },
+    {
+        "id": 35830,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/model\/Assignments\/ilPRGAssignmentFilter.php",
+        "line": 168,
+        "code": "$this->lng->txt('prg_validity')",
+        "has_variable": false,
+        "variable": "prg_validity"
+    },
+    {
+        "id": 35832,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/model\/Assignments\/ilPRGAssignmentFilter.php",
+        "line": 175,
+        "code": "$this->lng->txt(\"all\")",
+        "has_variable": false,
+        "variable": "all"
+    },
+    {
+        "id": 35834,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/model\/Assignments\/ilPRGAssignmentFilter.php",
+        "line": 176,
+        "code": "$this->lng->txt(\"prg_status_in_progress\")",
+        "has_variable": false,
+        "variable": "prg_status_in_progress"
+    },
+    {
+        "id": 35836,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/model\/Assignments\/ilPRGAssignmentFilter.php",
+        "line": 177,
+        "code": "$this->lng->txt(\"prg_status_completed\")",
+        "has_variable": false,
+        "variable": "prg_status_completed"
+    },
+    {
+        "id": 35838,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/model\/Assignments\/ilPRGAssignmentFilter.php",
+        "line": 178,
+        "code": "$this->lng->txt(\"prg_status_accredited\")",
+        "has_variable": false,
+        "variable": "prg_status_accredited"
+    },
+    {
+        "id": 35840,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/model\/Assignments\/ilPRGAssignmentFilter.php",
+        "line": 179,
+        "code": "$this->lng->txt(\"prg_status_not_relevant\")",
+        "has_variable": false,
+        "variable": "prg_status_not_relevant"
+    },
+    {
+        "id": 35842,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/model\/Assignments\/ilPRGAssignmentFilter.php",
+        "line": 180,
+        "code": "$this->lng->txt(\"prg_status_failed\")",
+        "has_variable": false,
+        "variable": "prg_status_failed"
+    },
+    {
+        "id": 35844,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/model\/Assignments\/ilPRGAssignmentFilter.php",
+        "line": 191,
+        "code": "$this->lng->txt(\"all\")",
+        "has_variable": false,
+        "variable": "all"
+    },
+    {
+        "id": 35846,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/model\/Assignments\/ilPRGAssignmentFilter.php",
+        "line": 192,
+        "code": "$this->lng->txt(\"active_only\")",
+        "has_variable": false,
+        "variable": "active_only"
+    },
+    {
+        "id": 35848,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/model\/Assignments\/ilPRGAssignmentFilter.php",
+        "line": 193,
+        "code": "$this->lng->txt(\"inactive_only\")",
+        "has_variable": false,
+        "variable": "inactive_only"
+    },
+    {
+        "id": 35850,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/model\/Types\/class.ilStudyProgrammeType.php",
+        "line": 141,
+        "code": "$this->lng->txt('prg_type_msg_assign_amd_prevented')",
+        "has_variable": false,
+        "variable": "prg_type_msg_assign_amd_prevented"
+    },
+    {
+        "id": 35852,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/model\/Types\/class.ilStudyProgrammeType.php",
+        "line": 185,
+        "code": "$this->lng->txt('prg_type_msg_deassign_amd_prevented')",
+        "has_variable": false,
+        "variable": "prg_type_msg_deassign_amd_prevented"
+    },
+    {
+        "id": 35854,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/model\/Types\/class.ilStudyProgrammeType.php",
+        "line": 284,
+        "code": "$this->lng->txt('prg_type_msg_title_already_exists')",
+        "has_variable": false,
+        "variable": "prg_type_msg_title_already_exists"
+    },
+    {
+        "id": 35856,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/model\/Types\/class.ilStudyProgrammeType.php",
+        "line": 303,
+        "code": "$this->lng->txt('prg_type_msg_setting_member_prevented')",
+        "has_variable": false,
+        "variable": "prg_type_msg_setting_member_prevented"
+    },
+    {
+        "id": 35858,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/model\/Types\/class.ilStudyProgrammeTypeDBRepository.php",
+        "line": 311,
+        "code": "$this->lng->txt('prg_type_msg_unable_delete')",
+        "has_variable": false,
+        "variable": "prg_type_msg_unable_delete"
+    },
+    {
+        "id": 35860,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/model\/Types\/class.ilStudyProgrammeTypeDBRepository.php",
+        "line": 326,
+        "code": "$this->lng->txt('prg_type_msg_deletion_prevented')",
+        "has_variable": false,
+        "variable": "prg_type_msg_deletion_prevented"
+    },
+    {
+        "id": 35862,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/model\/Types\/class.ilStudyProgrammeTypeDBRepository.php",
+        "line": 713,
+        "code": "$this->lng->txt('prg_subtypes')",
+        "has_variable": false,
+        "variable": "prg_subtypes"
+    },
+    {
+        "id": 35864,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/model\/Types\/class.ilStudyProgrammeTypeDBRepository.php",
+        "line": 722,
+        "code": "$this->lng->txt('title')",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 35866,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/model\/Types\/class.ilStudyProgrammeTypeDBRepository.php",
+        "line": 723,
+        "code": "$this->lng->txt('description')",
+        "has_variable": false,
+        "variable": "description"
+    },
+    {
+        "id": 35868,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/model\/Types\/class.ilStudyProgrammeTypeDBRepository.php",
+        "line": 724,
+        "code": "$this->lng->txt('default_language')",
+        "has_variable": false,
+        "variable": "default_language"
+    },
+    {
+        "id": 35870,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/model\/Types\/class.ilStudyProgrammeTypeDBRepository.php",
+        "line": 725,
+        "code": "$this->lng->txt('icon')",
+        "has_variable": false,
+        "variable": "icon"
+    },
+    {
+        "id": 35872,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/model\/Types\/class.ilStudyProgrammeTypeDBRepository.php",
+        "line": 749,
+        "code": "$this->lng->txt('prg_type')",
+        "has_variable": false,
+        "variable": "prg_type"
+    },
+    {
+        "id": 35874,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/types\/class.ilStudyProgrammeTypeAdvancedMetaDataFormGUI.php",
+        "line": 60,
+        "code": "$this->lng->txt('prg_type_assign_amd_sets')",
+        "has_variable": false,
+        "variable": "prg_type_assign_amd_sets"
+    },
+    {
+        "id": 35876,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/types\/class.ilStudyProgrammeTypeAdvancedMetaDataFormGUI.php",
+        "line": 62,
+        "code": "$this->lng->txt('prg_type_available_amd_sets')",
+        "has_variable": false,
+        "variable": "prg_type_available_amd_sets"
+    },
+    {
+        "id": 35878,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/types\/class.ilStudyProgrammeTypeAdvancedMetaDataFormGUI.php",
+        "line": 66,
+        "code": "$this->lng->txt('save')",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 35880,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/types\/class.ilStudyProgrammeTypeCustomIconsFormGUI.php",
+        "line": 82,
+        "code": "$this->lng->txt('prg_type_custom_icon')",
+        "has_variable": false,
+        "variable": "prg_type_custom_icon"
+    },
+    {
+        "id": 35882,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/types\/class.ilStudyProgrammeTypeCustomIconsFormGUI.php",
+        "line": 83,
+        "code": "$this->lng->txt('icon')",
+        "has_variable": false,
+        "variable": "icon"
+    },
+    {
+        "id": 35884,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/types\/class.ilStudyProgrammeTypeCustomIconsFormGUI.php",
+        "line": 85,
+        "code": "$this->lng->txt('prg_type_custom_icon_info')",
+        "has_variable": false,
+        "variable": "prg_type_custom_icon_info"
+    },
+    {
+        "id": 35886,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/types\/class.ilStudyProgrammeTypeCustomIconsFormGUI.php",
+        "line": 87,
+        "code": "$this->lng->txt('save')",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 35888,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/types\/class.ilStudyProgrammeTypeCustomIconsFormGUI.php",
+        "line": 126,
+        "code": "$this->lng->txt('prg_type_msg_error_custom_icon')",
+        "has_variable": false,
+        "variable": "prg_type_msg_error_custom_icon"
+    },
+    {
+        "id": 35890,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/types\/class.ilStudyProgrammeTypeGUI.php",
+        "line": 192,
+        "code": "$this->lng->txt(\"permission_denied\")",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 35892,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/types\/class.ilStudyProgrammeTypeGUI.php",
+        "line": 202,
+        "code": "$this->lng->txt('meta_general')",
+        "has_variable": false,
+        "variable": "meta_general"
+    },
+    {
+        "id": 35894,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/types\/class.ilStudyProgrammeTypeGUI.php",
+        "line": 209,
+        "code": "$this->lng->txt('icon_settings')",
+        "has_variable": false,
+        "variable": "icon_settings"
+    },
+    {
+        "id": 35896,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/types\/class.ilStudyProgrammeTypeGUI.php",
+        "line": 217,
+        "code": "$this->lng->txt('md_advanced')",
+        "has_variable": false,
+        "variable": "md_advanced"
+    },
+    {
+        "id": 35898,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/types\/class.ilStudyProgrammeTypeGUI.php",
+        "line": 233,
+        "code": "$this->lng->txt('icon')",
+        "has_variable": false,
+        "variable": "icon"
+    },
+    {
+        "id": 35900,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/types\/class.ilStudyProgrammeTypeGUI.php",
+        "line": 234,
+        "code": "$this->lng->txt('file_allowed_suffixes')",
+        "has_variable": false,
+        "variable": "file_allowed_suffixes"
+    },
+    {
+        "id": 35902,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/types\/class.ilStudyProgrammeTypeGUI.php",
+        "line": 243,
+        "code": "$this->lng->txt('prg_type_custom_icon')",
+        "has_variable": false,
+        "variable": "prg_type_custom_icon"
+    },
+    {
+        "id": 35904,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/types\/class.ilStudyProgrammeTypeGUI.php",
+        "line": 244,
+        "code": "$this->lng->txt('prg_type_custom_icon_info')",
+        "has_variable": false,
+        "variable": "prg_type_custom_icon_info"
+    },
+    {
+        "id": 35906,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/types\/class.ilStudyProgrammeTypeGUI.php",
+        "line": 286,
+        "code": "$this->lng->txt('msg_obj_modified')",
+        "has_variable": false,
+        "variable": "msg_obj_modified"
+    },
+    {
+        "id": 35908,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/types\/class.ilStudyProgrammeTypeGUI.php",
+        "line": 292,
+        "code": "$this->lng->txt('icon_removed')",
+        "has_variable": false,
+        "variable": "icon_removed"
+    },
+    {
+        "id": 35910,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/types\/class.ilStudyProgrammeTypeGUI.php",
+        "line": 325,
+        "code": "$this->lng->txt('msg_obj_modified')",
+        "has_variable": false,
+        "variable": "msg_obj_modified"
+    },
+    {
+        "id": 35912,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/types\/class.ilStudyProgrammeTypeGUI.php",
+        "line": 338,
+        "code": "$this->lng->txt('prg_subtype_add')",
+        "has_variable": false,
+        "variable": "prg_subtype_add"
+    },
+    {
+        "id": 35914,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/types\/class.ilStudyProgrammeTypeGUI.php",
+        "line": 345,
+        "code": "$this->lng->txt('edit')",
+        "has_variable": false,
+        "variable": "edit"
+    },
+    {
+        "id": 35916,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/types\/class.ilStudyProgrammeTypeGUI.php",
+        "line": 350,
+        "code": "$this->lng->txt('delete')",
+        "has_variable": false,
+        "variable": "delete"
+    },
+    {
+        "id": 35918,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/types\/class.ilStudyProgrammeTypeGUI.php",
+        "line": 390,
+        "code": "$this->lng->txt('prg_type_add')",
+        "has_variable": false,
+        "variable": "prg_type_add"
+    },
+    {
+        "id": 35920,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/types\/class.ilStudyProgrammeTypeGUI.php",
+        "line": 401,
+        "code": "$this->lng->txt('prg_type_edit')",
+        "has_variable": false,
+        "variable": "prg_type_edit"
+    },
+    {
+        "id": 35922,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/types\/class.ilStudyProgrammeTypeGUI.php",
+        "line": 411,
+        "code": "$this->lng->txt('prg_type_add')",
+        "has_variable": false,
+        "variable": "prg_type_add"
+    },
+    {
+        "id": 35924,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/types\/class.ilStudyProgrammeTypeGUI.php",
+        "line": 418,
+        "code": "$this->lng->txt('msg_obj_modified')",
+        "has_variable": false,
+        "variable": "msg_obj_modified"
+    },
+    {
+        "id": 35926,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/types\/class.ilStudyProgrammeTypeGUI.php",
+        "line": 421,
+        "code": "$this->lng->txt(\"msg_fill_required\")",
+        "has_variable": false,
+        "variable": "msg_fill_required"
+    },
+    {
+        "id": 35928,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/types\/class.ilStudyProgrammeTypeGUI.php",
+        "line": 431,
+        "code": "$this->lng->txt('prg_type_edit')",
+        "has_variable": false,
+        "variable": "prg_type_edit"
+    },
+    {
+        "id": 35930,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/types\/class.ilStudyProgrammeTypeGUI.php",
+        "line": 438,
+        "code": "$this->lng->txt('msg_obj_modified')",
+        "has_variable": false,
+        "variable": "msg_obj_modified"
+    },
+    {
+        "id": 35932,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/types\/class.ilStudyProgrammeTypeGUI.php",
+        "line": 441,
+        "code": "$this->lng->txt(\"msg_fill_required\")",
+        "has_variable": false,
+        "variable": "msg_fill_required"
+    },
+    {
+        "id": 35934,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/types\/class.ilStudyProgrammeTypeGUI.php",
+        "line": 468,
+        "code": "$this->lng->txt('prg_type_msg_deleted')",
+        "has_variable": false,
+        "variable": "prg_type_msg_deleted"
+    },
+    {
+        "id": 35936,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/types\/class.ilStudyProgrammeTypeGUI.php",
+        "line": 480,
+        "code": "$this->lng->txt(\"meta_l_$lang_code\")",
+        "has_variable": true,
+        "variable": "meta_l_$lang_code"
+    },
+    {
+        "id": 35938,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/types\/class.ilStudyProgrammeTypeGUI.php",
+        "line": 484,
+        "code": "$this->lng->txt('default_language')",
+        "has_variable": false,
+        "variable": "default_language"
+    },
+    {
+        "id": 35940,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/types\/class.ilStudyProgrammeTypeInfo.php",
+        "line": 83,
+        "code": "$lng->txt('title')",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 35942,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/types\/class.ilStudyProgrammeTypeInfo.php",
+        "line": 89,
+        "code": "$lng->txt('description')",
+        "has_variable": false,
+        "variable": "description"
+    },
+    {
+        "id": 35944,
+        "file": "components\/ILIAS\/StudyProgramme\/classes\/types\/class.ilStudyProgrammeTypeInfo.php",
+        "line": 101,
+        "code": "$lng->txt(\"meta_l_$lng_code\")",
+        "has_variable": true,
+        "variable": "meta_l_$lng_code"
+    }
+]

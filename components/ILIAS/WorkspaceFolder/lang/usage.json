@@ -1,0 +1,570 @@
+[
+    {
+        "id": 50432,
+        "file": "components\/ILIAS\/WorkspaceFolder\/BackgroundTask\/classes\/class.ilSumOfWorkspaceFileSizesTooLargeInteraction.php",
+        "line": 77,
+        "code": "$this->lng->txt('ui_msg_files_violate_maxsize')",
+        "has_variable": false,
+        "variable": "ui_msg_files_violate_maxsize"
+    },
+    {
+        "id": 50434,
+        "file": "components\/ILIAS\/WorkspaceFolder\/UserSettings\/classes\/class.ilWorkspaceFolderSorting.php",
+        "line": 46,
+        "code": "$this->lng->txt(\"wfld_derive\")",
+        "has_variable": false,
+        "variable": "wfld_derive"
+    },
+    {
+        "id": 50436,
+        "file": "components\/ILIAS\/WorkspaceFolder\/UserSettings\/classes\/class.ilWorkspaceFolderSorting.php",
+        "line": 68,
+        "code": "$this->lng->txt(\"wfld_derive\")",
+        "has_variable": false,
+        "variable": "wfld_derive"
+    },
+    {
+        "id": 50438,
+        "file": "components\/ILIAS\/WorkspaceFolder\/UserSettings\/classes\/class.ilWorkspaceFolderSorting.php",
+        "line": 69,
+        "code": "$this->lng->txt(\"wfld_alphabetically_asc\")",
+        "has_variable": false,
+        "variable": "wfld_alphabetically_asc"
+    },
+    {
+        "id": 50440,
+        "file": "components\/ILIAS\/WorkspaceFolder\/UserSettings\/classes\/class.ilWorkspaceFolderSorting.php",
+        "line": 70,
+        "code": "$this->lng->txt(\"wfld_alphabetically_desc\")",
+        "has_variable": false,
+        "variable": "wfld_alphabetically_desc"
+    },
+    {
+        "id": 50442,
+        "file": "components\/ILIAS\/WorkspaceFolder\/UserSettings\/classes\/class.ilWorkspaceFolderSorting.php",
+        "line": 71,
+        "code": "$this->lng->txt(\"wfld_creation_asc\")",
+        "has_variable": false,
+        "variable": "wfld_creation_asc"
+    },
+    {
+        "id": 50444,
+        "file": "components\/ILIAS\/WorkspaceFolder\/UserSettings\/classes\/class.ilWorkspaceFolderSorting.php",
+        "line": 72,
+        "code": "$this->lng->txt(\"wfld_creation_desc\")",
+        "has_variable": false,
+        "variable": "wfld_creation_desc"
+    },
+    {
+        "id": 50446,
+        "file": "components\/ILIAS\/WorkspaceFolder\/classes\/class.ilObjWorkspaceFolderGUI.php",
+        "line": 93,
+        "code": "$lng->txt(\"wsp_tab_personal\")",
+        "has_variable": false,
+        "variable": "wsp_tab_personal"
+    },
+    {
+        "id": 50448,
+        "file": "components\/ILIAS\/WorkspaceFolder\/classes\/class.ilObjWorkspaceFolderGUI.php",
+        "line": 105,
+        "code": "$lng->txt(\"wsp_tab_shared\")",
+        "has_variable": false,
+        "variable": "wsp_tab_shared"
+    },
+    {
+        "id": 50450,
+        "file": "components\/ILIAS\/WorkspaceFolder\/classes\/class.ilObjWorkspaceFolderGUI.php",
+        "line": 111,
+        "code": "$lng->txt(\"wsp_tab_ownership\")",
+        "has_variable": false,
+        "variable": "wsp_tab_ownership"
+    },
+    {
+        "id": 50452,
+        "file": "components\/ILIAS\/WorkspaceFolder\/classes\/class.ilObjWorkspaceFolderGUI.php",
+        "line": 142,
+        "code": "$lng->txt(\"view\")",
+        "has_variable": false,
+        "variable": "view"
+    },
+    {
+        "id": 50454,
+        "file": "components\/ILIAS\/WorkspaceFolder\/classes\/class.ilObjWorkspaceFolderGUI.php",
+        "line": 143,
+        "code": "$lng->txt(\"cntr_manage\")",
+        "has_variable": false,
+        "variable": "cntr_manage"
+    },
+    {
+        "id": 50456,
+        "file": "components\/ILIAS\/WorkspaceFolder\/classes\/class.ilObjWorkspaceFolderGUI.php",
+        "line": 149,
+        "code": "$lng->txt(\"settings\")",
+        "has_variable": false,
+        "variable": "settings"
+    },
+    {
+        "id": 50458,
+        "file": "components\/ILIAS\/WorkspaceFolder\/classes\/class.ilObjWorkspaceFolderGUI.php",
+        "line": 272,
+        "code": "$this->lng->txt(\"msg_clear_clipboard\")",
+        "has_variable": false,
+        "variable": "msg_clear_clipboard"
+    },
+    {
+        "id": 50460,
+        "file": "components\/ILIAS\/WorkspaceFolder\/classes\/class.ilObjWorkspaceFolderGUI.php",
+        "line": 281,
+        "code": "$this->lng->txt(\"no_checkbox\")",
+        "has_variable": false,
+        "variable": "no_checkbox"
+    },
+    {
+        "id": 50462,
+        "file": "components\/ILIAS\/WorkspaceFolder\/classes\/class.ilObjWorkspaceFolderGUI.php",
+        "line": 301,
+        "code": "$this->lng->txt(\"msg_no_perm_cut\")",
+        "has_variable": false,
+        "variable": "msg_no_perm_cut"
+    },
+    {
+        "id": 50464,
+        "file": "components\/ILIAS\/WorkspaceFolder\/classes\/class.ilObjWorkspaceFolderGUI.php",
+        "line": 330,
+        "code": "$this->lng->txt(\"no_checkbox\")",
+        "has_variable": false,
+        "variable": "no_checkbox"
+    },
+    {
+        "id": 50466,
+        "file": "components\/ILIAS\/WorkspaceFolder\/classes\/class.ilObjWorkspaceFolderGUI.php",
+        "line": 346,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 50468,
+        "file": "components\/ILIAS\/WorkspaceFolder\/classes\/class.ilObjWorkspaceFolderGUI.php",
+        "line": 354,
+        "code": "$this->lng->txt(\"obj_\" . $node[\"type\"])",
+        "has_variable": true,
+        "variable": "\"obj_\" . $node[\"type\"]"
+    },
+    {
+        "id": 50470,
+        "file": "components\/ILIAS\/WorkspaceFolder\/classes\/class.ilObjWorkspaceFolderGUI.php",
+        "line": 355,
+        "code": "$this->lng->txt(\"pwsp_type_cannot_be_copied\")",
+        "has_variable": false,
+        "variable": "pwsp_type_cannot_be_copied"
+    },
+    {
+        "id": 50472,
+        "file": "components\/ILIAS\/WorkspaceFolder\/classes\/class.ilObjWorkspaceFolderGUI.php",
+        "line": 395,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 50474,
+        "file": "components\/ILIAS\/WorkspaceFolder\/classes\/class.ilObjWorkspaceFolderGUI.php",
+        "line": 420,
+        "code": "$this->lng->txt('back')",
+        "has_variable": false,
+        "variable": "back"
+    },
+    {
+        "id": 50476,
+        "file": "components\/ILIAS\/WorkspaceFolder\/classes\/class.ilObjWorkspaceFolderGUI.php",
+        "line": 425,
+        "code": "$this->lng->txt('back')",
+        "has_variable": false,
+        "variable": "back"
+    },
+    {
+        "id": 50478,
+        "file": "components\/ILIAS\/WorkspaceFolder\/classes\/class.ilObjWorkspaceFolderGUI.php",
+        "line": 432,
+        "code": "$this->lng->txt('msg_' . $mode . '_clipboard')",
+        "has_variable": true,
+        "variable": "'msg_' . $mode . '_clipboard'"
+    },
+    {
+        "id": 50480,
+        "file": "components\/ILIAS\/WorkspaceFolder\/classes\/class.ilObjWorkspaceFolderGUI.php",
+        "line": 459,
+        "code": "$this->lng->txt('wsp_switch_to_repo_tree')",
+        "has_variable": false,
+        "variable": "wsp_switch_to_repo_tree"
+    },
+    {
+        "id": 50482,
+        "file": "components\/ILIAS\/WorkspaceFolder\/classes\/class.ilObjWorkspaceFolderGUI.php",
+        "line": 496,
+        "code": "$this->lng->txt('wsp_switch_to_wsp_tree')",
+        "has_variable": false,
+        "variable": "wsp_switch_to_wsp_tree"
+    },
+    {
+        "id": 50484,
+        "file": "components\/ILIAS\/WorkspaceFolder\/classes\/class.ilObjWorkspaceFolderGUI.php",
+        "line": 517,
+        "code": "$this->lng->txt('paste')",
+        "has_variable": false,
+        "variable": "paste"
+    },
+    {
+        "id": 50486,
+        "file": "components\/ILIAS\/WorkspaceFolder\/classes\/class.ilObjWorkspaceFolderGUI.php",
+        "line": 529,
+        "code": "$this->lng->txt('select_at_least_one_object')",
+        "has_variable": false,
+        "variable": "select_at_least_one_object"
+    },
+    {
+        "id": 50488,
+        "file": "components\/ILIAS\/WorkspaceFolder\/classes\/class.ilObjWorkspaceFolderGUI.php",
+        "line": 533,
+        "code": "$this->lng->txt('select_at_least_one_object')",
+        "has_variable": false,
+        "variable": "select_at_least_one_object"
+    },
+    {
+        "id": 50490,
+        "file": "components\/ILIAS\/WorkspaceFolder\/classes\/class.ilObjWorkspaceFolderGUI.php",
+        "line": 554,
+        "code": "$this->lng->txt('msg_obj_exists_in_folder')",
+        "has_variable": false,
+        "variable": "msg_obj_exists_in_folder"
+    },
+    {
+        "id": 50492,
+        "file": "components\/ILIAS\/WorkspaceFolder\/classes\/class.ilObjWorkspaceFolderGUI.php",
+        "line": 562,
+        "code": "$this->lng->txt('msg_obj_may_not_contain_objects_of_type')",
+        "has_variable": false,
+        "variable": "msg_obj_may_not_contain_objects_of_type"
+    },
+    {
+        "id": 50494,
+        "file": "components\/ILIAS\/WorkspaceFolder\/classes\/class.ilObjWorkspaceFolderGUI.php",
+        "line": 571,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 50496,
+        "file": "components\/ILIAS\/WorkspaceFolder\/classes\/class.ilObjWorkspaceFolderGUI.php",
+        "line": 577,
+        "code": "$this->lng->txt('msg_paste_object_not_in_itself')",
+        "has_variable": false,
+        "variable": "msg_paste_object_not_in_itself"
+    },
+    {
+        "id": 50498,
+        "file": "components\/ILIAS\/WorkspaceFolder\/classes\/class.ilObjWorkspaceFolderGUI.php",
+        "line": 587,
+        "code": "$this->lng->txt('msg_no_perm_paste_object_in_folder')",
+        "has_variable": false,
+        "variable": "msg_no_perm_paste_object_in_folder"
+    },
+    {
+        "id": 50500,
+        "file": "components\/ILIAS\/WorkspaceFolder\/classes\/class.ilObjWorkspaceFolderGUI.php",
+        "line": 595,
+        "code": "$this->lng->txt('msg_no_perm_paste_object_in_folder')",
+        "has_variable": false,
+        "variable": "msg_no_perm_paste_object_in_folder"
+    },
+    {
+        "id": 50502,
+        "file": "components\/ILIAS\/WorkspaceFolder\/classes\/class.ilObjWorkspaceFolderGUI.php",
+        "line": 674,
+        "code": "$this->lng->txt('msg_cut_copied')",
+        "has_variable": false,
+        "variable": "msg_cut_copied"
+    },
+    {
+        "id": 50504,
+        "file": "components\/ILIAS\/WorkspaceFolder\/classes\/class.ilObjWorkspaceFolderGUI.php",
+        "line": 676,
+        "code": "$this->lng->txt('msg_cloned')",
+        "has_variable": false,
+        "variable": "msg_cloned"
+    },
+    {
+        "id": 50506,
+        "file": "components\/ILIAS\/WorkspaceFolder\/classes\/class.ilObjWorkspaceFolderGUI.php",
+        "line": 720,
+        "code": "$lng->txt(\"wsp_password_protected_resource\")",
+        "has_variable": false,
+        "variable": "wsp_password_protected_resource"
+    },
+    {
+        "id": 50508,
+        "file": "components\/ILIAS\/WorkspaceFolder\/classes\/class.ilObjWorkspaceFolderGUI.php",
+        "line": 721,
+        "code": "$lng->txt(\"wsp_password_protected_resource_info\")",
+        "has_variable": false,
+        "variable": "wsp_password_protected_resource_info"
+    },
+    {
+        "id": 50510,
+        "file": "components\/ILIAS\/WorkspaceFolder\/classes\/class.ilObjWorkspaceFolderGUI.php",
+        "line": 725,
+        "code": "$lng->txt(\"back\")",
+        "has_variable": false,
+        "variable": "back"
+    },
+    {
+        "id": 50512,
+        "file": "components\/ILIAS\/WorkspaceFolder\/classes\/class.ilObjWorkspaceFolderGUI.php",
+        "line": 747,
+        "code": "$lng->txt(\"wsp_password_for\")",
+        "has_variable": false,
+        "variable": "wsp_password_for"
+    },
+    {
+        "id": 50514,
+        "file": "components\/ILIAS\/WorkspaceFolder\/classes\/class.ilObjWorkspaceFolderGUI.php",
+        "line": 749,
+        "code": "$lng->txt(\"password\")",
+        "has_variable": false,
+        "variable": "password"
+    },
+    {
+        "id": 50516,
+        "file": "components\/ILIAS\/WorkspaceFolder\/classes\/class.ilObjWorkspaceFolderGUI.php",
+        "line": 755,
+        "code": "$lng->txt(\"submit\")",
+        "has_variable": false,
+        "variable": "submit"
+    },
+    {
+        "id": 50518,
+        "file": "components\/ILIAS\/WorkspaceFolder\/classes\/class.ilObjWorkspaceFolderGUI.php",
+        "line": 756,
+        "code": "$lng->txt(\"cancel\")",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 50520,
+        "file": "components\/ILIAS\/WorkspaceFolder\/classes\/class.ilObjWorkspaceFolderGUI.php",
+        "line": 783,
+        "code": "$lng->txt(\"wsp_invalid_password\")",
+        "has_variable": false,
+        "variable": "wsp_invalid_password"
+    },
+    {
+        "id": 50522,
+        "file": "components\/ILIAS\/WorkspaceFolder\/classes\/class.ilObjWorkspaceFolderGUI.php",
+        "line": 784,
+        "code": "$lng->txt(\"form_input_not_valid\")",
+        "has_variable": false,
+        "variable": "form_input_not_valid"
+    },
+    {
+        "id": 50524,
+        "file": "components\/ILIAS\/WorkspaceFolder\/classes\/class.ilObjWorkspaceFolderGUI.php",
+        "line": 824,
+        "code": "$lng->txt(\"no_checkbox\")",
+        "has_variable": false,
+        "variable": "no_checkbox"
+    },
+    {
+        "id": 50526,
+        "file": "components\/ILIAS\/WorkspaceFolder\/classes\/class.ilObjWorkspaceFolderGUI.php",
+        "line": 833,
+        "code": "$lng->txt(\"info_delete_sure\")",
+        "has_variable": false,
+        "variable": "info_delete_sure"
+    },
+    {
+        "id": 50528,
+        "file": "components\/ILIAS\/WorkspaceFolder\/classes\/class.ilObjWorkspaceFolderGUI.php",
+        "line": 834,
+        "code": "$lng->txt(\"info_delete_warning_no_trash\")",
+        "has_variable": false,
+        "variable": "info_delete_warning_no_trash"
+    },
+    {
+        "id": 50530,
+        "file": "components\/ILIAS\/WorkspaceFolder\/classes\/class.ilObjWorkspaceFolderGUI.php",
+        "line": 837,
+        "code": "$lng->txt(\"cancel\")",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 50532,
+        "file": "components\/ILIAS\/WorkspaceFolder\/classes\/class.ilObjWorkspaceFolderGUI.php",
+        "line": 838,
+        "code": "$lng->txt(\"confirm\")",
+        "has_variable": false,
+        "variable": "confirm"
+    },
+    {
+        "id": 50534,
+        "file": "components\/ILIAS\/WorkspaceFolder\/classes\/class.ilObjWorkspaceFolderGUI.php",
+        "line": 850,
+        "code": "$lng->txt(\"msg_no_perm_delete\")",
+        "has_variable": false,
+        "variable": "msg_no_perm_delete"
+    },
+    {
+        "id": 50536,
+        "file": "components\/ILIAS\/WorkspaceFolder\/classes\/class.ilObjWorkspaceFolderGUI.php",
+        "line": 859,
+        "code": "$lng->txt(\"icon\")",
+        "has_variable": false,
+        "variable": "icon"
+    },
+    {
+        "id": 50538,
+        "file": "components\/ILIAS\/WorkspaceFolder\/classes\/class.ilObjWorkspaceFolderGUI.php",
+        "line": 859,
+        "code": "$lng->txt(\"obj_\" . $type)",
+        "has_variable": true,
+        "variable": "\"obj_\" . $type"
+    },
+    {
+        "id": 50540,
+        "file": "components\/ILIAS\/WorkspaceFolder\/classes\/class.ilObjWorkspaceFolderGUI.php",
+        "line": 897,
+        "code": "$this->lng->txt('paste_clipboard_items')",
+        "has_variable": false,
+        "variable": "paste_clipboard_items"
+    },
+    {
+        "id": 50542,
+        "file": "components\/ILIAS\/WorkspaceFolder\/classes\/class.ilObjWorkspaceFolderGUI.php",
+        "line": 902,
+        "code": "$this->lng->txt('clear_clipboard')",
+        "has_variable": false,
+        "variable": "clear_clipboard"
+    },
+    {
+        "id": 50544,
+        "file": "components\/ILIAS\/WorkspaceFolder\/classes\/class.ilObjWorkspaceFolderGUI.php",
+        "line": 918,
+        "code": "$lng->txt(\"actions\")",
+        "has_variable": false,
+        "variable": "actions"
+    },
+    {
+        "id": 50546,
+        "file": "components\/ILIAS\/WorkspaceFolder\/classes\/class.ilObjWorkspaceFolderGUI.php",
+        "line": 921,
+        "code": "$this->lng->txt('delete_selected_items')",
+        "has_variable": false,
+        "variable": "delete_selected_items"
+    },
+    {
+        "id": 50548,
+        "file": "components\/ILIAS\/WorkspaceFolder\/classes\/class.ilObjWorkspaceFolderGUI.php",
+        "line": 925,
+        "code": "$this->lng->txt('move_selected_items')",
+        "has_variable": false,
+        "variable": "move_selected_items"
+    },
+    {
+        "id": 50550,
+        "file": "components\/ILIAS\/WorkspaceFolder\/classes\/class.ilObjWorkspaceFolderGUI.php",
+        "line": 929,
+        "code": "$this->lng->txt('copy_selected_items')",
+        "has_variable": false,
+        "variable": "copy_selected_items"
+    },
+    {
+        "id": 50552,
+        "file": "components\/ILIAS\/WorkspaceFolder\/classes\/class.ilObjWorkspaceFolderGUI.php",
+        "line": 933,
+        "code": "$this->lng->txt('download_selected_items')",
+        "has_variable": false,
+        "variable": "download_selected_items"
+    },
+    {
+        "id": 50554,
+        "file": "components\/ILIAS\/WorkspaceFolder\/classes\/class.ilObjWorkspaceFolderGUI.php",
+        "line": 978,
+        "code": "$this->lng->txt('msg_bt_download_started')",
+        "has_variable": false,
+        "variable": "msg_bt_download_started"
+    },
+    {
+        "id": 50556,
+        "file": "components\/ILIAS\/WorkspaceFolder\/classes\/class.ilObjWorkspaceFolderGUI.php",
+        "line": 987,
+        "code": "$this->lng->txt('personal_resources')",
+        "has_variable": false,
+        "variable": "personal_resources"
+    },
+    {
+        "id": 50558,
+        "file": "components\/ILIAS\/WorkspaceFolder\/classes\/class.ilObjWorkspaceFolderGUI.php",
+        "line": 1024,
+        "code": "$this->lng->txt('wsp_type_' . $type)",
+        "has_variable": true,
+        "variable": "'wsp_type_' . $type"
+    },
+    {
+        "id": 50560,
+        "file": "components\/ILIAS\/WorkspaceFolder\/classes\/class.ilObjWorkspaceFolderTableGUI.php",
+        "line": 56,
+        "code": "$this->lng->txt(\"content\")",
+        "has_variable": false,
+        "variable": "content"
+    },
+    {
+        "id": 50562,
+        "file": "components\/ILIAS\/WorkspaceFolder\/classes\/class.ilObjWorkspaceFolderTableGUI.php",
+        "line": 129,
+        "code": "$this->lng->txt(\"status\")",
+        "has_variable": false,
+        "variable": "status"
+    },
+    {
+        "id": 50564,
+        "file": "components\/ILIAS\/WorkspaceFolder\/classes\/class.ilObjWorkspaceFolderTableGUI.php",
+        "line": 129,
+        "code": "$this->lng->txt(\"wsp_status_shared\")",
+        "has_variable": false,
+        "variable": "wsp_status_shared"
+    },
+    {
+        "id": 50566,
+        "file": "components\/ILIAS\/WorkspaceFolder\/classes\/class.ilWorkspaceContentGUI.php",
+        "line": 81,
+        "code": "$this->lng->txt(\"select_all\")",
+        "has_variable": false,
+        "variable": "select_all"
+    },
+    {
+        "id": 50568,
+        "file": "components\/ILIAS\/WorkspaceFolder\/classes\/class.ilWorkspaceContentGUI.php",
+        "line": 103,
+        "code": "$this->lng->txt(\"content\")",
+        "has_variable": false,
+        "variable": "content"
+    },
+    {
+        "id": 50570,
+        "file": "components\/ILIAS\/WorkspaceFolder\/classes\/class.ilWorkspaceContentGUI.php",
+        "line": 180,
+        "code": "$this->lng->txt(\"status\")",
+        "has_variable": false,
+        "variable": "status"
+    },
+    {
+        "id": 50572,
+        "file": "components\/ILIAS\/WorkspaceFolder\/classes\/class.ilWorkspaceContentGUI.php",
+        "line": 180,
+        "code": "$this->lng->txt(\"wsp_status_shared\")",
+        "has_variable": false,
+        "variable": "wsp_status_shared"
+    }
+]

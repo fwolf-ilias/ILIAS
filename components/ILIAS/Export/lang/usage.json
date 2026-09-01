@@ -1,0 +1,466 @@
+[
+    {
+        "id": 16524,
+        "file": "components\/ILIAS\/Export\/Print\/class.PrintProcessGUI.php",
+        "line": 94,
+        "code": "$this->lng->txt(\"exp_print_pdf\")",
+        "has_variable": false,
+        "variable": "exp_print_pdf"
+    },
+    {
+        "id": 16526,
+        "file": "components\/ILIAS\/Export\/Print\/class.PrintProcessGUI.php",
+        "line": 98,
+        "code": "$this->lng->txt(\"exp_print_pdf\")",
+        "has_variable": false,
+        "variable": "exp_print_pdf"
+    },
+    {
+        "id": 16528,
+        "file": "components\/ILIAS\/Export\/Print\/class.PrintProcessGUI.php",
+        "line": 115,
+        "code": "$this->lng->txt(\"exp_print_pdf_info\")",
+        "has_variable": false,
+        "variable": "exp_print_pdf_info"
+    },
+    {
+        "id": 16530,
+        "file": "components\/ILIAS\/Export\/Print\/class.PrintProcessGUI.php",
+        "line": 121,
+        "code": "$this->lng->txt(\"exp_print_pdf\")",
+        "has_variable": false,
+        "variable": "exp_print_pdf"
+    },
+    {
+        "id": 16532,
+        "file": "components\/ILIAS\/Export\/classes\/ExportHandler\/Table\/DataRetrieval\/Handler.php",
+        "line": 88,
+        "code": "$this->lng->txt(self::LNG_PUBLIC_ACCESS_STATUS)",
+        "has_variable": true,
+        "variable": "LNG_PUBLIC_ACCESS_STATUS"
+    },
+    {
+        "id": 16534,
+        "file": "components\/ILIAS\/Export\/classes\/ExportHandler\/Table\/DataRetrieval\/Handler.php",
+        "line": 89,
+        "code": "$this->lng->txt(self::LNG_NOT_PUBLIC_ACCESS_STATUS)",
+        "has_variable": true,
+        "variable": "LNG_NOT_PUBLIC_ACCESS_STATUS"
+    },
+    {
+        "id": 16536,
+        "file": "components\/ILIAS\/Export\/classes\/ExportHandler\/Table\/Handler.php",
+        "line": 104,
+        "code": "$this->lng->txt(self::TABLE_COL_LNG_TYPE)",
+        "has_variable": true,
+        "variable": "TABLE_COL_LNG_TYPE"
+    },
+    {
+        "id": 16538,
+        "file": "components\/ILIAS\/Export\/classes\/ExportHandler\/Table\/Handler.php",
+        "line": 107,
+        "code": "$this->lng->txt(self::TABLE_COL_LNG_FILE)",
+        "has_variable": true,
+        "variable": "TABLE_COL_LNG_FILE"
+    },
+    {
+        "id": 16540,
+        "file": "components\/ILIAS\/Export\/classes\/ExportHandler\/Table\/Handler.php",
+        "line": 110,
+        "code": "$this->lng->txt(self::TABLE_COL_LNG_SIZE)",
+        "has_variable": true,
+        "variable": "TABLE_COL_LNG_SIZE"
+    },
+    {
+        "id": 16542,
+        "file": "components\/ILIAS\/Export\/classes\/ExportHandler\/Table\/Handler.php",
+        "line": 115,
+        "code": "$this->lng->txt(self::TABLE_COL_LNG_TIMESTAMP)",
+        "has_variable": true,
+        "variable": "TABLE_COL_LNG_TIMESTAMP"
+    },
+    {
+        "id": 16544,
+        "file": "components\/ILIAS\/Export\/classes\/ExportHandler\/Table\/Handler.php",
+        "line": 121,
+        "code": "$this->lng->txt(self::TABLE_COL_LNG_PUBLIC_ACCESS)",
+        "has_variable": true,
+        "variable": "TABLE_COL_LNG_PUBLIC_ACCESS"
+    },
+    {
+        "id": 16546,
+        "file": "components\/ILIAS\/Export\/classes\/ExportHandler\/Table\/Handler.php",
+        "line": 138,
+        "code": "$this->lng->txt('download')",
+        "has_variable": false,
+        "variable": "download"
+    },
+    {
+        "id": 16548,
+        "file": "components\/ILIAS\/Export\/classes\/ExportHandler\/Table\/Handler.php",
+        "line": 143,
+        "code": "$this->lng->txt('delete')",
+        "has_variable": false,
+        "variable": "delete"
+    },
+    {
+        "id": 16550,
+        "file": "components\/ILIAS\/Export\/classes\/ExportHandler\/Table\/Handler.php",
+        "line": 150,
+        "code": "$this->lng->txt('exp_toggle_public_access')",
+        "has_variable": false,
+        "variable": "exp_toggle_public_access"
+    },
+    {
+        "id": 16552,
+        "file": "components\/ILIAS\/Export\/classes\/ExportHandler\/Table\/Handler.php",
+        "line": 180,
+        "code": "$this->lng->txt('confirm')",
+        "has_variable": false,
+        "variable": "confirm"
+    },
+    {
+        "id": 16554,
+        "file": "components\/ILIAS\/Export\/classes\/ExportHandler\/Table\/Handler.php",
+        "line": 181,
+        "code": "$this->lng->txt('exp_really_delete')",
+        "has_variable": false,
+        "variable": "exp_really_delete"
+    },
+    {
+        "id": 16556,
+        "file": "components\/ILIAS\/Export\/classes\/ExportHandler\/Table\/Handler.php",
+        "line": 290,
+        "code": "$this->lng->txt(\"exp_export_files\")",
+        "has_variable": false,
+        "variable": "exp_export_files"
+    },
+    {
+        "id": 16558,
+        "file": "components\/ILIAS\/Export\/classes\/ImportHandler\/File\/XML\/Export\/Handler.php",
+        "line": 143,
+        "code": "$this->lng->txt('exp_import_validation_err_no_matching_xsd')",
+        "has_variable": false,
+        "variable": "exp_import_validation_err_no_matching_xsd"
+    },
+    {
+        "id": 16560,
+        "file": "components\/ILIAS\/Export\/classes\/class.ilExport.php",
+        "line": 360,
+        "code": "$lng->txt(\"export_export_date\")",
+        "has_variable": false,
+        "variable": "export_export_date"
+    },
+    {
+        "id": 16562,
+        "file": "components\/ILIAS\/Export\/classes\/class.ilExport.php",
+        "line": 366,
+        "code": "$lng->txt(\"obj_\" . $file[\"type\"])",
+        "has_variable": true,
+        "variable": "\"obj_\" . $file[\"type\"]"
+    },
+    {
+        "id": 16564,
+        "file": "components\/ILIAS\/Export\/classes\/class.ilExportExportOptionXML.php",
+        "line": 79,
+        "code": "$this->lng->txt(\"exp_format_dropdown-xml\")",
+        "has_variable": false,
+        "variable": "exp_format_dropdown-xml"
+    },
+    {
+        "id": 16566,
+        "file": "components\/ILIAS\/Export\/classes\/class.ilExportGUI.php",
+        "line": 108,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 16568,
+        "file": "components\/ILIAS\/Export\/classes\/class.ilExportGUI.php",
+        "line": 114,
+        "code": "$this->lng->txt(\"exp_error_disabled\")",
+        "has_variable": false,
+        "variable": "exp_error_disabled"
+    },
+    {
+        "id": 16570,
+        "file": "components\/ILIAS\/Export\/classes\/class.ilExportGUI.php",
+        "line": 217,
+        "code": "$this->lng->txt(\"exp_export_single_option\")",
+        "has_variable": false,
+        "variable": "exp_export_single_option"
+    },
+    {
+        "id": 16572,
+        "file": "components\/ILIAS\/Export\/classes\/class.ilExportGUI.php",
+        "line": 228,
+        "code": "$this->lng->txt(\"exp_export_dropdown\")",
+        "has_variable": false,
+        "variable": "exp_export_dropdown"
+    },
+    {
+        "id": 16574,
+        "file": "components\/ILIAS\/Export\/classes\/class.ilExportGUI.php",
+        "line": 243,
+        "code": "$this->lng->txt(\"exp_file_created\")",
+        "has_variable": false,
+        "variable": "exp_file_created"
+    },
+    {
+        "id": 16576,
+        "file": "components\/ILIAS\/Export\/classes\/class.ilExportGUI.php",
+        "line": 278,
+        "code": "$this->lng->txt('export_created')",
+        "has_variable": false,
+        "variable": "export_created"
+    },
+    {
+        "id": 16578,
+        "file": "components\/ILIAS\/Export\/classes\/class.ilExportLimitation.php",
+        "line": 61,
+        "code": "$this->lng->txt(\"exp_error_disabled\")",
+        "has_variable": false,
+        "variable": "exp_error_disabled"
+    },
+    {
+        "id": 16580,
+        "file": "components\/ILIAS\/Export\/classes\/class.ilExportLimitation.php",
+        "line": 75,
+        "code": "$this->lng->txt(\"exp_error_too_many_objects\")",
+        "has_variable": false,
+        "variable": "exp_error_too_many_objects"
+    },
+    {
+        "id": 16582,
+        "file": "components\/ILIAS\/Export\/classes\/class.ilExportSelectionTableGUI.php",
+        "line": 55,
+        "code": "$this->lng->txt('export_select_resources')",
+        "has_variable": false,
+        "variable": "export_select_resources"
+    },
+    {
+        "id": 16584,
+        "file": "components\/ILIAS\/Export\/classes\/class.ilExportSelectionTableGUI.php",
+        "line": 56,
+        "code": "$this->lng->txt('title')",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 16586,
+        "file": "components\/ILIAS\/Export\/classes\/class.ilExportSelectionTableGUI.php",
+        "line": 57,
+        "code": "$this->lng->txt('export_last_export')",
+        "has_variable": false,
+        "variable": "export_last_export"
+    },
+    {
+        "id": 16588,
+        "file": "components\/ILIAS\/Export\/classes\/class.ilExportSelectionTableGUI.php",
+        "line": 58,
+        "code": "$this->lng->txt('export_last_export_file')",
+        "has_variable": false,
+        "variable": "export_last_export_file"
+    },
+    {
+        "id": 16590,
+        "file": "components\/ILIAS\/Export\/classes\/class.ilExportSelectionTableGUI.php",
+        "line": 59,
+        "code": "$this->lng->txt('export_create_new_file')",
+        "has_variable": false,
+        "variable": "export_create_new_file"
+    },
+    {
+        "id": 16592,
+        "file": "components\/ILIAS\/Export\/classes\/class.ilExportSelectionTableGUI.php",
+        "line": 60,
+        "code": "$this->lng->txt('export_omit_resource')",
+        "has_variable": false,
+        "variable": "export_omit_resource"
+    },
+    {
+        "id": 16594,
+        "file": "components\/ILIAS\/Export\/classes\/class.ilExportSelectionTableGUI.php",
+        "line": 71,
+        "code": "$this->lng->txt('export_save_selection')",
+        "has_variable": false,
+        "variable": "export_save_selection"
+    },
+    {
+        "id": 16596,
+        "file": "components\/ILIAS\/Export\/classes\/class.ilExportSelectionTableGUI.php",
+        "line": 72,
+        "code": "$this->lng->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 16598,
+        "file": "components\/ILIAS\/Export\/classes\/class.ilExportSelectionTableGUI.php",
+        "line": 105,
+        "code": "$this->lng->txt('select_all')",
+        "has_variable": false,
+        "variable": "select_all"
+    },
+    {
+        "id": 16600,
+        "file": "components\/ILIAS\/Export\/classes\/class.ilExportSelectionTableGUI.php",
+        "line": 108,
+        "code": "$this->lng->txt('select_all')",
+        "has_variable": false,
+        "variable": "select_all"
+    },
+    {
+        "id": 16602,
+        "file": "components\/ILIAS\/Export\/classes\/class.ilExportSelectionTableGUI.php",
+        "line": 111,
+        "code": "$this->lng->txt('select_all')",
+        "has_variable": false,
+        "variable": "select_all"
+    },
+    {
+        "id": 16604,
+        "file": "components\/ILIAS\/Export\/classes\/class.ilExportSelectionTableGUI.php",
+        "line": 124,
+        "code": "$this->lng->txt('obj_' . $a_set['type'])",
+        "has_variable": true,
+        "variable": "'obj_' . $a_set['type']"
+    },
+    {
+        "id": 16606,
+        "file": "components\/ILIAS\/Export\/classes\/class.ilExportSelectionTableGUI.php",
+        "line": 133,
+        "code": "$this->lng->txt('no_file')",
+        "has_variable": false,
+        "variable": "no_file"
+    },
+    {
+        "id": 16608,
+        "file": "components\/ILIAS\/Export\/classes\/class.ilExportSelectionTableGUI.php",
+        "line": 143,
+        "code": "$this->lng->txt('export_existing')",
+        "has_variable": false,
+        "variable": "export_existing"
+    },
+    {
+        "id": 16610,
+        "file": "components\/ILIAS\/Export\/classes\/class.ilExportSelectionTableGUI.php",
+        "line": 154,
+        "code": "$this->lng->txt('missing_perm')",
+        "has_variable": false,
+        "variable": "missing_perm"
+    },
+    {
+        "id": 16612,
+        "file": "components\/ILIAS\/Export\/classes\/class.ilExportSelectionTableGUI.php",
+        "line": 161,
+        "code": "$this->lng->txt('export')",
+        "has_variable": false,
+        "variable": "export"
+    },
+    {
+        "id": 16614,
+        "file": "components\/ILIAS\/Export\/classes\/class.ilExportSelectionTableGUI.php",
+        "line": 174,
+        "code": "$this->lng->txt('missing_perm')",
+        "has_variable": false,
+        "variable": "missing_perm"
+    },
+    {
+        "id": 16616,
+        "file": "components\/ILIAS\/Export\/classes\/class.ilExportSelectionTableGUI.php",
+        "line": 180,
+        "code": "$this->lng->txt('omit')",
+        "has_variable": false,
+        "variable": "omit"
+    },
+    {
+        "id": 16618,
+        "file": "components\/ILIAS\/Export\/classes\/class.ilSubItemSelectionTableGUI.php",
+        "line": 40,
+        "code": "$this->lng->txt(\"export_create_export_file\")",
+        "has_variable": false,
+        "variable": "export_create_export_file"
+    },
+    {
+        "id": 16620,
+        "file": "components\/ILIAS\/Export\/classes\/class.ilSubItemSelectionTableGUI.php",
+        "line": 43,
+        "code": "$this->lng->txt(\"export_resource\")",
+        "has_variable": false,
+        "variable": "export_resource"
+    },
+    {
+        "id": 16622,
+        "file": "components\/ILIAS\/Export\/classes\/class.ilSubItemSelectionTableGUI.php",
+        "line": 44,
+        "code": "$this->lng->txt(\"export_last_export\")",
+        "has_variable": false,
+        "variable": "export_last_export"
+    },
+    {
+        "id": 16624,
+        "file": "components\/ILIAS\/Export\/classes\/class.ilSubItemSelectionTableGUI.php",
+        "line": 45,
+        "code": "$this->lng->txt(\"export_last_export_file\")",
+        "has_variable": false,
+        "variable": "export_last_export_file"
+    },
+    {
+        "id": 16626,
+        "file": "components\/ILIAS\/Export\/classes\/class.ilSubItemSelectionTableGUI.php",
+        "line": 46,
+        "code": "$this->lng->txt(\"export_create_new_file\")",
+        "has_variable": false,
+        "variable": "export_create_new_file"
+    },
+    {
+        "id": 16628,
+        "file": "components\/ILIAS\/Export\/classes\/class.ilSubItemSelectionTableGUI.php",
+        "line": 47,
+        "code": "$this->lng->txt(\"export_omit_resource\")",
+        "has_variable": false,
+        "variable": "export_omit_resource"
+    },
+    {
+        "id": 16630,
+        "file": "components\/ILIAS\/Export\/classes\/class.ilSubItemSelectionTableGUI.php",
+        "line": 54,
+        "code": "$this->lng->txt(\"export_select_resources\")",
+        "has_variable": false,
+        "variable": "export_select_resources"
+    },
+    {
+        "id": 16632,
+        "file": "components\/ILIAS\/Export\/classes\/class.ilSubItemSelectionTableGUI.php",
+        "line": 66,
+        "code": "$this->lng->txt(\"obj_\" . $a_set[\"type\"])",
+        "has_variable": true,
+        "variable": "\"obj_\" . $a_set[\"type\"]"
+    },
+    {
+        "id": 16634,
+        "file": "components\/ILIAS\/Export\/classes\/class.ilSubItemSelectionTableGUI.php",
+        "line": 74,
+        "code": "$this->lng->txt(\"export_last_file\")",
+        "has_variable": false,
+        "variable": "export_last_file"
+    },
+    {
+        "id": 16636,
+        "file": "components\/ILIAS\/Export\/classes\/class.ilSubItemSelectionTableGUI.php",
+        "line": 75,
+        "code": "$this->lng->txt(\"export_omit\")",
+        "has_variable": false,
+        "variable": "export_omit"
+    },
+    {
+        "id": 16638,
+        "file": "components\/ILIAS\/Export\/classes\/class.ilSubItemSelectionTableGUI.php",
+        "line": 76,
+        "code": "$this->lng->txt(\"export_create\")",
+        "has_variable": false,
+        "variable": "export_create"
+    }
+]

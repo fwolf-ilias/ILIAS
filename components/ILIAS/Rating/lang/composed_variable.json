@@ -1,0 +1,29 @@
+{
+    "metadata": {
+        "type": "composed",
+        "count": 1,
+        "description": "Variable usages with detectable prefixes or suffixes"
+    },
+    "matches": [
+        {
+            "id": 30612,
+            "file": "components\/ILIAS\/Rating\/classes\/class.ilRatingCategoryGUI.php",
+            "line": 168,
+            "code": "$lng->txt(\"rating_category_\" . ($a_id ? \"edit\" : \"create\"))",
+            "variable": "\"rating_category_\" . ($a_id ? \"edit\" : \"create\")",
+            "has_variable": true,
+            "prefix": "rating_category_",
+            "suffix": "",
+            "matching_variables": [
+                "rating_category_add",
+                "rating_category_create",
+                "rating_category_created",
+                "rating_category_delete_sure",
+                "rating_category_deleted",
+                "rating_category_edit",
+                "rating_category_update",
+                "rating_category_updated"
+            ]
+        }
+    ]
+}

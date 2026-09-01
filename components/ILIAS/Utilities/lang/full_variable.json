@@ -1,0 +1,42 @@
+{
+    "metadata": {
+        "type": "full",
+        "count": 3,
+        "description": "Variable usages without detectable prefixes or suffixes (pure variable references without static strings)"
+    },
+    "matches": [
+        {
+            "id": 48392,
+            "file": "components\/ILIAS\/Utilities\/classes\/class.ilLegacyFormElementsUtil.php",
+            "line": 90,
+            "code": "$lng->txt($segment_name)",
+            "variable": "$segment_name",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 48394,
+            "file": "components\/ILIAS\/Utilities\/classes\/class.ilLegacyFormElementsUtil.php",
+            "line": 381,
+            "code": "$lng->txt($val)",
+            "variable": "$val",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 48406,
+            "file": "components\/ILIAS\/Utilities\/classes\/class.ilUtil.php",
+            "line": 1478,
+            "code": "$a_lng->txt($scaled_unit)",
+            "variable": "$scaled_unit",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        }
+    ]
+}

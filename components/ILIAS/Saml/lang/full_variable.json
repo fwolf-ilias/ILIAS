@@ -1,0 +1,119 @@
+{
+    "metadata": {
+        "type": "full",
+        "count": 10,
+        "description": "Variable usages without detectable prefixes or suffixes (pure variable references without static strings)"
+    },
+    "matches": [
+        {
+            "id": 32054,
+            "file": "components\/ILIAS\/Saml\/classes\/class.ilAuthProviderSaml.php",
+            "line": 93,
+            "code": "$this->lng->txt(self::ERR_PROVIDER_INACTIVE)",
+            "variable": "ERR_PROVIDER_INACTIVE",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 32096,
+            "file": "components\/ILIAS\/Saml\/classes\/class.ilSamlSettingsGUI.php",
+            "line": 337,
+            "code": "$this->lng->txt(self::LNG_SAVED_SUCCESSFULLY)",
+            "variable": "LNG_SAVED_SUCCESSFULLY",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 32098,
+            "file": "components\/ILIAS\/Saml\/classes\/class.ilSamlSettingsGUI.php",
+            "line": 348,
+            "code": "$this->lng->txt(self::LNG_SAVED_SUCCESSFULLY)",
+            "variable": "LNG_SAVED_SUCCESSFULLY",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 32102,
+            "file": "components\/ILIAS\/Saml\/classes\/class.ilSamlSettingsGUI.php",
+            "line": 409,
+            "code": "$this->lng->txt(self::LNG_AUTH_SAML_USER_MAPPING)",
+            "variable": "LNG_AUTH_SAML_USER_MAPPING",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 32104,
+            "file": "components\/ILIAS\/Saml\/classes\/class.ilSamlSettingsGUI.php",
+            "line": 425,
+            "code": "$this->lng->txt(self::LNG_SAVE)",
+            "variable": "LNG_SAVE",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 32108,
+            "file": "components\/ILIAS\/Saml\/classes\/class.ilSamlSettingsGUI.php",
+            "line": 476,
+            "code": "$this->lng->txt(self::LNG_SAVED_SUCCESSFULLY)",
+            "variable": "LNG_SAVED_SUCCESSFULLY",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 32118,
+            "file": "components\/ILIAS\/Saml\/classes\/class.ilSamlSettingsGUI.php",
+            "line": 561,
+            "code": "$this->lng->txt(self::LNG_SAVED_SUCCESSFULLY)",
+            "variable": "LNG_SAVED_SUCCESSFULLY",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 32156,
+            "file": "components\/ILIAS\/Saml\/classes\/class.ilSamlSettingsGUI.php",
+            "line": 721,
+            "code": "$this->lng->txt(self::LNG_SAVED_SUCCESSFULLY)",
+            "variable": "LNG_SAVED_SUCCESSFULLY",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 32162,
+            "file": "components\/ILIAS\/Saml\/classes\/class.ilSamlSettingsGUI.php",
+            "line": 781,
+            "code": "$this->lng->txt(self::LNG_SAVED_SUCCESSFULLY)",
+            "variable": "LNG_SAVED_SUCCESSFULLY",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 32168,
+            "file": "components\/ILIAS\/Saml\/classes\/class.ilSamlSettingsGUI.php",
+            "line": 830,
+            "code": "$this->lng->txt(self::LNG_CANCEL)",
+            "variable": "LNG_CANCEL",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        }
+    ]
+}

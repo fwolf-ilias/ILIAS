@@ -1,0 +1,42 @@
+[
+    {
+        "id": 35144,
+        "file": "components\/ILIAS\/StaticURL\/classes\/class.ilObjStaticUrlService.php",
+        "line": 35,
+        "code": "$this->lng->txt(\"obj_stus\")",
+        "has_variable": false,
+        "variable": "obj_stus"
+    },
+    {
+        "id": 35146,
+        "file": "components\/ILIAS\/StaticURL\/classes\/class.ilObjStaticUrlService.php",
+        "line": 41,
+        "code": "$this->lng->txt(\"obj_stus_desc\")",
+        "has_variable": false,
+        "variable": "obj_stus_desc"
+    },
+    {
+        "id": 35148,
+        "file": "components\/ILIAS\/StaticURL\/src\/Shortlinks\/UI\/TreeSelectNodeRetrieval.php",
+        "line": 84,
+        "code": "$this->language->txt('unknown')",
+        "has_variable": false,
+        "variable": "unknown"
+    },
+    {
+        "id": 35150,
+        "file": "components\/ILIAS\/StaticURL\/src\/Shortlinks\/UI\/TreeSelectNodeRetrieval.php",
+        "line": 183,
+        "code": "$this->language->txt('repository')",
+        "has_variable": false,
+        "variable": "repository"
+    },
+    {
+        "id": 35152,
+        "file": "components\/ILIAS\/StaticURL\/src\/Shortlinks\/UI\/TreeSelectNodeRetrieval.php",
+        "line": 185,
+        "code": "$this->language->txt($object_type)",
+        "has_variable": true,
+        "variable": "$object_type"
+    }
+]

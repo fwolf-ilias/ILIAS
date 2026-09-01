@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "type": "full",
+        "count": 4,
+        "description": "Variable usages without detectable prefixes or suffixes (pure variable references without static strings)"
+    },
+    "matches": [
+        {
+            "id": 1826,
+            "file": "components\/ILIAS\/AuthShibboleth\/classes\/Config\/class.ilShibbolethSettingsForm.php",
+            "line": 65,
+            "code": "$this->lng->txt($var)",
+            "variable": "$var",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 1878,
+            "file": "components\/ILIAS\/AuthShibboleth\/classes\/Config\/class.ilShibbolethSettingsForm.php",
+            "line": 197,
+            "code": "$this->txt($field_name)",
+            "variable": "$field_name",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 1952,
+            "file": "components\/ILIAS\/AuthShibboleth\/classes\/class.ilAuthShibbolethSettingsGUI.php",
+            "line": 322,
+            "code": "$this->lng->txt($err)",
+            "variable": "$err",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 1958,
+            "file": "components\/ILIAS\/AuthShibboleth\/classes\/class.ilAuthShibbolethSettingsGUI.php",
+            "line": 383,
+            "code": "$this->lng->txt($err)",
+            "variable": "$err",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        }
+    ]
+}

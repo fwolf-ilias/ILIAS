@@ -1,0 +1,42 @@
+{
+    "metadata": {
+        "type": "full",
+        "count": 3,
+        "description": "Variable usages without detectable prefixes or suffixes (pure variable references without static strings)"
+    },
+    "matches": [
+        {
+            "id": 28192,
+            "file": "components\/ILIAS\/News\/classes\/class.ilNewsForContextBlockGUI.php",
+            "line": 195,
+            "code": "$this->lng->txt($lang_type)",
+            "variable": "$lang_type",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 28324,
+            "file": "components\/ILIAS\/News\/classes\/class.ilNewsItem.php",
+            "line": 1589,
+            "code": "$lng->txt($a_title)",
+            "variable": "$a_title",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 28326,
+            "file": "components\/ILIAS\/News\/classes\/class.ilNewsItem.php",
+            "line": 1617,
+            "code": "$lng->txt($a_content)",
+            "variable": "$a_content",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        }
+    ]
+}

@@ -1,0 +1,122 @@
+[
+    {
+        "id": 39414,
+        "file": "components\/ILIAS\/Tasks\/DerivedTasks\/classes\/class.ilDerivedTasksGUI.php",
+        "line": 89,
+        "code": "$lng->txt(\"task_derived_tasks\")",
+        "has_variable": false,
+        "variable": "task_derived_tasks"
+    },
+    {
+        "id": 39416,
+        "file": "components\/ILIAS\/Tasks\/DerivedTasks\/classes\/class.ilDerivedTasksGUI.php",
+        "line": 113,
+        "code": "$lng->txt(\"obj_\" . $obj_type)",
+        "has_variable": true,
+        "variable": "\"obj_\" . $obj_type"
+    },
+    {
+        "id": 39418,
+        "file": "components\/ILIAS\/Tasks\/DerivedTasks\/classes\/class.ilDerivedTasksGUI.php",
+        "line": 122,
+        "code": "$lng->txt(\"obj_\" . $obj_type)",
+        "has_variable": true,
+        "variable": "\"obj_\" . $obj_type"
+    },
+    {
+        "id": 39420,
+        "file": "components\/ILIAS\/Tasks\/DerivedTasks\/classes\/class.ilDerivedTasksGUI.php",
+        "line": 135,
+        "code": "$lng->txt(\"task_start\")",
+        "has_variable": false,
+        "variable": "task_start"
+    },
+    {
+        "id": 39422,
+        "file": "components\/ILIAS\/Tasks\/DerivedTasks\/classes\/class.ilDerivedTasksGUI.php",
+        "line": 139,
+        "code": "$lng->txt(\"task_deadline\")",
+        "has_variable": false,
+        "variable": "task_deadline"
+    },
+    {
+        "id": 39424,
+        "file": "components\/ILIAS\/Tasks\/DerivedTasks\/classes\/class.ilDerivedTasksGUI.php",
+        "line": 155,
+        "code": "$lng->txt(\"task_tasks_with_deadline\")",
+        "has_variable": false,
+        "variable": "task_tasks_with_deadline"
+    },
+    {
+        "id": 39426,
+        "file": "components\/ILIAS\/Tasks\/DerivedTasks\/classes\/class.ilDerivedTasksGUI.php",
+        "line": 161,
+        "code": "$lng->txt(\"task_tasks_without_deadline\")",
+        "has_variable": false,
+        "variable": "task_tasks_without_deadline"
+    },
+    {
+        "id": 39428,
+        "file": "components\/ILIAS\/Tasks\/DerivedTasks\/classes\/class.ilDerivedTasksGUI.php",
+        "line": 169,
+        "code": "$lng->txt(\"task_no_tasks\")",
+        "has_variable": false,
+        "variable": "task_no_tasks"
+    },
+    {
+        "id": 39430,
+        "file": "components\/ILIAS\/Tasks\/classes\/class.ilPDTasksBlockGUI.php",
+        "line": 50,
+        "code": "$lng->txt(\"task_derived_tasks\")",
+        "has_variable": false,
+        "variable": "task_derived_tasks"
+    },
+    {
+        "id": 39432,
+        "file": "components\/ILIAS\/Tasks\/classes\/class.ilPDTasksBlockGUI.php",
+        "line": 120,
+        "code": "$lng->txt(\"task_derived_tasks\")",
+        "has_variable": false,
+        "variable": "task_derived_tasks"
+    },
+    {
+        "id": 39434,
+        "file": "components\/ILIAS\/Tasks\/classes\/class.ilPDTasksBlockGUI.php",
+        "line": 155,
+        "code": "$lng->txt(\"obj_\" . $obj_type)",
+        "has_variable": true,
+        "variable": "\"obj_\" . $obj_type"
+    },
+    {
+        "id": 39436,
+        "file": "components\/ILIAS\/Tasks\/classes\/class.ilPDTasksBlockGUI.php",
+        "line": 165,
+        "code": "$lng->txt(\"obj_\" . $obj_type)",
+        "has_variable": true,
+        "variable": "\"obj_\" . $obj_type"
+    },
+    {
+        "id": 39438,
+        "file": "components\/ILIAS\/Tasks\/classes\/class.ilPDTasksBlockGUI.php",
+        "line": 170,
+        "code": "$lng->txt(\"task_start\")",
+        "has_variable": false,
+        "variable": "task_start"
+    },
+    {
+        "id": 39440,
+        "file": "components\/ILIAS\/Tasks\/classes\/class.ilPDTasksBlockGUI.php",
+        "line": 179,
+        "code": "$lng->txt(\"task_deadline\")",
+        "has_variable": false,
+        "variable": "task_deadline"
+    },
+    {
+        "id": 39442,
+        "file": "components\/ILIAS\/Tasks\/classes\/class.ilPDTasksBlockGUI.php",
+        "line": 193,
+        "code": "$this->lng->txt(\"task_no_task_items\")",
+        "has_variable": false,
+        "variable": "task_no_task_items"
+    }
+]

@@ -1,0 +1,75 @@
+{
+    "metadata": {
+        "type": "full",
+        "count": 6,
+        "description": "Variable usages without detectable prefixes or suffixes (pure variable references without static strings)"
+    },
+    "matches": [
+        {
+            "id": 14460,
+            "file": "components\/ILIAS\/Exercise\/Assignment\/Types\/GUI\/classes\/class.ilExAssTypePortfolioGUI.php",
+            "line": 46,
+            "code": "$lng->txt(\"exc_without_template_info\", \"without_template_info\")",
+            "variable": "_",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 14464,
+            "file": "components\/ILIAS\/Exercise\/Assignment\/Types\/GUI\/classes\/class.ilExAssTypePortfolioGUI.php",
+            "line": 47,
+            "code": "$lng->txt(\"exc_with_template_info\", \"with_template_info\")",
+            "variable": "_",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 15546,
+            "file": "components\/ILIAS\/Exercise\/Submission\/class.ilExSubmissionObjectGUI.php",
+            "line": 299,
+            "code": "$this->lng->txt($a_info)",
+            "variable": "$a_info",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 15548,
+            "file": "components\/ILIAS\/Exercise\/Submission\/class.ilExSubmissionObjectGUI.php",
+            "line": 301,
+            "code": "$this->lng->txt($a_title)",
+            "variable": "$a_title",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 15584,
+            "file": "components\/ILIAS\/Exercise\/Submission\/class.ilExSubmissionObjectGUI.php",
+            "line": 630,
+            "code": "$this->lng->txt(\"exc_sure_unlink_portfolio\", \"sure_unlink_portfolio\")",
+            "variable": "_",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 15982,
+            "file": "components\/ILIAS\/Exercise\/classes\/class.ilExcDeliveredFilesTableGUI.php",
+            "line": 60,
+            "code": "$this->lng->txt(\"\")",
+            "variable": "",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        }
+    ]
+}

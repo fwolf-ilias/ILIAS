@@ -1,0 +1,226 @@
+[
+    {
+        "id": 23310,
+        "file": "components\/ILIAS\/LearningHistory\/Administration\/classes\/class.ilObjLearningHistorySettingsGUI.php",
+        "line": 67,
+        "code": "$this->lng->txt('no_permission')",
+        "has_variable": false,
+        "variable": "no_permission"
+    },
+    {
+        "id": 23312,
+        "file": "components\/ILIAS\/LearningHistory\/Administration\/classes\/class.ilObjLearningHistorySettingsGUI.php",
+        "line": 100,
+        "code": "$lng->txt(\"settings\")",
+        "has_variable": false,
+        "variable": "settings"
+    },
+    {
+        "id": 23314,
+        "file": "components\/ILIAS\/LearningHistory\/Administration\/classes\/class.ilObjLearningHistorySettingsGUI.php",
+        "line": 108,
+        "code": "$lng->txt(\"perm_settings\")",
+        "has_variable": false,
+        "variable": "perm_settings"
+    },
+    {
+        "id": 23316,
+        "file": "components\/ILIAS\/LearningHistory\/Administration\/classes\/class.ilObjLearningHistorySettingsGUI.php",
+        "line": 135,
+        "code": "$lng->txt(\"lhist_enable_learning_history\")",
+        "has_variable": false,
+        "variable": "lhist_enable_learning_history"
+    },
+    {
+        "id": 23318,
+        "file": "components\/ILIAS\/LearningHistory\/Administration\/classes\/class.ilObjLearningHistorySettingsGUI.php",
+        "line": 136,
+        "code": "$lng->txt(\"lhist_enable_learning_history_info\")",
+        "has_variable": false,
+        "variable": "lhist_enable_learning_history_info"
+    },
+    {
+        "id": 23320,
+        "file": "components\/ILIAS\/LearningHistory\/Administration\/classes\/class.ilObjLearningHistorySettingsGUI.php",
+        "line": 144,
+        "code": "$lng->txt(\"settings\")",
+        "has_variable": false,
+        "variable": "settings"
+    },
+    {
+        "id": 23322,
+        "file": "components\/ILIAS\/LearningHistory\/Administration\/classes\/class.ilObjLearningHistorySettingsGUI.php",
+        "line": 165,
+        "code": "$lng->txt(\"msg_obj_modified\")",
+        "has_variable": false,
+        "variable": "msg_obj_modified"
+    },
+    {
+        "id": 23324,
+        "file": "components\/ILIAS\/LearningHistory\/Administration\/classes\/class.ilObjLearningHistorySettingsGUI.php",
+        "line": 169,
+        "code": "$lng->txt(\"no_permission\")",
+        "has_variable": false,
+        "variable": "no_permission"
+    },
+    {
+        "id": 23326,
+        "file": "components\/ILIAS\/LearningHistory\/classes\/class.ilFirstLoginLearningHistoryProvider.php",
+        "line": 41,
+        "code": "$lng->txt(\"lhist_first_login\")",
+        "has_variable": false,
+        "variable": "lhist_first_login"
+    },
+    {
+        "id": 23328,
+        "file": "components\/ILIAS\/LearningHistory\/classes\/class.ilFirstLoginLearningHistoryProvider.php",
+        "line": 58,
+        "code": "$lng->txt(\"lhist_first_login\")",
+        "has_variable": false,
+        "variable": "lhist_first_login"
+    },
+    {
+        "id": 23330,
+        "file": "components\/ILIAS\/LearningHistory\/classes\/class.ilLearningHistoryEntryCollector.php",
+        "line": 75,
+        "code": "$lng->txt(\"lhist_no_entries\")",
+        "has_variable": false,
+        "variable": "lhist_no_entries"
+    },
+    {
+        "id": 23332,
+        "file": "components\/ILIAS\/LearningHistory\/classes\/class.ilLearningHistoryEntryCollector.php",
+        "line": 76,
+        "code": "$lng->txt(\"lhist_no_entries\")",
+        "has_variable": false,
+        "variable": "lhist_no_entries"
+    },
+    {
+        "id": 23334,
+        "file": "components\/ILIAS\/LearningHistory\/classes\/class.ilLearningHistoryGUI.php",
+        "line": 109,
+        "code": "$lng->txt(\"lhist_no_entries\")",
+        "has_variable": false,
+        "variable": "lhist_no_entries"
+    },
+    {
+        "id": 23336,
+        "file": "components\/ILIAS\/LearningHistory\/classes\/class.ilLearningHistoryGUI.php",
+        "line": 234,
+        "code": "$this->lng->txt(\"lhist_show_more\")",
+        "has_variable": false,
+        "variable": "lhist_show_more"
+    },
+    {
+        "id": 23338,
+        "file": "components\/ILIAS\/LearningHistory\/classes\/class.ilPCLearningHistoryGUI.php",
+        "line": 98,
+        "code": "$this->lng->txt(\"cont_create_lhist\")",
+        "has_variable": false,
+        "variable": "cont_create_lhist"
+    },
+    {
+        "id": 23340,
+        "file": "components\/ILIAS\/LearningHistory\/classes\/class.ilPCLearningHistoryGUI.php",
+        "line": 100,
+        "code": "$this->lng->txt(\"cont_update_lhist\")",
+        "has_variable": false,
+        "variable": "cont_update_lhist"
+    },
+    {
+        "id": 23342,
+        "file": "components\/ILIAS\/LearningHistory\/classes\/class.ilPCLearningHistoryGUI.php",
+        "line": 104,
+        "code": "$lng->txt(\"lhist_period\")",
+        "has_variable": false,
+        "variable": "lhist_period"
+    },
+    {
+        "id": 23344,
+        "file": "components\/ILIAS\/LearningHistory\/classes\/class.ilPCLearningHistoryGUI.php",
+        "line": 117,
+        "code": "$lng->txt(\"lhist_type_of_achievement\")",
+        "has_variable": false,
+        "variable": "lhist_type_of_achievement"
+    },
+    {
+        "id": 23346,
+        "file": "components\/ILIAS\/LearningHistory\/classes\/class.ilPCLearningHistoryGUI.php",
+        "line": 119,
+        "code": "$lng->txt(\"lhist_all\")",
+        "has_variable": false,
+        "variable": "lhist_all"
+    },
+    {
+        "id": 23348,
+        "file": "components\/ILIAS\/LearningHistory\/classes\/class.ilPCLearningHistoryGUI.php",
+        "line": 121,
+        "code": "$lng->txt(\"lhist_selected\")",
+        "has_variable": false,
+        "variable": "lhist_selected"
+    },
+    {
+        "id": 23350,
+        "file": "components\/ILIAS\/LearningHistory\/classes\/class.ilPCLearningHistoryGUI.php",
+        "line": 131,
+        "code": "$lng->txt(\"\")",
+        "has_variable": true,
+        "variable": ""
+    },
+    {
+        "id": 23352,
+        "file": "components\/ILIAS\/LearningHistory\/classes\/class.ilPCLearningHistoryGUI.php",
+        "line": 143,
+        "code": "$this->lng->txt(\"insert\")",
+        "has_variable": false,
+        "variable": "insert"
+    },
+    {
+        "id": 23354,
+        "file": "components\/ILIAS\/LearningHistory\/classes\/class.ilPCLearningHistoryGUI.php",
+        "line": 144,
+        "code": "$this->lng->txt(\"cancel\")",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 23356,
+        "file": "components\/ILIAS\/LearningHistory\/classes\/class.ilPCLearningHistoryGUI.php",
+        "line": 146,
+        "code": "$this->lng->txt(\"save\")",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 23358,
+        "file": "components\/ILIAS\/LearningHistory\/classes\/class.ilPCLearningHistoryGUI.php",
+        "line": 147,
+        "code": "$this->lng->txt(\"cancel\")",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 23360,
+        "file": "components\/ILIAS\/LearningHistory\/classes\/class.ilPCLearningHistoryGUI.php",
+        "line": 192,
+        "code": "$this->lng->txt(\"msg_obj_modified\")",
+        "has_variable": false,
+        "variable": "msg_obj_modified"
+    },
+    {
+        "id": 23362,
+        "file": "components\/ILIAS\/LearningHistory\/classes\/class.ilPCLearningHistoryGUI.php",
+        "line": 229,
+        "code": "$lng->txt(\"lhist_lhist\")",
+        "has_variable": false,
+        "variable": "lhist_lhist"
+    },
+    {
+        "id": 23364,
+        "file": "components\/ILIAS\/LearningHistory\/classes\/class.ilPCLearningHistoryGUI.php",
+        "line": 230,
+        "code": "$lng->txt(\"lhist_cont_placeholder_text\")",
+        "has_variable": false,
+        "variable": "lhist_cont_placeholder_text"
+    }
+]

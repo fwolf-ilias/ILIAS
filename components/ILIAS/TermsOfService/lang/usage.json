@@ -1,0 +1,114 @@
+[
+    {
+        "id": 39606,
+        "file": "components\/ILIAS\/TermsOfService\/classes\/class.ilObjTermsOfServiceGUI.php",
+        "line": 74,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 39608,
+        "file": "components\/ILIAS\/TermsOfService\/classes\/class.ilObjTermsOfServiceGUI.php",
+        "line": 116,
+        "code": "$this->lng->txt('settings')",
+        "has_variable": false,
+        "variable": "settings"
+    },
+    {
+        "id": 39610,
+        "file": "components\/ILIAS\/TermsOfService\/classes\/class.ilObjTermsOfServiceGUI.php",
+        "line": 122,
+        "code": "$this->lng->txt('perm_settings')",
+        "has_variable": false,
+        "variable": "perm_settings"
+    },
+    {
+        "id": 39612,
+        "file": "components\/ILIAS\/TermsOfService\/classes\/class.ilObjTermsOfServiceGUI.php",
+        "line": 134,
+        "code": "$this->lng->txt('tos_no_documents_exist')",
+        "has_variable": false,
+        "variable": "tos_no_documents_exist"
+    },
+    {
+        "id": 39614,
+        "file": "components\/ILIAS\/TermsOfService\/classes\/class.ilObjTermsOfServiceGUI.php",
+        "line": 140,
+        "code": "$this->ui->txt('reevaluate_on_login')",
+        "has_variable": false,
+        "variable": "reevaluate_on_login"
+    },
+    {
+        "id": 39616,
+        "file": "components\/ILIAS\/TermsOfService\/classes\/class.ilObjTermsOfServiceGUI.php",
+        "line": 141,
+        "code": "$this->ui->txt('reevaluate_on_login_desc')",
+        "has_variable": false,
+        "variable": "reevaluate_on_login_desc"
+    },
+    {
+        "id": 39618,
+        "file": "components\/ILIAS\/TermsOfService\/classes\/class.ilObjTermsOfServiceGUI.php",
+        "line": 144,
+        "code": "$this->lng->txt('tos_status_enable')",
+        "has_variable": false,
+        "variable": "tos_status_enable"
+    },
+    {
+        "id": 39620,
+        "file": "components\/ILIAS\/TermsOfService\/classes\/class.ilObjTermsOfServiceGUI.php",
+        "line": 145,
+        "code": "$this->lng->txt('tos_status_desc')",
+        "has_variable": false,
+        "variable": "tos_status_desc"
+    },
+    {
+        "id": 39622,
+        "file": "components\/ILIAS\/TermsOfService\/classes\/class.ilObjTermsOfServiceGUI.php",
+        "line": 156,
+        "code": "$this->lng->txt('refresh')",
+        "has_variable": false,
+        "variable": "refresh"
+    },
+    {
+        "id": 39624,
+        "file": "components\/ILIAS\/TermsOfService\/classes\/class.ilObjTermsOfServiceGUI.php",
+        "line": 164,
+        "code": "$this->lng->txt('tos_no_documents_exist_cant_save')",
+        "has_variable": false,
+        "variable": "tos_no_documents_exist_cant_save"
+    },
+    {
+        "id": 39626,
+        "file": "components\/ILIAS\/TermsOfService\/classes\/class.ilObjTermsOfServiceGUI.php",
+        "line": 169,
+        "code": "$this->lng->txt('msg_obj_modified')",
+        "has_variable": false,
+        "variable": "msg_obj_modified"
+    },
+    {
+        "id": 39628,
+        "file": "components\/ILIAS\/TermsOfService\/classes\/class.ilObjTermsOfServiceGUI.php",
+        "line": 184,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 39630,
+        "file": "components\/ILIAS\/TermsOfService\/classes\/class.ilObjTermsOfServiceGUI.php",
+        "line": 193,
+        "code": "$this->ui->txt('no_documents_exist')",
+        "has_variable": false,
+        "variable": "no_documents_exist"
+    },
+    {
+        "id": 39632,
+        "file": "components\/ILIAS\/TermsOfService\/classes\/class.ilObjTermsOfServiceGUI.php",
+        "line": 234,
+        "code": "$this->lng->txt('msg_obj_modified')",
+        "has_variable": false,
+        "variable": "msg_obj_modified"
+    }
+]

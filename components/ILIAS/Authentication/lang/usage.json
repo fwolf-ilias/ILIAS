@@ -1,0 +1,1778 @@
+[
+    {
+        "id": 1996,
+        "file": "components\/ILIAS\/Authentication\/classes\/Cron\/class.ilAuthDestroyExpiredSessionsCron.php",
+        "line": 43,
+        "code": "$this->lng->txt('auth_cron_destroy_expired_sessions')",
+        "has_variable": false,
+        "variable": "auth_cron_destroy_expired_sessions"
+    },
+    {
+        "id": 1998,
+        "file": "components\/ILIAS\/Authentication\/classes\/Cron\/class.ilAuthDestroyExpiredSessionsCron.php",
+        "line": 48,
+        "code": "$this->lng->txt('auth_cron_destroy_expired_sessions_desc')",
+        "has_variable": false,
+        "variable": "auth_cron_destroy_expired_sessions_desc"
+    },
+    {
+        "id": 2000,
+        "file": "components\/ILIAS\/Authentication\/classes\/Form\/ApacheAuthSettingsForm.php",
+        "line": 79,
+        "code": "$this->lng->txt('apache_enable_local')",
+        "has_variable": false,
+        "variable": "apache_enable_local"
+    },
+    {
+        "id": 2002,
+        "file": "components\/ILIAS\/Authentication\/classes\/Form\/ApacheAuthSettingsForm.php",
+        "line": 82,
+        "code": "$this->lng->txt('apache_auth_indicator_name')",
+        "has_variable": false,
+        "variable": "apache_auth_indicator_name"
+    },
+    {
+        "id": 2004,
+        "file": "components\/ILIAS\/Authentication\/classes\/Form\/ApacheAuthSettingsForm.php",
+        "line": 85,
+        "code": "$this->lng->txt('apache_auth_indicator_value')",
+        "has_variable": false,
+        "variable": "apache_auth_indicator_value"
+    },
+    {
+        "id": 2006,
+        "file": "components\/ILIAS\/Authentication\/classes\/Form\/ApacheAuthSettingsForm.php",
+        "line": 89,
+        "code": "$this->lng->txt('apache_auth_authenticate_on_login_page')",
+        "has_variable": false,
+        "variable": "apache_auth_authenticate_on_login_page"
+    },
+    {
+        "id": 2008,
+        "file": "components\/ILIAS\/Authentication\/classes\/Form\/ApacheAuthSettingsForm.php",
+        "line": 93,
+        "code": "$this->lng->txt('apache_auth_username_config')",
+        "has_variable": false,
+        "variable": "apache_auth_username_config"
+    },
+    {
+        "id": 2010,
+        "file": "components\/ILIAS\/Authentication\/classes\/Form\/ApacheAuthSettingsForm.php",
+        "line": 96,
+        "code": "$this->lng->txt('apache_auth_domains')",
+        "has_variable": false,
+        "variable": "apache_auth_domains"
+    },
+    {
+        "id": 2012,
+        "file": "components\/ILIAS\/Authentication\/classes\/Form\/ApacheAuthSettingsForm.php",
+        "line": 97,
+        "code": "$this->lng->txt('apache_auth_domains_description')",
+        "has_variable": false,
+        "variable": "apache_auth_domains_description"
+    },
+    {
+        "id": 2014,
+        "file": "components\/ILIAS\/Authentication\/classes\/Form\/ApacheAuthSettingsForm.php",
+        "line": 99,
+        "code": "$this->lng->txt('apache_auth_security')",
+        "has_variable": false,
+        "variable": "apache_auth_security"
+    },
+    {
+        "id": 2016,
+        "file": "components\/ILIAS\/Authentication\/classes\/Form\/ApacheAuthSettingsForm.php",
+        "line": 115,
+        "code": "$this->lng->txt('refresh')",
+        "has_variable": false,
+        "variable": "refresh"
+    },
+    {
+        "id": 2018,
+        "file": "components\/ILIAS\/Authentication\/classes\/Form\/ApacheAuthSettingsForm.php",
+        "line": 129,
+        "code": "$this->lng->txt('apache_default_role')",
+        "has_variable": false,
+        "variable": "apache_default_role"
+    },
+    {
+        "id": 2020,
+        "file": "components\/ILIAS\/Authentication\/classes\/Form\/ApacheAuthSettingsForm.php",
+        "line": 135,
+        "code": "$this->lng->txt('apache_autocreate')",
+        "has_variable": false,
+        "variable": "apache_autocreate"
+    },
+    {
+        "id": 2022,
+        "file": "components\/ILIAS\/Authentication\/classes\/Form\/ApacheAuthSettingsForm.php",
+        "line": 139,
+        "code": "$this->lng->txt('apache_enable_auth')",
+        "has_variable": false,
+        "variable": "apache_enable_auth"
+    },
+    {
+        "id": 2024,
+        "file": "components\/ILIAS\/Authentication\/classes\/Form\/ApacheAuthSettingsForm.php",
+        "line": 158,
+        "code": "$this->lng->txt('select_one')",
+        "has_variable": false,
+        "variable": "select_one"
+    },
+    {
+        "id": 2026,
+        "file": "components\/ILIAS\/Authentication\/classes\/Form\/ApacheAuthSettingsForm.php",
+        "line": 165,
+        "code": "$this->lng->txt('auth_ldap_server_ds')",
+        "has_variable": false,
+        "variable": "auth_ldap_server_ds"
+    },
+    {
+        "id": 2028,
+        "file": "components\/ILIAS\/Authentication\/classes\/Form\/ApacheAuthSettingsForm.php",
+        "line": 167,
+        "code": "$this->lng->txt('apache_enable_ldap')",
+        "has_variable": false,
+        "variable": "apache_enable_ldap"
+    },
+    {
+        "id": 2030,
+        "file": "components\/ILIAS\/Authentication\/classes\/Form\/ApacheAuthSettingsForm.php",
+        "line": 167,
+        "code": "$this->lng->txt('apache_ldap_hint_ldap_must_be_configured')",
+        "has_variable": false,
+        "variable": "apache_ldap_hint_ldap_must_be_configured"
+    },
+    {
+        "id": 2032,
+        "file": "components\/ILIAS\/Authentication\/classes\/Form\/ApacheAuthSettingsForm.php",
+        "line": 177,
+        "code": "$this->lng->txt('apache_enable_ldap')",
+        "has_variable": false,
+        "variable": "apache_enable_ldap"
+    },
+    {
+        "id": 2034,
+        "file": "components\/ILIAS\/Authentication\/classes\/Form\/ApacheAuthSettingsForm.php",
+        "line": 178,
+        "code": "$this->lng->txt('apache_ldap_hint_ldap_must_be_configured')",
+        "has_variable": false,
+        "variable": "apache_ldap_hint_ldap_must_be_configured"
+    },
+    {
+        "id": 2036,
+        "file": "components\/ILIAS\/Authentication\/classes\/Form\/ApacheAuthSettingsForm.php",
+        "line": 188,
+        "code": "$this->lng->txt('apache_auth_target_override_login')",
+        "has_variable": false,
+        "variable": "apache_auth_target_override_login"
+    },
+    {
+        "id": 2038,
+        "file": "components\/ILIAS\/Authentication\/classes\/Form\/ApacheAuthSettingsForm.php",
+        "line": 190,
+        "code": "$this->lng->txt('apache_auth_enable_override_login')",
+        "has_variable": false,
+        "variable": "apache_auth_enable_override_login"
+    },
+    {
+        "id": 2040,
+        "file": "components\/ILIAS\/Authentication\/classes\/Form\/ApacheAuthSettingsForm.php",
+        "line": 205,
+        "code": "$this->lng->txt('apache_auth_username_direct_mapping_fieldname')",
+        "has_variable": false,
+        "variable": "apache_auth_username_direct_mapping_fieldname"
+    },
+    {
+        "id": 2042,
+        "file": "components\/ILIAS\/Authentication\/classes\/Form\/ApacheAuthSettingsForm.php",
+        "line": 207,
+        "code": "$this->lng->txt('apache_auth_username_direct_mapping')",
+        "has_variable": false,
+        "variable": "apache_auth_username_direct_mapping"
+    },
+    {
+        "id": 2044,
+        "file": "components\/ILIAS\/Authentication\/classes\/Form\/ApacheAuthSettingsForm.php",
+        "line": 208,
+        "code": "$this->lng->txt('apache_auth_username_extended_mapping')",
+        "has_variable": false,
+        "variable": "apache_auth_username_extended_mapping"
+    },
+    {
+        "id": 2046,
+        "file": "components\/ILIAS\/Authentication\/classes\/Form\/ApacheAuthSettingsForm.php",
+        "line": 209,
+        "code": "$this->lng->txt('apache_auth_username_by_function')",
+        "has_variable": false,
+        "variable": "apache_auth_username_by_function"
+    },
+    {
+        "id": 2048,
+        "file": "components\/ILIAS\/Authentication\/classes\/Form\/ApacheAuthSettingsForm.php",
+        "line": 210,
+        "code": "$this->lng->txt('apache_auth_username_config_type')",
+        "has_variable": false,
+        "variable": "apache_auth_username_config_type"
+    },
+    {
+        "id": 2050,
+        "file": "components\/ILIAS\/Authentication\/classes\/Logout\/class.ilAuthLogoutBehaviourGUI.php",
+        "line": 85,
+        "code": "$this->lng->txt('destination_logout_screen')",
+        "has_variable": false,
+        "variable": "destination_logout_screen"
+    },
+    {
+        "id": 2052,
+        "file": "components\/ILIAS\/Authentication\/classes\/Logout\/class.ilAuthLogoutBehaviourGUI.php",
+        "line": 91,
+        "code": "$this->lng->txt('destination_login_screen')",
+        "has_variable": false,
+        "variable": "destination_login_screen"
+    },
+    {
+        "id": 2054,
+        "file": "components\/ILIAS\/Authentication\/classes\/Logout\/class.ilAuthLogoutBehaviourGUI.php",
+        "line": 92,
+        "code": "$this->lng->txt('destination_login_screen_info')",
+        "has_variable": false,
+        "variable": "destination_login_screen_info"
+    },
+    {
+        "id": 2056,
+        "file": "components\/ILIAS\/Authentication\/classes\/Logout\/class.ilAuthLogoutBehaviourGUI.php",
+        "line": 96,
+        "code": "$this->lng->txt('destination_internal_ressource_ref_id')",
+        "has_variable": false,
+        "variable": "destination_internal_ressource_ref_id"
+    },
+    {
+        "id": 2058,
+        "file": "components\/ILIAS\/Authentication\/classes\/Logout\/class.ilAuthLogoutBehaviourGUI.php",
+        "line": 122,
+        "code": "$this->lng->txt('destination_internal_ressource')",
+        "has_variable": false,
+        "variable": "destination_internal_ressource"
+    },
+    {
+        "id": 2060,
+        "file": "components\/ILIAS\/Authentication\/classes\/Logout\/class.ilAuthLogoutBehaviourGUI.php",
+        "line": 127,
+        "code": "$this->lng->txt('destination_external_ressource_url')",
+        "has_variable": false,
+        "variable": "destination_external_ressource_url"
+    },
+    {
+        "id": 2062,
+        "file": "components\/ILIAS\/Authentication\/classes\/Logout\/class.ilAuthLogoutBehaviourGUI.php",
+        "line": 144,
+        "code": "$this->lng->txt('destination_external_ressource')",
+        "has_variable": false,
+        "variable": "destination_external_ressource"
+    },
+    {
+        "id": 2064,
+        "file": "components\/ILIAS\/Authentication\/classes\/Logout\/class.ilAuthLogoutBehaviourGUI.php",
+        "line": 155,
+        "code": "$this->lng->txt('destination_after_logout')",
+        "has_variable": false,
+        "variable": "destination_after_logout"
+    },
+    {
+        "id": 2066,
+        "file": "components\/ILIAS\/Authentication\/classes\/Logout\/class.ilAuthLogoutBehaviourGUI.php",
+        "line": 172,
+        "code": "$this->lng->txt('logout_behaviour_settings')",
+        "has_variable": false,
+        "variable": "logout_behaviour_settings"
+    },
+    {
+        "id": 2068,
+        "file": "components\/ILIAS\/Authentication\/classes\/Logout\/class.ilAuthLogoutBehaviourGUI.php",
+        "line": 187,
+        "code": "$this->lng->txt('refresh')",
+        "has_variable": false,
+        "variable": "refresh"
+    },
+    {
+        "id": 2070,
+        "file": "components\/ILIAS\/Authentication\/classes\/Logout\/class.ilAuthLogoutBehaviourGUI.php",
+        "line": 202,
+        "code": "$this->lng->txt('logout_behaviour_ref_id_valid_status_changed')",
+        "has_variable": false,
+        "variable": "logout_behaviour_ref_id_valid_status_changed"
+    },
+    {
+        "id": 2072,
+        "file": "components\/ILIAS\/Authentication\/classes\/Logout\/class.ilAuthLogoutBehaviourGUI.php",
+        "line": 214,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 2074,
+        "file": "components\/ILIAS\/Authentication\/classes\/Pages\/AuthPageLanguagesOverviewTable.php",
+        "line": 67,
+        "code": "$this->lng->txt($this->context->pageLanguageIdentifier(true))",
+        "has_variable": true,
+        "variable": "$this->context->pageLanguageIdentifier(true)"
+    },
+    {
+        "id": 2076,
+        "file": "components\/ILIAS\/Authentication\/classes\/Pages\/AuthPageLanguagesOverviewTable.php",
+        "line": 84,
+        "code": "$this->lng->txt($this->context->pageLanguageIdentifier())",
+        "has_variable": true,
+        "variable": "$this->context->pageLanguageIdentifier()"
+    },
+    {
+        "id": 2078,
+        "file": "components\/ILIAS\/Authentication\/classes\/Pages\/AuthPageLanguagesOverviewTable.php",
+        "line": 89,
+        "code": "$this->lng->txt('active')",
+        "has_variable": false,
+        "variable": "active"
+    },
+    {
+        "id": 2080,
+        "file": "components\/ILIAS\/Authentication\/classes\/Pages\/AuthPageLanguagesOverviewTable.php",
+        "line": 121,
+        "code": "$this->lng->txt($this->has_write_access ? 'edit' : 'preview')",
+        "has_variable": true,
+        "variable": "_"
+    },
+    {
+        "id": 2082,
+        "file": "components\/ILIAS\/Authentication\/classes\/Pages\/AuthPageLanguagesOverviewTable.php",
+        "line": 128,
+        "code": "$this->lng->txt('page_design_activate')",
+        "has_variable": false,
+        "variable": "page_design_activate"
+    },
+    {
+        "id": 2084,
+        "file": "components\/ILIAS\/Authentication\/classes\/Pages\/AuthPageLanguagesOverviewTable.php",
+        "line": 134,
+        "code": "$this->lng->txt('page_design_deactivate')",
+        "has_variable": false,
+        "variable": "page_design_deactivate"
+    },
+    {
+        "id": 2086,
+        "file": "components\/ILIAS\/Authentication\/classes\/Pages\/AuthPageLanguagesOverviewTable.php",
+        "line": 158,
+        "code": "$this->lng->txt('meta_l_' . $langkey)",
+        "has_variable": true,
+        "variable": "'meta_l_' . $langkey"
+    },
+    {
+        "id": 2088,
+        "file": "components\/ILIAS\/Authentication\/classes\/Pages\/AuthPageLanguagesOverviewTable.php",
+        "line": 170,
+        "code": "$this->lng->txt('active')",
+        "has_variable": false,
+        "variable": "active"
+    },
+    {
+        "id": 2090,
+        "file": "components\/ILIAS\/Authentication\/classes\/Pages\/AuthPageLanguagesOverviewTable.php",
+        "line": 176,
+        "code": "$this->lng->txt('inactive')",
+        "has_variable": false,
+        "variable": "inactive"
+    },
+    {
+        "id": 2092,
+        "file": "components\/ILIAS\/Authentication\/classes\/Password\/class.ilLocalUserPasswordSettingsGUI.php",
+        "line": 67,
+        "code": "$this->lng->txt('chg_password')",
+        "has_variable": false,
+        "variable": "chg_password"
+    },
+    {
+        "id": 2094,
+        "file": "components\/ILIAS\/Authentication\/classes\/Password\/class.ilLocalUserPasswordSettingsGUI.php",
+        "line": 74,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 2096,
+        "file": "components\/ILIAS\/Authentication\/classes\/Password\/class.ilLocalUserPasswordSettingsGUI.php",
+        "line": 90,
+        "code": "$this->lng->txt('password_change_on_first_login_demand')",
+        "has_variable": false,
+        "variable": "password_change_on_first_login_demand"
+    },
+    {
+        "id": 2098,
+        "file": "components\/ILIAS\/Authentication\/classes\/Password\/class.ilLocalUserPasswordSettingsGUI.php",
+        "line": 93,
+        "code": "$this->lng->txt('password_expired')",
+        "has_variable": false,
+        "variable": "password_expired"
+    },
+    {
+        "id": 2100,
+        "file": "components\/ILIAS\/Authentication\/classes\/Password\/class.ilLocalUserPasswordSettingsGUI.php",
+        "line": 119,
+        "code": "$this->lng->txt('passwd_invalid')",
+        "has_variable": false,
+        "variable": "passwd_invalid"
+    },
+    {
+        "id": 2102,
+        "file": "components\/ILIAS\/Authentication\/classes\/Password\/class.ilLocalUserPasswordSettingsGUI.php",
+        "line": 136,
+        "code": "$this->lng->txt($error_lng_var ?? '')",
+        "has_variable": true,
+        "variable": "_"
+    },
+    {
+        "id": 2104,
+        "file": "components\/ILIAS\/Authentication\/classes\/Password\/class.ilLocalUserPasswordSettingsGUI.php",
+        "line": 162,
+        "code": "$this->lng->txt(self::CURRENT_PASSWORD)",
+        "has_variable": true,
+        "variable": "CURRENT_PASSWORD"
+    },
+    {
+        "id": 2106,
+        "file": "components\/ILIAS\/Authentication\/classes\/Password\/class.ilLocalUserPasswordSettingsGUI.php",
+        "line": 178,
+        "code": "$this->lng->txt('passwd_wrong')",
+        "has_variable": false,
+        "variable": "passwd_wrong"
+    },
+    {
+        "id": 2108,
+        "file": "components\/ILIAS\/Authentication\/classes\/Password\/class.ilLocalUserPasswordSettingsGUI.php",
+        "line": 195,
+        "code": "$this->lng->txt('desired_password')",
+        "has_variable": false,
+        "variable": "desired_password"
+    },
+    {
+        "id": 2110,
+        "file": "components\/ILIAS\/Authentication\/classes\/Password\/class.ilLocalUserPasswordSettingsGUI.php",
+        "line": 214,
+        "code": "$this->lng->txt('new_pass_equals_old_pass')",
+        "has_variable": false,
+        "variable": "new_pass_equals_old_pass"
+    },
+    {
+        "id": 2112,
+        "file": "components\/ILIAS\/Authentication\/classes\/Password\/class.ilLocalUserPasswordSettingsGUI.php",
+        "line": 227,
+        "code": "$this->lng->txt('chg_password')",
+        "has_variable": false,
+        "variable": "chg_password"
+    },
+    {
+        "id": 2114,
+        "file": "components\/ILIAS\/Authentication\/classes\/Password\/class.ilLocalUserPasswordSettingsGUI.php",
+        "line": 232,
+        "code": "$this->lng->txt('chg_ilias_password')",
+        "has_variable": false,
+        "variable": "chg_ilias_password"
+    },
+    {
+        "id": 2116,
+        "file": "components\/ILIAS\/Authentication\/classes\/Password\/class.ilLocalUserPasswordSettingsGUI.php",
+        "line": 250,
+        "code": "$this->lng->txt('save')",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 2118,
+        "file": "components\/ILIAS\/Authentication\/classes\/Password\/class.ilLocalUserPasswordSettingsGUI.php",
+        "line": 282,
+        "code": "$this->lng->txt('saved_successfully')",
+        "has_variable": false,
+        "variable": "saved_successfully"
+    },
+    {
+        "id": 2120,
+        "file": "components\/ILIAS\/Authentication\/classes\/Password\/class.ilLocalUserPasswordSettingsGUI.php",
+        "line": 292,
+        "code": "$this->lng->txt('saved_successfully')",
+        "has_variable": false,
+        "variable": "saved_successfully"
+    },
+    {
+        "id": 2122,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilAuthPageEditorGUI.php",
+        "line": 122,
+        "code": "$this->lng->txt('back')",
+        "has_variable": false,
+        "variable": "back"
+    },
+    {
+        "id": 2124,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilAuthPageEditorGUI.php",
+        "line": 153,
+        "code": "$this->lng->txt('language_does_not_exist')",
+        "has_variable": false,
+        "variable": "language_does_not_exist"
+    },
+    {
+        "id": 2126,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilAuthPageEditorGUI.php",
+        "line": 222,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 2128,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilAuthPageEditorGUI.php",
+        "line": 278,
+        "code": "$this->lng->txt('settings_saved')",
+        "has_variable": false,
+        "variable": "settings_saved"
+    },
+    {
+        "id": 2130,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilAuthPageEditorGUI.php",
+        "line": 295,
+        "code": "$this->lng->txt('settings_saved')",
+        "has_variable": false,
+        "variable": "settings_saved"
+    },
+    {
+        "id": 2132,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilAuthStatus.php",
+        "line": 110,
+        "code": "$this->lng->txt($this->getReason())",
+        "has_variable": true,
+        "variable": "$this->getReason()"
+    },
+    {
+        "id": 2134,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilAuthUtils.php",
+        "line": 403,
+        "code": "$lng->txt('authenticate_ilias')",
+        "has_variable": false,
+        "variable": "authenticate_ilias"
+    },
+    {
+        "id": 2136,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilAuthUtils.php",
+        "line": 416,
+        "code": "$lng->txt('apache_auth')",
+        "has_variable": false,
+        "variable": "apache_auth"
+    },
+    {
+        "id": 2138,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilAuthUtils.php",
+        "line": 647,
+        "code": "$lng->txt('auth_' . $auth_name)",
+        "has_variable": true,
+        "variable": "'auth_' . $auth_name"
+    },
+    {
+        "id": 2140,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilAuthUtils.php",
+        "line": 650,
+        "code": "$lng->txt('auth_' . self::_getAuthModeName($a_auth_key))",
+        "has_variable": true,
+        "variable": "'auth_' . self::_getAuthModeName($a_auth_key)"
+    },
+    {
+        "id": 2142,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilObjAuthSettingsGUI.php",
+        "line": 70,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 2144,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilObjAuthSettingsGUI.php",
+        "line": 81,
+        "code": "$this->lng->txt('auth_mode')",
+        "has_variable": false,
+        "variable": "auth_mode"
+    },
+    {
+        "id": 2146,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilObjAuthSettingsGUI.php",
+        "line": 82,
+        "code": "$this->lng->txt('default')",
+        "has_variable": false,
+        "variable": "default"
+    },
+    {
+        "id": 2148,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilObjAuthSettingsGUI.php",
+        "line": 83,
+        "code": "$this->lng->txt('active')",
+        "has_variable": false,
+        "variable": "active"
+    },
+    {
+        "id": 2150,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilObjAuthSettingsGUI.php",
+        "line": 84,
+        "code": "$this->lng->txt('num_users')",
+        "has_variable": false,
+        "variable": "num_users"
+    },
+    {
+        "id": 2152,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilObjAuthSettingsGUI.php",
+        "line": 86,
+        "code": "$this->lng->txt('auth_local')",
+        "has_variable": false,
+        "variable": "auth_local"
+    },
+    {
+        "id": 2154,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilObjAuthSettingsGUI.php",
+        "line": 87,
+        "code": "$this->lng->txt('auth_ldap')",
+        "has_variable": false,
+        "variable": "auth_ldap"
+    },
+    {
+        "id": 2156,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilObjAuthSettingsGUI.php",
+        "line": 88,
+        "code": "$this->lng->txt('auth_shib')",
+        "has_variable": false,
+        "variable": "auth_shib"
+    },
+    {
+        "id": 2158,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilObjAuthSettingsGUI.php",
+        "line": 90,
+        "code": "$this->lng->txt('auth_script')",
+        "has_variable": false,
+        "variable": "auth_script"
+    },
+    {
+        "id": 2160,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilObjAuthSettingsGUI.php",
+        "line": 92,
+        "code": "$this->lng->txt('auth_apache')",
+        "has_variable": false,
+        "variable": "auth_apache"
+    },
+    {
+        "id": 2162,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilObjAuthSettingsGUI.php",
+        "line": 108,
+        "code": "$this->lng->txt('enabled')",
+        "has_variable": false,
+        "variable": "enabled"
+    },
+    {
+        "id": 2164,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilObjAuthSettingsGUI.php",
+        "line": 114,
+        "code": "$this->lng->txt('disabled')",
+        "has_variable": false,
+        "variable": "disabled"
+    },
+    {
+        "id": 2166,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilObjAuthSettingsGUI.php",
+        "line": 138,
+        "code": "$this->lng->txt('auth_' . $mode_name)",
+        "has_variable": true,
+        "variable": "'auth_' . $mode_name"
+    },
+    {
+        "id": 2168,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilObjAuthSettingsGUI.php",
+        "line": 144,
+        "code": "$this->lng->txt('auth_' . $mode_name)",
+        "has_variable": true,
+        "variable": "'auth_' . $mode_name"
+    },
+    {
+        "id": 2170,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilObjAuthSettingsGUI.php",
+        "line": 159,
+        "code": "$this->lng->txt('auth_per_default')",
+        "has_variable": false,
+        "variable": "auth_per_default"
+    },
+    {
+        "id": 2172,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilObjAuthSettingsGUI.php",
+        "line": 178,
+        "code": "$this->lng->txt('auth_configure')",
+        "has_variable": false,
+        "variable": "auth_configure"
+    },
+    {
+        "id": 2174,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilObjAuthSettingsGUI.php",
+        "line": 181,
+        "code": "$this->lng->txt('auth_remark_non_local_auth')",
+        "has_variable": false,
+        "variable": "auth_remark_non_local_auth"
+    },
+    {
+        "id": 2176,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilObjAuthSettingsGUI.php",
+        "line": 183,
+        "code": "$this->lng->txt('save')",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 2178,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilObjAuthSettingsGUI.php",
+        "line": 190,
+        "code": "$this->lng->txt('auth_select')",
+        "has_variable": false,
+        "variable": "auth_select"
+    },
+    {
+        "id": 2180,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilObjAuthSettingsGUI.php",
+        "line": 193,
+        "code": "$this->lng->txt('auth_mode_default_change_info')",
+        "has_variable": false,
+        "variable": "auth_mode_default_change_info"
+    },
+    {
+        "id": 2182,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilObjAuthSettingsGUI.php",
+        "line": 203,
+        "code": "$this->lng->txt('auth_auth_mode_determination')",
+        "has_variable": false,
+        "variable": "auth_auth_mode_determination"
+    },
+    {
+        "id": 2184,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilObjAuthSettingsGUI.php",
+        "line": 209,
+        "code": "$this->lng->txt('auth_active_roles')",
+        "has_variable": false,
+        "variable": "auth_active_roles"
+    },
+    {
+        "id": 2186,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilObjAuthSettingsGUI.php",
+        "line": 251,
+        "code": "$this->lng->txt('auth_' . $auth_name)",
+        "has_variable": true,
+        "variable": "'auth_' . $auth_name"
+    },
+    {
+        "id": 2188,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilObjAuthSettingsGUI.php",
+        "line": 251,
+        "code": "$this->lng->txt(\n                        'auth_' . ilAuthUtils::_getAuthModeName($auth_key)\n                    )",
+        "has_variable": true,
+        "variable": "'auth_' . ilAuthUtils::_getAuthModeName($auth_key)"
+    },
+    {
+        "id": 2190,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilObjAuthSettingsGUI.php",
+        "line": 255,
+        "code": "$this->lng->txt('auth_' . $auth_name)",
+        "has_variable": true,
+        "variable": "'auth_' . $auth_name"
+    },
+    {
+        "id": 2192,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilObjAuthSettingsGUI.php",
+        "line": 277,
+        "code": "$this->lng->txt('auth_role_auth_mode')",
+        "has_variable": false,
+        "variable": "auth_role_auth_mode"
+    },
+    {
+        "id": 2194,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilObjAuthSettingsGUI.php",
+        "line": 298,
+        "code": "$this->lng->txt('refresh')",
+        "has_variable": false,
+        "variable": "refresh"
+    },
+    {
+        "id": 2196,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilObjAuthSettingsGUI.php",
+        "line": 307,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 2198,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilObjAuthSettingsGUI.php",
+        "line": 322,
+        "code": "$this->lng->txt('err_wrong_login')",
+        "has_variable": false,
+        "variable": "err_wrong_login"
+    },
+    {
+        "id": 2200,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilObjAuthSettingsGUI.php",
+        "line": 336,
+        "code": "$this->lng->txt('auth_mode_roles_changed')",
+        "has_variable": false,
+        "variable": "auth_mode_roles_changed"
+    },
+    {
+        "id": 2202,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilObjAuthSettingsGUI.php",
+        "line": 363,
+        "code": "$this->lng->txt('auth_local')",
+        "has_variable": false,
+        "variable": "auth_local"
+    },
+    {
+        "id": 2204,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilObjAuthSettingsGUI.php",
+        "line": 366,
+        "code": "$this->lng->txt('auth_soap')",
+        "has_variable": false,
+        "variable": "auth_soap"
+    },
+    {
+        "id": 2206,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilObjAuthSettingsGUI.php",
+        "line": 369,
+        "code": "$this->lng->txt('auth_apache')",
+        "has_variable": false,
+        "variable": "auth_apache"
+    },
+    {
+        "id": 2208,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilObjAuthSettingsGUI.php",
+        "line": 394,
+        "code": "$this->lng->txt('auth_by_user')",
+        "has_variable": false,
+        "variable": "auth_by_user"
+    },
+    {
+        "id": 2210,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilObjAuthSettingsGUI.php",
+        "line": 403,
+        "code": "$this->lng->txt('auth_automatic')",
+        "has_variable": false,
+        "variable": "auth_automatic"
+    },
+    {
+        "id": 2212,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilObjAuthSettingsGUI.php",
+        "line": 415,
+        "code": "$this->lng->txt('auth_kind_determination')",
+        "has_variable": false,
+        "variable": "auth_kind_determination"
+    },
+    {
+        "id": 2214,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilObjAuthSettingsGUI.php",
+        "line": 416,
+        "code": "$this->lng->txt('auth_mode_determination_info')",
+        "has_variable": false,
+        "variable": "auth_mode_determination_info"
+    },
+    {
+        "id": 2216,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilObjAuthSettingsGUI.php",
+        "line": 457,
+        "code": "$this->lng->txt('refresh')",
+        "has_variable": false,
+        "variable": "refresh"
+    },
+    {
+        "id": 2218,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilObjAuthSettingsGUI.php",
+        "line": 466,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 2220,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilObjAuthSettingsGUI.php",
+        "line": 486,
+        "code": "$this->lng->txt('err_wrong_login')",
+        "has_variable": false,
+        "variable": "err_wrong_login"
+    },
+    {
+        "id": 2222,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilObjAuthSettingsGUI.php",
+        "line": 512,
+        "code": "$this->lng->txt('settings_saved')",
+        "has_variable": false,
+        "variable": "settings_saved"
+    },
+    {
+        "id": 2224,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilObjAuthSettingsGUI.php",
+        "line": 526,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 2226,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilObjAuthSettingsGUI.php",
+        "line": 531,
+        "code": "$this->lng->txt('auth_err_no_mode_selected')",
+        "has_variable": false,
+        "variable": "auth_err_no_mode_selected"
+    },
+    {
+        "id": 2228,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilObjAuthSettingsGUI.php",
+        "line": 539,
+        "code": "$this->lng->txt('auth_mode')",
+        "has_variable": false,
+        "variable": "auth_mode"
+    },
+    {
+        "id": 2230,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilObjAuthSettingsGUI.php",
+        "line": 539,
+        "code": "$this->lng->txt(\n                    'auth_mode_not_changed'\n                )",
+        "has_variable": false,
+        "variable": "auth_mode_not_changed"
+    },
+    {
+        "id": 2232,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilObjAuthSettingsGUI.php",
+        "line": 554,
+        "code": "$this->lng->txt('auth_shib_not_configured')",
+        "has_variable": false,
+        "variable": "auth_shib_not_configured"
+    },
+    {
+        "id": 2234,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilObjAuthSettingsGUI.php",
+        "line": 572,
+        "code": "$this->lng->txt('auth_script_not_configured')",
+        "has_variable": false,
+        "variable": "auth_script_not_configured"
+    },
+    {
+        "id": 2236,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilObjAuthSettingsGUI.php",
+        "line": 587,
+        "code": "$this->lng->txt('auth_default_mode_changed_to')",
+        "has_variable": false,
+        "variable": "auth_default_mode_changed_to"
+    },
+    {
+        "id": 2238,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilObjAuthSettingsGUI.php",
+        "line": 607,
+        "code": "$this->lng->txt('active')",
+        "has_variable": false,
+        "variable": "active"
+    },
+    {
+        "id": 2240,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilObjAuthSettingsGUI.php",
+        "line": 614,
+        "code": "$this->lng->txt('server')",
+        "has_variable": false,
+        "variable": "server"
+    },
+    {
+        "id": 2242,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilObjAuthSettingsGUI.php",
+        "line": 615,
+        "code": "$this->lng->txt('auth_soap_server_desc')",
+        "has_variable": false,
+        "variable": "auth_soap_server_desc"
+    },
+    {
+        "id": 2244,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilObjAuthSettingsGUI.php",
+        "line": 625,
+        "code": "$this->lng->txt('port')",
+        "has_variable": false,
+        "variable": "port"
+    },
+    {
+        "id": 2246,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilObjAuthSettingsGUI.php",
+        "line": 626,
+        "code": "$this->lng->txt('auth_soap_port_desc')",
+        "has_variable": false,
+        "variable": "auth_soap_port_desc"
+    },
+    {
+        "id": 2248,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilObjAuthSettingsGUI.php",
+        "line": 637,
+        "code": "$this->lng->txt('auth_soap_use_https')",
+        "has_variable": false,
+        "variable": "auth_soap_use_https"
+    },
+    {
+        "id": 2250,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilObjAuthSettingsGUI.php",
+        "line": 644,
+        "code": "$this->lng->txt('uri')",
+        "has_variable": false,
+        "variable": "uri"
+    },
+    {
+        "id": 2252,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilObjAuthSettingsGUI.php",
+        "line": 645,
+        "code": "$this->lng->txt('auth_soap_uri_desc')",
+        "has_variable": false,
+        "variable": "auth_soap_uri_desc"
+    },
+    {
+        "id": 2254,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilObjAuthSettingsGUI.php",
+        "line": 654,
+        "code": "$this->lng->txt('auth_soap_namespace')",
+        "has_variable": false,
+        "variable": "auth_soap_namespace"
+    },
+    {
+        "id": 2256,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilObjAuthSettingsGUI.php",
+        "line": 655,
+        "code": "$this->lng->txt('auth_soap_namespace_desc')",
+        "has_variable": false,
+        "variable": "auth_soap_namespace_desc"
+    },
+    {
+        "id": 2258,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilObjAuthSettingsGUI.php",
+        "line": 663,
+        "code": "$this->lng->txt('auth_soap_use_dotnet')",
+        "has_variable": false,
+        "variable": "auth_soap_use_dotnet"
+    },
+    {
+        "id": 2260,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilObjAuthSettingsGUI.php",
+        "line": 670,
+        "code": "$this->lng->txt('auth_create_users')",
+        "has_variable": false,
+        "variable": "auth_create_users"
+    },
+    {
+        "id": 2262,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilObjAuthSettingsGUI.php",
+        "line": 671,
+        "code": "$this->lng->txt('auth_soap_create_users_desc')",
+        "has_variable": false,
+        "variable": "auth_soap_create_users_desc"
+    },
+    {
+        "id": 2264,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilObjAuthSettingsGUI.php",
+        "line": 679,
+        "code": "$this->lng->txt('user_send_new_account_mail')",
+        "has_variable": false,
+        "variable": "user_send_new_account_mail"
+    },
+    {
+        "id": 2266,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilObjAuthSettingsGUI.php",
+        "line": 680,
+        "code": "$this->lng->txt('auth_new_account_mail_desc')",
+        "has_variable": false,
+        "variable": "auth_new_account_mail_desc"
+    },
+    {
+        "id": 2268,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilObjAuthSettingsGUI.php",
+        "line": 688,
+        "code": "$this->lng->txt('auth_user_default_role')",
+        "has_variable": false,
+        "variable": "auth_user_default_role"
+    },
+    {
+        "id": 2270,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilObjAuthSettingsGUI.php",
+        "line": 690,
+        "code": "$this->lng->txt('auth_soap_user_default_role_desc')",
+        "has_variable": false,
+        "variable": "auth_soap_user_default_role_desc"
+    },
+    {
+        "id": 2272,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilObjAuthSettingsGUI.php",
+        "line": 699,
+        "code": "$this->lng->txt('auth_allow_local')",
+        "has_variable": false,
+        "variable": "auth_allow_local"
+    },
+    {
+        "id": 2274,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilObjAuthSettingsGUI.php",
+        "line": 700,
+        "code": "$this->lng->txt('auth_soap_allow_local_desc')",
+        "has_variable": false,
+        "variable": "auth_soap_allow_local_desc"
+    },
+    {
+        "id": 2276,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilObjAuthSettingsGUI.php",
+        "line": 731,
+        "code": "$this->lng->txt('refresh')",
+        "has_variable": false,
+        "variable": "refresh"
+    },
+    {
+        "id": 2278,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilObjAuthSettingsGUI.php",
+        "line": 755,
+        "code": "$this->lng->txt('send')",
+        "has_variable": false,
+        "variable": "send"
+    },
+    {
+        "id": 2280,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilObjAuthSettingsGUI.php",
+        "line": 761,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 2282,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilObjAuthSettingsGUI.php",
+        "line": 780,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 2284,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilObjAuthSettingsGUI.php",
+        "line": 813,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 2286,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilObjAuthSettingsGUI.php",
+        "line": 839,
+        "code": "$this->lng->txt('auth_soap_settings_saved')",
+        "has_variable": false,
+        "variable": "auth_soap_settings_saved"
+    },
+    {
+        "id": 2288,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilObjAuthSettingsGUI.php",
+        "line": 853,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 2290,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilObjAuthSettingsGUI.php",
+        "line": 875,
+        "code": "$this->lng->txt('auth_script_configure')",
+        "has_variable": false,
+        "variable": "auth_script_configure"
+    },
+    {
+        "id": 2292,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilObjAuthSettingsGUI.php",
+        "line": 876,
+        "code": "$this->lng->txt('options')",
+        "has_variable": false,
+        "variable": "options"
+    },
+    {
+        "id": 2294,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilObjAuthSettingsGUI.php",
+        "line": 877,
+        "code": "$this->lng->txt('auth_script_name')",
+        "has_variable": false,
+        "variable": "auth_script_name"
+    },
+    {
+        "id": 2296,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilObjAuthSettingsGUI.php",
+        "line": 879,
+        "code": "$this->lng->txt('required_field')",
+        "has_variable": false,
+        "variable": "required_field"
+    },
+    {
+        "id": 2298,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilObjAuthSettingsGUI.php",
+        "line": 880,
+        "code": "$this->lng->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 2300,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilObjAuthSettingsGUI.php",
+        "line": 881,
+        "code": "$this->lng->txt('save')",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 2302,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilObjAuthSettingsGUI.php",
+        "line": 888,
+        "code": "$this->lng->txt('fill_out_all_required_fields')",
+        "has_variable": false,
+        "variable": "fill_out_all_required_fields"
+    },
+    {
+        "id": 2304,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilObjAuthSettingsGUI.php",
+        "line": 896,
+        "code": "$this->lng->txt('auth_mode_changed_to')",
+        "has_variable": false,
+        "variable": "auth_mode_changed_to"
+    },
+    {
+        "id": 2306,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilObjAuthSettingsGUI.php",
+        "line": 905,
+        "code": "$this->lng->txt('auth_local')",
+        "has_variable": false,
+        "variable": "auth_local"
+    },
+    {
+        "id": 2308,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilObjAuthSettingsGUI.php",
+        "line": 906,
+        "code": "$this->lng->txt('auth_ldap')",
+        "has_variable": false,
+        "variable": "auth_ldap"
+    },
+    {
+        "id": 2310,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilObjAuthSettingsGUI.php",
+        "line": 907,
+        "code": "$this->lng->txt('auth_shib')",
+        "has_variable": false,
+        "variable": "auth_shib"
+    },
+    {
+        "id": 2312,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilObjAuthSettingsGUI.php",
+        "line": 908,
+        "code": "$this->lng->txt('auth_saml')",
+        "has_variable": false,
+        "variable": "auth_saml"
+    },
+    {
+        "id": 2314,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilObjAuthSettingsGUI.php",
+        "line": 909,
+        "code": "$this->lng->txt('auth_script')",
+        "has_variable": false,
+        "variable": "auth_script"
+    },
+    {
+        "id": 2316,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilObjAuthSettingsGUI.php",
+        "line": 910,
+        "code": "$this->lng->txt('auth_apache')",
+        "has_variable": false,
+        "variable": "auth_apache"
+    },
+    {
+        "id": 2318,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilObjAuthSettingsGUI.php",
+        "line": 911,
+        "code": "$this->lng->txt('unknown')",
+        "has_variable": false,
+        "variable": "unknown"
+    },
+    {
+        "id": 2320,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilObjAuthSettingsGUI.php",
+        "line": 922,
+        "code": "$this->lng->txt('msg_no_perm_read')",
+        "has_variable": false,
+        "variable": "msg_no_perm_read"
+    },
+    {
+        "id": 2322,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilObjAuthSettingsGUI.php",
+        "line": 1073,
+        "code": "$this->lng->txt('auth_oidconnect')",
+        "has_variable": false,
+        "variable": "auth_oidconnect"
+    },
+    {
+        "id": 2324,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilObjAuthSettingsGUI.php",
+        "line": 1127,
+        "code": "$this->lng->txt('cont_style')",
+        "has_variable": false,
+        "variable": "cont_style"
+    },
+    {
+        "id": 2326,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilObjAuthSettingsGUI.php",
+        "line": 1157,
+        "code": "$this->lng->txt('apache_settings')",
+        "has_variable": false,
+        "variable": "apache_settings"
+    },
+    {
+        "id": 2328,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilObjAuthSettingsGUI.php",
+        "line": 1228,
+        "code": "$this->lng->txt('apache_settings_changed_success')",
+        "has_variable": false,
+        "variable": "apache_settings_changed_success"
+    },
+    {
+        "id": 2330,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilSessionReminderCheck.php",
+        "line": 142,
+        "code": "$this->lng->txt('session_reminder_alert')",
+        "has_variable": false,
+        "variable": "session_reminder_alert"
+    },
+    {
+        "id": 2332,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilSessionStatisticsGUI.php",
+        "line": 127,
+        "code": "$this->lng->txt('trac_current_system_load')",
+        "has_variable": false,
+        "variable": "trac_current_system_load"
+    },
+    {
+        "id": 2334,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilSessionStatisticsGUI.php",
+        "line": 132,
+        "code": "$this->lng->txt('trac_short_system_load')",
+        "has_variable": false,
+        "variable": "trac_short_system_load"
+    },
+    {
+        "id": 2336,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilSessionStatisticsGUI.php",
+        "line": 137,
+        "code": "$this->lng->txt('trac_long_system_load')",
+        "has_variable": false,
+        "variable": "trac_long_system_load"
+    },
+    {
+        "id": 2338,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilSessionStatisticsGUI.php",
+        "line": 142,
+        "code": "$this->lng->txt('trac_periodic_system_load')",
+        "has_variable": false,
+        "variable": "trac_periodic_system_load"
+    },
+    {
+        "id": 2340,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilSessionStatisticsGUI.php",
+        "line": 193,
+        "code": "$this->lng->txt('trac_session_statistics_mode_today')",
+        "has_variable": false,
+        "variable": "trac_session_statistics_mode_today"
+    },
+    {
+        "id": 2342,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilSessionStatisticsGUI.php",
+        "line": 194,
+        "code": "$this->lng->txt('trac_session_statistics_mode_last_day')",
+        "has_variable": false,
+        "variable": "trac_session_statistics_mode_last_day"
+    },
+    {
+        "id": 2344,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilSessionStatisticsGUI.php",
+        "line": 195,
+        "code": "$this->lng->txt('trac_session_statistics_mode_last_week')",
+        "has_variable": false,
+        "variable": "trac_session_statistics_mode_last_week"
+    },
+    {
+        "id": 2346,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilSessionStatisticsGUI.php",
+        "line": 196,
+        "code": "$this->lng->txt('trac_session_statistics_mode_last_month')",
+        "has_variable": false,
+        "variable": "trac_session_statistics_mode_last_month"
+    },
+    {
+        "id": 2348,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilSessionStatisticsGUI.php",
+        "line": 199,
+        "code": "$this->lng->txt('trac_current_system_load')",
+        "has_variable": false,
+        "variable": "trac_current_system_load"
+    },
+    {
+        "id": 2350,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilSessionStatisticsGUI.php",
+        "line": 206,
+        "code": "$this->lng->txt('trac_scale')",
+        "has_variable": false,
+        "variable": "trac_scale"
+    },
+    {
+        "id": 2352,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilSessionStatisticsGUI.php",
+        "line": 212,
+        "code": "$this->lng->txt('trac_session_active_avg')",
+        "has_variable": false,
+        "variable": "trac_session_active_avg"
+    },
+    {
+        "id": 2354,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilSessionStatisticsGUI.php",
+        "line": 213,
+        "code": "$this->lng->txt('trac_session_active_min')",
+        "has_variable": false,
+        "variable": "trac_session_active_min"
+    },
+    {
+        "id": 2356,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilSessionStatisticsGUI.php",
+        "line": 214,
+        "code": "$this->lng->txt('trac_session_active_max')",
+        "has_variable": false,
+        "variable": "trac_session_active_max"
+    },
+    {
+        "id": 2358,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilSessionStatisticsGUI.php",
+        "line": 217,
+        "code": "$this->lng->txt('trac_measure')",
+        "has_variable": false,
+        "variable": "trac_measure"
+    },
+    {
+        "id": 2360,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilSessionStatisticsGUI.php",
+        "line": 222,
+        "code": "$this->lng->txt('ok')",
+        "has_variable": false,
+        "variable": "ok"
+    },
+    {
+        "id": 2362,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilSessionStatisticsGUI.php",
+        "line": 226,
+        "code": "$this->lng->txt('export')",
+        "has_variable": false,
+        "variable": "export"
+    },
+    {
+        "id": 2364,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilSessionStatisticsGUI.php",
+        "line": 293,
+        "code": "$this->lng->txt('trac_session_statistics_mode_day')",
+        "has_variable": false,
+        "variable": "trac_session_statistics_mode_day"
+    },
+    {
+        "id": 2366,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilSessionStatisticsGUI.php",
+        "line": 294,
+        "code": "$this->lng->txt('trac_session_statistics_mode_week')",
+        "has_variable": false,
+        "variable": "trac_session_statistics_mode_week"
+    },
+    {
+        "id": 2368,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilSessionStatisticsGUI.php",
+        "line": 297,
+        "code": "$this->lng->txt('trac_short_system_load')",
+        "has_variable": false,
+        "variable": "trac_short_system_load"
+    },
+    {
+        "id": 2370,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilSessionStatisticsGUI.php",
+        "line": 304,
+        "code": "$this->lng->txt('trac_end_at')",
+        "has_variable": false,
+        "variable": "trac_end_at"
+    },
+    {
+        "id": 2372,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilSessionStatisticsGUI.php",
+        "line": 308,
+        "code": "$this->lng->txt('trac_scale')",
+        "has_variable": false,
+        "variable": "trac_scale"
+    },
+    {
+        "id": 2374,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilSessionStatisticsGUI.php",
+        "line": 314,
+        "code": "$this->lng->txt('trac_session_active_avg')",
+        "has_variable": false,
+        "variable": "trac_session_active_avg"
+    },
+    {
+        "id": 2376,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilSessionStatisticsGUI.php",
+        "line": 315,
+        "code": "$this->lng->txt('trac_session_active_min')",
+        "has_variable": false,
+        "variable": "trac_session_active_min"
+    },
+    {
+        "id": 2378,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilSessionStatisticsGUI.php",
+        "line": 316,
+        "code": "$this->lng->txt('trac_session_active_max')",
+        "has_variable": false,
+        "variable": "trac_session_active_max"
+    },
+    {
+        "id": 2380,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilSessionStatisticsGUI.php",
+        "line": 319,
+        "code": "$this->lng->txt('trac_measure')",
+        "has_variable": false,
+        "variable": "trac_measure"
+    },
+    {
+        "id": 2382,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilSessionStatisticsGUI.php",
+        "line": 324,
+        "code": "$this->lng->txt('ok')",
+        "has_variable": false,
+        "variable": "ok"
+    },
+    {
+        "id": 2384,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilSessionStatisticsGUI.php",
+        "line": 328,
+        "code": "$this->lng->txt('export')",
+        "has_variable": false,
+        "variable": "export"
+    },
+    {
+        "id": 2386,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilSessionStatisticsGUI.php",
+        "line": 376,
+        "code": "$this->lng->txt('trac_session_statistics_mode_week')",
+        "has_variable": false,
+        "variable": "trac_session_statistics_mode_week"
+    },
+    {
+        "id": 2388,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilSessionStatisticsGUI.php",
+        "line": 377,
+        "code": "$this->lng->txt('trac_session_statistics_mode_month')",
+        "has_variable": false,
+        "variable": "trac_session_statistics_mode_month"
+    },
+    {
+        "id": 2390,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilSessionStatisticsGUI.php",
+        "line": 378,
+        "code": "$this->lng->txt('trac_session_statistics_mode_year')",
+        "has_variable": false,
+        "variable": "trac_session_statistics_mode_year"
+    },
+    {
+        "id": 2392,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilSessionStatisticsGUI.php",
+        "line": 381,
+        "code": "$this->lng->txt('trac_long_system_load')",
+        "has_variable": false,
+        "variable": "trac_long_system_load"
+    },
+    {
+        "id": 2394,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilSessionStatisticsGUI.php",
+        "line": 388,
+        "code": "$this->lng->txt('trac_end_at')",
+        "has_variable": false,
+        "variable": "trac_end_at"
+    },
+    {
+        "id": 2396,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilSessionStatisticsGUI.php",
+        "line": 392,
+        "code": "$this->lng->txt('trac_scale')",
+        "has_variable": false,
+        "variable": "trac_scale"
+    },
+    {
+        "id": 2398,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilSessionStatisticsGUI.php",
+        "line": 397,
+        "code": "$this->lng->txt('ok')",
+        "has_variable": false,
+        "variable": "ok"
+    },
+    {
+        "id": 2400,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilSessionStatisticsGUI.php",
+        "line": 401,
+        "code": "$this->lng->txt('export')",
+        "has_variable": false,
+        "variable": "export"
+    },
+    {
+        "id": 2402,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilSessionStatisticsGUI.php",
+        "line": 433,
+        "code": "$this->lng->txt('trac_periodic_system_load')",
+        "has_variable": false,
+        "variable": "trac_periodic_system_load"
+    },
+    {
+        "id": 2404,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilSessionStatisticsGUI.php",
+        "line": 440,
+        "code": "$this->lng->txt('trac_begin_at')",
+        "has_variable": false,
+        "variable": "trac_begin_at"
+    },
+    {
+        "id": 2406,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilSessionStatisticsGUI.php",
+        "line": 444,
+        "code": "$this->lng->txt('trac_end_at')",
+        "has_variable": false,
+        "variable": "trac_end_at"
+    },
+    {
+        "id": 2408,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilSessionStatisticsGUI.php",
+        "line": 448,
+        "code": "$this->lng->txt('ok')",
+        "has_variable": false,
+        "variable": "ok"
+    },
+    {
+        "id": 2410,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilSessionStatisticsGUI.php",
+        "line": 452,
+        "code": "$this->lng->txt('export')",
+        "has_variable": false,
+        "variable": "export"
+    },
+    {
+        "id": 2412,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilSessionStatisticsGUI.php",
+        "line": 479,
+        "code": "$this->lng->txt('users_online')",
+        "has_variable": false,
+        "variable": "users_online"
+    },
+    {
+        "id": 2414,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilSessionStatisticsGUI.php",
+        "line": 482,
+        "code": "$this->lng->txt('trac_last_aggregation')",
+        "has_variable": false,
+        "variable": "trac_last_aggregation"
+    },
+    {
+        "id": 2416,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilSessionStatisticsGUI.php",
+        "line": 489,
+        "code": "$this->lng->txt('trac_sync_session_stats')",
+        "has_variable": false,
+        "variable": "trac_sync_session_stats"
+    },
+    {
+        "id": 2418,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilSessionStatisticsGUI.php",
+        "line": 515,
+        "code": "$this->lng->txt('trac_sessions_opened')",
+        "has_variable": false,
+        "variable": "trac_sessions_opened"
+    },
+    {
+        "id": 2420,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilSessionStatisticsGUI.php",
+        "line": 516,
+        "code": "$this->lng->txt('trac_sessions_closed')",
+        "has_variable": false,
+        "variable": "trac_sessions_closed"
+    },
+    {
+        "id": 2422,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilSessionStatisticsGUI.php",
+        "line": 518,
+        "code": "$this->lng->txt('trac_' . $type)",
+        "has_variable": true,
+        "variable": "'trac_' . $type"
+    },
+    {
+        "id": 2424,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilSessionStatisticsGUI.php",
+        "line": 557,
+        "code": "$this->lng->txt('trac_session_statistics_no_data')",
+        "has_variable": false,
+        "variable": "trac_session_statistics_no_data"
+    },
+    {
+        "id": 2426,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilSessionStatisticsGUI.php",
+        "line": 595,
+        "code": "$this->lng->txt('trac_session_active_' . $measure)",
+        "has_variable": true,
+        "variable": "'trac_session_active_' . $measure"
+    },
+    {
+        "id": 2428,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilSessionStatisticsGUI.php",
+        "line": 741,
+        "code": "$this->lng->txt('trac_sync_session_stats_success')",
+        "has_variable": false,
+        "variable": "trac_sync_session_stats_success"
+    },
+    {
+        "id": 2430,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilSessionStatisticsGUI.php",
+        "line": 756,
+        "code": "$this->lng->txt('trac_name_of_installation')",
+        "has_variable": false,
+        "variable": "trac_name_of_installation"
+    },
+    {
+        "id": 2432,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilSessionStatisticsGUI.php",
+        "line": 757,
+        "code": "$this->lng->txt('trac_report_date')",
+        "has_variable": false,
+        "variable": "trac_report_date"
+    },
+    {
+        "id": 2434,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilSessionStatisticsGUI.php",
+        "line": 758,
+        "code": "$this->lng->txt('trac_report_owner')",
+        "has_variable": false,
+        "variable": "trac_report_owner"
+    },
+    {
+        "id": 2436,
+        "file": "components\/ILIAS\/Authentication\/classes\/class.ilSessionStatisticsGUI.php",
+        "line": 763,
+        "code": "$this->lng->txt('title')",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 2438,
+        "file": "components\/ILIAS\/Authentication\/src\/UserSettings\/Password.php",
+        "line": 45,
+        "code": "$lng->txt($this->getIdentifier())",
+        "has_variable": true,
+        "variable": "$this->getIdentifier()"
+    }
+]

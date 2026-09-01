@@ -1,0 +1,75 @@
+{
+    "metadata": {
+        "type": "full",
+        "count": 6,
+        "description": "Variable usages without detectable prefixes or suffixes (pure variable references without static strings)"
+    },
+    "matches": [
+        {
+            "id": 8694,
+            "file": "components\/ILIAS\/Chatroom\/classes\/BuildChat.php",
+            "line": 135,
+            "code": "$this->ilLng->txt($v)",
+            "variable": "$v",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 8700,
+            "file": "components\/ILIAS\/Chatroom\/classes\/BuildChat.php",
+            "line": 151,
+            "code": "$this->ilLng->txt(...)",
+            "variable": "...",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 8806,
+            "file": "components\/ILIAS\/Chatroom\/classes\/class.ilChatroomTabGUIFactory.php",
+            "line": 236,
+            "code": "$this->lng->txt($tabDefinition['lng'])",
+            "variable": "D",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 8808,
+            "file": "components\/ILIAS\/Chatroom\/classes\/class.ilChatroomTabGUIFactory.php",
+            "line": 239,
+            "code": "$this->lng->txt($id)",
+            "variable": "$id",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 8870,
+            "file": "components\/ILIAS\/Chatroom\/classes\/gui\/class.ilChatroomViewGUI.php",
+            "line": 191,
+            "code": "$this->ilLng->txt(...)",
+            "variable": "...",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 8918,
+            "file": "components\/ILIAS\/Chatroom\/src\/UserSettings\/BroadcastTyping.php",
+            "line": 45,
+            "code": "$lng->txt($this->getIdentifier())",
+            "variable": "$this->getIdentifier()",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        }
+    ]
+}

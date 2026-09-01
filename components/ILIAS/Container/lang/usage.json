@@ -1,0 +1,3098 @@
+[
+    {
+        "id": 10048,
+        "file": "components\/ILIAS\/Container\/Block\/class.ilBlockGUI.php",
+        "line": 664,
+        "code": "$lng->txt(\"delete\")",
+        "has_variable": false,
+        "variable": "delete"
+    },
+    {
+        "id": 10050,
+        "file": "components\/ILIAS\/Container\/Block\/class.ilBlockGUI.php",
+        "line": 669,
+        "code": "$lng->txt(\"link\")",
+        "has_variable": false,
+        "variable": "link"
+    },
+    {
+        "id": 10052,
+        "file": "components\/ILIAS\/Container\/Block\/class.ilBlockGUI.php",
+        "line": 675,
+        "code": "$lng->txt(\"move\")",
+        "has_variable": false,
+        "variable": "move"
+    },
+    {
+        "id": 10054,
+        "file": "components\/ILIAS\/Container\/Block\/class.ilBlockGUI.php",
+        "line": 693,
+        "code": "$lng->txt(\"copy\")",
+        "has_variable": false,
+        "variable": "copy"
+    },
+    {
+        "id": 10056,
+        "file": "components\/ILIAS\/Container\/Block\/class.ilBlockGUI.php",
+        "line": 728,
+        "code": "$this->lng->txt('actions_for')",
+        "has_variable": false,
+        "variable": "actions_for"
+    },
+    {
+        "id": 10058,
+        "file": "components\/ILIAS\/Container\/Block\/class.ilBlockGUI.php",
+        "line": 812,
+        "code": "$this->lng->txt(\"no_items\")",
+        "has_variable": false,
+        "variable": "no_items"
+    },
+    {
+        "id": 10060,
+        "file": "components\/ILIAS\/Container\/Classification\/class.ilClassificationBlockGUI.php",
+        "line": 62,
+        "code": "$this->lng->txt(\"clsfct_block_title\")",
+        "has_variable": false,
+        "variable": "clsfct_block_title"
+    },
+    {
+        "id": 10062,
+        "file": "components\/ILIAS\/Container\/Classification\/class.ilClassificationBlockGUI.php",
+        "line": 159,
+        "code": "$this->lng->txt(\"clsfct_back_to_cat\")",
+        "has_variable": false,
+        "variable": "clsfct_back_to_cat"
+    },
+    {
+        "id": 10064,
+        "file": "components\/ILIAS\/Container\/Classification\/class.ilClassificationBlockGUI.php",
+        "line": 160,
+        "code": "$this->lng->txt(\"clsfct_selected_objects\")",
+        "has_variable": false,
+        "variable": "clsfct_selected_objects"
+    },
+    {
+        "id": 10066,
+        "file": "components\/ILIAS\/Container\/Classification\/class.ilClassificationBlockGUI.php",
+        "line": 358,
+        "code": "$lng->txt(\"clsfct_content_no_match\")",
+        "has_variable": false,
+        "variable": "clsfct_content_no_match"
+    },
+    {
+        "id": 10068,
+        "file": "components\/ILIAS\/Container\/Classification\/class.ilClassificationBlockGUI.php",
+        "line": 359,
+        "code": "$lng->txt(\"clsfct_content_no_match\")",
+        "has_variable": false,
+        "variable": "clsfct_content_no_match"
+    },
+    {
+        "id": 10070,
+        "file": "components\/ILIAS\/Container\/Content\/ObjectiveView\/class.ObjectiveRenderer.php",
+        "line": 142,
+        "code": "$lng->txt('crs_reset_results')",
+        "has_variable": false,
+        "variable": "crs_reset_results"
+    },
+    {
+        "id": 10072,
+        "file": "components\/ILIAS\/Container\/Content\/ObjectiveView\/class.ObjectiveRenderer.php",
+        "line": 176,
+        "code": "$lng->txt('crs_objectives')",
+        "has_variable": false,
+        "variable": "crs_objectives"
+    },
+    {
+        "id": 10074,
+        "file": "components\/ILIAS\/Container\/Content\/ObjectiveView\/class.ObjectiveRenderer.php",
+        "line": 205,
+        "code": "$lng->txt(\"crs_show_all_obj\")",
+        "has_variable": false,
+        "variable": "crs_show_all_obj"
+    },
+    {
+        "id": 10076,
+        "file": "components\/ILIAS\/Container\/Content\/ObjectiveView\/class.ObjectiveRenderer.php",
+        "line": 206,
+        "code": "$lng->txt(\"crs_hide_all_obj\")",
+        "has_variable": false,
+        "variable": "crs_hide_all_obj"
+    },
+    {
+        "id": 10078,
+        "file": "components\/ILIAS\/Container\/Content\/ObjectiveView\/class.ObjectiveRenderer.php",
+        "line": 242,
+        "code": "$lng->txt('crs_loc_itst_for_objective')",
+        "has_variable": false,
+        "variable": "crs_loc_itst_for_objective"
+    },
+    {
+        "id": 10080,
+        "file": "components\/ILIAS\/Container\/Content\/ObjectiveView\/class.ObjectiveRenderer.php",
+        "line": 244,
+        "code": "$lng->txt('crs_loc_qtst_for_objective')",
+        "has_variable": false,
+        "variable": "crs_loc_qtst_for_objective"
+    },
+    {
+        "id": 10082,
+        "file": "components\/ILIAS\/Container\/Content\/ObjectiveView\/class.ObjectiveRenderer.php",
+        "line": 256,
+        "code": "$lng->txt('crs_loc_itest_info')",
+        "has_variable": false,
+        "variable": "crs_loc_itest_info"
+    },
+    {
+        "id": 10084,
+        "file": "components\/ILIAS\/Container\/Content\/ObjectiveView\/class.ObjectiveRenderer.php",
+        "line": 257,
+        "code": "$lng->txt('crs_loc_qtest_info')",
+        "has_variable": false,
+        "variable": "crs_loc_qtest_info"
+    },
+    {
+        "id": 10086,
+        "file": "components\/ILIAS\/Container\/Content\/ObjectiveView\/class.ObjectiveRenderer.php",
+        "line": 324,
+        "code": "$lng->txt('crs_other_resources')",
+        "has_variable": false,
+        "variable": "crs_other_resources"
+    },
+    {
+        "id": 10088,
+        "file": "components\/ILIAS\/Container\/Content\/ObjectiveView\/class.ObjectiveRenderer.php",
+        "line": 330,
+        "code": "$lng->txt('content')",
+        "has_variable": false,
+        "variable": "content"
+    },
+    {
+        "id": 10090,
+        "file": "components\/ILIAS\/Container\/Content\/ObjectiveView\/class.ObjectiveRenderer.php",
+        "line": 350,
+        "code": "$lng->txt('objs_tst')",
+        "has_variable": false,
+        "variable": "objs_tst"
+    },
+    {
+        "id": 10092,
+        "file": "components\/ILIAS\/Container\/Content\/ObjectiveView\/class.ObjectiveRenderer.php",
+        "line": 354,
+        "code": "$lng->txt('crs_other_resources')",
+        "has_variable": false,
+        "variable": "crs_other_resources"
+    },
+    {
+        "id": 10094,
+        "file": "components\/ILIAS\/Container\/Content\/ObjectiveView\/class.ObjectiveRenderer.php",
+        "line": 471,
+        "code": "$lng->txt('obj_' . $chapter['type'])",
+        "has_variable": true,
+        "variable": "'obj_' . $chapter['type']"
+    },
+    {
+        "id": 10096,
+        "file": "components\/ILIAS\/Container\/Content\/ObjectiveView\/class.ObjectiveRenderer.php",
+        "line": 759,
+        "code": "$lng->txt(\"crs_loc_progress_objective_complete\")",
+        "has_variable": false,
+        "variable": "crs_loc_progress_objective_complete"
+    },
+    {
+        "id": 10098,
+        "file": "components\/ILIAS\/Container\/Content\/ObjectiveView\/class.ObjectiveRenderer.php",
+        "line": 761,
+        "code": "$lng->txt(\"crs_loc_progress_do_qualifying_again\")",
+        "has_variable": false,
+        "variable": "crs_loc_progress_do_qualifying_again"
+    },
+    {
+        "id": 10100,
+        "file": "components\/ILIAS\/Container\/Content\/ObjectiveView\/class.ObjectiveRenderer.php",
+        "line": 768,
+        "code": "$lng->txt(\"crs_loc_progress_do_qualifying\")",
+        "has_variable": false,
+        "variable": "crs_loc_progress_do_qualifying"
+    },
+    {
+        "id": 10102,
+        "file": "components\/ILIAS\/Container\/Content\/ObjectiveView\/class.ObjectiveRenderer.php",
+        "line": 769,
+        "code": "$lng->txt(\"crs_loc_suggested\")",
+        "has_variable": false,
+        "variable": "crs_loc_suggested"
+    },
+    {
+        "id": 10104,
+        "file": "components\/ILIAS\/Container\/Content\/ObjectiveView\/class.ObjectiveRenderer.php",
+        "line": 772,
+        "code": "$lng->txt(\"crs_loc_progress_no_result_do_initial\")",
+        "has_variable": false,
+        "variable": "crs_loc_progress_no_result_do_initial"
+    },
+    {
+        "id": 10106,
+        "file": "components\/ILIAS\/Container\/Content\/ObjectiveView\/class.ObjectiveRenderer.php",
+        "line": 773,
+        "code": "$lng->txt(\"crs_loc_progress_no_result_no_initial\")",
+        "has_variable": false,
+        "variable": "crs_loc_progress_no_result_no_initial"
+    },
+    {
+        "id": 10108,
+        "file": "components\/ILIAS\/Container\/Content\/ObjectiveView\/class.ObjectiveRenderer.php",
+        "line": 803,
+        "code": "$lng->txt(\"crs_loc_tt_info\")",
+        "has_variable": false,
+        "variable": "crs_loc_tt_info"
+    },
+    {
+        "id": 10110,
+        "file": "components\/ILIAS\/Container\/Content\/ObjectiveView\/class.ObjectiveRenderer.php",
+        "line": 819,
+        "code": "$lng->txt(\"crs_loc_progress_result_qtest\")",
+        "has_variable": false,
+        "variable": "crs_loc_progress_result_qtest"
+    },
+    {
+        "id": 10112,
+        "file": "components\/ILIAS\/Container\/Content\/ObjectiveView\/class.ObjectiveRenderer.php",
+        "line": 820,
+        "code": "$lng->txt(\"crs_loc_tab_qtest\")",
+        "has_variable": false,
+        "variable": "crs_loc_tab_qtest"
+    },
+    {
+        "id": 10114,
+        "file": "components\/ILIAS\/Container\/Content\/ObjectiveView\/class.ObjectiveRenderer.php",
+        "line": 823,
+        "code": "$lng->txt(\"crs_loc_progress_objective_complete\")",
+        "has_variable": false,
+        "variable": "crs_loc_progress_objective_complete"
+    },
+    {
+        "id": 10116,
+        "file": "components\/ILIAS\/Container\/Content\/ObjectiveView\/class.ObjectiveRenderer.php",
+        "line": 837,
+        "code": "$lng->txt(\"crs_loc_progress_do_qualifying_again\")",
+        "has_variable": false,
+        "variable": "crs_loc_progress_do_qualifying_again"
+    },
+    {
+        "id": 10118,
+        "file": "components\/ILIAS\/Container\/Content\/ObjectiveView\/class.ObjectiveRenderer.php",
+        "line": 844,
+        "code": "$lng->txt(\"crs_loc_progress_result_itest\")",
+        "has_variable": false,
+        "variable": "crs_loc_progress_result_itest"
+    },
+    {
+        "id": 10120,
+        "file": "components\/ILIAS\/Container\/Content\/ObjectiveView\/class.ObjectiveRenderer.php",
+        "line": 845,
+        "code": "$lng->txt(\"crs_loc_tab_itest\")",
+        "has_variable": false,
+        "variable": "crs_loc_tab_itest"
+    },
+    {
+        "id": 10122,
+        "file": "components\/ILIAS\/Container\/Content\/ObjectiveView\/class.ObjectiveRenderer.php",
+        "line": 849,
+        "code": "$lng->txt(\"crs_loc_progress_do_qualifying\")",
+        "has_variable": false,
+        "variable": "crs_loc_progress_do_qualifying"
+    },
+    {
+        "id": 10124,
+        "file": "components\/ILIAS\/Container\/Content\/ObjectiveView\/class.ObjectiveRenderer.php",
+        "line": 850,
+        "code": "$lng->txt(\"crs_loc_suggested\")",
+        "has_variable": false,
+        "variable": "crs_loc_suggested"
+    },
+    {
+        "id": 10126,
+        "file": "components\/ILIAS\/Container\/Content\/ObjectiveView\/class.ObjectiveRenderer.php",
+        "line": 855,
+        "code": "$lng->txt(\"crs_loc_progress_no_result_do_initial\")",
+        "has_variable": false,
+        "variable": "crs_loc_progress_no_result_do_initial"
+    },
+    {
+        "id": 10128,
+        "file": "components\/ILIAS\/Container\/Content\/ObjectiveView\/class.ObjectiveRenderer.php",
+        "line": 856,
+        "code": "$lng->txt(\"crs_loc_progress_no_result_no_initial\")",
+        "has_variable": false,
+        "variable": "crs_loc_progress_no_result_no_initial"
+    },
+    {
+        "id": 10130,
+        "file": "components\/ILIAS\/Container\/Content\/ObjectiveView\/class.ObjectiveRenderer.php",
+        "line": 867,
+        "code": "$lng->txt('crs_loc_itest_info')",
+        "has_variable": false,
+        "variable": "crs_loc_itest_info"
+    },
+    {
+        "id": 10132,
+        "file": "components\/ILIAS\/Container\/Content\/ObjectiveView\/class.ObjectiveRenderer.php",
+        "line": 869,
+        "code": "$lng->txt('crs_loc_qtest_info')",
+        "has_variable": false,
+        "variable": "crs_loc_qtest_info"
+    },
+    {
+        "id": 10134,
+        "file": "components\/ILIAS\/Container\/Content\/ObjectiveView\/class.ObjectiveRenderer.php",
+        "line": 890,
+        "code": "$lng->txt('crs_lobj_pm_min_goal')",
+        "has_variable": false,
+        "variable": "crs_lobj_pm_min_goal"
+    },
+    {
+        "id": 10136,
+        "file": "components\/ILIAS\/Container\/Content\/ObjectiveView\/class.ObjectiveRenderer.php",
+        "line": 916,
+        "code": "$this->lng->txt(\"crs_loc_learning_objective\")",
+        "has_variable": false,
+        "variable": "crs_loc_learning_objective"
+    },
+    {
+        "id": 10138,
+        "file": "components\/ILIAS\/Container\/Content\/ObjectiveView\/class.ObjectiveRenderer.php",
+        "line": 947,
+        "code": "$this->lng->txt('crs_objective_result_details')",
+        "has_variable": false,
+        "variable": "crs_objective_result_details"
+    },
+    {
+        "id": 10140,
+        "file": "components\/ILIAS\/Container\/Content\/ObjectiveView\/class.ObjectiveRenderer.php",
+        "line": 959,
+        "code": "$this->lng->txt('crs_objective_result_summary_initial')",
+        "has_variable": false,
+        "variable": "crs_objective_result_summary_initial"
+    },
+    {
+        "id": 10142,
+        "file": "components\/ILIAS\/Container\/Content\/ObjectiveView\/class.ObjectiveRenderer.php",
+        "line": 987,
+        "code": "$this->lng->txt('crs_objective_result_details')",
+        "has_variable": false,
+        "variable": "crs_objective_result_details"
+    },
+    {
+        "id": 10144,
+        "file": "components\/ILIAS\/Container\/Content\/ObjectiveView\/class.ObjectiveRenderer.php",
+        "line": 998,
+        "code": "$this->lng->txt('crs_objective_result_summary_qualifying')",
+        "has_variable": false,
+        "variable": "crs_objective_result_summary_qualifying"
+    },
+    {
+        "id": 10146,
+        "file": "components\/ILIAS\/Container\/Content\/ObjectiveView\/class.ilContainerObjectiveGUI.php",
+        "line": 94,
+        "code": "$lng->txt('crs_reset_results')",
+        "has_variable": false,
+        "variable": "crs_reset_results"
+    },
+    {
+        "id": 10148,
+        "file": "components\/ILIAS\/Container\/Content\/ObjectiveView\/class.ilContainerObjectiveGUI.php",
+        "line": 154,
+        "code": "$lng->txt('crs_reset_results')",
+        "has_variable": false,
+        "variable": "crs_reset_results"
+    },
+    {
+        "id": 10150,
+        "file": "components\/ILIAS\/Container\/Content\/ObjectiveView\/class.ilContainerObjectiveGUI.php",
+        "line": 214,
+        "code": "$lng->txt('crs_objectives')",
+        "has_variable": false,
+        "variable": "crs_objectives"
+    },
+    {
+        "id": 10152,
+        "file": "components\/ILIAS\/Container\/Content\/ObjectiveView\/class.ilContainerObjectiveGUI.php",
+        "line": 246,
+        "code": "$lng->txt(\"crs_show_all_obj\")",
+        "has_variable": false,
+        "variable": "crs_show_all_obj"
+    },
+    {
+        "id": 10154,
+        "file": "components\/ILIAS\/Container\/Content\/ObjectiveView\/class.ilContainerObjectiveGUI.php",
+        "line": 247,
+        "code": "$lng->txt(\"crs_hide_all_obj\")",
+        "has_variable": false,
+        "variable": "crs_hide_all_obj"
+    },
+    {
+        "id": 10156,
+        "file": "components\/ILIAS\/Container\/Content\/ObjectiveView\/class.ilContainerObjectiveGUI.php",
+        "line": 298,
+        "code": "$this->lng->txt('crs_loc_itst_for_objective')",
+        "has_variable": false,
+        "variable": "crs_loc_itst_for_objective"
+    },
+    {
+        "id": 10158,
+        "file": "components\/ILIAS\/Container\/Content\/ObjectiveView\/class.ilContainerObjectiveGUI.php",
+        "line": 300,
+        "code": "$this->lng->txt('crs_loc_qtst_for_objective')",
+        "has_variable": false,
+        "variable": "crs_loc_qtst_for_objective"
+    },
+    {
+        "id": 10160,
+        "file": "components\/ILIAS\/Container\/Content\/ObjectiveView\/class.ilContainerObjectiveGUI.php",
+        "line": 312,
+        "code": "$this->lng->txt('crs_loc_itest_info')",
+        "has_variable": false,
+        "variable": "crs_loc_itest_info"
+    },
+    {
+        "id": 10162,
+        "file": "components\/ILIAS\/Container\/Content\/ObjectiveView\/class.ilContainerObjectiveGUI.php",
+        "line": 313,
+        "code": "$this->lng->txt('crs_loc_qtest_info')",
+        "has_variable": false,
+        "variable": "crs_loc_qtest_info"
+    },
+    {
+        "id": 10164,
+        "file": "components\/ILIAS\/Container\/Content\/ObjectiveView\/class.ilContainerObjectiveGUI.php",
+        "line": 378,
+        "code": "$lng->txt('crs_other_resources')",
+        "has_variable": false,
+        "variable": "crs_other_resources"
+    },
+    {
+        "id": 10166,
+        "file": "components\/ILIAS\/Container\/Content\/ObjectiveView\/class.ilContainerObjectiveGUI.php",
+        "line": 384,
+        "code": "$lng->txt('content')",
+        "has_variable": false,
+        "variable": "content"
+    },
+    {
+        "id": 10168,
+        "file": "components\/ILIAS\/Container\/Content\/ObjectiveView\/class.ilContainerObjectiveGUI.php",
+        "line": 404,
+        "code": "$lng->txt('objs_tst')",
+        "has_variable": false,
+        "variable": "objs_tst"
+    },
+    {
+        "id": 10170,
+        "file": "components\/ILIAS\/Container\/Content\/ObjectiveView\/class.ilContainerObjectiveGUI.php",
+        "line": 408,
+        "code": "$lng->txt('crs_other_resources')",
+        "has_variable": false,
+        "variable": "crs_other_resources"
+    },
+    {
+        "id": 10172,
+        "file": "components\/ILIAS\/Container\/Content\/ObjectiveView\/class.ilContainerObjectiveGUI.php",
+        "line": 515,
+        "code": "$this->lng->txt('crs_loc_passes_reached')",
+        "has_variable": false,
+        "variable": "crs_loc_passes_reached"
+    },
+    {
+        "id": 10174,
+        "file": "components\/ILIAS\/Container\/Content\/ObjectiveView\/class.ilContainerObjectiveGUI.php",
+        "line": 525,
+        "code": "$this->lng->txt('crs_loc_passes_left')",
+        "has_variable": false,
+        "variable": "crs_loc_passes_left"
+    },
+    {
+        "id": 10176,
+        "file": "components\/ILIAS\/Container\/Content\/ObjectiveView\/class.ilContainerObjectiveGUI.php",
+        "line": 622,
+        "code": "$lng->txt('obj_' . $chapter['type'])",
+        "has_variable": true,
+        "variable": "'obj_' . $chapter['type']"
+    },
+    {
+        "id": 10178,
+        "file": "components\/ILIAS\/Container\/Content\/ObjectiveView\/class.ilContainerObjectiveGUI.php",
+        "line": 990,
+        "code": "$lng->txt(\"crs_loc_progress_objective_complete\")",
+        "has_variable": false,
+        "variable": "crs_loc_progress_objective_complete"
+    },
+    {
+        "id": 10180,
+        "file": "components\/ILIAS\/Container\/Content\/ObjectiveView\/class.ilContainerObjectiveGUI.php",
+        "line": 992,
+        "code": "$lng->txt(\"crs_loc_progress_do_qualifying_again\")",
+        "has_variable": false,
+        "variable": "crs_loc_progress_do_qualifying_again"
+    },
+    {
+        "id": 10182,
+        "file": "components\/ILIAS\/Container\/Content\/ObjectiveView\/class.ilContainerObjectiveGUI.php",
+        "line": 998,
+        "code": "$lng->txt(\"crs_loc_progress_do_qualifying\")",
+        "has_variable": false,
+        "variable": "crs_loc_progress_do_qualifying"
+    },
+    {
+        "id": 10184,
+        "file": "components\/ILIAS\/Container\/Content\/ObjectiveView\/class.ilContainerObjectiveGUI.php",
+        "line": 999,
+        "code": "$lng->txt(\"crs_loc_suggested\")",
+        "has_variable": false,
+        "variable": "crs_loc_suggested"
+    },
+    {
+        "id": 10186,
+        "file": "components\/ILIAS\/Container\/Content\/ObjectiveView\/class.ilContainerObjectiveGUI.php",
+        "line": 1002,
+        "code": "$lng->txt(\"crs_loc_progress_no_result_do_initial\")",
+        "has_variable": false,
+        "variable": "crs_loc_progress_no_result_do_initial"
+    },
+    {
+        "id": 10188,
+        "file": "components\/ILIAS\/Container\/Content\/ObjectiveView\/class.ilContainerObjectiveGUI.php",
+        "line": 1003,
+        "code": "$lng->txt(\"crs_loc_progress_no_result_no_initial\")",
+        "has_variable": false,
+        "variable": "crs_loc_progress_no_result_no_initial"
+    },
+    {
+        "id": 10190,
+        "file": "components\/ILIAS\/Container\/Content\/ObjectiveView\/class.ilContainerObjectiveGUI.php",
+        "line": 1032,
+        "code": "$lng->txt(\"crs_loc_tt_info\")",
+        "has_variable": false,
+        "variable": "crs_loc_tt_info"
+    },
+    {
+        "id": 10192,
+        "file": "components\/ILIAS\/Container\/Content\/ObjectiveView\/class.ilContainerObjectiveGUI.php",
+        "line": 1048,
+        "code": "$lng->txt(\"crs_loc_progress_result_qtest\")",
+        "has_variable": false,
+        "variable": "crs_loc_progress_result_qtest"
+    },
+    {
+        "id": 10194,
+        "file": "components\/ILIAS\/Container\/Content\/ObjectiveView\/class.ilContainerObjectiveGUI.php",
+        "line": 1049,
+        "code": "$lng->txt(\"crs_loc_tab_qtest\")",
+        "has_variable": false,
+        "variable": "crs_loc_tab_qtest"
+    },
+    {
+        "id": 10196,
+        "file": "components\/ILIAS\/Container\/Content\/ObjectiveView\/class.ilContainerObjectiveGUI.php",
+        "line": 1052,
+        "code": "$lng->txt(\"crs_loc_progress_objective_complete\")",
+        "has_variable": false,
+        "variable": "crs_loc_progress_objective_complete"
+    },
+    {
+        "id": 10198,
+        "file": "components\/ILIAS\/Container\/Content\/ObjectiveView\/class.ilContainerObjectiveGUI.php",
+        "line": 1066,
+        "code": "$lng->txt(\"crs_loc_progress_do_qualifying_again\")",
+        "has_variable": false,
+        "variable": "crs_loc_progress_do_qualifying_again"
+    },
+    {
+        "id": 10200,
+        "file": "components\/ILIAS\/Container\/Content\/ObjectiveView\/class.ilContainerObjectiveGUI.php",
+        "line": 1072,
+        "code": "$lng->txt(\"crs_loc_progress_result_itest\")",
+        "has_variable": false,
+        "variable": "crs_loc_progress_result_itest"
+    },
+    {
+        "id": 10202,
+        "file": "components\/ILIAS\/Container\/Content\/ObjectiveView\/class.ilContainerObjectiveGUI.php",
+        "line": 1073,
+        "code": "$lng->txt(\"crs_loc_tab_itest\")",
+        "has_variable": false,
+        "variable": "crs_loc_tab_itest"
+    },
+    {
+        "id": 10204,
+        "file": "components\/ILIAS\/Container\/Content\/ObjectiveView\/class.ilContainerObjectiveGUI.php",
+        "line": 1077,
+        "code": "$lng->txt(\"crs_loc_progress_do_qualifying\")",
+        "has_variable": false,
+        "variable": "crs_loc_progress_do_qualifying"
+    },
+    {
+        "id": 10206,
+        "file": "components\/ILIAS\/Container\/Content\/ObjectiveView\/class.ilContainerObjectiveGUI.php",
+        "line": 1078,
+        "code": "$lng->txt(\"crs_loc_suggested\")",
+        "has_variable": false,
+        "variable": "crs_loc_suggested"
+    },
+    {
+        "id": 10208,
+        "file": "components\/ILIAS\/Container\/Content\/ObjectiveView\/class.ilContainerObjectiveGUI.php",
+        "line": 1083,
+        "code": "$lng->txt(\"crs_loc_progress_no_result_do_initial\")",
+        "has_variable": false,
+        "variable": "crs_loc_progress_no_result_do_initial"
+    },
+    {
+        "id": 10210,
+        "file": "components\/ILIAS\/Container\/Content\/ObjectiveView\/class.ilContainerObjectiveGUI.php",
+        "line": 1084,
+        "code": "$lng->txt(\"crs_loc_progress_no_result_no_initial\")",
+        "has_variable": false,
+        "variable": "crs_loc_progress_no_result_no_initial"
+    },
+    {
+        "id": 10212,
+        "file": "components\/ILIAS\/Container\/Content\/ObjectiveView\/class.ilContainerObjectiveGUI.php",
+        "line": 1094,
+        "code": "$lng->txt('crs_loc_itest_info')",
+        "has_variable": false,
+        "variable": "crs_loc_itest_info"
+    },
+    {
+        "id": 10214,
+        "file": "components\/ILIAS\/Container\/Content\/ObjectiveView\/class.ilContainerObjectiveGUI.php",
+        "line": 1096,
+        "code": "$lng->txt('crs_loc_qtest_info')",
+        "has_variable": false,
+        "variable": "crs_loc_qtest_info"
+    },
+    {
+        "id": 10216,
+        "file": "components\/ILIAS\/Container\/Content\/ObjectiveView\/class.ilContainerObjectiveGUI.php",
+        "line": 1117,
+        "code": "$lng->txt('crs_lobj_pm_min_goal')",
+        "has_variable": false,
+        "variable": "crs_lobj_pm_min_goal"
+    },
+    {
+        "id": 10218,
+        "file": "components\/ILIAS\/Container\/Content\/ObjectiveView\/class.ilContainerObjectiveGUI.php",
+        "line": 1143,
+        "code": "$this->lng->txt(\"crs_loc_learning_objective\")",
+        "has_variable": false,
+        "variable": "crs_loc_learning_objective"
+    },
+    {
+        "id": 10220,
+        "file": "components\/ILIAS\/Container\/Content\/ObjectiveView\/class.ilContainerObjectiveGUI.php",
+        "line": 1174,
+        "code": "$this->lng->txt('crs_objective_result_details')",
+        "has_variable": false,
+        "variable": "crs_objective_result_details"
+    },
+    {
+        "id": 10222,
+        "file": "components\/ILIAS\/Container\/Content\/ObjectiveView\/class.ilContainerObjectiveGUI.php",
+        "line": 1186,
+        "code": "$this->lng->txt('crs_objective_result_summary_initial')",
+        "has_variable": false,
+        "variable": "crs_objective_result_summary_initial"
+    },
+    {
+        "id": 10224,
+        "file": "components\/ILIAS\/Container\/Content\/ObjectiveView\/class.ilContainerObjectiveGUI.php",
+        "line": 1214,
+        "code": "$this->lng->txt('crs_objective_result_details')",
+        "has_variable": false,
+        "variable": "crs_objective_result_details"
+    },
+    {
+        "id": 10226,
+        "file": "components\/ILIAS\/Container\/Content\/ObjectiveView\/class.ilContainerObjectiveGUI.php",
+        "line": 1225,
+        "code": "$this->lng->txt('crs_objective_result_summary_qualifying')",
+        "has_variable": false,
+        "variable": "crs_objective_result_summary_qualifying"
+    },
+    {
+        "id": 10228,
+        "file": "components\/ILIAS\/Container\/Content\/SessionsView\/class.ilContainerSessionsContentGUI.php",
+        "line": 95,
+        "code": "$lng->txt('crs_link_hide_prev_sessions')",
+        "has_variable": false,
+        "variable": "crs_link_hide_prev_sessions"
+    },
+    {
+        "id": 10230,
+        "file": "components\/ILIAS\/Container\/Content\/SessionsView\/class.ilContainerSessionsContentGUI.php",
+        "line": 99,
+        "code": "$lng->txt('crs_link_show_all_prev_sessions')",
+        "has_variable": false,
+        "variable": "crs_link_show_all_prev_sessions"
+    },
+    {
+        "id": 10232,
+        "file": "components\/ILIAS\/Container\/Content\/SessionsView\/class.ilContainerSessionsContentGUI.php",
+        "line": 108,
+        "code": "$lng->txt('crs_link_hide_next_sessions')",
+        "has_variable": false,
+        "variable": "crs_link_hide_next_sessions"
+    },
+    {
+        "id": 10234,
+        "file": "components\/ILIAS\/Container\/Content\/SessionsView\/class.ilContainerSessionsContentGUI.php",
+        "line": 110,
+        "code": "$lng->txt('crs_link_show_all_next_sessions')",
+        "has_variable": false,
+        "variable": "crs_link_show_all_next_sessions"
+    },
+    {
+        "id": 10236,
+        "file": "components\/ILIAS\/Container\/Content\/class.ilContainerContentGUI.php",
+        "line": 744,
+        "code": "$lng->txt(\"rep_intro\")",
+        "has_variable": false,
+        "variable": "rep_intro"
+    },
+    {
+        "id": 10238,
+        "file": "components\/ILIAS\/Container\/Content\/class.ilContainerContentGUI.php",
+        "line": 745,
+        "code": "$lng->txt(\"rep_intro1\")",
+        "has_variable": false,
+        "variable": "rep_intro1"
+    },
+    {
+        "id": 10240,
+        "file": "components\/ILIAS\/Container\/Content\/class.ilContainerContentGUI.php",
+        "line": 746,
+        "code": "$lng->txt(\"rep_intro2\")",
+        "has_variable": false,
+        "variable": "rep_intro2"
+    },
+    {
+        "id": 10242,
+        "file": "components\/ILIAS\/Container\/Content\/class.ilContainerContentGUI.php",
+        "line": 747,
+        "code": "$lng->txt(\"rep_intro3\")",
+        "has_variable": false,
+        "variable": "rep_intro3"
+    },
+    {
+        "id": 10244,
+        "file": "components\/ILIAS\/Container\/Content\/class.ilContainerContentGUI.php",
+        "line": 747,
+        "code": "$lng->txt(\"add\")",
+        "has_variable": false,
+        "variable": "add"
+    },
+    {
+        "id": 10246,
+        "file": "components\/ILIAS\/Container\/Content\/class.ilContainerContentGUI.php",
+        "line": 748,
+        "code": "$lng->txt(\"rep_intro4\")",
+        "has_variable": false,
+        "variable": "rep_intro4"
+    },
+    {
+        "id": 10248,
+        "file": "components\/ILIAS\/Container\/Content\/class.ilContainerContentGUI.php",
+        "line": 748,
+        "code": "$lng->txt(\"cat_add\")",
+        "has_variable": false,
+        "variable": "cat_add"
+    },
+    {
+        "id": 10250,
+        "file": "components\/ILIAS\/Container\/Content\/class.ilContainerContentGUI.php",
+        "line": 749,
+        "code": "$lng->txt(\"rep_intro5\")",
+        "has_variable": false,
+        "variable": "rep_intro5"
+    },
+    {
+        "id": 10252,
+        "file": "components\/ILIAS\/Container\/Content\/class.ilContainerContentGUI.php",
+        "line": 750,
+        "code": "$lng->txt(\"rep_intro6\")",
+        "has_variable": false,
+        "variable": "rep_intro6"
+    },
+    {
+        "id": 10254,
+        "file": "components\/ILIAS\/Container\/Content\/class.ilContainerRenderer.php",
+        "line": 655,
+        "code": "$this->lng->txt(\"cont_show_more\")",
+        "has_variable": false,
+        "variable": "cont_show_more"
+    },
+    {
+        "id": 10256,
+        "file": "components\/ILIAS\/Container\/Content\/class.ilContainerRenderer.php",
+        "line": 718,
+        "code": "$lng->txt(\"objs_\" . $a_type)",
+        "has_variable": true,
+        "variable": "\"objs_\" . $a_type"
+    },
+    {
+        "id": 10258,
+        "file": "components\/ILIAS\/Container\/Content\/class.ilContainerRenderer.php",
+        "line": 721,
+        "code": "$pl->txt(\"objs_\" . $a_type)",
+        "has_variable": true,
+        "variable": "\"objs_\" . $a_type"
+    },
+    {
+        "id": 10260,
+        "file": "components\/ILIAS\/Container\/Content\/class.ilContainerRenderer.php",
+        "line": 760,
+        "code": "$this->lng->txt(\"cont_no_title\")",
+        "has_variable": false,
+        "variable": "cont_no_title"
+    },
+    {
+        "id": 10262,
+        "file": "components\/ILIAS\/Container\/Content\/class.ilContainerRenderer.php",
+        "line": 800,
+        "code": "$lng->txt(\"select_all\")",
+        "has_variable": false,
+        "variable": "select_all"
+    },
+    {
+        "id": 10264,
+        "file": "components\/ILIAS\/Container\/Content\/class.ilContainerRenderer.php",
+        "line": 824,
+        "code": "$lng->txt('details')",
+        "has_variable": false,
+        "variable": "details"
+    },
+    {
+        "id": 10266,
+        "file": "components\/ILIAS\/Container\/Content\/class.ilContainerRenderer.php",
+        "line": 912,
+        "code": "$this->lng->txt(\"cont_found_objects\")",
+        "has_variable": false,
+        "variable": "cont_found_objects"
+    },
+    {
+        "id": 10268,
+        "file": "components\/ILIAS\/Container\/Content\/class.ilContainerRenderer.php",
+        "line": 913,
+        "code": "$this->lng->txt(\"content\")",
+        "has_variable": false,
+        "variable": "content"
+    },
+    {
+        "id": 10270,
+        "file": "components\/ILIAS\/Container\/Filter\/ContainerFilterTableBuilder.php",
+        "line": 74,
+        "code": "$lng->txt(\"cont_filter_record\")",
+        "has_variable": false,
+        "variable": "cont_filter_record"
+    },
+    {
+        "id": 10272,
+        "file": "components\/ILIAS\/Container\/Filter\/ContainerFilterTableBuilder.php",
+        "line": 75,
+        "code": "$lng->txt(\"cont_filter_field\")",
+        "has_variable": false,
+        "variable": "cont_filter_field"
+    },
+    {
+        "id": 10274,
+        "file": "components\/ILIAS\/Container\/Filter\/classes\/class.ilContainerFilterAdminGUI.php",
+        "line": 83,
+        "code": "$lng->txt(\"cont_select_fields\")",
+        "has_variable": false,
+        "variable": "cont_select_fields"
+    },
+    {
+        "id": 10276,
+        "file": "components\/ILIAS\/Container\/Filter\/classes\/class.ilContainerFilterAdminGUI.php",
+        "line": 144,
+        "code": "$lng->txt(\"cont_std_record_title\")",
+        "has_variable": false,
+        "variable": "cont_std_record_title"
+    },
+    {
+        "id": 10278,
+        "file": "components\/ILIAS\/Container\/Filter\/classes\/class.ilContainerFilterAdminGUI.php",
+        "line": 164,
+        "code": "$lng->txt(\"cont_filter_fields\")",
+        "has_variable": false,
+        "variable": "cont_filter_fields"
+    },
+    {
+        "id": 10280,
+        "file": "components\/ILIAS\/Container\/Filter\/classes\/class.ilContainerFilterAdminGUI.php",
+        "line": 193,
+        "code": "$lng->txt(\"msg_obj_modified\")",
+        "has_variable": false,
+        "variable": "msg_obj_modified"
+    },
+    {
+        "id": 10282,
+        "file": "components\/ILIAS\/Container\/Filter\/classes\/class.ilContainerFilterAdvMDAdapter.php",
+        "line": 81,
+        "code": "$lng->txt(\"cont_std_filter_title_\" . $filter_id)",
+        "has_variable": true,
+        "variable": "\"cont_std_filter_title_\" . $filter_id"
+    },
+    {
+        "id": 10284,
+        "file": "components\/ILIAS\/Container\/Filter\/classes\/class.ilContainerFilterUtil.php",
+        "line": 57,
+        "code": "$lng->txt(\"cont_std_filter_title_\" . $field_id)",
+        "has_variable": true,
+        "variable": "\"cont_std_filter_title_\" . $field_id"
+    },
+    {
+        "id": 10286,
+        "file": "components\/ILIAS\/Container\/Filter\/classes\/class.ilContainerFilterUtil.php",
+        "line": 73,
+        "code": "$lng->txt(\"cont_std_record_title\")",
+        "has_variable": false,
+        "variable": "cont_std_record_title"
+    },
+    {
+        "id": 10288,
+        "file": "components\/ILIAS\/Container\/Filter\/classes\/class.ilContainerFilterUtil.php",
+        "line": 106,
+        "code": "$this->lng->txt(\"online\")",
+        "has_variable": false,
+        "variable": "online"
+    },
+    {
+        "id": 10290,
+        "file": "components\/ILIAS\/Container\/Filter\/classes\/class.ilContainerFilterUtil.php",
+        "line": 107,
+        "code": "$this->lng->txt(\"offline\")",
+        "has_variable": false,
+        "variable": "offline"
+    },
+    {
+        "id": 10292,
+        "file": "components\/ILIAS\/Container\/Filter\/classes\/class.ilContainerFilterUtil.php",
+        "line": 143,
+        "code": "$lng->txt(\"obj_$k\")",
+        "has_variable": true,
+        "variable": "obj_$k"
+    },
+    {
+        "id": 10294,
+        "file": "components\/ILIAS\/Container\/MemberView\/class.ilMemberViewGUI.php",
+        "line": 58,
+        "code": "$lng->txt('mem_view_activate')",
+        "has_variable": false,
+        "variable": "mem_view_activate"
+    },
+    {
+        "id": 10296,
+        "file": "components\/ILIAS\/Container\/News\/class.ilContainerNewsSettingsGUI.php",
+        "line": 79,
+        "code": "$this->lng->txt('msg_no_perm_read')",
+        "has_variable": false,
+        "variable": "msg_no_perm_read"
+    },
+    {
+        "id": 10298,
+        "file": "components\/ILIAS\/Container\/News\/class.ilContainerNewsSettingsGUI.php",
+        "line": 98,
+        "code": "$this->lng->txt('news_news_block')",
+        "has_variable": false,
+        "variable": "news_news_block"
+    },
+    {
+        "id": 10300,
+        "file": "components\/ILIAS\/Container\/News\/class.ilContainerNewsSettingsGUI.php",
+        "line": 106,
+        "code": "$this->lng->txt('obj_tool_setting_news_info')",
+        "has_variable": false,
+        "variable": "obj_tool_setting_news_info"
+    },
+    {
+        "id": 10302,
+        "file": "components\/ILIAS\/Container\/News\/class.ilContainerNewsSettingsGUI.php",
+        "line": 114,
+        "code": "$this->lng->txt(\"cont_news_timeline\")",
+        "has_variable": false,
+        "variable": "cont_news_timeline"
+    },
+    {
+        "id": 10304,
+        "file": "components\/ILIAS\/Container\/News\/class.ilContainerNewsSettingsGUI.php",
+        "line": 115,
+        "code": "$this->lng->txt(\"cont_news_timeline_info\")",
+        "has_variable": false,
+        "variable": "cont_news_timeline_info"
+    },
+    {
+        "id": 10306,
+        "file": "components\/ILIAS\/Container\/News\/class.ilContainerNewsSettingsGUI.php",
+        "line": 120,
+        "code": "$this->lng->txt(\"cont_news_timeline_auto_entries\")",
+        "has_variable": false,
+        "variable": "cont_news_timeline_auto_entries"
+    },
+    {
+        "id": 10308,
+        "file": "components\/ILIAS\/Container\/News\/class.ilContainerNewsSettingsGUI.php",
+        "line": 121,
+        "code": "$this->lng->txt(\"cont_news_timeline_auto_entries_info\")",
+        "has_variable": false,
+        "variable": "cont_news_timeline_auto_entries_info"
+    },
+    {
+        "id": 10310,
+        "file": "components\/ILIAS\/Container\/News\/class.ilContainerNewsSettingsGUI.php",
+        "line": 126,
+        "code": "$this->lng->txt(\"cont_news_timeline_landing_page\")",
+        "has_variable": false,
+        "variable": "cont_news_timeline_landing_page"
+    },
+    {
+        "id": 10312,
+        "file": "components\/ILIAS\/Container\/News\/class.ilContainerNewsSettingsGUI.php",
+        "line": 127,
+        "code": "$this->lng->txt(\"cont_news_timeline_landing_page_info\")",
+        "has_variable": false,
+        "variable": "cont_news_timeline_landing_page_info"
+    },
+    {
+        "id": 10314,
+        "file": "components\/ILIAS\/Container\/News\/class.ilContainerNewsSettingsGUI.php",
+        "line": 163,
+        "code": "$this->lng->txt(\"news_hide_news_per_date\")",
+        "has_variable": false,
+        "variable": "news_hide_news_per_date"
+    },
+    {
+        "id": 10316,
+        "file": "components\/ILIAS\/Container\/News\/class.ilContainerNewsSettingsGUI.php",
+        "line": 166,
+        "code": "$this->lng->txt(\"news_hide_news_per_date_info\")",
+        "has_variable": false,
+        "variable": "news_hide_news_per_date_info"
+    },
+    {
+        "id": 10318,
+        "file": "components\/ILIAS\/Container\/News\/class.ilContainerNewsSettingsGUI.php",
+        "line": 169,
+        "code": "$this->lng->txt(\"news_hide_news_date\")",
+        "has_variable": false,
+        "variable": "news_hide_news_date"
+    },
+    {
+        "id": 10320,
+        "file": "components\/ILIAS\/Container\/News\/class.ilContainerNewsSettingsGUI.php",
+        "line": 187,
+        "code": "$this->lng->txt(\"news_notifications_public\")",
+        "has_variable": false,
+        "variable": "news_notifications_public"
+    },
+    {
+        "id": 10322,
+        "file": "components\/ILIAS\/Container\/News\/class.ilContainerNewsSettingsGUI.php",
+        "line": 190,
+        "code": "$this->lng->txt(\"news_notifications_public_info\")",
+        "has_variable": false,
+        "variable": "news_notifications_public_info"
+    },
+    {
+        "id": 10324,
+        "file": "components\/ILIAS\/Container\/News\/class.ilContainerNewsSettingsGUI.php",
+        "line": 195,
+        "code": "$this->lng->txt(\"cont_news_settings\")",
+        "has_variable": false,
+        "variable": "cont_news_settings"
+    },
+    {
+        "id": 10326,
+        "file": "components\/ILIAS\/Container\/News\/class.ilContainerNewsSettingsGUI.php",
+        "line": 197,
+        "code": "$this->lng->txt(\"save\")",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 10328,
+        "file": "components\/ILIAS\/Container\/News\/class.ilContainerNewsSettingsGUI.php",
+        "line": 239,
+        "code": "$this->lng->txt(\"msg_obj_modified\")",
+        "has_variable": false,
+        "variable": "msg_obj_modified"
+    },
+    {
+        "id": 10330,
+        "file": "components\/ILIAS\/Container\/Page\/class.ilContainerPageGUI.php",
+        "line": 81,
+        "code": "$lng->txt(\"obj_sty\")",
+        "has_variable": false,
+        "variable": "obj_sty"
+    },
+    {
+        "id": 10332,
+        "file": "components\/ILIAS\/Container\/Skills\/ContProfileTableBuilder.php",
+        "line": 68,
+        "code": "$lng->txt(\"skmg_context_local\")",
+        "has_variable": false,
+        "variable": "skmg_context_local"
+    },
+    {
+        "id": 10334,
+        "file": "components\/ILIAS\/Container\/Skills\/ContProfileTableBuilder.php",
+        "line": 70,
+        "code": "$lng->txt(\"skmg_context_global\")",
+        "has_variable": false,
+        "variable": "skmg_context_global"
+    },
+    {
+        "id": 10336,
+        "file": "components\/ILIAS\/Container\/Skills\/ContProfileTableBuilder.php",
+        "line": 98,
+        "code": "$lng->txt(\"cont_skill_profile\")",
+        "has_variable": false,
+        "variable": "cont_skill_profile"
+    },
+    {
+        "id": 10338,
+        "file": "components\/ILIAS\/Container\/Skills\/ContProfileTableBuilder.php",
+        "line": 99,
+        "code": "$lng->txt(\"context\")",
+        "has_variable": false,
+        "variable": "context"
+    },
+    {
+        "id": 10340,
+        "file": "components\/ILIAS\/Container\/Skills\/ContProfileTableBuilder.php",
+        "line": 107,
+        "code": "$lng->txt(\"edit\")",
+        "has_variable": false,
+        "variable": "edit"
+    },
+    {
+        "id": 10342,
+        "file": "components\/ILIAS\/Container\/Skills\/ContProfileTableBuilder.php",
+        "line": 114,
+        "code": "$lng->txt(\"delete\")",
+        "has_variable": false,
+        "variable": "delete"
+    },
+    {
+        "id": 10344,
+        "file": "components\/ILIAS\/Container\/Skills\/ContProfileTableBuilder.php",
+        "line": 118,
+        "code": "$lng->txt(\"remove\")",
+        "has_variable": false,
+        "variable": "remove"
+    },
+    {
+        "id": 10346,
+        "file": "components\/ILIAS\/Container\/Skills\/ContSkillMemberTableBuilder.php",
+        "line": 87,
+        "code": "$lng->txt(\"yes\")",
+        "has_variable": false,
+        "variable": "yes"
+    },
+    {
+        "id": 10348,
+        "file": "components\/ILIAS\/Container\/Skills\/ContSkillMemberTableBuilder.php",
+        "line": 87,
+        "code": "$lng->txt(\"no\")",
+        "has_variable": false,
+        "variable": "no"
+    },
+    {
+        "id": 10350,
+        "file": "components\/ILIAS\/Container\/Skills\/ContSkillMemberTableBuilder.php",
+        "line": 120,
+        "code": "$lng->txt(\"name\")",
+        "has_variable": false,
+        "variable": "name"
+    },
+    {
+        "id": 10352,
+        "file": "components\/ILIAS\/Container\/Skills\/ContSkillMemberTableBuilder.php",
+        "line": 121,
+        "code": "$lng->txt(\"login\")",
+        "has_variable": false,
+        "variable": "login"
+    },
+    {
+        "id": 10354,
+        "file": "components\/ILIAS\/Container\/Skills\/ContSkillMemberTableBuilder.php",
+        "line": 122,
+        "code": "$lng->txt(\"cont_mem_skills\")",
+        "has_variable": false,
+        "variable": "cont_mem_skills"
+    },
+    {
+        "id": 10356,
+        "file": "components\/ILIAS\/Container\/Skills\/ContSkillMemberTableBuilder.php",
+        "line": 123,
+        "code": "$lng->txt(\"cont_published\")",
+        "has_variable": false,
+        "variable": "cont_published"
+    },
+    {
+        "id": 10358,
+        "file": "components\/ILIAS\/Container\/Skills\/ContSkillMemberTableBuilder.php",
+        "line": 127,
+        "code": "$lng->txt(\"cont_assign_competence\")",
+        "has_variable": false,
+        "variable": "cont_assign_competence"
+    },
+    {
+        "id": 10360,
+        "file": "components\/ILIAS\/Container\/Skills\/ContSkillMemberTableBuilder.php",
+        "line": 128,
+        "code": "$lng->txt(\"cont_deassign_competence\")",
+        "has_variable": false,
+        "variable": "cont_deassign_competence"
+    },
+    {
+        "id": 10362,
+        "file": "components\/ILIAS\/Container\/Skills\/ContSkillMemberTableBuilder.php",
+        "line": 138,
+        "code": "$lng->txt(\"cont_publish_assignment\")",
+        "has_variable": false,
+        "variable": "cont_publish_assignment"
+    },
+    {
+        "id": 10364,
+        "file": "components\/ILIAS\/Container\/Skills\/ContSkillTableBuilder.php",
+        "line": 89,
+        "code": "$lng->txt(\"cont_skill\")",
+        "has_variable": false,
+        "variable": "cont_skill"
+    },
+    {
+        "id": 10366,
+        "file": "components\/ILIAS\/Container\/Skills\/ContSkillTableBuilder.php",
+        "line": 90,
+        "code": "$lng->txt(\"cont_path\")",
+        "has_variable": false,
+        "variable": "cont_path"
+    },
+    {
+        "id": 10368,
+        "file": "components\/ILIAS\/Container\/Skills\/ContSkillTableBuilder.php",
+        "line": 91,
+        "code": "$lng->txt(\"cont_skill_profile\")",
+        "has_variable": false,
+        "variable": "cont_skill_profile"
+    },
+    {
+        "id": 10370,
+        "file": "components\/ILIAS\/Container\/Skills\/ContSkillTableBuilder.php",
+        "line": 96,
+        "code": "$lng->txt(\"remove\")",
+        "has_variable": false,
+        "variable": "remove"
+    },
+    {
+        "id": 10372,
+        "file": "components\/ILIAS\/Container\/Skills\/classes\/class.ilContSkillAdminGUI.php",
+        "line": 198,
+        "code": "$this->lng->txt(\"obj_user\")",
+        "has_variable": false,
+        "variable": "obj_user"
+    },
+    {
+        "id": 10374,
+        "file": "components\/ILIAS\/Container\/Skills\/classes\/class.ilContSkillAdminGUI.php",
+        "line": 203,
+        "code": "$lng->txt(\"cont_skill_no_skills_selected\")",
+        "has_variable": false,
+        "variable": "cont_skill_no_skills_selected"
+    },
+    {
+        "id": 10376,
+        "file": "components\/ILIAS\/Container\/Skills\/classes\/class.ilContSkillAdminGUI.php",
+        "line": 212,
+        "code": "$this->lng->txt(\"cont_skill_do_not_set\")",
+        "has_variable": false,
+        "variable": "cont_skill_do_not_set"
+    },
+    {
+        "id": 10378,
+        "file": "components\/ILIAS\/Container\/Skills\/classes\/class.ilContSkillAdminGUI.php",
+        "line": 235,
+        "code": "$this->lng->txt(\"save\")",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 10380,
+        "file": "components\/ILIAS\/Container\/Skills\/classes\/class.ilContSkillAdminGUI.php",
+        "line": 236,
+        "code": "$this->lng->txt(\"cancel\")",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 10382,
+        "file": "components\/ILIAS\/Container\/Skills\/classes\/class.ilContSkillAdminGUI.php",
+        "line": 238,
+        "code": "$this->lng->txt(\"cont_assign_skills\")",
+        "has_variable": false,
+        "variable": "cont_assign_skills"
+    },
+    {
+        "id": 10384,
+        "file": "components\/ILIAS\/Container\/Skills\/classes\/class.ilContSkillAdminGUI.php",
+        "line": 287,
+        "code": "$lng->txt(\"msg_obj_modified\")",
+        "has_variable": false,
+        "variable": "msg_obj_modified"
+    },
+    {
+        "id": 10386,
+        "file": "components\/ILIAS\/Container\/Skills\/classes\/class.ilContSkillAdminGUI.php",
+        "line": 309,
+        "code": "$lng->txt(\"cont_skll_published\")",
+        "has_variable": false,
+        "variable": "cont_skll_published"
+    },
+    {
+        "id": 10388,
+        "file": "components\/ILIAS\/Container\/Skills\/classes\/class.ilContSkillAdminGUI.php",
+        "line": 314,
+        "code": "$lng->txt(\"cont_skll_published_some_not\")",
+        "has_variable": false,
+        "variable": "cont_skll_published_some_not"
+    },
+    {
+        "id": 10390,
+        "file": "components\/ILIAS\/Container\/Skills\/classes\/class.ilContSkillAdminGUI.php",
+        "line": 335,
+        "code": "$lng->txt(\"no_checkbox\")",
+        "has_variable": false,
+        "variable": "no_checkbox"
+    },
+    {
+        "id": 10392,
+        "file": "components\/ILIAS\/Container\/Skills\/classes\/class.ilContSkillAdminGUI.php",
+        "line": 340,
+        "code": "$lng->txt(\"cont_really_deassign_skills\")",
+        "has_variable": false,
+        "variable": "cont_really_deassign_skills"
+    },
+    {
+        "id": 10394,
+        "file": "components\/ILIAS\/Container\/Skills\/classes\/class.ilContSkillAdminGUI.php",
+        "line": 341,
+        "code": "$lng->txt(\"cancel\")",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 10396,
+        "file": "components\/ILIAS\/Container\/Skills\/classes\/class.ilContSkillAdminGUI.php",
+        "line": 342,
+        "code": "$lng->txt(\"cont_deassign_competence\")",
+        "has_variable": false,
+        "variable": "cont_deassign_competence"
+    },
+    {
+        "id": 10398,
+        "file": "components\/ILIAS\/Container\/Skills\/classes\/class.ilContSkillAdminGUI.php",
+        "line": 362,
+        "code": "$lng->txt(\"msg_obj_modified\")",
+        "has_variable": false,
+        "variable": "msg_obj_modified"
+    },
+    {
+        "id": 10400,
+        "file": "components\/ILIAS\/Container\/Skills\/classes\/class.ilContSkillAdminGUI.php",
+        "line": 380,
+        "code": "$lng->txt(\"cont_add_skill\")",
+        "has_variable": false,
+        "variable": "cont_add_skill"
+    },
+    {
+        "id": 10402,
+        "file": "components\/ILIAS\/Container\/Skills\/classes\/class.ilContSkillAdminGUI.php",
+        "line": 424,
+        "code": "$lng->txt(\"msg_obj_modified\")",
+        "has_variable": false,
+        "variable": "msg_obj_modified"
+    },
+    {
+        "id": 10404,
+        "file": "components\/ILIAS\/Container\/Skills\/classes\/class.ilContSkillAdminGUI.php",
+        "line": 439,
+        "code": "$lng->txt(\"no_checkbox\")",
+        "has_variable": false,
+        "variable": "no_checkbox"
+    },
+    {
+        "id": 10406,
+        "file": "components\/ILIAS\/Container\/Skills\/classes\/class.ilContSkillAdminGUI.php",
+        "line": 444,
+        "code": "$lng->txt(\"cont_really_remove_skill_from_course\")",
+        "has_variable": false,
+        "variable": "cont_really_remove_skill_from_course"
+    },
+    {
+        "id": 10408,
+        "file": "components\/ILIAS\/Container\/Skills\/classes\/class.ilContSkillAdminGUI.php",
+        "line": 445,
+        "code": "$lng->txt(\"cancel\")",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 10410,
+        "file": "components\/ILIAS\/Container\/Skills\/classes\/class.ilContSkillAdminGUI.php",
+        "line": 446,
+        "code": "$lng->txt(\"remove\")",
+        "has_variable": false,
+        "variable": "remove"
+    },
+    {
+        "id": 10412,
+        "file": "components\/ILIAS\/Container\/Skills\/classes\/class.ilContSkillAdminGUI.php",
+        "line": 467,
+        "code": "$lng->txt(\"msg_obj_modified\")",
+        "has_variable": false,
+        "variable": "msg_obj_modified"
+    },
+    {
+        "id": 10414,
+        "file": "components\/ILIAS\/Container\/Skills\/classes\/class.ilContSkillAdminGUI.php",
+        "line": 505,
+        "code": "$this->lng->txt(\"please_select\")",
+        "has_variable": false,
+        "variable": "please_select"
+    },
+    {
+        "id": 10416,
+        "file": "components\/ILIAS\/Container\/Skills\/classes\/class.ilContSkillAdminGUI.php",
+        "line": 522,
+        "code": "$this->lng->txt(\"skmg_profile\")",
+        "has_variable": false,
+        "variable": "skmg_profile"
+    },
+    {
+        "id": 10418,
+        "file": "components\/ILIAS\/Container\/Skills\/classes\/class.ilContSkillAdminGUI.php",
+        "line": 528,
+        "code": "$this->lng->txt(\"cont_add_global_profile\")",
+        "has_variable": false,
+        "variable": "cont_add_global_profile"
+    },
+    {
+        "id": 10420,
+        "file": "components\/ILIAS\/Container\/Skills\/classes\/class.ilContSkillAdminGUI.php",
+        "line": 540,
+        "code": "$this->lng->txt(\"cont_add_local_profile\")",
+        "has_variable": false,
+        "variable": "cont_add_local_profile"
+    },
+    {
+        "id": 10422,
+        "file": "components\/ILIAS\/Container\/Skills\/classes\/class.ilContSkillAdminGUI.php",
+        "line": 556,
+        "code": "$lng->txt(\"cont_skill_no_profile_selected\")",
+        "has_variable": false,
+        "variable": "cont_skill_no_profile_selected"
+    },
+    {
+        "id": 10424,
+        "file": "components\/ILIAS\/Container\/Skills\/classes\/class.ilContSkillAdminGUI.php",
+        "line": 562,
+        "code": "$lng->txt(\"msg_obj_modified\")",
+        "has_variable": false,
+        "variable": "msg_obj_modified"
+    },
+    {
+        "id": 10426,
+        "file": "components\/ILIAS\/Container\/Skills\/classes\/class.ilContSkillAdminGUI.php",
+        "line": 577,
+        "code": "$lng->txt(\"no_checkbox\")",
+        "has_variable": false,
+        "variable": "no_checkbox"
+    },
+    {
+        "id": 10428,
+        "file": "components\/ILIAS\/Container\/Skills\/classes\/class.ilContSkillAdminGUI.php",
+        "line": 582,
+        "code": "$lng->txt(\"cont_skill_really_remove_profiles_from_list\")",
+        "has_variable": false,
+        "variable": "cont_skill_really_remove_profiles_from_list"
+    },
+    {
+        "id": 10430,
+        "file": "components\/ILIAS\/Container\/Skills\/classes\/class.ilContSkillAdminGUI.php",
+        "line": 583,
+        "code": "$lng->txt(\"cancel\")",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 10432,
+        "file": "components\/ILIAS\/Container\/Skills\/classes\/class.ilContSkillAdminGUI.php",
+        "line": 584,
+        "code": "$lng->txt(\"remove\")",
+        "has_variable": false,
+        "variable": "remove"
+    },
+    {
+        "id": 10434,
+        "file": "components\/ILIAS\/Container\/Skills\/classes\/class.ilContSkillAdminGUI.php",
+        "line": 588,
+        "code": "$lng->txt(\"cont_skill_removal_not_possible\")",
+        "has_variable": false,
+        "variable": "cont_skill_removal_not_possible"
+    },
+    {
+        "id": 10436,
+        "file": "components\/ILIAS\/Container\/Skills\/classes\/class.ilContSkillAdminGUI.php",
+        "line": 607,
+        "code": "$lng->txt(\"msg_obj_modified\")",
+        "has_variable": false,
+        "variable": "msg_obj_modified"
+    },
+    {
+        "id": 10438,
+        "file": "components\/ILIAS\/Container\/Skills\/classes\/class.ilContSkillAdminGUI.php",
+        "line": 623,
+        "code": "$lng->txt(\"error_sry_error\")",
+        "has_variable": false,
+        "variable": "error_sry_error"
+    },
+    {
+        "id": 10440,
+        "file": "components\/ILIAS\/Container\/Skills\/classes\/class.ilContSkillAdminGUI.php",
+        "line": 628,
+        "code": "$lng->txt(\"cont_skill_really_remove_profile_from_list\")",
+        "has_variable": false,
+        "variable": "cont_skill_really_remove_profile_from_list"
+    },
+    {
+        "id": 10442,
+        "file": "components\/ILIAS\/Container\/Skills\/classes\/class.ilContSkillAdminGUI.php",
+        "line": 629,
+        "code": "$lng->txt(\"cancel\")",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 10444,
+        "file": "components\/ILIAS\/Container\/Skills\/classes\/class.ilContSkillAdminGUI.php",
+        "line": 630,
+        "code": "$lng->txt(\"remove\")",
+        "has_variable": false,
+        "variable": "remove"
+    },
+    {
+        "id": 10446,
+        "file": "components\/ILIAS\/Container\/Skills\/classes\/class.ilContSkillAdminGUI.php",
+        "line": 647,
+        "code": "$lng->txt(\"msg_obj_modified\")",
+        "has_variable": false,
+        "variable": "msg_obj_modified"
+    },
+    {
+        "id": 10448,
+        "file": "components\/ILIAS\/Container\/Skills\/classes\/class.ilContSkillAdminGUI.php",
+        "line": 664,
+        "code": "$lng->txt(\"error_sry_error\")",
+        "has_variable": false,
+        "variable": "error_sry_error"
+    },
+    {
+        "id": 10450,
+        "file": "components\/ILIAS\/Container\/Skills\/classes\/class.ilContSkillAdminGUI.php",
+        "line": 669,
+        "code": "$lng->txt(\"cont_skill_really_delete_profile_from_list\")",
+        "has_variable": false,
+        "variable": "cont_skill_really_delete_profile_from_list"
+    },
+    {
+        "id": 10452,
+        "file": "components\/ILIAS\/Container\/Skills\/classes\/class.ilContSkillAdminGUI.php",
+        "line": 670,
+        "code": "$lng->txt(\"cancel\")",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 10454,
+        "file": "components\/ILIAS\/Container\/Skills\/classes\/class.ilContSkillAdminGUI.php",
+        "line": 671,
+        "code": "$lng->txt(\"delete\")",
+        "has_variable": false,
+        "variable": "delete"
+    },
+    {
+        "id": 10456,
+        "file": "components\/ILIAS\/Container\/Skills\/classes\/class.ilContSkillAdminGUI.php",
+        "line": 688,
+        "code": "$lng->txt(\"msg_obj_modified\")",
+        "has_variable": false,
+        "variable": "msg_obj_modified"
+    },
+    {
+        "id": 10458,
+        "file": "components\/ILIAS\/Container\/Skills\/classes\/class.ilContSkillAdminGUI.php",
+        "line": 716,
+        "code": "$lng->txt(\"cont_skill_publish\")",
+        "has_variable": false,
+        "variable": "cont_skill_publish"
+    },
+    {
+        "id": 10460,
+        "file": "components\/ILIAS\/Container\/Skills\/classes\/class.ilContSkillAdminGUI.php",
+        "line": 717,
+        "code": "$lng->txt(\"cont_skill_publish_auto\")",
+        "has_variable": false,
+        "variable": "cont_skill_publish_auto"
+    },
+    {
+        "id": 10462,
+        "file": "components\/ILIAS\/Container\/Skills\/classes\/class.ilContSkillAdminGUI.php",
+        "line": 717,
+        "code": "$lng->txt(\"cont_skill_publish_auto_info\")",
+        "has_variable": false,
+        "variable": "cont_skill_publish_auto_info"
+    },
+    {
+        "id": 10464,
+        "file": "components\/ILIAS\/Container\/Skills\/classes\/class.ilContSkillAdminGUI.php",
+        "line": 719,
+        "code": "$lng->txt(\"cont_skill_publish_manual\")",
+        "has_variable": false,
+        "variable": "cont_skill_publish_manual"
+    },
+    {
+        "id": 10466,
+        "file": "components\/ILIAS\/Container\/Skills\/classes\/class.ilContSkillAdminGUI.php",
+        "line": 719,
+        "code": "$lng->txt(\"cont_skill_publish_manual_info\")",
+        "has_variable": false,
+        "variable": "cont_skill_publish_manual_info"
+    },
+    {
+        "id": 10468,
+        "file": "components\/ILIAS\/Container\/Skills\/classes\/class.ilContSkillAdminGUI.php",
+        "line": 724,
+        "code": "$lng->txt(\"save\")",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 10470,
+        "file": "components\/ILIAS\/Container\/Skills\/classes\/class.ilContSkillAdminGUI.php",
+        "line": 726,
+        "code": "$lng->txt(\"settings\")",
+        "has_variable": false,
+        "variable": "settings"
+    },
+    {
+        "id": 10472,
+        "file": "components\/ILIAS\/Container\/Skills\/classes\/class.ilContSkillAdminGUI.php",
+        "line": 741,
+        "code": "$lng->txt(\"msg_obj_modified\")",
+        "has_variable": false,
+        "variable": "msg_obj_modified"
+    },
+    {
+        "id": 10474,
+        "file": "components\/ILIAS\/Container\/Skills\/classes\/class.ilContainerSkillGUI.php",
+        "line": 97,
+        "code": "$lng->txt(\"cont_skill_profiles\")",
+        "has_variable": false,
+        "variable": "cont_skill_profiles"
+    },
+    {
+        "id": 10476,
+        "file": "components\/ILIAS\/Container\/Skills\/classes\/class.ilContainerSkillGUI.php",
+        "line": 102,
+        "code": "$lng->txt(\"cont_skill_records\")",
+        "has_variable": false,
+        "variable": "cont_skill_records"
+    },
+    {
+        "id": 10478,
+        "file": "components\/ILIAS\/Container\/Skills\/classes\/class.ilContainerSkillGUI.php",
+        "line": 110,
+        "code": "$lng->txt(\"cont_skill_members\")",
+        "has_variable": false,
+        "variable": "cont_skill_members"
+    },
+    {
+        "id": 10480,
+        "file": "components\/ILIAS\/Container\/Skills\/classes\/class.ilContainerSkillGUI.php",
+        "line": 118,
+        "code": "$lng->txt(\"cont_skill_assigned_comp\")",
+        "has_variable": false,
+        "variable": "cont_skill_assigned_comp"
+    },
+    {
+        "id": 10482,
+        "file": "components\/ILIAS\/Container\/Skills\/classes\/class.ilContainerSkillGUI.php",
+        "line": 126,
+        "code": "$lng->txt(\"cont_skill_assigned_profiles\")",
+        "has_variable": false,
+        "variable": "cont_skill_assigned_profiles"
+    },
+    {
+        "id": 10484,
+        "file": "components\/ILIAS\/Container\/Skills\/classes\/class.ilContainerSkillGUI.php",
+        "line": 133,
+        "code": "$lng->txt(\"settings\")",
+        "has_variable": false,
+        "variable": "settings"
+    },
+    {
+        "id": 10486,
+        "file": "components\/ILIAS\/Container\/Sorting\/class.ilContainerSortingSettings.php",
+        "line": 287,
+        "code": "$lng->txt('crs_sort_activation')",
+        "has_variable": false,
+        "variable": "crs_sort_activation"
+    },
+    {
+        "id": 10488,
+        "file": "components\/ILIAS\/Container\/Sorting\/class.ilContainerSortingSettings.php",
+        "line": 290,
+        "code": "$lng->txt('crs_sort_manual')",
+        "has_variable": false,
+        "variable": "crs_sort_manual"
+    },
+    {
+        "id": 10490,
+        "file": "components\/ILIAS\/Container\/Sorting\/class.ilContainerSortingSettings.php",
+        "line": 293,
+        "code": "$lng->txt('crs_sort_title')",
+        "has_variable": false,
+        "variable": "crs_sort_title"
+    },
+    {
+        "id": 10492,
+        "file": "components\/ILIAS\/Container\/Sorting\/class.ilContainerSortingSettings.php",
+        "line": 296,
+        "code": "$lng->txt('sorting_creation_header')",
+        "has_variable": false,
+        "variable": "sorting_creation_header"
+    },
+    {
+        "id": 10494,
+        "file": "components\/ILIAS\/Container\/StartObjects\/Content\/ObjectsContent.php",
+        "line": 121,
+        "code": "$this->lng->txt('continue_work')",
+        "has_variable": false,
+        "variable": "continue_work"
+    },
+    {
+        "id": 10496,
+        "file": "components\/ILIAS\/Container\/StartObjects\/Content\/ObjectsContent.php",
+        "line": 133,
+        "code": "$this->lng->txt(\"add_to_favourites\")",
+        "has_variable": false,
+        "variable": "add_to_favourites"
+    },
+    {
+        "id": 10498,
+        "file": "components\/ILIAS\/Container\/StartObjects\/Content\/ObjectsContent.php",
+        "line": 140,
+        "code": "$this->lng->txt(\"remove_from_favourites\")",
+        "has_variable": false,
+        "variable": "remove_from_favourites"
+    },
+    {
+        "id": 10500,
+        "file": "components\/ILIAS\/Container\/StartObjects\/Content\/ObjectsContent.php",
+        "line": 152,
+        "code": "$this->lng->txt('continue_work')",
+        "has_variable": false,
+        "variable": "continue_work"
+    },
+    {
+        "id": 10502,
+        "file": "components\/ILIAS\/Container\/StartObjects\/Content\/ObjectsContent.php",
+        "line": 171,
+        "code": "$this->lng->txt('crs_objective_' . $accomplished)",
+        "has_variable": true,
+        "variable": "'crs_objective_' . $accomplished"
+    },
+    {
+        "id": 10504,
+        "file": "components\/ILIAS\/Container\/StartObjects\/Content\/ObjectsContent.php",
+        "line": 275,
+        "code": "$this->lng->txt('crs_objective_accomplished')",
+        "has_variable": false,
+        "variable": "crs_objective_accomplished"
+    },
+    {
+        "id": 10506,
+        "file": "components\/ILIAS\/Container\/StartObjects\/Content\/ObjectsContent.php",
+        "line": 276,
+        "code": "$this->lng->txt('actions')",
+        "has_variable": false,
+        "variable": "actions"
+    },
+    {
+        "id": 10508,
+        "file": "components\/ILIAS\/Container\/StartObjects\/Content\/ObjectsContent.php",
+        "line": 294,
+        "code": "$this->lng->txt('crs_info_start')",
+        "has_variable": false,
+        "variable": "crs_info_start"
+    },
+    {
+        "id": 10510,
+        "file": "components\/ILIAS\/Container\/StartObjects\/Content\/ObjectsContent.php",
+        "line": 302,
+        "code": "$this->lng->txt('crs_table_start_objects')",
+        "has_variable": false,
+        "variable": "crs_table_start_objects"
+    },
+    {
+        "id": 10512,
+        "file": "components\/ILIAS\/Container\/StartObjects\/Objects\/Table\/ObjectsBuilder.php",
+        "line": 49,
+        "code": "$this->lng->txt('crs_start_objects')",
+        "has_variable": false,
+        "variable": "crs_start_objects"
+    },
+    {
+        "id": 10514,
+        "file": "components\/ILIAS\/Container\/StartObjects\/Objects\/Table\/ObjectsBuilder.php",
+        "line": 64,
+        "code": "$this->lng->txt('obj_' . $data_row['type'])",
+        "has_variable": true,
+        "variable": "'obj_' . $data_row['type']"
+    },
+    {
+        "id": 10516,
+        "file": "components\/ILIAS\/Container\/StartObjects\/Objects\/Table\/ObjectsBuilder.php",
+        "line": 81,
+        "code": "$this->lng->txt('type')",
+        "has_variable": false,
+        "variable": "type"
+    },
+    {
+        "id": 10518,
+        "file": "components\/ILIAS\/Container\/StartObjects\/Objects\/Table\/ObjectsBuilder.php",
+        "line": 82,
+        "code": "$this->lng->txt('title')",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 10520,
+        "file": "components\/ILIAS\/Container\/StartObjects\/Objects\/Table\/ObjectsBuilder.php",
+        "line": 83,
+        "code": "$this->lng->txt('description')",
+        "has_variable": false,
+        "variable": "description"
+    },
+    {
+        "id": 10522,
+        "file": "components\/ILIAS\/Container\/StartObjects\/Objects\/Table\/ObjectsBuilder.php",
+        "line": 84,
+        "code": "$this->lng->txt('remove')",
+        "has_variable": false,
+        "variable": "remove"
+    },
+    {
+        "id": 10524,
+        "file": "components\/ILIAS\/Container\/StartObjects\/Objects\/Table\/PossibleObjectsBuilder.php",
+        "line": 49,
+        "code": "$this->lng->txt('crs_select_starter')",
+        "has_variable": false,
+        "variable": "crs_select_starter"
+    },
+    {
+        "id": 10526,
+        "file": "components\/ILIAS\/Container\/StartObjects\/Objects\/Table\/PossibleObjectsBuilder.php",
+        "line": 64,
+        "code": "$this->lng->txt('obj_' . $data_row['type'])",
+        "has_variable": true,
+        "variable": "'obj_' . $data_row['type']"
+    },
+    {
+        "id": 10528,
+        "file": "components\/ILIAS\/Container\/StartObjects\/Objects\/Table\/PossibleObjectsBuilder.php",
+        "line": 76,
+        "code": "$this->lng->txt('type')",
+        "has_variable": false,
+        "variable": "type"
+    },
+    {
+        "id": 10530,
+        "file": "components\/ILIAS\/Container\/StartObjects\/Objects\/Table\/PossibleObjectsBuilder.php",
+        "line": 77,
+        "code": "$this->lng->txt('title')",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 10532,
+        "file": "components\/ILIAS\/Container\/StartObjects\/Objects\/Table\/PossibleObjectsBuilder.php",
+        "line": 78,
+        "code": "$this->lng->txt('description')",
+        "has_variable": false,
+        "variable": "description"
+    },
+    {
+        "id": 10534,
+        "file": "components\/ILIAS\/Container\/StartObjects\/Objects\/Table\/PossibleObjectsBuilder.php",
+        "line": 79,
+        "code": "$this->lng->txt('crs_add_starter')",
+        "has_variable": false,
+        "variable": "crs_add_starter"
+    },
+    {
+        "id": 10536,
+        "file": "components\/ILIAS\/Container\/StartObjects\/Objects\/class.ilContainerStartObjectsGUI.php",
+        "line": 89,
+        "code": "$this->lng->txt(\"back\")",
+        "has_variable": false,
+        "variable": "back"
+    },
+    {
+        "id": 10538,
+        "file": "components\/ILIAS\/Container\/StartObjects\/Objects\/class.ilContainerStartObjectsGUI.php",
+        "line": 133,
+        "code": "$this->lng->txt(\"permission_denied\")",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 10540,
+        "file": "components\/ILIAS\/Container\/StartObjects\/Objects\/class.ilContainerStartObjectsGUI.php",
+        "line": 144,
+        "code": "$this->lng->txt(\"cntr_manage\")",
+        "has_variable": false,
+        "variable": "cntr_manage"
+    },
+    {
+        "id": 10542,
+        "file": "components\/ILIAS\/Container\/StartObjects\/Objects\/class.ilContainerStartObjectsGUI.php",
+        "line": 160,
+        "code": "$this->lng->txt('crs_add_starter')",
+        "has_variable": false,
+        "variable": "crs_add_starter"
+    },
+    {
+        "id": 10544,
+        "file": "components\/ILIAS\/Container\/StartObjects\/Objects\/class.ilContainerStartObjectsGUI.php",
+        "line": 167,
+        "code": "$this->lng->txt(\"cntr_text_media_editor\")",
+        "has_variable": false,
+        "variable": "cntr_text_media_editor"
+    },
+    {
+        "id": 10546,
+        "file": "components\/ILIAS\/Container\/StartObjects\/Objects\/class.ilContainerStartObjectsGUI.php",
+        "line": 203,
+        "code": "$this->lng->txt('cntr_saved_sorting')",
+        "has_variable": false,
+        "variable": "cntr_saved_sorting"
+    },
+    {
+        "id": 10548,
+        "file": "components\/ILIAS\/Container\/StartObjects\/Objects\/class.ilContainerStartObjectsGUI.php",
+        "line": 215,
+        "code": "$this->lng->txt('select_one')",
+        "has_variable": false,
+        "variable": "select_one"
+    },
+    {
+        "id": 10550,
+        "file": "components\/ILIAS\/Container\/StartObjects\/Objects\/class.ilContainerStartObjectsGUI.php",
+        "line": 225,
+        "code": "$this->lng->txt(\"crs_starter_delete_sure\")",
+        "has_variable": false,
+        "variable": "crs_starter_delete_sure"
+    },
+    {
+        "id": 10552,
+        "file": "components\/ILIAS\/Container\/StartObjects\/Objects\/class.ilContainerStartObjectsGUI.php",
+        "line": 226,
+        "code": "$this->lng->txt(\"cancel\")",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 10554,
+        "file": "components\/ILIAS\/Container\/StartObjects\/Objects\/class.ilContainerStartObjectsGUI.php",
+        "line": 227,
+        "code": "$this->lng->txt(\"remove\")",
+        "has_variable": false,
+        "variable": "remove"
+    },
+    {
+        "id": 10556,
+        "file": "components\/ILIAS\/Container\/StartObjects\/Objects\/class.ilContainerStartObjectsGUI.php",
+        "line": 235,
+        "code": "$this->lng->txt('obj_' . ilObject::_lookupType($obj_id))",
+        "has_variable": true,
+        "variable": "'obj_' . ilObject::_lookupType($obj_id)"
+    },
+    {
+        "id": 10558,
+        "file": "components\/ILIAS\/Container\/StartObjects\/Objects\/class.ilContainerStartObjectsGUI.php",
+        "line": 247,
+        "code": "$this->lng->txt('select_one')",
+        "has_variable": false,
+        "variable": "select_one"
+    },
+    {
+        "id": 10560,
+        "file": "components\/ILIAS\/Container\/StartObjects\/Objects\/class.ilContainerStartObjectsGUI.php",
+        "line": 253,
+        "code": "$this->lng->txt('crs_starter_deleted')",
+        "has_variable": false,
+        "variable": "crs_starter_deleted"
+    },
+    {
+        "id": 10562,
+        "file": "components\/ILIAS\/Container\/StartObjects\/Objects\/class.ilContainerStartObjectsGUI.php",
+        "line": 292,
+        "code": "$this->lng->txt('select_one')",
+        "has_variable": false,
+        "variable": "select_one"
+    },
+    {
+        "id": 10564,
+        "file": "components\/ILIAS\/Container\/StartObjects\/Objects\/class.ilContainerStartObjectsGUI.php",
+        "line": 304,
+        "code": "$this->lng->txt('crs_added_starters')",
+        "has_variable": false,
+        "variable": "crs_added_starters"
+    },
+    {
+        "id": 10566,
+        "file": "components\/ILIAS\/Container\/StartObjects\/Objects\/class.ilContainerStartObjectsGUI.php",
+        "line": 307,
+        "code": "$this->lng->txt('crs_starters_already_assigned')",
+        "has_variable": false,
+        "variable": "crs_starters_already_assigned"
+    },
+    {
+        "id": 10568,
+        "file": "components\/ILIAS\/Container\/classes\/class.ilContainer.php",
+        "line": 120,
+        "code": "$lng->txt(\"cont_tile_size_1\")",
+        "has_variable": false,
+        "variable": "cont_tile_size_1"
+    },
+    {
+        "id": 10570,
+        "file": "components\/ILIAS\/Container\/classes\/class.ilContainer.php",
+        "line": 121,
+        "code": "$lng->txt(\"cont_tile_size_0\")",
+        "has_variable": false,
+        "variable": "cont_tile_size_0"
+    },
+    {
+        "id": 10572,
+        "file": "components\/ILIAS\/Container\/classes\/class.ilContainer.php",
+        "line": 122,
+        "code": "$lng->txt(\"cont_tile_size_2\")",
+        "has_variable": false,
+        "variable": "cont_tile_size_2"
+    },
+    {
+        "id": 10574,
+        "file": "components\/ILIAS\/Container\/classes\/class.ilContainer.php",
+        "line": 123,
+        "code": "$lng->txt(\"cont_tile_size_3\")",
+        "has_variable": false,
+        "variable": "cont_tile_size_3"
+    },
+    {
+        "id": 10576,
+        "file": "components\/ILIAS\/Container\/classes\/class.ilContainer.php",
+        "line": 124,
+        "code": "$lng->txt(\"cont_tile_size_4\")",
+        "has_variable": false,
+        "variable": "cont_tile_size_4"
+    },
+    {
+        "id": 10578,
+        "file": "components\/ILIAS\/Container\/classes\/class.ilContainerGUI.php",
+        "line": 186,
+        "code": "$this->lng->txt('msg_no_perm_read')",
+        "has_variable": false,
+        "variable": "msg_no_perm_read"
+    },
+    {
+        "id": 10580,
+        "file": "components\/ILIAS\/Container\/classes\/class.ilContainerGUI.php",
+        "line": 241,
+        "code": "$lng->txt(\"back\")",
+        "has_variable": false,
+        "variable": "back"
+    },
+    {
+        "id": 10582,
+        "file": "components\/ILIAS\/Container\/classes\/class.ilContainerGUI.php",
+        "line": 455,
+        "code": "$lng->txt(\"cntr_text_media_editor\")",
+        "has_variable": false,
+        "variable": "cntr_text_media_editor"
+    },
+    {
+        "id": 10584,
+        "file": "components\/ILIAS\/Container\/classes\/class.ilContainerGUI.php",
+        "line": 522,
+        "code": "$this->lng->txt('paste_clipboard_items')",
+        "has_variable": false,
+        "variable": "paste_clipboard_items"
+    },
+    {
+        "id": 10586,
+        "file": "components\/ILIAS\/Container\/classes\/class.ilContainerGUI.php",
+        "line": 529,
+        "code": "$this->lng->txt('clear_clipboard')",
+        "has_variable": false,
+        "variable": "clear_clipboard"
+    },
+    {
+        "id": 10588,
+        "file": "components\/ILIAS\/Container\/classes\/class.ilContainerGUI.php",
+        "line": 546,
+        "code": "$lng->txt(\"actions\")",
+        "has_variable": false,
+        "variable": "actions"
+    },
+    {
+        "id": 10590,
+        "file": "components\/ILIAS\/Container\/classes\/class.ilContainerGUI.php",
+        "line": 549,
+        "code": "$this->lng->txt('delete_selected_items')",
+        "has_variable": false,
+        "variable": "delete_selected_items"
+    },
+    {
+        "id": 10592,
+        "file": "components\/ILIAS\/Container\/classes\/class.ilContainerGUI.php",
+        "line": 553,
+        "code": "$this->lng->txt('move_selected_items')",
+        "has_variable": false,
+        "variable": "move_selected_items"
+    },
+    {
+        "id": 10594,
+        "file": "components\/ILIAS\/Container\/classes\/class.ilContainerGUI.php",
+        "line": 557,
+        "code": "$this->lng->txt('copy_selected_items')",
+        "has_variable": false,
+        "variable": "copy_selected_items"
+    },
+    {
+        "id": 10596,
+        "file": "components\/ILIAS\/Container\/classes\/class.ilContainerGUI.php",
+        "line": 561,
+        "code": "$this->lng->txt('link_selected_items')",
+        "has_variable": false,
+        "variable": "link_selected_items"
+    },
+    {
+        "id": 10598,
+        "file": "components\/ILIAS\/Container\/classes\/class.ilContainerGUI.php",
+        "line": 571,
+        "code": "$this->lng->txt('download_selected_items')",
+        "has_variable": false,
+        "variable": "download_selected_items"
+    },
+    {
+        "id": 10600,
+        "file": "components\/ILIAS\/Container\/classes\/class.ilContainerGUI.php",
+        "line": 597,
+        "code": "$this->lng->txt('sorting_save')",
+        "has_variable": false,
+        "variable": "sorting_save"
+    },
+    {
+        "id": 10602,
+        "file": "components\/ILIAS\/Container\/classes\/class.ilContainerGUI.php",
+        "line": 622,
+        "code": "$this->lng->txt('download_selected_items')",
+        "has_variable": false,
+        "variable": "download_selected_items"
+    },
+    {
+        "id": 10604,
+        "file": "components\/ILIAS\/Container\/classes\/class.ilContainerGUI.php",
+        "line": 632,
+        "code": "$this->lng->txt('msg_no_downloadable_objects')",
+        "has_variable": false,
+        "variable": "msg_no_downloadable_objects"
+    },
+    {
+        "id": 10606,
+        "file": "components\/ILIAS\/Container\/classes\/class.ilContainerGUI.php",
+        "line": 709,
+        "code": "$lng->txt(\"help\")",
+        "has_variable": false,
+        "variable": "help"
+    },
+    {
+        "id": 10608,
+        "file": "components\/ILIAS\/Container\/classes\/class.ilContainerGUI.php",
+        "line": 715,
+        "code": "$lng->txt(\"objs_\" . $type)",
+        "has_variable": true,
+        "variable": "\"objs_\" . $type"
+    },
+    {
+        "id": 10610,
+        "file": "components\/ILIAS\/Container\/classes\/class.ilContainerGUI.php",
+        "line": 721,
+        "code": "$lng->txt(\"obj_lrss\")",
+        "has_variable": false,
+        "variable": "obj_lrss"
+    },
+    {
+        "id": 10612,
+        "file": "components\/ILIAS\/Container\/classes\/class.ilContainerGUI.php",
+        "line": 738,
+        "code": "$this->lng->txt(\"objs_\" . $a_type)",
+        "has_variable": true,
+        "variable": "\"objs_\" . $a_type"
+    },
+    {
+        "id": 10614,
+        "file": "components\/ILIAS\/Container\/classes\/class.ilContainerGUI.php",
+        "line": 765,
+        "code": "$this->lng->txt(\"obj_\" . $a_image_type)",
+        "has_variable": true,
+        "variable": "\"obj_\" . $a_image_type"
+    },
+    {
+        "id": 10616,
+        "file": "components\/ILIAS\/Container\/classes\/class.ilContainerGUI.php",
+        "line": 813,
+        "code": "$this->lng->txt(\"obj_\" . $a_type)",
+        "has_variable": true,
+        "variable": "\"obj_\" . $a_type"
+    },
+    {
+        "id": 10618,
+        "file": "components\/ILIAS\/Container\/classes\/class.ilContainerGUI.php",
+        "line": 842,
+        "code": "$this->lng->txt(\"obj_cat\")",
+        "has_variable": false,
+        "variable": "obj_cat"
+    },
+    {
+        "id": 10620,
+        "file": "components\/ILIAS\/Container\/classes\/class.ilContainerGUI.php",
+        "line": 873,
+        "code": "$lng->txt(\"view\")",
+        "has_variable": false,
+        "variable": "view"
+    },
+    {
+        "id": 10622,
+        "file": "components\/ILIAS\/Container\/classes\/class.ilContainerGUI.php",
+        "line": 877,
+        "code": "$lng->txt(\"view\")",
+        "has_variable": false,
+        "variable": "view"
+    },
+    {
+        "id": 10624,
+        "file": "components\/ILIAS\/Container\/classes\/class.ilContainerGUI.php",
+        "line": 886,
+        "code": "$lng->txt(\"cntr_manage\")",
+        "has_variable": false,
+        "variable": "cntr_manage"
+    },
+    {
+        "id": 10626,
+        "file": "components\/ILIAS\/Container\/classes\/class.ilContainerGUI.php",
+        "line": 890,
+        "code": "$lng->txt(\"cntr_manage\")",
+        "has_variable": false,
+        "variable": "cntr_manage"
+    },
+    {
+        "id": 10628,
+        "file": "components\/ILIAS\/Container\/classes\/class.ilContainerGUI.php",
+        "line": 896,
+        "code": "$lng->txt(\"cntr_ordering\")",
+        "has_variable": false,
+        "variable": "cntr_ordering"
+    },
+    {
+        "id": 10630,
+        "file": "components\/ILIAS\/Container\/classes\/class.ilContainerGUI.php",
+        "line": 1000,
+        "code": "$this->lng->txt(\"no_checkbox\")",
+        "has_variable": false,
+        "variable": "no_checkbox"
+    },
+    {
+        "id": 10632,
+        "file": "components\/ILIAS\/Container\/classes\/class.ilContainerGUI.php",
+        "line": 1031,
+        "code": "$this->lng->txt(\"msg_no_perm_cut\")",
+        "has_variable": false,
+        "variable": "msg_no_perm_cut"
+    },
+    {
+        "id": 10634,
+        "file": "components\/ILIAS\/Container\/classes\/class.ilContainerGUI.php",
+        "line": 1039,
+        "code": "$this->lng->txt(\"msg_cut_clipboard\")",
+        "has_variable": false,
+        "variable": "msg_cut_clipboard"
+    },
+    {
+        "id": 10636,
+        "file": "components\/ILIAS\/Container\/classes\/class.ilContainerGUI.php",
+        "line": 1060,
+        "code": "$this->lng->txt(\"no_checkbox\")",
+        "has_variable": false,
+        "variable": "no_checkbox"
+    },
+    {
+        "id": 10638,
+        "file": "components\/ILIAS\/Container\/classes\/class.ilContainerGUI.php",
+        "line": 1093,
+        "code": "$this->lng->txt(\"cntr_container_only_on_their_own\")",
+        "has_variable": false,
+        "variable": "cntr_container_only_on_their_own"
+    },
+    {
+        "id": 10640,
+        "file": "components\/ILIAS\/Container\/classes\/class.ilContainerGUI.php",
+        "line": 1105,
+        "code": "$this->lng->txt(\"msg_no_perm_copy\")",
+        "has_variable": false,
+        "variable": "msg_no_perm_copy"
+    },
+    {
+        "id": 10642,
+        "file": "components\/ILIAS\/Container\/classes\/class.ilContainerGUI.php",
+        "line": 1124,
+        "code": "$this->lng->txt(\"msg_copy_clipboard\")",
+        "has_variable": false,
+        "variable": "msg_copy_clipboard"
+    },
+    {
+        "id": 10644,
+        "file": "components\/ILIAS\/Container\/classes\/class.ilContainerGUI.php",
+        "line": 1149,
+        "code": "$this->lng->txt(\"no_checkbox\")",
+        "has_variable": false,
+        "variable": "no_checkbox"
+    },
+    {
+        "id": 10646,
+        "file": "components\/ILIAS\/Container\/classes\/class.ilContainerGUI.php",
+        "line": 1157,
+        "code": "$this->lng->txt(\"cont_only_crs_grp_fold_download\")",
+        "has_variable": false,
+        "variable": "cont_only_crs_grp_fold_download"
+    },
+    {
+        "id": 10648,
+        "file": "components\/ILIAS\/Container\/classes\/class.ilContainerGUI.php",
+        "line": 1170,
+        "code": "$this->lng->txt('msg_bt_download_started')",
+        "has_variable": false,
+        "variable": "msg_bt_download_started"
+    },
+    {
+        "id": 10650,
+        "file": "components\/ILIAS\/Container\/classes\/class.ilContainerGUI.php",
+        "line": 1196,
+        "code": "$this->lng->txt(\"no_checkbox\")",
+        "has_variable": false,
+        "variable": "no_checkbox"
+    },
+    {
+        "id": 10652,
+        "file": "components\/ILIAS\/Container\/classes\/class.ilContainerGUI.php",
+        "line": 1217,
+        "code": "$this->lng->txt(\"msg_no_perm_link\")",
+        "has_variable": false,
+        "variable": "msg_no_perm_link"
+    },
+    {
+        "id": 10654,
+        "file": "components\/ILIAS\/Container\/classes\/class.ilContainerGUI.php",
+        "line": 1225,
+        "code": "$this->lng->txt('msg_obj_no_link')",
+        "has_variable": false,
+        "variable": "msg_obj_no_link"
+    },
+    {
+        "id": 10656,
+        "file": "components\/ILIAS\/Container\/classes\/class.ilContainerGUI.php",
+        "line": 1237,
+        "code": "$this->lng->txt(\"msg_link_clipboard_\" . $suffix)",
+        "has_variable": true,
+        "variable": "\"msg_link_clipboard_\" . $suffix"
+    },
+    {
+        "id": 10658,
+        "file": "components\/ILIAS\/Container\/classes\/class.ilContainerGUI.php",
+        "line": 1253,
+        "code": "$this->lng->txt(\"msg_clear_clipboard\")",
+        "has_variable": false,
+        "variable": "msg_clear_clipboard"
+    },
+    {
+        "id": 10660,
+        "file": "components\/ILIAS\/Container\/classes\/class.ilContainerGUI.php",
+        "line": 1286,
+        "code": "$this->lng->txt('select_at_least_one_object')",
+        "has_variable": false,
+        "variable": "select_at_least_one_object"
+    },
+    {
+        "id": 10662,
+        "file": "components\/ILIAS\/Container\/classes\/class.ilContainerGUI.php",
+        "line": 1311,
+        "code": "$this->lng->txt('msg_no_perm_paste_object_in_folder')",
+        "has_variable": false,
+        "variable": "msg_no_perm_paste_object_in_folder"
+    },
+    {
+        "id": 10664,
+        "file": "components\/ILIAS\/Container\/classes\/class.ilContainerGUI.php",
+        "line": 1321,
+        "code": "$this->lng->txt('msg_obj_exists_in_folder')",
+        "has_variable": false,
+        "variable": "msg_obj_exists_in_folder"
+    },
+    {
+        "id": 10666,
+        "file": "components\/ILIAS\/Container\/classes\/class.ilContainerGUI.php",
+        "line": 1331,
+        "code": "$this->lng->txt('msg_paste_object_not_in_itself')",
+        "has_variable": false,
+        "variable": "msg_paste_object_not_in_itself"
+    },
+    {
+        "id": 10668,
+        "file": "components\/ILIAS\/Container\/classes\/class.ilContainerGUI.php",
+        "line": 1342,
+        "code": "$this->lng->txt('msg_obj_may_not_contain_objects_of_type')",
+        "has_variable": false,
+        "variable": "msg_obj_may_not_contain_objects_of_type"
+    },
+    {
+        "id": 10670,
+        "file": "components\/ILIAS\/Container\/classes\/class.ilContainerGUI.php",
+        "line": 1345,
+        "code": "$lng->txt('obj_' . $obj_data->getType())",
+        "has_variable": true,
+        "variable": "'obj_' . $obj_data->getType()"
+    },
+    {
+        "id": 10672,
+        "file": "components\/ILIAS\/Container\/classes\/class.ilContainerGUI.php",
+        "line": 1429,
+        "code": "$this->lng->txt('msg_cloned')",
+        "has_variable": false,
+        "variable": "msg_cloned"
+    },
+    {
+        "id": 10674,
+        "file": "components\/ILIAS\/Container\/classes\/class.ilContainerGUI.php",
+        "line": 1468,
+        "code": "$this->lng->txt('msg_cut_copied')",
+        "has_variable": false,
+        "variable": "msg_cut_copied"
+    },
+    {
+        "id": 10676,
+        "file": "components\/ILIAS\/Container\/classes\/class.ilContainerGUI.php",
+        "line": 1533,
+        "code": "$this->lng->txt('mgs_objects_linked_to_the_following_folders_' . $suffix)",
+        "has_variable": true,
+        "variable": "'mgs_objects_linked_to_the_following_folders_' . $suffix"
+    },
+    {
+        "id": 10678,
+        "file": "components\/ILIAS\/Container\/classes\/class.ilContainerGUI.php",
+        "line": 1580,
+        "code": "$this->lng->txt($txt_var)",
+        "has_variable": true,
+        "variable": "$txt_var"
+    },
+    {
+        "id": 10680,
+        "file": "components\/ILIAS\/Container\/classes\/class.ilContainerGUI.php",
+        "line": 1586,
+        "code": "$this->lng->txt(\"obj_insert_into_clipboard\")",
+        "has_variable": false,
+        "variable": "obj_insert_into_clipboard"
+    },
+    {
+        "id": 10682,
+        "file": "components\/ILIAS\/Container\/classes\/class.ilContainerGUI.php",
+        "line": 1588,
+        "code": "$this->lng->txt(\"cancel\")",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 10684,
+        "file": "components\/ILIAS\/Container\/classes\/class.ilContainerGUI.php",
+        "line": 1616,
+        "code": "$this->lng->txt(\"obj_inserted_clipboard\")",
+        "has_variable": false,
+        "variable": "obj_inserted_clipboard"
+    },
+    {
+        "id": 10686,
+        "file": "components\/ILIAS\/Container\/classes\/class.ilContainerGUI.php",
+        "line": 1695,
+        "code": "$this->lng->txt(\"msg_obj_exists\")",
+        "has_variable": false,
+        "variable": "msg_obj_exists"
+    },
+    {
+        "id": 10688,
+        "file": "components\/ILIAS\/Container\/classes\/class.ilContainerGUI.php",
+        "line": 1700,
+        "code": "$this->lng->txt(\"msg_not_in_itself\")",
+        "has_variable": false,
+        "variable": "msg_not_in_itself"
+    },
+    {
+        "id": 10690,
+        "file": "components\/ILIAS\/Container\/classes\/class.ilContainerGUI.php",
+        "line": 1707,
+        "code": "$this->lng->txt(\"msg_may_not_contain\")",
+        "has_variable": false,
+        "variable": "msg_may_not_contain"
+    },
+    {
+        "id": 10692,
+        "file": "components\/ILIAS\/Container\/classes\/class.ilContainerGUI.php",
+        "line": 1714,
+        "code": "$this->lng->txt(\"msg_no_perm_paste\")",
+        "has_variable": false,
+        "variable": "msg_no_perm_paste"
+    },
+    {
+        "id": 10694,
+        "file": "components\/ILIAS\/Container\/classes\/class.ilContainerGUI.php",
+        "line": 1820,
+        "code": "$this->lng->txt(\"msg_cut_copied\")",
+        "has_variable": false,
+        "variable": "msg_cut_copied"
+    },
+    {
+        "id": 10696,
+        "file": "components\/ILIAS\/Container\/classes\/class.ilContainerGUI.php",
+        "line": 1823,
+        "code": "$this->lng->txt(\"msg_cloned\")",
+        "has_variable": false,
+        "variable": "msg_cloned"
+    },
+    {
+        "id": 10698,
+        "file": "components\/ILIAS\/Container\/classes\/class.ilContainerGUI.php",
+        "line": 1826,
+        "code": "$this->lng->txt(\"msg_linked\")",
+        "has_variable": false,
+        "variable": "msg_linked"
+    },
+    {
+        "id": 10700,
+        "file": "components\/ILIAS\/Container\/classes\/class.ilContainerGUI.php",
+        "line": 1848,
+        "code": "$this->lng->txt(\"permission_denied\")",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 10702,
+        "file": "components\/ILIAS\/Container\/classes\/class.ilContainerGUI.php",
+        "line": 1859,
+        "code": "$this->lng->txt(\"obj_\" . $tmp_obj->getType())",
+        "has_variable": true,
+        "variable": "\"obj_\" . $tmp_obj->getType()"
+    },
+    {
+        "id": 10704,
+        "file": "components\/ILIAS\/Container\/classes\/class.ilContainerGUI.php",
+        "line": 1861,
+        "code": "$this->lng->txt(\"move\")",
+        "has_variable": false,
+        "variable": "move"
+    },
+    {
+        "id": 10706,
+        "file": "components\/ILIAS\/Container\/classes\/class.ilContainerGUI.php",
+        "line": 1861,
+        "code": "$this->lng->txt(\n                    $this->clipboard->getCmd()\n                )",
+        "has_variable": true,
+        "variable": "$this->clipboard->getCmd()"
+    },
+    {
+        "id": 10708,
+        "file": "components\/ILIAS\/Container\/classes\/class.ilContainerGUI.php",
+        "line": 1878,
+        "code": "$lng->txt(\"insert_object_here\")",
+        "has_variable": false,
+        "variable": "insert_object_here"
+    },
+    {
+        "id": 10710,
+        "file": "components\/ILIAS\/Container\/classes\/class.ilContainerGUI.php",
+        "line": 1882,
+        "code": "$lng->txt(\"clear_clipboard\")",
+        "has_variable": false,
+        "variable": "clear_clipboard"
+    },
+    {
+        "id": 10712,
+        "file": "components\/ILIAS\/Container\/classes\/class.ilContainerGUI.php",
+        "line": 1956,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 10714,
+        "file": "components\/ILIAS\/Container\/classes\/class.ilContainerGUI.php",
+        "line": 1959,
+        "code": "$this->lng->txt('select_one')",
+        "has_variable": false,
+        "variable": "select_one"
+    },
+    {
+        "id": 10716,
+        "file": "components\/ILIAS\/Container\/classes\/class.ilContainerGUI.php",
+        "line": 1964,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 10718,
+        "file": "components\/ILIAS\/Container\/classes\/class.ilContainerGUI.php",
+        "line": 1979,
+        "code": "$this->lng->txt(\"object_duplicated\")",
+        "has_variable": false,
+        "variable": "object_duplicated"
+    },
+    {
+        "id": 10720,
+        "file": "components\/ILIAS\/Container\/classes\/class.ilContainerGUI.php",
+        "line": 1982,
+        "code": "$this->lng->txt(\"object_copy_in_progress\")",
+        "has_variable": false,
+        "variable": "object_copy_in_progress"
+    },
+    {
+        "id": 10722,
+        "file": "components\/ILIAS\/Container\/classes\/class.ilContainerGUI.php",
+        "line": 1995,
+        "code": "$this->lng->txt('cntr_saved_sorting')",
+        "has_variable": false,
+        "variable": "cntr_saved_sorting"
+    },
+    {
+        "id": 10724,
+        "file": "components\/ILIAS\/Container\/classes\/class.ilContainerGUI.php",
+        "line": 2053,
+        "code": "$lng->txt('path')",
+        "has_variable": false,
+        "variable": "path"
+    },
+    {
+        "id": 10726,
+        "file": "components\/ILIAS\/Container\/classes\/class.ilContainerGUI.php",
+        "line": 2099,
+        "code": "$this->lng->txt('back')",
+        "has_variable": false,
+        "variable": "back"
+    },
+    {
+        "id": 10728,
+        "file": "components\/ILIAS\/Container\/classes\/class.ilContainerGUI.php",
+        "line": 2110,
+        "code": "$this->lng->txt('webdav_pwd_instruction')",
+        "has_variable": false,
+        "variable": "webdav_pwd_instruction"
+    },
+    {
+        "id": 10730,
+        "file": "components\/ILIAS\/Container\/classes\/class.ilContainerGUI.php",
+        "line": 2120,
+        "code": "$this->lng->txt(\"mount_webfolder\")",
+        "has_variable": false,
+        "variable": "mount_webfolder"
+    },
+    {
+        "id": 10732,
+        "file": "components\/ILIAS\/Container\/classes\/class.ilContainerGUI.php",
+        "line": 2136,
+        "code": "$this->lng->txt(\"desired_password\")",
+        "has_variable": false,
+        "variable": "desired_password"
+    },
+    {
+        "id": 10734,
+        "file": "components\/ILIAS\/Container\/classes\/class.ilContainerGUI.php",
+        "line": 2140,
+        "code": "$this->lng->txt(\"save\")",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 10736,
+        "file": "components\/ILIAS\/Container\/classes\/class.ilContainerGUI.php",
+        "line": 2141,
+        "code": "$this->lng->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 10738,
+        "file": "components\/ILIAS\/Container\/classes\/class.ilContainerGUI.php",
+        "line": 2143,
+        "code": "$this->lng->txt(\"chg_ilias_and_webfolder_password\")",
+        "has_variable": false,
+        "variable": "chg_ilias_and_webfolder_password"
+    },
+    {
+        "id": 10740,
+        "file": "components\/ILIAS\/Container\/classes\/class.ilContainerGUI.php",
+        "line": 2156,
+        "code": "$this->lng->txt('webdav_pwd_instruction_success')",
+        "has_variable": false,
+        "variable": "webdav_pwd_instruction_success"
+    },
+    {
+        "id": 10742,
+        "file": "components\/ILIAS\/Container\/classes\/class.ilContainerGUI.php",
+        "line": 2232,
+        "code": "$this->lng->txt($this->object->getType() . \"_edit\")",
+        "has_variable": true,
+        "variable": "$this->object->getType() . \"_edit\""
+    },
+    {
+        "id": 10744,
+        "file": "components\/ILIAS\/Container\/classes\/class.ilContainerGUI.php",
+        "line": 2238,
+        "code": "$this->lng->txt(\"save\")",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 10746,
+        "file": "components\/ILIAS\/Container\/classes\/class.ilContainerGUI.php",
+        "line": 2253,
+        "code": "$this->lng->txt(\"title\")",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 10748,
+        "file": "components\/ILIAS\/Container\/classes\/class.ilContainerGUI.php",
+        "line": 2262,
+        "code": "$this->lng->txt(\"language\")",
+        "has_variable": false,
+        "variable": "language"
+    },
+    {
+        "id": 10750,
+        "file": "components\/ILIAS\/Container\/classes\/class.ilContainerGUI.php",
+        "line": 2264,
+        "code": "$this->lng->txt(\"obj_more_translations\")",
+        "has_variable": false,
+        "variable": "obj_more_translations"
+    },
+    {
+        "id": 10752,
+        "file": "components\/ILIAS\/Container\/classes\/class.ilContainerGUI.php",
+        "line": 2269,
+        "code": "$this->lng->txt(\"description\")",
+        "has_variable": false,
+        "variable": "description"
+    },
+    {
+        "id": 10754,
+        "file": "components\/ILIAS\/Container\/classes\/class.ilContainerGUI.php",
+        "line": 2289,
+        "code": "$this->lng->txt('sorting_header')",
+        "has_variable": false,
+        "variable": "sorting_header"
+    },
+    {
+        "id": 10756,
+        "file": "components\/ILIAS\/Container\/classes\/class.ilContainerGUI.php",
+        "line": 2294,
+        "code": "$this->lng->txt('sort_inherit_prefix')",
+        "has_variable": false,
+        "variable": "sort_inherit_prefix"
+    },
+    {
+        "id": 10758,
+        "file": "components\/ILIAS\/Container\/classes\/class.ilContainerGUI.php",
+        "line": 2302,
+        "code": "$this->lng->txt('sorting_info_inherit')",
+        "has_variable": false,
+        "variable": "sorting_info_inherit"
+    },
+    {
+        "id": 10760,
+        "file": "components\/ILIAS\/Container\/classes\/class.ilContainerGUI.php",
+        "line": 2307,
+        "code": "$this->lng->txt('sorting_title_header')",
+        "has_variable": false,
+        "variable": "sorting_title_header"
+    },
+    {
+        "id": 10762,
+        "file": "components\/ILIAS\/Container\/classes\/class.ilContainerGUI.php",
+        "line": 2310,
+        "code": "$this->lng->txt('sorting_info_title')",
+        "has_variable": false,
+        "variable": "sorting_info_title"
+    },
+    {
+        "id": 10764,
+        "file": "components\/ILIAS\/Container\/classes\/class.ilContainerGUI.php",
+        "line": 2317,
+        "code": "$this->lng->txt('sorting_creation_header')",
+        "has_variable": false,
+        "variable": "sorting_creation_header"
+    },
+    {
+        "id": 10766,
+        "file": "components\/ILIAS\/Container\/classes\/class.ilContainerGUI.php",
+        "line": 2320,
+        "code": "$this->lng->txt('sorting_creation_info')",
+        "has_variable": false,
+        "variable": "sorting_creation_info"
+    },
+    {
+        "id": 10768,
+        "file": "components\/ILIAS\/Container\/classes\/class.ilContainerGUI.php",
+        "line": 2325,
+        "code": "$this->lng->txt('crs_sort_activation')",
+        "has_variable": false,
+        "variable": "crs_sort_activation"
+    },
+    {
+        "id": 10770,
+        "file": "components\/ILIAS\/Container\/classes\/class.ilContainerGUI.php",
+        "line": 2326,
+        "code": "$this->lng->txt('crs_sort_timing_info')",
+        "has_variable": false,
+        "variable": "crs_sort_timing_info"
+    },
+    {
+        "id": 10772,
+        "file": "components\/ILIAS\/Container\/classes\/class.ilContainerGUI.php",
+        "line": 2332,
+        "code": "$this->lng->txt('sorting_manual_header')",
+        "has_variable": false,
+        "variable": "sorting_manual_header"
+    },
+    {
+        "id": 10774,
+        "file": "components\/ILIAS\/Container\/classes\/class.ilContainerGUI.php",
+        "line": 2335,
+        "code": "$this->lng->txt('sorting_info_manual')",
+        "has_variable": false,
+        "variable": "sorting_info_manual"
+    },
+    {
+        "id": 10776,
+        "file": "components\/ILIAS\/Container\/classes\/class.ilContainerGUI.php",
+        "line": 2356,
+        "code": "$this->lng->txt('cont_list_presentation')",
+        "has_variable": false,
+        "variable": "cont_list_presentation"
+    },
+    {
+        "id": 10778,
+        "file": "components\/ILIAS\/Container\/classes\/class.ilContainerGUI.php",
+        "line": 2358,
+        "code": "$this->lng->txt('cont_item_list')",
+        "has_variable": false,
+        "variable": "cont_item_list"
+    },
+    {
+        "id": 10780,
+        "file": "components\/ILIAS\/Container\/classes\/class.ilContainerGUI.php",
+        "line": 2359,
+        "code": "$this->lng->txt('cont_item_list_info')",
+        "has_variable": false,
+        "variable": "cont_item_list_info"
+    },
+    {
+        "id": 10782,
+        "file": "components\/ILIAS\/Container\/classes\/class.ilContainerGUI.php",
+        "line": 2362,
+        "code": "$this->lng->txt('cont_tile_view')",
+        "has_variable": false,
+        "variable": "cont_tile_view"
+    },
+    {
+        "id": 10784,
+        "file": "components\/ILIAS\/Container\/classes\/class.ilContainerGUI.php",
+        "line": 2363,
+        "code": "$this->lng->txt('cont_tile_view_info')",
+        "has_variable": false,
+        "variable": "cont_tile_view_info"
+    },
+    {
+        "id": 10786,
+        "file": "components\/ILIAS\/Container\/classes\/class.ilContainerGUI.php",
+        "line": 2368,
+        "code": "$this->lng->txt(\"cont_tile_size\")",
+        "has_variable": false,
+        "variable": "cont_tile_size"
+    },
+    {
+        "id": 10788,
+        "file": "components\/ILIAS\/Container\/classes\/class.ilContainerGUI.php",
+        "line": 2409,
+        "code": "$this->lng->txt('sorting_new_items_direction')",
+        "has_variable": false,
+        "variable": "sorting_new_items_direction"
+    },
+    {
+        "id": 10790,
+        "file": "components\/ILIAS\/Container\/classes\/class.ilContainerGUI.php",
+        "line": 2411,
+        "code": "$this->lng->txt('sorting_direction')",
+        "has_variable": false,
+        "variable": "sorting_direction"
+    },
+    {
+        "id": 10792,
+        "file": "components\/ILIAS\/Container\/classes\/class.ilContainerGUI.php",
+        "line": 2420,
+        "code": "$this->lng->txt('sorting_asc')",
+        "has_variable": false,
+        "variable": "sorting_asc"
+    },
+    {
+        "id": 10794,
+        "file": "components\/ILIAS\/Container\/classes\/class.ilContainerGUI.php",
+        "line": 2427,
+        "code": "$this->lng->txt('sorting_desc')",
+        "has_variable": false,
+        "variable": "sorting_desc"
+    },
+    {
+        "id": 10796,
+        "file": "components\/ILIAS\/Container\/classes\/class.ilContainerGUI.php",
+        "line": 2447,
+        "code": "$this->lng->txt('sorting_new_items_position')",
+        "has_variable": false,
+        "variable": "sorting_new_items_position"
+    },
+    {
+        "id": 10798,
+        "file": "components\/ILIAS\/Container\/classes\/class.ilContainerGUI.php",
+        "line": 2455,
+        "code": "$this->lng->txt('sorting_new_items_at_top')",
+        "has_variable": false,
+        "variable": "sorting_new_items_at_top"
+    },
+    {
+        "id": 10800,
+        "file": "components\/ILIAS\/Container\/classes\/class.ilContainerGUI.php",
+        "line": 2463,
+        "code": "$this->lng->txt('sorting_new_items_at_bottom')",
+        "has_variable": false,
+        "variable": "sorting_new_items_at_bottom"
+    },
+    {
+        "id": 10802,
+        "file": "components\/ILIAS\/Container\/classes\/class.ilContainerGUI.php",
+        "line": 2471,
+        "code": "$this->lng->txt('sorting_new_items_order')",
+        "has_variable": false,
+        "variable": "sorting_new_items_order"
+    },
+    {
+        "id": 10804,
+        "file": "components\/ILIAS\/Container\/classes\/class.ilContainerGUI.php",
+        "line": 2478,
+        "code": "$this->lng->txt('sorting_title_header')",
+        "has_variable": false,
+        "variable": "sorting_title_header"
+    },
+    {
+        "id": 10806,
+        "file": "components\/ILIAS\/Container\/classes\/class.ilContainerGUI.php",
+        "line": 2488,
+        "code": "$this->lng->txt('sorting_creation_header')",
+        "has_variable": false,
+        "variable": "sorting_creation_header"
+    },
+    {
+        "id": 10808,
+        "file": "components\/ILIAS\/Container\/classes\/class.ilContainerGUI.php",
+        "line": 2498,
+        "code": "$this->lng->txt('crs_sort_activation')",
+        "has_variable": false,
+        "variable": "crs_sort_activation"
+    },
+    {
+        "id": 10810,
+        "file": "components\/ILIAS\/Container\/classes\/class.ilContainerGUI.php",
+        "line": 2549,
+        "code": "$this->lng->txt('cont_trash_general_usage')",
+        "has_variable": false,
+        "variable": "cont_trash_general_usage"
+    },
+    {
+        "id": 10812,
+        "file": "components\/ILIAS\/Container\/classes\/class.ilContainerGUI.php",
+        "line": 2625,
+        "code": "$lng->txt(\"no_checkbox\")",
+        "has_variable": false,
+        "variable": "no_checkbox"
+    },
+    {
+        "id": 10814,
+        "file": "components\/ILIAS\/Container\/classes\/class.ilContainerGUI.php",
+        "line": 2714,
+        "code": "$this->lng->txt(\"cont_filter_empty\")",
+        "has_variable": false,
+        "variable": "cont_filter_empty"
+    },
+    {
+        "id": 10816,
+        "file": "components\/ILIAS\/Container\/classes\/class.ilContainerGUI.php",
+        "line": 2724,
+        "code": "$this->lng->txt('view')",
+        "has_variable": false,
+        "variable": "view"
+    },
+    {
+        "id": 10818,
+        "file": "components\/ILIAS\/Container\/classes\/class.ilContainerGUI.php",
+        "line": 2732,
+        "code": "$this->lng->txt('trash')",
+        "has_variable": false,
+        "variable": "trash"
+    },
+    {
+        "id": 10820,
+        "file": "components\/ILIAS\/Container\/classes\/class.ilContainerGUI.php",
+        "line": 2740,
+        "code": "$this->lng->txt('perm_settings')",
+        "has_variable": false,
+        "variable": "perm_settings"
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "id": 31090,
+        "file": "components\/ILIAS\/RemoteGlossary\/classes\/class.ilObjRemoteGlossaryAccess.php",
+        "line": 51,
+        "code": "$lng->txt(\"offline\")",
+        "has_variable": false,
+        "variable": "offline"
+    },
+    {
+        "id": 31092,
+        "file": "components\/ILIAS\/RemoteGlossary\/classes\/class.ilObjRemoteGlossaryAccess.php",
+        "line": 66,
+        "code": "$lng->txt(\"offline\")",
+        "has_variable": false,
+        "variable": "offline"
+    },
+    {
+        "id": 31094,
+        "file": "components\/ILIAS\/RemoteGlossary\/classes\/class.ilObjRemoteGlossaryGUI.php",
+        "line": 49,
+        "code": "$this->lng->txt('ecs_availability')",
+        "has_variable": false,
+        "variable": "ecs_availability"
+    },
+    {
+        "id": 31096,
+        "file": "components\/ILIAS\/RemoteGlossary\/classes\/class.ilObjRemoteGlossaryGUI.php",
+        "line": 56,
+        "code": "$this->lng->txt('offline')",
+        "has_variable": false,
+        "variable": "offline"
+    },
+    {
+        "id": 31098,
+        "file": "components\/ILIAS\/RemoteGlossary\/classes\/class.ilObjRemoteGlossaryGUI.php",
+        "line": 59,
+        "code": "$this->lng->txt('online')",
+        "has_variable": false,
+        "variable": "online"
+    },
+    {
+        "id": 31100,
+        "file": "components\/ILIAS\/RemoteGlossary\/classes\/class.ilObjRemoteGlossaryGUI.php",
+        "line": 66,
+        "code": "$this->lng->txt('ecs_availability')",
+        "has_variable": false,
+        "variable": "ecs_availability"
+    },
+    {
+        "id": 31102,
+        "file": "components\/ILIAS\/RemoteGlossary\/classes\/class.ilObjRemoteGlossaryGUI.php",
+        "line": 70,
+        "code": "$this->lng->txt('offline')",
+        "has_variable": false,
+        "variable": "offline"
+    },
+    {
+        "id": 31104,
+        "file": "components\/ILIAS\/RemoteGlossary\/classes\/class.ilObjRemoteGlossaryGUI.php",
+        "line": 73,
+        "code": "$this->lng->txt('online')",
+        "has_variable": false,
+        "variable": "online"
+    },
+    {
+        "id": 31106,
+        "file": "components\/ILIAS\/RemoteGlossary\/classes\/class.ilObjRemoteGlossaryListGUI.php",
+        "line": 80,
+        "code": "$this->lng->txt('organization')",
+        "has_variable": false,
+        "variable": "organization"
+    },
+    {
+        "id": 31108,
+        "file": "components\/ILIAS\/RemoteGlossary\/classes\/class.ilObjRemoteGlossaryListGUI.php",
+        "line": 83,
+        "code": "$this->lng->txt(\"status\")",
+        "has_variable": false,
+        "variable": "status"
+    },
+    {
+        "id": 31110,
+        "file": "components\/ILIAS\/RemoteGlossary\/classes\/class.ilObjRemoteGlossaryListGUI.php",
+        "line": 83,
+        "code": "$this->lng->txt(\"offline\")",
+        "has_variable": false,
+        "variable": "offline"
+    }
+]

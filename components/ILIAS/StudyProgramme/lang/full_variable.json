@@ -1,0 +1,339 @@
+{
+    "metadata": {
+        "type": "full",
+        "count": 30,
+        "description": "Variable usages without detectable prefixes or suffixes (pure variable references without static strings)"
+    },
+    "matches": [
+        {
+            "id": 35170,
+            "file": "components\/ILIAS\/StudyProgramme\/classes\/Mail\/class.ilPRGMail.php",
+            "line": 86,
+            "code": "$this->txt($subject, $lang)",
+            "variable": "\\$subject",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 35172,
+            "file": "components\/ILIAS\/StudyProgramme\/classes\/Mail\/class.ilPRGMail.php",
+            "line": 87,
+            "code": "$this->txt($body_template, $lang)",
+            "variable": "_",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 35182,
+            "file": "components\/ILIAS\/StudyProgramme\/classes\/PageEditor\/ilPRGActionNoteBuilder.php",
+            "line": 108,
+            "code": "$this->lng->txt($instruction)",
+            "variable": "$instruction",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 35186,
+            "file": "components\/ILIAS\/StudyProgramme\/classes\/PageEditor\/ilPRGActionNoteBuilder.php",
+            "line": 114,
+            "code": "$this->lng->txt($instruction)",
+            "variable": "$instruction",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 35188,
+            "file": "components\/ILIAS\/StudyProgramme\/classes\/PageEditor\/ilPRGStatusInfoBuilder.php",
+            "line": 96,
+            "code": "$this->lng->txt($status_txt)",
+            "variable": "$status_txt",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 35192,
+            "file": "components\/ILIAS\/StudyProgramme\/classes\/PageEditor\/ilPRGStatusInfoBuilder.php",
+            "line": 102,
+            "code": "$this->lng->txt($status)",
+            "variable": "$status",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 35194,
+            "file": "components\/ILIAS\/StudyProgramme\/classes\/PageEditor\/ilPRGStatusInfoBuilder.php",
+            "line": 103,
+            "code": "$this->lng->txt($status_txt)",
+            "variable": "$status_txt",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 35318,
+            "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilObjStudyProgrammeAutoMembershipsGUI.php",
+            "line": 767,
+            "code": "$this->lng->txt($code)",
+            "variable": "$code",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 35372,
+            "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilObjStudyProgrammeIndividualPlanGUI.php",
+            "line": 286,
+            "code": "$this->lng->txt(\"prg_$lng_var\")",
+            "variable": "prg_$lng_var",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 35374,
+            "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilObjStudyProgrammeIndividualPlanGUI.php",
+            "line": 308,
+            "code": "$this->lng->txt(\"prg_$_tab\")",
+            "variable": "prg_$_tab",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 35424,
+            "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilObjStudyProgrammeMembersGUI.php",
+            "line": 901,
+            "code": "$this->lng->txt(\"prg_$lng_var\")",
+            "variable": "prg_$lng_var",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 35426,
+            "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilObjStudyProgrammeMembersGUI.php",
+            "line": 909,
+            "code": "$this->lng->txt(\"prg_$lng_var\")",
+            "variable": "prg_$lng_var",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 35478,
+            "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilObjStudyProgrammeSettingsGUI.php",
+            "line": 274,
+            "code": "$this->lng->txt($code)",
+            "variable": "$code",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 35526,
+            "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeAutoCategoriesTableGUI.php",
+            "line": 51,
+            "code": "$this->lng->txt('')",
+            "variable": "",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 35580,
+            "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeAutoMembershipsTableGUI.php",
+            "line": 81,
+            "code": "$this->lng->txt($ams->getSourceType())",
+            "variable": "$ams->getSourceType()",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 35582,
+            "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeChangeDeadlineGUI.php",
+            "line": 113,
+            "code": "$this->lng->txt($id)",
+            "variable": "$id",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 35584,
+            "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeChangeDeadlineGUI.php",
+            "line": 130,
+            "code": "$this->lng->txt($id)",
+            "variable": "$id",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 35590,
+            "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeChangeExpireDateGUI.php",
+            "line": 113,
+            "code": "$this->lng->txt($id)",
+            "variable": "$id",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 35592,
+            "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeChangeExpireDateGUI.php",
+            "line": 130,
+            "code": "$this->lng->txt($id)",
+            "variable": "$id",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 35606,
+            "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeCommonSettingsGUI.php",
+            "line": 128,
+            "code": "$this->lng->txt($code)",
+            "variable": "$code",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 35644,
+            "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeIndividualPlanTableGUI.php",
+            "line": 75,
+            "code": "$this->lng->txt($lng_var)",
+            "variable": "$lng_var",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 35682,
+            "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeMailTemplateContext.php",
+            "line": 105,
+            "code": "$this->lng->txt($label)",
+            "variable": "$label",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 35688,
+            "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeMembersTableGUI.php",
+            "line": 314,
+            "code": "$this->lng->txt(\"prg_$action\")",
+            "variable": "prg_$action",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 35722,
+            "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeProgressListGUI.php",
+            "line": 205,
+            "code": "$this->lng->txt($lang_val)",
+            "variable": "$lang_val",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 35738,
+            "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeUserTable.php",
+            "line": 97,
+            "code": "$this->lng->txt($k[1])",
+            "variable": "\\$k",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 35770,
+            "file": "components\/ILIAS\/StudyProgramme\/classes\/class.ilStudyProgrammeUserTable.php",
+            "line": 314,
+            "code": "$this->lng->txt($srcs[$assignment_src])",
+            "variable": "_",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 35804,
+            "file": "components\/ILIAS\/StudyProgramme\/classes\/helpers\/ilPRGMessagePrinter.php",
+            "line": 50,
+            "code": "$this->lng->txt($msg->getDescription())",
+            "variable": "$msg->getDescription()",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 35806,
+            "file": "components\/ILIAS\/StudyProgramme\/classes\/helpers\/ilPRGMessagePrinter.php",
+            "line": 60,
+            "code": "$this->lng->txt($message)",
+            "variable": "$message",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 35936,
+            "file": "components\/ILIAS\/StudyProgramme\/classes\/types\/class.ilStudyProgrammeTypeGUI.php",
+            "line": 480,
+            "code": "$this->lng->txt(\"meta_l_$lang_code\")",
+            "variable": "meta_l_$lang_code",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 35944,
+            "file": "components\/ILIAS\/StudyProgramme\/classes\/types\/class.ilStudyProgrammeTypeInfo.php",
+            "line": 101,
+            "code": "$lng->txt(\"meta_l_$lng_code\")",
+            "variable": "meta_l_$lng_code",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        }
+    ]
+}

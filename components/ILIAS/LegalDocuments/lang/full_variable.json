@@ -1,0 +1,163 @@
+{
+    "metadata": {
+        "type": "full",
+        "count": 14,
+        "description": "Variable usages without detectable prefixes or suffixes (pure variable references without static strings)"
+    },
+    "matches": [
+        {
+            "id": 24686,
+            "file": "components\/ILIAS\/LegalDocuments\/classes\/Administration.php",
+            "line": 338,
+            "code": "$this->ui->txt($criterion ? 'form_edit_criterion_head' : 'form_attach_criterion_head')",
+            "variable": "_",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 24698,
+            "file": "components\/ILIAS\/LegalDocuments\/classes\/Administration.php",
+            "line": 447,
+            "code": "$this->ui->txt(...)",
+            "variable": "...",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 24700,
+            "file": "components\/ILIAS\/LegalDocuments\/classes\/Administration.php",
+            "line": 447,
+            "code": "$this->ui->txt($content_title)",
+            "variable": "$content_title",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 24702,
+            "file": "components\/ILIAS\/LegalDocuments\/classes\/Administration.php",
+            "line": 451,
+            "code": "$this->ui->txt($may_be_new ? 'form_new_doc_head' : 'form_edit_doc_head')",
+            "variable": "_",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 24706,
+            "file": "components\/ILIAS\/LegalDocuments\/classes\/Administration.php",
+            "line": 533,
+            "code": "$this->ui->txt($enabled ? 'enabled' : 'disabled')",
+            "variable": "\\$enabled",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 24738,
+            "file": "components\/ILIAS\/LegalDocuments\/classes\/ConsumerToolbox\/ConsumerSlots\/Agreement.php",
+            "line": 58,
+            "code": "$this->ui->txt($title)",
+            "variable": "$title",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 24740,
+            "file": "components\/ILIAS\/LegalDocuments\/classes\/ConsumerToolbox\/ConsumerSlots\/Agreement.php",
+            "line": 58,
+            "code": "$this->ui->txt($info)",
+            "variable": "$info",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 24776,
+            "file": "components\/ILIAS\/LegalDocuments\/classes\/ConsumerToolbox\/ConsumerSlots\/WithdrawProcess.php",
+            "line": 64,
+            "code": "$this->ui->txt($lng)",
+            "variable": "$lng",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 24792,
+            "file": "components\/ILIAS\/LegalDocuments\/classes\/ConsumerToolbox\/ConsumerSlots\/WithdrawProcess.php",
+            "line": 154,
+            "code": "$this->ui->txt($question)",
+            "variable": "$question",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 24802,
+            "file": "components\/ILIAS\/LegalDocuments\/classes\/ConsumerToolbox\/UI.php",
+            "line": 61,
+            "code": "$this->language->txt($this->firstExisting([\n            $this->id . '_' . $name,\n            ilObjLegalDocumentsGUI::TYPE . '_' . $name\n        ], $name))",
+            "variable": "$this->firstExisting([\n            $this->id . '_' . $name,\n            ilObjLegalDocumentsGUI::TYPE . '_' . $name\n        ], $name)",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 24810,
+            "file": "components\/ILIAS\/LegalDocuments\/classes\/Legacy\/Table.php",
+            "line": 171,
+            "code": "$this->lng->txt($key)",
+            "variable": "$key",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 24854,
+            "file": "components\/ILIAS\/LegalDocuments\/classes\/Table\/HistoryTable.php",
+            "line": 125,
+            "code": "$this->ui->txt(...)",
+            "variable": "...",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 24872,
+            "file": "components\/ILIAS\/LegalDocuments\/classes\/class.ilLegalDocumentsAdministrationGUI.php",
+            "line": 324,
+            "code": "$this->ui->txt($message)",
+            "variable": "$message",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 24874,
+            "file": "components\/ILIAS\/LegalDocuments\/classes\/class.ilLegalDocumentsAdministrationGUI.php",
+            "line": 331,
+            "code": "$this->ui->txt($success_message)",
+            "variable": "$success_message",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        }
+    ]
+}

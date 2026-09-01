@@ -1,0 +1,1226 @@
+[
+    {
+        "id": 26756,
+        "file": "components\/ILIAS\/MediaPool\/Clipboard\/class.ilClipboardTableGUI.php",
+        "line": 47,
+        "code": "$lng->txt(\"mep_thumbnail\")",
+        "has_variable": false,
+        "variable": "mep_thumbnail"
+    },
+    {
+        "id": 26758,
+        "file": "components\/ILIAS\/MediaPool\/Clipboard\/class.ilClipboardTableGUI.php",
+        "line": 48,
+        "code": "$lng->txt(\"mep_title_and_description\")",
+        "has_variable": false,
+        "variable": "mep_title_and_description"
+    },
+    {
+        "id": 26760,
+        "file": "components\/ILIAS\/MediaPool\/Clipboard\/class.ilClipboardTableGUI.php",
+        "line": 58,
+        "code": "$lng->txt(\"clipboard\")",
+        "has_variable": false,
+        "variable": "clipboard"
+    },
+    {
+        "id": 26762,
+        "file": "components\/ILIAS\/MediaPool\/Clipboard\/class.ilClipboardTableGUI.php",
+        "line": 66,
+        "code": "$lng->txt(\"remove\")",
+        "has_variable": false,
+        "variable": "remove"
+    },
+    {
+        "id": 26764,
+        "file": "components\/ILIAS\/MediaPool\/Clipboard\/class.ilEditClipboardGUI.php",
+        "line": 67,
+        "code": "$lng->txt(\"cont_back\")",
+        "has_variable": false,
+        "variable": "cont_back"
+    },
+    {
+        "id": 26766,
+        "file": "components\/ILIAS\/MediaPool\/Clipboard\/class.ilEditClipboardGUI.php",
+        "line": 106,
+        "code": "$lng->txt(\"back\")",
+        "has_variable": false,
+        "variable": "back"
+    },
+    {
+        "id": 26768,
+        "file": "components\/ILIAS\/MediaPool\/Clipboard\/class.ilEditClipboardGUI.php",
+        "line": 150,
+        "code": "$lng->txt(\"insert\")",
+        "has_variable": false,
+        "variable": "insert"
+    },
+    {
+        "id": 26770,
+        "file": "components\/ILIAS\/MediaPool\/Clipboard\/class.ilEditClipboardGUI.php",
+        "line": 163,
+        "code": "$this->lng->txt(\"mep_clipboard_info\")",
+        "has_variable": false,
+        "variable": "mep_clipboard_info"
+    },
+    {
+        "id": 26772,
+        "file": "components\/ILIAS\/MediaPool\/Clipboard\/class.ilEditClipboardGUI.php",
+        "line": 166,
+        "code": "$this->lng->txt(\"cont_create_mob\")",
+        "has_variable": false,
+        "variable": "cont_create_mob"
+    },
+    {
+        "id": 26774,
+        "file": "components\/ILIAS\/MediaPool\/Clipboard\/class.ilEditClipboardGUI.php",
+        "line": 195,
+        "code": "$lng->txt(\"no_checkbox\")",
+        "has_variable": false,
+        "variable": "no_checkbox"
+    },
+    {
+        "id": 26776,
+        "file": "components\/ILIAS\/MediaPool\/Clipboard\/class.ilEditClipboardGUI.php",
+        "line": 226,
+        "code": "$lng->txt(\"no_checkbox\")",
+        "has_variable": false,
+        "variable": "no_checkbox"
+    },
+    {
+        "id": 26778,
+        "file": "components\/ILIAS\/MediaPool\/Clipboard\/class.ilEditClipboardGUI.php",
+        "line": 231,
+        "code": "$lng->txt(\"cont_select_max_one_item\")",
+        "has_variable": false,
+        "variable": "cont_select_max_one_item"
+    },
+    {
+        "id": 26780,
+        "file": "components\/ILIAS\/MediaPool\/Clipboard\/class.ilEditClipboardGUI.php",
+        "line": 256,
+        "code": "$lng->txt(\"clipboard\")",
+        "has_variable": false,
+        "variable": "clipboard"
+    },
+    {
+        "id": 26782,
+        "file": "components\/ILIAS\/MediaPool\/Search\/SubitemPropertiesReader.php",
+        "line": 99,
+        "code": "$this->lng->txt('obj_' . $subitem_id->type())",
+        "has_variable": true,
+        "variable": "'obj_' . $subitem_id->type()"
+    },
+    {
+        "id": 26784,
+        "file": "components\/ILIAS\/MediaPool\/Settings\/class.SettingsGUI.php",
+        "line": 68,
+        "code": "$lng->txt(\"mep_edit\")",
+        "has_variable": false,
+        "variable": "mep_edit"
+    },
+    {
+        "id": 26786,
+        "file": "components\/ILIAS\/MediaPool\/Settings\/class.SettingsGUI.php",
+        "line": 70,
+        "code": "$lng->txt(\"rep_activation_availability\")",
+        "has_variable": false,
+        "variable": "rep_activation_availability"
+    },
+    {
+        "id": 26788,
+        "file": "components\/ILIAS\/MediaPool\/Settings\/class.SettingsGUI.php",
+        "line": 72,
+        "code": "$lng->txt(\"obj_presentation\")",
+        "has_variable": false,
+        "variable": "obj_presentation"
+    },
+    {
+        "id": 26790,
+        "file": "components\/ILIAS\/MediaPool\/Settings\/class.SettingsGUI.php",
+        "line": 76,
+        "code": "$lng->txt(\"mep_default_width\")",
+        "has_variable": false,
+        "variable": "mep_default_width"
+    },
+    {
+        "id": 26792,
+        "file": "components\/ILIAS\/MediaPool\/Settings\/class.SettingsGUI.php",
+        "line": 83,
+        "code": "$lng->txt(\"mep_default_height\")",
+        "has_variable": false,
+        "variable": "mep_default_height"
+    },
+    {
+        "id": 26794,
+        "file": "components\/ILIAS\/MediaPool\/Settings\/class.SettingsGUI.php",
+        "line": 84,
+        "code": "$lng->txt(\"mep_default_width_height_info\")",
+        "has_variable": false,
+        "variable": "mep_default_width_height_info"
+    },
+    {
+        "id": 26796,
+        "file": "components\/ILIAS\/MediaPool\/Settings\/class.SettingsGUI.php",
+        "line": 149,
+        "code": "$lng->txt(\"msg_obj_modified\")",
+        "has_variable": false,
+        "variable": "msg_obj_modified"
+    },
+    {
+        "id": 26798,
+        "file": "components\/ILIAS\/MediaPool\/classes\/class.ilMediaPoolExportOptionXMLMaster.php",
+        "line": 61,
+        "code": "$this->lng->txt(\"exp_format_dropdown-xml\")",
+        "has_variable": false,
+        "variable": "exp_format_dropdown-xml"
+    },
+    {
+        "id": 26800,
+        "file": "components\/ILIAS\/MediaPool\/classes\/class.ilMediaPoolExportOptionXMLMaster.php",
+        "line": 61,
+        "code": "$this->lng->txt(\"mep_master_language_only\")",
+        "has_variable": false,
+        "variable": "mep_master_language_only"
+    },
+    {
+        "id": 26802,
+        "file": "components\/ILIAS\/MediaPool\/classes\/class.ilMediaPoolExportOptionXMLMasterNoMedia.php",
+        "line": 61,
+        "code": "$this->lng->txt(\"mep_master_language_only_no_media\")",
+        "has_variable": false,
+        "variable": "mep_master_language_only_no_media"
+    },
+    {
+        "id": 26804,
+        "file": "components\/ILIAS\/MediaPool\/classes\/class.ilMediaPoolImportGUI.php",
+        "line": 66,
+        "code": "$lng->txt(\"mep_trans_import_info\")",
+        "has_variable": false,
+        "variable": "mep_trans_import_info"
+    },
+    {
+        "id": 26806,
+        "file": "components\/ILIAS\/MediaPool\/classes\/class.ilMediaPoolImportGUI.php",
+        "line": 81,
+        "code": "$lng->txt(\"file\")",
+        "has_variable": false,
+        "variable": "file"
+    },
+    {
+        "id": 26808,
+        "file": "components\/ILIAS\/MediaPool\/classes\/class.ilMediaPoolImportGUI.php",
+        "line": 91,
+        "code": "$lng->txt(\"meta_l_\" . $l->getLanguageCode())",
+        "has_variable": true,
+        "variable": "\"meta_l_\" . $l->getLanguageCode()"
+    },
+    {
+        "id": 26810,
+        "file": "components\/ILIAS\/MediaPool\/classes\/class.ilMediaPoolImportGUI.php",
+        "line": 94,
+        "code": "$lng->txt(\"mep_import_lang\")",
+        "has_variable": false,
+        "variable": "mep_import_lang"
+    },
+    {
+        "id": 26812,
+        "file": "components\/ILIAS\/MediaPool\/classes\/class.ilMediaPoolImportGUI.php",
+        "line": 98,
+        "code": "$lng->txt(\"import\")",
+        "has_variable": false,
+        "variable": "import"
+    },
+    {
+        "id": 26814,
+        "file": "components\/ILIAS\/MediaPool\/classes\/class.ilMediaPoolImportGUI.php",
+        "line": 99,
+        "code": "$lng->txt(\"mep_import_trans\")",
+        "has_variable": false,
+        "variable": "mep_import_trans"
+    },
+    {
+        "id": 26816,
+        "file": "components\/ILIAS\/MediaPool\/classes\/class.ilMediaPoolImportGUI.php",
+        "line": 118,
+        "code": "$lng->txt(\"mep_transl_master_language_not_allowed\")",
+        "has_variable": false,
+        "variable": "mep_transl_master_language_not_allowed"
+    },
+    {
+        "id": 26818,
+        "file": "components\/ILIAS\/MediaPool\/classes\/class.ilMediaPoolImportGUI.php",
+        "line": 131,
+        "code": "$lng->txt(\"msg_obj_modified\")",
+        "has_variable": false,
+        "variable": "msg_obj_modified"
+    },
+    {
+        "id": 26820,
+        "file": "components\/ILIAS\/MediaPool\/classes\/class.ilMediaPoolPageGUI.php",
+        "line": 202,
+        "code": "$lng->txt(\"msg_obj_modified\")",
+        "has_variable": false,
+        "variable": "msg_obj_modified"
+    },
+    {
+        "id": 26822,
+        "file": "components\/ILIAS\/MediaPool\/classes\/class.ilMediaPoolPageGUI.php",
+        "line": 218,
+        "code": "$lng->txt(\"title\")",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 26824,
+        "file": "components\/ILIAS\/MediaPool\/classes\/class.ilMediaPoolPageGUI.php",
+        "line": 225,
+        "code": "$lng->txt(\"save\")",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 26826,
+        "file": "components\/ILIAS\/MediaPool\/classes\/class.ilMediaPoolPageGUI.php",
+        "line": 226,
+        "code": "$lng->txt(\"cancel\")",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 26828,
+        "file": "components\/ILIAS\/MediaPool\/classes\/class.ilMediaPoolPageGUI.php",
+        "line": 227,
+        "code": "$lng->txt(\"mep_new_content_snippet\")",
+        "has_variable": false,
+        "variable": "mep_new_content_snippet"
+    },
+    {
+        "id": 26830,
+        "file": "components\/ILIAS\/MediaPool\/classes\/class.ilMediaPoolPageGUI.php",
+        "line": 229,
+        "code": "$lng->txt(\"save\")",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 26832,
+        "file": "components\/ILIAS\/MediaPool\/classes\/class.ilMediaPoolPageGUI.php",
+        "line": 230,
+        "code": "$lng->txt(\"mep_edit_content_snippet\")",
+        "has_variable": false,
+        "variable": "mep_edit_content_snippet"
+    },
+    {
+        "id": 26834,
+        "file": "components\/ILIAS\/MediaPool\/classes\/class.ilMediaPoolPageGUI.php",
+        "line": 289,
+        "code": "$lng->txt(\"mep_folder\")",
+        "has_variable": false,
+        "variable": "mep_folder"
+    },
+    {
+        "id": 26836,
+        "file": "components\/ILIAS\/MediaPool\/classes\/class.ilMediaPoolPageGUI.php",
+        "line": 316,
+        "code": "$lng->txt(\"cont_current_usages\")",
+        "has_variable": false,
+        "variable": "cont_current_usages"
+    },
+    {
+        "id": 26838,
+        "file": "components\/ILIAS\/MediaPool\/classes\/class.ilMediaPoolPageGUI.php",
+        "line": 322,
+        "code": "$lng->txt(\"cont_all_usages\")",
+        "has_variable": false,
+        "variable": "cont_all_usages"
+    },
+    {
+        "id": 26840,
+        "file": "components\/ILIAS\/MediaPool\/classes\/class.ilMediaPoolPageGUI.php",
+        "line": 352,
+        "code": "$this->lng->txt('cont_usage')",
+        "has_variable": false,
+        "variable": "cont_usage"
+    },
+    {
+        "id": 26842,
+        "file": "components\/ILIAS\/MediaPool\/classes\/class.ilMediaPoolPageGUI.php",
+        "line": 359,
+        "code": "$this->lng->txt('settings')",
+        "has_variable": false,
+        "variable": "settings"
+    },
+    {
+        "id": 26844,
+        "file": "components\/ILIAS\/MediaPool\/classes\/class.ilMediaPoolPageUsagesTableGUI.php",
+        "line": 53,
+        "code": "$lng->txt(\"cont_mob_usages\")",
+        "has_variable": false,
+        "variable": "cont_mob_usages"
+    },
+    {
+        "id": 26846,
+        "file": "components\/ILIAS\/MediaPool\/classes\/class.ilMediaPoolPageUsagesTableGUI.php",
+        "line": 125,
+        "code": "$this->lng->txt(\"obj_\" . $cont_type)",
+        "has_variable": true,
+        "variable": "\"obj_\" . $cont_type"
+    },
+    {
+        "id": 26848,
+        "file": "components\/ILIAS\/MediaPool\/classes\/class.ilMediaPoolPageUsagesTableGUI.php",
+        "line": 127,
+        "code": "$this->lng->txt(\"pg\")",
+        "has_variable": false,
+        "variable": "pg"
+    },
+    {
+        "id": 26850,
+        "file": "components\/ILIAS\/MediaPool\/classes\/class.ilMediaPoolPageUsagesTableGUI.php",
+        "line": 136,
+        "code": "$this->lng->txt(\"obj_wiki\")",
+        "has_variable": false,
+        "variable": "obj_wiki"
+    },
+    {
+        "id": 26852,
+        "file": "components\/ILIAS\/MediaPool\/classes\/class.ilMediaPoolPageUsagesTableGUI.php",
+        "line": 138,
+        "code": "$this->lng->txt(\"pg\")",
+        "has_variable": false,
+        "variable": "pg"
+    },
+    {
+        "id": 26854,
+        "file": "components\/ILIAS\/MediaPool\/classes\/class.ilMediaPoolPageUsagesTableGUI.php",
+        "line": 149,
+        "code": "$this->lng->txt(\"obj_glo\")",
+        "has_variable": false,
+        "variable": "obj_glo"
+    },
+    {
+        "id": 26856,
+        "file": "components\/ILIAS\/MediaPool\/classes\/class.ilMediaPoolPageUsagesTableGUI.php",
+        "line": 151,
+        "code": "$this->lng->txt(\"cont_term\")",
+        "has_variable": false,
+        "variable": "cont_term"
+    },
+    {
+        "id": 26858,
+        "file": "components\/ILIAS\/MediaPool\/classes\/class.ilMediaPoolPageUsagesTableGUI.php",
+        "line": 161,
+        "code": "$this->lng->txt(\"obj_\" . $type)",
+        "has_variable": true,
+        "variable": "\"obj_\" . $type"
+    },
+    {
+        "id": 26860,
+        "file": "components\/ILIAS\/MediaPool\/classes\/class.ilMediaPoolPageUsagesTableGUI.php",
+        "line": 170,
+        "code": "$this->lng->txt(\"obj_\" . $cont_type)",
+        "has_variable": true,
+        "variable": "\"obj_\" . $cont_type"
+    },
+    {
+        "id": 26862,
+        "file": "components\/ILIAS\/MediaPool\/classes\/class.ilMediaPoolPageUsagesTableGUI.php",
+        "line": 180,
+        "code": "$lng->txt(\"trash\")",
+        "has_variable": false,
+        "variable": "trash"
+    },
+    {
+        "id": 26864,
+        "file": "components\/ILIAS\/MediaPool\/classes\/class.ilMediaPoolPageUsagesTableGUI.php",
+        "line": 186,
+        "code": "$this->lng->txt(\"obj_mep\")",
+        "has_variable": false,
+        "variable": "obj_mep"
+    },
+    {
+        "id": 26866,
+        "file": "components\/ILIAS\/MediaPool\/classes\/class.ilMediaPoolPageUsagesTableGUI.php",
+        "line": 195,
+        "code": "$this->lng->txt(\"obj_mob\")",
+        "has_variable": false,
+        "variable": "obj_mob"
+    },
+    {
+        "id": 26868,
+        "file": "components\/ILIAS\/MediaPool\/classes\/class.ilMediaPoolPageUsagesTableGUI.php",
+        "line": 197,
+        "code": "$this->lng->txt(\"cont_link_area\")",
+        "has_variable": false,
+        "variable": "cont_link_area"
+    },
+    {
+        "id": 26870,
+        "file": "components\/ILIAS\/MediaPool\/classes\/class.ilMediaPoolPageUsagesTableGUI.php",
+        "line": 214,
+        "code": "$this->lng->txt(\"cont_current_version\")",
+        "has_variable": false,
+        "variable": "cont_current_version"
+    },
+    {
+        "id": 26872,
+        "file": "components\/ILIAS\/MediaPool\/classes\/class.ilMediaPoolPageUsagesTableGUI.php",
+        "line": 224,
+        "code": "$this->lng->txt(\"cont_versions\")",
+        "has_variable": false,
+        "variable": "cont_versions"
+    },
+    {
+        "id": 26874,
+        "file": "components\/ILIAS\/MediaPool\/classes\/class.ilMediaPoolPageUsagesTableGUI.php",
+        "line": 231,
+        "code": "$this->lng->txt(\"type\")",
+        "has_variable": false,
+        "variable": "type"
+    },
+    {
+        "id": 26876,
+        "file": "components\/ILIAS\/MediaPool\/classes\/class.ilMediaPoolPageUsagesTableGUI.php",
+        "line": 255,
+        "code": "$this->lng->txt(\"cont_users_have_mob_in_clip1\")",
+        "has_variable": false,
+        "variable": "cont_users_have_mob_in_clip1"
+    },
+    {
+        "id": 26878,
+        "file": "components\/ILIAS\/MediaPool\/classes\/class.ilMediaPoolPageUsagesTableGUI.php",
+        "line": 256,
+        "code": "$this->lng->txt(\"cont_users_have_mob_in_clip2\")",
+        "has_variable": false,
+        "variable": "cont_users_have_mob_in_clip2"
+    },
+    {
+        "id": 26880,
+        "file": "components\/ILIAS\/MediaPool\/classes\/class.ilMediaPoolTableGUI.php",
+        "line": 133,
+        "code": "$lng->txt(\"mep_thumbnail\")",
+        "has_variable": false,
+        "variable": "mep_thumbnail"
+    },
+    {
+        "id": 26882,
+        "file": "components\/ILIAS\/MediaPool\/classes\/class.ilMediaPoolTableGUI.php",
+        "line": 134,
+        "code": "$lng->txt(\"mep_title_and_description\")",
+        "has_variable": false,
+        "variable": "mep_title_and_description"
+    },
+    {
+        "id": 26884,
+        "file": "components\/ILIAS\/MediaPool\/classes\/class.ilMediaPoolTableGUI.php",
+        "line": 166,
+        "code": "$lng->txt(\"actions\")",
+        "has_variable": false,
+        "variable": "actions"
+    },
+    {
+        "id": 26886,
+        "file": "components\/ILIAS\/MediaPool\/classes\/class.ilMediaPoolTableGUI.php",
+        "line": 176,
+        "code": "$lng->txt(\"mep_choose_from_folder\")",
+        "has_variable": false,
+        "variable": "mep_choose_from_folder"
+    },
+    {
+        "id": 26888,
+        "file": "components\/ILIAS\/MediaPool\/classes\/class.ilMediaPoolTableGUI.php",
+        "line": 182,
+        "code": "$lng->txt(\"mep_choose_from_mep\")",
+        "has_variable": false,
+        "variable": "mep_choose_from_mep"
+    },
+    {
+        "id": 26890,
+        "file": "components\/ILIAS\/MediaPool\/classes\/class.ilMediaPoolTableGUI.php",
+        "line": 193,
+        "code": "$lng->txt(\"cont_copy_to_clipboard\")",
+        "has_variable": false,
+        "variable": "cont_copy_to_clipboard"
+    },
+    {
+        "id": 26892,
+        "file": "components\/ILIAS\/MediaPool\/classes\/class.ilMediaPoolTableGUI.php",
+        "line": 194,
+        "code": "$lng->txt(\"move\")",
+        "has_variable": false,
+        "variable": "move"
+    },
+    {
+        "id": 26894,
+        "file": "components\/ILIAS\/MediaPool\/classes\/class.ilMediaPoolTableGUI.php",
+        "line": 195,
+        "code": "$lng->txt(\"remove\")",
+        "has_variable": false,
+        "variable": "remove"
+    },
+    {
+        "id": 26896,
+        "file": "components\/ILIAS\/MediaPool\/classes\/class.ilMediaPoolTableGUI.php",
+        "line": 200,
+        "code": "$lng->txt(\"cont_select\")",
+        "has_variable": false,
+        "variable": "cont_select"
+    },
+    {
+        "id": 26898,
+        "file": "components\/ILIAS\/MediaPool\/classes\/class.ilMediaPoolTableGUI.php",
+        "line": 265,
+        "code": "$lng->txt(\"title\")",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 26900,
+        "file": "components\/ILIAS\/MediaPool\/classes\/class.ilMediaPoolTableGUI.php",
+        "line": 274,
+        "code": "$lng->txt('meta_keyword')",
+        "has_variable": false,
+        "variable": "meta_keyword"
+    },
+    {
+        "id": 26902,
+        "file": "components\/ILIAS\/MediaPool\/classes\/class.ilMediaPoolTableGUI.php",
+        "line": 282,
+        "code": "$lng->txt('cont_caption')",
+        "has_variable": false,
+        "variable": "cont_caption"
+    },
+    {
+        "id": 26904,
+        "file": "components\/ILIAS\/MediaPool\/classes\/class.ilMediaPoolTableGUI.php",
+        "line": 291,
+        "code": "$lng->txt(\"mep_all\")",
+        "has_variable": false,
+        "variable": "mep_all"
+    },
+    {
+        "id": 26906,
+        "file": "components\/ILIAS\/MediaPool\/classes\/class.ilMediaPoolTableGUI.php",
+        "line": 294,
+        "code": "$lng->txt(\"mep_mob\")",
+        "has_variable": false,
+        "variable": "mep_mob"
+    },
+    {
+        "id": 26908,
+        "file": "components\/ILIAS\/MediaPool\/classes\/class.ilMediaPoolTableGUI.php",
+        "line": 295,
+        "code": "$lng->txt(\"mep_mpg\")",
+        "has_variable": false,
+        "variable": "mep_mpg"
+    },
+    {
+        "id": 26910,
+        "file": "components\/ILIAS\/MediaPool\/classes\/class.ilMediaPoolTableGUI.php",
+        "line": 299,
+        "code": "$this->lng->txt(\"mep_format\")",
+        "has_variable": false,
+        "variable": "mep_format"
+    },
+    {
+        "id": 26912,
+        "file": "components\/ILIAS\/MediaPool\/classes\/class.ilMediaPoolTableGUI.php",
+        "line": 397,
+        "code": "$lng->txt(\"insert\")",
+        "has_variable": false,
+        "variable": "insert"
+    },
+    {
+        "id": 26914,
+        "file": "components\/ILIAS\/MediaPool\/classes\/class.ilMediaPoolTableGUI.php",
+        "line": 398,
+        "code": "$lng->txt(\"cancel\")",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 26916,
+        "file": "components\/ILIAS\/MediaPool\/classes\/class.ilMediaPoolTableGUI.php",
+        "line": 438,
+        "code": "$lng->txt(\"edit\")",
+        "has_variable": false,
+        "variable": "edit"
+    },
+    {
+        "id": 26918,
+        "file": "components\/ILIAS\/MediaPool\/classes\/class.ilMediaPoolTableGUI.php",
+        "line": 440,
+        "code": "$lng->txt(\"move\")",
+        "has_variable": false,
+        "variable": "move"
+    },
+    {
+        "id": 26920,
+        "file": "components\/ILIAS\/MediaPool\/classes\/class.ilMediaPoolTableGUI.php",
+        "line": 441,
+        "code": "$lng->txt(\"remove\")",
+        "has_variable": false,
+        "variable": "remove"
+    },
+    {
+        "id": 26922,
+        "file": "components\/ILIAS\/MediaPool\/classes\/class.ilMediaPoolTableGUI.php",
+        "line": 471,
+        "code": "$lng->txt(\"edit\")",
+        "has_variable": false,
+        "variable": "edit"
+    },
+    {
+        "id": 26924,
+        "file": "components\/ILIAS\/MediaPool\/classes\/class.ilMediaPoolTableGUI.php",
+        "line": 480,
+        "code": "$lng->txt(\"meta_data\")",
+        "has_variable": false,
+        "variable": "meta_data"
+    },
+    {
+        "id": 26926,
+        "file": "components\/ILIAS\/MediaPool\/classes\/class.ilMediaPoolTableGUI.php",
+        "line": 483,
+        "code": "$lng->txt(\"cont_usage\")",
+        "has_variable": false,
+        "variable": "cont_usage"
+    },
+    {
+        "id": 26928,
+        "file": "components\/ILIAS\/MediaPool\/classes\/class.ilMediaPoolTableGUI.php",
+        "line": 484,
+        "code": "$lng->txt(\"settings\")",
+        "has_variable": false,
+        "variable": "settings"
+    },
+    {
+        "id": 26930,
+        "file": "components\/ILIAS\/MediaPool\/classes\/class.ilMediaPoolTableGUI.php",
+        "line": 486,
+        "code": "$lng->txt(\"move\")",
+        "has_variable": false,
+        "variable": "move"
+    },
+    {
+        "id": 26932,
+        "file": "components\/ILIAS\/MediaPool\/classes\/class.ilMediaPoolTableGUI.php",
+        "line": 487,
+        "code": "$lng->txt(\"remove\")",
+        "has_variable": false,
+        "variable": "remove"
+    },
+    {
+        "id": 26934,
+        "file": "components\/ILIAS\/MediaPool\/classes\/class.ilMediaPoolTableGUI.php",
+        "line": 505,
+        "code": "$lng->txt(\"edit\")",
+        "has_variable": false,
+        "variable": "edit"
+    },
+    {
+        "id": 26936,
+        "file": "components\/ILIAS\/MediaPool\/classes\/class.ilMediaPoolTableGUI.php",
+        "line": 507,
+        "code": "$lng->txt(\"cont_copy_to_clipboard\")",
+        "has_variable": false,
+        "variable": "cont_copy_to_clipboard"
+    },
+    {
+        "id": 26938,
+        "file": "components\/ILIAS\/MediaPool\/classes\/class.ilMediaPoolTableGUI.php",
+        "line": 508,
+        "code": "$lng->txt(\"move\")",
+        "has_variable": false,
+        "variable": "move"
+    },
+    {
+        "id": 26940,
+        "file": "components\/ILIAS\/MediaPool\/classes\/class.ilMediaPoolTableGUI.php",
+        "line": 509,
+        "code": "$lng->txt(\"remove\")",
+        "has_variable": false,
+        "variable": "remove"
+    },
+    {
+        "id": 26942,
+        "file": "components\/ILIAS\/MediaPool\/classes\/class.ilObjMediaPool.php",
+        "line": 303,
+        "code": "$lng->txt(\"mep_unknown\")",
+        "has_variable": false,
+        "variable": "mep_unknown"
+    },
+    {
+        "id": 26944,
+        "file": "components\/ILIAS\/MediaPool\/classes\/class.ilObjMediaPoolAccess.php",
+        "line": 79,
+        "code": "$this->lng->txt(\"offline\")",
+        "has_variable": false,
+        "variable": "offline"
+    },
+    {
+        "id": 26946,
+        "file": "components\/ILIAS\/MediaPool\/classes\/class.ilObjMediaPoolGUI.php",
+        "line": 227,
+        "code": "$lng->txt(\"back\")",
+        "has_variable": false,
+        "variable": "back"
+    },
+    {
+        "id": 26948,
+        "file": "components\/ILIAS\/MediaPool\/classes\/class.ilObjMediaPoolGUI.php",
+        "line": 360,
+        "code": "$lng->txt(\"mep_copy_to_mep\")",
+        "has_variable": false,
+        "variable": "mep_copy_to_mep"
+    },
+    {
+        "id": 26950,
+        "file": "components\/ILIAS\/MediaPool\/classes\/class.ilObjMediaPoolGUI.php",
+        "line": 504,
+        "code": "$this->lng->txt(\"object_added\")",
+        "has_variable": false,
+        "variable": "object_added"
+    },
+    {
+        "id": 26952,
+        "file": "components\/ILIAS\/MediaPool\/classes\/class.ilObjMediaPoolGUI.php",
+        "line": 537,
+        "code": "$lng->txt(\"mep_create_mob\")",
+        "has_variable": false,
+        "variable": "mep_create_mob"
+    },
+    {
+        "id": 26954,
+        "file": "components\/ILIAS\/MediaPool\/classes\/class.ilObjMediaPoolGUI.php",
+        "line": 544,
+        "code": "$lng->txt(\"mep_create_content_snippet\")",
+        "has_variable": false,
+        "variable": "mep_create_content_snippet"
+    },
+    {
+        "id": 26956,
+        "file": "components\/ILIAS\/MediaPool\/classes\/class.ilObjMediaPoolGUI.php",
+        "line": 550,
+        "code": "$lng->txt(\"mep_create_folder\")",
+        "has_variable": false,
+        "variable": "mep_create_folder"
+    },
+    {
+        "id": 26958,
+        "file": "components\/ILIAS\/MediaPool\/classes\/class.ilObjMediaPoolGUI.php",
+        "line": 555,
+        "code": "$lng->txt(\"mep_bulk_upload\")",
+        "has_variable": false,
+        "variable": "mep_bulk_upload"
+    },
+    {
+        "id": 26960,
+        "file": "components\/ILIAS\/MediaPool\/classes\/class.ilObjMediaPoolGUI.php",
+        "line": 563,
+        "code": "$lng->txt(\"paste\")",
+        "has_variable": false,
+        "variable": "paste"
+    },
+    {
+        "id": 26962,
+        "file": "components\/ILIAS\/MediaPool\/classes\/class.ilObjMediaPoolGUI.php",
+        "line": 813,
+        "code": "$this->lng->txt(\"no_checkbox\")",
+        "has_variable": false,
+        "variable": "no_checkbox"
+    },
+    {
+        "id": 26964,
+        "file": "components\/ILIAS\/MediaPool\/classes\/class.ilObjMediaPoolGUI.php",
+        "line": 820,
+        "code": "$this->lng->txt(\"info_remove_sure\")",
+        "has_variable": false,
+        "variable": "info_remove_sure"
+    },
+    {
+        "id": 26966,
+        "file": "components\/ILIAS\/MediaPool\/classes\/class.ilObjMediaPoolGUI.php",
+        "line": 821,
+        "code": "$this->lng->txt(\"cancel\")",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 26968,
+        "file": "components\/ILIAS\/MediaPool\/classes\/class.ilObjMediaPoolGUI.php",
+        "line": 822,
+        "code": "$this->lng->txt(\"confirm\")",
+        "has_variable": false,
+        "variable": "confirm"
+    },
+    {
+        "id": 26970,
+        "file": "components\/ILIAS\/MediaPool\/classes\/class.ilObjMediaPoolGUI.php",
+        "line": 833,
+        "code": "$lng->txt(\"mep_content_snippet_in_use\")",
+        "has_variable": false,
+        "variable": "mep_content_snippet_in_use"
+    },
+    {
+        "id": 26972,
+        "file": "components\/ILIAS\/MediaPool\/classes\/class.ilObjMediaPoolGUI.php",
+        "line": 839,
+        "code": "$lng->txt(\"mep_content_snippet_used_in_older_versions\")",
+        "has_variable": false,
+        "variable": "mep_content_snippet_used_in_older_versions"
+    },
+    {
+        "id": 26974,
+        "file": "components\/ILIAS\/MediaPool\/classes\/class.ilObjMediaPoolGUI.php",
+        "line": 889,
+        "code": "$this->lng->txt(\"mep_not_insert_already_exist\")",
+        "has_variable": false,
+        "variable": "mep_not_insert_already_exist"
+    },
+    {
+        "id": 26976,
+        "file": "components\/ILIAS\/MediaPool\/classes\/class.ilObjMediaPoolGUI.php",
+        "line": 913,
+        "code": "$this->lng->txt(\"cont_obj_removed\")",
+        "has_variable": false,
+        "variable": "cont_obj_removed"
+    },
+    {
+        "id": 26978,
+        "file": "components\/ILIAS\/MediaPool\/classes\/class.ilObjMediaPoolGUI.php",
+        "line": 929,
+        "code": "$this->lng->txt(\"no_checkbox\")",
+        "has_variable": false,
+        "variable": "no_checkbox"
+    },
+    {
+        "id": 26980,
+        "file": "components\/ILIAS\/MediaPool\/classes\/class.ilObjMediaPoolGUI.php",
+        "line": 936,
+        "code": "$this->lng->txt(\"cont_cant_copy_folders\")",
+        "has_variable": false,
+        "variable": "cont_cant_copy_folders"
+    },
+    {
+        "id": 26982,
+        "file": "components\/ILIAS\/MediaPool\/classes\/class.ilObjMediaPoolGUI.php",
+        "line": 950,
+        "code": "$this->lng->txt(\"copied_to_clipboard\")",
+        "has_variable": false,
+        "variable": "copied_to_clipboard"
+    },
+    {
+        "id": 26984,
+        "file": "components\/ILIAS\/MediaPool\/classes\/class.ilObjMediaPoolGUI.php",
+        "line": 1033,
+        "code": "$lng->txt(\"mep_folder_created\")",
+        "has_variable": false,
+        "variable": "mep_folder_created"
+    },
+    {
+        "id": 26986,
+        "file": "components\/ILIAS\/MediaPool\/classes\/class.ilObjMediaPoolGUI.php",
+        "line": 1055,
+        "code": "$lng->txt(\"msg_obj_modified\")",
+        "has_variable": false,
+        "variable": "msg_obj_modified"
+    },
+    {
+        "id": 26988,
+        "file": "components\/ILIAS\/MediaPool\/classes\/class.ilObjMediaPoolGUI.php",
+        "line": 1080,
+        "code": "$lng->txt(\"title\")",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 26990,
+        "file": "components\/ILIAS\/MediaPool\/classes\/class.ilObjMediaPoolGUI.php",
+        "line": 1087,
+        "code": "$lng->txt(\"save\")",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 26992,
+        "file": "components\/ILIAS\/MediaPool\/classes\/class.ilObjMediaPoolGUI.php",
+        "line": 1088,
+        "code": "$lng->txt(\"cancel\")",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 26994,
+        "file": "components\/ILIAS\/MediaPool\/classes\/class.ilObjMediaPoolGUI.php",
+        "line": 1089,
+        "code": "$lng->txt(\"mep_new_folder\")",
+        "has_variable": false,
+        "variable": "mep_new_folder"
+    },
+    {
+        "id": 26996,
+        "file": "components\/ILIAS\/MediaPool\/classes\/class.ilObjMediaPoolGUI.php",
+        "line": 1091,
+        "code": "$lng->txt(\"save\")",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 26998,
+        "file": "components\/ILIAS\/MediaPool\/classes\/class.ilObjMediaPoolGUI.php",
+        "line": 1092,
+        "code": "$lng->txt(\"cancel\")",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 27000,
+        "file": "components\/ILIAS\/MediaPool\/classes\/class.ilObjMediaPoolGUI.php",
+        "line": 1093,
+        "code": "$lng->txt(\"mep_edit_folder\")",
+        "has_variable": false,
+        "variable": "mep_edit_folder"
+    },
+    {
+        "id": 27002,
+        "file": "components\/ILIAS\/MediaPool\/classes\/class.ilObjMediaPoolGUI.php",
+        "line": 1130,
+        "code": "$this->lng->txt(\"objs_fold\")",
+        "has_variable": false,
+        "variable": "objs_fold"
+    },
+    {
+        "id": 27004,
+        "file": "components\/ILIAS\/MediaPool\/classes\/class.ilObjMediaPoolGUI.php",
+        "line": 1133,
+        "code": "$this->lng->txt(\"mep_all_mobs\")",
+        "has_variable": false,
+        "variable": "mep_all_mobs"
+    },
+    {
+        "id": 27006,
+        "file": "components\/ILIAS\/MediaPool\/classes\/class.ilObjMediaPoolGUI.php",
+        "line": 1139,
+        "code": "$this->lng->txt(\"mep_media_subtitles\")",
+        "has_variable": false,
+        "variable": "mep_media_subtitles"
+    },
+    {
+        "id": 27008,
+        "file": "components\/ILIAS\/MediaPool\/classes\/class.ilObjMediaPoolGUI.php",
+        "line": 1157,
+        "code": "$this->lng->txt(\"mep_content\")",
+        "has_variable": false,
+        "variable": "mep_content"
+    },
+    {
+        "id": 27010,
+        "file": "components\/ILIAS\/MediaPool\/classes\/class.ilObjMediaPoolGUI.php",
+        "line": 1166,
+        "code": "$this->lng->txt(\"info_short\")",
+        "has_variable": false,
+        "variable": "info_short"
+    },
+    {
+        "id": 27012,
+        "file": "components\/ILIAS\/MediaPool\/classes\/class.ilObjMediaPoolGUI.php",
+        "line": 1177,
+        "code": "$this->lng->txt(\"settings\")",
+        "has_variable": false,
+        "variable": "settings"
+    },
+    {
+        "id": 27014,
+        "file": "components\/ILIAS\/MediaPool\/classes\/class.ilObjMediaPoolGUI.php",
+        "line": 1184,
+        "code": "$this->lng->txt(\"clipboard\")",
+        "has_variable": false,
+        "variable": "clipboard"
+    },
+    {
+        "id": 27016,
+        "file": "components\/ILIAS\/MediaPool\/classes\/class.ilObjMediaPoolGUI.php",
+        "line": 1197,
+        "code": "$this->lng->txt(\"meta_data\")",
+        "has_variable": false,
+        "variable": "meta_data"
+    },
+    {
+        "id": 27018,
+        "file": "components\/ILIAS\/MediaPool\/classes\/class.ilObjMediaPoolGUI.php",
+        "line": 1206,
+        "code": "$this->lng->txt(\"export\")",
+        "has_variable": false,
+        "variable": "export"
+    },
+    {
+        "id": 27020,
+        "file": "components\/ILIAS\/MediaPool\/classes\/class.ilObjMediaPoolGUI.php",
+        "line": 1212,
+        "code": "$this->lng->txt(\"import\")",
+        "has_variable": false,
+        "variable": "import"
+    },
+    {
+        "id": 27022,
+        "file": "components\/ILIAS\/MediaPool\/classes\/class.ilObjMediaPoolGUI.php",
+        "line": 1220,
+        "code": "$this->lng->txt(\"perm_settings\")",
+        "has_variable": false,
+        "variable": "perm_settings"
+    },
+    {
+        "id": 27024,
+        "file": "components\/ILIAS\/MediaPool\/classes\/class.ilObjMediaPoolGUI.php",
+        "line": 1236,
+        "code": "$lng->txt(\"settings\")",
+        "has_variable": false,
+        "variable": "settings"
+    },
+    {
+        "id": 27026,
+        "file": "components\/ILIAS\/MediaPool\/classes\/class.ilObjMediaPoolGUI.php",
+        "line": 1277,
+        "code": "$lng->txt(\"msg_no_perm_read_item\")",
+        "has_variable": false,
+        "variable": "msg_no_perm_read_item"
+    },
+    {
+        "id": 27028,
+        "file": "components\/ILIAS\/MediaPool\/classes\/class.ilObjMediaPoolGUI.php",
+        "line": 1283,
+        "code": "$lng->txt(\"msg_no_perm_read\")",
+        "has_variable": false,
+        "variable": "msg_no_perm_read"
+    },
+    {
+        "id": 27030,
+        "file": "components\/ILIAS\/MediaPool\/classes\/class.ilObjMediaPoolGUI.php",
+        "line": 1307,
+        "code": "$this->lng->txt(\"msg_no_perm_read\")",
+        "has_variable": false,
+        "variable": "msg_no_perm_read"
+    },
+    {
+        "id": 27032,
+        "file": "components\/ILIAS\/MediaPool\/classes\/class.ilObjMediaPoolGUI.php",
+        "line": 1350,
+        "code": "$lng->txt(\"back\")",
+        "has_variable": false,
+        "variable": "back"
+    },
+    {
+        "id": 27034,
+        "file": "components\/ILIAS\/MediaPool\/classes\/class.ilObjMediaPoolGUI.php",
+        "line": 1360,
+        "code": "$lng->txt(\"mep_up_dir_move\")",
+        "has_variable": false,
+        "variable": "mep_up_dir_move"
+    },
+    {
+        "id": 27036,
+        "file": "components\/ILIAS\/MediaPool\/classes\/class.ilObjMediaPoolGUI.php",
+        "line": 1361,
+        "code": "$lng->txt(\"mep_up_dir_copy\")",
+        "has_variable": false,
+        "variable": "mep_up_dir_copy"
+    },
+    {
+        "id": 27038,
+        "file": "components\/ILIAS\/MediaPool\/classes\/class.ilObjMediaPoolGUI.php",
+        "line": 1413,
+        "code": "$lng->txt(\"preview\")",
+        "has_variable": false,
+        "variable": "preview"
+    },
+    {
+        "id": 27040,
+        "file": "components\/ILIAS\/MediaPool\/classes\/class.ilObjMediaPoolGUI.php",
+        "line": 1459,
+        "code": "$this->lng->txt('mep_bulk_upload')",
+        "has_variable": false,
+        "variable": "mep_bulk_upload"
+    },
+    {
+        "id": 27042,
+        "file": "components\/ILIAS\/MediaPool\/classes\/class.ilObjMediaPoolGUI.php",
+        "line": 1462,
+        "code": "$this->lng->txt(\"mep_media_files\")",
+        "has_variable": false,
+        "variable": "mep_media_files"
+    },
+    {
+        "id": 27044,
+        "file": "components\/ILIAS\/MediaPool\/classes\/class.ilObjMediaPoolGUI.php",
+        "line": 1584,
+        "code": "$lng->txt(\"save\")",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 27046,
+        "file": "components\/ILIAS\/MediaPool\/classes\/class.ilObjMediaPoolGUI.php",
+        "line": 1624,
+        "code": "$lng->txt(\"title\")",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 27048,
+        "file": "components\/ILIAS\/MediaPool\/classes\/class.ilObjMediaPoolGUI.php",
+        "line": 1629,
+        "code": "$lng->txt(\"description\")",
+        "has_variable": false,
+        "variable": "description"
+    },
+    {
+        "id": 27050,
+        "file": "components\/ILIAS\/MediaPool\/classes\/class.ilObjMediaPoolGUI.php",
+        "line": 1657,
+        "code": "$lng->txt(\"msg_obj_modified\")",
+        "has_variable": false,
+        "variable": "msg_obj_modified"
+    },
+    {
+        "id": 27052,
+        "file": "components\/ILIAS\/MediaPool\/classes\/class.ilObjMediaPoolGUI.php",
+        "line": 1664,
+        "code": "$this->lng->txt(\"mep_move_select_insert\")",
+        "has_variable": false,
+        "variable": "mep_move_select_insert"
+    },
+    {
+        "id": 27054,
+        "file": "components\/ILIAS\/MediaPool\/classes\/class.ilObjMediaPoolGUI.php",
+        "line": 1681,
+        "code": "$this->lng->txt(\"mep_target_in_source_not_allowed\")",
+        "has_variable": false,
+        "variable": "mep_target_in_source_not_allowed"
+    },
+    {
+        "id": 27056,
+        "file": "components\/ILIAS\/MediaPool\/classes\/class.ilUploadDirFilesTableGUI.php",
+        "line": 47,
+        "code": "$lng->txt(\"mep_upload_dir_files\")",
+        "has_variable": false,
+        "variable": "mep_upload_dir_files"
+    },
+    {
+        "id": 27058,
+        "file": "components\/ILIAS\/MediaPool\/classes\/class.ilUploadDirFilesTableGUI.php",
+        "line": 51,
+        "code": "$this->lng->txt(\"mep_file\")",
+        "has_variable": false,
+        "variable": "mep_file"
+    },
+    {
+        "id": 27060,
+        "file": "components\/ILIAS\/MediaPool\/classes\/class.ilUploadDirFilesTableGUI.php",
+        "line": 61,
+        "code": "$lng->txt(\"mep_create_media_files\")",
+        "has_variable": false,
+        "variable": "mep_create_media_files"
+    }
+]

@@ -1,0 +1,1698 @@
+[
+    {
+        "id": 46172,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Breadcrumbs\/Renderer.php",
+        "line": 40,
+        "code": "$this->txt('breadcrumbs_aria_label')",
+        "has_variable": false,
+        "variable": "breadcrumbs_aria_label"
+    },
+    {
+        "id": 46174,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Button\/Renderer.php",
+        "line": 188,
+        "code": "$this->txt(\"close\")",
+        "has_variable": false,
+        "variable": "close"
+    },
+    {
+        "id": 46176,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Button\/Renderer.php",
+        "line": 196,
+        "code": "$this->txt(\"minimize\")",
+        "has_variable": false,
+        "variable": "minimize"
+    },
+    {
+        "id": 46178,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Button\/Renderer.php",
+        "line": 244,
+        "code": "$this->txt(\"toggle_on\")",
+        "has_variable": false,
+        "variable": "toggle_on"
+    },
+    {
+        "id": 46180,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Button\/Renderer.php",
+        "line": 245,
+        "code": "$this->txt(\"toggle_off\")",
+        "has_variable": false,
+        "variable": "toggle_off"
+    },
+    {
+        "id": 46182,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Button\/Renderer.php",
+        "line": 365,
+        "code": "$this->txt($symbol->getLabel())",
+        "has_variable": true,
+        "variable": "$symbol->getLabel()"
+    },
+    {
+        "id": 46184,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Button\/Renderer.php",
+        "line": 368,
+        "code": "$this->txt(\"counter_\" . $counter->getType())",
+        "has_variable": true,
+        "variable": "\"counter_\" . $counter->getType()"
+    },
+    {
+        "id": 46186,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Card\/Renderer.php",
+        "line": 85,
+        "code": "$this->txt(\"open\")",
+        "has_variable": false,
+        "variable": "open"
+    },
+    {
+        "id": 46188,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Chart\/Renderer.php",
+        "line": 50,
+        "code": "$this->txt(\"active\")",
+        "has_variable": false,
+        "variable": "active"
+    },
+    {
+        "id": 46190,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Dropdown\/Renderer.php",
+        "line": 73,
+        "code": "$this->txt(\"actions\")",
+        "has_variable": false,
+        "variable": "actions"
+    },
+    {
+        "id": 46192,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Input\/Container\/Filter\/Renderer.php",
+        "line": 108,
+        "code": "$this->txt(\"filter\")",
+        "has_variable": false,
+        "variable": "filter"
+    },
+    {
+        "id": 46194,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Input\/Container\/Filter\/Renderer.php",
+        "line": 138,
+        "code": "$this->txt(\"apply\")",
+        "has_variable": false,
+        "variable": "apply"
+    },
+    {
+        "id": 46196,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Input\/Container\/Filter\/Renderer.php",
+        "line": 150,
+        "code": "$this->txt(\"reset\")",
+        "has_variable": false,
+        "variable": "reset"
+    },
+    {
+        "id": 46198,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Input\/Container\/Form\/Renderer.php",
+        "line": 68,
+        "code": "$this->txt(\"save\")",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 46200,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Input\/Container\/Form\/Renderer.php",
+        "line": 98,
+        "code": "$this->txt(\"ui_error\")",
+        "has_variable": false,
+        "variable": "ui_error"
+    },
+    {
+        "id": 46202,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Input\/Container\/Form\/Renderer.php",
+        "line": 105,
+        "code": "$this->txt(\"required_field\")",
+        "has_variable": false,
+        "variable": "required_field"
+    },
+    {
+        "id": 46204,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Input\/Container\/Form\/Renderer.php",
+        "line": 106,
+        "code": "$this->txt(\"required_field\")",
+        "has_variable": false,
+        "variable": "required_field"
+    },
+    {
+        "id": 46206,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Input\/Field\/Duration.php",
+        "line": 58,
+        "code": "$lng->txt('duration_default_label_start')",
+        "has_variable": false,
+        "variable": "duration_default_label_start"
+    },
+    {
+        "id": 46208,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Input\/Field\/Duration.php",
+        "line": 59,
+        "code": "$lng->txt('duration_default_label_end')",
+        "has_variable": false,
+        "variable": "duration_default_label_end"
+    },
+    {
+        "id": 46210,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Input\/Field\/File.php",
+        "line": 141,
+        "code": "$this->language->txt('ui_file_input_invalid_mime')",
+        "has_variable": false,
+        "variable": "ui_file_input_invalid_mime"
+    },
+    {
+        "id": 46212,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Input\/Field\/File.php",
+        "line": 142,
+        "code": "$this->language->txt('ui_file_input_invalid_size')",
+        "has_variable": false,
+        "variable": "ui_file_input_invalid_size"
+    },
+    {
+        "id": 46214,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Input\/Field\/File.php",
+        "line": 143,
+        "code": "$this->language->txt('ui_file_input_invalid_amount')",
+        "has_variable": false,
+        "variable": "ui_file_input_invalid_amount"
+    },
+    {
+        "id": 46216,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Input\/Field\/File.php",
+        "line": 144,
+        "code": "$this->language->txt('ui_file_input_general_error')",
+        "has_variable": false,
+        "variable": "ui_file_input_general_error"
+    },
+    {
+        "id": 46218,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Input\/Field\/HasDynamicInputs.php",
+        "line": 164,
+        "code": "$this->language->txt(\"ui_error_in_group\")",
+        "has_variable": false,
+        "variable": "ui_error_in_group"
+    },
+    {
+        "id": 46220,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Input\/Field\/Image.php",
+        "line": 92,
+        "code": "$language->txt('image_alt_text')",
+        "has_variable": false,
+        "variable": "image_alt_text"
+    },
+    {
+        "id": 46222,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Input\/Field\/Image.php",
+        "line": 92,
+        "code": "$language->txt('image_purpose_informative')",
+        "has_variable": false,
+        "variable": "image_purpose_informative"
+    },
+    {
+        "id": 46224,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Input\/Field\/Image.php",
+        "line": 93,
+        "code": "$language->txt('image_purpose_decorative')",
+        "has_variable": false,
+        "variable": "image_purpose_decorative"
+    },
+    {
+        "id": 46226,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Input\/Field\/Image.php",
+        "line": 94,
+        "code": "$language->txt('image_purpose_user_defined')",
+        "has_variable": false,
+        "variable": "image_purpose_user_defined"
+    },
+    {
+        "id": 46228,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Input\/Field\/Image.php",
+        "line": 99,
+        "code": "$language->txt('image_alt_text')",
+        "has_variable": false,
+        "variable": "image_alt_text"
+    },
+    {
+        "id": 46230,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Input\/Field\/Link.php",
+        "line": 43,
+        "code": "$lng->txt('ui_link_label')",
+        "has_variable": false,
+        "variable": "ui_link_label"
+    },
+    {
+        "id": 46232,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Input\/Field\/Link.php",
+        "line": 44,
+        "code": "$lng->txt('ui_link_url')",
+        "has_variable": false,
+        "variable": "ui_link_url"
+    },
+    {
+        "id": 46234,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Input\/Field\/Node\/Renderer.php",
+        "line": 111,
+        "code": "$this->txt('select_node')",
+        "has_variable": false,
+        "variable": "select_node"
+    },
+    {
+        "id": 46236,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Input\/Field\/Renderer.php",
+        "line": 212,
+        "code": "$this->txt('required_field')",
+        "has_variable": false,
+        "variable": "required_field"
+    },
+    {
+        "id": 46238,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Input\/Field\/Renderer.php",
+        "line": 223,
+        "code": "$this->txt(\"ui_error\")",
+        "has_variable": false,
+        "variable": "ui_error"
+    },
+    {
+        "id": 46240,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Input\/Field\/Renderer.php",
+        "line": 504,
+        "code": "$this->txt('ui_select_dropdown_label')",
+        "has_variable": false,
+        "variable": "ui_select_dropdown_label"
+    },
+    {
+        "id": 46242,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Input\/Field\/Renderer.php",
+        "line": 557,
+        "code": "$this->txt('ui_md_input_edit')",
+        "has_variable": false,
+        "variable": "ui_md_input_edit"
+    },
+    {
+        "id": 46244,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Input\/Field\/Renderer.php",
+        "line": 558,
+        "code": "$this->txt('ui_md_input_view')",
+        "has_variable": false,
+        "variable": "ui_md_input_view"
+    },
+    {
+        "id": 46246,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Input\/Field\/Renderer.php",
+        "line": 608,
+        "code": "$this->txt('ui_chars_remaining')",
+        "has_variable": false,
+        "variable": "ui_chars_remaining"
+    },
+    {
+        "id": 46248,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Input\/Field\/Renderer.php",
+        "line": 640,
+        "code": "$this->txt('ui_mustache_variables_usage_info')",
+        "has_variable": false,
+        "variable": "ui_mustache_variables_usage_info"
+    },
+    {
+        "id": 46250,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Input\/Field\/Renderer.php",
+        "line": 912,
+        "code": "$this->txt('select_file_from_computer')",
+        "has_variable": false,
+        "variable": "select_file_from_computer"
+    },
+    {
+        "id": 46252,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Input\/Field\/Renderer.php",
+        "line": 913,
+        "code": "$this->txt('select_files_from_computer')",
+        "has_variable": false,
+        "variable": "select_files_from_computer"
+    },
+    {
+        "id": 46254,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Input\/Field\/Renderer.php",
+        "line": 1111,
+        "code": "$this->txt($option . 'stars')",
+        "has_variable": true,
+        "variable": "$option . 'stars'"
+    },
+    {
+        "id": 46256,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Input\/Field\/Renderer.php",
+        "line": 1129,
+        "code": "$this->txt('reset_stars')",
+        "has_variable": false,
+        "variable": "reset_stars"
+    },
+    {
+        "id": 46258,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Input\/Field\/Renderer.php",
+        "line": 1145,
+        "code": "$this->txt('rating_average')",
+        "has_variable": false,
+        "variable": "rating_average"
+    },
+    {
+        "id": 46260,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Input\/Field\/Renderer.php",
+        "line": 1195,
+        "code": "$this->txt('select')",
+        "has_variable": false,
+        "variable": "select"
+    },
+    {
+        "id": 46262,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Input\/Field\/Renderer.php",
+        "line": 1196,
+        "code": "$this->txt('close')",
+        "has_variable": false,
+        "variable": "close"
+    },
+    {
+        "id": 46264,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Input\/Field\/Renderer.php",
+        "line": 1231,
+        "code": "$this->txt('unselect_node')",
+        "has_variable": false,
+        "variable": "unselect_node"
+    },
+    {
+        "id": 46266,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Input\/Field\/Renderer.php",
+        "line": 1293,
+        "code": "$this->txt('file_notice')",
+        "has_variable": false,
+        "variable": "file_notice"
+    },
+    {
+        "id": 46268,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Input\/Field\/Renderer.php",
+        "line": 1298,
+        "code": "$this->txt('ui_file_upload_max_nr')",
+        "has_variable": false,
+        "variable": "ui_file_upload_max_nr"
+    },
+    {
+        "id": 46270,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Input\/Field\/Renderer.php",
+        "line": 1327,
+        "code": "$this->txt('ui_field_option_filter_no_selection')",
+        "has_variable": false,
+        "variable": "ui_field_option_filter_no_selection"
+    },
+    {
+        "id": 46272,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Input\/Field\/Renderer.php",
+        "line": 1329,
+        "code": "$this->txt('ui_field_option_filter_filtered_results_aria_label')",
+        "has_variable": false,
+        "variable": "ui_field_option_filter_filtered_results_aria_label"
+    },
+    {
+        "id": 46274,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Input\/Field\/Renderer.php",
+        "line": 1331,
+        "code": "$this->txt(\"ui_field_option_filter_search_in\")",
+        "has_variable": false,
+        "variable": "ui_field_option_filter_search_in"
+    },
+    {
+        "id": 46276,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Input\/Field\/Renderer.php",
+        "line": 1332,
+        "code": "$this->txt('ui_field_option_filter_screen_reader_hint')",
+        "has_variable": false,
+        "variable": "ui_field_option_filter_screen_reader_hint"
+    },
+    {
+        "id": 46278,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Input\/Field\/Renderer.php",
+        "line": 1333,
+        "code": "$this->txt('ui_field_option_filter_no_match')",
+        "has_variable": false,
+        "variable": "ui_field_option_filter_no_match"
+    },
+    {
+        "id": 46280,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Input\/Field\/Renderer.php",
+        "line": 1334,
+        "code": "$this->txt('ui_field_option_filter_options_shown')",
+        "has_variable": false,
+        "variable": "ui_field_option_filter_options_shown"
+    },
+    {
+        "id": 46282,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Input\/Field\/Renderer.php",
+        "line": 1337,
+        "code": "$this->txt('ui_field_option_filter_show_all_options')",
+        "has_variable": false,
+        "variable": "ui_field_option_filter_show_all_options"
+    },
+    {
+        "id": 46284,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Input\/Field\/Renderer.php",
+        "line": 1340,
+        "code": "$this->txt('ui_field_option_filter_show_less')",
+        "has_variable": false,
+        "variable": "ui_field_option_filter_show_less"
+    },
+    {
+        "id": 46286,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Input\/Field\/Renderer.php",
+        "line": 1343,
+        "code": "$this->txt('ui_field_option_filter_clear_search')",
+        "has_variable": false,
+        "variable": "ui_field_option_filter_clear_search"
+    },
+    {
+        "id": 46288,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Input\/Field\/SwitchableGroup.php",
+        "line": 142,
+        "code": "$this->lng->txt(\"ui_error_switchable_group_required\")",
+        "has_variable": false,
+        "variable": "ui_error_switchable_group_required"
+    },
+    {
+        "id": 46290,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Input\/Field\/SwitchableGroup.php",
+        "line": 163,
+        "code": "$this->lng->txt(\"ui_error_in_group\")",
+        "has_variable": false,
+        "variable": "ui_error_in_group"
+    },
+    {
+        "id": 46292,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Input\/Field\/TreeMultiSelect.php",
+        "line": 84,
+        "code": "$this->language->txt('not_greater_than_or_equal')",
+        "has_variable": false,
+        "variable": "not_greater_than_or_equal"
+    },
+    {
+        "id": 46294,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Input\/ViewControl\/Renderer.php",
+        "line": 112,
+        "code": "$this->txt(self::DEFAULT_BUTTON_LABEL)",
+        "has_variable": true,
+        "variable": "DEFAULT_BUTTON_LABEL"
+    },
+    {
+        "id": 46296,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Input\/ViewControl\/Renderer.php",
+        "line": 118,
+        "code": "$this->txt(self::DEFAULT_DROPDOWN_LABEL)",
+        "has_variable": true,
+        "variable": "DEFAULT_DROPDOWN_LABEL"
+    },
+    {
+        "id": 46298,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Input\/ViewControl\/Renderer.php",
+        "line": 163,
+        "code": "$this->txt(self::DEFAULT_SORTATION_DROPDOWN_LABEL)",
+        "has_variable": true,
+        "variable": "DEFAULT_SORTATION_DROPDOWN_LABEL"
+    },
+    {
+        "id": 46300,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Input\/ViewControl\/Renderer.php",
+        "line": 305,
+        "code": "$this->txt('ui_pagination_unlimited')",
+        "has_variable": false,
+        "variable": "ui_pagination_unlimited"
+    },
+    {
+        "id": 46302,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Input\/ViewControl\/Renderer.php",
+        "line": 341,
+        "code": "$this->txt(self::DEFAULT_DROPDOWN_LABEL_OFFSET)",
+        "has_variable": true,
+        "variable": "DEFAULT_DROPDOWN_LABEL_OFFSET"
+    },
+    {
+        "id": 46304,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Input\/ViewControl\/Renderer.php",
+        "line": 343,
+        "code": "$this->txt(self::DEFAULT_DROPDOWN_LABEL_LIMIT)",
+        "has_variable": true,
+        "variable": "DEFAULT_DROPDOWN_LABEL_LIMIT"
+    },
+    {
+        "id": 46306,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Input\/ViewControl\/Renderer.php",
+        "line": 381,
+        "code": "$this->txt(self::DEFAULT_MODE_LABEL)",
+        "has_variable": true,
+        "variable": "DEFAULT_MODE_LABEL"
+    },
+    {
+        "id": 46308,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Item\/Renderer.php",
+        "line": 245,
+        "code": "$this->txt(\"back\")",
+        "has_variable": false,
+        "variable": "back"
+    },
+    {
+        "id": 46310,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Listing\/Renderer.php",
+        "line": 129,
+        "code": "$this->txt(\"show_more\")",
+        "has_variable": false,
+        "variable": "show_more"
+    },
+    {
+        "id": 46312,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Listing\/Renderer.php",
+        "line": 130,
+        "code": "$this->txt(\"show_less\")",
+        "has_variable": false,
+        "variable": "show_less"
+    },
+    {
+        "id": 46314,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Listing\/TableColumnContextRenderer.php",
+        "line": 45,
+        "code": "$this->txt('show_more')",
+        "has_variable": false,
+        "variable": "show_more"
+    },
+    {
+        "id": 46316,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/MainControls\/Renderer.php",
+        "line": 189,
+        "code": "$this->txt('mainbar_aria_label')",
+        "has_variable": false,
+        "variable": "mainbar_aria_label"
+    },
+    {
+        "id": 46318,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/MainControls\/Renderer.php",
+        "line": 190,
+        "code": "$this->txt('mainbar_more_label')",
+        "has_variable": false,
+        "variable": "mainbar_more_label"
+    },
+    {
+        "id": 46320,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/MainControls\/Renderer.php",
+        "line": 231,
+        "code": "$this->txt('close')",
+        "has_variable": false,
+        "variable": "close"
+    },
+    {
+        "id": 46322,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/MainControls\/Renderer.php",
+        "line": 253,
+        "code": "$this->txt('show_more')",
+        "has_variable": false,
+        "variable": "show_more"
+    },
+    {
+        "id": 46324,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/MainControls\/Renderer.php",
+        "line": 291,
+        "code": "$this->txt('metabar_aria_label')",
+        "has_variable": false,
+        "variable": "metabar_aria_label"
+    },
+    {
+        "id": 46326,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/MainControls\/Renderer.php",
+        "line": 454,
+        "code": "$this->txt('footer_permanent_link')",
+        "has_variable": false,
+        "variable": "footer_permanent_link"
+    },
+    {
+        "id": 46328,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/MainControls\/Renderer.php",
+        "line": 471,
+        "code": "$this->txt('footer_link_groups')",
+        "has_variable": false,
+        "variable": "footer_link_groups"
+    },
+    {
+        "id": 46330,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/MainControls\/Renderer.php",
+        "line": 485,
+        "code": "$this->txt('footer_links')",
+        "has_variable": false,
+        "variable": "footer_links"
+    },
+    {
+        "id": 46332,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/MainControls\/Renderer.php",
+        "line": 510,
+        "code": "$this->txt('footer_icons')",
+        "has_variable": false,
+        "variable": "footer_icons"
+    },
+    {
+        "id": 46334,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/MainControls\/Renderer.php",
+        "line": 524,
+        "code": "$this->txt('footer_texts')",
+        "has_variable": false,
+        "variable": "footer_texts"
+    },
+    {
+        "id": 46336,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/MainControls\/Renderer.php",
+        "line": 632,
+        "code": "$this->txt('copy_perma_link')",
+        "has_variable": false,
+        "variable": "copy_perma_link"
+    },
+    {
+        "id": 46338,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/MainControls\/Renderer.php",
+        "line": 635,
+        "code": "$this->txt('perma_link_copied')",
+        "has_variable": false,
+        "variable": "perma_link_copied"
+    },
+    {
+        "id": 46340,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Menu\/Renderer.php",
+        "line": 80,
+        "code": "$this->txt('back')",
+        "has_variable": false,
+        "variable": "back"
+    },
+    {
+        "id": 46342,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Menu\/Renderer.php",
+        "line": 102,
+        "code": "$this->txt(self::NO_ITEMS_LABEL)",
+        "has_variable": true,
+        "variable": "NO_ITEMS_LABEL"
+    },
+    {
+        "id": 46344,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Menu\/Renderer.php",
+        "line": 132,
+        "code": "$this->txt('filter_nodes_in')",
+        "has_variable": false,
+        "variable": "filter_nodes_in"
+    },
+    {
+        "id": 46346,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/MessageBox\/PromptContextRenderer.php",
+        "line": 48,
+        "code": "$this->txt($component->getType() . \"_message\")",
+        "has_variable": true,
+        "variable": "$component->getType() . \"_message\""
+    },
+    {
+        "id": 46348,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/MessageBox\/Renderer.php",
+        "line": 55,
+        "code": "$this->txt($component->getType() . \"_message\")",
+        "has_variable": true,
+        "variable": "$component->getType() . \"_message\""
+    },
+    {
+        "id": 46350,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Modal\/Renderer.php",
+        "line": 164,
+        "code": "$this->txt('delete')",
+        "has_variable": false,
+        "variable": "delete"
+    },
+    {
+        "id": 46352,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Modal\/Renderer.php",
+        "line": 165,
+        "code": "$this->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 46354,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Modal\/Renderer.php",
+        "line": 166,
+        "code": "$this->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 46356,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Modal\/Renderer.php",
+        "line": 202,
+        "code": "$this->txt('close')",
+        "has_variable": false,
+        "variable": "close"
+    },
+    {
+        "id": 46358,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Modal\/Renderer.php",
+        "line": 224,
+        "code": "$this->txt('save')",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 46360,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Modal\/Renderer.php",
+        "line": 232,
+        "code": "$this->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 46362,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Modal\/Renderer.php",
+        "line": 246,
+        "code": "$this->txt('close')",
+        "has_variable": false,
+        "variable": "close"
+    },
+    {
+        "id": 46364,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Navigation\/Sequence\/Renderer.php",
+        "line": 73,
+        "code": "$this->txt('back')",
+        "has_variable": false,
+        "variable": "back"
+    },
+    {
+        "id": 46366,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Navigation\/Sequence\/Renderer.php",
+        "line": 77,
+        "code": "$this->txt('next')",
+        "has_variable": false,
+        "variable": "next"
+    },
+    {
+        "id": 46368,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Navigation\/Sequence\/Renderer.php",
+        "line": 111,
+        "code": "$this->txt(\"ui_nav_sequence_control_label\")",
+        "has_variable": false,
+        "variable": "ui_nav_sequence_control_label"
+    },
+    {
+        "id": 46370,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Navigation\/Sequence\/Renderer.php",
+        "line": 114,
+        "code": "$this->txt(\"ui_nav_sequence_description\")",
+        "has_variable": false,
+        "variable": "ui_nav_sequence_description"
+    },
+    {
+        "id": 46372,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Player\/Renderer.php",
+        "line": 54,
+        "code": "$this->txt(\"ui_transcription\")",
+        "has_variable": false,
+        "variable": "ui_transcription"
+    },
+    {
+        "id": 46374,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Player\/Renderer.php",
+        "line": 57,
+        "code": "$this->txt(\"ui_transcription\")",
+        "has_variable": false,
+        "variable": "ui_transcription"
+    },
+    {
+        "id": 46376,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Prompt\/Renderer.php",
+        "line": 68,
+        "code": "$this->txt('close')",
+        "has_variable": false,
+        "variable": "close"
+    },
+    {
+        "id": 46378,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Prompt\/State\/Renderer.php",
+        "line": 67,
+        "code": "$this->txt(\"save\")",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 46380,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Prompt\/State\/Renderer.php",
+        "line": 74,
+        "code": "$this->txt('close')",
+        "has_variable": false,
+        "variable": "close"
+    },
+    {
+        "id": 46382,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Symbol\/Avatar\/Renderer.php",
+        "line": 39,
+        "code": "$this->txt(\"user_avatar\")",
+        "has_variable": false,
+        "variable": "user_avatar"
+    },
+    {
+        "id": 46384,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Symbol\/Glyph\/Factory.php",
+        "line": 34,
+        "code": "$this->language->txt(\"settings\")",
+        "has_variable": false,
+        "variable": "settings"
+    },
+    {
+        "id": 46386,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Symbol\/Glyph\/Factory.php",
+        "line": 39,
+        "code": "$this->language->txt(\"collapse_content\")",
+        "has_variable": false,
+        "variable": "collapse_content"
+    },
+    {
+        "id": 46388,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Symbol\/Glyph\/Factory.php",
+        "line": 44,
+        "code": "$this->language->txt(\"expand_content\")",
+        "has_variable": false,
+        "variable": "expand_content"
+    },
+    {
+        "id": 46390,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Symbol\/Glyph\/Factory.php",
+        "line": 49,
+        "code": "$this->language->txt(\"add\")",
+        "has_variable": false,
+        "variable": "add"
+    },
+    {
+        "id": 46392,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Symbol\/Glyph\/Factory.php",
+        "line": 54,
+        "code": "$this->language->txt(\"remove\")",
+        "has_variable": false,
+        "variable": "remove"
+    },
+    {
+        "id": 46394,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Symbol\/Glyph\/Factory.php",
+        "line": 59,
+        "code": "$this->language->txt(\"up\")",
+        "has_variable": false,
+        "variable": "up"
+    },
+    {
+        "id": 46396,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Symbol\/Glyph\/Factory.php",
+        "line": 64,
+        "code": "$this->language->txt(\"down\")",
+        "has_variable": false,
+        "variable": "down"
+    },
+    {
+        "id": 46398,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Symbol\/Glyph\/Factory.php",
+        "line": 69,
+        "code": "$this->language->txt(\"back\")",
+        "has_variable": false,
+        "variable": "back"
+    },
+    {
+        "id": 46400,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Symbol\/Glyph\/Factory.php",
+        "line": 74,
+        "code": "$this->language->txt(\"next\")",
+        "has_variable": false,
+        "variable": "next"
+    },
+    {
+        "id": 46402,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Symbol\/Glyph\/Factory.php",
+        "line": 79,
+        "code": "$this->language->txt(\"sort_ascending\")",
+        "has_variable": false,
+        "variable": "sort_ascending"
+    },
+    {
+        "id": 46404,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Symbol\/Glyph\/Factory.php",
+        "line": 84,
+        "code": "$this->language->txt(\"briefcase\")",
+        "has_variable": false,
+        "variable": "briefcase"
+    },
+    {
+        "id": 46406,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Symbol\/Glyph\/Factory.php",
+        "line": 89,
+        "code": "$this->language->txt(\"sort_descending\")",
+        "has_variable": false,
+        "variable": "sort_descending"
+    },
+    {
+        "id": 46408,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Symbol\/Glyph\/Factory.php",
+        "line": 94,
+        "code": "$this->language->txt(\"show_who_is_online\")",
+        "has_variable": false,
+        "variable": "show_who_is_online"
+    },
+    {
+        "id": 46410,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Symbol\/Glyph\/Factory.php",
+        "line": 99,
+        "code": "$this->language->txt(\"mail\")",
+        "has_variable": false,
+        "variable": "mail"
+    },
+    {
+        "id": 46412,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Symbol\/Glyph\/Factory.php",
+        "line": 104,
+        "code": "$this->language->txt(\"notifications\")",
+        "has_variable": false,
+        "variable": "notifications"
+    },
+    {
+        "id": 46414,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Symbol\/Glyph\/Factory.php",
+        "line": 109,
+        "code": "$this->language->txt(\"tags\")",
+        "has_variable": false,
+        "variable": "tags"
+    },
+    {
+        "id": 46416,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Symbol\/Glyph\/Factory.php",
+        "line": 114,
+        "code": "$this->language->txt(\"notes\")",
+        "has_variable": false,
+        "variable": "notes"
+    },
+    {
+        "id": 46418,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Symbol\/Glyph\/Factory.php",
+        "line": 119,
+        "code": "$this->language->txt(\"comments\")",
+        "has_variable": false,
+        "variable": "comments"
+    },
+    {
+        "id": 46420,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Symbol\/Glyph\/Factory.php",
+        "line": 124,
+        "code": "$this->language->txt(\"like\")",
+        "has_variable": false,
+        "variable": "like"
+    },
+    {
+        "id": 46422,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Symbol\/Glyph\/Factory.php",
+        "line": 129,
+        "code": "$this->language->txt(\"love\")",
+        "has_variable": false,
+        "variable": "love"
+    },
+    {
+        "id": 46424,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Symbol\/Glyph\/Factory.php",
+        "line": 134,
+        "code": "$this->language->txt(\"dislike\")",
+        "has_variable": false,
+        "variable": "dislike"
+    },
+    {
+        "id": 46426,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Symbol\/Glyph\/Factory.php",
+        "line": 139,
+        "code": "$this->language->txt(\"laugh\")",
+        "has_variable": false,
+        "variable": "laugh"
+    },
+    {
+        "id": 46428,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Symbol\/Glyph\/Factory.php",
+        "line": 144,
+        "code": "$this->language->txt(\"astounded\")",
+        "has_variable": false,
+        "variable": "astounded"
+    },
+    {
+        "id": 46430,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Symbol\/Glyph\/Factory.php",
+        "line": 149,
+        "code": "$this->language->txt(\"sad\")",
+        "has_variable": false,
+        "variable": "sad"
+    },
+    {
+        "id": 46432,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Symbol\/Glyph\/Factory.php",
+        "line": 154,
+        "code": "$this->language->txt(\"angry\")",
+        "has_variable": false,
+        "variable": "angry"
+    },
+    {
+        "id": 46434,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Symbol\/Glyph\/Factory.php",
+        "line": 159,
+        "code": "$this->language->txt(\"eyeopened\")",
+        "has_variable": false,
+        "variable": "eyeopened"
+    },
+    {
+        "id": 46436,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Symbol\/Glyph\/Factory.php",
+        "line": 164,
+        "code": "$this->language->txt(\"eyeclosed\")",
+        "has_variable": false,
+        "variable": "eyeclosed"
+    },
+    {
+        "id": 46438,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Symbol\/Glyph\/Factory.php",
+        "line": 169,
+        "code": "$this->language->txt(\"attachment\")",
+        "has_variable": false,
+        "variable": "attachment"
+    },
+    {
+        "id": 46440,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Symbol\/Glyph\/Factory.php",
+        "line": 174,
+        "code": "$this->language->txt(\"reset\")",
+        "has_variable": false,
+        "variable": "reset"
+    },
+    {
+        "id": 46442,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Symbol\/Glyph\/Factory.php",
+        "line": 179,
+        "code": "$this->language->txt(\"apply\")",
+        "has_variable": false,
+        "variable": "apply"
+    },
+    {
+        "id": 46444,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Symbol\/Glyph\/Factory.php",
+        "line": 184,
+        "code": "$this->language->txt(\"search\")",
+        "has_variable": false,
+        "variable": "search"
+    },
+    {
+        "id": 46446,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Symbol\/Glyph\/Factory.php",
+        "line": 189,
+        "code": "$this->language->txt(\"help\")",
+        "has_variable": false,
+        "variable": "help"
+    },
+    {
+        "id": 46448,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Symbol\/Glyph\/Factory.php",
+        "line": 194,
+        "code": "$this->language->txt(\"calendar\")",
+        "has_variable": false,
+        "variable": "calendar"
+    },
+    {
+        "id": 46450,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Symbol\/Glyph\/Factory.php",
+        "line": 199,
+        "code": "$this->language->txt(\"time\")",
+        "has_variable": false,
+        "variable": "time"
+    },
+    {
+        "id": 46452,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Symbol\/Glyph\/Factory.php",
+        "line": 204,
+        "code": "$this->language->txt(\"close\")",
+        "has_variable": false,
+        "variable": "close"
+    },
+    {
+        "id": 46454,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Symbol\/Glyph\/Factory.php",
+        "line": 209,
+        "code": "$this->language->txt(\"show_more\")",
+        "has_variable": false,
+        "variable": "show_more"
+    },
+    {
+        "id": 46456,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Symbol\/Glyph\/Factory.php",
+        "line": 214,
+        "code": "$this->language->txt(\"disclose\")",
+        "has_variable": false,
+        "variable": "disclose"
+    },
+    {
+        "id": 46458,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Symbol\/Glyph\/Factory.php",
+        "line": 219,
+        "code": "$this->language->txt(\"switch_language\")",
+        "has_variable": false,
+        "variable": "switch_language"
+    },
+    {
+        "id": 46460,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Symbol\/Glyph\/Factory.php",
+        "line": 224,
+        "code": "$this->language->txt(\"log_in\")",
+        "has_variable": false,
+        "variable": "log_in"
+    },
+    {
+        "id": 46462,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Symbol\/Glyph\/Factory.php",
+        "line": 229,
+        "code": "$this->language->txt(\"log_out\")",
+        "has_variable": false,
+        "variable": "log_out"
+    },
+    {
+        "id": 46464,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Symbol\/Glyph\/Factory.php",
+        "line": 234,
+        "code": "$this->language->txt(\"bulletlist_action\")",
+        "has_variable": false,
+        "variable": "bulletlist_action"
+    },
+    {
+        "id": 46466,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Symbol\/Glyph\/Factory.php",
+        "line": 239,
+        "code": "$this->language->txt(\"numberedlist_action\")",
+        "has_variable": false,
+        "variable": "numberedlist_action"
+    },
+    {
+        "id": 46468,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Symbol\/Glyph\/Factory.php",
+        "line": 244,
+        "code": "$this->language->txt(\"listindent\")",
+        "has_variable": false,
+        "variable": "listindent"
+    },
+    {
+        "id": 46470,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Symbol\/Glyph\/Factory.php",
+        "line": 249,
+        "code": "$this->language->txt(\"listoutdent\")",
+        "has_variable": false,
+        "variable": "listoutdent"
+    },
+    {
+        "id": 46472,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Symbol\/Glyph\/Factory.php",
+        "line": 254,
+        "code": "$this->language->txt(\"filter\")",
+        "has_variable": false,
+        "variable": "filter"
+    },
+    {
+        "id": 46474,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Symbol\/Glyph\/Factory.php",
+        "line": 259,
+        "code": "$this->language->txt(\"collapse\/back\")",
+        "has_variable": true,
+        "variable": "collapse\/back"
+    },
+    {
+        "id": 46476,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Symbol\/Glyph\/Factory.php",
+        "line": 264,
+        "code": "$this->language->txt(\"header_action\")",
+        "has_variable": false,
+        "variable": "header_action"
+    },
+    {
+        "id": 46478,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Symbol\/Glyph\/Factory.php",
+        "line": 269,
+        "code": "$this->language->txt(\"italic_action\")",
+        "has_variable": false,
+        "variable": "italic_action"
+    },
+    {
+        "id": 46480,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Symbol\/Glyph\/Factory.php",
+        "line": 274,
+        "code": "$this->language->txt(\"bold_action\")",
+        "has_variable": false,
+        "variable": "bold_action"
+    },
+    {
+        "id": 46482,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Symbol\/Glyph\/Factory.php",
+        "line": 279,
+        "code": "$this->language->txt(\"link_action\")",
+        "has_variable": false,
+        "variable": "link_action"
+    },
+    {
+        "id": 46484,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Symbol\/Glyph\/Factory.php",
+        "line": 284,
+        "code": "$this->language->txt(\"launch\")",
+        "has_variable": false,
+        "variable": "launch"
+    },
+    {
+        "id": 46486,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Symbol\/Glyph\/Factory.php",
+        "line": 289,
+        "code": "$this->language->txt(\"enlarge\")",
+        "has_variable": false,
+        "variable": "enlarge"
+    },
+    {
+        "id": 46488,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Symbol\/Glyph\/Factory.php",
+        "line": 294,
+        "code": "$this->language->txt(\"list_view\")",
+        "has_variable": false,
+        "variable": "list_view"
+    },
+    {
+        "id": 46490,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Symbol\/Glyph\/Factory.php",
+        "line": 299,
+        "code": "$this->language->txt(\"preview\")",
+        "has_variable": false,
+        "variable": "preview"
+    },
+    {
+        "id": 46492,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Symbol\/Glyph\/Factory.php",
+        "line": 304,
+        "code": "$this->language->txt(\"sort\")",
+        "has_variable": false,
+        "variable": "sort"
+    },
+    {
+        "id": 46494,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Symbol\/Glyph\/Factory.php",
+        "line": 309,
+        "code": "$this->language->txt(\"column_selection\")",
+        "has_variable": false,
+        "variable": "column_selection"
+    },
+    {
+        "id": 46496,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Symbol\/Glyph\/Factory.php",
+        "line": 314,
+        "code": "$this->language->txt(\"tile_view\")",
+        "has_variable": false,
+        "variable": "tile_view"
+    },
+    {
+        "id": 46498,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Symbol\/Glyph\/Factory.php",
+        "line": 319,
+        "code": "$this->language->txt(\"drag_handle\")",
+        "has_variable": false,
+        "variable": "drag_handle"
+    },
+    {
+        "id": 46500,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Symbol\/Glyph\/Factory.php",
+        "line": 324,
+        "code": "$this->language->txt(\"checked\")",
+        "has_variable": false,
+        "variable": "checked"
+    },
+    {
+        "id": 46502,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Symbol\/Glyph\/Factory.php",
+        "line": 329,
+        "code": "$this->language->txt(\"unchecked\")",
+        "has_variable": false,
+        "variable": "unchecked"
+    },
+    {
+        "id": 46504,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Table\/Column\/Boolean.php",
+        "line": 61,
+        "code": "$this->lng->txt('order_option_first')",
+        "has_variable": false,
+        "variable": "order_option_first"
+    },
+    {
+        "id": 46506,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Table\/Column\/Boolean.php",
+        "line": 62,
+        "code": "$this->lng->txt('order_option_first')",
+        "has_variable": false,
+        "variable": "order_option_first"
+    },
+    {
+        "id": 46508,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Table\/Column\/Column.php",
+        "line": 88,
+        "code": "$this->lng->txt('order_option_generic_ascending')",
+        "has_variable": false,
+        "variable": "order_option_generic_ascending"
+    },
+    {
+        "id": 46510,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Table\/Column\/Column.php",
+        "line": 89,
+        "code": "$this->lng->txt('order_option_generic_descending')",
+        "has_variable": false,
+        "variable": "order_option_generic_descending"
+    },
+    {
+        "id": 46512,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Table\/Column\/Date.php",
+        "line": 54,
+        "code": "$this->lng->txt('order_option_chronological_ascending')",
+        "has_variable": false,
+        "variable": "order_option_chronological_ascending"
+    },
+    {
+        "id": 46514,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Table\/Column\/Date.php",
+        "line": 55,
+        "code": "$this->lng->txt('order_option_chronological_descending')",
+        "has_variable": false,
+        "variable": "order_option_chronological_descending"
+    },
+    {
+        "id": 46516,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Table\/Column\/EMail.php",
+        "line": 33,
+        "code": "$this->lng->txt('order_option_alphabetical_ascending')",
+        "has_variable": false,
+        "variable": "order_option_alphabetical_ascending"
+    },
+    {
+        "id": 46518,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Table\/Column\/EMail.php",
+        "line": 34,
+        "code": "$this->lng->txt('order_option_alphabetical_descending')",
+        "has_variable": false,
+        "variable": "order_option_alphabetical_descending"
+    },
+    {
+        "id": 46520,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Table\/Column\/Link.php",
+        "line": 40,
+        "code": "$this->lng->txt('order_option_alphabetical_ascending')",
+        "has_variable": false,
+        "variable": "order_option_alphabetical_ascending"
+    },
+    {
+        "id": 46522,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Table\/Column\/Link.php",
+        "line": 41,
+        "code": "$this->lng->txt('order_option_alphabetical_descending')",
+        "has_variable": false,
+        "variable": "order_option_alphabetical_descending"
+    },
+    {
+        "id": 46524,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Table\/Column\/Listing.php",
+        "line": 40,
+        "code": "$this->lng->txt('order_option_alphabetical_ascending')",
+        "has_variable": false,
+        "variable": "order_option_alphabetical_ascending"
+    },
+    {
+        "id": 46526,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Table\/Column\/Listing.php",
+        "line": 41,
+        "code": "$this->lng->txt('order_option_alphabetical_descending')",
+        "has_variable": false,
+        "variable": "order_option_alphabetical_descending"
+    },
+    {
+        "id": 46528,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Table\/Column\/Number.php",
+        "line": 94,
+        "code": "$this->lng->txt('order_option_numerical_ascending')",
+        "has_variable": false,
+        "variable": "order_option_numerical_ascending"
+    },
+    {
+        "id": 46530,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Table\/Column\/Number.php",
+        "line": 95,
+        "code": "$this->lng->txt('order_option_numerical_descending')",
+        "has_variable": false,
+        "variable": "order_option_numerical_descending"
+    },
+    {
+        "id": 46532,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Table\/Column\/Status.php",
+        "line": 30,
+        "code": "$this->lng->txt('order_option_alphabetical_ascending')",
+        "has_variable": false,
+        "variable": "order_option_alphabetical_ascending"
+    },
+    {
+        "id": 46534,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Table\/Column\/Status.php",
+        "line": 31,
+        "code": "$this->lng->txt('order_option_alphabetical_descending')",
+        "has_variable": false,
+        "variable": "order_option_alphabetical_descending"
+    },
+    {
+        "id": 46536,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Table\/Column\/Text.php",
+        "line": 33,
+        "code": "$this->lng->txt('order_option_alphabetical_ascending')",
+        "has_variable": false,
+        "variable": "order_option_alphabetical_ascending"
+    },
+    {
+        "id": 46538,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Table\/Column\/Text.php",
+        "line": 34,
+        "code": "$this->lng->txt('order_option_alphabetical_descending')",
+        "has_variable": false,
+        "variable": "order_option_alphabetical_descending"
+    },
+    {
+        "id": 46540,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Table\/Column\/TimeSpan.php",
+        "line": 57,
+        "code": "$this->lng->txt('order_option_chronological_ascending')",
+        "has_variable": false,
+        "variable": "order_option_chronological_ascending"
+    },
+    {
+        "id": 46542,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Table\/Column\/TimeSpan.php",
+        "line": 58,
+        "code": "$this->lng->txt('order_option_chronological_descending')",
+        "has_variable": false,
+        "variable": "order_option_chronological_descending"
+    },
+    {
+        "id": 46544,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Table\/Renderer.php",
+        "line": 75,
+        "code": "$this->txt('presentation_table_expand')",
+        "has_variable": false,
+        "variable": "presentation_table_expand"
+    },
+    {
+        "id": 46546,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Table\/Renderer.php",
+        "line": 80,
+        "code": "$this->txt('presentation_table_collapse')",
+        "has_variable": false,
+        "variable": "presentation_table_collapse"
+    },
+    {
+        "id": 46548,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Table\/Renderer.php",
+        "line": 105,
+        "code": "$this->txt('ui_table_no_records')",
+        "has_variable": false,
+        "variable": "ui_table_no_records"
+    },
+    {
+        "id": 46550,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Table\/Renderer.php",
+        "line": 142,
+        "code": "$this->txt(\"presentation_table_more\")",
+        "has_variable": false,
+        "variable": "presentation_table_more"
+    },
+    {
+        "id": 46552,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Table\/Renderer.php",
+        "line": 243,
+        "code": "$this->txt('ui_table_no_records')",
+        "has_variable": false,
+        "variable": "ui_table_no_records"
+    },
+    {
+        "id": 46554,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Table\/Renderer.php",
+        "line": 261,
+        "code": "$this->txt('datatable_close_warning')",
+        "has_variable": false,
+        "variable": "datatable_close_warning"
+    },
+    {
+        "id": 46556,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Table\/Renderer.php",
+        "line": 343,
+        "code": "$this->txt('actions')",
+        "has_variable": false,
+        "variable": "actions"
+    },
+    {
+        "id": 46558,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Table\/Renderer.php",
+        "line": 457,
+        "code": "$this->txt('datatable_multiactionmodal_msg')",
+        "has_variable": false,
+        "variable": "datatable_multiactionmodal_msg"
+    },
+    {
+        "id": 46560,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Table\/Renderer.php",
+        "line": 460,
+        "code": "$this->txt('datatable_multiactionmodal_actionlabel')",
+        "has_variable": false,
+        "variable": "datatable_multiactionmodal_actionlabel"
+    },
+    {
+        "id": 46562,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Table\/Renderer.php",
+        "line": 467,
+        "code": "$this->txt('datatable_multiactionmodal_apply')",
+        "has_variable": false,
+        "variable": "datatable_multiactionmodal_apply"
+    },
+    {
+        "id": 46564,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Table\/Renderer.php",
+        "line": 472,
+        "code": "$this->txt('datatable_multiactionmodal_title')",
+        "has_variable": false,
+        "variable": "datatable_multiactionmodal_title"
+    },
+    {
+        "id": 46566,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Table\/Renderer.php",
+        "line": 480,
+        "code": "$this->txt('warning_url_too_long_msg')",
+        "has_variable": false,
+        "variable": "warning_url_too_long_msg"
+    },
+    {
+        "id": 46568,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Table\/Renderer.php",
+        "line": 505,
+        "code": "$this->txt('datatable_multiactionmodal_listentry')",
+        "has_variable": false,
+        "variable": "datatable_multiactionmodal_listentry"
+    },
+    {
+        "id": 46570,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Table\/Renderer.php",
+        "line": 507,
+        "code": "$this->txt('datatable_multiaction_label')",
+        "has_variable": false,
+        "variable": "datatable_multiaction_label"
+    },
+    {
+        "id": 46572,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Table\/Renderer.php",
+        "line": 588,
+        "code": "$this->txt(\"ui_table_order\")",
+        "has_variable": false,
+        "variable": "ui_table_order"
+    },
+    {
+        "id": 46574,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Table\/Renderer.php",
+        "line": 702,
+        "code": "$this->txt('sorting_save')",
+        "has_variable": false,
+        "variable": "sorting_save"
+    },
+    {
+        "id": 46576,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Table\/Renderer.php",
+        "line": 707,
+        "code": "$this->txt('table_posinput_col_title')",
+        "has_variable": false,
+        "variable": "table_posinput_col_title"
+    },
+    {
+        "id": 46578,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Table\/Renderer.php",
+        "line": 750,
+        "code": "$this->txt('datatable_close_warning')",
+        "has_variable": false,
+        "variable": "datatable_close_warning"
+    },
+    {
+        "id": 46580,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/ViewControl\/Renderer.php",
+        "line": 71,
+        "code": "$this->txt($component->getAriaLabel())",
+        "has_variable": true,
+        "variable": "$component->getAriaLabel()"
+    },
+    {
+        "id": 46582,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/ViewControl\/Renderer.php",
+        "line": 117,
+        "code": "$this->txt(\"next\")",
+        "has_variable": false,
+        "variable": "next"
+    },
+    {
+        "id": 46584,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/ViewControl\/Renderer.php",
+        "line": 118,
+        "code": "$this->txt(\"previous\")",
+        "has_variable": false,
+        "variable": "previous"
+    },
+    {
+        "id": 46586,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/ViewControl\/Renderer.php",
+        "line": 137,
+        "code": "$this->txt('vc_sort')",
+        "has_variable": false,
+        "variable": "vc_sort"
+    },
+    {
+        "id": 46588,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/ViewControl\/Renderer.php",
+        "line": 193,
+        "code": "$this->txt(\"sortation\")",
+        "has_variable": false,
+        "variable": "sortation"
+    },
+    {
+        "id": 46590,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/ViewControl\/Renderer.php",
+        "line": 249,
+        "code": "$this->txt($dd_label_template)",
+        "has_variable": true,
+        "variable": "$dd_label_template"
+    },
+    {
+        "id": 46592,
+        "file": "components\/ILIAS\/UI\/src\/Implementation\/Render\/AbstractComponentRenderer.php",
+        "line": 92,
+        "code": "$this->lng->txt($id)",
+        "has_variable": true,
+        "variable": "$id"
+    },
+    {
+        "id": 46594,
+        "file": "components\/ILIAS\/UI\/src\/examples\/Symbol\/Icon\/Standard\/std_icons.php",
+        "line": 50,
+        "code": "$lng->txt(\"obj_$icon\")",
+        "has_variable": true,
+        "variable": "obj_$icon"
+    }
+]

@@ -1,0 +1,2762 @@
+[
+    {
+        "id": 20184,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/Properties\/class.CustomIconUploadHandlerGUI.php",
+        "line": 134,
+        "code": "$this->language->txt('custom_icon')",
+        "has_variable": false,
+        "variable": "custom_icon"
+    },
+    {
+        "id": 20186,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjClipboardTableGUI.php",
+        "line": 32,
+        "code": "$this->lng->txt(\"clipboard\")",
+        "has_variable": false,
+        "variable": "clipboard"
+    },
+    {
+        "id": 20188,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjClipboardTableGUI.php",
+        "line": 35,
+        "code": "$this->lng->txt(\"title\")",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 20190,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjClipboardTableGUI.php",
+        "line": 36,
+        "code": "$this->lng->txt(\"action\")",
+        "has_variable": false,
+        "variable": "action"
+    },
+    {
+        "id": 20192,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjObjectFolderGUI.php",
+        "line": 46,
+        "code": "$this->lng->txt(\"permission_denied\")",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 20194,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjTypeDefinitionGUI.php",
+        "line": 105,
+        "code": "$this->lng->txt(\"obj_\" . $this->object->getType())",
+        "has_variable": true,
+        "variable": "\"obj_\" . $this->object->getType()"
+    },
+    {
+        "id": 20196,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjTypeDefinitionGUI.php",
+        "line": 109,
+        "code": "$this->lng->txt($val)",
+        "has_variable": true,
+        "variable": "$val"
+    },
+    {
+        "id": 20198,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjTypeDefinitionGUI.php",
+        "line": 125,
+        "code": "$this->lng->txt(\"previous\")",
+        "has_variable": false,
+        "variable": "previous"
+    },
+    {
+        "id": 20200,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjTypeDefinitionGUI.php",
+        "line": 125,
+        "code": "$this->lng->txt(\"next\")",
+        "has_variable": false,
+        "variable": "next"
+    },
+    {
+        "id": 20202,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjTypeDefinitionGUI.php",
+        "line": 144,
+        "code": "$this->lng->txt($val)",
+        "has_variable": true,
+        "variable": "$val"
+    },
+    {
+        "id": 20204,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjTypeDefinitionGUI.php",
+        "line": 176,
+        "code": "$this->lng->txt(\"permission_denied\")",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 20206,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjTypeDefinitionGUI.php",
+        "line": 201,
+        "code": "$this->lng->txt(\"saved_successfully\")",
+        "has_variable": false,
+        "variable": "saved_successfully"
+    },
+    {
+        "id": 20208,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjTypeDefinitionGUI.php",
+        "line": 214,
+        "code": "$this->lng->txt(\"permission_denied\")",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 20210,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjTypeDefinitionGUI.php",
+        "line": 274,
+        "code": "$this->lng->txt(\"edit_operations\")",
+        "has_variable": false,
+        "variable": "edit_operations"
+    },
+    {
+        "id": 20212,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjTypeDefinitionGUI.php",
+        "line": 274,
+        "code": "$this->lng->txt(\"of\")",
+        "has_variable": false,
+        "variable": "of"
+    },
+    {
+        "id": 20214,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjTypeDefinitionGUI.php",
+        "line": 279,
+        "code": "$this->lng->txt($val)",
+        "has_variable": true,
+        "variable": "$val"
+    },
+    {
+        "id": 20216,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjTypeDefinitionGUI.php",
+        "line": 295,
+        "code": "$this->lng->txt(\"previous\")",
+        "has_variable": false,
+        "variable": "previous"
+    },
+    {
+        "id": 20218,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjTypeDefinitionGUI.php",
+        "line": 295,
+        "code": "$this->lng->txt(\"next\")",
+        "has_variable": false,
+        "variable": "next"
+    },
+    {
+        "id": 20220,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjTypeDefinitionGUI.php",
+        "line": 322,
+        "code": "$this->lng->txt(\"save\")",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 20222,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObject.php",
+        "line": 286,
+        "code": "$this->lng->txt(\"obj_{$this->type}\")",
+        "has_variable": true,
+        "variable": "obj_{$this->type}"
+    },
+    {
+        "id": 20224,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObject.php",
+        "line": 287,
+        "code": "$this->lng->txt(\"obj_{$this->type}_desc\")",
+        "has_variable": true,
+        "variable": "obj_{$this->type}_desc"
+    },
+    {
+        "id": 20226,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObject.php",
+        "line": 518,
+        "code": "$lng->txt(\"unknown\")",
+        "has_variable": false,
+        "variable": "unknown"
+    },
+    {
+        "id": 20228,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObject.php",
+        "line": 1562,
+        "code": "$lng->txt('obj_' . $new_type . '_select')",
+        "has_variable": true,
+        "variable": "'obj_' . $new_type . '_select'"
+    },
+    {
+        "id": 20230,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObject.php",
+        "line": 1577,
+        "code": "$lng->txt('path')",
+        "has_variable": false,
+        "variable": "path"
+    },
+    {
+        "id": 20232,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObject2GUI.php",
+        "line": 320,
+        "code": "$this->lng->txt(\"role\")",
+        "has_variable": false,
+        "variable": "role"
+    },
+    {
+        "id": 20234,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObject2GUI.php",
+        "line": 393,
+        "code": "$this->lng->txt(\"no_checkbox\")",
+        "has_variable": false,
+        "variable": "no_checkbox"
+    },
+    {
+        "id": 20236,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObject2GUI.php",
+        "line": 404,
+        "code": "$this->lng->txt(\"no_checkbox\")",
+        "has_variable": false,
+        "variable": "no_checkbox"
+    },
+    {
+        "id": 20238,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObject2GUI.php",
+        "line": 429,
+        "code": "$this->lng->txt(\"msg_removed\")",
+        "has_variable": false,
+        "variable": "msg_removed"
+    },
+    {
+        "id": 20240,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObject2GUI.php",
+        "line": 550,
+        "code": "$this->lng->txt(\"perm_settings\")",
+        "has_variable": false,
+        "variable": "perm_settings"
+    },
+    {
+        "id": 20242,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObject2GUI.php",
+        "line": 566,
+        "code": "$this->lng->txt(\"wsp_permissions\")",
+        "has_variable": false,
+        "variable": "wsp_permissions"
+    },
+    {
+        "id": 20244,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectActivation.php",
+        "line": 316,
+        "code": "$lng->txt($item['activation_info'])",
+        "has_variable": true,
+        "variable": "_"
+    },
+    {
+        "id": 20246,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectActivationGUI.php",
+        "line": 85,
+        "code": "$this->lng->txt('btn_back')",
+        "has_variable": false,
+        "variable": "btn_back"
+    },
+    {
+        "id": 20248,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectCopyCourseGroupSelectionTableGUI.php",
+        "line": 51,
+        "code": "$this->lng->txt('next')",
+        "has_variable": false,
+        "variable": "next"
+    },
+    {
+        "id": 20250,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectCopyGUI.php",
+        "line": 215,
+        "code": "$this->lng->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 20252,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectCopyGUI.php",
+        "line": 227,
+        "code": "$this->lng->txt('cntr_copy_repo_tree')",
+        "has_variable": false,
+        "variable": "cntr_copy_repo_tree"
+    },
+    {
+        "id": 20254,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectCopyGUI.php",
+        "line": 232,
+        "code": "$this->lng->txt('cntr_copy_crs_grp')",
+        "has_variable": false,
+        "variable": "cntr_copy_crs_grp"
+    },
+    {
+        "id": 20256,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectCopyGUI.php",
+        "line": 319,
+        "code": "$this->lng->txt('msg_copy_clipboard_source')",
+        "has_variable": false,
+        "variable": "msg_copy_clipboard_source"
+    },
+    {
+        "id": 20258,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectCopyGUI.php",
+        "line": 342,
+        "code": "$this->lng->txt('msg_copy_clipboard_container')",
+        "has_variable": false,
+        "variable": "msg_copy_clipboard_container"
+    },
+    {
+        "id": 20260,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectCopyGUI.php",
+        "line": 344,
+        "code": "$this->lng->txt('msg_copy_clipboard')",
+        "has_variable": false,
+        "variable": "msg_copy_clipboard"
+    },
+    {
+        "id": 20262,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectCopyGUI.php",
+        "line": 365,
+        "code": "$this->lng->txt('obj_insert_into_clipboard')",
+        "has_variable": false,
+        "variable": "obj_insert_into_clipboard"
+    },
+    {
+        "id": 20264,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectCopyGUI.php",
+        "line": 371,
+        "code": "$this->lng->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 20266,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectCopyGUI.php",
+        "line": 390,
+        "code": "$this->lng->txt('btn_next')",
+        "has_variable": false,
+        "variable": "btn_next"
+    },
+    {
+        "id": 20268,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectCopyGUI.php",
+        "line": 393,
+        "code": "$this->lng->txt('paste')",
+        "has_variable": false,
+        "variable": "paste"
+    },
+    {
+        "id": 20270,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectCopyGUI.php",
+        "line": 416,
+        "code": "$this->lng->txt('msg_copy_clipboard_source')",
+        "has_variable": false,
+        "variable": "msg_copy_clipboard_source"
+    },
+    {
+        "id": 20272,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectCopyGUI.php",
+        "line": 452,
+        "code": "$this->lng->txt('btn_next')",
+        "has_variable": false,
+        "variable": "btn_next"
+    },
+    {
+        "id": 20274,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectCopyGUI.php",
+        "line": 459,
+        "code": "$this->lng->txt('select_one')",
+        "has_variable": false,
+        "variable": "select_one"
+    },
+    {
+        "id": 20276,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectCopyGUI.php",
+        "line": 491,
+        "code": "$this->lng->txt('msg_obj_may_not_contain_objects_of_type')",
+        "has_variable": false,
+        "variable": "msg_obj_may_not_contain_objects_of_type"
+    },
+    {
+        "id": 20278,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectCopyGUI.php",
+        "line": 492,
+        "code": "$this->lng->txt('obj_' . $target_type)",
+        "has_variable": true,
+        "variable": "'obj_' . $target_type"
+    },
+    {
+        "id": 20280,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectCopyGUI.php",
+        "line": 493,
+        "code": "$this->lng->txt('obj_' . $source_type)",
+        "has_variable": true,
+        "variable": "'obj_' . $source_type"
+    },
+    {
+        "id": 20282,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectCopyGUI.php",
+        "line": 517,
+        "code": "$this->lng->txt(\"msg_not_in_itself\")",
+        "has_variable": false,
+        "variable": "msg_not_in_itself"
+    },
+    {
+        "id": 20284,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectCopyGUI.php",
+        "line": 628,
+        "code": "$this->lng->txt(\"obj_inserted_clipboard\")",
+        "has_variable": false,
+        "variable": "obj_inserted_clipboard"
+    },
+    {
+        "id": 20286,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectCopyGUI.php",
+        "line": 638,
+        "code": "$this->lng->txt('wizard_search_list')",
+        "has_variable": false,
+        "variable": "wizard_search_list"
+    },
+    {
+        "id": 20288,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectCopyGUI.php",
+        "line": 646,
+        "code": "$this->lng->txt('msg_no_search_string')",
+        "has_variable": false,
+        "variable": "msg_no_search_string"
+    },
+    {
+        "id": 20290,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectCopyGUI.php",
+        "line": 672,
+        "code": "$this->lng->txt('search_no_match')",
+        "has_variable": false,
+        "variable": "search_no_match"
+    },
+    {
+        "id": 20292,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectCopyGUI.php",
+        "line": 686,
+        "code": "$this->lng->txt('select_one')",
+        "has_variable": false,
+        "variable": "select_one"
+    },
+    {
+        "id": 20294,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectCopyGUI.php",
+        "line": 722,
+        "code": "$this->lng->txt('msg_obj_may_not_contain_objects_of_type')",
+        "has_variable": false,
+        "variable": "msg_obj_may_not_contain_objects_of_type"
+    },
+    {
+        "id": 20296,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectCopyGUI.php",
+        "line": 723,
+        "code": "$this->lng->txt('obj_' . $target_type)",
+        "has_variable": true,
+        "variable": "'obj_' . $target_type"
+    },
+    {
+        "id": 20298,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectCopyGUI.php",
+        "line": 724,
+        "code": "$this->lng->txt('obj_' . $source_type)",
+        "has_variable": true,
+        "variable": "'obj_' . $source_type"
+    },
+    {
+        "id": 20300,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectCopyGUI.php",
+        "line": 739,
+        "code": "$this->lng->txt('select_one')",
+        "has_variable": false,
+        "variable": "select_one"
+    },
+    {
+        "id": 20302,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectCopyGUI.php",
+        "line": 792,
+        "code": "$this->lng->txt('cntr_adopt_content')",
+        "has_variable": false,
+        "variable": "cntr_adopt_content"
+    },
+    {
+        "id": 20304,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectCopyGUI.php",
+        "line": 794,
+        "code": "$this->lng->txt('copy_container_page_yes_label')",
+        "has_variable": false,
+        "variable": "copy_container_page_yes_label"
+    },
+    {
+        "id": 20306,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectCopyGUI.php",
+        "line": 794,
+        "code": "$this->lng->txt('copy_container_page_yes_byline')",
+        "has_variable": false,
+        "variable": "copy_container_page_yes_byline"
+    },
+    {
+        "id": 20308,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectCopyGUI.php",
+        "line": 795,
+        "code": "$this->lng->txt('copy_container_page_no_label')",
+        "has_variable": false,
+        "variable": "copy_container_page_no_label"
+    },
+    {
+        "id": 20310,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectCopyGUI.php",
+        "line": 802,
+        "code": "$this->lng->txt('next')",
+        "has_variable": false,
+        "variable": "next"
+    },
+    {
+        "id": 20312,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectCopyGUI.php",
+        "line": 808,
+        "code": "$this->lng->txt('select_one')",
+        "has_variable": false,
+        "variable": "select_one"
+    },
+    {
+        "id": 20314,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectCopyGUI.php",
+        "line": 816,
+        "code": "$this->lng->txt($this->getType() . '_copy_threads_info')",
+        "has_variable": true,
+        "variable": "$this->getType() . '_copy_threads_info'"
+    },
+    {
+        "id": 20316,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectCopyGUI.php",
+        "line": 833,
+        "code": "$this->lng->txt('select_one')",
+        "has_variable": false,
+        "variable": "select_one"
+    },
+    {
+        "id": 20318,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectCopyGUI.php",
+        "line": 862,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 20320,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectCopyGUI.php",
+        "line": 870,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 20322,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectCopyGUI.php",
+        "line": 876,
+        "code": "$this->lng->txt('cntr_container_only_on_their_own')",
+        "has_variable": false,
+        "variable": "cntr_container_only_on_their_own"
+    },
+    {
+        "id": 20324,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectCopyGUI.php",
+        "line": 923,
+        "code": "$this->lng->txt(\"object_duplicated\")",
+        "has_variable": false,
+        "variable": "object_duplicated"
+    },
+    {
+        "id": 20326,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectCopyGUI.php",
+        "line": 926,
+        "code": "$this->lng->txt(\"objects_duplicated\")",
+        "has_variable": false,
+        "variable": "objects_duplicated"
+    },
+    {
+        "id": 20328,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectCopyGUI.php",
+        "line": 930,
+        "code": "$this->lng->txt(\"objects_duplicated\")",
+        "has_variable": false,
+        "variable": "objects_duplicated"
+    },
+    {
+        "id": 20330,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectCopyGUI.php",
+        "line": 953,
+        "code": "$this->lng->txt(\"object_duplicated\")",
+        "has_variable": false,
+        "variable": "object_duplicated"
+    },
+    {
+        "id": 20332,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectCopyGUI.php",
+        "line": 1010,
+        "code": "$this->lng->txt('tab_back_to_repository')",
+        "has_variable": false,
+        "variable": "tab_back_to_repository"
+    },
+    {
+        "id": 20334,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectCopyGUI.php",
+        "line": 1040,
+        "code": "$this->lng->txt('obj_copy_progress_success')",
+        "has_variable": false,
+        "variable": "obj_copy_progress_success"
+    },
+    {
+        "id": 20336,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectCopyGUI.php",
+        "line": 1075,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 20338,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectCopyGUI.php",
+        "line": 1081,
+        "code": "$this->lng->txt('select_one')",
+        "has_variable": false,
+        "variable": "select_one"
+    },
+    {
+        "id": 20340,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectCopyGUI.php",
+        "line": 1150,
+        "code": "$this->lng->txt($this->getType() . '_copy')",
+        "has_variable": true,
+        "variable": "$this->getType() . '_copy'"
+    },
+    {
+        "id": 20342,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectCopyGUI.php",
+        "line": 1151,
+        "code": "$this->lng->txt('search_for')",
+        "has_variable": false,
+        "variable": "search_for"
+    },
+    {
+        "id": 20344,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectCopyGUI.php",
+        "line": 1152,
+        "code": "$this->lng->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 20346,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectCopyGUI.php",
+        "line": 1154,
+        "code": "$this->lng->txt('title')",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 20348,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectCopyGUI.php",
+        "line": 1158,
+        "code": "$this->lng->txt('wizard_title_info')",
+        "has_variable": false,
+        "variable": "wizard_title_info"
+    },
+    {
+        "id": 20350,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectCopyProgressTableGUI.php",
+        "line": 70,
+        "code": "$this->lng->txt('obj_target_location')",
+        "has_variable": false,
+        "variable": "obj_target_location"
+    },
+    {
+        "id": 20352,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectCopyProgressTableGUI.php",
+        "line": 71,
+        "code": "$this->lng->txt('obj_copy_progress')",
+        "has_variable": false,
+        "variable": "obj_copy_progress"
+    },
+    {
+        "id": 20354,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectCopyProgressTableGUI.php",
+        "line": 84,
+        "code": "$this->lng->txt('obj_' . $set['type'])",
+        "has_variable": true,
+        "variable": "'obj_' . $set['type']"
+    },
+    {
+        "id": 20356,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectCopyProgressTableGUI.php",
+        "line": 100,
+        "code": "$this->lng->txt('obj_copy_progress_to')",
+        "has_variable": false,
+        "variable": "obj_copy_progress_to"
+    },
+    {
+        "id": 20358,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectCopyProgressTableGUI.php",
+        "line": 110,
+        "code": "$this->lng->txt('obj_copy_progress_estimate')",
+        "has_variable": false,
+        "variable": "obj_copy_progress_estimate"
+    },
+    {
+        "id": 20360,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectCopySearchResultTableGUI.php",
+        "line": 47,
+        "code": "$this->lng->txt('obj_' . $this->type . '_duplicate')",
+        "has_variable": true,
+        "variable": "'obj_' . $this->type . '_duplicate'"
+    },
+    {
+        "id": 20362,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectCopySearchResultTableGUI.php",
+        "line": 50,
+        "code": "$plugin->txt('obj_' . $this->type . '_duplicate')",
+        "has_variable": true,
+        "variable": "'obj_' . $this->type . '_duplicate'"
+    },
+    {
+        "id": 20364,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectCopySearchResultTableGUI.php",
+        "line": 56,
+        "code": "$this->lng->txt('search_title_description')",
+        "has_variable": false,
+        "variable": "search_title_description"
+    },
+    {
+        "id": 20366,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectCopySearchResultTableGUI.php",
+        "line": 66,
+        "code": "$this->lng->txt('btn_next')",
+        "has_variable": false,
+        "variable": "btn_next"
+    },
+    {
+        "id": 20368,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectCopySearchResultTableGUI.php",
+        "line": 71,
+        "code": "$this->lng->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 20370,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectCopySearchResultTableGUI.php",
+        "line": 105,
+        "code": "$this->lng->txt('pathes')",
+        "has_variable": false,
+        "variable": "pathes"
+    },
+    {
+        "id": 20372,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectCopySelectionTableGUI.php",
+        "line": 47,
+        "code": "$this->lng->txt($this->type . '_wizard_page')",
+        "has_variable": true,
+        "variable": "$this->type . '_wizard_page'"
+    },
+    {
+        "id": 20374,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectCopySelectionTableGUI.php",
+        "line": 49,
+        "code": "$this->lng->txt('title')",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 20376,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectCopySelectionTableGUI.php",
+        "line": 50,
+        "code": "$this->lng->txt('copy')",
+        "has_variable": false,
+        "variable": "copy"
+    },
+    {
+        "id": 20378,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectCopySelectionTableGUI.php",
+        "line": 51,
+        "code": "$this->lng->txt('link')",
+        "has_variable": false,
+        "variable": "link"
+    },
+    {
+        "id": 20380,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectCopySelectionTableGUI.php",
+        "line": 52,
+        "code": "$this->lng->txt('omit')",
+        "has_variable": false,
+        "variable": "omit"
+    },
+    {
+        "id": 20382,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectCopySelectionTableGUI.php",
+        "line": 64,
+        "code": "$this->lng->txt('obj_' . $this->type . '_duplicate')",
+        "has_variable": true,
+        "variable": "'obj_' . $this->type . '_duplicate'"
+    },
+    {
+        "id": 20384,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectCopySelectionTableGUI.php",
+        "line": 66,
+        "code": "$this->lng->txt('cntr_adopt_content')",
+        "has_variable": false,
+        "variable": "cntr_adopt_content"
+    },
+    {
+        "id": 20386,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectCopySelectionTableGUI.php",
+        "line": 117,
+        "code": "$this->lng->txt('copy_all')",
+        "has_variable": false,
+        "variable": "copy_all"
+    },
+    {
+        "id": 20388,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectCopySelectionTableGUI.php",
+        "line": 120,
+        "code": "$this->lng->txt('link_all')",
+        "has_variable": false,
+        "variable": "link_all"
+    },
+    {
+        "id": 20390,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectCopySelectionTableGUI.php",
+        "line": 123,
+        "code": "$this->lng->txt('omit_all')",
+        "has_variable": false,
+        "variable": "omit_all"
+    },
+    {
+        "id": 20392,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectCopySelectionTableGUI.php",
+        "line": 133,
+        "code": "$this->lng->txt('obj_' . $set['type'])",
+        "has_variable": true,
+        "variable": "'obj_' . $set['type']"
+    },
+    {
+        "id": 20394,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectCopySelectionTableGUI.php",
+        "line": 143,
+        "code": "$this->lng->txt('copy')",
+        "has_variable": false,
+        "variable": "copy"
+    },
+    {
+        "id": 20396,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectCopySelectionTableGUI.php",
+        "line": 151,
+        "code": "$this->lng->txt('missing_perm')",
+        "has_variable": false,
+        "variable": "missing_perm"
+    },
+    {
+        "id": 20398,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectCopySelectionTableGUI.php",
+        "line": 158,
+        "code": "$this->lng->txt('link')",
+        "has_variable": false,
+        "variable": "link"
+    },
+    {
+        "id": 20400,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectCopySelectionTableGUI.php",
+        "line": 168,
+        "code": "$this->lng->txt('missing_perm')",
+        "has_variable": false,
+        "variable": "missing_perm"
+    },
+    {
+        "id": 20402,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectCopySelectionTableGUI.php",
+        "line": 174,
+        "code": "$this->lng->txt('omit')",
+        "has_variable": false,
+        "variable": "omit"
+    },
+    {
+        "id": 20404,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectGUI.php",
+        "line": 384,
+        "code": "$this->lng->txt(\"obj_\" . $this->object->getType())",
+        "has_variable": true,
+        "variable": "\"obj_\" . $this->object->getType()"
+    },
+    {
+        "id": 20406,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectGUI.php",
+        "line": 587,
+        "code": "$this->lng->txt(\"administration\")",
+        "has_variable": false,
+        "variable": "administration"
+    },
+    {
+        "id": 20408,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectGUI.php",
+        "line": 619,
+        "code": "$this->lng->txt('no_checkbox')",
+        "has_variable": false,
+        "variable": "no_checkbox"
+    },
+    {
+        "id": 20410,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectGUI.php",
+        "line": 634,
+        "code": "$this->lng->txt('no_checkbox')",
+        "has_variable": false,
+        "variable": "no_checkbox"
+    },
+    {
+        "id": 20412,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectGUI.php",
+        "line": 689,
+        "code": "$this->lng->txt(\"permission_denied\")",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 20414,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectGUI.php",
+        "line": 698,
+        "code": "$this->lng->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 20416,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectGUI.php",
+        "line": 729,
+        "code": "$this->lng->txt(\"obj_{$this->requested_new_type}\")",
+        "has_variable": true,
+        "variable": "obj_{$this->requested_new_type}"
+    },
+    {
+        "id": 20418,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectGUI.php",
+        "line": 740,
+        "code": "$this->lng->txt(\"{$this->requested_new_type}_new\")",
+        "has_variable": true,
+        "variable": "{$this->requested_new_type}_new"
+    },
+    {
+        "id": 20420,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectGUI.php",
+        "line": 767,
+        "code": "$this->lng->txt($new_type . '_add')",
+        "has_variable": true,
+        "variable": "$new_type . '_add'"
+    },
+    {
+        "id": 20422,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectGUI.php",
+        "line": 785,
+        "code": "$this->lng->txt('type')",
+        "has_variable": false,
+        "variable": "type"
+    },
+    {
+        "id": 20424,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectGUI.php",
+        "line": 806,
+        "code": "$this->lng->txt('not_available')",
+        "has_variable": false,
+        "variable": "not_available"
+    },
+    {
+        "id": 20426,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectGUI.php",
+        "line": 833,
+        "code": "$this->lng->txt('type')",
+        "has_variable": false,
+        "variable": "type"
+    },
+    {
+        "id": 20428,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectGUI.php",
+        "line": 844,
+        "code": "$this->lng->txt('not_available')",
+        "has_variable": false,
+        "variable": "not_available"
+    },
+    {
+        "id": 20430,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectGUI.php",
+        "line": 876,
+        "code": "$this->lng->txt('didactic_default_type')",
+        "has_variable": false,
+        "variable": "didactic_default_type"
+    },
+    {
+        "id": 20432,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectGUI.php",
+        "line": 878,
+        "code": "$this->lng->txt('didactic_default_type_info')",
+        "has_variable": false,
+        "variable": "didactic_default_type_info"
+    },
+    {
+        "id": 20434,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectGUI.php",
+        "line": 879,
+        "code": "$this->lng->txt('objs_' . $this->type)",
+        "has_variable": true,
+        "variable": "'objs_' . $this->type"
+    },
+    {
+        "id": 20436,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectGUI.php",
+        "line": 914,
+        "code": "$this->lng->txt('cntr_adopt_content')",
+        "has_variable": false,
+        "variable": "cntr_adopt_content"
+    },
+    {
+        "id": 20438,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectGUI.php",
+        "line": 928,
+        "code": "$this->lng->txt('import')",
+        "has_variable": false,
+        "variable": "import"
+    },
+    {
+        "id": 20440,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectGUI.php",
+        "line": 947,
+        "code": "$this->lng->txt('import')",
+        "has_variable": false,
+        "variable": "import"
+    },
+    {
+        "id": 20442,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectGUI.php",
+        "line": 951,
+        "code": "$this->lng->txt('import')",
+        "has_variable": false,
+        "variable": "import"
+    },
+    {
+        "id": 20444,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectGUI.php",
+        "line": 960,
+        "code": "$this->lng->txt('select_object_type')",
+        "has_variable": false,
+        "variable": "select_object_type"
+    },
+    {
+        "id": 20446,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectGUI.php",
+        "line": 963,
+        "code": "$this->lng->txt('select_import_type_info')",
+        "has_variable": false,
+        "variable": "select_import_type_info"
+    },
+    {
+        "id": 20448,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectGUI.php",
+        "line": 972,
+        "code": "$this->lng->txt('import')",
+        "has_variable": false,
+        "variable": "import"
+    },
+    {
+        "id": 20450,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectGUI.php",
+        "line": 990,
+        "code": "$this->lng->txt('msg_no_perm_write')",
+        "has_variable": false,
+        "variable": "msg_no_perm_write"
+    },
+    {
+        "id": 20452,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectGUI.php",
+        "line": 1019,
+        "code": "$this->lng->txt('availability_period_changed')",
+        "has_variable": false,
+        "variable": "availability_period_changed"
+    },
+    {
+        "id": 20454,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectGUI.php",
+        "line": 1021,
+        "code": "$this->lng->txt('msg_no_perm_write')",
+        "has_variable": false,
+        "variable": "msg_no_perm_write"
+    },
+    {
+        "id": 20456,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectGUI.php",
+        "line": 1047,
+        "code": "$this->lng->txt(\"no_create_permission\")",
+        "has_variable": false,
+        "variable": "no_create_permission"
+    },
+    {
+        "id": 20458,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectGUI.php",
+        "line": 1161,
+        "code": "$this->lng->txt(\"object_added\")",
+        "has_variable": false,
+        "variable": "object_added"
+    },
+    {
+        "id": 20460,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectGUI.php",
+        "line": 1168,
+        "code": "$this->lng->txt(\"msg_no_perm_write\")",
+        "has_variable": false,
+        "variable": "msg_no_perm_write"
+    },
+    {
+        "id": 20462,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectGUI.php",
+        "line": 1197,
+        "code": "$this->lng->txt($this->object->getType() . \"_edit\")",
+        "has_variable": true,
+        "variable": "$this->object->getType() . \"_edit\""
+    },
+    {
+        "id": 20464,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectGUI.php",
+        "line": 1199,
+        "code": "$this->lng->txt(\"title\")",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 20466,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectGUI.php",
+        "line": 1205,
+        "code": "$this->lng->txt(\"description\")",
+        "has_variable": false,
+        "variable": "description"
+    },
+    {
+        "id": 20468,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectGUI.php",
+        "line": 1213,
+        "code": "$this->lng->txt(\"save\")",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 20470,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectGUI.php",
+        "line": 1246,
+        "code": "$this->lng->txt(\"permission_denied\")",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 20472,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectGUI.php",
+        "line": 1286,
+        "code": "$this->lng->txt(\"msg_obj_modified\")",
+        "has_variable": false,
+        "variable": "msg_obj_modified"
+    },
+    {
+        "id": 20474,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectGUI.php",
+        "line": 1319,
+        "code": "$this->lng->txt('import_file')",
+        "has_variable": false,
+        "variable": "import_file"
+    },
+    {
+        "id": 20476,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectGUI.php",
+        "line": 1331,
+        "code": "$this->lng->txt('cont_choose_local')",
+        "has_variable": false,
+        "variable": "cont_choose_local"
+    },
+    {
+        "id": 20478,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectGUI.php",
+        "line": 1334,
+        "code": "$this->lng->txt('cont_uploaded_file')",
+        "has_variable": false,
+        "variable": "cont_uploaded_file"
+    },
+    {
+        "id": 20480,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectGUI.php",
+        "line": 1335,
+        "code": "$this->lng->txt('cont_choose_upload_dir')",
+        "has_variable": false,
+        "variable": "cont_choose_upload_dir"
+    },
+    {
+        "id": 20482,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectGUI.php",
+        "line": 1338,
+        "code": "$this->lng->txt('cont_choose_file_source')",
+        "has_variable": false,
+        "variable": "cont_choose_file_source"
+    },
+    {
+        "id": 20484,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectGUI.php",
+        "line": 1362,
+        "code": "$this->lng->txt('select_object_type')",
+        "has_variable": false,
+        "variable": "select_object_type"
+    },
+    {
+        "id": 20486,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectGUI.php",
+        "line": 1399,
+        "code": "$this->lng->txt('no_create_permission')",
+        "has_variable": false,
+        "variable": "no_create_permission"
+    },
+    {
+        "id": 20488,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectGUI.php",
+        "line": 1439,
+        "code": "$this->lng->txt('obj_import_file_error')",
+        "has_variable": false,
+        "variable": "obj_import_file_error"
+    },
+    {
+        "id": 20490,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectGUI.php",
+        "line": 1447,
+        "code": "$this->lng->txt('import_file_not_valid_here')",
+        "has_variable": false,
+        "variable": "import_file_not_valid_here"
+    },
+    {
+        "id": 20492,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectGUI.php",
+        "line": 1580,
+        "code": "$this->lng->txt(\"object_added\")",
+        "has_variable": false,
+        "variable": "object_added"
+    },
+    {
+        "id": 20494,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectGUI.php",
+        "line": 1720,
+        "code": "$this->lng->txt('no_checkbox')",
+        "has_variable": false,
+        "variable": "no_checkbox"
+    },
+    {
+        "id": 20496,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectGUI.php",
+        "line": 1738,
+        "code": "$this->lng->txt('info_delete_sure')",
+        "has_variable": false,
+        "variable": "info_delete_sure"
+    },
+    {
+        "id": 20498,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectGUI.php",
+        "line": 1740,
+        "code": "$this->lng->txt('info_delete_warning_no_trash')",
+        "has_variable": false,
+        "variable": "info_delete_warning_no_trash"
+    },
+    {
+        "id": 20500,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectGUI.php",
+        "line": 1750,
+        "code": "$this->lng->txt('multiple_reference_deletion_info')",
+        "has_variable": false,
+        "variable": "multiple_reference_deletion_info"
+    },
+    {
+        "id": 20502,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectGUI.php",
+        "line": 1751,
+        "code": "$this->lng->txt('rep_multiple_reference_deletion_instruction')",
+        "has_variable": false,
+        "variable": "rep_multiple_reference_deletion_instruction"
+    },
+    {
+        "id": 20504,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectGUI.php",
+        "line": 1760,
+        "code": "$this->lng->txt('confirm')",
+        "has_variable": false,
+        "variable": "confirm"
+    },
+    {
+        "id": 20506,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectGUI.php",
+        "line": 1764,
+        "code": "$this->lng->txt('delete')",
+        "has_variable": false,
+        "variable": "delete"
+    },
+    {
+        "id": 20508,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectGUI.php",
+        "line": 1851,
+        "code": "$this->lng->txt(\"add\")",
+        "has_variable": false,
+        "variable": "add"
+    },
+    {
+        "id": 20510,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectGUI.php",
+        "line": 1966,
+        "code": "$this->lng->txt('msg_no_perm_read')",
+        "has_variable": false,
+        "variable": "msg_no_perm_read"
+    },
+    {
+        "id": 20512,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectGUI.php",
+        "line": 1975,
+        "code": "$this->lng->txt('msg_no_perm_read')",
+        "has_variable": false,
+        "variable": "msg_no_perm_read"
+    },
+    {
+        "id": 20514,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectGUI.php",
+        "line": 2021,
+        "code": "$lng->txt(\"msg_no_perm_read\")",
+        "has_variable": false,
+        "variable": "msg_no_perm_read"
+    },
+    {
+        "id": 20516,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectGUI.php",
+        "line": 2058,
+        "code": "$this->lng->txt(\"added_to_favourites\")",
+        "has_variable": false,
+        "variable": "added_to_favourites"
+    },
+    {
+        "id": 20518,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectGUI.php",
+        "line": 2067,
+        "code": "$this->lng->txt(\"removed_from_favourites\")",
+        "has_variable": false,
+        "variable": "removed_from_favourites"
+    },
+    {
+        "id": 20520,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectGUI.php",
+        "line": 2130,
+        "code": "$this->lng->txt('rep_new_item_group_other')",
+        "has_variable": false,
+        "variable": "rep_new_item_group_other"
+    },
+    {
+        "id": 20522,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectGUI.php",
+        "line": 2185,
+        "code": "$this->lng->txt('rep_new_item_group_other')",
+        "has_variable": false,
+        "variable": "rep_new_item_group_other"
+    },
+    {
+        "id": 20524,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectGUI.php",
+        "line": 2260,
+        "code": "$this->lng->txt('obj_' . $item_array['lng'])",
+        "has_variable": true,
+        "variable": "'obj_' . $item_array['lng']"
+    },
+    {
+        "id": 20526,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectListGUI.php",
+        "line": 877,
+        "code": "$this->lng->txt('status')",
+        "has_variable": false,
+        "variable": "status"
+    },
+    {
+        "id": 20528,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectListGUI.php",
+        "line": 878,
+        "code": "$this->lng->txt('offline')",
+        "has_variable": false,
+        "variable": "offline"
+    },
+    {
+        "id": 20530,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectListGUI.php",
+        "line": 1224,
+        "code": "$this->lng->txt('learning_progress')",
+        "has_variable": false,
+        "variable": "learning_progress"
+    },
+    {
+        "id": 20532,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectListGUI.php",
+        "line": 1236,
+        "code": "$this->lng->txt('no_access_item_public')",
+        "has_variable": false,
+        "variable": "no_access_item_public"
+    },
+    {
+        "id": 20534,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectListGUI.php",
+        "line": 1274,
+        "code": "$this->lng->txt('notes_comments')",
+        "has_variable": false,
+        "variable": "notes_comments"
+    },
+    {
+        "id": 20536,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectListGUI.php",
+        "line": 1288,
+        "code": "$this->lng->txt('notes')",
+        "has_variable": false,
+        "variable": "notes"
+    },
+    {
+        "id": 20538,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectListGUI.php",
+        "line": 1321,
+        "code": "$this->lng->txt('tagging_tags')",
+        "has_variable": false,
+        "variable": "tagging_tags"
+    },
+    {
+        "id": 20540,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectListGUI.php",
+        "line": 1464,
+        "code": "$this->lng->txt('precondition_required_itemlist')",
+        "has_variable": false,
+        "variable": "precondition_required_itemlist"
+    },
+    {
+        "id": 20542,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectListGUI.php",
+        "line": 1476,
+        "code": "$this->lng->txt('precondition_not_accessible')",
+        "has_variable": false,
+        "variable": "precondition_not_accessible"
+    },
+    {
+        "id": 20544,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectListGUI.php",
+        "line": 1486,
+        "code": "$this->lng->txt('preconditions_obligatory_hint')",
+        "has_variable": false,
+        "variable": "preconditions_obligatory_hint"
+    },
+    {
+        "id": 20546,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectListGUI.php",
+        "line": 1494,
+        "code": "$this->lng->txt('preconditions_optional_hint')",
+        "has_variable": false,
+        "variable": "preconditions_optional_hint"
+    },
+    {
+        "id": 20548,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectListGUI.php",
+        "line": 1542,
+        "code": "$this->lng->txt('precondition_toggle')",
+        "has_variable": false,
+        "variable": "precondition_toggle"
+    },
+    {
+        "id": 20550,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectListGUI.php",
+        "line": 1543,
+        "code": "$this->lng->txt('show')",
+        "has_variable": false,
+        "variable": "show"
+    },
+    {
+        "id": 20552,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectListGUI.php",
+        "line": 1545,
+        "code": "$this->lng->txt('show')",
+        "has_variable": false,
+        "variable": "show"
+    },
+    {
+        "id": 20554,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectListGUI.php",
+        "line": 1546,
+        "code": "$this->lng->txt('hide')",
+        "has_variable": false,
+        "variable": "hide"
+    },
+    {
+        "id": 20556,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectListGUI.php",
+        "line": 1609,
+        "code": "$this->lng->txt('delete')",
+        "has_variable": false,
+        "variable": "delete"
+    },
+    {
+        "id": 20558,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectListGUI.php",
+        "line": 1623,
+        "code": "$this->lng->txt('delete')",
+        "has_variable": false,
+        "variable": "delete"
+    },
+    {
+        "id": 20560,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectListGUI.php",
+        "line": 1648,
+        "code": "$this->lng->txt('link')",
+        "has_variable": false,
+        "variable": "link"
+    },
+    {
+        "id": 20562,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectListGUI.php",
+        "line": 1663,
+        "code": "$this->lng->txt('link')",
+        "has_variable": false,
+        "variable": "link"
+    },
+    {
+        "id": 20564,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectListGUI.php",
+        "line": 1679,
+        "code": "$this->lng->txt('move')",
+        "has_variable": false,
+        "variable": "move"
+    },
+    {
+        "id": 20566,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectListGUI.php",
+        "line": 1698,
+        "code": "$this->lng->txt('move')",
+        "has_variable": false,
+        "variable": "move"
+    },
+    {
+        "id": 20568,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectListGUI.php",
+        "line": 1701,
+        "code": "$this->lng->txt('wsp_move_to_repository')",
+        "has_variable": false,
+        "variable": "wsp_move_to_repository"
+    },
+    {
+        "id": 20570,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectListGUI.php",
+        "line": 1719,
+        "code": "$this->lng->txt('copy')",
+        "has_variable": false,
+        "variable": "copy"
+    },
+    {
+        "id": 20572,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectListGUI.php",
+        "line": 1730,
+        "code": "$this->lng->txt('copy')",
+        "has_variable": false,
+        "variable": "copy"
+    },
+    {
+        "id": 20574,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectListGUI.php",
+        "line": 1733,
+        "code": "$this->lng->txt('wsp_copy_to_repository')",
+        "has_variable": false,
+        "variable": "wsp_copy_to_repository"
+    },
+    {
+        "id": 20576,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectListGUI.php",
+        "line": 1757,
+        "code": "$this->lng->txt('paste')",
+        "has_variable": false,
+        "variable": "paste"
+    },
+    {
+        "id": 20578,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectListGUI.php",
+        "line": 1795,
+        "code": "$this->lng->txt('add_to_favourites')",
+        "has_variable": false,
+        "variable": "add_to_favourites"
+    },
+    {
+        "id": 20580,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectListGUI.php",
+        "line": 1799,
+        "code": "$this->lng->txt('remove_from_favourites')",
+        "has_variable": false,
+        "variable": "remove_from_favourites"
+    },
+    {
+        "id": 20582,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectListGUI.php",
+        "line": 1813,
+        "code": "$this->lng->txt('info_short')",
+        "has_variable": false,
+        "variable": "info_short"
+    },
+    {
+        "id": 20584,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectListGUI.php",
+        "line": 1846,
+        "code": "$this->lng->txt('notes_comments')",
+        "has_variable": false,
+        "variable": "notes_comments"
+    },
+    {
+        "id": 20586,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectListGUI.php",
+        "line": 1857,
+        "code": "$this->lng->txt('notes')",
+        "has_variable": false,
+        "variable": "notes"
+    },
+    {
+        "id": 20588,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectListGUI.php",
+        "line": 1868,
+        "code": "$this->lng->txt('tagging_set_tag')",
+        "has_variable": false,
+        "variable": "tagging_set_tag"
+    },
+    {
+        "id": 20590,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectListGUI.php",
+        "line": 1919,
+        "code": "$this->lng->txt('edit_availability_period')",
+        "has_variable": false,
+        "variable": "edit_availability_period"
+    },
+    {
+        "id": 20592,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectListGUI.php",
+        "line": 1946,
+        "code": "$this->lng->txt('preconditions')",
+        "has_variable": false,
+        "variable": "preconditions"
+    },
+    {
+        "id": 20594,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectListGUI.php",
+        "line": 1995,
+        "code": "$this->lng->txt($command['lang_var'])",
+        "has_variable": true,
+        "variable": "_"
+    },
+    {
+        "id": 20596,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectListGUI.php",
+        "line": 2019,
+        "code": "$this->lng->txt($command['lang_var'])",
+        "has_variable": true,
+        "variable": "_"
+    },
+    {
+        "id": 20598,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectListGUI.php",
+        "line": 2200,
+        "code": "$this->lng->txt('download_multiple_objects')",
+        "has_variable": false,
+        "variable": "download_multiple_objects"
+    },
+    {
+        "id": 20600,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectListGUI.php",
+        "line": 2475,
+        "code": "$this->lng->txt('actions')",
+        "has_variable": false,
+        "variable": "actions"
+    },
+    {
+        "id": 20602,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectListGUI.php",
+        "line": 2590,
+        "code": "$this->lng->txt('locator')",
+        "has_variable": false,
+        "variable": "locator"
+    },
+    {
+        "id": 20604,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectListGUI.php",
+        "line": 2605,
+        "code": "$this->lng->txt('select')",
+        "has_variable": false,
+        "variable": "select"
+    },
+    {
+        "id": 20606,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectListGUI.php",
+        "line": 2610,
+        "code": "$this->lng->txt('download')",
+        "has_variable": false,
+        "variable": "download"
+    },
+    {
+        "id": 20608,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectListGUI.php",
+        "line": 2627,
+        "code": "$this->lng->txt('collapse')",
+        "has_variable": false,
+        "variable": "collapse"
+    },
+    {
+        "id": 20610,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectListGUI.php",
+        "line": 2634,
+        "code": "$this->lng->txt('expand')",
+        "has_variable": false,
+        "variable": "expand"
+    },
+    {
+        "id": 20612,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectListGUI.php",
+        "line": 2907,
+        "code": "$this->lng->txt('actions_for')",
+        "has_variable": false,
+        "variable": "actions_for"
+    },
+    {
+        "id": 20614,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectListGUI.php",
+        "line": 3085,
+        "code": "$this->lng->txt('learning_progress')",
+        "has_variable": false,
+        "variable": "learning_progress"
+    },
+    {
+        "id": 20616,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectListGUI.php",
+        "line": 3228,
+        "code": "$this->lng->txt('learning_progress')",
+        "has_variable": false,
+        "variable": "learning_progress"
+    },
+    {
+        "id": 20618,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectListGUI.php",
+        "line": 3282,
+        "code": "$this->lng->txt('learning_progress')",
+        "has_variable": false,
+        "variable": "learning_progress"
+    },
+    {
+        "id": 20620,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectListGUI.php",
+        "line": 3371,
+        "code": "$this->lng->txt('listaction_learning_progress_settings')",
+        "has_variable": false,
+        "variable": "listaction_learning_progress_settings"
+    },
+    {
+        "id": 20622,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectListGUI.php",
+        "line": 3382,
+        "code": "$this->lng->txt('obj_' . $this->getIconImageType())",
+        "has_variable": true,
+        "variable": "'obj_' . $this->getIconImageType()"
+    },
+    {
+        "id": 20624,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectMetaDataGUI.php",
+        "line": 407,
+        "code": "$this->lng->txt(\"meta_tab_lom\")",
+        "has_variable": false,
+        "variable": "meta_tab_lom"
+    },
+    {
+        "id": 20626,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectMetaDataGUI.php",
+        "line": 415,
+        "code": "$this->lng->txt(\"meta_tab_advmd\")",
+        "has_variable": false,
+        "variable": "meta_tab_advmd"
+    },
+    {
+        "id": 20628,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectMetaDataGUI.php",
+        "line": 422,
+        "code": "$this->lng->txt(\"meta_tab_advmd_def\")",
+        "has_variable": false,
+        "variable": "meta_tab_advmd_def"
+    },
+    {
+        "id": 20630,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectMetaDataGUI.php",
+        "line": 428,
+        "code": "$this->lng->txt(\"md_adv_file_list\")",
+        "has_variable": false,
+        "variable": "md_adv_file_list"
+    },
+    {
+        "id": 20632,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectMetaDataGUI.php",
+        "line": 441,
+        "code": "$this->lng->txt(\"cntr_taxonomy_definitions\")",
+        "has_variable": false,
+        "variable": "cntr_taxonomy_definitions"
+    },
+    {
+        "id": 20634,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectMetaDataGUI.php",
+        "line": 449,
+        "code": "$this->lng->txt(\"tax_tax_settings\")",
+        "has_variable": false,
+        "variable": "tax_tax_settings"
+    },
+    {
+        "id": 20636,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectMetaDataGUI.php",
+        "line": 461,
+        "code": "$this->lng->txt(\"meta_tab_advmd\")",
+        "has_variable": false,
+        "variable": "meta_tab_advmd"
+    },
+    {
+        "id": 20638,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectMetaDataGUI.php",
+        "line": 479,
+        "code": "$this->lng->txt(\"save\")",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 20640,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectMetaDataGUI.php",
+        "line": 505,
+        "code": "$this->lng->txt(\"settings_saved\")",
+        "has_variable": false,
+        "variable": "settings_saved"
+    },
+    {
+        "id": 20642,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectMetaDataGUI.php",
+        "line": 550,
+        "code": "$this->lng->txt($caption)",
+        "has_variable": true,
+        "variable": "$caption"
+    },
+    {
+        "id": 20644,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectMetaDataGUI.php",
+        "line": 615,
+        "code": "$this->lng->txt(\"tax_tax_settings\")",
+        "has_variable": false,
+        "variable": "tax_tax_settings"
+    },
+    {
+        "id": 20646,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectMetaDataGUI.php",
+        "line": 618,
+        "code": "$this->lng->txt(\"save\")",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 20648,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectMetaDataGUI.php",
+        "line": 629,
+        "code": "$this->lng->txt(\"msg_obj_modified\")",
+        "has_variable": false,
+        "variable": "msg_obj_modified"
+    },
+    {
+        "id": 20650,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectServiceSettingsGUI.php",
+        "line": 107,
+        "code": "$lng->txt('obj_tool_setting_info_tab')",
+        "has_variable": false,
+        "variable": "obj_tool_setting_info_tab"
+    },
+    {
+        "id": 20652,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectServiceSettingsGUI.php",
+        "line": 114,
+        "code": "$lng->txt('obj_tool_setting_info_tab')",
+        "has_variable": false,
+        "variable": "obj_tool_setting_info_tab"
+    },
+    {
+        "id": 20654,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectServiceSettingsGUI.php",
+        "line": 115,
+        "code": "$lng->txt('obj_tool_setting_info_tab_info')",
+        "has_variable": false,
+        "variable": "obj_tool_setting_info_tab_info"
+    },
+    {
+        "id": 20656,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectServiceSettingsGUI.php",
+        "line": 124,
+        "code": "$lng->txt('obj_tool_setting_calendar_active')",
+        "has_variable": false,
+        "variable": "obj_tool_setting_calendar_active"
+    },
+    {
+        "id": 20658,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectServiceSettingsGUI.php",
+        "line": 129,
+        "code": "$lng->txt('obj_tool_setting_calendar_active_info')",
+        "has_variable": false,
+        "variable": "obj_tool_setting_calendar_active_info"
+    },
+    {
+        "id": 20660,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectServiceSettingsGUI.php",
+        "line": 132,
+        "code": "$lng->txt('obj_tool_setting_calendar')",
+        "has_variable": false,
+        "variable": "obj_tool_setting_calendar"
+    },
+    {
+        "id": 20662,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectServiceSettingsGUI.php",
+        "line": 137,
+        "code": "$lng->txt('obj_tool_setting_calendar_info')",
+        "has_variable": false,
+        "variable": "obj_tool_setting_calendar_info"
+    },
+    {
+        "id": 20664,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectServiceSettingsGUI.php",
+        "line": 146,
+        "code": "$lng->txt('obj_tool_setting_use_news')",
+        "has_variable": false,
+        "variable": "obj_tool_setting_use_news"
+    },
+    {
+        "id": 20666,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectServiceSettingsGUI.php",
+        "line": 153,
+        "code": "$lng->txt('obj_tool_setting_use_news_info')",
+        "has_variable": false,
+        "variable": "obj_tool_setting_use_news_info"
+    },
+    {
+        "id": 20668,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectServiceSettingsGUI.php",
+        "line": 156,
+        "code": "$lng->txt('obj_tool_setting_use_news_open_settings')",
+        "has_variable": false,
+        "variable": "obj_tool_setting_use_news_open_settings"
+    },
+    {
+        "id": 20670,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectServiceSettingsGUI.php",
+        "line": 164,
+        "code": "$lng->txt('obj_tool_setting_news')",
+        "has_variable": false,
+        "variable": "obj_tool_setting_news"
+    },
+    {
+        "id": 20672,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectServiceSettingsGUI.php",
+        "line": 171,
+        "code": "$lng->txt('obj_tool_setting_news')",
+        "has_variable": false,
+        "variable": "obj_tool_setting_news"
+    },
+    {
+        "id": 20674,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectServiceSettingsGUI.php",
+        "line": 172,
+        "code": "$lng->txt('obj_tool_setting_news_info')",
+        "has_variable": false,
+        "variable": "obj_tool_setting_news_info"
+    },
+    {
+        "id": 20676,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectServiceSettingsGUI.php",
+        "line": 186,
+        "code": "$lng->txt('obj_tool_setting_custom_metadata')",
+        "has_variable": false,
+        "variable": "obj_tool_setting_custom_metadata"
+    },
+    {
+        "id": 20678,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectServiceSettingsGUI.php",
+        "line": 187,
+        "code": "$lng->txt('obj_tool_setting_custom_metadata_info')",
+        "has_variable": false,
+        "variable": "obj_tool_setting_custom_metadata_info"
+    },
+    {
+        "id": 20680,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectServiceSettingsGUI.php",
+        "line": 200,
+        "code": "$lng->txt('obj_tool_setting_tag_cloud')",
+        "has_variable": false,
+        "variable": "obj_tool_setting_tag_cloud"
+    },
+    {
+        "id": 20682,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectServiceSettingsGUI.php",
+        "line": 201,
+        "code": "$lng->txt('obj_tool_setting_tag_cloud_info')",
+        "has_variable": false,
+        "variable": "obj_tool_setting_tag_cloud_info"
+    },
+    {
+        "id": 20684,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectServiceSettingsGUI.php",
+        "line": 213,
+        "code": "$lng->txt('obj_tool_setting_taxonomies')",
+        "has_variable": false,
+        "variable": "obj_tool_setting_taxonomies"
+    },
+    {
+        "id": 20686,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectServiceSettingsGUI.php",
+        "line": 214,
+        "code": "$lng->txt('obj_tool_setting_taxonomies_info')",
+        "has_variable": false,
+        "variable": "obj_tool_setting_taxonomies_info"
+    },
+    {
+        "id": 20688,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectServiceSettingsGUI.php",
+        "line": 228,
+        "code": "$lng->txt('rating_new_objects_auto')",
+        "has_variable": false,
+        "variable": "rating_new_objects_auto"
+    },
+    {
+        "id": 20690,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectServiceSettingsGUI.php",
+        "line": 230,
+        "code": "$lng->txt('rating_new_objects_auto')",
+        "has_variable": false,
+        "variable": "rating_new_objects_auto"
+    },
+    {
+        "id": 20692,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectServiceSettingsGUI.php",
+        "line": 231,
+        "code": "$lng->txt('rating_new_objects_auto_info')",
+        "has_variable": false,
+        "variable": "rating_new_objects_auto_info"
+    },
+    {
+        "id": 20694,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectServiceSettingsGUI.php",
+        "line": 242,
+        "code": "$lng->txt('obj_tool_setting_badges')",
+        "has_variable": false,
+        "variable": "obj_tool_setting_badges"
+    },
+    {
+        "id": 20696,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectServiceSettingsGUI.php",
+        "line": 243,
+        "code": "$lng->txt('obj_tool_setting_badges_info')",
+        "has_variable": false,
+        "variable": "obj_tool_setting_badges_info"
+    },
+    {
+        "id": 20698,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectServiceSettingsGUI.php",
+        "line": 279,
+        "code": "$lng->txt('obj_tool_setting_skills')",
+        "has_variable": false,
+        "variable": "obj_tool_setting_skills"
+    },
+    {
+        "id": 20700,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectServiceSettingsGUI.php",
+        "line": 280,
+        "code": "$lng->txt('obj_tool_setting_skills_info')",
+        "has_variable": false,
+        "variable": "obj_tool_setting_skills_info"
+    },
+    {
+        "id": 20702,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectServiceSettingsGUI.php",
+        "line": 292,
+        "code": "$lng->txt('obj_tool_setting_filter')",
+        "has_variable": false,
+        "variable": "obj_tool_setting_filter"
+    },
+    {
+        "id": 20704,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectServiceSettingsGUI.php",
+        "line": 293,
+        "code": "$lng->txt('obj_tool_setting_filter_info')",
+        "has_variable": false,
+        "variable": "obj_tool_setting_filter_info"
+    },
+    {
+        "id": 20706,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectServiceSettingsGUI.php",
+        "line": 301,
+        "code": "$lng->txt('obj_tool_setting_filter_empty')",
+        "has_variable": false,
+        "variable": "obj_tool_setting_filter_empty"
+    },
+    {
+        "id": 20708,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectServiceSettingsGUI.php",
+        "line": 302,
+        "code": "$lng->txt('obj_tool_setting_filter_empty_info')",
+        "has_variable": false,
+        "variable": "obj_tool_setting_filter_empty_info"
+    },
+    {
+        "id": 20710,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectServiceSettingsGUI.php",
+        "line": 312,
+        "code": "$lng->txt('obj_tool_booking')",
+        "has_variable": false,
+        "variable": "obj_tool_booking"
+    },
+    {
+        "id": 20712,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectServiceSettingsGUI.php",
+        "line": 313,
+        "code": "$lng->txt('obj_tool_booking_info')",
+        "has_variable": false,
+        "variable": "obj_tool_booking_info"
+    },
+    {
+        "id": 20714,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectServiceSettingsGUI.php",
+        "line": 323,
+        "code": "$lng->txt('obj_tool_ext_mail_subject_prefix')",
+        "has_variable": false,
+        "variable": "obj_tool_ext_mail_subject_prefix"
+    },
+    {
+        "id": 20716,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectServiceSettingsGUI.php",
+        "line": 325,
+        "code": "$lng->txt('obj_tool_ext_mail_subject_prefix_info')",
+        "has_variable": false,
+        "variable": "obj_tool_ext_mail_subject_prefix_info"
+    },
+    {
+        "id": 20718,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectTableGUI.php",
+        "line": 98,
+        "code": "$this->lng->txt('type')",
+        "has_variable": false,
+        "variable": "type"
+    },
+    {
+        "id": 20720,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectTableGUI.php",
+        "line": 99,
+        "code": "$this->lng->txt('title')",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 20722,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectTableGUI.php",
+        "line": 113,
+        "code": "$this->lng->txt('obj_' . $set['type'])",
+        "has_variable": true,
+        "variable": "'obj_' . $set['type']"
+    },
+    {
+        "id": 20724,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilPasteIntoMultipleItemsExplorer.php",
+        "line": 185,
+        "code": "$this->lng->txt(\"expand\")",
+        "has_variable": false,
+        "variable": "expand"
+    },
+    {
+        "id": 20726,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilPasteIntoMultipleItemsExplorer.php",
+        "line": 196,
+        "code": "$this->lng->txt(\"collapse\")",
+        "has_variable": false,
+        "variable": "collapse"
+    },
+    {
+        "id": 20728,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilPasteIntoMultipleItemsExplorer.php",
+        "line": 220,
+        "code": "$this->lng->txt($option[\"desc\"])",
+        "has_variable": true,
+        "variable": "\\$option"
+    },
+    {
+        "id": 20730,
+        "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilPasteIntoMultipleItemsExplorer.php",
+        "line": 294,
+        "code": "$this->lng->txt(\"repository\")",
+        "has_variable": false,
+        "variable": "repository"
+    },
+    {
+        "id": 20732,
+        "file": "components\/ILIAS\/ILIASObject\/src\/Creation\/AddNewItemGUI.php",
+        "line": 70,
+        "code": "$this->lng->txt('cntr_add_new_item')",
+        "has_variable": false,
+        "variable": "cntr_add_new_item"
+    },
+    {
+        "id": 20734,
+        "file": "components\/ILIAS\/ILIASObject\/src\/Creation\/AddNewItemGUI.php",
+        "line": 72,
+        "code": "$this->lng->txt('object_list')",
+        "has_variable": false,
+        "variable": "object_list"
+    },
+    {
+        "id": 20736,
+        "file": "components\/ILIAS\/ILIASObject\/src\/Creation\/AddNewItemGUI.php",
+        "line": 79,
+        "code": "$this->lng->txt('cntr_add_new_item')",
+        "has_variable": false,
+        "variable": "cntr_add_new_item"
+    },
+    {
+        "id": 20738,
+        "file": "components\/ILIAS\/ILIASObject\/src\/Properties\/AdditionalProperties\/Icon\/Icon.php",
+        "line": 120,
+        "code": "$language->txt(self::INPUT_LABEL)",
+        "has_variable": true,
+        "variable": "INPUT_LABEL"
+    },
+    {
+        "id": 20740,
+        "file": "components\/ILIAS\/ILIASObject\/src\/Properties\/AdditionalProperties\/Icon\/Icon.php",
+        "line": 137,
+        "code": "$language->txt(self::INPUT_LABEL)",
+        "has_variable": true,
+        "variable": "INPUT_LABEL"
+    },
+    {
+        "id": 20742,
+        "file": "components\/ILIAS\/ILIASObject\/src\/Properties\/AdditionalProperties\/Simple\/HeaderActionVisibility.php",
+        "line": 57,
+        "code": "$language->txt(self::INPUT_LABEL)",
+        "has_variable": true,
+        "variable": "INPUT_LABEL"
+    },
+    {
+        "id": 20744,
+        "file": "components\/ILIAS\/ILIASObject\/src\/Properties\/AdditionalProperties\/Simple\/HeaderActionVisibility.php",
+        "line": 67,
+        "code": "$language->txt(self::INPUT_LABEL)",
+        "has_variable": true,
+        "variable": "INPUT_LABEL"
+    },
+    {
+        "id": 20746,
+        "file": "components\/ILIAS\/ILIASObject\/src\/Properties\/AdditionalProperties\/Simple\/InfoTabVisibility.php",
+        "line": 57,
+        "code": "$language->txt(self::INPUT_LABEL)",
+        "has_variable": true,
+        "variable": "INPUT_LABEL"
+    },
+    {
+        "id": 20748,
+        "file": "components\/ILIAS\/ILIASObject\/src\/Properties\/AdditionalProperties\/Simple\/TitleAndIconVisiblity.php",
+        "line": 57,
+        "code": "$language->txt(self::INPUT_LABEL)",
+        "has_variable": true,
+        "variable": "INPUT_LABEL"
+    },
+    {
+        "id": 20750,
+        "file": "components\/ILIAS\/ILIASObject\/src\/Properties\/AdditionalProperties\/Simple\/TitleAndIconVisiblity.php",
+        "line": 67,
+        "code": "$language->txt(self::INPUT_LABEL)",
+        "has_variable": true,
+        "variable": "INPUT_LABEL"
+    },
+    {
+        "id": 20752,
+        "file": "components\/ILIAS\/ILIASObject\/src\/Properties\/CoreProperties\/Online.php",
+        "line": 71,
+        "code": "$language->txt(self::INPUT_LABEL)",
+        "has_variable": true,
+        "variable": "INPUT_LABEL"
+    },
+    {
+        "id": 20754,
+        "file": "components\/ILIAS\/ILIASObject\/src\/Properties\/CoreProperties\/Online.php",
+        "line": 72,
+        "code": "$language->txt(self::INPUT_BYLINE)",
+        "has_variable": true,
+        "variable": "INPUT_BYLINE"
+    },
+    {
+        "id": 20756,
+        "file": "components\/ILIAS\/ILIASObject\/src\/Properties\/CoreProperties\/TileImage\/Property.php",
+        "line": 91,
+        "code": "$language->txt(self::INPUT_LABEL)",
+        "has_variable": true,
+        "variable": "INPUT_LABEL"
+    },
+    {
+        "id": 20758,
+        "file": "components\/ILIAS\/ILIASObject\/src\/Properties\/CoreProperties\/TileImage\/Property.php",
+        "line": 91,
+        "code": "$language->txt(self::INPUT_BYLINE)",
+        "has_variable": true,
+        "variable": "INPUT_BYLINE"
+    },
+    {
+        "id": 20760,
+        "file": "components\/ILIAS\/ILIASObject\/src\/Properties\/CoreProperties\/TileImage\/Property.php",
+        "line": 106,
+        "code": "$language->txt(self::INPUT_LABEL)",
+        "has_variable": true,
+        "variable": "INPUT_LABEL"
+    },
+    {
+        "id": 20762,
+        "file": "components\/ILIAS\/ILIASObject\/src\/Properties\/CoreProperties\/TileImage\/Property.php",
+        "line": 107,
+        "code": "$language->txt(self::INPUT_BYLINE)",
+        "has_variable": true,
+        "variable": "INPUT_BYLINE"
+    },
+    {
+        "id": 20764,
+        "file": "components\/ILIAS\/ILIASObject\/src\/Properties\/CoreProperties\/TitleAndDescription.php",
+        "line": 96,
+        "code": "$language->txt(self::TITLE_LABEL)",
+        "has_variable": true,
+        "variable": "TITLE_LABEL"
+    },
+    {
+        "id": 20766,
+        "file": "components\/ILIAS\/ILIASObject\/src\/Properties\/CoreProperties\/TitleAndDescription.php",
+        "line": 101,
+        "code": "$language->txt(self::DESCRIPTION_LABEL)",
+        "has_variable": true,
+        "variable": "DESCRIPTION_LABEL"
+    },
+    {
+        "id": 20768,
+        "file": "components\/ILIAS\/ILIASObject\/src\/Properties\/MultiPropertiesManipulator.php",
+        "line": 58,
+        "code": "$this->language->txt('edit_availability_period')",
+        "has_variable": false,
+        "variable": "edit_availability_period"
+    },
+    {
+        "id": 20770,
+        "file": "components\/ILIAS\/ILIASObject\/src\/Properties\/MultiPropertiesManipulator.php",
+        "line": 68,
+        "code": "$this->language->txt('no_objects_selected')",
+        "has_variable": false,
+        "variable": "no_objects_selected"
+    },
+    {
+        "id": 20772,
+        "file": "components\/ILIAS\/ILIASObject\/src\/Properties\/MultiPropertiesManipulator.php",
+        "line": 129,
+        "code": "$this->language->txt('unequal_items_for_availability_period_message')",
+        "has_variable": false,
+        "variable": "unequal_items_for_availability_period_message"
+    },
+    {
+        "id": 20774,
+        "file": "components\/ILIAS\/ILIASObject\/src\/Properties\/MultiPropertiesManipulator.php",
+        "line": 132,
+        "code": "$this->language->txt('edit_availability_period')",
+        "has_variable": false,
+        "variable": "edit_availability_period"
+    },
+    {
+        "id": 20776,
+        "file": "components\/ILIAS\/ILIASObject\/src\/Properties\/ObjectReferenceProperties\/AvailabilityPeriod\/AvailabilityPeriod.php",
+        "line": 108,
+        "code": "$language->txt('rep_activation_limited_start')",
+        "has_variable": false,
+        "variable": "rep_activation_limited_start"
+    },
+    {
+        "id": 20778,
+        "file": "components\/ILIAS\/ILIASObject\/src\/Properties\/ObjectReferenceProperties\/AvailabilityPeriod\/AvailabilityPeriod.php",
+        "line": 112,
+        "code": "$language->txt('rep_activation_limited_end')",
+        "has_variable": false,
+        "variable": "rep_activation_limited_end"
+    },
+    {
+        "id": 20780,
+        "file": "components\/ILIAS\/ILIASObject\/src\/Properties\/ObjectReferenceProperties\/AvailabilityPeriod\/AvailabilityPeriod.php",
+        "line": 117,
+        "code": "$language->txt('activation_visible_when_disabled')",
+        "has_variable": false,
+        "variable": "activation_visible_when_disabled"
+    },
+    {
+        "id": 20782,
+        "file": "components\/ILIAS\/ILIASObject\/src\/Properties\/ObjectReferenceProperties\/AvailabilityPeriod\/AvailabilityPeriod.php",
+        "line": 118,
+        "code": "$language->txt('activation_visible_when_disabled_info')",
+        "has_variable": false,
+        "variable": "activation_visible_when_disabled_info"
+    },
+    {
+        "id": 20784,
+        "file": "components\/ILIAS\/ILIASObject\/src\/Properties\/ObjectReferenceProperties\/AvailabilityPeriod\/AvailabilityPeriod.php",
+        "line": 123,
+        "code": "$language->txt('rep_time_based_availability')",
+        "has_variable": false,
+        "variable": "rep_time_based_availability"
+    },
+    {
+        "id": 20786,
+        "file": "components\/ILIAS\/ILIASObject\/src\/Properties\/ObjectReferenceProperties\/AvailabilityPeriod\/AvailabilityPeriod.php",
+        "line": 124,
+        "code": "$language->txt('rep_time_based_availability_info')",
+        "has_variable": false,
+        "variable": "rep_time_based_availability_info"
+    },
+    {
+        "id": 20788,
+        "file": "components\/ILIAS\/ILIASObject\/src\/Properties\/ObjectReferenceProperties\/AvailabilityPeriod\/AvailabilityPeriod.php",
+        "line": 169,
+        "code": "$language->txt('duration_end_must_not_be_earlier_than_start')",
+        "has_variable": false,
+        "variable": "duration_end_must_not_be_earlier_than_start"
+    },
+    {
+        "id": 20790,
+        "file": "components\/ILIAS\/ILIASObject\/src\/Properties\/Translations\/Language.php",
+        "line": 107,
+        "code": "$language->txt('title')",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 20792,
+        "file": "components\/ILIAS\/ILIASObject\/src\/Properties\/Translations\/Language.php",
+        "line": 110,
+        "code": "$language->txt('description')",
+        "has_variable": false,
+        "variable": "description"
+    },
+    {
+        "id": 20794,
+        "file": "components\/ILIAS\/ILIASObject\/src\/Properties\/Translations\/Language.php",
+        "line": 165,
+        "code": "$lng->txt(\"meta_l_{$language_code}\")",
+        "has_variable": true,
+        "variable": "meta_l_{$language_code}"
+    },
+    {
+        "id": 20796,
+        "file": "components\/ILIAS\/ILIASObject\/src\/Properties\/Translations\/TranslationsTable.php",
+        "line": 118,
+        "code": "$this->lng->txt('available_languages')",
+        "has_variable": false,
+        "variable": "available_languages"
+    },
+    {
+        "id": 20798,
+        "file": "components\/ILIAS\/ILIASObject\/src\/Properties\/Translations\/TranslationsTable.php",
+        "line": 156,
+        "code": "$this->lng->txt('language')",
+        "has_variable": false,
+        "variable": "language"
+    },
+    {
+        "id": 20800,
+        "file": "components\/ILIAS\/ILIASObject\/src\/Properties\/Translations\/TranslationsTable.php",
+        "line": 160,
+        "code": "$this->lng->txt('obj_base_lang')",
+        "has_variable": false,
+        "variable": "obj_base_lang"
+    },
+    {
+        "id": 20802,
+        "file": "components\/ILIAS\/ILIASObject\/src\/Properties\/Translations\/TranslationsTable.php",
+        "line": 168,
+        "code": "$this->lng->txt('default')",
+        "has_variable": false,
+        "variable": "default"
+    },
+    {
+        "id": 20804,
+        "file": "components\/ILIAS\/ILIASObject\/src\/Properties\/Translations\/TranslationsTable.php",
+        "line": 172,
+        "code": "$this->lng->txt('title')",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 20806,
+        "file": "components\/ILIAS\/ILIASObject\/src\/Properties\/Translations\/TranslationsTable.php",
+        "line": 173,
+        "code": "$this->lng->txt('description')",
+        "has_variable": false,
+        "variable": "description"
+    },
+    {
+        "id": 20808,
+        "file": "components\/ILIAS\/ILIASObject\/src\/Properties\/Translations\/TranslationsTable.php",
+        "line": 185,
+        "code": "$this->lng->txt('edit')",
+        "has_variable": false,
+        "variable": "edit"
+    },
+    {
+        "id": 20810,
+        "file": "components\/ILIAS\/ILIASObject\/src\/Properties\/Translations\/TranslationsTable.php",
+        "line": 193,
+        "code": "$this->lng->txt('make_default_language')",
+        "has_variable": false,
+        "variable": "make_default_language"
+    },
+    {
+        "id": 20812,
+        "file": "components\/ILIAS\/ILIASObject\/src\/Properties\/Translations\/TranslationsTable.php",
+        "line": 201,
+        "code": "$this->lng->txt('delete')",
+        "has_variable": false,
+        "variable": "delete"
+    },
+    {
+        "id": 20814,
+        "file": "components\/ILIAS\/ILIASObject\/src\/Properties\/Translations\/TranslationsTable.php",
+        "line": 244,
+        "code": "$this->lng->txt('saved_successfully')",
+        "has_variable": false,
+        "variable": "saved_successfully"
+    },
+    {
+        "id": 20816,
+        "file": "components\/ILIAS\/ILIASObject\/src\/Properties\/Translations\/TranslationsTable.php",
+        "line": 257,
+        "code": "$this->lng->txt('saved_successfully')",
+        "has_variable": false,
+        "variable": "saved_successfully"
+    },
+    {
+        "id": 20818,
+        "file": "components\/ILIAS\/ILIASObject\/src\/Properties\/Translations\/TranslationsTable.php",
+        "line": 291,
+        "code": "$this->lng->txt('saved_successfully')",
+        "has_variable": false,
+        "variable": "saved_successfully"
+    },
+    {
+        "id": 20820,
+        "file": "components\/ILIAS\/ILIASObject\/src\/Properties\/Translations\/TranslationsTable.php",
+        "line": 298,
+        "code": "$this->lng->txt('edit_language')",
+        "has_variable": false,
+        "variable": "edit_language"
+    },
+    {
+        "id": 20822,
+        "file": "components\/ILIAS\/ILIASObject\/src\/Properties\/Translations\/TranslationsTable.php",
+        "line": 317,
+        "code": "$this->lng->txt('confirm')",
+        "has_variable": false,
+        "variable": "confirm"
+    },
+    {
+        "id": 20824,
+        "file": "components\/ILIAS\/ILIASObject\/src\/Properties\/Translations\/TranslationsTable.php",
+        "line": 318,
+        "code": "$this->lng->txt('obj_conf_delete_lang')",
+        "has_variable": false,
+        "variable": "obj_conf_delete_lang"
+    },
+    {
+        "id": 20826,
+        "file": "components\/ILIAS\/ILIASObject\/src\/Properties\/Translations\/TranslationsTable.php",
+        "line": 326,
+        "code": "$this->lng->txt(\"meta_l_{$v}\")",
+        "has_variable": true,
+        "variable": "meta_l_{$v}"
+    },
+    {
+        "id": 20828,
+        "file": "components\/ILIAS\/ILIASObject\/src\/Properties\/Translations\/TranslationsTable.php",
+        "line": 339,
+        "code": "$this->lng->txt('default_base_lang_not_deletable')",
+        "has_variable": false,
+        "variable": "default_base_lang_not_deletable"
+    },
+    {
+        "id": 20830,
+        "file": "components\/ILIAS\/ILIASObject\/src\/Properties\/Translations\/TranslationsTable.php",
+        "line": 365,
+        "code": "$this->lng->txt('no_checkbox')",
+        "has_variable": false,
+        "variable": "no_checkbox"
+    },
+    {
+        "id": 20832,
+        "file": "components\/ILIAS\/ILIASObject\/src\/Properties\/Translations\/class.TranslationGUI.php",
+        "line": 95,
+        "code": "$this->lng->txt('no_permission')",
+        "has_variable": false,
+        "variable": "no_permission"
+    },
+    {
+        "id": 20834,
+        "file": "components\/ILIAS\/ILIASObject\/src\/Properties\/Translations\/class.TranslationGUI.php",
+        "line": 131,
+        "code": "$this->lng->txt('missing_migration')",
+        "has_variable": false,
+        "variable": "missing_migration"
+    },
+    {
+        "id": 20836,
+        "file": "components\/ILIAS\/ILIASObject\/src\/Properties\/Translations\/class.TranslationGUI.php",
+        "line": 161,
+        "code": "$this->lng->txt('saved_successfully')",
+        "has_variable": false,
+        "variable": "saved_successfully"
+    },
+    {
+        "id": 20838,
+        "file": "components\/ILIAS\/ILIASObject\/src\/Properties\/Translations\/class.TranslationGUI.php",
+        "line": 199,
+        "code": "$this->lng->txt('obj_cont_transl_deactivated')",
+        "has_variable": false,
+        "variable": "obj_cont_transl_deactivated"
+    },
+    {
+        "id": 20840,
+        "file": "components\/ILIAS\/ILIASObject\/src\/Properties\/Translations\/class.TranslationGUI.php",
+        "line": 209,
+        "code": "$this->lng->txt('obj_add_language')",
+        "has_variable": false,
+        "variable": "obj_add_language"
+    },
+    {
+        "id": 20842,
+        "file": "components\/ILIAS\/ILIASObject\/src\/Properties\/Translations\/class.TranslationGUI.php",
+        "line": 221,
+        "code": "$this->lng->txt('obj_add_language')",
+        "has_variable": false,
+        "variable": "obj_add_language"
+    },
+    {
+        "id": 20844,
+        "file": "components\/ILIAS\/ILIASObject\/src\/Properties\/Translations\/class.TranslationGUI.php",
+        "line": 227,
+        "code": "$this->lng->txt('title')",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 20846,
+        "file": "components\/ILIAS\/ILIASObject\/src\/Properties\/Translations\/class.TranslationGUI.php",
+        "line": 229,
+        "code": "$this->lng->txt('description')",
+        "has_variable": false,
+        "variable": "description"
+    },
+    {
+        "id": 20848,
+        "file": "components\/ILIAS\/ILIASObject\/src\/Properties\/Translations\/class.TranslationGUI.php",
+        "line": 254,
+        "code": "$this->lng->txt('obj_multilang_title_descr_only')",
+        "has_variable": false,
+        "variable": "obj_multilang_title_descr_only"
+    },
+    {
+        "id": 20850,
+        "file": "components\/ILIAS\/ILIASObject\/src\/Properties\/Translations\/class.TranslationGUI.php",
+        "line": 261,
+        "code": "$this->lng->txt('obj_activate' . $lang_var_postfix)",
+        "has_variable": true,
+        "variable": "'obj_activate' . $lang_var_postfix"
+    },
+    {
+        "id": 20852,
+        "file": "components\/ILIAS\/ILIASObject\/src\/Properties\/Translations\/class.TranslationGUI.php",
+        "line": 271,
+        "code": "$this->lng->txt('obj_deactivate' . $lang_var_postfix)",
+        "has_variable": true,
+        "variable": "'obj_deactivate' . $lang_var_postfix"
+    },
+    {
+        "id": 20854,
+        "file": "components\/ILIAS\/ILIASObject\/src\/Properties\/Translations\/class.TranslationGUI.php",
+        "line": 281,
+        "code": "$this->lng->txt('confirm')",
+        "has_variable": false,
+        "variable": "confirm"
+    },
+    {
+        "id": 20856,
+        "file": "components\/ILIAS\/ILIASObject\/src\/Properties\/Translations\/class.TranslationGUI.php",
+        "line": 282,
+        "code": "$this->lng->txt($text_tag)",
+        "has_variable": true,
+        "variable": "$text_tag"
+    },
+    {
+        "id": 20858,
+        "file": "components\/ILIAS\/ILIASObject\/src\/Properties\/Translations\/class.TranslationGUI.php",
+        "line": 284,
+        "code": "$this->lng->txt('confirm')",
+        "has_variable": false,
+        "variable": "confirm"
+    },
+    {
+        "id": 20860,
+        "file": "components\/ILIAS\/ILIASObject\/src\/Properties\/Translations\/class.TranslationGUI.php",
+        "line": 290,
+        "code": "$this->lng->txt('confirm')",
+        "has_variable": false,
+        "variable": "confirm"
+    },
+    {
+        "id": 20862,
+        "file": "components\/ILIAS\/ILIASObject\/src\/Properties\/Translations\/class.TranslationGUI.php",
+        "line": 291,
+        "code": "$this->lng->txt('obj_select_base_lang')",
+        "has_variable": false,
+        "variable": "obj_select_base_lang"
+    },
+    {
+        "id": 20864,
+        "file": "components\/ILIAS\/ILIASObject\/src\/Properties\/Translations\/class.TranslationGUI.php",
+        "line": 302,
+        "code": "$this->lng->txt('language')",
+        "has_variable": false,
+        "variable": "language"
+    },
+    {
+        "id": 20866,
+        "file": "components\/ILIAS\/ILIASObject\/src\/Properties\/Translations\/class.TranslationGUI.php",
+        "line": 312,
+        "code": "$this->lng->txt(\"meta_l_{$v}\")",
+        "has_variable": true,
+        "variable": "meta_l_{$v}"
+    },
+    {
+        "id": 20868,
+        "file": "components\/ILIAS\/ILIASObject\/src\/Properties\/Translations\/class.TranslationGUI.php",
+        "line": 319,
+        "code": "$this->lng->txt('obj_base_lang')",
+        "has_variable": false,
+        "variable": "obj_base_lang"
+    },
+    {
+        "id": 20870,
+        "file": "components\/ILIAS\/ILIASObject\/src\/Properties\/Translations\/class.TranslationGUI.php",
+        "line": 335,
+        "code": "$this->lng->txt(\"meta_l_{$v}\")",
+        "has_variable": true,
+        "variable": "meta_l_{$v}"
+    },
+    {
+        "id": 20872,
+        "file": "components\/ILIAS\/ILIASObject\/src\/Properties\/UploadSecurityFunctionsTrait.php",
+        "line": 50,
+        "code": "$language->txt('cont_no_access')",
+        "has_variable": false,
+        "variable": "cont_no_access"
+    }
+]

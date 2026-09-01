@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "type": "full",
+        "count": 1,
+        "description": "Variable usages without detectable prefixes or suffixes (pure variable references without static strings)"
+    },
+    "matches": [
+        {
+            "id": 9406,
+            "file": "components\/ILIAS\/Component\/classes\/Settings\/class.ilPluginsOverviewTable.php",
+            "line": 248,
+            "code": "$this->lng->txt($caption)",
+            "variable": "$caption",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        }
+    ]
+}

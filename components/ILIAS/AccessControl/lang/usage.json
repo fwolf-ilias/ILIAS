@@ -1,0 +1,3042 @@
+[
+    {
+        "id": 90,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilAccessPermissionsStatusTableGUI.php",
+        "line": 48,
+        "code": "$this->lng->txt(\"status\")",
+        "has_variable": false,
+        "variable": "status"
+    },
+    {
+        "id": 92,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilAccessPermissionsStatusTableGUI.php",
+        "line": 49,
+        "code": "$this->lng->txt(\"operation\")",
+        "has_variable": false,
+        "variable": "operation"
+    },
+    {
+        "id": 94,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilAccessPermissionsStatusTableGUI.php",
+        "line": 50,
+        "code": "$this->lng->txt(\"info_from_role\")",
+        "has_variable": false,
+        "variable": "info_from_role"
+    },
+    {
+        "id": 96,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilAccessPermissionsStatusTableGUI.php",
+        "line": 64,
+        "code": "$lng->txt(\"info_assigned\")",
+        "has_variable": false,
+        "variable": "info_assigned"
+    },
+    {
+        "id": 98,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilAccessPermissionsStatusTableGUI.php",
+        "line": 67,
+        "code": "$lng->txt(\"info_not_assigned\")",
+        "has_variable": false,
+        "variable": "info_not_assigned"
+    },
+    {
+        "id": 100,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilAssignedUsersTableGUI.php",
+        "line": 46,
+        "code": "$this->lng->txt('login')",
+        "has_variable": false,
+        "variable": "login"
+    },
+    {
+        "id": 102,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilAssignedUsersTableGUI.php",
+        "line": 47,
+        "code": "$this->lng->txt('firstname')",
+        "has_variable": false,
+        "variable": "firstname"
+    },
+    {
+        "id": 104,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilAssignedUsersTableGUI.php",
+        "line": 48,
+        "code": "$this->lng->txt('lastname')",
+        "has_variable": false,
+        "variable": "lastname"
+    },
+    {
+        "id": 106,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilAssignedUsersTableGUI.php",
+        "line": 49,
+        "code": "$this->lng->txt('actions')",
+        "has_variable": false,
+        "variable": "actions"
+    },
+    {
+        "id": 108,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilAssignedUsersTableGUI.php",
+        "line": 64,
+        "code": "$this->lng->txt('remove')",
+        "has_variable": false,
+        "variable": "remove"
+    },
+    {
+        "id": 110,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilAssignedUsersTableGUI.php",
+        "line": 71,
+        "code": "$this->lng->txt('clipboard_add_btn')",
+        "has_variable": false,
+        "variable": "clipboard_add_btn"
+    },
+    {
+        "id": 112,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilAssignedUsersTableGUI.php",
+        "line": 142,
+        "code": "$this->lng->txt('actions')",
+        "has_variable": false,
+        "variable": "actions"
+    },
+    {
+        "id": 114,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilAssignedUsersTableGUI.php",
+        "line": 161,
+        "code": "$this->lng->txt('edit')",
+        "has_variable": false,
+        "variable": "edit"
+    },
+    {
+        "id": 116,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilAssignedUsersTableGUI.php",
+        "line": 190,
+        "code": "$this->lng->txt('message')",
+        "has_variable": false,
+        "variable": "message"
+    },
+    {
+        "id": 118,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilAssignedUsersTableGUI.php",
+        "line": 212,
+        "code": "$this->lng->txt('remove')",
+        "has_variable": false,
+        "variable": "remove"
+    },
+    {
+        "id": 120,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilAvailableRolesStatusTableGUI.php",
+        "line": 49,
+        "code": "$this->lng->txt(\"status\")",
+        "has_variable": false,
+        "variable": "status"
+    },
+    {
+        "id": 122,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilAvailableRolesStatusTableGUI.php",
+        "line": 50,
+        "code": "$this->lng->txt(\"role\")",
+        "has_variable": false,
+        "variable": "role"
+    },
+    {
+        "id": 124,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilAvailableRolesStatusTableGUI.php",
+        "line": 52,
+        "code": "$this->lng->txt(\"info_permission_source\")",
+        "has_variable": false,
+        "variable": "info_permission_source"
+    },
+    {
+        "id": 126,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilAvailableRolesStatusTableGUI.php",
+        "line": 56,
+        "code": "$this->lng->txt(\"info_permission_origin\")",
+        "has_variable": false,
+        "variable": "info_permission_origin"
+    },
+    {
+        "id": 128,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilAvailableRolesStatusTableGUI.php",
+        "line": 66,
+        "code": "$this->lng->txt(\"info_assigned\")",
+        "has_variable": false,
+        "variable": "info_assigned"
+    },
+    {
+        "id": 130,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilAvailableRolesStatusTableGUI.php",
+        "line": 69,
+        "code": "$this->lng->txt(\"info_not_assigned\")",
+        "has_variable": false,
+        "variable": "info_not_assigned"
+    },
+    {
+        "id": 132,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRole.php",
+        "line": 332,
+        "code": "$this->lng->txt(\"msg_user_last_role1\")",
+        "has_variable": false,
+        "variable": "msg_user_last_role1"
+    },
+    {
+        "id": 134,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRole.php",
+        "line": 333,
+        "code": "$this->lng->txt(\"msg_user_last_role2\")",
+        "has_variable": false,
+        "variable": "msg_user_last_role2"
+    },
+    {
+        "id": 136,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRole.php",
+        "line": 378,
+        "code": "$lng->txt($role_title)",
+        "has_variable": true,
+        "variable": "$role_title"
+    },
+    {
+        "id": 138,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRole.php",
+        "line": 427,
+        "code": "$lng->txt(\"obj_\" . $subtype)",
+        "has_variable": true,
+        "variable": "\"obj_\" . $subtype"
+    },
+    {
+        "id": 140,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRole.php",
+        "line": 429,
+        "code": "$lng->txt('objs_' . $subtype)",
+        "has_variable": true,
+        "variable": "'objs_' . $subtype"
+    },
+    {
+        "id": 142,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRole.php",
+        "line": 516,
+        "code": "$this->lng->txt($info['type'] . \"_\" . $info['operation'])",
+        "has_variable": true,
+        "variable": "$info['type'] . \"_\" . $info['operation']"
+    },
+    {
+        "id": 144,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleFolder.php",
+        "line": 38,
+        "code": "$this->lng->txt(\"obj_\" . $this->getType() . \"_local_desc\")",
+        "has_variable": true,
+        "variable": "\"obj_\" . $this->getType() . \"_local_desc\""
+    },
+    {
+        "id": 146,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleFolder.php",
+        "line": 39,
+        "code": "$this->lng->txt(\"obj_\" . $this->getType() . \"_local\")",
+        "has_variable": true,
+        "variable": "\"obj_\" . $this->getType() . \"_local\""
+    },
+    {
+        "id": 148,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleFolderGUI.php",
+        "line": 132,
+        "code": "$this->lng->txt('rbac_copy_no_targets')",
+        "has_variable": false,
+        "variable": "rbac_copy_no_targets"
+    },
+    {
+        "id": 150,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleFolderGUI.php",
+        "line": 137,
+        "code": "$this->lng->txt('rbac_copy_multi_targets')",
+        "has_variable": false,
+        "variable": "rbac_copy_multi_targets"
+    },
+    {
+        "id": 152,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleFolderGUI.php",
+        "line": 157,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 154,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleFolderGUI.php",
+        "line": 164,
+        "code": "$this->lng->txt('rolf_create_role')",
+        "has_variable": false,
+        "variable": "rolf_create_role"
+    },
+    {
+        "id": 156,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleFolderGUI.php",
+        "line": 173,
+        "code": "$this->lng->txt('rolf_create_rolt')",
+        "has_variable": false,
+        "variable": "rolf_create_rolt"
+    },
+    {
+        "id": 158,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleFolderGUI.php",
+        "line": 186,
+        "code": "$this->lng->txt('rbac_import_role')",
+        "has_variable": false,
+        "variable": "rbac_import_role"
+    },
+    {
+        "id": 160,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleFolderGUI.php",
+        "line": 206,
+        "code": "$this->lng->txt('rbac_back_to_overview')",
+        "has_variable": false,
+        "variable": "rbac_back_to_overview"
+    },
+    {
+        "id": 162,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleFolderGUI.php",
+        "line": 211,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 164,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleFolderGUI.php",
+        "line": 218,
+        "code": "$this->lng->txt('rbac_choose_copy_targets')",
+        "has_variable": false,
+        "variable": "rbac_choose_copy_targets"
+    },
+    {
+        "id": 166,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleFolderGUI.php",
+        "line": 233,
+        "code": "$this->lng->txt('rbac_role_title')",
+        "has_variable": false,
+        "variable": "rbac_role_title"
+    },
+    {
+        "id": 168,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleFolderGUI.php",
+        "line": 236,
+        "code": "$this->lng->txt('title')",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 170,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleFolderGUI.php",
+        "line": 242,
+        "code": "$this->lng->txt('search')",
+        "has_variable": false,
+        "variable": "search"
+    },
+    {
+        "id": 172,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleFolderGUI.php",
+        "line": 261,
+        "code": "$this->lng->txt('msg_no_search_string')",
+        "has_variable": false,
+        "variable": "msg_no_search_string"
+    },
+    {
+        "id": 174,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleFolderGUI.php",
+        "line": 273,
+        "code": "$this->lng->txt('rbac_back_to_overview')",
+        "has_variable": false,
+        "variable": "rbac_back_to_overview"
+    },
+    {
+        "id": 176,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleFolderGUI.php",
+        "line": 283,
+        "code": "$this->lng->txt('rbac_select_copy_targets')",
+        "has_variable": false,
+        "variable": "rbac_select_copy_targets"
+    },
+    {
+        "id": 178,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleFolderGUI.php",
+        "line": 296,
+        "code": "$this->lng->txt('msg_no_search_string')",
+        "has_variable": false,
+        "variable": "msg_no_search_string"
+    },
+    {
+        "id": 180,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleFolderGUI.php",
+        "line": 310,
+        "code": "$this->lng->txt('rbac_back_to_overview')",
+        "has_variable": false,
+        "variable": "rbac_back_to_overview"
+    },
+    {
+        "id": 182,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleFolderGUI.php",
+        "line": 330,
+        "code": "$this->lng->txt('rbac_copy_behaviour_info')",
+        "has_variable": false,
+        "variable": "rbac_copy_behaviour_info"
+    },
+    {
+        "id": 184,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleFolderGUI.php",
+        "line": 338,
+        "code": "$this->lng->txt('rbac_copy_behaviour')",
+        "has_variable": false,
+        "variable": "rbac_copy_behaviour"
+    },
+    {
+        "id": 186,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleFolderGUI.php",
+        "line": 342,
+        "code": "$this->lng->txt('rbac_form_copy_roles_adjust_type')",
+        "has_variable": false,
+        "variable": "rbac_form_copy_roles_adjust_type"
+    },
+    {
+        "id": 188,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleFolderGUI.php",
+        "line": 350,
+        "code": "$this->lng->txt('rbac_form_copy_roles_adjust_type_add')",
+        "has_variable": false,
+        "variable": "rbac_form_copy_roles_adjust_type_add"
+    },
+    {
+        "id": 190,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleFolderGUI.php",
+        "line": 352,
+        "code": "$this->lng->txt('rbac_form_copy_roles_adjust_type_add_info')",
+        "has_variable": false,
+        "variable": "rbac_form_copy_roles_adjust_type_add_info"
+    },
+    {
+        "id": 192,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleFolderGUI.php",
+        "line": 362,
+        "code": "$this->lng->txt('rbac_form_copy_roles_ce_add_yes')",
+        "has_variable": false,
+        "variable": "rbac_form_copy_roles_ce_add_yes"
+    },
+    {
+        "id": 194,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleFolderGUI.php",
+        "line": 364,
+        "code": "$this->lng->txt('rbac_form_copy_roles_ce_add_yes_info')",
+        "has_variable": false,
+        "variable": "rbac_form_copy_roles_ce_add_yes_info"
+    },
+    {
+        "id": 196,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleFolderGUI.php",
+        "line": 368,
+        "code": "$this->lng->txt('rbac_form_copy_roles_ce_add_no')",
+        "has_variable": false,
+        "variable": "rbac_form_copy_roles_ce_add_no"
+    },
+    {
+        "id": 198,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleFolderGUI.php",
+        "line": 370,
+        "code": "$this->lng->txt('rbac_form_copy_roles_ce_add_no_info')",
+        "has_variable": false,
+        "variable": "rbac_form_copy_roles_ce_add_no_info"
+    },
+    {
+        "id": 200,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleFolderGUI.php",
+        "line": 376,
+        "code": "$this->lng->txt('rbac_form_copy_roles_adjust_type_clone')",
+        "has_variable": false,
+        "variable": "rbac_form_copy_roles_adjust_type_clone"
+    },
+    {
+        "id": 202,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleFolderGUI.php",
+        "line": 378,
+        "code": "$this->lng->txt('rbac_form_copy_roles_adjust_type_clone_info')",
+        "has_variable": false,
+        "variable": "rbac_form_copy_roles_adjust_type_clone_info"
+    },
+    {
+        "id": 204,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleFolderGUI.php",
+        "line": 388,
+        "code": "$this->lng->txt('rbac_form_copy_roles_ce_clone_yes')",
+        "has_variable": false,
+        "variable": "rbac_form_copy_roles_ce_clone_yes"
+    },
+    {
+        "id": 206,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleFolderGUI.php",
+        "line": 390,
+        "code": "$this->lng->txt('rbac_form_copy_roles_ce_clone_yes_info')",
+        "has_variable": false,
+        "variable": "rbac_form_copy_roles_ce_clone_yes_info"
+    },
+    {
+        "id": 208,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleFolderGUI.php",
+        "line": 394,
+        "code": "$this->lng->txt('rbac_form_copy_roles_ce_clone_no')",
+        "has_variable": false,
+        "variable": "rbac_form_copy_roles_ce_clone_no"
+    },
+    {
+        "id": 210,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleFolderGUI.php",
+        "line": 396,
+        "code": "$this->lng->txt('rbac_form_copy_roles_ce_clone_no_info')",
+        "has_variable": false,
+        "variable": "rbac_form_copy_roles_ce_clone_no_info"
+    },
+    {
+        "id": 212,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleFolderGUI.php",
+        "line": 403,
+        "code": "$this->lng->txt('rbac_form_copy_roles_adjust_type_remove')",
+        "has_variable": false,
+        "variable": "rbac_form_copy_roles_adjust_type_remove"
+    },
+    {
+        "id": 214,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleFolderGUI.php",
+        "line": 405,
+        "code": "$this->lng->txt('rbac_form_copy_roles_adjust_type_remove_info')",
+        "has_variable": false,
+        "variable": "rbac_form_copy_roles_adjust_type_remove_info"
+    },
+    {
+        "id": 216,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleFolderGUI.php",
+        "line": 414,
+        "code": "$this->lng->txt('rbac_form_copy_roles_ce_remove_yes')",
+        "has_variable": false,
+        "variable": "rbac_form_copy_roles_ce_remove_yes"
+    },
+    {
+        "id": 218,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleFolderGUI.php",
+        "line": 416,
+        "code": "$this->lng->txt('rbac_form_copy_roles_ce_remove_yes_info')",
+        "has_variable": false,
+        "variable": "rbac_form_copy_roles_ce_remove_yes_info"
+    },
+    {
+        "id": 220,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleFolderGUI.php",
+        "line": 420,
+        "code": "$this->lng->txt('rbac_form_copy_roles_ce_remove_no')",
+        "has_variable": false,
+        "variable": "rbac_form_copy_roles_ce_remove_no"
+    },
+    {
+        "id": 222,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleFolderGUI.php",
+        "line": 422,
+        "code": "$this->lng->txt('rbac_form_copy_roles_ce_remove_no_info')",
+        "has_variable": false,
+        "variable": "rbac_form_copy_roles_ce_remove_no_info"
+    },
+    {
+        "id": 224,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleFolderGUI.php",
+        "line": 434,
+        "code": "$this->lng->txt('back')",
+        "has_variable": false,
+        "variable": "back"
+    },
+    {
+        "id": 226,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleFolderGUI.php",
+        "line": 435,
+        "code": "$this->lng->txt('rbac_form_copy_roles_adjust_button')",
+        "has_variable": false,
+        "variable": "rbac_form_copy_roles_adjust_button"
+    },
+    {
+        "id": 228,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleFolderGUI.php",
+        "line": 512,
+        "code": "$this->lng->txt('rbac_copy_finished')",
+        "has_variable": false,
+        "variable": "rbac_copy_finished"
+    },
+    {
+        "id": 230,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleFolderGUI.php",
+        "line": 548,
+        "code": "$this->lng->txt('rbac_copy_finished')",
+        "has_variable": false,
+        "variable": "rbac_copy_finished"
+    },
+    {
+        "id": 232,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleFolderGUI.php",
+        "line": 657,
+        "code": "$this->lng->txt('select_one')",
+        "has_variable": false,
+        "variable": "select_one"
+    },
+    {
+        "id": 234,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleFolderGUI.php",
+        "line": 661,
+        "code": "$this->lng->txt('rbac_role_delete_qst')",
+        "has_variable": false,
+        "variable": "rbac_role_delete_qst"
+    },
+    {
+        "id": 236,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleFolderGUI.php",
+        "line": 666,
+        "code": "$this->lng->txt(\"info_delete_sure\")",
+        "has_variable": false,
+        "variable": "info_delete_sure"
+    },
+    {
+        "id": 238,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleFolderGUI.php",
+        "line": 667,
+        "code": "$this->lng->txt('delete')",
+        "has_variable": false,
+        "variable": "delete"
+    },
+    {
+        "id": 240,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleFolderGUI.php",
+        "line": 668,
+        "code": "$this->lng->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 242,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleFolderGUI.php",
+        "line": 687,
+        "code": "$this->lng->txt('msg_no_perm_delete')",
+        "has_variable": false,
+        "variable": "msg_no_perm_delete"
+    },
+    {
+        "id": 244,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleFolderGUI.php",
+        "line": 705,
+        "code": "$this->lng->txt(\"msg_deleted_roles_rolts\")",
+        "has_variable": false,
+        "variable": "msg_deleted_roles_rolts"
+    },
+    {
+        "id": 246,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleFolderGUI.php",
+        "line": 762,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 248,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleFolderGUI.php",
+        "line": 777,
+        "code": "$this->lng->txt(\"settings_saved\")",
+        "has_variable": false,
+        "variable": "settings_saved"
+    },
+    {
+        "id": 250,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleFolderGUI.php",
+        "line": 798,
+        "code": "$this->lng->txt('settings')",
+        "has_variable": false,
+        "variable": "settings"
+    },
+    {
+        "id": 252,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleFolderGUI.php",
+        "line": 803,
+        "code": "$this->lng->txt('adm_adm_role_protect_info')",
+        "has_variable": false,
+        "variable": "adm_adm_role_protect_info"
+    },
+    {
+        "id": 254,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleFolderGUI.php",
+        "line": 808,
+        "code": "$this->lng->txt('rbac_log')",
+        "has_variable": false,
+        "variable": "rbac_log"
+    },
+    {
+        "id": 256,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleFolderGUI.php",
+        "line": 809,
+        "code": "$this->lng->txt('rbac_log_info')",
+        "has_variable": false,
+        "variable": "rbac_log_info"
+    },
+    {
+        "id": 258,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleFolderGUI.php",
+        "line": 813,
+        "code": "$this->lng->txt('rbac_log_age')",
+        "has_variable": false,
+        "variable": "rbac_log_age"
+    },
+    {
+        "id": 260,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleFolderGUI.php",
+        "line": 814,
+        "code": "$this->lng->txt('rbac_log_age_info')",
+        "has_variable": false,
+        "variable": "rbac_log_age_info"
+    },
+    {
+        "id": 262,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleFolderGUI.php",
+        "line": 822,
+        "code": "$this->lng->txt('save')",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 264,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleGUI.php",
+        "line": 99,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 266,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleGUI.php",
+        "line": 104,
+        "code": "$this->lng->txt('role_add_user')",
+        "has_variable": false,
+        "variable": "role_add_user"
+    },
+    {
+        "id": 268,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleGUI.php",
+        "line": 243,
+        "code": "$this->lng->txt('msg_role_reserved_prefix')",
+        "has_variable": false,
+        "variable": "msg_role_reserved_prefix"
+    },
+    {
+        "id": 270,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleGUI.php",
+        "line": 253,
+        "code": "$this->lng->txt('title')",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 272,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleGUI.php",
+        "line": 259,
+        "code": "$this->lng->txt('description')",
+        "has_variable": false,
+        "variable": "description"
+    },
+    {
+        "id": 274,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleGUI.php",
+        "line": 267,
+        "code": "$this->lng->txt('ilias_id')",
+        "has_variable": false,
+        "variable": "ilias_id"
+    },
+    {
+        "id": 276,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleGUI.php",
+        "line": 274,
+        "code": "$this->lng->txt('allow_register')",
+        "has_variable": false,
+        "variable": "allow_register"
+    },
+    {
+        "id": 278,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleGUI.php",
+        "line": 276,
+        "code": "$this->lng->txt('allow_assign_users')",
+        "has_variable": false,
+        "variable": "allow_assign_users"
+    },
+    {
+        "id": 280,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleGUI.php",
+        "line": 280,
+        "code": "$this->lng->txt('role_protect_permissions')",
+        "has_variable": false,
+        "variable": "role_protect_permissions"
+    },
+    {
+        "id": 282,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleGUI.php",
+        "line": 294,
+        "code": "$this->lng->txt('role_new')",
+        "has_variable": false,
+        "variable": "role_new"
+    },
+    {
+        "id": 284,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleGUI.php",
+        "line": 294,
+        "code": "$this->lng->txt('save')",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 286,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleGUI.php",
+        "line": 301,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 288,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleGUI.php",
+        "line": 306,
+        "code": "$this->lng->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 290,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleGUI.php",
+        "line": 313,
+        "code": "$this->lng->txt('role_new')",
+        "has_variable": false,
+        "variable": "role_new"
+    },
+    {
+        "id": 292,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleGUI.php",
+        "line": 323,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 294,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleGUI.php",
+        "line": 341,
+        "code": "$this->lng->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 296,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleGUI.php",
+        "line": 347,
+        "code": "$this->lng->txt('role_new')",
+        "has_variable": false,
+        "variable": "role_new"
+    },
+    {
+        "id": 298,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleGUI.php",
+        "line": 367,
+        "code": "$this->lng->txt('role_added')",
+        "has_variable": false,
+        "variable": "role_added"
+    },
+    {
+        "id": 300,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleGUI.php",
+        "line": 404,
+        "code": "$this->lng->txt('saved_successfully')",
+        "has_variable": false,
+        "variable": "saved_successfully"
+    },
+    {
+        "id": 302,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleGUI.php",
+        "line": 417,
+        "code": "$this->lng->txt('rbac_delete_role')",
+        "has_variable": false,
+        "variable": "rbac_delete_role"
+    },
+    {
+        "id": 304,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleGUI.php",
+        "line": 426,
+        "code": "$this->lng->txt('role_edit')",
+        "has_variable": false,
+        "variable": "role_edit"
+    },
+    {
+        "id": 306,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleGUI.php",
+        "line": 442,
+        "code": "$this->lng->txt('msg_no_perm_write')",
+        "has_variable": false,
+        "variable": "msg_no_perm_write"
+    },
+    {
+        "id": 308,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleGUI.php",
+        "line": 463,
+        "code": "$this->lng->txt(\"adopt_perm_from_template\")",
+        "has_variable": false,
+        "variable": "adopt_perm_from_template"
+    },
+    {
+        "id": 310,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleGUI.php",
+        "line": 471,
+        "code": "$this->lng->txt('rbac_delete_role')",
+        "has_variable": false,
+        "variable": "rbac_delete_role"
+    },
+    {
+        "id": 312,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleGUI.php",
+        "line": 522,
+        "code": "$this->lng->txt('save')",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 314,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleGUI.php",
+        "line": 558,
+        "code": "$this->lng->txt('obj_role')",
+        "has_variable": false,
+        "variable": "obj_role"
+    },
+    {
+        "id": 316,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleGUI.php",
+        "line": 558,
+        "code": "$this->lng->txt('obj_rolt')",
+        "has_variable": false,
+        "variable": "obj_rolt"
+    },
+    {
+        "id": 318,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleGUI.php",
+        "line": 566,
+        "code": "$this->lng->txt(\"adopt_perm_from_template\")",
+        "has_variable": false,
+        "variable": "adopt_perm_from_template"
+    },
+    {
+        "id": 320,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleGUI.php",
+        "line": 580,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 322,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleGUI.php",
+        "line": 584,
+        "code": "$this->lng->txt('rbac_role_delete_qst')",
+        "has_variable": false,
+        "variable": "rbac_role_delete_qst"
+    },
+    {
+        "id": 324,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleGUI.php",
+        "line": 586,
+        "code": "$this->lng->txt('rbac_role_delete_self')",
+        "has_variable": false,
+        "variable": "rbac_role_delete_self"
+    },
+    {
+        "id": 326,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleGUI.php",
+        "line": 593,
+        "code": "$this->lng->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 328,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleGUI.php",
+        "line": 594,
+        "code": "$this->lng->txt('rbac_delete_role')",
+        "has_variable": false,
+        "variable": "rbac_delete_role"
+    },
+    {
+        "id": 330,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleGUI.php",
+        "line": 612,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 332,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleGUI.php",
+        "line": 618,
+        "code": "$this->lng->txt('msg_deleted_role')",
+        "has_variable": false,
+        "variable": "msg_deleted_role"
+    },
+    {
+        "id": 334,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleGUI.php",
+        "line": 630,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 336,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleGUI.php",
+        "line": 707,
+        "code": "$this->lng->txt(\"saved_successfully\")",
+        "has_variable": false,
+        "variable": "saved_successfully"
+    },
+    {
+        "id": 338,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleGUI.php",
+        "line": 744,
+        "code": "$this->lng->txt(\"saved_successfully\")",
+        "has_variable": false,
+        "variable": "saved_successfully"
+    },
+    {
+        "id": 340,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleGUI.php",
+        "line": 764,
+        "code": "$this->lng->txt('select_one')",
+        "has_variable": false,
+        "variable": "select_one"
+    },
+    {
+        "id": 342,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleGUI.php",
+        "line": 771,
+        "code": "$this->lng->txt('msg_no_perm_perm')",
+        "has_variable": false,
+        "variable": "msg_no_perm_perm"
+    },
+    {
+        "id": 344,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleGUI.php",
+        "line": 774,
+        "code": "$this->lng->txt(\"msg_perm_adopted_from_itself\")",
+        "has_variable": false,
+        "variable": "msg_perm_adopted_from_itself"
+    },
+    {
+        "id": 346,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleGUI.php",
+        "line": 791,
+        "code": "$this->lng->txt(\"msg_perm_adopted_from1\")",
+        "has_variable": false,
+        "variable": "msg_perm_adopted_from1"
+    },
+    {
+        "id": 348,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleGUI.php",
+        "line": 793,
+        "code": "$this->lng->txt(\"msg_perm_adopted_from2\")",
+        "has_variable": false,
+        "variable": "msg_perm_adopted_from2"
+    },
+    {
+        "id": 350,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleGUI.php",
+        "line": 805,
+        "code": "$this->lng->txt('msg_no_perm_assign_user_to_role')",
+        "has_variable": false,
+        "variable": "msg_no_perm_assign_user_to_role"
+    },
+    {
+        "id": 352,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleGUI.php",
+        "line": 810,
+        "code": "$this->lng->txt('err_role_not_assignable')",
+        "has_variable": false,
+        "variable": "err_role_not_assignable"
+    },
+    {
+        "id": 354,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleGUI.php",
+        "line": 815,
+        "code": "$this->lng->txt('search_err_user_not_exist')",
+        "has_variable": false,
+        "variable": "search_err_user_not_exist"
+    },
+    {
+        "id": 356,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleGUI.php",
+        "line": 826,
+        "code": "$this->lng->txt(\"rbac_msg_user_already_assigned\")",
+        "has_variable": false,
+        "variable": "rbac_msg_user_already_assigned"
+    },
+    {
+        "id": 358,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleGUI.php",
+        "line": 833,
+        "code": "$this->lng->txt('msg_anonymous_cannot_be_assigned')",
+        "has_variable": false,
+        "variable": "msg_anonymous_cannot_be_assigned"
+    },
+    {
+        "id": 360,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleGUI.php",
+        "line": 842,
+        "code": "$this->lng->txt(\"msg_userassignment_changed\")",
+        "has_variable": false,
+        "variable": "msg_userassignment_changed"
+    },
+    {
+        "id": 362,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleGUI.php",
+        "line": 850,
+        "code": "$this->lng->txt(\"msg_no_perm_assign_user_to_role\")",
+        "has_variable": false,
+        "variable": "msg_no_perm_assign_user_to_role"
+    },
+    {
+        "id": 364,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleGUI.php",
+        "line": 873,
+        "code": "$this->lng->txt(\"no_checkbox\")",
+        "has_variable": false,
+        "variable": "no_checkbox"
+    },
+    {
+        "id": 366,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleGUI.php",
+        "line": 913,
+        "code": "$this->lng->txt('msg_is_last_role')",
+        "has_variable": false,
+        "variable": "msg_is_last_role"
+    },
+    {
+        "id": 368,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleGUI.php",
+        "line": 913,
+        "code": "$this->lng->txt('msg_min_one_role')",
+        "has_variable": false,
+        "variable": "msg_min_one_role"
+    },
+    {
+        "id": 370,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleGUI.php",
+        "line": 915,
+        "code": "$this->lng->txt(\"msg_userassignment_changed\")",
+        "has_variable": false,
+        "variable": "msg_userassignment_changed"
+    },
+    {
+        "id": 372,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleGUI.php",
+        "line": 927,
+        "code": "$this->lng->txt(\"msg_no_perm_assign_user_to_role\")",
+        "has_variable": false,
+        "variable": "msg_no_perm_assign_user_to_role"
+    },
+    {
+        "id": 374,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleGUI.php",
+        "line": 947,
+        "code": "$this->lng->txt('user')",
+        "has_variable": false,
+        "variable": "user"
+    },
+    {
+        "id": 376,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleGUI.php",
+        "line": 948,
+        "code": "$this->lng->txt('add')",
+        "has_variable": false,
+        "variable": "add"
+    },
+    {
+        "id": 378,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleGUI.php",
+        "line": 956,
+        "code": "$this->lng->txt('search_user')",
+        "has_variable": false,
+        "variable": "search_user"
+    },
+    {
+        "id": 380,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleGUI.php",
+        "line": 965,
+        "code": "$this->lng->txt('role_mailto')",
+        "has_variable": false,
+        "variable": "role_mailto"
+    },
+    {
+        "id": 382,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleGUI.php",
+        "line": 998,
+        "code": "$this->lng->txt('obj_' . $this->getParentType())",
+        "has_variable": true,
+        "variable": "'obj_' . $this->getParentType()"
+    },
+    {
+        "id": 384,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleGUI.php",
+        "line": 1032,
+        "code": "$this->lng->txt('btn_back')",
+        "has_variable": false,
+        "variable": "btn_back"
+    },
+    {
+        "id": 386,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleGUI.php",
+        "line": 1141,
+        "code": "$this->lng->txt('rbac_change_existing_confirm_tbl')",
+        "has_variable": false,
+        "variable": "rbac_change_existing_confirm_tbl"
+    },
+    {
+        "id": 388,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleGUI.php",
+        "line": 1143,
+        "code": "$this->lng->txt('change_existing_objects')",
+        "has_variable": false,
+        "variable": "change_existing_objects"
+    },
+    {
+        "id": 390,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleGUI.php",
+        "line": 1144,
+        "code": "$this->lng->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 392,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleGUI.php",
+        "line": 1150,
+        "code": "$this->lng->txt('rbac_local_policies')",
+        "has_variable": false,
+        "variable": "rbac_local_policies"
+    },
+    {
+        "id": 394,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleGUI.php",
+        "line": 1155,
+        "code": "$this->lng->txt('rbac_keep_local_policies')",
+        "has_variable": false,
+        "variable": "rbac_keep_local_policies"
+    },
+    {
+        "id": 396,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleGUI.php",
+        "line": 1157,
+        "code": "$this->lng->txt('rbac_keep_local_policies_info')",
+        "has_variable": false,
+        "variable": "rbac_keep_local_policies_info"
+    },
+    {
+        "id": 398,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleGUI.php",
+        "line": 1162,
+        "code": "$this->lng->txt('rbac_keep_local_policies')",
+        "has_variable": false,
+        "variable": "rbac_keep_local_policies"
+    },
+    {
+        "id": 400,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleGUI.php",
+        "line": 1164,
+        "code": "$this->lng->txt('rbac_unprotected_keep_local_policies_info')",
+        "has_variable": false,
+        "variable": "rbac_unprotected_keep_local_policies_info"
+    },
+    {
+        "id": 402,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleGUI.php",
+        "line": 1171,
+        "code": "$this->lng->txt('rbac_delete_local_policies')",
+        "has_variable": false,
+        "variable": "rbac_delete_local_policies"
+    },
+    {
+        "id": 404,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleGUI.php",
+        "line": 1173,
+        "code": "$this->lng->txt('rbac_delete_local_policies_info')",
+        "has_variable": false,
+        "variable": "rbac_delete_local_policies_info"
+    },
+    {
+        "id": 406,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleGUI.php",
+        "line": 1177,
+        "code": "$this->lng->txt('rbac_delete_local_policies')",
+        "has_variable": false,
+        "variable": "rbac_delete_local_policies"
+    },
+    {
+        "id": 408,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleGUI.php",
+        "line": 1179,
+        "code": "$this->lng->txt('rbac_unprotected_delete_local_policies_info')",
+        "has_variable": false,
+        "variable": "rbac_unprotected_delete_local_policies_info"
+    },
+    {
+        "id": 410,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleGUI.php",
+        "line": 1212,
+        "code": "$this->lng->txt('settings_saved')",
+        "has_variable": false,
+        "variable": "settings_saved"
+    },
+    {
+        "id": 412,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleGUI.php",
+        "line": 1249,
+        "code": "$this->lng->txt('select_one')",
+        "has_variable": false,
+        "variable": "select_one"
+    },
+    {
+        "id": 414,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleGUI.php",
+        "line": 1257,
+        "code": "$this->lng->txt('clipboard_user_added')",
+        "has_variable": false,
+        "variable": "clipboard_user_added"
+    },
+    {
+        "id": 416,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleGUI.php",
+        "line": 1307,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 418,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleGUI.php",
+        "line": 1312,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 420,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleGUI.php",
+        "line": 1319,
+        "code": "$this->lng->txt('rbac_role_delete_qst')",
+        "has_variable": false,
+        "variable": "rbac_role_delete_qst"
+    },
+    {
+        "id": 422,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleGUI.php",
+        "line": 1321,
+        "code": "$this->lng->txt('rbac_role_delete_self')",
+        "has_variable": false,
+        "variable": "rbac_role_delete_self"
+    },
+    {
+        "id": 424,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleGUI.php",
+        "line": 1324,
+        "code": "$this->lng->txt('confirm')",
+        "has_variable": false,
+        "variable": "confirm"
+    },
+    {
+        "id": 426,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleTemplateGUI.php",
+        "line": 81,
+        "code": "$this->lng->txt('msg_role_reserved_prefix')",
+        "has_variable": false,
+        "variable": "msg_role_reserved_prefix"
+    },
+    {
+        "id": 428,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleTemplateGUI.php",
+        "line": 85,
+        "code": "$this->lng->txt('title')",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 430,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleTemplateGUI.php",
+        "line": 93,
+        "code": "$this->lng->txt('description')",
+        "has_variable": false,
+        "variable": "description"
+    },
+    {
+        "id": 432,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleTemplateGUI.php",
+        "line": 99,
+        "code": "$this->lng->txt('ilias_id')",
+        "has_variable": false,
+        "variable": "ilias_id"
+    },
+    {
+        "id": 434,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleTemplateGUI.php",
+        "line": 105,
+        "code": "$this->lng->txt('role_protect_permissions')",
+        "has_variable": false,
+        "variable": "role_protect_permissions"
+    },
+    {
+        "id": 436,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleTemplateGUI.php",
+        "line": 119,
+        "code": "$this->lng->txt('rolt_new')",
+        "has_variable": false,
+        "variable": "rolt_new"
+    },
+    {
+        "id": 438,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleTemplateGUI.php",
+        "line": 119,
+        "code": "$this->lng->txt('save')",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 440,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleTemplateGUI.php",
+        "line": 126,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 442,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleTemplateGUI.php",
+        "line": 130,
+        "code": "$this->lng->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 444,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleTemplateGUI.php",
+        "line": 137,
+        "code": "$this->lng->txt('rolt_new')",
+        "has_variable": false,
+        "variable": "rolt_new"
+    },
+    {
+        "id": 446,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleTemplateGUI.php",
+        "line": 152,
+        "code": "$this->lng->txt(\"msg_no_perm_write\")",
+        "has_variable": false,
+        "variable": "msg_no_perm_write"
+    },
+    {
+        "id": 448,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleTemplateGUI.php",
+        "line": 158,
+        "code": "$this->lng->txt('rolt_edit')",
+        "has_variable": false,
+        "variable": "rolt_edit"
+    },
+    {
+        "id": 450,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleTemplateGUI.php",
+        "line": 168,
+        "code": "$this->lng->txt(\"msg_no_perm_create_rolt\")",
+        "has_variable": false,
+        "variable": "msg_no_perm_create_rolt"
+    },
+    {
+        "id": 452,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleTemplateGUI.php",
+        "line": 175,
+        "code": "$this->lng->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 454,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleTemplateGUI.php",
+        "line": 182,
+        "code": "$this->lng->txt('rolt_new')",
+        "has_variable": false,
+        "variable": "rolt_new"
+    },
+    {
+        "id": 456,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleTemplateGUI.php",
+        "line": 200,
+        "code": "$this->lng->txt(\"rolt_added\")",
+        "has_variable": false,
+        "variable": "rolt_added"
+    },
+    {
+        "id": 458,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleTemplateGUI.php",
+        "line": 208,
+        "code": "$this->lng->txt('msg_no_perm_modify_rolt')",
+        "has_variable": false,
+        "variable": "msg_no_perm_modify_rolt"
+    },
+    {
+        "id": 460,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleTemplateGUI.php",
+        "line": 217,
+        "code": "$this->lng->txt('rolt_edit')",
+        "has_variable": false,
+        "variable": "rolt_edit"
+    },
+    {
+        "id": 462,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleTemplateGUI.php",
+        "line": 236,
+        "code": "$this->lng->txt(\"saved_successfully\")",
+        "has_variable": false,
+        "variable": "saved_successfully"
+    },
+    {
+        "id": 464,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleTemplateGUI.php",
+        "line": 243,
+        "code": "$this->lng->txt('msg_no_perm_perm')",
+        "has_variable": false,
+        "variable": "msg_no_perm_perm"
+    },
+    {
+        "id": 466,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleTemplateGUI.php",
+        "line": 291,
+        "code": "$this->lng->txt('save')",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 468,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleTemplateGUI.php",
+        "line": 304,
+        "code": "$this->lng->txt('msg_no_perm_perm')",
+        "has_variable": false,
+        "variable": "msg_no_perm_perm"
+    },
+    {
+        "id": 470,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleTemplateGUI.php",
+        "line": 334,
+        "code": "$this->lng->txt(\"saved_successfully\")",
+        "has_variable": false,
+        "variable": "saved_successfully"
+    },
+    {
+        "id": 472,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleTemplateGUI.php",
+        "line": 349,
+        "code": "$this->lng->txt('msg_no_perm_perm')",
+        "has_variable": false,
+        "variable": "msg_no_perm_perm"
+    },
+    {
+        "id": 474,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleTemplateGUI.php",
+        "line": 351,
+        "code": "$this->lng->txt(\"msg_perm_adopted_from_itself\")",
+        "has_variable": false,
+        "variable": "msg_perm_adopted_from_itself"
+    },
+    {
+        "id": 476,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleTemplateGUI.php",
+        "line": 366,
+        "code": "$this->lng->txt(\"msg_perm_adopted_from1\")",
+        "has_variable": false,
+        "variable": "msg_perm_adopted_from1"
+    },
+    {
+        "id": 478,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleTemplateGUI.php",
+        "line": 366,
+        "code": "$this->lng->txt(\"msg_perm_adopted_from2\")",
+        "has_variable": false,
+        "variable": "msg_perm_adopted_from2"
+    },
+    {
+        "id": 480,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleTemplateGUI.php",
+        "line": 381,
+        "code": "$this->lng->txt('btn_back')",
+        "has_variable": false,
+        "variable": "btn_back"
+    },
+    {
+        "id": 482,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleTemplateGUI.php",
+        "line": 386,
+        "code": "$this->lng->txt('settings')",
+        "has_variable": false,
+        "variable": "settings"
+    },
+    {
+        "id": 484,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleTemplateGUI.php",
+        "line": 393,
+        "code": "$this->lng->txt('default_perm_settings')",
+        "has_variable": false,
+        "variable": "default_perm_settings"
+    },
+    {
+        "id": 486,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRoleTemplateGUI.php",
+        "line": 411,
+        "code": "$this->lng->txt('obj_' . ilObject::_lookupType(\n                    ilObject::_lookupObjId($ref_id)\n                ))",
+        "has_variable": true,
+        "variable": "'obj_' . ilObject::_lookupType(\n                    ilObject::_lookupObjId($ref_id)\n                )"
+    },
+    {
+        "id": 488,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjectPermissionStatusGUI.php",
+        "line": 101,
+        "code": "$this->lng->txt('info_remark_interrupted')",
+        "has_variable": false,
+        "variable": "info_remark_interrupted"
+    },
+    {
+        "id": 490,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjectPermissionStatusGUI.php",
+        "line": 112,
+        "code": "$this->lng->txt('user')",
+        "has_variable": false,
+        "variable": "user"
+    },
+    {
+        "id": 492,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjectPermissionStatusGUI.php",
+        "line": 114,
+        "code": "$this->lng->txt(\"username\")",
+        "has_variable": false,
+        "variable": "username"
+    },
+    {
+        "id": 494,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjectPermissionStatusGUI.php",
+        "line": 121,
+        "code": "$this->lng->txt(\"info_change_user_view\")",
+        "has_variable": false,
+        "variable": "info_change_user_view"
+    },
+    {
+        "id": 496,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjectPermissionStatusGUI.php",
+        "line": 132,
+        "code": "$this->lng->txt(\"info_access_and_status_info\")",
+        "has_variable": false,
+        "variable": "info_access_and_status_info"
+    },
+    {
+        "id": 498,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjectPermissionStatusGUI.php",
+        "line": 149,
+        "code": "$this->lng->txt(\"info_access_permissions\")",
+        "has_variable": false,
+        "variable": "info_access_permissions"
+    },
+    {
+        "id": 500,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjectPermissionStatusGUI.php",
+        "line": 163,
+        "code": "$this->lng->txt(\"info_available_roles\")",
+        "has_variable": false,
+        "variable": "info_available_roles"
+    },
+    {
+        "id": 502,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjectPermissionStatusGUI.php",
+        "line": 243,
+        "code": "$this->lng->txt('info_err_user_not_exist')",
+        "has_variable": false,
+        "variable": "info_err_user_not_exist"
+    },
+    {
+        "id": 504,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjectPermissionStatusGUI.php",
+        "line": 246,
+        "code": "$this->lng->txt('info_user_view_changed')",
+        "has_variable": false,
+        "variable": "info_user_view_changed"
+    },
+    {
+        "id": 506,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjectPermissionStatusGUI.php",
+        "line": 260,
+        "code": "$this->lng->txt('user')",
+        "has_variable": false,
+        "variable": "user"
+    },
+    {
+        "id": 508,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjectPermissionStatusGUI.php",
+        "line": 271,
+        "code": "$this->lng->txt(\"roles\")",
+        "has_variable": false,
+        "variable": "roles"
+    },
+    {
+        "id": 510,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjectPermissionStatusGUI.php",
+        "line": 274,
+        "code": "$this->lng->txt(\"status\")",
+        "has_variable": false,
+        "variable": "status"
+    },
+    {
+        "id": 512,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjectPermissionStatusGUI.php",
+        "line": 311,
+        "code": "$this->lng->txt(\"access\")",
+        "has_variable": false,
+        "variable": "access"
+    },
+    {
+        "id": 514,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjectPermissionStatusGUI.php",
+        "line": 322,
+        "code": "$this->lng->txt(\"obj_\" . $obj->getType())",
+        "has_variable": true,
+        "variable": "\"obj_\" . $obj->getType()"
+    },
+    {
+        "id": 516,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjectPermissionStatusGUI.php",
+        "line": 378,
+        "code": "$this->lng->txt('rbac_' . $ops['operation'])",
+        "has_variable": true,
+        "variable": "'rbac_' . $ops['operation']"
+    },
+    {
+        "id": 518,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjectPermissionStatusGUI.php",
+        "line": 380,
+        "code": "$this->lng->txt($this->object->getType() . \"_\" . $ops['operation'])",
+        "has_variable": true,
+        "variable": "$this->object->getType() . \"_\" . $ops['operation']"
+    },
+    {
+        "id": 520,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjectPermissionStatusGUI.php",
+        "line": 392,
+        "code": "$this->lng->txt('info_owner_of_object')",
+        "has_variable": false,
+        "variable": "info_owner_of_object"
+    },
+    {
+        "id": 522,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjectPermissionStatusGUI.php",
+        "line": 403,
+        "code": "$this->lng->txt('none')",
+        "has_variable": false,
+        "variable": "none"
+    },
+    {
+        "id": 524,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjectPermissionStatusGUI.php",
+        "line": 468,
+        "code": "$this->lng->txt(\"global\")",
+        "has_variable": false,
+        "variable": "global"
+    },
+    {
+        "id": 526,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjectRolePermissionTableGUI.php",
+        "line": 62,
+        "code": "$this->lng->txt('permission_settings')",
+        "has_variable": false,
+        "variable": "permission_settings"
+    },
+    {
+        "id": 528,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjectRolePermissionTableGUI.php",
+        "line": 71,
+        "code": "$this->lng->txt('msg_no_roles_of_type')",
+        "has_variable": false,
+        "variable": "msg_no_roles_of_type"
+    },
+    {
+        "id": 530,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjectRolePermissionTableGUI.php",
+        "line": 72,
+        "code": "$this->lng->txt('save')",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 532,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjectRolePermissionTableGUI.php",
+        "line": 163,
+        "code": "$this->lng->txt('filter_all_roles')",
+        "has_variable": false,
+        "variable": "filter_all_roles"
+    },
+    {
+        "id": 534,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjectRolePermissionTableGUI.php",
+        "line": 164,
+        "code": "$this->lng->txt('filter_global_roles')",
+        "has_variable": false,
+        "variable": "filter_global_roles"
+    },
+    {
+        "id": 536,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjectRolePermissionTableGUI.php",
+        "line": 165,
+        "code": "$this->lng->txt('filter_local_roles')",
+        "has_variable": false,
+        "variable": "filter_local_roles"
+    },
+    {
+        "id": 538,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjectRolePermissionTableGUI.php",
+        "line": 166,
+        "code": "$this->lng->txt('filter_roles_local_policy')",
+        "has_variable": false,
+        "variable": "filter_roles_local_policy"
+    },
+    {
+        "id": 540,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjectRolePermissionTableGUI.php",
+        "line": 167,
+        "code": "$this->lng->txt('filter_local_roles_object')",
+        "has_variable": false,
+        "variable": "filter_local_roles_object"
+    },
+    {
+        "id": 542,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjectRolePermissionTableGUI.php",
+        "line": 186,
+        "code": "$this->lng->txt('rbac_local_policy')",
+        "has_variable": false,
+        "variable": "rbac_local_policy"
+    },
+    {
+        "id": 544,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjectRolePermissionTableGUI.php",
+        "line": 187,
+        "code": "$this->lng->txt('perm_use_local_policy_desc')",
+        "has_variable": false,
+        "variable": "perm_use_local_policy_desc"
+    },
+    {
+        "id": 546,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjectRolePermissionTableGUI.php",
+        "line": 202,
+        "code": "$this->lng->txt('role_protect_permissions')",
+        "has_variable": false,
+        "variable": "role_protect_permissions"
+    },
+    {
+        "id": 548,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjectRolePermissionTableGUI.php",
+        "line": 203,
+        "code": "$this->lng->txt('role_protect_permissions_desc')",
+        "has_variable": false,
+        "variable": "role_protect_permissions_desc"
+    },
+    {
+        "id": 550,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjectRolePermissionTableGUI.php",
+        "line": 214,
+        "code": "$this->lng->txt('role_block_role')",
+        "has_variable": false,
+        "variable": "role_block_role"
+    },
+    {
+        "id": 552,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjectRolePermissionTableGUI.php",
+        "line": 215,
+        "code": "$this->lng->txt('role_block_role_desc')",
+        "has_variable": false,
+        "variable": "role_block_role_desc"
+    },
+    {
+        "id": 554,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjectRolePermissionTableGUI.php",
+        "line": 239,
+        "code": "$this->lng->txt('select_all')",
+        "has_variable": false,
+        "variable": "select_all"
+    },
+    {
+        "id": 556,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjectRolePermissionTableGUI.php",
+        "line": 248,
+        "code": "$this->lng->txt('perm_class_object')",
+        "has_variable": false,
+        "variable": "perm_class_object"
+    },
+    {
+        "id": 558,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjectRolePermissionTableGUI.php",
+        "line": 249,
+        "code": "$this->lng->txt('perm_class_object_desc')",
+        "has_variable": false,
+        "variable": "perm_class_object_desc"
+    },
+    {
+        "id": 560,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjectRolePermissionTableGUI.php",
+        "line": 257,
+        "code": "$this->lng->txt('perm_class_create')",
+        "has_variable": false,
+        "variable": "perm_class_create"
+    },
+    {
+        "id": 562,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjectRolePermissionTableGUI.php",
+        "line": 258,
+        "code": "$this->lng->txt('perm_class_create_desc')",
+        "has_variable": false,
+        "variable": "perm_class_create_desc"
+    },
+    {
+        "id": 564,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjectRolePermissionTableGUI.php",
+        "line": 277,
+        "code": "$this->lng->txt('obj_' . substr($a_set['perm']['operation'], 7))",
+        "has_variable": true,
+        "variable": "'obj_' . substr($a_set['perm']['operation'], 7)"
+    },
+    {
+        "id": 566,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjectRolePermissionTableGUI.php",
+        "line": 288,
+        "code": "$this->lng->txt($this->getObjType() . '_' . $a_set['perm']['operation'] . '_short')",
+        "has_variable": true,
+        "variable": "$this->getObjType() . '_' . $a_set['perm']['operation'] . '_short'"
+    },
+    {
+        "id": 568,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjectRolePermissionTableGUI.php",
+        "line": 290,
+        "code": "$this->lng->txt($a_set['perm']['operation'])",
+        "has_variable": true,
+        "variable": "_"
+    },
+    {
+        "id": 570,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjectRolePermissionTableGUI.php",
+        "line": 309,
+        "code": "$this->lng->txt('rbac_' . $a_set['perm']['operation'])",
+        "has_variable": true,
+        "variable": "'rbac_' . $a_set['perm']['operation']"
+    },
+    {
+        "id": 572,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjectRolePermissionTableGUI.php",
+        "line": 314,
+        "code": "$this->lng->txt($this->getObjType() . '_' . $a_set['perm']['operation'])",
+        "has_variable": true,
+        "variable": "$this->getObjType() . '_' . $a_set['perm']['operation']"
+    },
+    {
+        "id": 574,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjectRolePermissionTableGUI.php",
+        "line": 536,
+        "code": "$this->lng->txt('perm_' . $protected_status . 'global_role')",
+        "has_variable": true,
+        "variable": "'perm_' . $protected_status . 'global_role'"
+    },
+    {
+        "id": 576,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjectRolePermissionTableGUI.php",
+        "line": 538,
+        "code": "$this->lng->txt('perm_' . $protected_status . 'local_role')",
+        "has_variable": true,
+        "variable": "'perm_' . $protected_status . 'local_role'"
+    },
+    {
+        "id": 578,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjectRolePermissionTableGUI.php",
+        "line": 555,
+        "code": "$this->lng->txt('obj_' . ilObject::_lookupType($obj))",
+        "has_variable": true,
+        "variable": "'obj_' . ilObject::_lookupType($obj)"
+    },
+    {
+        "id": 580,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjectRolePermissionTableGUI.php",
+        "line": 559,
+        "code": "$this->lng->txt('perm_role_path_info_created')",
+        "has_variable": false,
+        "variable": "perm_role_path_info_created"
+    },
+    {
+        "id": 582,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjectRolePermissionTableGUI.php",
+        "line": 588,
+        "code": "$this->lng->txt('perm_role_path_info_inheritance')",
+        "has_variable": false,
+        "variable": "perm_role_path_info_inheritance"
+    },
+    {
+        "id": 584,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjectRolePermissionTableGUI.php",
+        "line": 589,
+        "code": "$this->lng->txt('obj_' . $p_type)",
+        "has_variable": true,
+        "variable": "'obj_' . $p_type"
+    },
+    {
+        "id": 586,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjectRoleTemplateOptionsTableGUI.php",
+        "line": 107,
+        "code": "$this->lng->txt('change_existing_objects')",
+        "has_variable": false,
+        "variable": "change_existing_objects"
+    },
+    {
+        "id": 588,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjectRoleTemplateOptionsTableGUI.php",
+        "line": 108,
+        "code": "$this->lng->txt('change_existing_objects_desc')",
+        "has_variable": false,
+        "variable": "change_existing_objects_desc"
+    },
+    {
+        "id": 590,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjectRoleTemplateOptionsTableGUI.php",
+        "line": 120,
+        "code": "$this->lng->txt('role_protect_permissions')",
+        "has_variable": false,
+        "variable": "role_protect_permissions"
+    },
+    {
+        "id": 592,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjectRoleTemplateOptionsTableGUI.php",
+        "line": 121,
+        "code": "$this->lng->txt('role_protect_permissions_desc')",
+        "has_variable": false,
+        "variable": "role_protect_permissions_desc"
+    },
+    {
+        "id": 594,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjectRoleTemplatePermissionTableGUI.php",
+        "line": 71,
+        "code": "$this->lng->txt('msg_no_roles_of_type')",
+        "has_variable": false,
+        "variable": "msg_no_roles_of_type"
+    },
+    {
+        "id": 596,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjectRoleTemplatePermissionTableGUI.php",
+        "line": 147,
+        "code": "$this->lng->txt('change_existing_object_type_desc')",
+        "has_variable": false,
+        "variable": "change_existing_object_type_desc"
+    },
+    {
+        "id": 598,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjectRoleTemplatePermissionTableGUI.php",
+        "line": 152,
+        "code": "$this->lng->txt(\"change_existing_prefix_single\")",
+        "has_variable": false,
+        "variable": "change_existing_prefix_single"
+    },
+    {
+        "id": 600,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjectRoleTemplatePermissionTableGUI.php",
+        "line": 153,
+        "code": "$this->lng->txt(\"obj_\" . $this->getTemplateType())",
+        "has_variable": true,
+        "variable": "\"obj_\" . $this->getTemplateType()"
+    },
+    {
+        "id": 602,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjectRoleTemplatePermissionTableGUI.php",
+        "line": 154,
+        "code": "$this->lng->txt(\"change_existing_suffix_single\")",
+        "has_variable": false,
+        "variable": "change_existing_suffix_single"
+    },
+    {
+        "id": 604,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjectRoleTemplatePermissionTableGUI.php",
+        "line": 162,
+        "code": "$this->lng->txt('objs_' . $this->getTemplateType())",
+        "has_variable": true,
+        "variable": "'objs_' . $this->getTemplateType()"
+    },
+    {
+        "id": 606,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjectRoleTemplatePermissionTableGUI.php",
+        "line": 165,
+        "code": "$this->lng->txt('change_existing_prefix')",
+        "has_variable": false,
+        "variable": "change_existing_prefix"
+    },
+    {
+        "id": 608,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjectRoleTemplatePermissionTableGUI.php",
+        "line": 167,
+        "code": "$this->lng->txt('change_existing_suffix')",
+        "has_variable": false,
+        "variable": "change_existing_suffix"
+    },
+    {
+        "id": 610,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjectRoleTemplatePermissionTableGUI.php",
+        "line": 206,
+        "code": "$this->lng->txt($this->getTemplateType().'_'.$row['name'])",
+        "has_variable": true,
+        "variable": "$this->getTemplateType().'_'.$row['name']"
+    },
+    {
+        "id": 612,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjectRoleTemplatePermissionTableGUI.php",
+        "line": 207,
+        "code": "$this->lng->txt('rbac' . '_' . $a_set['name'])",
+        "has_variable": true,
+        "variable": "'rbac' . '_' . $a_set['name']"
+    },
+    {
+        "id": 614,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjectRoleTemplatePermissionTableGUI.php",
+        "line": 209,
+        "code": "$this->lng->txt($this->getTemplateType() . '_' . $a_set['name'] . '_short')",
+        "has_variable": true,
+        "variable": "$this->getTemplateType() . '_' . $a_set['name'] . '_short'"
+    },
+    {
+        "id": 616,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjectRoleTemplatePermissionTableGUI.php",
+        "line": 210,
+        "code": "$this->lng->txt($this->getTemplateType() . '_' . $a_set['name'])",
+        "has_variable": true,
+        "variable": "$this->getTemplateType() . '_' . $a_set['name']"
+    },
+    {
+        "id": 618,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjectRoleTemplatePermissionTableGUI.php",
+        "line": 212,
+        "code": "$this->lng->txt($a_set['name'])",
+        "has_variable": true,
+        "variable": "_"
+    },
+    {
+        "id": 620,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjectRoleTemplatePermissionTableGUI.php",
+        "line": 212,
+        "code": "$this->lng->txt($this->getTemplateType() . '_' . $a_set['name'])",
+        "has_variable": true,
+        "variable": "$this->getTemplateType() . '_' . $a_set['name']"
+    },
+    {
+        "id": 622,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilPermissionGUI.php",
+        "line": 145,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 624,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilPermissionGUI.php",
+        "line": 212,
+        "code": "$this->lng->txt('rbac_add_new_local_role')",
+        "has_variable": false,
+        "variable": "rbac_add_new_local_role"
+    },
+    {
+        "id": 626,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilPermissionGUI.php",
+        "line": 219,
+        "code": "$this->lng->txt('rbac_import_role')",
+        "has_variable": false,
+        "variable": "rbac_import_role"
+    },
+    {
+        "id": 628,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilPermissionGUI.php",
+        "line": 470,
+        "code": "$this->lng->txt('settings_saved')",
+        "has_variable": false,
+        "variable": "settings_saved"
+    },
+    {
+        "id": 630,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilPermissionGUI.php",
+        "line": 478,
+        "code": "$this->lng->txt('role_confirm_block_role_info')",
+        "has_variable": false,
+        "variable": "role_confirm_block_role_info"
+    },
+    {
+        "id": 632,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilPermissionGUI.php",
+        "line": 484,
+        "code": "$this->lng->txt('role_confirm_unblock_role_info')",
+        "has_variable": false,
+        "variable": "role_confirm_unblock_role_info"
+    },
+    {
+        "id": 634,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilPermissionGUI.php",
+        "line": 491,
+        "code": "$this->lng->txt('role_confirm_block_role_header')",
+        "has_variable": false,
+        "variable": "role_confirm_block_role_header"
+    },
+    {
+        "id": 636,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilPermissionGUI.php",
+        "line": 492,
+        "code": "$this->lng->txt('role_confirm_block_role')",
+        "has_variable": false,
+        "variable": "role_confirm_block_role"
+    },
+    {
+        "id": 638,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilPermissionGUI.php",
+        "line": 493,
+        "code": "$this->lng->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 640,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilPermissionGUI.php",
+        "line": 499,
+        "code": "$this->lng->txt('role_blocked')",
+        "has_variable": false,
+        "variable": "role_blocked"
+    },
+    {
+        "id": 642,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilPermissionGUI.php",
+        "line": 506,
+        "code": "$this->lng->txt('role_unblocked')",
+        "has_variable": false,
+        "variable": "role_unblocked"
+    },
+    {
+        "id": 644,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilPermissionGUI.php",
+        "line": 529,
+        "code": "$this->lng->txt('settings_saved')",
+        "has_variable": false,
+        "variable": "settings_saved"
+    },
+    {
+        "id": 646,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilPermissionGUI.php",
+        "line": 622,
+        "code": "$this->lng->txt('rbac_role_imported')",
+        "has_variable": false,
+        "variable": "rbac_role_imported"
+    },
+    {
+        "id": 648,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilPermissionGUI.php",
+        "line": 633,
+        "code": "$this->lng->txt('err_check_input')",
+        "has_variable": false,
+        "variable": "err_check_input"
+    },
+    {
+        "id": 650,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilPermissionGUI.php",
+        "line": 641,
+        "code": "$this->lng->txt('rbac_import_role')",
+        "has_variable": false,
+        "variable": "rbac_import_role"
+    },
+    {
+        "id": 652,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilPermissionGUI.php",
+        "line": 642,
+        "code": "$this->lng->txt('import')",
+        "has_variable": false,
+        "variable": "import"
+    },
+    {
+        "id": 654,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilPermissionGUI.php",
+        "line": 643,
+        "code": "$this->lng->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 656,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilPermissionGUI.php",
+        "line": 645,
+        "code": "$this->lng->txt('import_file')",
+        "has_variable": false,
+        "variable": "import_file"
+    },
+    {
+        "id": 658,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilPermissionGUI.php",
+        "line": 657,
+        "code": "$this->lng->txt('role_new')",
+        "has_variable": false,
+        "variable": "role_new"
+    },
+    {
+        "id": 660,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilPermissionGUI.php",
+        "line": 658,
+        "code": "$this->lng->txt('role_new')",
+        "has_variable": false,
+        "variable": "role_new"
+    },
+    {
+        "id": 662,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilPermissionGUI.php",
+        "line": 659,
+        "code": "$this->lng->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 664,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilPermissionGUI.php",
+        "line": 661,
+        "code": "$this->lng->txt('title')",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 666,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilPermissionGUI.php",
+        "line": 663,
+        "code": "$this->lng->txt('msg_role_reserved_prefix')",
+        "has_variable": false,
+        "variable": "msg_role_reserved_prefix"
+    },
+    {
+        "id": 668,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilPermissionGUI.php",
+        "line": 669,
+        "code": "$this->lng->txt('description')",
+        "has_variable": false,
+        "variable": "description"
+    },
+    {
+        "id": 670,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilPermissionGUI.php",
+        "line": 674,
+        "code": "$this->lng->txt('role_protect_permissions')",
+        "has_variable": false,
+        "variable": "role_protect_permissions"
+    },
+    {
+        "id": 672,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilPermissionGUI.php",
+        "line": 675,
+        "code": "$this->lng->txt('role_protect_permissions_desc')",
+        "has_variable": false,
+        "variable": "role_protect_permissions_desc"
+    },
+    {
+        "id": 674,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilPermissionGUI.php",
+        "line": 679,
+        "code": "$this->lng->txt('rbac_add_recommended_content')",
+        "has_variable": false,
+        "variable": "rbac_add_recommended_content"
+    },
+    {
+        "id": 676,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilPermissionGUI.php",
+        "line": 684,
+        "code": "$this->lng->txt('rbac_add_recommended_content_info')",
+        "has_variable": false,
+        "variable": "rbac_add_recommended_content_info"
+    },
+    {
+        "id": 678,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilPermissionGUI.php",
+        "line": 691,
+        "code": "$this->lng->txt(\"rbac_role_rights_copy\")",
+        "has_variable": false,
+        "variable": "rbac_role_rights_copy"
+    },
+    {
+        "id": 680,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilPermissionGUI.php",
+        "line": 692,
+        "code": "$this->lng->txt(\"rbac_role_rights_copy_empty\")",
+        "has_variable": false,
+        "variable": "rbac_role_rights_copy_empty"
+    },
+    {
+        "id": 682,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilPermissionGUI.php",
+        "line": 709,
+        "code": "$this->lng->txt('obj_role')",
+        "has_variable": false,
+        "variable": "obj_role"
+    },
+    {
+        "id": 684,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilPermissionGUI.php",
+        "line": 709,
+        "code": "$this->lng->txt(\n                            'obj_rolt'\n                        )",
+        "has_variable": false,
+        "variable": "obj_rolt"
+    },
+    {
+        "id": 686,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilPermissionGUI.php",
+        "line": 724,
+        "code": "$this->lng->txt(\"rbac_role_rights_copy_change_existing\")",
+        "has_variable": false,
+        "variable": "rbac_role_rights_copy_change_existing"
+    },
+    {
+        "id": 688,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilPermissionGUI.php",
+        "line": 725,
+        "code": "$this->lng->txt('rbac_change_existing_objects_desc_new_role')",
+        "has_variable": false,
+        "variable": "rbac_change_existing_objects_desc_new_role"
+    },
+    {
+        "id": 690,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilPermissionGUI.php",
+        "line": 801,
+        "code": "$this->lng->txt(\"role_added\")",
+        "has_variable": false,
+        "variable": "role_added"
+    },
+    {
+        "id": 692,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilPermissionGUI.php",
+        "line": 912,
+        "code": "$this->lng->txt('settings_saved')",
+        "has_variable": false,
+        "variable": "settings_saved"
+    },
+    {
+        "id": 694,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilPermissionGUI.php",
+        "line": 920,
+        "code": "$this->lng->txt('chown_warning')",
+        "has_variable": false,
+        "variable": "chown_warning"
+    },
+    {
+        "id": 696,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilPermissionGUI.php",
+        "line": 924,
+        "code": "$this->lng->txt('info_owner_of_object')",
+        "has_variable": false,
+        "variable": "info_owner_of_object"
+    },
+    {
+        "id": 698,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilPermissionGUI.php",
+        "line": 926,
+        "code": "$this->lng->txt('login')",
+        "has_variable": false,
+        "variable": "login"
+    },
+    {
+        "id": 700,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilPermissionGUI.php",
+        "line": 942,
+        "code": "$this->lng->txt(\"change_owner\")",
+        "has_variable": false,
+        "variable": "change_owner"
+    },
+    {
+        "id": 702,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilPermissionGUI.php",
+        "line": 956,
+        "code": "$this->lng->txt('user_not_known')",
+        "has_variable": false,
+        "variable": "user_not_known"
+    },
+    {
+        "id": 704,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilPermissionGUI.php",
+        "line": 972,
+        "code": "$this->lng->txt('owner_updated')",
+        "has_variable": false,
+        "variable": "owner_updated"
+    },
+    {
+        "id": 706,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilRoleAdoptPermissionTableGUI.php",
+        "line": 34,
+        "code": "$this->lng->txt(\"title\")",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 708,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilRoleAdoptPermissionTableGUI.php",
+        "line": 35,
+        "code": "$this->lng->txt(\"type\")",
+        "has_variable": false,
+        "variable": "type"
+    },
+    {
+        "id": 710,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilRoleAdoptPermissionTableGUI.php",
+        "line": 42,
+        "code": "$this->lng->txt(\"cancel\")",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 712,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilRoleAdoptPermissionTableGUI.php",
+        "line": 43,
+        "code": "$this->lng->txt(\"save\")",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 714,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilRoleSelectionTableGUI.php",
+        "line": 42,
+        "code": "$this->lng->txt('title')",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 716,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilRoleSelectionTableGUI.php",
+        "line": 43,
+        "code": "$this->lng->txt('context')",
+        "has_variable": false,
+        "variable": "context"
+    },
+    {
+        "id": 718,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilRoleTableGUI.php",
+        "line": 87,
+        "code": "$this->lng->txt('rbac_auto_global')",
+        "has_variable": false,
+        "variable": "rbac_auto_global"
+    },
+    {
+        "id": 720,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilRoleTableGUI.php",
+        "line": 90,
+        "code": "$this->lng->txt('rbac_ud_global')",
+        "has_variable": false,
+        "variable": "rbac_ud_global"
+    },
+    {
+        "id": 722,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilRoleTableGUI.php",
+        "line": 93,
+        "code": "$this->lng->txt('rbac_auto_local')",
+        "has_variable": false,
+        "variable": "rbac_auto_local"
+    },
+    {
+        "id": 724,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilRoleTableGUI.php",
+        "line": 96,
+        "code": "$this->lng->txt('rbac_ud_local')",
+        "has_variable": false,
+        "variable": "rbac_ud_local"
+    },
+    {
+        "id": 726,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilRoleTableGUI.php",
+        "line": 99,
+        "code": "$this->lng->txt('rbac_auto_rolt')",
+        "has_variable": false,
+        "variable": "rbac_auto_rolt"
+    },
+    {
+        "id": 728,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilRoleTableGUI.php",
+        "line": 102,
+        "code": "$this->lng->txt('rbac_ud_rolt')",
+        "has_variable": false,
+        "variable": "rbac_ud_rolt"
+    },
+    {
+        "id": 730,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilRoleTableGUI.php",
+        "line": 123,
+        "code": "$this->lng->txt('rbac_context_global')",
+        "has_variable": false,
+        "variable": "rbac_context_global"
+    },
+    {
+        "id": 732,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilRoleTableGUI.php",
+        "line": 134,
+        "code": "$this->lng->txt('rbac_copy_role_copy')",
+        "has_variable": false,
+        "variable": "rbac_copy_role_copy"
+    },
+    {
+        "id": 734,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilRoleTableGUI.php",
+        "line": 158,
+        "code": "$this->lng->txt('search_title_description')",
+        "has_variable": false,
+        "variable": "search_title_description"
+    },
+    {
+        "id": 736,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilRoleTableGUI.php",
+        "line": 159,
+        "code": "$this->lng->txt('type')",
+        "has_variable": false,
+        "variable": "type"
+    },
+    {
+        "id": 738,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilRoleTableGUI.php",
+        "line": 160,
+        "code": "$this->lng->txt('context')",
+        "has_variable": false,
+        "variable": "context"
+    },
+    {
+        "id": 740,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilRoleTableGUI.php",
+        "line": 161,
+        "code": "$this->lng->txt('actions')",
+        "has_variable": false,
+        "variable": "actions"
+    },
+    {
+        "id": 742,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilRoleTableGUI.php",
+        "line": 162,
+        "code": "$this->lng->txt('objs_role')",
+        "has_variable": false,
+        "variable": "objs_role"
+    },
+    {
+        "id": 744,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilRoleTableGUI.php",
+        "line": 168,
+        "code": "$this->lng->txt('delete')",
+        "has_variable": false,
+        "variable": "delete"
+    },
+    {
+        "id": 746,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilRoleTableGUI.php",
+        "line": 176,
+        "code": "$this->lng->txt('search_title_description')",
+        "has_variable": false,
+        "variable": "search_title_description"
+    },
+    {
+        "id": 748,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilRoleTableGUI.php",
+        "line": 177,
+        "code": "$this->lng->txt('type')",
+        "has_variable": false,
+        "variable": "type"
+    },
+    {
+        "id": 750,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilRoleTableGUI.php",
+        "line": 178,
+        "code": "$this->lng->txt('context')",
+        "has_variable": false,
+        "variable": "context"
+    },
+    {
+        "id": 752,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilRoleTableGUI.php",
+        "line": 179,
+        "code": "$this->lng->txt('rbac_select_roles')",
+        "has_variable": false,
+        "variable": "rbac_select_roles"
+    },
+    {
+        "id": 754,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilRoleTableGUI.php",
+        "line": 180,
+        "code": "$this->lng->txt('btn_next')",
+        "has_variable": false,
+        "variable": "btn_next"
+    },
+    {
+        "id": 756,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilRoleTableGUI.php",
+        "line": 181,
+        "code": "$this->lng->txt('btn_previous')",
+        "has_variable": false,
+        "variable": "btn_previous"
+    },
+    {
+        "id": 758,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilRoleTableGUI.php",
+        "line": 222,
+        "code": "$this->lng->txt('all_roles')",
+        "has_variable": false,
+        "variable": "all_roles"
+    },
+    {
+        "id": 760,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilRoleTableGUI.php",
+        "line": 223,
+        "code": "$this->lng->txt('all_global_roles')",
+        "has_variable": false,
+        "variable": "all_global_roles"
+    },
+    {
+        "id": 762,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilRoleTableGUI.php",
+        "line": 224,
+        "code": "$this->lng->txt('all_local_roles')",
+        "has_variable": false,
+        "variable": "all_local_roles"
+    },
+    {
+        "id": 764,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilRoleTableGUI.php",
+        "line": 225,
+        "code": "$this->lng->txt('internal_local_roles_only')",
+        "has_variable": false,
+        "variable": "internal_local_roles_only"
+    },
+    {
+        "id": 766,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilRoleTableGUI.php",
+        "line": 226,
+        "code": "$this->lng->txt('non_internal_local_roles_only')",
+        "has_variable": false,
+        "variable": "non_internal_local_roles_only"
+    },
+    {
+        "id": 768,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilRoleTableGUI.php",
+        "line": 227,
+        "code": "$this->lng->txt('role_templates_only')",
+        "has_variable": false,
+        "variable": "role_templates_only"
+    },
+    {
+        "id": 770,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilRoleTableGUI.php",
+        "line": 231,
+        "code": "$this->lng->txt('all_roles')",
+        "has_variable": false,
+        "variable": "all_roles"
+    },
+    {
+        "id": 772,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilRoleTableGUI.php",
+        "line": 232,
+        "code": "$this->lng->txt('all_global_roles')",
+        "has_variable": false,
+        "variable": "all_global_roles"
+    },
+    {
+        "id": 774,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilRoleTableGUI.php",
+        "line": 233,
+        "code": "$this->lng->txt('all_local_roles')",
+        "has_variable": false,
+        "variable": "all_local_roles"
+    },
+    {
+        "id": 776,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilRoleTableGUI.php",
+        "line": 234,
+        "code": "$this->lng->txt('internal_local_roles_only')",
+        "has_variable": false,
+        "variable": "internal_local_roles_only"
+    },
+    {
+        "id": 778,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilRoleTableGUI.php",
+        "line": 235,
+        "code": "$this->lng->txt('non_internal_local_roles_only')",
+        "has_variable": false,
+        "variable": "non_internal_local_roles_only"
+    },
+    {
+        "id": 780,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilRoleTableGUI.php",
+        "line": 239,
+        "code": "$this->lng->txt('rbac_role_selection')",
+        "has_variable": false,
+        "variable": "rbac_role_selection"
+    },
+    {
+        "id": 782,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilRoleTableGUI.php",
+        "line": 249,
+        "code": "$this->lng->txt('title')",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 784,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilRoleXmlImporter.php",
+        "line": 121,
+        "code": "$this->language->txt(\"rbac_cant_import_role_wrong_type\")",
+        "has_variable": false,
+        "variable": "rbac_cant_import_role_wrong_type"
+    },
+    {
+        "id": 786,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilRoleXmlImporter.php",
+        "line": 122,
+        "code": "$this->language->txt('obj_' . $exp[1])",
+        "has_variable": true,
+        "variable": "'obj_' . $exp[1]"
+    },
+    {
+        "id": 788,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilRoleXmlImporter.php",
+        "line": 123,
+        "code": "$this->language->txt('obj_' . $type)",
+        "has_variable": true,
+        "variable": "'obj_' . $type"
+    },
+    {
+        "id": 790,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilSettingsPermissionGUI.php",
+        "line": 205,
+        "code": "$this->lng->txt($p)",
+        "has_variable": true,
+        "variable": "$p"
+    },
+    {
+        "id": 792,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilSettingsPermissionGUI.php",
+        "line": 217,
+        "code": "$this->lng->txt(\"save\")",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 794,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilSettingsPermissionGUI.php",
+        "line": 219,
+        "code": "$this->lng->txt(\"rbac_permissions\")",
+        "has_variable": false,
+        "variable": "rbac_permissions"
+    },
+    {
+        "id": 796,
+        "file": "components\/ILIAS\/AccessControl\/classes\/class.ilSettingsPermissionGUI.php",
+        "line": 266,
+        "code": "$this->lng->txt(\"msg_obj_modified\")",
+        "has_variable": false,
+        "variable": "msg_obj_modified"
+    },
+    {
+        "id": 798,
+        "file": "components\/ILIAS\/AccessControl\/src\/Log\/Table.php",
+        "line": 68,
+        "code": "$this->lng->txt('rbac_log_edit_permissions')",
+        "has_variable": false,
+        "variable": "rbac_log_edit_permissions"
+    },
+    {
+        "id": 800,
+        "file": "components\/ILIAS\/AccessControl\/src\/Log\/Table.php",
+        "line": 69,
+        "code": "$this->lng->txt('rbac_log_move_object')",
+        "has_variable": false,
+        "variable": "rbac_log_move_object"
+    },
+    {
+        "id": 802,
+        "file": "components\/ILIAS\/AccessControl\/src\/Log\/Table.php",
+        "line": 70,
+        "code": "$this->lng->txt('rbac_log_link_object')",
+        "has_variable": false,
+        "variable": "rbac_log_link_object"
+    },
+    {
+        "id": 804,
+        "file": "components\/ILIAS\/AccessControl\/src\/Log\/Table.php",
+        "line": 71,
+        "code": "$this->lng->txt('rbac_log_copy_object')",
+        "has_variable": false,
+        "variable": "rbac_log_copy_object"
+    },
+    {
+        "id": 806,
+        "file": "components\/ILIAS\/AccessControl\/src\/Log\/Table.php",
+        "line": 72,
+        "code": "$this->lng->txt('rbac_log_create_object')",
+        "has_variable": false,
+        "variable": "rbac_log_create_object"
+    },
+    {
+        "id": 808,
+        "file": "components\/ILIAS\/AccessControl\/src\/Log\/Table.php",
+        "line": 73,
+        "code": "$this->lng->txt('rbac_log_edit_template')",
+        "has_variable": false,
+        "variable": "rbac_log_edit_template"
+    },
+    {
+        "id": 810,
+        "file": "components\/ILIAS\/AccessControl\/src\/Log\/Table.php",
+        "line": 74,
+        "code": "$this->lng->txt('rbac_log_edit_template_existing')",
+        "has_variable": false,
+        "variable": "rbac_log_edit_template_existing"
+    },
+    {
+        "id": 812,
+        "file": "components\/ILIAS\/AccessControl\/src\/Log\/Table.php",
+        "line": 75,
+        "code": "$this->lng->txt('rbac_log_change_owner')",
+        "has_variable": false,
+        "variable": "rbac_log_change_owner"
+    },
+    {
+        "id": 814,
+        "file": "components\/ILIAS\/AccessControl\/src\/Log\/Table.php",
+        "line": 97,
+        "code": "$this->lng->txt('rbac_log')",
+        "has_variable": false,
+        "variable": "rbac_log"
+    },
+    {
+        "id": 816,
+        "file": "components\/ILIAS\/AccessControl\/src\/Log\/Table.php",
+        "line": 100,
+        "code": "$this->lng->txt('date')",
+        "has_variable": false,
+        "variable": "date"
+    },
+    {
+        "id": 818,
+        "file": "components\/ILIAS\/AccessControl\/src\/Log\/Table.php",
+        "line": 103,
+        "code": "$this->lng->txt('name')",
+        "has_variable": false,
+        "variable": "name"
+    },
+    {
+        "id": 820,
+        "file": "components\/ILIAS\/AccessControl\/src\/Log\/Table.php",
+        "line": 104,
+        "code": "$this->lng->txt('login')",
+        "has_variable": false,
+        "variable": "login"
+    },
+    {
+        "id": 822,
+        "file": "components\/ILIAS\/AccessControl\/src\/Log\/Table.php",
+        "line": 105,
+        "code": "$this->lng->txt('action')",
+        "has_variable": false,
+        "variable": "action"
+    },
+    {
+        "id": 824,
+        "file": "components\/ILIAS\/AccessControl\/src\/Log\/Table.php",
+        "line": 106,
+        "code": "$this->lng->txt('rbac_changes')",
+        "has_variable": false,
+        "variable": "rbac_changes"
+    },
+    {
+        "id": 826,
+        "file": "components\/ILIAS\/AccessControl\/src\/Log\/Table.php",
+        "line": 118,
+        "code": "$this->lng->txt('action')",
+        "has_variable": false,
+        "variable": "action"
+    },
+    {
+        "id": 828,
+        "file": "components\/ILIAS\/AccessControl\/src\/Log\/Table.php",
+        "line": 121,
+        "code": "$this->lng->txt('date')",
+        "has_variable": false,
+        "variable": "date"
+    },
+    {
+        "id": 830,
+        "file": "components\/ILIAS\/AccessControl\/src\/Log\/Table.php",
+        "line": 223,
+        "code": "$this->lng->txt('rbac_log_changed_owner')",
+        "has_variable": false,
+        "variable": "rbac_log_changed_owner"
+    },
+    {
+        "id": 832,
+        "file": "components\/ILIAS\/AccessControl\/src\/Log\/Table.php",
+        "line": 240,
+        "code": "$this->lng->txt('rbac_log_source_object')",
+        "has_variable": false,
+        "variable": "rbac_log_source_object"
+    },
+    {
+        "id": 834,
+        "file": "components\/ILIAS\/AccessControl\/src\/Log\/Table.php",
+        "line": 249,
+        "code": "$this->lng->txt('rbac_log_operation_add')",
+        "has_variable": false,
+        "variable": "rbac_log_operation_add"
+    },
+    {
+        "id": 836,
+        "file": "components\/ILIAS\/AccessControl\/src\/Log\/Table.php",
+        "line": 259,
+        "code": "$this->lng->txt('rbac_log_operation_' . $action)",
+        "has_variable": true,
+        "variable": "'rbac_log_operation_' . $action"
+    },
+    {
+        "id": 838,
+        "file": "components\/ILIAS\/AccessControl\/src\/Log\/Table.php",
+        "line": 271,
+        "code": "$this->lng->txt('rbac_log_inheritance_' . $action)",
+        "has_variable": true,
+        "variable": "'rbac_log_inheritance_' . $action"
+    },
+    {
+        "id": 840,
+        "file": "components\/ILIAS\/AccessControl\/src\/Log\/Table.php",
+        "line": 288,
+        "code": "$this->lng->txt('rbac_log_operation_' . $action)",
+        "has_variable": true,
+        "variable": "'rbac_log_operation_' . $action"
+    },
+    {
+        "id": 842,
+        "file": "components\/ILIAS\/AccessControl\/src\/Log\/Table.php",
+        "line": 289,
+        "code": "$this->lng->txt('obj_' . $type)",
+        "has_variable": true,
+        "variable": "'obj_' . $type"
+    },
+    {
+        "id": 844,
+        "file": "components\/ILIAS\/AccessControl\/src\/Log\/Table.php",
+        "line": 329,
+        "code": "$this->lng->txt($type . '_' . $op_id . '_short')",
+        "has_variable": true,
+        "variable": "$type . '_' . $op_id . '_short'"
+    },
+    {
+        "id": 846,
+        "file": "components\/ILIAS\/AccessControl\/src\/Log\/Table.php",
+        "line": 332,
+        "code": "$this->lng->txt($op_id)",
+        "has_variable": true,
+        "variable": "$op_id"
+    },
+    {
+        "id": 848,
+        "file": "components\/ILIAS\/AccessControl\/src\/Log\/Table.php",
+        "line": 344,
+        "code": "$this->lng->txt('rbac_' . $op_id)",
+        "has_variable": true,
+        "variable": "'rbac_' . $op_id"
+    }
+]

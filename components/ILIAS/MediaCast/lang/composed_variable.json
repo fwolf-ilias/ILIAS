@@ -1,0 +1,98 @@
+{
+    "metadata": {
+        "type": "composed",
+        "count": 5,
+        "description": "Variable usages with detectable prefixes or suffixes"
+    },
+    "matches": [
+        {
+            "id": 26076,
+            "file": "components\/ILIAS\/MediaCast\/classes\/class.ilMediaCastManageTableGUI.php",
+            "line": 307,
+            "code": "$lng->txt(\"mcst_download_\" . strtolower($a_mob->getPurpose()))",
+            "variable": "\"mcst_download_\" . strtolower($a_mob->getPurpose())",
+            "has_variable": true,
+            "prefix": "mcst_download_",
+            "suffix": "",
+            "matching_variables": [
+                "mcst_download_all",
+                "mcst_download_audioportable",
+                "mcst_download_cnt",
+                "mcst_download_standard",
+                "mcst_download_started_bg",
+                "mcst_download_videoalternative",
+                "mcst_download_videoportable"
+            ]
+        },
+        {
+            "id": 26102,
+            "file": "components\/ILIAS\/MediaCast\/classes\/class.ilMediaCastTableGUI.php",
+            "line": 177,
+            "code": "$lng->txt(\"mcst_download_\" . strtolower($a_mob->getPurpose()))",
+            "variable": "\"mcst_download_\" . strtolower($a_mob->getPurpose())",
+            "has_variable": true,
+            "prefix": "mcst_download_",
+            "suffix": "",
+            "matching_variables": [
+                "mcst_download_all",
+                "mcst_download_audioportable",
+                "mcst_download_cnt",
+                "mcst_download_standard",
+                "mcst_download_started_bg",
+                "mcst_download_videoalternative",
+                "mcst_download_videoportable"
+            ]
+        },
+        {
+            "id": 26148,
+            "file": "components\/ILIAS\/MediaCast\/classes\/class.ilObjMediaCastGUI.php",
+            "line": 467,
+            "code": "$lng->txt(\"mcst_\" . strtolower($purpose) . \"_title\")",
+            "variable": "\"mcst_\" . strtolower($purpose) . \"_title\"",
+            "has_variable": true,
+            "prefix": "mcst_",
+            "suffix": "_title",
+            "matching_variables": [
+                "mcst_audioportable_settings_title",
+                "mcst_audioportable_title",
+                "mcst_clear_purpose_title",
+                "mcst_ordering_title",
+                "mcst_standard_settings_title",
+                "mcst_standard_title",
+                "mcst_videoalternative_title",
+                "mcst_videoportable_settings_title",
+                "mcst_videoportable_title"
+            ]
+        },
+        {
+            "id": 26260,
+            "file": "components\/ILIAS\/MediaCast\/classes\/class.ilObjMediaCastSettingsGUI.php",
+            "line": 195,
+            "code": "$lng->txt(\"mcst_\" . strtolower($purpose) . \"_settings_title\")",
+            "variable": "\"mcst_\" . strtolower($purpose) . \"_settings_title\"",
+            "has_variable": true,
+            "prefix": "mcst_",
+            "suffix": "_settings_title",
+            "matching_variables": [
+                "mcst_audioportable_settings_title",
+                "mcst_standard_settings_title",
+                "mcst_videoportable_settings_title"
+            ]
+        },
+        {
+            "id": 26262,
+            "file": "components\/ILIAS\/MediaCast\/classes\/class.ilObjMediaCastSettingsGUI.php",
+            "line": 197,
+            "code": "$lng->txt(\"mcst_\" . strtolower($purpose) . \"_settings_info\")",
+            "variable": "\"mcst_\" . strtolower($purpose) . \"_settings_info\"",
+            "has_variable": true,
+            "prefix": "mcst_",
+            "suffix": "_settings_info",
+            "matching_variables": [
+                "mcst_audioportable_settings_info",
+                "mcst_standard_settings_info",
+                "mcst_videoportable_settings_info"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,130 @@
+[
+    {
+        "id": 46140,
+        "file": "components\/ILIAS\/Tree\/classes\/SystemCheck\/class.ilSCTreeDuplicatesTableGUI.php",
+        "line": 40,
+        "code": "$this->lng->txt('sysc_duplicates_repository')",
+        "has_variable": false,
+        "variable": "sysc_duplicates_repository"
+    },
+    {
+        "id": 46142,
+        "file": "components\/ILIAS\/Tree\/classes\/SystemCheck\/class.ilSCTreeDuplicatesTableGUI.php",
+        "line": 41,
+        "code": "$this->lng->txt('sysc_duplicates_trash')",
+        "has_variable": false,
+        "variable": "sysc_duplicates_trash"
+    },
+    {
+        "id": 46144,
+        "file": "components\/ILIAS\/Tree\/classes\/SystemCheck\/class.ilSCTreeDuplicatesTableGUI.php",
+        "line": 45,
+        "code": "$this->lng->txt('sysc_delete_duplicates_from_repository')",
+        "has_variable": false,
+        "variable": "sysc_delete_duplicates_from_repository"
+    },
+    {
+        "id": 46146,
+        "file": "components\/ILIAS\/Tree\/classes\/SystemCheck\/class.ilSCTreeDuplicatesTableGUI.php",
+        "line": 47,
+        "code": "$this->lng->txt('sysc_delete_duplicates_from_trash')",
+        "has_variable": false,
+        "variable": "sysc_delete_duplicates_from_trash"
+    },
+    {
+        "id": 46148,
+        "file": "components\/ILIAS\/Tree\/classes\/SystemCheck\/class.ilSCTreeDuplicatesTableGUI.php",
+        "line": 112,
+        "code": "$this->lng->txt('obj_' . ($child_data['type'] ?? ''))",
+        "has_variable": true,
+        "variable": "'obj_' . ($child_data['type'] ?? '')"
+    },
+    {
+        "id": 46150,
+        "file": "components\/ILIAS\/Tree\/classes\/class.ilPathGUI.php",
+        "line": 152,
+        "code": "$this->lng->txt('repository')",
+        "has_variable": false,
+        "variable": "repository"
+    },
+    {
+        "id": 46152,
+        "file": "components\/ILIAS\/Tree\/classes\/class.ilPathGUI.php",
+        "line": 187,
+        "code": "$this->lng->txt('repository')",
+        "has_variable": false,
+        "variable": "repository"
+    },
+    {
+        "id": 46154,
+        "file": "components\/ILIAS\/Tree\/classes\/class.ilPathGUI.php",
+        "line": 195,
+        "code": "$this->lng->txt('obj_' . $type)",
+        "has_variable": true,
+        "variable": "'obj_' . $type"
+    },
+    {
+        "id": 46156,
+        "file": "components\/ILIAS\/Tree\/classes\/class.ilPathGUI.php",
+        "line": 214,
+        "code": "$this->lng->txt(\"breadcrumb_navigation\")",
+        "has_variable": false,
+        "variable": "breadcrumb_navigation"
+    },
+    {
+        "id": 46158,
+        "file": "components\/ILIAS\/Tree\/classes\/class.ilPathGUI.php",
+        "line": 223,
+        "code": "$this->lng->txt('obj_' . $type)",
+        "has_variable": true,
+        "variable": "'obj_' . $type"
+    },
+    {
+        "id": 46160,
+        "file": "components\/ILIAS\/Tree\/classes\/class.ilTree.php",
+        "line": 1130,
+        "code": "$lng->txt(\"obj_\" . $data[\"type\"] . \"_local_desc\")",
+        "has_variable": true,
+        "variable": "\"obj_\" . $data[\"type\"] . \"_local_desc\""
+    },
+    {
+        "id": 46162,
+        "file": "components\/ILIAS\/Tree\/classes\/class.ilTree.php",
+        "line": 1131,
+        "code": "$lng->txt(\"obj_\" . $data[\"type\"] . \"_local_desc\")",
+        "has_variable": true,
+        "variable": "\"obj_\" . $data[\"type\"] . \"_local_desc\""
+    },
+    {
+        "id": 46164,
+        "file": "components\/ILIAS\/Tree\/classes\/class.ilTree.php",
+        "line": 1132,
+        "code": "$lng->txt(\"obj_\" . $data[\"type\"] . \"_local\")",
+        "has_variable": true,
+        "variable": "\"obj_\" . $data[\"type\"] . \"_local\""
+    },
+    {
+        "id": 46166,
+        "file": "components\/ILIAS\/Tree\/classes\/class.ilTree.php",
+        "line": 1134,
+        "code": "$lng->txt(\"obj_\" . $data[\"type\"])",
+        "has_variable": true,
+        "variable": "\"obj_\" . $data[\"type\"]"
+    },
+    {
+        "id": 46168,
+        "file": "components\/ILIAS\/Tree\/classes\/class.ilTree.php",
+        "line": 1135,
+        "code": "$lng->txt(\"obj_\" . $data[\"type\"] . \"_desc\")",
+        "has_variable": true,
+        "variable": "\"obj_\" . $data[\"type\"] . \"_desc\""
+    },
+    {
+        "id": 46170,
+        "file": "components\/ILIAS\/Tree\/classes\/class.ilTree.php",
+        "line": 1136,
+        "code": "$lng->txt(\"obj_\" . $data[\"type\"] . \"_desc\")",
+        "has_variable": true,
+        "variable": "\"obj_\" . $data[\"type\"] . \"_desc\""
+    }
+]

@@ -1,0 +1,31 @@
+{
+    "metadata": {
+        "type": "full",
+        "count": 2,
+        "description": "Variable usages without detectable prefixes or suffixes (pure variable references without static strings)"
+    },
+    "matches": [
+        {
+            "id": 24948,
+            "file": "components\/ILIAS\/Logging\/classes\/class.ilObjLoggingSettingsGUI.php",
+            "line": 116,
+            "code": "$this->lng->txt(static::SUB_SECTION_ERROR)",
+            "variable": "SUB_SECTION_ERROR",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 24950,
+            "file": "components\/ILIAS\/Logging\/classes\/class.ilObjLoggingSettingsGUI.php",
+            "line": 121,
+            "code": "$this->lng->txt(static::SUB_SECTION_COMPONENTS)",
+            "variable": "SUB_SECTION_COMPONENTS",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        }
+    ]
+}

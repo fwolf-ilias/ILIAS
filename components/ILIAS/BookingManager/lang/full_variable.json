@@ -1,0 +1,207 @@
+{
+    "metadata": {
+        "type": "full",
+        "count": 18,
+        "description": "Variable usages without detectable prefixes or suffixes (pure variable references without static strings)"
+    },
+    "matches": [
+        {
+            "id": 3778,
+            "file": "components\/ILIAS\/BookingManager\/Objects\/class.ilBookingObjectGUI.php",
+            "line": 521,
+            "code": "$this->lng->txt($create ? 'book_object_added' : 'book_object_updated')",
+            "variable": "_",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 4208,
+            "file": "components\/ILIAS\/BookingManager\/src\/BookableItem\/Table\/Action\/BookableItemTableBookAction.php",
+            "line": 116,
+            "code": "$this->lng->txt($this->getActionLabel())",
+            "variable": "$this->getActionLabel()",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 4238,
+            "file": "components\/ILIAS\/BookingManager\/src\/BookableItem\/Table\/Action\/BookableItemTableBookForParticipantAction.php",
+            "line": 81,
+            "code": "$this->lng->txt(self::ACTION_LABEL)",
+            "variable": "ACTION_LABEL",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 4240,
+            "file": "components\/ILIAS\/BookingManager\/src\/BookableItem\/Table\/Action\/BookableItemTableBookingsAction.php",
+            "line": 78,
+            "code": "$this->lng->txt(self::ACTION_LABEL)",
+            "variable": "ACTION_LABEL",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 4242,
+            "file": "components\/ILIAS\/BookingManager\/src\/BookableItem\/Table\/Action\/BookableItemTableCancelBookingAction.php",
+            "line": 111,
+            "code": "$this->lng->txt(self::ACTION_LABEL)",
+            "variable": "ACTION_LABEL",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 4256,
+            "file": "components\/ILIAS\/BookingManager\/src\/BookableItem\/Table\/Action\/BookableItemTableDeleteAction.php",
+            "line": 81,
+            "code": "$this->lng->txt(self::ACTION_LABEL)",
+            "variable": "ACTION_LABEL",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 4268,
+            "file": "components\/ILIAS\/BookingManager\/src\/BookableItem\/Table\/Action\/BookableItemTableEditAction.php",
+            "line": 72,
+            "code": "$this->lng->txt(self::ACTION_LABEL)",
+            "variable": "ACTION_LABEL",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 4274,
+            "file": "components\/ILIAS\/BookingManager\/src\/BookableItem\/Table\/BookableItemTable.php",
+            "line": 351,
+            "code": "$this->lng->txt($available > 0 ? 'book_book' : 'book_no_objects')",
+            "variable": "_",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 4308,
+            "file": "components\/ILIAS\/BookingManager\/src\/Booking\/Table\/Action\/BookingsTableBookingInformationAction.php",
+            "line": 77,
+            "code": "$this->lng->txt($this->getActionLabel())",
+            "variable": "$this->getActionLabel()",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 4312,
+            "file": "components\/ILIAS\/BookingManager\/src\/Booking\/Table\/Action\/BookingsTableCancelAction.php",
+            "line": 102,
+            "code": "$this->lng->txt($this->getActionLabel())",
+            "variable": "$this->getActionLabel()",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 4318,
+            "file": "components\/ILIAS\/BookingManager\/src\/Booking\/Table\/Action\/BookingsTableCancelAction.php",
+            "line": 127,
+            "code": "$this->lng->txt($this->getActionLabel())",
+            "variable": "$this->getActionLabel()",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 4324,
+            "file": "components\/ILIAS\/BookingManager\/src\/Booking\/Table\/Action\/BookingsTableDeleteAction.php",
+            "line": 97,
+            "code": "$this->lng->txt($this->getActionLabel())",
+            "variable": "$this->getActionLabel()",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 4330,
+            "file": "components\/ILIAS\/BookingManager\/src\/Booking\/Table\/Action\/BookingsTableDeleteAction.php",
+            "line": 122,
+            "code": "$this->lng->txt($this->getActionLabel())",
+            "variable": "$this->getActionLabel()",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 4336,
+            "file": "components\/ILIAS\/BookingManager\/src\/Booking\/Table\/Action\/BookingsTableMailAction.php",
+            "line": 89,
+            "code": "$this->lng->txt($this->getActionLabel())",
+            "variable": "$this->getActionLabel()",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 4344,
+            "file": "components\/ILIAS\/BookingManager\/src\/Booking\/Table\/BookingsTable.php",
+            "line": 408,
+            "code": "$this->lng->txt($caption_lng_id)",
+            "variable": "$caption_lng_id",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 4414,
+            "file": "components\/ILIAS\/BookingManager\/src\/Participant\/Table\/Action\/ParticipantTableDeleteAction.php",
+            "line": 89,
+            "code": "$this->lng->txt($this->getActionLabel())",
+            "variable": "$this->getActionLabel()",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 4446,
+            "file": "components\/ILIAS\/BookingManager\/src\/Schedule\/Table\/Action\/ScheduleTableDeleteAction.php",
+            "line": 88,
+            "code": "$this->lng->txt(self::ACTION_LABEL)",
+            "variable": "ACTION_LABEL",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 4458,
+            "file": "components\/ILIAS\/BookingManager\/src\/Schedule\/Table\/Action\/ScheduleTableEditAction.php",
+            "line": 76,
+            "code": "$this->lng->txt(self::ACTION_LABEL)",
+            "variable": "ACTION_LABEL",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        }
+    ]
+}

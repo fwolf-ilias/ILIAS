@@ -1,0 +1,282 @@
+[
+    {
+        "id": 21162,
+        "file": "components\/ILIAS\/InfoScreen\/classes\/class.ilInfoScreenGUI.php",
+        "line": 368,
+        "code": "$lng->txt(\"meta_general\")",
+        "has_variable": false,
+        "variable": "meta_general"
+    },
+    {
+        "id": 21164,
+        "file": "components\/ILIAS\/InfoScreen\/classes\/class.ilInfoScreenGUI.php",
+        "line": 371,
+        "code": "$lng->txt(\"language\")",
+        "has_variable": false,
+        "variable": "language"
+    },
+    {
+        "id": 21166,
+        "file": "components\/ILIAS\/InfoScreen\/classes\/class.ilInfoScreenGUI.php",
+        "line": 377,
+        "code": "$lng->txt(\"keywords\")",
+        "has_variable": false,
+        "variable": "keywords"
+    },
+    {
+        "id": 21168,
+        "file": "components\/ILIAS\/InfoScreen\/classes\/class.ilInfoScreenGUI.php",
+        "line": 383,
+        "code": "$lng->txt(\"author\")",
+        "has_variable": false,
+        "variable": "author"
+    },
+    {
+        "id": 21170,
+        "file": "components\/ILIAS\/InfoScreen\/classes\/class.ilInfoScreenGUI.php",
+        "line": 389,
+        "code": "$lng->txt(\"meta_typical_learning_time\")",
+        "has_variable": false,
+        "variable": "meta_typical_learning_time"
+    },
+    {
+        "id": 21172,
+        "file": "components\/ILIAS\/InfoScreen\/classes\/class.ilInfoScreenGUI.php",
+        "line": 398,
+        "code": "$lng->txt('meta_info_licence_section')",
+        "has_variable": false,
+        "variable": "meta_info_licence_section"
+    },
+    {
+        "id": 21174,
+        "file": "components\/ILIAS\/InfoScreen\/classes\/class.ilInfoScreenGUI.php",
+        "line": 402,
+        "code": "$lng->txt('export_info_public_access')",
+        "has_variable": false,
+        "variable": "export_info_public_access"
+    },
+    {
+        "id": 21176,
+        "file": "components\/ILIAS\/InfoScreen\/classes\/class.ilInfoScreenGUI.php",
+        "line": 409,
+        "code": "$lng->txt(\"meta_copyright\")",
+        "has_variable": false,
+        "variable": "meta_copyright"
+    },
+    {
+        "id": 21178,
+        "file": "components\/ILIAS\/InfoScreen\/classes\/class.ilInfoScreenGUI.php",
+        "line": 443,
+        "code": "$this->lng->txt('export_info_public_access_download')",
+        "has_variable": false,
+        "variable": "export_info_public_access_download"
+    },
+    {
+        "id": 21180,
+        "file": "components\/ILIAS\/InfoScreen\/classes\/class.ilInfoScreenGUI.php",
+        "line": 468,
+        "code": "$lng->txt(\"additional_info\")",
+        "has_variable": false,
+        "variable": "additional_info"
+    },
+    {
+        "id": 21182,
+        "file": "components\/ILIAS\/InfoScreen\/classes\/class.ilInfoScreenGUI.php",
+        "line": 480,
+        "code": "$lng->txt(\"object_id\")",
+        "has_variable": false,
+        "variable": "object_id"
+    },
+    {
+        "id": 21184,
+        "file": "components\/ILIAS\/InfoScreen\/classes\/class.ilInfoScreenGUI.php",
+        "line": 508,
+        "code": "$lng->txt(\"res_links\")",
+        "has_variable": false,
+        "variable": "res_links"
+    },
+    {
+        "id": 21186,
+        "file": "components\/ILIAS\/InfoScreen\/classes\/class.ilInfoScreenGUI.php",
+        "line": 521,
+        "code": "$lng->txt(\"create_date\")",
+        "has_variable": false,
+        "variable": "create_date"
+    },
+    {
+        "id": 21188,
+        "file": "components\/ILIAS\/InfoScreen\/classes\/class.ilInfoScreenGUI.php",
+        "line": 535,
+        "code": "$lng->txt(\"owner\")",
+        "has_variable": false,
+        "variable": "owner"
+    },
+    {
+        "id": 21190,
+        "file": "components\/ILIAS\/InfoScreen\/classes\/class.ilInfoScreenGUI.php",
+        "line": 535,
+        "code": "$lng->txt(\"no_owner\")",
+        "has_variable": false,
+        "variable": "no_owner"
+    },
+    {
+        "id": 21192,
+        "file": "components\/ILIAS\/InfoScreen\/classes\/class.ilInfoScreenGUI.php",
+        "line": 539,
+        "code": "$lng->txt(\"owner\")",
+        "has_variable": false,
+        "variable": "owner"
+    },
+    {
+        "id": 21194,
+        "file": "components\/ILIAS\/InfoScreen\/classes\/class.ilInfoScreenGUI.php",
+        "line": 544,
+        "code": "$lng->txt(\"owner\")",
+        "has_variable": false,
+        "variable": "owner"
+    },
+    {
+        "id": 21196,
+        "file": "components\/ILIAS\/InfoScreen\/classes\/class.ilInfoScreenGUI.php",
+        "line": 569,
+        "code": "$this->lng->txt(\"readcount_anonymous_users\")",
+        "has_variable": false,
+        "variable": "readcount_anonymous_users"
+    },
+    {
+        "id": 21198,
+        "file": "components\/ILIAS\/InfoScreen\/classes\/class.ilInfoScreenGUI.php",
+        "line": 574,
+        "code": "$this->lng->txt(\"readcount_users\")",
+        "has_variable": false,
+        "variable": "readcount_users"
+    },
+    {
+        "id": 21200,
+        "file": "components\/ILIAS\/InfoScreen\/classes\/class.ilInfoScreenGUI.php",
+        "line": 577,
+        "code": "$this->lng->txt(\"accesscount_registered_users\")",
+        "has_variable": false,
+        "variable": "accesscount_registered_users"
+    },
+    {
+        "id": 21202,
+        "file": "components\/ILIAS\/InfoScreen\/classes\/class.ilInfoScreenGUI.php",
+        "line": 705,
+        "code": "$lng->txt(\"show_hidden_sections\")",
+        "has_variable": false,
+        "variable": "show_hidden_sections"
+    },
+    {
+        "id": 21204,
+        "file": "components\/ILIAS\/InfoScreen\/classes\/class.ilInfoScreenGUI.php",
+        "line": 705,
+        "code": "$lng->txt(\"show_hidden_sections\")",
+        "has_variable": false,
+        "variable": "show_hidden_sections"
+    },
+    {
+        "id": 21206,
+        "file": "components\/ILIAS\/InfoScreen\/classes\/class.ilInfoScreenGUI.php",
+        "line": 705,
+        "code": "$lng->txt(\"hide_visible_sections\")",
+        "has_variable": false,
+        "variable": "hide_visible_sections"
+    },
+    {
+        "id": 21208,
+        "file": "components\/ILIAS\/InfoScreen\/classes\/class.ilInfoScreenGUI.php",
+        "line": 911,
+        "code": "$this->lng->txt('learning_progress')",
+        "has_variable": false,
+        "variable": "learning_progress"
+    },
+    {
+        "id": 21210,
+        "file": "components\/ILIAS\/InfoScreen\/classes\/class.ilInfoScreenGUI.php",
+        "line": 935,
+        "code": "$this->lng->txt('trac_updated_status')",
+        "has_variable": false,
+        "variable": "trac_updated_status"
+    },
+    {
+        "id": 21212,
+        "file": "components\/ILIAS\/InfoScreen\/classes\/class.ilInfoScreenGUI.php",
+        "line": 1016,
+        "code": "$this->lng->txt('applications')",
+        "has_variable": false,
+        "variable": "applications"
+    },
+    {
+        "id": 21214,
+        "file": "components\/ILIAS\/InfoScreen\/classes\/class.ilInfoScreenGUI.php",
+        "line": 1052,
+        "code": "$lng->txt(\"show_hidden_sections\")",
+        "has_variable": false,
+        "variable": "show_hidden_sections"
+    },
+    {
+        "id": 21216,
+        "file": "components\/ILIAS\/InfoScreen\/classes\/class.ilInfoScreenGUI.php",
+        "line": 1052,
+        "code": "$lng->txt(\"hide_visible_sections\")",
+        "has_variable": false,
+        "variable": "hide_visible_sections"
+    },
+    {
+        "id": 21218,
+        "file": "components\/ILIAS\/InfoScreen\/classes\/class.ilInfoScreenGUI.php",
+        "line": 1052,
+        "code": "$lng->txt(\"show_hidden_sections\")",
+        "has_variable": false,
+        "variable": "show_hidden_sections"
+    },
+    {
+        "id": 21220,
+        "file": "components\/ILIAS\/InfoScreen\/classes\/class.ilInfoScreenGUI.php",
+        "line": 1079,
+        "code": "$this->lng->txt(\"rep_activation_availability\")",
+        "has_variable": false,
+        "variable": "rep_activation_availability"
+    },
+    {
+        "id": 21222,
+        "file": "components\/ILIAS\/InfoScreen\/classes\/class.ilInfoScreenGUI.php",
+        "line": 1179,
+        "code": "$lng->txt(\"preconditions_obligatory_hint\")",
+        "has_variable": false,
+        "variable": "preconditions_obligatory_hint"
+    },
+    {
+        "id": 21224,
+        "file": "components\/ILIAS\/InfoScreen\/classes\/class.ilInfoScreenGUI.php",
+        "line": 1182,
+        "code": "$lng->txt(\"preconditions_optional_hint\")",
+        "has_variable": false,
+        "variable": "preconditions_optional_hint"
+    },
+    {
+        "id": 21226,
+        "file": "components\/ILIAS\/InfoScreen\/classes\/class.ilInfoScreenGUI.php",
+        "line": 1213,
+        "code": "$this->lng->txt('rep_activation_access')",
+        "has_variable": false,
+        "variable": "rep_activation_access"
+    },
+    {
+        "id": 21228,
+        "file": "components\/ILIAS\/InfoScreen\/classes\/class.ilInfoScreenGUI.php",
+        "line": 1221,
+        "code": "$this->lng->txt('rep_activation_access')",
+        "has_variable": false,
+        "variable": "rep_activation_access"
+    },
+    {
+        "id": 21230,
+        "file": "components\/ILIAS\/InfoScreen\/classes\/class.ilInfoScreenGUI.php",
+        "line": 1222,
+        "code": "$this->lng->txt('crs_visibility_limitless')",
+        "has_variable": false,
+        "variable": "crs_visibility_limitless"
+    }
+]

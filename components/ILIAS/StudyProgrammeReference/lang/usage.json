@@ -1,0 +1,66 @@
+[
+    {
+        "id": 35946,
+        "file": "components\/ILIAS\/StudyProgrammeReference\/classes\/class.ilObjStudyProgrammeReferenceGUI.php",
+        "line": 60,
+        "code": "$this->lng->txt('select_object_to_link')",
+        "has_variable": false,
+        "variable": "select_object_to_link"
+    },
+    {
+        "id": 35948,
+        "file": "components\/ILIAS\/StudyProgrammeReference\/classes\/class.ilObjStudyProgrammeReferenceGUI.php",
+        "line": 65,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 35950,
+        "file": "components\/ILIAS\/StudyProgrammeReference\/classes\/class.ilObjStudyProgrammeReferenceGUI.php",
+        "line": 70,
+        "code": "$this->lng->txt('prgr_may_not_create_circular_reference')",
+        "has_variable": false,
+        "variable": "prgr_may_not_create_circular_reference"
+    },
+    {
+        "id": 35952,
+        "file": "components\/ILIAS\/StudyProgrammeReference\/classes\/class.ilObjStudyProgrammeReferenceGUI.php",
+        "line": 89,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 35954,
+        "file": "components\/ILIAS\/StudyProgrammeReference\/classes\/class.ilObjStudyProgrammeReferenceGUI.php",
+        "line": 95,
+        "code": "$this->lng->txt('prgr_may_not_create_circular_reference')",
+        "has_variable": false,
+        "variable": "prgr_may_not_create_circular_reference"
+    },
+    {
+        "id": 35956,
+        "file": "components\/ILIAS\/StudyProgrammeReference\/classes\/class.ilObjStudyProgrammeReferenceListGUI.php",
+        "line": 130,
+        "code": "$this->lng->txt(\"status\")",
+        "has_variable": false,
+        "variable": "status"
+    },
+    {
+        "id": 35958,
+        "file": "components\/ILIAS\/StudyProgrammeReference\/classes\/class.ilObjStudyProgrammeReferenceListGUI.php",
+        "line": 131,
+        "code": "$this->lng->txt(\"reference_deleted\")",
+        "has_variable": false,
+        "variable": "reference_deleted"
+    },
+    {
+        "id": 35960,
+        "file": "components\/ILIAS\/StudyProgrammeReference\/classes\/class.ilObjStudyProgrammeReferenceListGUI.php",
+        "line": 190,
+        "code": "$this->lng->txt(\"prg_can_not_manage_in_repo\")",
+        "has_variable": false,
+        "variable": "prg_can_not_manage_in_repo"
+    }
+]

@@ -1,0 +1,3386 @@
+[
+    {
+        "id": 48832,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/Auth\/class.ilLoginPageAuthStrategy.php",
+        "line": 42,
+        "code": "$this->lng->txt('ecs_login_success_ilias')",
+        "has_variable": false,
+        "variable": "ecs_login_success_ilias"
+    },
+    {
+        "id": 48834,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/Consent\/class.ilECSUserConsentModalGUI.php",
+        "line": 145,
+        "code": "$this->lng->txt($this->remote_object->getType() . '_call')",
+        "has_variable": true,
+        "variable": "$this->remote_object->getType() . '_call'"
+    },
+    {
+        "id": 48836,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/Consent\/class.ilECSUserConsentModalGUI.php",
+        "line": 184,
+        "code": "$this->lng->txt('ecs_consent_modal_btn_accept')",
+        "has_variable": false,
+        "variable": "ecs_consent_modal_btn_accept"
+    },
+    {
+        "id": 48838,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/Consent\/class.ilECSUserConsentModalGUI.php",
+        "line": 198,
+        "code": "$this->lng->txt('ecs_consent_required')",
+        "has_variable": false,
+        "variable": "ecs_consent_required"
+    },
+    {
+        "id": 48840,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/Consent\/class.ilECSUserConsentModalGUI.php",
+        "line": 206,
+        "code": "$this->lng->txt('ecs_consent_modal_title')",
+        "has_variable": false,
+        "variable": "ecs_consent_modal_title"
+    },
+    {
+        "id": 48842,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/Consent\/class.ilECSUserConsentModalGUI.php",
+        "line": 219,
+        "code": "$this->lng->txt($this->remote_object->getType() . '_call')",
+        "has_variable": true,
+        "variable": "$this->remote_object->getType() . '_call'"
+    },
+    {
+        "id": 48844,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/Consent\/class.ilECSUserConsentModalGUI.php",
+        "line": 274,
+        "code": "$this->lng->txt('title')",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 48846,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/Consent\/class.ilECSUserConsentModalGUI.php",
+        "line": 283,
+        "code": "$this->lng->txt('ecs_form_target_platform')",
+        "has_variable": false,
+        "variable": "ecs_form_target_platform"
+    },
+    {
+        "id": 48848,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/Consent\/class.ilECSUserConsentModalGUI.php",
+        "line": 293,
+        "code": "$this->lng->txt('organization')",
+        "has_variable": false,
+        "variable": "organization"
+    },
+    {
+        "id": 48850,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/Consent\/class.ilECSUserConsentModalGUI.php",
+        "line": 301,
+        "code": "$this->lng->txt('ecs_form_consent')",
+        "has_variable": false,
+        "variable": "ecs_form_consent"
+    },
+    {
+        "id": 48852,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/Consent\/class.ilECSUserConsentModalGUI.php",
+        "line": 316,
+        "code": "$this->lng->txt('ecs_' . $field)",
+        "has_variable": true,
+        "variable": "'ecs_' . $field"
+    },
+    {
+        "id": 48854,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/Consent\/class.ilECSUserConsentModalGUI.php",
+        "line": 321,
+        "code": "$this->lng->txt(\n                'ecs_form_consent_option_title'\n            )",
+        "has_variable": false,
+        "variable": "ecs_form_consent_option_title"
+    },
+    {
+        "id": 48856,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/Mapping\/class.ilECSMappingSettingsGUI.php",
+        "line": 91,
+        "code": "$this->lng->txt('ecs_campus_connect_title')",
+        "has_variable": false,
+        "variable": "ecs_campus_connect_title"
+    },
+    {
+        "id": 48858,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/Mapping\/class.ilECSMappingSettingsGUI.php",
+        "line": 260,
+        "code": "$this->lng->txt('ecs_cmap_mapping_form_title')",
+        "has_variable": false,
+        "variable": "ecs_cmap_mapping_form_title"
+    },
+    {
+        "id": 48860,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/Mapping\/class.ilECSMappingSettingsGUI.php",
+        "line": 268,
+        "code": "$this->lng->txt('ecs_cmap_att_' . $att_name)",
+        "has_variable": true,
+        "variable": "'ecs_cmap_att_' . $att_name"
+    },
+    {
+        "id": 48862,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/Mapping\/class.ilECSMappingSettingsGUI.php",
+        "line": 273,
+        "code": "$this->lng->txt('ecs_cmap_form_filter')",
+        "has_variable": false,
+        "variable": "ecs_cmap_form_filter"
+    },
+    {
+        "id": 48864,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/Mapping\/class.ilECSMappingSettingsGUI.php",
+        "line": 276,
+        "code": "$this->lng->txt('ecs_cmap_form_all_values')",
+        "has_variable": false,
+        "variable": "ecs_cmap_form_all_values"
+    },
+    {
+        "id": 48866,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/Mapping\/class.ilECSMappingSettingsGUI.php",
+        "line": 279,
+        "code": "$this->lng->txt('ecs_cmap_form_filter_by_values')",
+        "has_variable": false,
+        "variable": "ecs_cmap_form_filter_by_values"
+    },
+    {
+        "id": 48868,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/Mapping\/class.ilECSMappingSettingsGUI.php",
+        "line": 281,
+        "code": "$this->lng->txt('ecs_cmap_form_filter_info')",
+        "has_variable": false,
+        "variable": "ecs_cmap_form_filter_info"
+    },
+    {
+        "id": 48870,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/Mapping\/class.ilECSMappingSettingsGUI.php",
+        "line": 293,
+        "code": "$this->lng->txt('ecs_cmap_form_create_subdirs')",
+        "has_variable": false,
+        "variable": "ecs_cmap_form_create_subdirs"
+    },
+    {
+        "id": 48872,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/Mapping\/class.ilECSMappingSettingsGUI.php",
+        "line": 299,
+        "code": "$this->lng->txt('ecs_cmap_form_subdir_type')",
+        "has_variable": false,
+        "variable": "ecs_cmap_form_subdir_type"
+    },
+    {
+        "id": 48874,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/Mapping\/class.ilECSMappingSettingsGUI.php",
+        "line": 302,
+        "code": "$this->lng->txt('ecs_cmap_form_subdir_value')",
+        "has_variable": false,
+        "variable": "ecs_cmap_form_subdir_value"
+    },
+    {
+        "id": 48876,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/Mapping\/class.ilECSMappingSettingsGUI.php",
+        "line": 305,
+        "code": "$this->lng->txt('ecs_cmap_form_subdir_name')",
+        "has_variable": false,
+        "variable": "ecs_cmap_form_subdir_name"
+    },
+    {
+        "id": 48878,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/Mapping\/class.ilECSMappingSettingsGUI.php",
+        "line": 320,
+        "code": "$this->lng->txt('ecs_cmap_form_dir_relation')",
+        "has_variable": false,
+        "variable": "ecs_cmap_form_dir_relation"
+    },
+    {
+        "id": 48880,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/Mapping\/class.ilECSMappingSettingsGUI.php",
+        "line": 322,
+        "code": "$this->lng->txt('ecs_cmap_form_current_dir')",
+        "has_variable": false,
+        "variable": "ecs_cmap_form_current_dir"
+    },
+    {
+        "id": 48882,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/Mapping\/class.ilECSMappingSettingsGUI.php",
+        "line": 327,
+        "code": "$this->lng->txt('ecs_cmap_att_'.$subdir_name)",
+        "has_variable": true,
+        "variable": "'ecs_cmap_att_'.$subdir_name"
+    },
+    {
+        "id": 48884,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/Mapping\/class.ilECSMappingSettingsGUI.php",
+        "line": 345,
+        "code": "$this->lng->txt('save')",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 48886,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/Mapping\/class.ilECSMappingSettingsGUI.php",
+        "line": 349,
+        "code": "$this->lng->txt('ecs_cmap_add_attribute_btn')",
+        "has_variable": false,
+        "variable": "ecs_cmap_add_attribute_btn"
+    },
+    {
+        "id": 48888,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/Mapping\/class.ilECSMappingSettingsGUI.php",
+        "line": 352,
+        "code": "$this->lng->txt('ecs_cmap_delete_attribute_btn')",
+        "has_variable": false,
+        "variable": "ecs_cmap_delete_attribute_btn"
+    },
+    {
+        "id": 48890,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/Mapping\/class.ilECSMappingSettingsGUI.php",
+        "line": 359,
+        "code": "$this->lng->txt('ecs_cmap_delete_rule')",
+        "has_variable": false,
+        "variable": "ecs_cmap_delete_rule"
+    },
+    {
+        "id": 48892,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/Mapping\/class.ilECSMappingSettingsGUI.php",
+        "line": 362,
+        "code": "$this->lng->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 48894,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/Mapping\/class.ilECSMappingSettingsGUI.php",
+        "line": 405,
+        "code": "$this->lng->txt('settings_saved')",
+        "has_variable": false,
+        "variable": "settings_saved"
+    },
+    {
+        "id": 48896,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/Mapping\/class.ilECSMappingSettingsGUI.php",
+        "line": 411,
+        "code": "$this->lng->txt('err_check_input')",
+        "has_variable": false,
+        "variable": "err_check_input"
+    },
+    {
+        "id": 48898,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/Mapping\/class.ilECSMappingSettingsGUI.php",
+        "line": 429,
+        "code": "$this->lng->txt('settings_saved')",
+        "has_variable": false,
+        "variable": "settings_saved"
+    },
+    {
+        "id": 48900,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/Mapping\/class.ilECSMappingSettingsGUI.php",
+        "line": 461,
+        "code": "$this->lng->txt('settings')",
+        "has_variable": false,
+        "variable": "settings"
+    },
+    {
+        "id": 48902,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/Mapping\/class.ilECSMappingSettingsGUI.php",
+        "line": 464,
+        "code": "$this->lng->txt('ecs_cmap_enable')",
+        "has_variable": false,
+        "variable": "ecs_cmap_enable"
+    },
+    {
+        "id": 48904,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/Mapping\/class.ilECSMappingSettingsGUI.php",
+        "line": 470,
+        "code": "$this->lng->txt('ecs_cmap_def_cat')",
+        "has_variable": false,
+        "variable": "ecs_cmap_def_cat"
+    },
+    {
+        "id": 48906,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/Mapping\/class.ilECSMappingSettingsGUI.php",
+        "line": 489,
+        "code": "$this->lng->txt('ecs_cmap_def_cat_info')",
+        "has_variable": false,
+        "variable": "ecs_cmap_def_cat_info"
+    },
+    {
+        "id": 48908,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/Mapping\/class.ilECSMappingSettingsGUI.php",
+        "line": 493,
+        "code": "$this->lng->txt('ecs_cmap_all_in_one')",
+        "has_variable": false,
+        "variable": "ecs_cmap_all_in_one"
+    },
+    {
+        "id": 48910,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/Mapping\/class.ilECSMappingSettingsGUI.php",
+        "line": 495,
+        "code": "$this->lng->txt('ecs_cmap_all_in_one_info')",
+        "has_variable": false,
+        "variable": "ecs_cmap_all_in_one_info"
+    },
+    {
+        "id": 48912,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/Mapping\/class.ilECSMappingSettingsGUI.php",
+        "line": 497,
+        "code": "$this->lng->txt('ecs_cmap_all_in_one_cat')",
+        "has_variable": false,
+        "variable": "ecs_cmap_all_in_one_cat"
+    },
+    {
+        "id": 48914,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/Mapping\/class.ilECSMappingSettingsGUI.php",
+        "line": 519,
+        "code": "$this->lng->txt('ecs_cmap_multiple_atts')",
+        "has_variable": false,
+        "variable": "ecs_cmap_multiple_atts"
+    },
+    {
+        "id": 48916,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/Mapping\/class.ilECSMappingSettingsGUI.php",
+        "line": 523,
+        "code": "$this->lng->txt('ecs_cmap_attributes')",
+        "has_variable": false,
+        "variable": "ecs_cmap_attributes"
+    },
+    {
+        "id": 48918,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/Mapping\/class.ilECSMappingSettingsGUI.php",
+        "line": 539,
+        "code": "$this->lng->txt('ecs_role_mappings')",
+        "has_variable": false,
+        "variable": "ecs_role_mappings"
+    },
+    {
+        "id": 48920,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/Mapping\/class.ilECSMappingSettingsGUI.php",
+        "line": 543,
+        "code": "$this->lng->txt('ecs_member_auth_type')",
+        "has_variable": false,
+        "variable": "ecs_member_auth_type"
+    },
+    {
+        "id": 48922,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/Mapping\/class.ilECSMappingSettingsGUI.php",
+        "line": 552,
+        "code": "$this->lng->txt($info['lang'])",
+        "has_variable": true,
+        "variable": "\\$info"
+    },
+    {
+        "id": 48924,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/Mapping\/class.ilECSMappingSettingsGUI.php",
+        "line": 562,
+        "code": "$this->lng->txt('save')",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 48926,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/Mapping\/class.ilECSMappingSettingsGUI.php",
+        "line": 563,
+        "code": "$this->lng->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 48928,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/Mapping\/class.ilECSMappingSettingsGUI.php",
+        "line": 629,
+        "code": "$this->lng->txt('settings_saved')",
+        "has_variable": false,
+        "variable": "settings_saved"
+    },
+    {
+        "id": 48930,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/Mapping\/class.ilECSMappingSettingsGUI.php",
+        "line": 632,
+        "code": "$this->lng->txt('err_check_input')",
+        "has_variable": false,
+        "variable": "err_check_input"
+    },
+    {
+        "id": 48932,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/Mapping\/class.ilECSMappingSettingsGUI.php",
+        "line": 648,
+        "code": "$this->lng->txt('settings_saved')",
+        "has_variable": false,
+        "variable": "settings_saved"
+    },
+    {
+        "id": 48934,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/Mapping\/class.ilECSMappingSettingsGUI.php",
+        "line": 650,
+        "code": "$this->lng->txt('err_check_input')",
+        "has_variable": false,
+        "variable": "err_check_input"
+    },
+    {
+        "id": 48936,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/Mapping\/class.ilECSMappingSettingsGUI.php",
+        "line": 663,
+        "code": "$this->lng->txt('general_settings')",
+        "has_variable": false,
+        "variable": "general_settings"
+    },
+    {
+        "id": 48938,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/Mapping\/class.ilECSMappingSettingsGUI.php",
+        "line": 665,
+        "code": "$this->lng->txt('ecs_node_mapping_activate')",
+        "has_variable": false,
+        "variable": "ecs_node_mapping_activate"
+    },
+    {
+        "id": 48940,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/Mapping\/class.ilECSMappingSettingsGUI.php",
+        "line": 669,
+        "code": "$this->lng->txt('ecs_node_mapping_create_empty')",
+        "has_variable": false,
+        "variable": "ecs_node_mapping_create_empty"
+    },
+    {
+        "id": 48942,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/Mapping\/class.ilECSMappingSettingsGUI.php",
+        "line": 671,
+        "code": "$this->lng->txt('ecs_node_mapping_create_empty_info')",
+        "has_variable": false,
+        "variable": "ecs_node_mapping_create_empty_info"
+    },
+    {
+        "id": 48944,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/Mapping\/class.ilECSMappingSettingsGUI.php",
+        "line": 674,
+        "code": "$this->lng->txt('save')",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 48946,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/Mapping\/class.ilECSMappingSettingsGUI.php",
+        "line": 675,
+        "code": "$this->lng->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 48948,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/Mapping\/class.ilECSMappingSettingsGUI.php",
+        "line": 690,
+        "code": "$this->lng->txt('ecs_sync_trees')",
+        "has_variable": false,
+        "variable": "ecs_sync_trees"
+    },
+    {
+        "id": 48950,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/Mapping\/class.ilECSMappingSettingsGUI.php",
+        "line": 718,
+        "code": "$this->lng->txt('ecs_confirm_delete_tree')",
+        "has_variable": false,
+        "variable": "ecs_confirm_delete_tree"
+    },
+    {
+        "id": 48952,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/Mapping\/class.ilECSMappingSettingsGUI.php",
+        "line": 729,
+        "code": "$this->lng->txt('delete')",
+        "has_variable": false,
+        "variable": "delete"
+    },
+    {
+        "id": 48954,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/Mapping\/class.ilECSMappingSettingsGUI.php",
+        "line": 730,
+        "code": "$this->lng->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 48956,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/Mapping\/class.ilECSMappingSettingsGUI.php",
+        "line": 770,
+        "code": "$this->lng->txt('ecs_cms_tree_deleted')",
+        "has_variable": false,
+        "variable": "ecs_cms_tree_deleted"
+    },
+    {
+        "id": 48958,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/Mapping\/class.ilECSMappingSettingsGUI.php",
+        "line": 785,
+        "code": "$this->lng->txt('ecs_back_settings')",
+        "has_variable": false,
+        "variable": "ecs_back_settings"
+    },
+    {
+        "id": 48960,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/Mapping\/class.ilECSMappingSettingsGUI.php",
+        "line": 789,
+        "code": "$this->lng->txt('ecs_cms_dir_tree')",
+        "has_variable": false,
+        "variable": "ecs_cms_dir_tree"
+    },
+    {
+        "id": 48962,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/Mapping\/class.ilECSMappingSettingsGUI.php",
+        "line": 793,
+        "code": "$this->lng->txt('ecs_status_legend')",
+        "has_variable": false,
+        "variable": "ecs_status_legend"
+    },
+    {
+        "id": 48964,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/Mapping\/class.ilECSMappingSettingsGUI.php",
+        "line": 794,
+        "code": "$this->lng->txt('ecs_status_pending_unmapped')",
+        "has_variable": false,
+        "variable": "ecs_status_pending_unmapped"
+    },
+    {
+        "id": 48966,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/Mapping\/class.ilECSMappingSettingsGUI.php",
+        "line": 795,
+        "code": "$this->lng->txt('ecs_status_pending_unmapped_discon')",
+        "has_variable": false,
+        "variable": "ecs_status_pending_unmapped_discon"
+    },
+    {
+        "id": 48968,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/Mapping\/class.ilECSMappingSettingsGUI.php",
+        "line": 796,
+        "code": "$this->lng->txt('ecs_status_pending_unmapped_nondiscon')",
+        "has_variable": false,
+        "variable": "ecs_status_pending_unmapped_nondiscon"
+    },
+    {
+        "id": 48970,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/Mapping\/class.ilECSMappingSettingsGUI.php",
+        "line": 797,
+        "code": "$this->lng->txt('ecs_status_mapped')",
+        "has_variable": false,
+        "variable": "ecs_status_mapped"
+    },
+    {
+        "id": 48972,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/Mapping\/class.ilECSMappingSettingsGUI.php",
+        "line": 798,
+        "code": "$this->lng->txt('ecs_status_deleted')",
+        "has_variable": false,
+        "variable": "ecs_status_deleted"
+    },
+    {
+        "id": 48974,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/Mapping\/class.ilECSMappingSettingsGUI.php",
+        "line": 826,
+        "code": "$this->lng->txt('general_settings')",
+        "has_variable": false,
+        "variable": "general_settings"
+    },
+    {
+        "id": 48976,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/Mapping\/class.ilECSMappingSettingsGUI.php",
+        "line": 827,
+        "code": "$this->lng->txt('save')",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 48978,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/Mapping\/class.ilECSMappingSettingsGUI.php",
+        "line": 828,
+        "code": "$this->lng->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 48980,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/Mapping\/class.ilECSMappingSettingsGUI.php",
+        "line": 832,
+        "code": "$this->lng->txt('ecs_cms_id')",
+        "has_variable": false,
+        "variable": "ecs_cms_id"
+    },
+    {
+        "id": 48982,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/Mapping\/class.ilECSMappingSettingsGUI.php",
+        "line": 850,
+        "code": "$this->lng->txt('status')",
+        "has_variable": false,
+        "variable": "status"
+    },
+    {
+        "id": 48984,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/Mapping\/class.ilECSMappingSettingsGUI.php",
+        "line": 855,
+        "code": "$this->lng->txt('ecs_title_updates')",
+        "has_variable": false,
+        "variable": "ecs_title_updates"
+    },
+    {
+        "id": 48986,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/Mapping\/class.ilECSMappingSettingsGUI.php",
+        "line": 858,
+        "code": "$this->lng->txt('ecs_title_update_info')",
+        "has_variable": false,
+        "variable": "ecs_title_update_info"
+    },
+    {
+        "id": 48988,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/Mapping\/class.ilECSMappingSettingsGUI.php",
+        "line": 862,
+        "code": "$this->lng->txt('ecs_position_updates')",
+        "has_variable": false,
+        "variable": "ecs_position_updates"
+    },
+    {
+        "id": 48990,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/Mapping\/class.ilECSMappingSettingsGUI.php",
+        "line": 866,
+        "code": "$this->lng->txt('ecs_position_update_info')",
+        "has_variable": false,
+        "variable": "ecs_position_update_info"
+    },
+    {
+        "id": 48992,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/Mapping\/class.ilECSMappingSettingsGUI.php",
+        "line": 869,
+        "code": "$this->lng->txt('ecs_tree_updates')",
+        "has_variable": false,
+        "variable": "ecs_tree_updates"
+    },
+    {
+        "id": 48994,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/Mapping\/class.ilECSMappingSettingsGUI.php",
+        "line": 873,
+        "code": "$this->lng->txt('ecs_tree_update_info')",
+        "has_variable": false,
+        "variable": "ecs_tree_update_info"
+    },
+    {
+        "id": 48996,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/Mapping\/class.ilECSMappingSettingsGUI.php",
+        "line": 901,
+        "code": "$this->lng->txt('settings_saved', \"1\")",
+        "has_variable": true,
+        "variable": "_"
+    },
+    {
+        "id": 48998,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/Mapping\/class.ilECSMappingSettingsGUI.php",
+        "line": 906,
+        "code": "$this->lng->txt('err_check_input')",
+        "has_variable": false,
+        "variable": "err_check_input"
+    },
+    {
+        "id": 49000,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/Mapping\/class.ilECSMappingSettingsGUI.php",
+        "line": 922,
+        "code": "$this->lng->txt('ecs_cms_tree_synchronized')",
+        "has_variable": false,
+        "variable": "ecs_cms_tree_synchronized"
+    },
+    {
+        "id": 49002,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/Mapping\/class.ilECSMappingSettingsGUI.php",
+        "line": 1061,
+        "code": "$this->lng->txt('select_one')",
+        "has_variable": false,
+        "variable": "select_one"
+    },
+    {
+        "id": 49004,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/Mapping\/class.ilECSMappingSettingsGUI.php",
+        "line": 1117,
+        "code": "$this->lng->txt('settings_saved')",
+        "has_variable": false,
+        "variable": "settings_saved"
+    },
+    {
+        "id": 49006,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/Mapping\/class.ilECSMappingSettingsGUI.php",
+        "line": 1140,
+        "code": "$this->lng->txt('ecs_back_settings')",
+        "has_variable": false,
+        "variable": "ecs_back_settings"
+    },
+    {
+        "id": 49008,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/Mapping\/class.ilECSMappingSettingsGUI.php",
+        "line": 1147,
+        "code": "$this->lng->txt('ecs_dir_alloc')",
+        "has_variable": false,
+        "variable": "ecs_dir_alloc"
+    },
+    {
+        "id": 49010,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/Mapping\/class.ilECSMappingSettingsGUI.php",
+        "line": 1154,
+        "code": "$this->lng->txt('ecs_crs_alloc')",
+        "has_variable": false,
+        "variable": "ecs_crs_alloc"
+    },
+    {
+        "id": 49012,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/Mapping\/class.ilECSMappingSettingsGUI.php",
+        "line": 1167,
+        "code": "$this->lng->txt('ecs_cc_mapping_overview')",
+        "has_variable": false,
+        "variable": "ecs_cc_mapping_overview"
+    },
+    {
+        "id": 49014,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/Mapping\/class.ilECSMappingSettingsGUI.php",
+        "line": 1172,
+        "code": "$this->lng->txt('ecs_cms_dir_tree')",
+        "has_variable": false,
+        "variable": "ecs_cms_dir_tree"
+    },
+    {
+        "id": 49016,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/Mapping\/class.ilECSMappingSettingsGUI.php",
+        "line": 1177,
+        "code": "$this->lng->txt('settings')",
+        "has_variable": false,
+        "variable": "settings"
+    },
+    {
+        "id": 49018,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/Mapping\/class.ilECSMappingSettingsGUI.php",
+        "line": 1185,
+        "code": "$this->lng->txt('ecs_cmap_overview')",
+        "has_variable": false,
+        "variable": "ecs_cmap_overview"
+    },
+    {
+        "id": 49020,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/Mapping\/class.ilECSMappingSettingsGUI.php",
+        "line": 1192,
+        "code": "$this->lng->txt('settings')",
+        "has_variable": false,
+        "variable": "settings"
+    },
+    {
+        "id": 49022,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/Mapping\/class.ilECSMappingUtils.php",
+        "line": 83,
+        "code": "$lng->txt('ecs_cmap_att_' . $field)",
+        "has_variable": true,
+        "variable": "'ecs_cmap_att_' . $field"
+    },
+    {
+        "id": 49024,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/Mapping\/class.ilECSMappingUtils.php",
+        "line": 95,
+        "code": "$lng->txt('select_one')",
+        "has_variable": false,
+        "variable": "select_one"
+    },
+    {
+        "id": 49026,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/Mapping\/class.ilECSMappingUtils.php",
+        "line": 221,
+        "code": "$lng->txt('select_one')",
+        "has_variable": false,
+        "variable": "select_one"
+    },
+    {
+        "id": 49028,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/Mapping\/class.ilECSNodeMappingCmsExplorer.php",
+        "line": 159,
+        "code": "$this->lng->txt(\"expand\")",
+        "has_variable": false,
+        "variable": "expand"
+    },
+    {
+        "id": 49030,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/Mapping\/class.ilECSNodeMappingCmsExplorer.php",
+        "line": 170,
+        "code": "$this->lng->txt(\"collapse\")",
+        "has_variable": false,
+        "variable": "collapse"
+    },
+    {
+        "id": 49032,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/Mapping\/class.ilECSNodeMappingCmsExplorer.php",
+        "line": 192,
+        "code": "$this->lng->txt($a_option[\"desc\"])",
+        "has_variable": true,
+        "variable": "_"
+    },
+    {
+        "id": 49034,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/Mapping\/class.ilECSNodeMappingLocalExplorer.php",
+        "line": 166,
+        "code": "$this->lng->txt(\"expand\")",
+        "has_variable": false,
+        "variable": "expand"
+    },
+    {
+        "id": 49036,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/Mapping\/class.ilECSNodeMappingLocalExplorer.php",
+        "line": 178,
+        "code": "$this->lng->txt(\"collapse\")",
+        "has_variable": false,
+        "variable": "collapse"
+    },
+    {
+        "id": 49038,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/Mapping\/class.ilECSNodeMappingLocalExplorer.php",
+        "line": 201,
+        "code": "$this->lng->txt($a_option[\"desc\"])",
+        "has_variable": true,
+        "variable": "_"
+    },
+    {
+        "id": 49040,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/Mapping\/class.ilECSNodeMappingLocalExplorer.php",
+        "line": 282,
+        "code": "$this->lng->txt(\"repository\")",
+        "has_variable": false,
+        "variable": "repository"
+    },
+    {
+        "id": 49042,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/Mapping\/class.ilECSNodeMappingTreeTableGUI.php",
+        "line": 47,
+        "code": "$this->lng->txt('ecs_cms_directory_trees_tbl')",
+        "has_variable": false,
+        "variable": "ecs_cms_directory_trees_tbl"
+    },
+    {
+        "id": 49044,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/Mapping\/class.ilECSNodeMappingTreeTableGUI.php",
+        "line": 48,
+        "code": "$this->lng->txt('title')",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 49046,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/Mapping\/class.ilECSNodeMappingTreeTableGUI.php",
+        "line": 49,
+        "code": "$this->lng->txt('actions')",
+        "has_variable": false,
+        "variable": "actions"
+    },
+    {
+        "id": 49048,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/Mapping\/class.ilECSNodeMappingTreeTableGUI.php",
+        "line": 86,
+        "code": "$this->lng->txt('status')",
+        "has_variable": false,
+        "variable": "status"
+    },
+    {
+        "id": 49050,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/Mapping\/class.ilECSNodeMappingTreeTableGUI.php",
+        "line": 95,
+        "code": "$this->lng->txt('edit')",
+        "has_variable": false,
+        "variable": "edit"
+    },
+    {
+        "id": 49052,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/Mapping\/class.ilECSNodeMappingTreeTableGUI.php",
+        "line": 100,
+        "code": "$this->lng->txt('ecs_cms_tree_synchronize')",
+        "has_variable": false,
+        "variable": "ecs_cms_tree_synchronize"
+    },
+    {
+        "id": 49054,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/Mapping\/class.ilECSNodeMappingTreeTableGUI.php",
+        "line": 105,
+        "code": "$this->lng->txt('delete')",
+        "has_variable": false,
+        "variable": "delete"
+    },
+    {
+        "id": 49056,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/Mapping\/class.ilECSNodeMappingTreeTableGUI.php",
+        "line": 112,
+        "code": "$this->lng->txt('actions')",
+        "has_variable": false,
+        "variable": "actions"
+    },
+    {
+        "id": 49058,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSAppEventListener.php",
+        "line": 215,
+        "code": "$lang->txt('ecs_new_user_subject')",
+        "has_variable": false,
+        "variable": "ecs_new_user_subject"
+    },
+    {
+        "id": 49060,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSAppEventListener.php",
+        "line": 218,
+        "code": "$lang->txt('ecs_new_user_body')",
+        "has_variable": false,
+        "variable": "ecs_new_user_body"
+    },
+    {
+        "id": 49062,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSAppEventListener.php",
+        "line": 219,
+        "code": "$lang->txt('ecs_new_user_profile')",
+        "has_variable": false,
+        "variable": "ecs_new_user_profile"
+    },
+    {
+        "id": 49064,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSCategoryMapping.php",
+        "line": 149,
+        "code": "$lng->txt(\"ecs_field_community\")",
+        "has_variable": false,
+        "variable": "ecs_field_community"
+    },
+    {
+        "id": 49066,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSCategoryMapping.php",
+        "line": 150,
+        "code": "$lng->txt(\"ecs_field_part_id\")",
+        "has_variable": false,
+        "variable": "ecs_field_part_id"
+    },
+    {
+        "id": 49068,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSCategoryMapping.php",
+        "line": 151,
+        "code": "$lng->txt(\"type\")",
+        "has_variable": false,
+        "variable": "type"
+    },
+    {
+        "id": 49070,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSCategoryMapping.php",
+        "line": 159,
+        "code": "$lng->txt(\"obj_rcrs\")",
+        "has_variable": false,
+        "variable": "obj_rcrs"
+    },
+    {
+        "id": 49072,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSCategoryMapping.php",
+        "line": 159,
+        "code": "$lng->txt(\"ecs_field_\" . $field)",
+        "has_variable": true,
+        "variable": "\"ecs_field_\" . $field"
+    },
+    {
+        "id": 49074,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSCategoryMappingRule.php",
+        "line": 344,
+        "code": "$this->language->txt('ecs_field_' . $this->getFieldName())",
+        "has_variable": true,
+        "variable": "'ecs_field_' . $this->getFieldName()"
+    },
+    {
+        "id": 49076,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSCategoryMappingRule.php",
+        "line": 346,
+        "code": "$this->language->txt('ecs_field_' . $this->getFieldName())",
+        "has_variable": true,
+        "variable": "'ecs_field_' . $this->getFieldName()"
+    },
+    {
+        "id": 49078,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSCategoryMappingRule.php",
+        "line": 349,
+        "code": "$this->language->txt('ecs_field_' . $this->getFieldName())",
+        "has_variable": true,
+        "variable": "'ecs_field_' . $this->getFieldName()"
+    },
+    {
+        "id": 49080,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSCategoryMappingRule.php",
+        "line": 355,
+        "code": "$this->language->txt('type')",
+        "has_variable": false,
+        "variable": "type"
+    },
+    {
+        "id": 49082,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSCategoryMappingRule.php",
+        "line": 355,
+        "code": "$this->language->txt('obj_' . $this->getByType())",
+        "has_variable": true,
+        "variable": "'obj_' . $this->getByType()"
+    },
+    {
+        "id": 49084,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSCategoryMappingTableGUI.php",
+        "line": 37,
+        "code": "$this->lng->txt('obj_cat')",
+        "has_variable": false,
+        "variable": "obj_cat"
+    },
+    {
+        "id": 49086,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSCategoryMappingTableGUI.php",
+        "line": 38,
+        "code": "$this->lng->txt('ecs_cat_mapping_type')",
+        "has_variable": false,
+        "variable": "ecs_cat_mapping_type"
+    },
+    {
+        "id": 49088,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSCategoryMappingTableGUI.php",
+        "line": 45,
+        "code": "$this->lng->txt('ecs_tbl_active_rules')",
+        "has_variable": false,
+        "variable": "ecs_tbl_active_rules"
+    },
+    {
+        "id": 49090,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSCategoryMappingTableGUI.php",
+        "line": 46,
+        "code": "$this->lng->txt('delete')",
+        "has_variable": false,
+        "variable": "delete"
+    },
+    {
+        "id": 49092,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSCategoryMappingTableGUI.php",
+        "line": 52,
+        "code": "$this->lng->txt('ecs_import_id')",
+        "has_variable": false,
+        "variable": "ecs_import_id"
+    },
+    {
+        "id": 49094,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSCategoryMappingTableGUI.php",
+        "line": 54,
+        "code": "$this->lng->txt('title')",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 49096,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSCategoryMappingTableGUI.php",
+        "line": 57,
+        "code": "$this->lng->txt('edit')",
+        "has_variable": false,
+        "variable": "edit"
+    },
+    {
+        "id": 49098,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSCommunityTableGUI.php",
+        "line": 45,
+        "code": "$this->lng->txt('ecs_participants')",
+        "has_variable": false,
+        "variable": "ecs_participants"
+    },
+    {
+        "id": 49100,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSCommunityTableGUI.php",
+        "line": 46,
+        "code": "$this->lng->txt('ecs_participants_infos')",
+        "has_variable": false,
+        "variable": "ecs_participants_infos"
+    },
+    {
+        "id": 49102,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSCommunityTableGUI.php",
+        "line": 47,
+        "code": "$this->lng->txt('ecs_tbl_export')",
+        "has_variable": false,
+        "variable": "ecs_tbl_export"
+    },
+    {
+        "id": 49104,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSCommunityTableGUI.php",
+        "line": 48,
+        "code": "$this->lng->txt('ecs_tbl_import')",
+        "has_variable": false,
+        "variable": "ecs_tbl_import"
+    },
+    {
+        "id": 49106,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSCommunityTableGUI.php",
+        "line": 49,
+        "code": "$this->lng->txt('ecs_tbl_import_type')",
+        "has_variable": false,
+        "variable": "ecs_tbl_import_type"
+    },
+    {
+        "id": 49108,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSCommunityTableGUI.php",
+        "line": 87,
+        "code": "$this->lng->txt('ecs_email')",
+        "has_variable": false,
+        "variable": "ecs_email"
+    },
+    {
+        "id": 49110,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSCommunityTableGUI.php",
+        "line": 88,
+        "code": "$this->lng->txt('ecs_dns')",
+        "has_variable": false,
+        "variable": "ecs_dns"
+    },
+    {
+        "id": 49112,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSCommunityTableGUI.php",
+        "line": 89,
+        "code": "$this->lng->txt('ecs_abr')",
+        "has_variable": false,
+        "variable": "ecs_abr"
+    },
+    {
+        "id": 49114,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSCommunityTableGUI.php",
+        "line": 90,
+        "code": "$this->lng->txt('ecs_unique_id')",
+        "has_variable": false,
+        "variable": "ecs_unique_id"
+    },
+    {
+        "id": 49116,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSCommunityTableGUI.php",
+        "line": 91,
+        "code": "$this->lng->txt('organization')",
+        "has_variable": false,
+        "variable": "organization"
+    },
+    {
+        "id": 49118,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSCommunityTableGUI.php",
+        "line": 99,
+        "code": "$this->lng->txt('objs_' . $obj_type)",
+        "has_variable": true,
+        "variable": "'objs_' . $obj_type"
+    },
+    {
+        "id": 49120,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSCommunityTableGUI.php",
+        "line": 104,
+        "code": "$this->lng->txt('disabled')",
+        "has_variable": false,
+        "variable": "disabled"
+    },
+    {
+        "id": 49122,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSCommunityTableGUI.php",
+        "line": 110,
+        "code": "$this->lng->txt('objs_' . $obj_type)",
+        "has_variable": true,
+        "variable": "'objs_' . $obj_type"
+    },
+    {
+        "id": 49124,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSCommunityTableGUI.php",
+        "line": 115,
+        "code": "$this->lng->txt('disabled')",
+        "has_variable": false,
+        "variable": "disabled"
+    },
+    {
+        "id": 49126,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSCommunityTableGUI.php",
+        "line": 122,
+        "code": "$this->lng->txt('obj_rcrs')",
+        "has_variable": false,
+        "variable": "obj_rcrs"
+    },
+    {
+        "id": 49128,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSCommunityTableGUI.php",
+        "line": 123,
+        "code": "$this->lng->txt('obj_crs')",
+        "has_variable": false,
+        "variable": "obj_crs"
+    },
+    {
+        "id": 49130,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSCommunityTableGUI.php",
+        "line": 124,
+        "code": "$this->lng->txt('ecs_import_cms')",
+        "has_variable": false,
+        "variable": "ecs_import_cms"
+    },
+    {
+        "id": 49132,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSCommunityTableGUI.php",
+        "line": 134,
+        "code": "$this->lng->txt('edit')",
+        "has_variable": false,
+        "variable": "edit"
+    },
+    {
+        "id": 49134,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSCommunityTableGUI.php",
+        "line": 148,
+        "code": "$this->lng->txt('ecs_crs_alloc_set')",
+        "has_variable": false,
+        "variable": "ecs_crs_alloc_set"
+    },
+    {
+        "id": 49136,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSCommunityTableGUI.php",
+        "line": 159,
+        "code": "$this->lng->txt('ecs_dir_alloc_set')",
+        "has_variable": false,
+        "variable": "ecs_dir_alloc_set"
+    },
+    {
+        "id": 49138,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSCommunityTableGUI.php",
+        "line": 163,
+        "code": "$this->lng->txt('ecs_crs_alloc_set')",
+        "has_variable": false,
+        "variable": "ecs_crs_alloc_set"
+    },
+    {
+        "id": 49140,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSCommunityTableGUI.php",
+        "line": 175,
+        "code": "$this->lng->txt('actions')",
+        "has_variable": false,
+        "variable": "actions"
+    },
+    {
+        "id": 49142,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSExportedContentTableGUI.php",
+        "line": 34,
+        "code": "$this->lng->txt('title')",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 49144,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSExportedContentTableGUI.php",
+        "line": 35,
+        "code": "$this->lng->txt('ecs_meta_data')",
+        "has_variable": false,
+        "variable": "ecs_meta_data"
+    },
+    {
+        "id": 49146,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSExportedContentTableGUI.php",
+        "line": 36,
+        "code": "$this->lng->txt('last_update')",
+        "has_variable": false,
+        "variable": "last_update"
+    },
+    {
+        "id": 49148,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSExportedContentTableGUI.php",
+        "line": 56,
+        "code": "$this->lng->txt('ecs_email')",
+        "has_variable": false,
+        "variable": "ecs_email"
+    },
+    {
+        "id": 49150,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSExportedContentTableGUI.php",
+        "line": 57,
+        "code": "$this->lng->txt('ecs_dns')",
+        "has_variable": false,
+        "variable": "ecs_dns"
+    },
+    {
+        "id": 49152,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSExportedContentTableGUI.php",
+        "line": 58,
+        "code": "$this->lng->txt('ecs_abr')",
+        "has_variable": false,
+        "variable": "ecs_abr"
+    },
+    {
+        "id": 49154,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSExportedContentTableGUI.php",
+        "line": 62,
+        "code": "$this->lng->txt('ecs_field_term')",
+        "has_variable": false,
+        "variable": "ecs_field_term"
+    },
+    {
+        "id": 49156,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSExportedContentTableGUI.php",
+        "line": 63,
+        "code": "$this->lng->txt('ecs_field_courseType')",
+        "has_variable": false,
+        "variable": "ecs_field_courseType"
+    },
+    {
+        "id": 49158,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSExportedContentTableGUI.php",
+        "line": 64,
+        "code": "$this->lng->txt('ecs_field_courseID')",
+        "has_variable": false,
+        "variable": "ecs_field_courseID"
+    },
+    {
+        "id": 49160,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSExportedContentTableGUI.php",
+        "line": 65,
+        "code": "$this->lng->txt('ecs_field_credits')",
+        "has_variable": false,
+        "variable": "ecs_field_credits"
+    },
+    {
+        "id": 49162,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSExportedContentTableGUI.php",
+        "line": 66,
+        "code": "$this->lng->txt('ecs_field_room')",
+        "has_variable": false,
+        "variable": "ecs_field_room"
+    },
+    {
+        "id": 49164,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSExportedContentTableGUI.php",
+        "line": 67,
+        "code": "$this->lng->txt('ecs_field_cycle')",
+        "has_variable": false,
+        "variable": "ecs_field_cycle"
+    },
+    {
+        "id": 49166,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSExportedContentTableGUI.php",
+        "line": 68,
+        "code": "$this->lng->txt('ecs_field_semester_hours')",
+        "has_variable": false,
+        "variable": "ecs_field_semester_hours"
+    },
+    {
+        "id": 49168,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSExportedContentTableGUI.php",
+        "line": 69,
+        "code": "$this->lng->txt('ecs_field_begin')",
+        "has_variable": false,
+        "variable": "ecs_field_begin"
+    },
+    {
+        "id": 49170,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSExportedContentTableGUI.php",
+        "line": 70,
+        "code": "$this->lng->txt('ecs_field_end')",
+        "has_variable": false,
+        "variable": "ecs_field_end"
+    },
+    {
+        "id": 49172,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSExportedContentTableGUI.php",
+        "line": 71,
+        "code": "$this->lng->txt('ecs_field_lecturer')",
+        "has_variable": false,
+        "variable": "ecs_field_lecturer"
+    },
+    {
+        "id": 49174,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSImportedContentTableGUI.php",
+        "line": 42,
+        "code": "$this->lng->txt('title')",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 49176,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSImportedContentTableGUI.php",
+        "line": 43,
+        "code": "$this->lng->txt('res_links_short')",
+        "has_variable": false,
+        "variable": "res_links_short"
+    },
+    {
+        "id": 49178,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSImportedContentTableGUI.php",
+        "line": 44,
+        "code": "$this->lng->txt('ecs_imported_from')",
+        "has_variable": false,
+        "variable": "ecs_imported_from"
+    },
+    {
+        "id": 49180,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSImportedContentTableGUI.php",
+        "line": 45,
+        "code": "$this->lng->txt('ecs_meta_data')",
+        "has_variable": false,
+        "variable": "ecs_meta_data"
+    },
+    {
+        "id": 49182,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSImportedContentTableGUI.php",
+        "line": 46,
+        "code": "$this->lng->txt('last_update')",
+        "has_variable": false,
+        "variable": "last_update"
+    },
+    {
+        "id": 49184,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSImportedContentTableGUI.php",
+        "line": 69,
+        "code": "$this->lng->txt('ecs_email')",
+        "has_variable": false,
+        "variable": "ecs_email"
+    },
+    {
+        "id": 49186,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSImportedContentTableGUI.php",
+        "line": 70,
+        "code": "$this->lng->txt('ecs_dns')",
+        "has_variable": false,
+        "variable": "ecs_dns"
+    },
+    {
+        "id": 49188,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSImportedContentTableGUI.php",
+        "line": 71,
+        "code": "$this->lng->txt('ecs_abr')",
+        "has_variable": false,
+        "variable": "ecs_abr"
+    },
+    {
+        "id": 49190,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSImportedContentTableGUI.php",
+        "line": 90,
+        "code": "$this->lng->txt('ecs_field_term')",
+        "has_variable": false,
+        "variable": "ecs_field_term"
+    },
+    {
+        "id": 49192,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSImportedContentTableGUI.php",
+        "line": 91,
+        "code": "$this->lng->txt('ecs_field_courseType')",
+        "has_variable": false,
+        "variable": "ecs_field_courseType"
+    },
+    {
+        "id": 49194,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSImportedContentTableGUI.php",
+        "line": 92,
+        "code": "$this->lng->txt('ecs_field_courseID')",
+        "has_variable": false,
+        "variable": "ecs_field_courseID"
+    },
+    {
+        "id": 49196,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSImportedContentTableGUI.php",
+        "line": 93,
+        "code": "$this->lng->txt('ecs_field_credits')",
+        "has_variable": false,
+        "variable": "ecs_field_credits"
+    },
+    {
+        "id": 49198,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSImportedContentTableGUI.php",
+        "line": 94,
+        "code": "$this->lng->txt('ecs_field_room')",
+        "has_variable": false,
+        "variable": "ecs_field_room"
+    },
+    {
+        "id": 49200,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSImportedContentTableGUI.php",
+        "line": 95,
+        "code": "$this->lng->txt('ecs_field_cycle')",
+        "has_variable": false,
+        "variable": "ecs_field_cycle"
+    },
+    {
+        "id": 49202,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSImportedContentTableGUI.php",
+        "line": 96,
+        "code": "$this->lng->txt('ecs_field_semester_hours')",
+        "has_variable": false,
+        "variable": "ecs_field_semester_hours"
+    },
+    {
+        "id": 49204,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSImportedContentTableGUI.php",
+        "line": 97,
+        "code": "$this->lng->txt('ecs_field_begin')",
+        "has_variable": false,
+        "variable": "ecs_field_begin"
+    },
+    {
+        "id": 49206,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSImportedContentTableGUI.php",
+        "line": 98,
+        "code": "$this->lng->txt('ecs_field_end')",
+        "has_variable": false,
+        "variable": "ecs_field_end"
+    },
+    {
+        "id": 49208,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSImportedContentTableGUI.php",
+        "line": 99,
+        "code": "$this->lng->txt('ecs_field_lecturer')",
+        "has_variable": false,
+        "variable": "ecs_field_lecturer"
+    },
+    {
+        "id": 49210,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSImportedContentTableGUI.php",
+        "line": 181,
+        "code": "$this->lng->txt(\"ecs_server_deleted\")",
+        "has_variable": false,
+        "variable": "ecs_server_deleted"
+    },
+    {
+        "id": 49212,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSObjectSettings.php",
+        "line": 140,
+        "code": "$this->lng->txt('ecs_' . $a_type . '_export')",
+        "has_variable": true,
+        "variable": "'ecs_' . $a_type . '_export'"
+    },
+    {
+        "id": 49214,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSObjectSettings.php",
+        "line": 145,
+        "code": "$this->lng->txt('ecs_' . $a_type . '_export_obj_settings')",
+        "has_variable": true,
+        "variable": "'ecs_' . $a_type . '_export_obj_settings'"
+    },
+    {
+        "id": 49216,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSObjectSettings.php",
+        "line": 148,
+        "code": "$this->lng->txt('ecs_' . $a_type . '_export_disabled')",
+        "has_variable": true,
+        "variable": "'ecs_' . $a_type . '_export_disabled'"
+    },
+    {
+        "id": 49218,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSObjectSettings.php",
+        "line": 150,
+        "code": "$this->lng->txt('ecs_' . $a_type . '_export_enabled')",
+        "has_variable": true,
+        "variable": "'ecs_' . $a_type . '_export_enabled'"
+    },
+    {
+        "id": 49220,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSObjectSettings.php",
+        "line": 155,
+        "code": "$this->lng->txt('ecs_publish_for')",
+        "has_variable": false,
+        "variable": "ecs_publish_for"
+    },
+    {
+        "id": 49222,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSObjectSettings.php",
+        "line": 227,
+        "code": "$this->lng->txt('ecs_' . $type . '_export_obj_settings')",
+        "has_variable": true,
+        "variable": "'ecs_' . $type . '_export_obj_settings'"
+    },
+    {
+        "id": 49224,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSObjectSettings.php",
+        "line": 231,
+        "code": "$this->lng->txt('ecs_' . $type . '_export')",
+        "has_variable": true,
+        "variable": "'ecs_' . $type . '_export'"
+    },
+    {
+        "id": 49226,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSObjectSettings.php",
+        "line": 610,
+        "code": "$lang->txt('ecs_export_created_body_a')",
+        "has_variable": false,
+        "variable": "ecs_export_created_body_a"
+    },
+    {
+        "id": 49228,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSObjectSettings.php",
+        "line": 611,
+        "code": "$lang->txt('title')",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 49230,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSObjectSettings.php",
+        "line": 613,
+        "code": "$lang->txt('desc')",
+        "has_variable": false,
+        "variable": "desc"
+    },
+    {
+        "id": 49232,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSObjectSettings.php",
+        "line": 617,
+        "code": "$lang->txt('ecs_published_for')",
+        "has_variable": false,
+        "variable": "ecs_published_for"
+    },
+    {
+        "id": 49234,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSObjectSettings.php",
+        "line": 644,
+        "code": "$lang->txt('ecs_not_published')",
+        "has_variable": false,
+        "variable": "ecs_not_published"
+    },
+    {
+        "id": 49236,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSObjectSettings.php",
+        "line": 652,
+        "code": "$lang->txt(\"perma_link\")",
+        "has_variable": false,
+        "variable": "perma_link"
+    },
+    {
+        "id": 49238,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSObjectSettings.php",
+        "line": 659,
+        "code": "$lang->txt('ecs_new_approval_subject')",
+        "has_variable": false,
+        "variable": "ecs_new_approval_subject"
+    },
+    {
+        "id": 49240,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSParticipantSettingsGUI.php",
+        "line": 130,
+        "code": "$this->lng->txt('ecs_consent_reset_confirm_title')",
+        "has_variable": false,
+        "variable": "ecs_consent_reset_confirm_title"
+    },
+    {
+        "id": 49242,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSParticipantSettingsGUI.php",
+        "line": 131,
+        "code": "$this->lng->txt('ecs_consent_reset_confirm_title_info')",
+        "has_variable": false,
+        "variable": "ecs_consent_reset_confirm_title_info"
+    },
+    {
+        "id": 49244,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSParticipantSettingsGUI.php",
+        "line": 137,
+        "code": "$this->lng->txt('ecs_consent_reset_confirm_title')",
+        "has_variable": false,
+        "variable": "ecs_consent_reset_confirm_title"
+    },
+    {
+        "id": 49246,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSParticipantSettingsGUI.php",
+        "line": 147,
+        "code": "$this->lng->txt('ecs_user_consents_deleted')",
+        "has_variable": false,
+        "variable": "ecs_user_consents_deleted"
+    },
+    {
+        "id": 49248,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSParticipantSettingsGUI.php",
+        "line": 181,
+        "code": "$this->lng->txt('ecs_username_place_holder_err_mssing_placeholder')",
+        "has_variable": false,
+        "variable": "ecs_username_place_holder_err_mssing_placeholder"
+    },
+    {
+        "id": 49250,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSParticipantSettingsGUI.php",
+        "line": 186,
+        "code": "$this->lng->txt('settings_saved')",
+        "has_variable": false,
+        "variable": "settings_saved"
+    },
+    {
+        "id": 49252,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSParticipantSettingsGUI.php",
+        "line": 191,
+        "code": "$this->lng->txt('err_check_input')",
+        "has_variable": false,
+        "variable": "err_check_input"
+    },
+    {
+        "id": 49254,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSParticipantSettingsGUI.php",
+        "line": 202,
+        "code": "$this->lng->txt('ecs_part_settings')",
+        "has_variable": false,
+        "variable": "ecs_part_settings"
+    },
+    {
+        "id": 49256,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSParticipantSettingsGUI.php",
+        "line": 205,
+        "code": "$this->lng->txt('ecs_token_mechanism')",
+        "has_variable": false,
+        "variable": "ecs_token_mechanism"
+    },
+    {
+        "id": 49258,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSParticipantSettingsGUI.php",
+        "line": 206,
+        "code": "$this->lng->txt('ecs_token_mechanism_info')",
+        "has_variable": false,
+        "variable": "ecs_token_mechanism_info"
+    },
+    {
+        "id": 49260,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSParticipantSettingsGUI.php",
+        "line": 212,
+        "code": "$this->lng->txt('ecs_tbl_export')",
+        "has_variable": false,
+        "variable": "ecs_tbl_export"
+    },
+    {
+        "id": 49262,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSParticipantSettingsGUI.php",
+        "line": 218,
+        "code": "$this->lng->txt('ecs_export_local_account')",
+        "has_variable": false,
+        "variable": "ecs_export_local_account"
+    },
+    {
+        "id": 49264,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSParticipantSettingsGUI.php",
+        "line": 221,
+        "code": "$this->lng->txt('ecs_export_local_account_info')",
+        "has_variable": false,
+        "variable": "ecs_export_local_account_info"
+    },
+    {
+        "id": 49266,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSParticipantSettingsGUI.php",
+        "line": 227,
+        "code": "$this->lng->txt('ecs_export_auth_type')",
+        "has_variable": false,
+        "variable": "ecs_export_auth_type"
+    },
+    {
+        "id": 49268,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSParticipantSettingsGUI.php",
+        "line": 230,
+        "code": "$this->lng->txt('ecs_export_auth_type_info')",
+        "has_variable": false,
+        "variable": "ecs_export_auth_type_info"
+    },
+    {
+        "id": 49270,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSParticipantSettingsGUI.php",
+        "line": 237,
+        "code": "$this->lng->txt(\"ecs_export_auth_type_{$auth_strategy->getName()}\")",
+        "has_variable": true,
+        "variable": "ecs_export_auth_type_{$auth_strategy->getName()}"
+    },
+    {
+        "id": 49272,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSParticipantSettingsGUI.php",
+        "line": 244,
+        "code": "$this->lng->txt('ecs_export_auth_type_none')",
+        "has_variable": false,
+        "variable": "ecs_export_auth_type_none"
+    },
+    {
+        "id": 49274,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSParticipantSettingsGUI.php",
+        "line": 251,
+        "code": "$this->lng->txt('ecs_export_types')",
+        "has_variable": false,
+        "variable": "ecs_export_types"
+    },
+    {
+        "id": 49276,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSParticipantSettingsGUI.php",
+        "line": 262,
+        "code": "$this->lng->txt('ecs_tbl_import')",
+        "has_variable": false,
+        "variable": "ecs_tbl_import"
+    },
+    {
+        "id": 49278,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSParticipantSettingsGUI.php",
+        "line": 269,
+        "code": "$this->lng->txt('ecs_import_user_credentials_by_auth_mode')",
+        "has_variable": false,
+        "variable": "ecs_import_user_credentials_by_auth_mode"
+    },
+    {
+        "id": 49280,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSParticipantSettingsGUI.php",
+        "line": 272,
+        "code": "$this->lng->txt('ecs_import_user_credentials_by_auth_mode_info')",
+        "has_variable": false,
+        "variable": "ecs_import_user_credentials_by_auth_mode_info"
+    },
+    {
+        "id": 49282,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSParticipantSettingsGUI.php",
+        "line": 282,
+        "code": "$this->lng->txt('ecs_import_auth_mode')",
+        "has_variable": false,
+        "variable": "ecs_import_auth_mode"
+    },
+    {
+        "id": 49284,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSParticipantSettingsGUI.php",
+        "line": 287,
+        "code": "$this->lng->txt('ecs_outgoing_user_credentials')",
+        "has_variable": false,
+        "variable": "ecs_outgoing_user_credentials"
+    },
+    {
+        "id": 49286,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSParticipantSettingsGUI.php",
+        "line": 291,
+        "code": "$this->lng->txt('ecs_outgoing_user_credentials_info')",
+        "has_variable": false,
+        "variable": "ecs_outgoing_user_credentials_info"
+    },
+    {
+        "id": 49288,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSParticipantSettingsGUI.php",
+        "line": 300,
+        "code": "$this->lng->txt('ecs_import_auth_type_default')",
+        "has_variable": false,
+        "variable": "ecs_import_auth_type_default"
+    },
+    {
+        "id": 49290,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSParticipantSettingsGUI.php",
+        "line": 306,
+        "code": "$this->lng->txt('ecs_import_types')",
+        "has_variable": false,
+        "variable": "ecs_import_types"
+    },
+    {
+        "id": 49292,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSParticipantSettingsGUI.php",
+        "line": 315,
+        "code": "$this->lng->txt('save')",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 49294,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSParticipantSettingsGUI.php",
+        "line": 316,
+        "code": "$this->lng->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 49296,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSParticipantSettingsGUI.php",
+        "line": 324,
+        "code": "$this->lng->txt(\"auth_{$auth_strategy->getName()}\")",
+        "has_variable": true,
+        "variable": "auth_{$auth_strategy->getName()}"
+    },
+    {
+        "id": 49298,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSParticipantSettingsGUI.php",
+        "line": 341,
+        "code": "$this->lng->txt('back')",
+        "has_variable": false,
+        "variable": "back"
+    },
+    {
+        "id": 49300,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSServerTableGUI.php",
+        "line": 48,
+        "code": "$this->lng->txt('ecs_available_ecs')",
+        "has_variable": false,
+        "variable": "ecs_available_ecs"
+    },
+    {
+        "id": 49302,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSServerTableGUI.php",
+        "line": 51,
+        "code": "$this->lng->txt('ecs_tbl_active')",
+        "has_variable": false,
+        "variable": "ecs_tbl_active"
+    },
+    {
+        "id": 49304,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSServerTableGUI.php",
+        "line": 52,
+        "code": "$this->lng->txt('title')",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 49306,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSServerTableGUI.php",
+        "line": 55,
+        "code": "$this->lng->txt('actions')",
+        "has_variable": false,
+        "variable": "actions"
+    },
+    {
+        "id": 49308,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSServerTableGUI.php",
+        "line": 70,
+        "code": "$this->lng->txt('ecs_activated')",
+        "has_variable": false,
+        "variable": "ecs_activated"
+    },
+    {
+        "id": 49310,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSServerTableGUI.php",
+        "line": 73,
+        "code": "$this->lng->txt('ecs_inactivated')",
+        "has_variable": false,
+        "variable": "ecs_inactivated"
+    },
+    {
+        "id": 49312,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSServerTableGUI.php",
+        "line": 79,
+        "code": "$this->lng->txt('ecs_server_addr')",
+        "has_variable": false,
+        "variable": "ecs_server_addr"
+    },
+    {
+        "id": 49314,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSServerTableGUI.php",
+        "line": 84,
+        "code": "$this->lng->txt('ecs_not_configured')",
+        "has_variable": false,
+        "variable": "ecs_not_configured"
+    },
+    {
+        "id": 49316,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSServerTableGUI.php",
+        "line": 89,
+        "code": "$this->lng->txt('ecs_cert_valid_until')",
+        "has_variable": false,
+        "variable": "ecs_cert_valid_until"
+    },
+    {
+        "id": 49318,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSServerTableGUI.php",
+        "line": 109,
+        "code": "$this->lng->txt('ecs_deactivate')",
+        "has_variable": false,
+        "variable": "ecs_deactivate"
+    },
+    {
+        "id": 49320,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSServerTableGUI.php",
+        "line": 111,
+        "code": "$this->lng->txt('ecs_activate')",
+        "has_variable": false,
+        "variable": "ecs_activate"
+    },
+    {
+        "id": 49322,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSServerTableGUI.php",
+        "line": 114,
+        "code": "$this->lng->txt('edit')",
+        "has_variable": false,
+        "variable": "edit"
+    },
+    {
+        "id": 49324,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSServerTableGUI.php",
+        "line": 115,
+        "code": "$this->lng->txt('copy')",
+        "has_variable": false,
+        "variable": "copy"
+    },
+    {
+        "id": 49326,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSServerTableGUI.php",
+        "line": 116,
+        "code": "$this->lng->txt('delete')",
+        "has_variable": false,
+        "variable": "delete"
+    },
+    {
+        "id": 49328,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSServerTableGUI.php",
+        "line": 125,
+        "code": "$this->lng->txt('actions')",
+        "has_variable": false,
+        "variable": "actions"
+    },
+    {
+        "id": 49330,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSSettingsGUI.php",
+        "line": 117,
+        "code": "$this->lng->txt('ecs_add_new_ecs')",
+        "has_variable": false,
+        "variable": "ecs_add_new_ecs"
+    },
+    {
+        "id": 49332,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSSettingsGUI.php",
+        "line": 138,
+        "code": "$this->lng->txt('settings_saved')",
+        "has_variable": false,
+        "variable": "settings_saved"
+    },
+    {
+        "id": 49334,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSSettingsGUI.php",
+        "line": 150,
+        "code": "$this->lng->txt('settings_saved')",
+        "has_variable": false,
+        "variable": "settings_saved"
+    },
+    {
+        "id": 49336,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSSettingsGUI.php",
+        "line": 167,
+        "code": "$this->lng->txt('ecs_remote_imported')",
+        "has_variable": false,
+        "variable": "ecs_remote_imported"
+    },
+    {
+        "id": 49338,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSSettingsGUI.php",
+        "line": 190,
+        "code": "$this->lng->txt('back')",
+        "has_variable": false,
+        "variable": "back"
+    },
+    {
+        "id": 49340,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSSettingsGUI.php",
+        "line": 208,
+        "code": "$this->lng->txt('back')",
+        "has_variable": false,
+        "variable": "back"
+    },
+    {
+        "id": 49342,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSSettingsGUI.php",
+        "line": 224,
+        "code": "$this->lng->txt('ecs_settings_cloned')",
+        "has_variable": false,
+        "variable": "ecs_settings_cloned"
+    },
+    {
+        "id": 49344,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSSettingsGUI.php",
+        "line": 237,
+        "code": "$this->lng->txt('back')",
+        "has_variable": false,
+        "variable": "back"
+    },
+    {
+        "id": 49346,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSSettingsGUI.php",
+        "line": 241,
+        "code": "$this->lng->txt('delete')",
+        "has_variable": false,
+        "variable": "delete"
+    },
+    {
+        "id": 49348,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSSettingsGUI.php",
+        "line": 242,
+        "code": "$this->lng->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 49350,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSSettingsGUI.php",
+        "line": 243,
+        "code": "$this->lng->txt('ecs_delete_setting')",
+        "has_variable": false,
+        "variable": "ecs_delete_setting"
+    },
+    {
+        "id": 49352,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSSettingsGUI.php",
+        "line": 258,
+        "code": "$this->lng->txt('ecs_setting_deleted')",
+        "has_variable": false,
+        "variable": "ecs_setting_deleted"
+    },
+    {
+        "id": 49354,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSSettingsGUI.php",
+        "line": 285,
+        "code": "$this->lng->txt('ecs_connection_settings')",
+        "has_variable": false,
+        "variable": "ecs_connection_settings"
+    },
+    {
+        "id": 49356,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSSettingsGUI.php",
+        "line": 287,
+        "code": "$this->lng->txt('ecs_active')",
+        "has_variable": false,
+        "variable": "ecs_active"
+    },
+    {
+        "id": 49358,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSSettingsGUI.php",
+        "line": 292,
+        "code": "$this->lng->txt('ecs_server_title')",
+        "has_variable": false,
+        "variable": "ecs_server_title"
+    },
+    {
+        "id": 49360,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSSettingsGUI.php",
+        "line": 299,
+        "code": "$this->lng->txt('ecs_server_url')",
+        "has_variable": false,
+        "variable": "ecs_server_url"
+    },
+    {
+        "id": 49362,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSSettingsGUI.php",
+        "line": 304,
+        "code": "$this->lng->txt('ecs_protocol')",
+        "has_variable": false,
+        "variable": "ecs_protocol"
+    },
+    {
+        "id": 49364,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSSettingsGUI.php",
+        "line": 313,
+        "code": "$this->lng->txt('ecs_port')",
+        "has_variable": false,
+        "variable": "ecs_port"
+    },
+    {
+        "id": 49366,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSSettingsGUI.php",
+        "line": 320,
+        "code": "$this->lng->txt('ecs_auth_type')",
+        "has_variable": false,
+        "variable": "ecs_auth_type"
+    },
+    {
+        "id": 49368,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSSettingsGUI.php",
+        "line": 325,
+        "code": "$this->lng->txt('ecs_auth_type_cert')",
+        "has_variable": false,
+        "variable": "ecs_auth_type_cert"
+    },
+    {
+        "id": 49370,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSSettingsGUI.php",
+        "line": 328,
+        "code": "$this->lng->txt('ecs_client_cert')",
+        "has_variable": false,
+        "variable": "ecs_client_cert"
+    },
+    {
+        "id": 49372,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSSettingsGUI.php",
+        "line": 334,
+        "code": "$this->lng->txt('ecs_cert_key')",
+        "has_variable": false,
+        "variable": "ecs_cert_key"
+    },
+    {
+        "id": 49374,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSSettingsGUI.php",
+        "line": 340,
+        "code": "$this->lng->txt('ecs_key_password')",
+        "has_variable": false,
+        "variable": "ecs_key_password"
+    },
+    {
+        "id": 49376,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSSettingsGUI.php",
+        "line": 347,
+        "code": "$this->lng->txt('ecs_ca_cert')",
+        "has_variable": false,
+        "variable": "ecs_ca_cert"
+    },
+    {
+        "id": 49378,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSSettingsGUI.php",
+        "line": 354,
+        "code": "$this->lng->txt('ecs_auth_type_apache')",
+        "has_variable": false,
+        "variable": "ecs_auth_type_apache"
+    },
+    {
+        "id": 49380,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSSettingsGUI.php",
+        "line": 357,
+        "code": "$this->lng->txt('ecs_apache_user')",
+        "has_variable": false,
+        "variable": "ecs_apache_user"
+    },
+    {
+        "id": 49382,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSSettingsGUI.php",
+        "line": 363,
+        "code": "$this->lng->txt('ecs_apache_pass')",
+        "has_variable": false,
+        "variable": "ecs_apache_pass"
+    },
+    {
+        "id": 49384,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSSettingsGUI.php",
+        "line": 373,
+        "code": "$this->lng->txt('cert_serial')",
+        "has_variable": false,
+        "variable": "cert_serial"
+    },
+    {
+        "id": 49386,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSSettingsGUI.php",
+        "line": 374,
+        "code": "$this->lng->txt('ecs_no_value')",
+        "has_variable": false,
+        "variable": "ecs_no_value"
+    },
+    {
+        "id": 49388,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSSettingsGUI.php",
+        "line": 378,
+        "code": "$this->lng->txt('ecs_local_settings')",
+        "has_variable": false,
+        "variable": "ecs_local_settings"
+    },
+    {
+        "id": 49390,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSSettingsGUI.php",
+        "line": 381,
+        "code": "$this->lng->txt('ecs_import_id')",
+        "has_variable": false,
+        "variable": "ecs_import_id"
+    },
+    {
+        "id": 49392,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSSettingsGUI.php",
+        "line": 393,
+        "code": "$this->lng->txt('err_check_input')",
+        "has_variable": false,
+        "variable": "err_check_input"
+    },
+    {
+        "id": 49394,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSSettingsGUI.php",
+        "line": 400,
+        "code": "$this->lng->txt('ecs_import_id_info')",
+        "has_variable": false,
+        "variable": "ecs_import_id_info"
+    },
+    {
+        "id": 49396,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSSettingsGUI.php",
+        "line": 404,
+        "code": "$this->lng->txt('ecs_remote_user_settings')",
+        "has_variable": false,
+        "variable": "ecs_remote_user_settings"
+    },
+    {
+        "id": 49398,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSSettingsGUI.php",
+        "line": 407,
+        "code": "$this->lng->txt('ecs_role')",
+        "has_variable": false,
+        "variable": "ecs_role"
+    },
+    {
+        "id": 49400,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSSettingsGUI.php",
+        "line": 410,
+        "code": "$this->lng->txt('ecs_global_role_info')",
+        "has_variable": false,
+        "variable": "ecs_global_role_info"
+    },
+    {
+        "id": 49402,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSSettingsGUI.php",
+        "line": 414,
+        "code": "$this->lng->txt('ecs_account_duration')",
+        "has_variable": false,
+        "variable": "ecs_account_duration"
+    },
+    {
+        "id": 49404,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSSettingsGUI.php",
+        "line": 415,
+        "code": "$this->lng->txt('ecs_account_duration_info')",
+        "has_variable": false,
+        "variable": "ecs_account_duration_info"
+    },
+    {
+        "id": 49406,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSSettingsGUI.php",
+        "line": 427,
+        "code": "$this->lng->txt('ecs_notifications')",
+        "has_variable": false,
+        "variable": "ecs_notifications"
+    },
+    {
+        "id": 49408,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSSettingsGUI.php",
+        "line": 430,
+        "code": "$this->lng->txt('ecs_user_rcp')",
+        "has_variable": false,
+        "variable": "ecs_user_rcp"
+    },
+    {
+        "id": 49410,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSSettingsGUI.php",
+        "line": 432,
+        "code": "$this->lng->txt('ecs_user_rcp_info')",
+        "has_variable": false,
+        "variable": "ecs_user_rcp_info"
+    },
+    {
+        "id": 49412,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSSettingsGUI.php",
+        "line": 435,
+        "code": "$this->lng->txt('ecs_econ_rcp')",
+        "has_variable": false,
+        "variable": "ecs_econ_rcp"
+    },
+    {
+        "id": 49414,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSSettingsGUI.php",
+        "line": 437,
+        "code": "$this->lng->txt('ecs_econ_rcp_info')",
+        "has_variable": false,
+        "variable": "ecs_econ_rcp_info"
+    },
+    {
+        "id": 49416,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSSettingsGUI.php",
+        "line": 440,
+        "code": "$this->lng->txt('ecs_approval_rcp')",
+        "has_variable": false,
+        "variable": "ecs_approval_rcp"
+    },
+    {
+        "id": 49418,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSSettingsGUI.php",
+        "line": 442,
+        "code": "$this->lng->txt('ecs_approval_rcp_info')",
+        "has_variable": false,
+        "variable": "ecs_approval_rcp_info"
+    },
+    {
+        "id": 49420,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSSettingsGUI.php",
+        "line": 446,
+        "code": "$this->lng->txt('save')",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 49422,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSSettingsGUI.php",
+        "line": 448,
+        "code": "$this->lng->txt('save')",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 49424,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSSettingsGUI.php",
+        "line": 450,
+        "code": "$this->lng->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 49426,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSSettingsGUI.php",
+        "line": 462,
+        "code": "$this->lng->txt($error)",
+        "has_variable": true,
+        "variable": "$error"
+    },
+    {
+        "id": 49428,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSSettingsGUI.php",
+        "line": 467,
+        "code": "$this->lng->txt('settings_saved')",
+        "has_variable": false,
+        "variable": "settings_saved"
+    },
+    {
+        "id": 49430,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSSettingsGUI.php",
+        "line": 484,
+        "code": "$this->lng->txt('settings_saved')",
+        "has_variable": false,
+        "variable": "settings_saved"
+    },
+    {
+        "id": 49432,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSSettingsGUI.php",
+        "line": 486,
+        "code": "$this->lng->txt($error)",
+        "has_variable": true,
+        "variable": "$error"
+    },
+    {
+        "id": 49434,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSSettingsGUI.php",
+        "line": 583,
+        "code": "$this->lng->txt('ecs_refresh_participants')",
+        "has_variable": false,
+        "variable": "ecs_refresh_participants"
+    },
+    {
+        "id": 49436,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSSettingsGUI.php",
+        "line": 595,
+        "code": "$this->lng->txt('save')",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 49438,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSSettingsGUI.php",
+        "line": 596,
+        "code": "$this->lng->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 49440,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSSettingsGUI.php",
+        "line": 716,
+        "code": "$this->lng->txt('ecs_invalid_import_type_cms')",
+        "has_variable": false,
+        "variable": "ecs_invalid_import_type_cms"
+    },
+    {
+        "id": 49442,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSSettingsGUI.php",
+        "line": 718,
+        "code": "$this->lng->txt('settings_saved')",
+        "has_variable": false,
+        "variable": "settings_saved"
+    },
+    {
+        "id": 49444,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSSettingsGUI.php",
+        "line": 734,
+        "code": "$this->lng->txt('ecs_settings')",
+        "has_variable": false,
+        "variable": "ecs_settings"
+    },
+    {
+        "id": 49446,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSSettingsGUI.php",
+        "line": 740,
+        "code": "$this->lng->txt('ecs_tab_import')",
+        "has_variable": false,
+        "variable": "ecs_tab_import"
+    },
+    {
+        "id": 49448,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSSettingsGUI.php",
+        "line": 746,
+        "code": "$this->lng->txt('ecs_tab_export')",
+        "has_variable": false,
+        "variable": "ecs_tab_export"
+    },
+    {
+        "id": 49450,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSSettingsGUI.php",
+        "line": 771,
+        "code": "$this->lng->txt('ecs_no_adv_md')",
+        "has_variable": false,
+        "variable": "ecs_no_adv_md"
+    },
+    {
+        "id": 49452,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSSettingsGUI.php",
+        "line": 780,
+        "code": "$this->lng->txt(\"please_choose\")",
+        "has_variable": false,
+        "variable": "please_choose"
+    },
+    {
+        "id": 49454,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSSettingsGUI.php",
+        "line": 795,
+        "code": "$this->lng->txt(\"submit\")",
+        "has_variable": false,
+        "variable": "submit"
+    },
+    {
+        "id": 49456,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSSettingsGUI.php",
+        "line": 812,
+        "code": "$this->lng->txt('ecs_no_adv_md')",
+        "has_variable": false,
+        "variable": "ecs_no_adv_md"
+    },
+    {
+        "id": 49458,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSSettingsGUI.php",
+        "line": 821,
+        "code": "$this->lng->txt(\"please_choose\")",
+        "has_variable": false,
+        "variable": "please_choose"
+    },
+    {
+        "id": 49460,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSSettingsGUI.php",
+        "line": 836,
+        "code": "$this->lng->txt(\"submit\")",
+        "has_variable": false,
+        "variable": "submit"
+    },
+    {
+        "id": 49462,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSSettingsGUI.php",
+        "line": 861,
+        "code": "$this->lng->txt('settings_saved')",
+        "has_variable": false,
+        "variable": "settings_saved"
+    },
+    {
+        "id": 49464,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSSettingsGUI.php",
+        "line": 883,
+        "code": "$this->lng->txt('settings_saved')",
+        "has_variable": false,
+        "variable": "settings_saved"
+    },
+    {
+        "id": 49466,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSSettingsGUI.php",
+        "line": 898,
+        "code": "$this->lng->txt('ecs_mapping_tbl')",
+        "has_variable": false,
+        "variable": "ecs_mapping_tbl"
+    },
+    {
+        "id": 49468,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSSettingsGUI.php",
+        "line": 899,
+        "code": "$this->lng->txt('save')",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 49470,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSSettingsGUI.php",
+        "line": 900,
+        "code": "$this->lng->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 49472,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSSettingsGUI.php",
+        "line": 902,
+        "code": "$this->lng->txt('ecs_mapping_exp_tbl')",
+        "has_variable": false,
+        "variable": "ecs_mapping_exp_tbl"
+    },
+    {
+        "id": 49474,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSSettingsGUI.php",
+        "line": 903,
+        "code": "$this->lng->txt('save')",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 49476,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSSettingsGUI.php",
+        "line": 904,
+        "code": "$this->lng->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 49478,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSSettingsGUI.php",
+        "line": 910,
+        "code": "$this->lng->txt('ecs_mapping_crs')",
+        "has_variable": false,
+        "variable": "ecs_mapping_crs"
+    },
+    {
+        "id": 49480,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSSettingsGUI.php",
+        "line": 922,
+        "code": "$this->lng->txt('ecs_field_' . $field_name)",
+        "has_variable": true,
+        "variable": "'ecs_field_' . $field_name"
+    },
+    {
+        "id": 49482,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSSettingsGUI.php",
+        "line": 936,
+        "code": "$this->lng->txt('ecs_field_' . $field_name)",
+        "has_variable": true,
+        "variable": "'ecs_field_' . $field_name"
+    },
+    {
+        "id": 49484,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSSettingsGUI.php",
+        "line": 960,
+        "code": "$this->lng->txt('ecs_mapping_rcrs')",
+        "has_variable": false,
+        "variable": "ecs_mapping_rcrs"
+    },
+    {
+        "id": 49486,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSSettingsGUI.php",
+        "line": 970,
+        "code": "$this->lng->txt('ecs_field_' . $field_name)",
+        "has_variable": true,
+        "variable": "'ecs_field_' . $field_name"
+    },
+    {
+        "id": 49488,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSSettingsGUI.php",
+        "line": 1036,
+        "code": "$this->lng->txt($err)",
+        "has_variable": true,
+        "variable": "$err"
+    },
+    {
+        "id": 49490,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSSettingsGUI.php",
+        "line": 1043,
+        "code": "$this->lng->txt('settings_saved')",
+        "has_variable": false,
+        "variable": "settings_saved"
+    },
+    {
+        "id": 49492,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSSettingsGUI.php",
+        "line": 1048,
+        "code": "$this->lng->txt('err_check_input')",
+        "has_variable": false,
+        "variable": "err_check_input"
+    },
+    {
+        "id": 49494,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSSettingsGUI.php",
+        "line": 1060,
+        "code": "$this->lng->txt('select_one')",
+        "has_variable": false,
+        "variable": "select_one"
+    },
+    {
+        "id": 49496,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSSettingsGUI.php",
+        "line": 1080,
+        "code": "$this->lng->txt('select_one')",
+        "has_variable": false,
+        "variable": "select_one"
+    },
+    {
+        "id": 49498,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSSettingsGUI.php",
+        "line": 1113,
+        "code": "$this->lng->txt($err)",
+        "has_variable": true,
+        "variable": "$err"
+    },
+    {
+        "id": 49500,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSSettingsGUI.php",
+        "line": 1120,
+        "code": "$this->lng->txt('settings_saved')",
+        "has_variable": false,
+        "variable": "settings_saved"
+    },
+    {
+        "id": 49502,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSSettingsGUI.php",
+        "line": 1124,
+        "code": "$this->lng->txt('err_check_input')",
+        "has_variable": false,
+        "variable": "err_check_input"
+    },
+    {
+        "id": 49504,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSSettingsGUI.php",
+        "line": 1136,
+        "code": "$this->lng->txt('no_checkbox')",
+        "has_variable": false,
+        "variable": "no_checkbox"
+    },
+    {
+        "id": 49506,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSSettingsGUI.php",
+        "line": 1144,
+        "code": "$this->lng->txt('settings_saved')",
+        "has_variable": false,
+        "variable": "settings_saved"
+    },
+    {
+        "id": 49508,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSSettingsGUI.php",
+        "line": 1184,
+        "code": "$this->lng->txt('ecs_new_category_mapping')",
+        "has_variable": false,
+        "variable": "ecs_new_category_mapping"
+    },
+    {
+        "id": 49510,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSSettingsGUI.php",
+        "line": 1186,
+        "code": "$this->lng->txt('save')",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 49512,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSSettingsGUI.php",
+        "line": 1188,
+        "code": "$this->lng->txt('ecs_edit_category_mapping')",
+        "has_variable": false,
+        "variable": "ecs_edit_category_mapping"
+    },
+    {
+        "id": 49514,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSSettingsGUI.php",
+        "line": 1190,
+        "code": "$this->lng->txt('save')",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 49516,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSSettingsGUI.php",
+        "line": 1192,
+        "code": "$this->lng->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 49518,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSSettingsGUI.php",
+        "line": 1194,
+        "code": "$this->lng->txt('ecs_import_id')",
+        "has_variable": false,
+        "variable": "ecs_import_id"
+    },
+    {
+        "id": 49520,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSSettingsGUI.php",
+        "line": 1208,
+        "code": "$this->lng->txt('ecs_import_id_info')",
+        "has_variable": false,
+        "variable": "ecs_import_id_info"
+    },
+    {
+        "id": 49522,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSSettingsGUI.php",
+        "line": 1211,
+        "code": "$this->lng->txt('ecs_attribute_name')",
+        "has_variable": false,
+        "variable": "ecs_attribute_name"
+    },
+    {
+        "id": 49524,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSSettingsGUI.php",
+        "line": 1218,
+        "code": "$this->lng->txt('ecs_cat_mapping_type')",
+        "has_variable": false,
+        "variable": "ecs_cat_mapping_type"
+    },
+    {
+        "id": 49526,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSSettingsGUI.php",
+        "line": 1222,
+        "code": "$this->lng->txt('ecs_cat_mapping_fixed')",
+        "has_variable": false,
+        "variable": "ecs_cat_mapping_fixed"
+    },
+    {
+        "id": 49528,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSSettingsGUI.php",
+        "line": 1223,
+        "code": "$this->lng->txt('ecs_cat_mapping_fixed_info')",
+        "has_variable": false,
+        "variable": "ecs_cat_mapping_fixed_info"
+    },
+    {
+        "id": 49530,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSSettingsGUI.php",
+        "line": 1225,
+        "code": "$this->lng->txt('ecs_cat_mapping_values')",
+        "has_variable": false,
+        "variable": "ecs_cat_mapping_values"
+    },
+    {
+        "id": 49532,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSSettingsGUI.php",
+        "line": 1234,
+        "code": "$this->lng->txt('ecs_cat_mapping_duration')",
+        "has_variable": false,
+        "variable": "ecs_cat_mapping_duration"
+    },
+    {
+        "id": 49534,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSSettingsGUI.php",
+        "line": 1235,
+        "code": "$this->lng->txt('ecs_cat_mapping_duration_info')",
+        "has_variable": false,
+        "variable": "ecs_cat_mapping_duration_info"
+    },
+    {
+        "id": 49536,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSSettingsGUI.php",
+        "line": 1237,
+        "code": "$this->lng->txt('from')",
+        "has_variable": false,
+        "variable": "from"
+    },
+    {
+        "id": 49538,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSSettingsGUI.php",
+        "line": 1242,
+        "code": "$this->lng->txt('to')",
+        "has_variable": false,
+        "variable": "to"
+    },
+    {
+        "id": 49540,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSSettingsGUI.php",
+        "line": 1249,
+        "code": "$this->lng->txt('ecs_cat_mapping_by_type')",
+        "has_variable": false,
+        "variable": "ecs_cat_mapping_by_type"
+    },
+    {
+        "id": 49542,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSSettingsGUI.php",
+        "line": 1250,
+        "code": "$this->lng->txt('ecs_cat_mapping_by_type_info')",
+        "has_variable": false,
+        "variable": "ecs_cat_mapping_by_type_info"
+    },
+    {
+        "id": 49544,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSSettingsGUI.php",
+        "line": 1254,
+        "code": "$this->lng->txt('type')",
+        "has_variable": false,
+        "variable": "type"
+    },
+    {
+        "id": 49546,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSSettingsGUI.php",
+        "line": 1275,
+        "code": "$this->lng->txt('ecs_read_remote_links')",
+        "has_variable": false,
+        "variable": "ecs_read_remote_links"
+    },
+    {
+        "id": 49548,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSSettingsGUI.php",
+        "line": 1296,
+        "code": "$this->lng->txt(\"submit\")",
+        "has_variable": false,
+        "variable": "submit"
+    },
+    {
+        "id": 49550,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSSettingsGUI.php",
+        "line": 1303,
+        "code": "$this->lng->txt('csv_export')",
+        "has_variable": false,
+        "variable": "csv_export"
+    },
+    {
+        "id": 49552,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSSettingsGUI.php",
+        "line": 1308,
+        "code": "$this->lng->txt('ecs_imported_content')",
+        "has_variable": false,
+        "variable": "ecs_imported_content"
+    },
+    {
+        "id": 49554,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSSettingsGUI.php",
+        "line": 1341,
+        "code": "$this->lng->txt('title')",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 49556,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSSettingsGUI.php",
+        "line": 1342,
+        "code": "$this->lng->txt('description')",
+        "has_variable": false,
+        "variable": "description"
+    },
+    {
+        "id": 49558,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSSettingsGUI.php",
+        "line": 1343,
+        "code": "$this->lng->txt('ecs_imported_from')",
+        "has_variable": false,
+        "variable": "ecs_imported_from"
+    },
+    {
+        "id": 49560,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSSettingsGUI.php",
+        "line": 1344,
+        "code": "$this->lng->txt('ecs_field_courseID')",
+        "has_variable": false,
+        "variable": "ecs_field_courseID"
+    },
+    {
+        "id": 49562,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSSettingsGUI.php",
+        "line": 1345,
+        "code": "$this->lng->txt('ecs_field_term')",
+        "has_variable": false,
+        "variable": "ecs_field_term"
+    },
+    {
+        "id": 49564,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSSettingsGUI.php",
+        "line": 1346,
+        "code": "$this->lng->txt('ecs_field_lecturer')",
+        "has_variable": false,
+        "variable": "ecs_field_lecturer"
+    },
+    {
+        "id": 49566,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSSettingsGUI.php",
+        "line": 1347,
+        "code": "$this->lng->txt('ecs_field_courseType')",
+        "has_variable": false,
+        "variable": "ecs_field_courseType"
+    },
+    {
+        "id": 49568,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSSettingsGUI.php",
+        "line": 1348,
+        "code": "$this->lng->txt('ecs_field_semester_hours')",
+        "has_variable": false,
+        "variable": "ecs_field_semester_hours"
+    },
+    {
+        "id": 49570,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSSettingsGUI.php",
+        "line": 1349,
+        "code": "$this->lng->txt('ecs_field_credits')",
+        "has_variable": false,
+        "variable": "ecs_field_credits"
+    },
+    {
+        "id": 49572,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSSettingsGUI.php",
+        "line": 1350,
+        "code": "$this->lng->txt('ecs_field_room')",
+        "has_variable": false,
+        "variable": "ecs_field_room"
+    },
+    {
+        "id": 49574,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSSettingsGUI.php",
+        "line": 1351,
+        "code": "$this->lng->txt('ecs_field_cycle')",
+        "has_variable": false,
+        "variable": "ecs_field_cycle"
+    },
+    {
+        "id": 49576,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSSettingsGUI.php",
+        "line": 1352,
+        "code": "$this->lng->txt('ecs_field_begin')",
+        "has_variable": false,
+        "variable": "ecs_field_begin"
+    },
+    {
+        "id": 49578,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSSettingsGUI.php",
+        "line": 1353,
+        "code": "$this->lng->txt('ecs_field_end')",
+        "has_variable": false,
+        "variable": "ecs_field_end"
+    },
+    {
+        "id": 49580,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSSettingsGUI.php",
+        "line": 1354,
+        "code": "$this->lng->txt('last_update')",
+        "has_variable": false,
+        "variable": "last_update"
+    },
+    {
+        "id": 49582,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSSettingsGUI.php",
+        "line": 1433,
+        "code": "$this->lng->txt('ecs_read_remote_links')",
+        "has_variable": false,
+        "variable": "ecs_read_remote_links"
+    },
+    {
+        "id": 49584,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSSettingsGUI.php",
+        "line": 1453,
+        "code": "$this->lng->txt(\"submit\")",
+        "has_variable": false,
+        "variable": "submit"
+    },
+    {
+        "id": 49586,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSSettingsGUI.php",
+        "line": 1460,
+        "code": "$this->lng->txt('csv_export')",
+        "has_variable": false,
+        "variable": "csv_export"
+    },
+    {
+        "id": 49588,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSSettingsGUI.php",
+        "line": 1466,
+        "code": "$this->lng->txt('ecs_released_content')",
+        "has_variable": false,
+        "variable": "ecs_released_content"
+    },
+    {
+        "id": 49590,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSSettingsGUI.php",
+        "line": 1481,
+        "code": "$this->lng->txt('title')",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 49592,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSSettingsGUI.php",
+        "line": 1482,
+        "code": "$this->lng->txt('description')",
+        "has_variable": false,
+        "variable": "description"
+    },
+    {
+        "id": 49594,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSSettingsGUI.php",
+        "line": 1483,
+        "code": "$this->lng->txt('ecs_field_courseID')",
+        "has_variable": false,
+        "variable": "ecs_field_courseID"
+    },
+    {
+        "id": 49596,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSSettingsGUI.php",
+        "line": 1484,
+        "code": "$this->lng->txt('ecs_field_term')",
+        "has_variable": false,
+        "variable": "ecs_field_term"
+    },
+    {
+        "id": 49598,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSSettingsGUI.php",
+        "line": 1485,
+        "code": "$this->lng->txt('ecs_field_lecturer')",
+        "has_variable": false,
+        "variable": "ecs_field_lecturer"
+    },
+    {
+        "id": 49600,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSSettingsGUI.php",
+        "line": 1486,
+        "code": "$this->lng->txt('ecs_field_courseType')",
+        "has_variable": false,
+        "variable": "ecs_field_courseType"
+    },
+    {
+        "id": 49602,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSSettingsGUI.php",
+        "line": 1487,
+        "code": "$this->lng->txt('ecs_field_semester_hours')",
+        "has_variable": false,
+        "variable": "ecs_field_semester_hours"
+    },
+    {
+        "id": 49604,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSSettingsGUI.php",
+        "line": 1488,
+        "code": "$this->lng->txt('ecs_field_credits')",
+        "has_variable": false,
+        "variable": "ecs_field_credits"
+    },
+    {
+        "id": 49606,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSSettingsGUI.php",
+        "line": 1489,
+        "code": "$this->lng->txt('ecs_field_room')",
+        "has_variable": false,
+        "variable": "ecs_field_room"
+    },
+    {
+        "id": 49608,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSSettingsGUI.php",
+        "line": 1490,
+        "code": "$this->lng->txt('ecs_field_cycle')",
+        "has_variable": false,
+        "variable": "ecs_field_cycle"
+    },
+    {
+        "id": 49610,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSSettingsGUI.php",
+        "line": 1491,
+        "code": "$this->lng->txt('ecs_field_begin')",
+        "has_variable": false,
+        "variable": "ecs_field_begin"
+    },
+    {
+        "id": 49612,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSSettingsGUI.php",
+        "line": 1492,
+        "code": "$this->lng->txt('ecs_field_end')",
+        "has_variable": false,
+        "variable": "ecs_field_end"
+    },
+    {
+        "id": 49614,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSSettingsGUI.php",
+        "line": 1493,
+        "code": "$this->lng->txt('last_update')",
+        "has_variable": false,
+        "variable": "last_update"
+    },
+    {
+        "id": 49616,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSSettingsGUI.php",
+        "line": 1564,
+        "code": "$this->lng->txt('ecs_ignore_field')",
+        "has_variable": false,
+        "variable": "ecs_ignore_field"
+    },
+    {
+        "id": 49618,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSSettingsGUI.php",
+        "line": 1643,
+        "code": "$this->lng->txt('links_select_one')",
+        "has_variable": false,
+        "variable": "links_select_one"
+    },
+    {
+        "id": 49620,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSUtils.php",
+        "line": 70,
+        "code": "$lng->txt(\"obj_\" . $id)",
+        "has_variable": true,
+        "variable": "\"obj_\" . $id"
+    },
+    {
+        "id": 49622,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSUtils.php",
+        "line": 92,
+        "code": "$lng->txt(\"obj_\" . $id)",
+        "has_variable": true,
+        "variable": "\"obj_\" . $id"
+    },
+    {
+        "id": 49624,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilObjECSSettingsGUI.php",
+        "line": 51,
+        "code": "$this->lng->txt('no_permission')",
+        "has_variable": false,
+        "variable": "no_permission"
+    },
+    {
+        "id": 49626,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilRemoteObjectBase.php",
+        "line": 616,
+        "code": "$lang->txt('ecs_' . $this->getType() . '_created_body_a')",
+        "has_variable": true,
+        "variable": "'ecs_' . $this->getType() . '_created_body_a'"
+    },
+    {
+        "id": 49628,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilRemoteObjectBase.php",
+        "line": 617,
+        "code": "$lang->txt('title')",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 49630,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilRemoteObjectBase.php",
+        "line": 619,
+        "code": "$lang->txt('desc')",
+        "has_variable": false,
+        "variable": "desc"
+    },
+    {
+        "id": 49632,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilRemoteObjectBase.php",
+        "line": 623,
+        "code": "$lang->txt(\"perma_link\")",
+        "has_variable": false,
+        "variable": "perma_link"
+    },
+    {
+        "id": 49634,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilRemoteObjectBase.php",
+        "line": 630,
+        "code": "$lang->txt('ecs_new_econtent_subject')",
+        "has_variable": false,
+        "variable": "ecs_new_econtent_subject"
+    },
+    {
+        "id": 49636,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilRemoteObjectBaseGUI.php",
+        "line": 109,
+        "code": "$this->lng->txt(\"info_short\")",
+        "has_variable": false,
+        "variable": "info_short"
+    },
+    {
+        "id": 49638,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilRemoteObjectBaseGUI.php",
+        "line": 117,
+        "code": "$this->lng->txt(\"edit\")",
+        "has_variable": false,
+        "variable": "edit"
+    },
+    {
+        "id": 49640,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilRemoteObjectBaseGUI.php",
+        "line": 124,
+        "code": "$this->lng->txt(\"perm_settings\")",
+        "has_variable": false,
+        "variable": "perm_settings"
+    },
+    {
+        "id": 49642,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilRemoteObjectBaseGUI.php",
+        "line": 172,
+        "code": "$this->lng->txt('msg_no_perm_read')",
+        "has_variable": false,
+        "variable": "msg_no_perm_read"
+    },
+    {
+        "id": 49644,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilRemoteObjectBaseGUI.php",
+        "line": 189,
+        "code": "$this->lng->txt('ecs_general_info')",
+        "has_variable": false,
+        "variable": "ecs_general_info"
+    },
+    {
+        "id": 49646,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilRemoteObjectBaseGUI.php",
+        "line": 190,
+        "code": "$this->lng->txt('title')",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 49648,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilRemoteObjectBaseGUI.php",
+        "line": 192,
+        "code": "$this->lng->txt('organization')",
+        "has_variable": false,
+        "variable": "organization"
+    },
+    {
+        "id": 49650,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilRemoteObjectBaseGUI.php",
+        "line": 195,
+        "code": "$this->lng->txt('description')",
+        "has_variable": false,
+        "variable": "description"
+    },
+    {
+        "id": 49652,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilRemoteObjectBaseGUI.php",
+        "line": 198,
+        "code": "$this->lng->txt('ecs_local_information')",
+        "has_variable": false,
+        "variable": "ecs_local_information"
+    },
+    {
+        "id": 49654,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilRemoteObjectBaseGUI.php",
+        "line": 230,
+        "code": "$this->lng->txt('msg_no_perm_read')",
+        "has_variable": false,
+        "variable": "msg_no_perm_read"
+    },
+    {
+        "id": 49656,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilRemoteObjectBaseGUI.php",
+        "line": 248,
+        "code": "$this->lng->txt('ecs_general_info')",
+        "has_variable": false,
+        "variable": "ecs_general_info"
+    },
+    {
+        "id": 49658,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilRemoteObjectBaseGUI.php",
+        "line": 249,
+        "code": "$this->lng->txt('save')",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 49660,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilRemoteObjectBaseGUI.php",
+        "line": 250,
+        "code": "$this->lng->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 49662,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilRemoteObjectBaseGUI.php",
+        "line": 252,
+        "code": "$this->lng->txt('title')",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 49664,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilRemoteObjectBaseGUI.php",
+        "line": 259,
+        "code": "$this->lng->txt('description')",
+        "has_variable": false,
+        "variable": "description"
+    },
+    {
+        "id": 49666,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilRemoteObjectBaseGUI.php",
+        "line": 266,
+        "code": "$this->lng->txt('ecs_local_information')",
+        "has_variable": false,
+        "variable": "ecs_local_information"
+    },
+    {
+        "id": 49668,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilRemoteObjectBaseGUI.php",
+        "line": 297,
+        "code": "$this->lng->txt('msg_no_perm_read')",
+        "has_variable": false,
+        "variable": "msg_no_perm_read"
+    },
+    {
+        "id": 49670,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilRemoteObjectBaseGUI.php",
+        "line": 317,
+        "code": "$this->lng->txt(\"settings_saved\")",
+        "has_variable": false,
+        "variable": "settings_saved"
+    },
+    {
+        "id": 49672,
+        "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilRemoteObjectBaseGUI.php",
+        "line": 348,
+        "code": "$lng->txt(\"msg_no_perm_read\")",
+        "has_variable": false,
+        "variable": "msg_no_perm_read"
+    },
+    {
+        "id": 49674,
+        "file": "components\/ILIAS\/WebServices\/classes\/class.ilCronEcsTaskScheduler.php",
+        "line": 50,
+        "code": "$this->lng->txt('ecs_cron_task_scheduler')",
+        "has_variable": false,
+        "variable": "ecs_cron_task_scheduler"
+    },
+    {
+        "id": 49676,
+        "file": "components\/ILIAS\/WebServices\/classes\/class.ilCronEcsTaskScheduler.php",
+        "line": 55,
+        "code": "$this->lng->txt('ecs_cron_task_scheduler_info')",
+        "has_variable": false,
+        "variable": "ecs_cron_task_scheduler_info"
+    }
+]

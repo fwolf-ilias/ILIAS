@@ -1,0 +1,31 @@
+{
+    "metadata": {
+        "type": "full",
+        "count": 2,
+        "description": "Variable usages without detectable prefixes or suffixes (pure variable references without static strings)"
+    },
+    "matches": [
+        {
+            "id": 31452,
+            "file": "components\/ILIAS\/Repository\/PluginSlot\/class.ilObjectPlugin.php",
+            "line": 60,
+            "code": "$pl->txt($lang_var)",
+            "variable": "$lang_var",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 31472,
+            "file": "components\/ILIAS\/Repository\/PluginSlot\/class.ilObjectPluginListGUI.php",
+            "line": 80,
+            "code": "$this->plugin->txt($a_str)",
+            "variable": "$a_str",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        }
+    ]
+}

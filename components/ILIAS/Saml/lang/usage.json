@@ -1,0 +1,482 @@
+[
+    {
+        "id": 32054,
+        "file": "components\/ILIAS\/Saml\/classes\/class.ilAuthProviderSaml.php",
+        "line": 93,
+        "code": "$this->lng->txt(self::ERR_PROVIDER_INACTIVE)",
+        "has_variable": true,
+        "variable": "ERR_PROVIDER_INACTIVE"
+    },
+    {
+        "id": 32056,
+        "file": "components\/ILIAS\/Saml\/classes\/class.ilSamlIdpTableGUI.php",
+        "line": 64,
+        "code": "$this->lng->txt('auth_saml_idps')",
+        "has_variable": false,
+        "variable": "auth_saml_idps"
+    },
+    {
+        "id": 32058,
+        "file": "components\/ILIAS\/Saml\/classes\/class.ilSamlIdpTableGUI.php",
+        "line": 83,
+        "code": "$this->lng->txt('saml_tab_head_idp')",
+        "has_variable": false,
+        "variable": "saml_tab_head_idp"
+    },
+    {
+        "id": 32060,
+        "file": "components\/ILIAS\/Saml\/classes\/class.ilSamlIdpTableGUI.php",
+        "line": 89,
+        "code": "$this->lng->txt('status')",
+        "has_variable": false,
+        "variable": "status"
+    },
+    {
+        "id": 32062,
+        "file": "components\/ILIAS\/Saml\/classes\/class.ilSamlIdpTableGUI.php",
+        "line": 92,
+        "code": "$this->lng->txt('active')",
+        "has_variable": false,
+        "variable": "active"
+    },
+    {
+        "id": 32064,
+        "file": "components\/ILIAS\/Saml\/classes\/class.ilSamlIdpTableGUI.php",
+        "line": 97,
+        "code": "$this->lng->txt('inactive')",
+        "has_variable": false,
+        "variable": "inactive"
+    },
+    {
+        "id": 32066,
+        "file": "components\/ILIAS\/Saml\/classes\/class.ilSamlIdpTableGUI.php",
+        "line": 103,
+        "code": "$this->lng->txt('status')",
+        "has_variable": false,
+        "variable": "status"
+    },
+    {
+        "id": 32068,
+        "file": "components\/ILIAS\/Saml\/classes\/class.ilSamlIdpTableGUI.php",
+        "line": 103,
+        "code": "$this->lng->txt('active')",
+        "has_variable": false,
+        "variable": "active"
+    },
+    {
+        "id": 32070,
+        "file": "components\/ILIAS\/Saml\/classes\/class.ilSamlIdpTableGUI.php",
+        "line": 103,
+        "code": "$this->lng->txt('order_option_first')",
+        "has_variable": false,
+        "variable": "order_option_first"
+    },
+    {
+        "id": 32072,
+        "file": "components\/ILIAS\/Saml\/classes\/class.ilSamlIdpTableGUI.php",
+        "line": 104,
+        "code": "$this->lng->txt('status')",
+        "has_variable": false,
+        "variable": "status"
+    },
+    {
+        "id": 32074,
+        "file": "components\/ILIAS\/Saml\/classes\/class.ilSamlIdpTableGUI.php",
+        "line": 104,
+        "code": "$this->lng->txt('inactive')",
+        "has_variable": false,
+        "variable": "inactive"
+    },
+    {
+        "id": 32076,
+        "file": "components\/ILIAS\/Saml\/classes\/class.ilSamlIdpTableGUI.php",
+        "line": 104,
+        "code": "$this->lng->txt('order_option_first')",
+        "has_variable": false,
+        "variable": "order_option_first"
+    },
+    {
+        "id": 32078,
+        "file": "components\/ILIAS\/Saml\/classes\/class.ilSamlIdpTableGUI.php",
+        "line": 120,
+        "code": "$this->lng->txt('edit')",
+        "has_variable": false,
+        "variable": "edit"
+    },
+    {
+        "id": 32080,
+        "file": "components\/ILIAS\/Saml\/classes\/class.ilSamlIdpTableGUI.php",
+        "line": 125,
+        "code": "$this->lng->txt('activate')",
+        "has_variable": false,
+        "variable": "activate"
+    },
+    {
+        "id": 32082,
+        "file": "components\/ILIAS\/Saml\/classes\/class.ilSamlIdpTableGUI.php",
+        "line": 130,
+        "code": "$this->lng->txt('deactivate')",
+        "has_variable": false,
+        "variable": "deactivate"
+    },
+    {
+        "id": 32084,
+        "file": "components\/ILIAS\/Saml\/classes\/class.ilSamlIdpTableGUI.php",
+        "line": 135,
+        "code": "$this->lng->txt('delete')",
+        "has_variable": false,
+        "variable": "delete"
+    },
+    {
+        "id": 32086,
+        "file": "components\/ILIAS\/Saml\/classes\/class.ilSamlSettingsGUI.php",
+        "line": 116,
+        "code": "$this->lng->txt('msg_no_perm_read')",
+        "has_variable": false,
+        "variable": "msg_no_perm_read"
+    },
+    {
+        "id": 32088,
+        "file": "components\/ILIAS\/Saml\/classes\/class.ilSamlSettingsGUI.php",
+        "line": 190,
+        "code": "$this->lng->txt('auth_saml_unknow_idp')",
+        "has_variable": false,
+        "variable": "auth_saml_unknow_idp"
+    },
+    {
+        "id": 32090,
+        "file": "components\/ILIAS\/Saml\/classes\/class.ilSamlSettingsGUI.php",
+        "line": 207,
+        "code": "$this->lng->txt('auth_saml_err_sqlite_driver')",
+        "has_variable": false,
+        "variable": "auth_saml_err_sqlite_driver"
+    },
+    {
+        "id": 32092,
+        "file": "components\/ILIAS\/Saml\/classes\/class.ilSamlSettingsGUI.php",
+        "line": 269,
+        "code": "$this->lng->txt('auth_saml_add_idp_btn')",
+        "has_variable": false,
+        "variable": "auth_saml_add_idp_btn"
+    },
+    {
+        "id": 32094,
+        "file": "components\/ILIAS\/Saml\/classes\/class.ilSamlSettingsGUI.php",
+        "line": 281,
+        "code": "$this->lng->txt('auth_saml_idps_info')",
+        "has_variable": false,
+        "variable": "auth_saml_idps_info"
+    },
+    {
+        "id": 32096,
+        "file": "components\/ILIAS\/Saml\/classes\/class.ilSamlSettingsGUI.php",
+        "line": 337,
+        "code": "$this->lng->txt(self::LNG_SAVED_SUCCESSFULLY)",
+        "has_variable": true,
+        "variable": "LNG_SAVED_SUCCESSFULLY"
+    },
+    {
+        "id": 32098,
+        "file": "components\/ILIAS\/Saml\/classes\/class.ilSamlSettingsGUI.php",
+        "line": 348,
+        "code": "$this->lng->txt(self::LNG_SAVED_SUCCESSFULLY)",
+        "has_variable": true,
+        "variable": "LNG_SAVED_SUCCESSFULLY"
+    },
+    {
+        "id": 32100,
+        "file": "components\/ILIAS\/Saml\/classes\/class.ilSamlSettingsGUI.php",
+        "line": 379,
+        "code": "$this->lng->txt('back')",
+        "has_variable": false,
+        "variable": "back"
+    },
+    {
+        "id": 32102,
+        "file": "components\/ILIAS\/Saml\/classes\/class.ilSamlSettingsGUI.php",
+        "line": 409,
+        "code": "$this->lng->txt(self::LNG_AUTH_SAML_USER_MAPPING)",
+        "has_variable": true,
+        "variable": "LNG_AUTH_SAML_USER_MAPPING"
+    },
+    {
+        "id": 32104,
+        "file": "components\/ILIAS\/Saml\/classes\/class.ilSamlSettingsGUI.php",
+        "line": 425,
+        "code": "$this->lng->txt(self::LNG_SAVE)",
+        "has_variable": true,
+        "variable": "LNG_SAVE"
+    },
+    {
+        "id": 32106,
+        "file": "components\/ILIAS\/Saml\/classes\/class.ilSamlSettingsGUI.php",
+        "line": 444,
+        "code": "$this->lng->txt('auth_saml_update_field_info')",
+        "has_variable": false,
+        "variable": "auth_saml_update_field_info"
+    },
+    {
+        "id": 32108,
+        "file": "components\/ILIAS\/Saml\/classes\/class.ilSamlSettingsGUI.php",
+        "line": 476,
+        "code": "$this->lng->txt(self::LNG_SAVED_SUCCESSFULLY)",
+        "has_variable": true,
+        "variable": "LNG_SAVED_SUCCESSFULLY"
+    },
+    {
+        "id": 32110,
+        "file": "components\/ILIAS\/Saml\/classes\/class.ilSamlSettingsGUI.php",
+        "line": 514,
+        "code": "$this->lng->txt('auth_saml_login_form')",
+        "has_variable": false,
+        "variable": "auth_saml_login_form"
+    },
+    {
+        "id": 32112,
+        "file": "components\/ILIAS\/Saml\/classes\/class.ilSamlSettingsGUI.php",
+        "line": 515,
+        "code": "$this->lng->txt('auth_saml_login_form_info')",
+        "has_variable": false,
+        "variable": "auth_saml_login_form_info"
+    },
+    {
+        "id": 32114,
+        "file": "components\/ILIAS\/Saml\/classes\/class.ilSamlSettingsGUI.php",
+        "line": 523,
+        "code": "$this->lng->txt('refresh')",
+        "has_variable": false,
+        "variable": "refresh"
+    },
+    {
+        "id": 32116,
+        "file": "components\/ILIAS\/Saml\/classes\/class.ilSamlSettingsGUI.php",
+        "line": 545,
+        "code": "$this->lng->txt('links_select_one')",
+        "has_variable": false,
+        "variable": "links_select_one"
+    },
+    {
+        "id": 32118,
+        "file": "components\/ILIAS\/Saml\/classes\/class.ilSamlSettingsGUI.php",
+        "line": 561,
+        "code": "$this->lng->txt(self::LNG_SAVED_SUCCESSFULLY)",
+        "has_variable": true,
+        "variable": "LNG_SAVED_SUCCESSFULLY"
+    },
+    {
+        "id": 32120,
+        "file": "components\/ILIAS\/Saml\/classes\/class.ilSamlSettingsGUI.php",
+        "line": 575,
+        "code": "$this->lng->txt('auth_saml_configure')",
+        "has_variable": false,
+        "variable": "auth_saml_configure"
+    },
+    {
+        "id": 32122,
+        "file": "components\/ILIAS\/Saml\/classes\/class.ilSamlSettingsGUI.php",
+        "line": 605,
+        "code": "$this->lng->txt('auth_saml_add_idp_md_error')",
+        "has_variable": false,
+        "variable": "auth_saml_add_idp_md_error"
+    },
+    {
+        "id": 32124,
+        "file": "components\/ILIAS\/Saml\/classes\/class.ilSamlSettingsGUI.php",
+        "line": 609,
+        "code": "$this->lng->txt('auth_saml_add_idp_md_error')",
+        "has_variable": false,
+        "variable": "auth_saml_add_idp_md_error"
+    },
+    {
+        "id": 32126,
+        "file": "components\/ILIAS\/Saml\/classes\/class.ilSamlSettingsGUI.php",
+        "line": 621,
+        "code": "$this->lng->txt('auth_saml_idp')",
+        "has_variable": false,
+        "variable": "auth_saml_idp"
+    },
+    {
+        "id": 32128,
+        "file": "components\/ILIAS\/Saml\/classes\/class.ilSamlSettingsGUI.php",
+        "line": 625,
+        "code": "$this->lng->txt('auth_saml_add_idp_md_label')",
+        "has_variable": false,
+        "variable": "auth_saml_add_idp_md_label"
+    },
+    {
+        "id": 32130,
+        "file": "components\/ILIAS\/Saml\/classes\/class.ilSamlSettingsGUI.php",
+        "line": 626,
+        "code": "$this->lng->txt('auth_saml_add_idp_md_info')",
+        "has_variable": false,
+        "variable": "auth_saml_add_idp_md_info"
+    },
+    {
+        "id": 32132,
+        "file": "components\/ILIAS\/Saml\/classes\/class.ilSamlSettingsGUI.php",
+        "line": 634,
+        "code": "$this->lng->txt('auth_allow_local')",
+        "has_variable": false,
+        "variable": "auth_allow_local"
+    },
+    {
+        "id": 32134,
+        "file": "components\/ILIAS\/Saml\/classes\/class.ilSamlSettingsGUI.php",
+        "line": 635,
+        "code": "$this->lng->txt('auth_allow_local_info')",
+        "has_variable": false,
+        "variable": "auth_allow_local_info"
+    },
+    {
+        "id": 32136,
+        "file": "components\/ILIAS\/Saml\/classes\/class.ilSamlSettingsGUI.php",
+        "line": 638,
+        "code": "$this->lng->txt('auth_saml_uid_claim')",
+        "has_variable": false,
+        "variable": "auth_saml_uid_claim"
+    },
+    {
+        "id": 32138,
+        "file": "components\/ILIAS\/Saml\/classes\/class.ilSamlSettingsGUI.php",
+        "line": 639,
+        "code": "$this->lng->txt('auth_saml_uid_claim_info')",
+        "has_variable": false,
+        "variable": "auth_saml_uid_claim_info"
+    },
+    {
+        "id": 32140,
+        "file": "components\/ILIAS\/Saml\/classes\/class.ilSamlSettingsGUI.php",
+        "line": 644,
+        "code": "$this->lng->txt('auth_saml_username_claim')",
+        "has_variable": false,
+        "variable": "auth_saml_username_claim"
+    },
+    {
+        "id": 32142,
+        "file": "components\/ILIAS\/Saml\/classes\/class.ilSamlSettingsGUI.php",
+        "line": 645,
+        "code": "$this->lng->txt('auth_saml_username_claim_info')",
+        "has_variable": false,
+        "variable": "auth_saml_username_claim_info"
+    },
+    {
+        "id": 32144,
+        "file": "components\/ILIAS\/Saml\/classes\/class.ilSamlSettingsGUI.php",
+        "line": 648,
+        "code": "$this->lng->txt('auth_saml_role_select')",
+        "has_variable": false,
+        "variable": "auth_saml_role_select"
+    },
+    {
+        "id": 32146,
+        "file": "components\/ILIAS\/Saml\/classes\/class.ilSamlSettingsGUI.php",
+        "line": 652,
+        "code": "$this->lng->txt('auth_saml_migration')",
+        "has_variable": false,
+        "variable": "auth_saml_migration"
+    },
+    {
+        "id": 32148,
+        "file": "components\/ILIAS\/Saml\/classes\/class.ilSamlSettingsGUI.php",
+        "line": 653,
+        "code": "$this->lng->txt('auth_saml_migration_info')",
+        "has_variable": false,
+        "variable": "auth_saml_migration_info"
+    },
+    {
+        "id": 32150,
+        "file": "components\/ILIAS\/Saml\/classes\/class.ilSamlSettingsGUI.php",
+        "line": 656,
+        "code": "$this->lng->txt('auth_saml_sync')",
+        "has_variable": false,
+        "variable": "auth_saml_sync"
+    },
+    {
+        "id": 32152,
+        "file": "components\/ILIAS\/Saml\/classes\/class.ilSamlSettingsGUI.php",
+        "line": 657,
+        "code": "$this->lng->txt('auth_saml_sync_info')",
+        "has_variable": false,
+        "variable": "auth_saml_sync_info"
+    },
+    {
+        "id": 32154,
+        "file": "components\/ILIAS\/Saml\/classes\/class.ilSamlSettingsGUI.php",
+        "line": 699,
+        "code": "$this->lng->txt('auth_saml_configure_idp')",
+        "has_variable": false,
+        "variable": "auth_saml_configure_idp"
+    },
+    {
+        "id": 32156,
+        "file": "components\/ILIAS\/Saml\/classes\/class.ilSamlSettingsGUI.php",
+        "line": 721,
+        "code": "$this->lng->txt(self::LNG_SAVED_SUCCESSFULLY)",
+        "has_variable": true,
+        "variable": "LNG_SAVED_SUCCESSFULLY"
+    },
+    {
+        "id": 32158,
+        "file": "components\/ILIAS\/Saml\/classes\/class.ilSamlSettingsGUI.php",
+        "line": 740,
+        "code": "$this->lng->txt('auth_saml_add_idp_md_label')",
+        "has_variable": false,
+        "variable": "auth_saml_add_idp_md_label"
+    },
+    {
+        "id": 32160,
+        "file": "components\/ILIAS\/Saml\/classes\/class.ilSamlSettingsGUI.php",
+        "line": 741,
+        "code": "$this->lng->txt('auth_saml_add_idp_md_info')",
+        "has_variable": false,
+        "variable": "auth_saml_add_idp_md_info"
+    },
+    {
+        "id": 32162,
+        "file": "components\/ILIAS\/Saml\/classes\/class.ilSamlSettingsGUI.php",
+        "line": 781,
+        "code": "$this->lng->txt(self::LNG_SAVED_SUCCESSFULLY)",
+        "has_variable": true,
+        "variable": "LNG_SAVED_SUCCESSFULLY"
+    },
+    {
+        "id": 32164,
+        "file": "components\/ILIAS\/Saml\/classes\/class.ilSamlSettingsGUI.php",
+        "line": 803,
+        "code": "$this->lng->txt('auth_saml_add_idp_btn')",
+        "has_variable": false,
+        "variable": "auth_saml_add_idp_btn"
+    },
+    {
+        "id": 32166,
+        "file": "components\/ILIAS\/Saml\/classes\/class.ilSamlSettingsGUI.php",
+        "line": 829,
+        "code": "$this->lng->txt('confirm')",
+        "has_variable": false,
+        "variable": "confirm"
+    },
+    {
+        "id": 32168,
+        "file": "components\/ILIAS\/Saml\/classes\/class.ilSamlSettingsGUI.php",
+        "line": 830,
+        "code": "$this->lng->txt(self::LNG_CANCEL)",
+        "has_variable": true,
+        "variable": "LNG_CANCEL"
+    },
+    {
+        "id": 32170,
+        "file": "components\/ILIAS\/Saml\/classes\/class.ilSamlSettingsGUI.php",
+        "line": 831,
+        "code": "$this->lng->txt('auth_saml_sure_delete_idp')",
+        "has_variable": false,
+        "variable": "auth_saml_sure_delete_idp"
+    },
+    {
+        "id": 32172,
+        "file": "components\/ILIAS\/Saml\/classes\/class.ilSamlSettingsGUI.php",
+        "line": 850,
+        "code": "$this->lng->txt('auth_saml_deleted_idp')",
+        "has_variable": false,
+        "variable": "auth_saml_deleted_idp"
+    }
+]

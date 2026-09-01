@@ -1,0 +1,10 @@
+[
+    {
+        "id": 17220,
+        "file": "components\/ILIAS\/FileUpload\/src\/Handler\/AbstractCtrlAwareIRSSUploadHandler.php",
+        "line": 80,
+        "code": "$this->language->txt(\n                'msg_info_blacklisted'\n            )",
+        "has_variable": false,
+        "variable": "msg_info_blacklisted"
+    }
+]

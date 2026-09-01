@@ -1,0 +1,314 @@
+[
+    {
+        "id": 10868,
+        "file": "components\/ILIAS\/ContentPage\/classes\/class.ilContentPageKioskModeView.php",
+        "line": 99,
+        "code": "$this->lng->txt('copa_btn_lp_toggle_state_completed')",
+        "has_variable": false,
+        "variable": "copa_btn_lp_toggle_state_completed"
+    },
+    {
+        "id": 10870,
+        "file": "components\/ILIAS\/ContentPage\/classes\/class.ilContentPageKioskModeView.php",
+        "line": 102,
+        "code": "$this->lng->txt('copa_btn_lp_toggle_state_not_completed')",
+        "has_variable": false,
+        "variable": "copa_btn_lp_toggle_state_not_completed"
+    },
+    {
+        "id": 10872,
+        "file": "components\/ILIAS\/ContentPage\/classes\/class.ilContentPageKioskModeView.php",
+        "line": 140,
+        "code": "$this->lng->txt('trac_updated_status')",
+        "has_variable": false,
+        "variable": "trac_updated_status"
+    },
+    {
+        "id": 10874,
+        "file": "components\/ILIAS\/ContentPage\/classes\/class.ilContentPagePageCommandForwarder.php",
+        "line": 158,
+        "code": "$this->lng->txt('back')",
+        "has_variable": false,
+        "variable": "back"
+    },
+    {
+        "id": 10876,
+        "file": "components\/ILIAS\/ContentPage\/classes\/class.ilContentPagePageGUI.php",
+        "line": 93,
+        "code": "$this->lng->txt('obj_sty')",
+        "has_variable": false,
+        "variable": "obj_sty"
+    },
+    {
+        "id": 10878,
+        "file": "components\/ILIAS\/ContentPage\/classes\/class.ilObjContentPageAdministrationGUI.php",
+        "line": 71,
+        "code": "$this->lng->txt('no_permission')",
+        "has_variable": false,
+        "variable": "no_permission"
+    },
+    {
+        "id": 10880,
+        "file": "components\/ILIAS\/ContentPage\/classes\/class.ilObjContentPageAdministrationGUI.php",
+        "line": 107,
+        "code": "$this->lng->txt('cpad_reading_time_status')",
+        "has_variable": false,
+        "variable": "cpad_reading_time_status"
+    },
+    {
+        "id": 10882,
+        "file": "components\/ILIAS\/ContentPage\/classes\/class.ilObjContentPageAdministrationGUI.php",
+        "line": 108,
+        "code": "$this->lng->txt('cpad_reading_time_status_desc')",
+        "has_variable": false,
+        "variable": "cpad_reading_time_status_desc"
+    },
+    {
+        "id": 10884,
+        "file": "components\/ILIAS\/ContentPage\/classes\/class.ilObjContentPageAdministrationGUI.php",
+        "line": 118,
+        "code": "$this->lng->txt('settings')",
+        "has_variable": false,
+        "variable": "settings"
+    },
+    {
+        "id": 10886,
+        "file": "components\/ILIAS\/ContentPage\/classes\/class.ilObjContentPageAdministrationGUI.php",
+        "line": 131,
+        "code": "$this->lng->txt('refresh')",
+        "has_variable": false,
+        "variable": "refresh"
+    },
+    {
+        "id": 10888,
+        "file": "components\/ILIAS\/ContentPage\/classes\/class.ilObjContentPageAdministrationGUI.php",
+        "line": 161,
+        "code": "$this->lng->txt('no_permission')",
+        "has_variable": false,
+        "variable": "no_permission"
+    },
+    {
+        "id": 10890,
+        "file": "components\/ILIAS\/ContentPage\/classes\/class.ilObjContentPageAdministrationGUI.php",
+        "line": 181,
+        "code": "$this->lng->txt('settings_saved')",
+        "has_variable": false,
+        "variable": "settings_saved"
+    },
+    {
+        "id": 10892,
+        "file": "components\/ILIAS\/ContentPage\/classes\/class.ilObjContentPageGUI.php",
+        "line": 162,
+        "code": "$this->lng->txt('content')",
+        "has_variable": false,
+        "variable": "content"
+    },
+    {
+        "id": 10894,
+        "file": "components\/ILIAS\/ContentPage\/classes\/class.ilObjContentPageGUI.php",
+        "line": 170,
+        "code": "$this->lng->txt('info_short')",
+        "has_variable": false,
+        "variable": "info_short"
+    },
+    {
+        "id": 10896,
+        "file": "components\/ILIAS\/ContentPage\/classes\/class.ilObjContentPageGUI.php",
+        "line": 178,
+        "code": "$this->lng->txt('settings')",
+        "has_variable": false,
+        "variable": "settings"
+    },
+    {
+        "id": 10898,
+        "file": "components\/ILIAS\/ContentPage\/classes\/class.ilObjContentPageGUI.php",
+        "line": 186,
+        "code": "$this->lng->txt('learning_progress')",
+        "has_variable": false,
+        "variable": "learning_progress"
+    },
+    {
+        "id": 10900,
+        "file": "components\/ILIAS\/ContentPage\/classes\/class.ilObjContentPageGUI.php",
+        "line": 194,
+        "code": "$this->lng->txt('meta_data')",
+        "has_variable": false,
+        "variable": "meta_data"
+    },
+    {
+        "id": 10902,
+        "file": "components\/ILIAS\/ContentPage\/classes\/class.ilObjContentPageGUI.php",
+        "line": 202,
+        "code": "$this->lng->txt('export')",
+        "has_variable": false,
+        "variable": "export"
+    },
+    {
+        "id": 10904,
+        "file": "components\/ILIAS\/ContentPage\/classes\/class.ilObjContentPageGUI.php",
+        "line": 210,
+        "code": "$this->lng->txt('perm_settings')",
+        "has_variable": false,
+        "variable": "perm_settings"
+    },
+    {
+        "id": 10906,
+        "file": "components\/ILIAS\/ContentPage\/classes\/class.ilObjContentPageGUI.php",
+        "line": 253,
+        "code": "$this->lng->txt('back')",
+        "has_variable": false,
+        "variable": "back"
+    },
+    {
+        "id": 10908,
+        "file": "components\/ILIAS\/ContentPage\/classes\/class.ilObjContentPageGUI.php",
+        "line": 282,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 10910,
+        "file": "components\/ILIAS\/ContentPage\/classes\/class.ilObjContentPageGUI.php",
+        "line": 285,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 10912,
+        "file": "components\/ILIAS\/ContentPage\/classes\/class.ilObjContentPageGUI.php",
+        "line": 361,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 10914,
+        "file": "components\/ILIAS\/ContentPage\/classes\/class.ilObjContentPageGUI.php",
+        "line": 459,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 10916,
+        "file": "components\/ILIAS\/ContentPage\/classes\/class.ilObjContentPageGUI.php",
+        "line": 481,
+        "code": "$this->lng->txt('general')",
+        "has_variable": false,
+        "variable": "general"
+    },
+    {
+        "id": 10918,
+        "file": "components\/ILIAS\/ContentPage\/classes\/class.ilObjContentPageGUI.php",
+        "line": 487,
+        "code": "$this->lng->txt('cont_style')",
+        "has_variable": false,
+        "variable": "cont_style"
+    },
+    {
+        "id": 10920,
+        "file": "components\/ILIAS\/ContentPage\/classes\/class.ilObjContentPageGUI.php",
+        "line": 493,
+        "code": "$this->lng->txt('obj_multilinguality')",
+        "has_variable": false,
+        "variable": "obj_multilinguality"
+    },
+    {
+        "id": 10922,
+        "file": "components\/ILIAS\/ContentPage\/classes\/class.ilObjContentPageGUI.php",
+        "line": 537,
+        "code": "$this->lng->txt('cntr_text_media_editor')",
+        "has_variable": false,
+        "variable": "cntr_text_media_editor"
+    },
+    {
+        "id": 10924,
+        "file": "components\/ILIAS\/ContentPage\/classes\/class.ilObjContentPageGUI.php",
+        "line": 595,
+        "code": "$this->lng->txt('object_added')",
+        "has_variable": false,
+        "variable": "object_added"
+    },
+    {
+        "id": 10926,
+        "file": "components\/ILIAS\/ContentPage\/classes\/class.ilObjContentPageGUI.php",
+        "line": 604,
+        "code": "$this->lng->txt('obj_' . $this->object->getType())",
+        "has_variable": true,
+        "variable": "'obj_' . $this->object->getType()"
+    },
+    {
+        "id": 10928,
+        "file": "components\/ILIAS\/ContentPage\/classes\/class.ilObjContentPageGUI.php",
+        "line": 612,
+        "code": "$this->lng->txt('settings_presentation_header')",
+        "has_variable": false,
+        "variable": "settings_presentation_header"
+    },
+    {
+        "id": 10930,
+        "file": "components\/ILIAS\/ContentPage\/classes\/class.ilObjContentPageGUI.php",
+        "line": 619,
+        "code": "$this->lng->txt('obj_features')",
+        "has_variable": false,
+        "variable": "obj_features"
+    },
+    {
+        "id": 10932,
+        "file": "components\/ILIAS\/ContentPage\/classes\/class.ilObjContentPageGUI.php",
+        "line": 642,
+        "code": "$this->lng->txt('language')",
+        "has_variable": false,
+        "variable": "language"
+    },
+    {
+        "id": 10934,
+        "file": "components\/ILIAS\/ContentPage\/classes\/class.ilObjContentPageGUI.php",
+        "line": 653,
+        "code": "$this->lng->txt('rep_activation_availability')",
+        "has_variable": false,
+        "variable": "rep_activation_availability"
+    },
+    {
+        "id": 10936,
+        "file": "components\/ILIAS\/ContentPage\/classes\/class.ilObjContentPageGUI.php",
+        "line": 656,
+        "code": "$this->lng->txt('rep_activation_online')",
+        "has_variable": false,
+        "variable": "rep_activation_online"
+    },
+    {
+        "id": 10938,
+        "file": "components\/ILIAS\/ContentPage\/classes\/class.ilObjContentPageGUI.php",
+        "line": 657,
+        "code": "$this->lng->txt('copa_activation_online_info')",
+        "has_variable": false,
+        "variable": "copa_activation_online_info"
+    },
+    {
+        "id": 10940,
+        "file": "components\/ILIAS\/ContentPage\/classes\/class.ilObjContentPageListGUI.php",
+        "line": 103,
+        "code": "$this->lng->txt('copa_value_reading_time_f_p')",
+        "has_variable": false,
+        "variable": "copa_value_reading_time_f_p"
+    },
+    {
+        "id": 10942,
+        "file": "components\/ILIAS\/ContentPage\/classes\/class.ilObjContentPageListGUI.php",
+        "line": 108,
+        "code": "$this->lng->txt('copa_value_reading_time_f_s')",
+        "has_variable": false,
+        "variable": "copa_value_reading_time_f_s"
+    },
+    {
+        "id": 10944,
+        "file": "components\/ILIAS\/ContentPage\/classes\/class.ilObjContentPageListGUI.php",
+        "line": 115,
+        "code": "$this->lng->txt('copa_prop_reading_time')",
+        "has_variable": false,
+        "variable": "copa_prop_reading_time"
+    }
+]

@@ -1,0 +1,242 @@
+[
+    {
+        "id": 50594,
+        "file": "extern\/language\/analyse_language_usage.php",
+        "line": 10,
+        "code": "$this->lng->txt('variable')",
+        "has_variable": false,
+        "variable": "variable"
+    },
+    {
+        "id": 50596,
+        "file": "extern\/language\/analyse_language_usage.php",
+        "line": 11,
+        "code": "$this->language->txt('variable')",
+        "has_variable": false,
+        "variable": "variable"
+    },
+    {
+        "id": 50598,
+        "file": "extern\/language\/analyse_language_usage.php",
+        "line": 12,
+        "code": "$this->plugin->txt('variable')",
+        "has_variable": false,
+        "variable": "variable"
+    },
+    {
+        "id": 50600,
+        "file": "extern\/language\/analyse_language_usage.php",
+        "line": 13,
+        "code": "$this->txt('variable')",
+        "has_variable": false,
+        "variable": "variable"
+    },
+    {
+        "id": 50602,
+        "file": "extern\/language\/analyse_language_usage.php",
+        "line": 15,
+        "code": "$lng->txt('variable')",
+        "has_variable": false,
+        "variable": "variable"
+    },
+    {
+        "id": 50604,
+        "file": "extern\/language\/analyse_language_usage.php",
+        "line": 16,
+        "code": "$language->txt('variable')",
+        "has_variable": false,
+        "variable": "variable"
+    },
+    {
+        "id": 50606,
+        "file": "extern\/language\/analyse_language_usage.php",
+        "line": 20,
+        "code": "$this->lng->txt($obj->getType())",
+        "has_variable": true,
+        "variable": "$obj->getType()"
+    },
+    {
+        "id": 50608,
+        "file": "extern\/language\/analyse_language_usage.php",
+        "line": 51,
+        "code": "$this->lng->txt()",
+        "has_variable": true,
+        "variable": ""
+    },
+    {
+        "id": 50610,
+        "file": "extern\/language\/analyse_language_usage.php",
+        "line": 57,
+        "code": "$this->lang->txt()",
+        "has_variable": true,
+        "variable": ""
+    },
+    {
+        "id": 50612,
+        "file": "extern\/language\/analyse_language_usage.php",
+        "line": 63,
+        "code": "$this->language->txt()",
+        "has_variable": true,
+        "variable": ""
+    },
+    {
+        "id": 50614,
+        "file": "extern\/language\/analyse_language_usage.php",
+        "line": 69,
+        "code": "$this->plugin->txt()",
+        "has_variable": true,
+        "variable": ""
+    },
+    {
+        "id": 50616,
+        "file": "extern\/language\/analyse_language_usage.php",
+        "line": 75,
+        "code": "$this->txt()",
+        "has_variable": true,
+        "variable": ""
+    },
+    {
+        "id": 50618,
+        "file": "extern\/language\/analyse_language_usage.php",
+        "line": 91,
+        "code": "$lng->txt()",
+        "has_variable": true,
+        "variable": ""
+    },
+    {
+        "id": 50620,
+        "file": "extern\/language\/analyse_language_usage.php",
+        "line": 97,
+        "code": "$language->txt()",
+        "has_variable": true,
+        "variable": ""
+    },
+    {
+        "id": 50622,
+        "file": "extern\/language\/analyse_language_usage.php",
+        "line": 103,
+        "code": "$l10n->txt()",
+        "has_variable": true,
+        "variable": ""
+    },
+    {
+        "id": 50624,
+        "file": "extern\/language\/analyse_language_usage.php",
+        "line": 111,
+        "code": "$object->txt()",
+        "has_variable": true,
+        "variable": ""
+    },
+    {
+        "id": 50626,
+        "file": "extern\/language\/analyse_language_usage.php",
+        "line": 272,
+        "code": "$object->txt()",
+        "has_variable": true,
+        "variable": ""
+    },
+    {
+        "id": 50628,
+        "file": "extern\/language\/analyse_language_usage.php",
+        "line": 14,
+        "code": "ilLanguage::_lookupEntry('var', 'mod', 'id')",
+        "has_variable": true,
+        "variable": ""
+    },
+    {
+        "id": 50630,
+        "file": "extern\/language\/analyse_language_usage.php",
+        "line": 83,
+        "code": "ilLanguage::_lookupEntry()',\n            'category' => 'Static',\n            'priority' => 3\n        ],\n        \n        \/\/ Priority 2: Global variable patterns\n        'global_lng_txt' => [\n            'pattern' => '\/\\$lng->txt\\([^)]*\\)",
+        "has_variable": true,
+        "variable": "S"
+    },
+    {
+        "id": 50632,
+        "file": "extern\/language\/analyse_language_usage_per_component.php",
+        "line": 41,
+        "code": "$this->lng->txt()",
+        "has_variable": true,
+        "variable": ""
+    },
+    {
+        "id": 50634,
+        "file": "extern\/language\/analyse_language_usage_per_component.php",
+        "line": 47,
+        "code": "$this->lang->txt()",
+        "has_variable": true,
+        "variable": ""
+    },
+    {
+        "id": 50636,
+        "file": "extern\/language\/analyse_language_usage_per_component.php",
+        "line": 53,
+        "code": "$this->language->txt()",
+        "has_variable": true,
+        "variable": ""
+    },
+    {
+        "id": 50638,
+        "file": "extern\/language\/analyse_language_usage_per_component.php",
+        "line": 59,
+        "code": "$this->plugin->txt()",
+        "has_variable": true,
+        "variable": ""
+    },
+    {
+        "id": 50640,
+        "file": "extern\/language\/analyse_language_usage_per_component.php",
+        "line": 65,
+        "code": "$this->txt()",
+        "has_variable": true,
+        "variable": ""
+    },
+    {
+        "id": 50642,
+        "file": "extern\/language\/analyse_language_usage_per_component.php",
+        "line": 81,
+        "code": "$lng->txt()",
+        "has_variable": true,
+        "variable": ""
+    },
+    {
+        "id": 50644,
+        "file": "extern\/language\/analyse_language_usage_per_component.php",
+        "line": 87,
+        "code": "$language->txt()",
+        "has_variable": true,
+        "variable": ""
+    },
+    {
+        "id": 50646,
+        "file": "extern\/language\/analyse_language_usage_per_component.php",
+        "line": 93,
+        "code": "$l10n->txt()",
+        "has_variable": true,
+        "variable": ""
+    },
+    {
+        "id": 50648,
+        "file": "extern\/language\/analyse_language_usage_per_component.php",
+        "line": 101,
+        "code": "$object->txt()",
+        "has_variable": true,
+        "variable": ""
+    },
+    {
+        "id": 50650,
+        "file": "extern\/language\/analyse_language_usage_per_component.php",
+        "line": 266,
+        "code": "$object->txt()",
+        "has_variable": true,
+        "variable": ""
+    },
+    {
+        "id": 50652,
+        "file": "extern\/language\/analyse_language_usage_per_component.php",
+        "line": 73,
+        "code": "ilLanguage::_lookupEntry()',\n            'category' => 'Static',\n            'priority' => 3\n        ],\n        \n        \/\/ Priority 2: Global variable patterns\n        'global_lng_txt' => [\n            'pattern' => '\/\\$lng->txt\\([^)]*\\)",
+        "has_variable": true,
+        "variable": "S"
+    }
+]

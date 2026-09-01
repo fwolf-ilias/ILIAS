@@ -1,0 +1,85 @@
+{
+    "metadata": {
+        "type": "composed",
+        "count": 4,
+        "description": "Variable usages with detectable prefixes or suffixes"
+    },
+    "matches": [
+        {
+            "id": 12592,
+            "file": "components\/ILIAS\/Cron\/src\/Job\/Manager\/UI\/JobTable.php",
+            "line": 295,
+            "code": "$this->lng->txt('cro_job_rc_' . $resultCode)",
+            "variable": "'cro_job_rc_' . $resultCode",
+            "has_variable": true,
+            "prefix": "cro_job_rc_",
+            "suffix": "",
+            "matching_variables": [
+                "cro_job_rc_job_auto_deactivation_time_limit",
+                "cro_job_rc_job_manual_reset",
+                "cro_job_rc_job_no_result"
+            ]
+        },
+        {
+            "id": 12762,
+            "file": "components\/ILIAS\/Cron\/src\/class.ilObjCronGUI.php",
+            "line": 849,
+            "code": "$this->lng->txt('cron_action_' . $a_action . '_sure')",
+            "variable": "'cron_action_' . $a_action . '_sure'",
+            "has_variable": true,
+            "prefix": "cron_action_",
+            "suffix": "_sure",
+            "matching_variables": [
+                "cron_action_activate_sure",
+                "cron_action_deactivate_sure",
+                "cron_action_reset_sure",
+                "cron_action_run_sure"
+            ]
+        },
+        {
+            "id": 12764,
+            "file": "components\/ILIAS\/Cron\/src\/class.ilObjCronGUI.php",
+            "line": 856,
+            "code": "$this->lng->txt('cron_action_' . $a_action . '_sure_multi')",
+            "variable": "'cron_action_' . $a_action . '_sure_multi'",
+            "has_variable": true,
+            "prefix": "cron_action_",
+            "suffix": "_sure_multi",
+            "matching_variables": [
+                "cron_action_activate_sure_multi",
+                "cron_action_deactivate_sure_multi",
+                "cron_action_reset_sure_multi"
+            ]
+        },
+        {
+            "id": 12768,
+            "file": "components\/ILIAS\/Cron\/src\/class.ilObjCronGUI.php",
+            "line": 865,
+            "code": "$this->lng->txt('cron_action_' . $a_action)",
+            "variable": "'cron_action_' . $a_action",
+            "has_variable": true,
+            "prefix": "cron_action_",
+            "suffix": "",
+            "matching_variables": [
+                "cron_action_activate",
+                "cron_action_activate_success",
+                "cron_action_activate_sure",
+                "cron_action_activate_sure_multi",
+                "cron_action_deactivate",
+                "cron_action_deactivate_success",
+                "cron_action_deactivate_sure",
+                "cron_action_deactivate_sure_multi",
+                "cron_action_edit",
+                "cron_action_edit_success",
+                "cron_action_reset",
+                "cron_action_reset_success",
+                "cron_action_reset_sure",
+                "cron_action_reset_sure_multi",
+                "cron_action_run",
+                "cron_action_run_fail",
+                "cron_action_run_success",
+                "cron_action_run_sure"
+            ]
+        }
+    ]
+}

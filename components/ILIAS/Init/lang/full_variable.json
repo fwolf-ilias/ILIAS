@@ -1,0 +1,64 @@
+{
+    "metadata": {
+        "type": "full",
+        "count": 5,
+        "description": "Variable usages without detectable prefixes or suffixes (pure variable references without static strings)"
+    },
+    "matches": [
+        {
+            "id": 21234,
+            "file": "components\/ILIAS\/Init\/classes\/class.ilInitialisation.php",
+            "line": 1799,
+            "code": "$lng->txt($a_message_id)",
+            "variable": "$a_message_id",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 21292,
+            "file": "components\/ILIAS\/Init\/classes\/class.ilPasswordAssistanceGUI.php",
+            "line": 644,
+            "code": "$this->lng->txt($error_lng_var)",
+            "variable": "$error_lng_var",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 21324,
+            "file": "components\/ILIAS\/Init\/classes\/class.ilStartUpGUI.php",
+            "line": 342,
+            "code": "$this->lng->txt($message_key)",
+            "variable": "$message_key",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 21350,
+            "file": "components\/ILIAS\/Init\/classes\/class.ilStartUpGUI.php",
+            "line": 655,
+            "code": "$this->lng->txt($status->getReason())",
+            "variable": "$status->getReason()",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 21416,
+            "file": "components\/ILIAS\/Init\/classes\/class.ilStartUpGUI.php",
+            "line": 1551,
+            "code": "$this->lng->txt($exception->getMessage())",
+            "variable": "$exception->getMessage()",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        }
+    ]
+}

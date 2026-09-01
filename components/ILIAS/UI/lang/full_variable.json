@@ -1,0 +1,152 @@
+{
+    "metadata": {
+        "type": "full",
+        "count": 13,
+        "description": "Variable usages without detectable prefixes or suffixes (pure variable references without static strings)"
+    },
+    "matches": [
+        {
+            "id": 46182,
+            "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Button\/Renderer.php",
+            "line": 365,
+            "code": "$this->txt($symbol->getLabel())",
+            "variable": "$symbol->getLabel()",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 46294,
+            "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Input\/ViewControl\/Renderer.php",
+            "line": 112,
+            "code": "$this->txt(self::DEFAULT_BUTTON_LABEL)",
+            "variable": "DEFAULT_BUTTON_LABEL",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 46296,
+            "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Input\/ViewControl\/Renderer.php",
+            "line": 118,
+            "code": "$this->txt(self::DEFAULT_DROPDOWN_LABEL)",
+            "variable": "DEFAULT_DROPDOWN_LABEL",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 46298,
+            "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Input\/ViewControl\/Renderer.php",
+            "line": 163,
+            "code": "$this->txt(self::DEFAULT_SORTATION_DROPDOWN_LABEL)",
+            "variable": "DEFAULT_SORTATION_DROPDOWN_LABEL",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 46302,
+            "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Input\/ViewControl\/Renderer.php",
+            "line": 341,
+            "code": "$this->txt(self::DEFAULT_DROPDOWN_LABEL_OFFSET)",
+            "variable": "DEFAULT_DROPDOWN_LABEL_OFFSET",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 46304,
+            "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Input\/ViewControl\/Renderer.php",
+            "line": 343,
+            "code": "$this->txt(self::DEFAULT_DROPDOWN_LABEL_LIMIT)",
+            "variable": "DEFAULT_DROPDOWN_LABEL_LIMIT",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 46306,
+            "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Input\/ViewControl\/Renderer.php",
+            "line": 381,
+            "code": "$this->txt(self::DEFAULT_MODE_LABEL)",
+            "variable": "DEFAULT_MODE_LABEL",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 46342,
+            "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Menu\/Renderer.php",
+            "line": 102,
+            "code": "$this->txt(self::NO_ITEMS_LABEL)",
+            "variable": "NO_ITEMS_LABEL",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 46474,
+            "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/Symbol\/Glyph\/Factory.php",
+            "line": 259,
+            "code": "$this->language->txt(\"collapse\/back\")",
+            "variable": "collapse\/back",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 46580,
+            "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/ViewControl\/Renderer.php",
+            "line": 71,
+            "code": "$this->txt($component->getAriaLabel())",
+            "variable": "$component->getAriaLabel()",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 46590,
+            "file": "components\/ILIAS\/UI\/src\/Implementation\/Component\/ViewControl\/Renderer.php",
+            "line": 249,
+            "code": "$this->txt($dd_label_template)",
+            "variable": "$dd_label_template",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 46592,
+            "file": "components\/ILIAS\/UI\/src\/Implementation\/Render\/AbstractComponentRenderer.php",
+            "line": 92,
+            "code": "$this->lng->txt($id)",
+            "variable": "$id",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 46594,
+            "file": "components\/ILIAS\/UI\/src\/examples\/Symbol\/Icon\/Standard\/std_icons.php",
+            "line": 50,
+            "code": "$lng->txt(\"obj_$icon\")",
+            "variable": "obj_$icon",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        }
+    ]
+}

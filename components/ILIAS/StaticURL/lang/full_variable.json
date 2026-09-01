@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "type": "full",
+        "count": 1,
+        "description": "Variable usages without detectable prefixes or suffixes (pure variable references without static strings)"
+    },
+    "matches": [
+        {
+            "id": 35152,
+            "file": "components\/ILIAS\/StaticURL\/src\/Shortlinks\/UI\/TreeSelectNodeRetrieval.php",
+            "line": 185,
+            "code": "$this->language->txt($object_type)",
+            "variable": "$object_type",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "metadata": {
+        "type": "composed",
+        "count": 1,
+        "description": "Variable usages with detectable prefixes or suffixes"
+    },
+    "matches": [
+        {
+            "id": 30476,
+            "file": "components\/ILIAS\/PrivacySecurity\/classes\/class.ilExportFieldsInfo.php",
+            "line": 160,
+            "code": "$this->lng->txt($this->getType() . '_cdf_tbl_last_edit')",
+            "variable": "$this->getType() . '_cdf_tbl_last_edit'",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "_cdf_tbl_last_edit",
+            "matching_variables": [
+                "crs_cdf_tbl_last_edit",
+                "grp_cdf_tbl_last_edit"
+            ]
+        }
+    ]
+}

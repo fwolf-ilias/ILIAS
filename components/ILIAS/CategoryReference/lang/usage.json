@@ -1,0 +1,18 @@
+[
+    {
+        "id": 8418,
+        "file": "components\/ILIAS\/CategoryReference\/classes\/class.ilObjCategoryReferenceListGUI.php",
+        "line": 128,
+        "code": "$lng->txt(\"status\")",
+        "has_variable": false,
+        "variable": "status"
+    },
+    {
+        "id": 8420,
+        "file": "components\/ILIAS\/CategoryReference\/classes\/class.ilObjCategoryReferenceListGUI.php",
+        "line": 129,
+        "code": "$lng->txt(\"reference_deleted\")",
+        "has_variable": false,
+        "variable": "reference_deleted"
+    }
+]

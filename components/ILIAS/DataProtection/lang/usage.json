@@ -1,0 +1,106 @@
+[
+    {
+        "id": 13740,
+        "file": "components\/ILIAS\/DataProtection\/classes\/class.ilObjDataProtectionGUI.php",
+        "line": 121,
+        "code": "$this->ui->txt('no_documents_exist')",
+        "has_variable": false,
+        "variable": "no_documents_exist"
+    },
+    {
+        "id": 13742,
+        "file": "components\/ILIAS\/DataProtection\/classes\/class.ilObjDataProtectionGUI.php",
+        "line": 139,
+        "code": "$this->ui->txt('sure_reset_tos')",
+        "has_variable": false,
+        "variable": "sure_reset_tos"
+    },
+    {
+        "id": 13744,
+        "file": "components\/ILIAS\/DataProtection\/classes\/class.ilObjDataProtectionGUI.php",
+        "line": 157,
+        "code": "$this->ui->txt('settings')",
+        "has_variable": false,
+        "variable": "settings"
+    },
+    {
+        "id": 13746,
+        "file": "components\/ILIAS\/DataProtection\/classes\/class.ilObjDataProtectionGUI.php",
+        "line": 159,
+        "code": "$this->ui->txt('perm_settings')",
+        "has_variable": false,
+        "variable": "perm_settings"
+    },
+    {
+        "id": 13748,
+        "file": "components\/ILIAS\/DataProtection\/classes\/class.ilObjDataProtectionGUI.php",
+        "line": 180,
+        "code": "$this->ui->txt('no_documents_exist')",
+        "has_variable": false,
+        "variable": "no_documents_exist"
+    },
+    {
+        "id": 13750,
+        "file": "components\/ILIAS\/DataProtection\/classes\/class.ilObjDataProtectionGUI.php",
+        "line": 209,
+        "code": "$this->lng->txt('refresh')",
+        "has_variable": false,
+        "variable": "refresh"
+    },
+    {
+        "id": 13752,
+        "file": "components\/ILIAS\/DataProtection\/classes\/class.ilObjDataProtectionGUI.php",
+        "line": 217,
+        "code": "$this->ui->txt('no_documents_exist_cant_save')",
+        "has_variable": false,
+        "variable": "no_documents_exist_cant_save"
+    },
+    {
+        "id": 13754,
+        "file": "components\/ILIAS\/DataProtection\/classes\/class.ilObjDataProtectionGUI.php",
+        "line": 227,
+        "code": "$this->lng->txt('msg_obj_modified')",
+        "has_variable": false,
+        "variable": "msg_obj_modified"
+    },
+    {
+        "id": 13756,
+        "file": "components\/ILIAS\/DataProtection\/classes\/class.ilObjDataProtectionGUI.php",
+        "line": 239,
+        "code": "$this->ui->txt($label)",
+        "has_variable": true,
+        "variable": "$label"
+    },
+    {
+        "id": 13758,
+        "file": "components\/ILIAS\/DataProtection\/classes\/class.ilObjDataProtectionGUI.php",
+        "line": 240,
+        "code": "$this->ui->txt($description)",
+        "has_variable": true,
+        "variable": "$description"
+    },
+    {
+        "id": 13760,
+        "file": "components\/ILIAS\/DataProtection\/classes\/class.ilObjDataProtectionGUI.php",
+        "line": 249,
+        "code": "$this->ui->txt($prefix)",
+        "has_variable": true,
+        "variable": "$prefix"
+    },
+    {
+        "id": 13762,
+        "file": "components\/ILIAS\/DataProtection\/classes\/class.ilObjDataProtectionGUI.php",
+        "line": 249,
+        "code": "$this->ui->txt($prefix . '_desc')",
+        "has_variable": true,
+        "variable": "$prefix . '_desc'"
+    },
+    {
+        "id": 13764,
+        "file": "components\/ILIAS\/DataProtection\/classes\/class.ilObjDataProtectionGUI.php",
+        "line": 251,
+        "code": "$this->ui->txt($label)",
+        "has_variable": true,
+        "variable": "$label"
+    }
+]

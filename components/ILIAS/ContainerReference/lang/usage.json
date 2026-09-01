@@ -1,0 +1,186 @@
+[
+    {
+        "id": 10822,
+        "file": "components\/ILIAS\/ContainerReference\/classes\/class.ilContainerReference.php",
+        "line": 209,
+        "code": "$this->lng->txt('reference_of')",
+        "has_variable": false,
+        "variable": "reference_of"
+    },
+    {
+        "id": 10824,
+        "file": "components\/ILIAS\/ContainerReference\/classes\/class.ilContainerReferenceGUI.php",
+        "line": 129,
+        "code": "$this->lng->txt(\"permission_denied\")",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 10826,
+        "file": "components\/ILIAS\/ContainerReference\/classes\/class.ilContainerReferenceGUI.php",
+        "line": 142,
+        "code": "$this->lng->txt('select_one')",
+        "has_variable": false,
+        "variable": "select_one"
+    },
+    {
+        "id": 10828,
+        "file": "components\/ILIAS\/ContainerReference\/classes\/class.ilContainerReferenceGUI.php",
+        "line": 151,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 10830,
+        "file": "components\/ILIAS\/ContainerReference\/classes\/class.ilContainerReferenceGUI.php",
+        "line": 157,
+        "code": "$this->lng->txt(\"no_create_permission\")",
+        "has_variable": false,
+        "variable": "no_create_permission"
+    },
+    {
+        "id": 10832,
+        "file": "components\/ILIAS\/ContainerReference\/classes\/class.ilContainerReferenceGUI.php",
+        "line": 210,
+        "code": "$this->lng->txt(\"object_added\")",
+        "has_variable": false,
+        "variable": "object_added"
+    },
+    {
+        "id": 10834,
+        "file": "components\/ILIAS\/ContainerReference\/classes\/class.ilContainerReferenceGUI.php",
+        "line": 247,
+        "code": "$this->lng->txt($this->getReferenceType() . '_new')",
+        "has_variable": true,
+        "variable": "$this->getReferenceType() . '_new'"
+    },
+    {
+        "id": 10836,
+        "file": "components\/ILIAS\/ContainerReference\/classes\/class.ilContainerReferenceGUI.php",
+        "line": 256,
+        "code": "$this->lng->txt($this->reference_type . '_settings')",
+        "has_variable": true,
+        "variable": "$this->reference_type . '_settings'"
+    },
+    {
+        "id": 10838,
+        "file": "components\/ILIAS\/ContainerReference\/classes\/class.ilContainerReferenceGUI.php",
+        "line": 262,
+        "code": "$this->lng->txt($lv)",
+        "has_variable": true,
+        "variable": "$lv"
+    },
+    {
+        "id": 10840,
+        "file": "components\/ILIAS\/ContainerReference\/classes\/class.ilContainerReferenceGUI.php",
+        "line": 263,
+        "code": "$this->lng->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 10842,
+        "file": "components\/ILIAS\/ContainerReference\/classes\/class.ilContainerReferenceGUI.php",
+        "line": 265,
+        "code": "$this->lng->txt('save')",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 10844,
+        "file": "components\/ILIAS\/ContainerReference\/classes\/class.ilContainerReferenceGUI.php",
+        "line": 269,
+        "code": "$this->lng->txt('title')",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 10846,
+        "file": "components\/ILIAS\/ContainerReference\/classes\/class.ilContainerReferenceGUI.php",
+        "line": 276,
+        "code": "$this->lng->txt('objref_reuse_title')",
+        "has_variable": false,
+        "variable": "objref_reuse_title"
+    },
+    {
+        "id": 10848,
+        "file": "components\/ILIAS\/ContainerReference\/classes\/class.ilContainerReferenceGUI.php",
+        "line": 280,
+        "code": "$this->lng->txt('objref_custom_title')",
+        "has_variable": false,
+        "variable": "objref_custom_title"
+    },
+    {
+        "id": 10850,
+        "file": "components\/ILIAS\/ContainerReference\/classes\/class.ilContainerReferenceGUI.php",
+        "line": 284,
+        "code": "$this->lng->txt('title')",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 10852,
+        "file": "components\/ILIAS\/ContainerReference\/classes\/class.ilContainerReferenceGUI.php",
+        "line": 297,
+        "code": "$this->lng->txt(\"objref_edit_ref\")",
+        "has_variable": false,
+        "variable": "objref_edit_ref"
+    },
+    {
+        "id": 10854,
+        "file": "components\/ILIAS\/ContainerReference\/classes\/class.ilContainerReferenceGUI.php",
+        "line": 307,
+        "code": "$this->lng->txt($this->getReferenceType() . '_edit_info')",
+        "has_variable": true,
+        "variable": "$this->getReferenceType() . '_edit_info'"
+    },
+    {
+        "id": 10856,
+        "file": "components\/ILIAS\/ContainerReference\/classes\/class.ilContainerReferenceGUI.php",
+        "line": 331,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 10858,
+        "file": "components\/ILIAS\/ContainerReference\/classes\/class.ilContainerReferenceGUI.php",
+        "line": 337,
+        "code": "$this->lng->txt('objref_failure_target_type')",
+        "has_variable": false,
+        "variable": "objref_failure_target_type"
+    },
+    {
+        "id": 10860,
+        "file": "components\/ILIAS\/ContainerReference\/classes\/class.ilContainerReferenceGUI.php",
+        "line": 339,
+        "code": "$this->lng->txt('obj_' . $this->target_type)",
+        "has_variable": true,
+        "variable": "'obj_' . $this->target_type"
+    },
+    {
+        "id": 10862,
+        "file": "components\/ILIAS\/ContainerReference\/classes\/class.ilContainerReferenceGUI.php",
+        "line": 368,
+        "code": "$this->lng->txt('settings_saved')",
+        "has_variable": false,
+        "variable": "settings_saved"
+    },
+    {
+        "id": 10864,
+        "file": "components\/ILIAS\/ContainerReference\/classes\/class.ilContainerReferenceGUI.php",
+        "line": 372,
+        "code": "$this->lng->txt('err_check_input')",
+        "has_variable": false,
+        "variable": "err_check_input"
+    },
+    {
+        "id": 10866,
+        "file": "components\/ILIAS\/ContainerReference\/classes\/class.ilContainerSelectionExplorer.php",
+        "line": 88,
+        "code": "$lng->txt(\"repository\")",
+        "has_variable": false,
+        "variable": "repository"
+    }
+]

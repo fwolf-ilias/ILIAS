@@ -1,0 +1,194 @@
+[
+    {
+        "id": 48442,
+        "file": "components\/ILIAS\/WOPI\/classes\/Administration\/class.ilWOPIAdministrationGUI.php",
+        "line": 84,
+        "code": "$this->lng->txt(\"permission_denied\")",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 48444,
+        "file": "components\/ILIAS\/WOPI\/classes\/Administration\/class.ilWOPIAdministrationGUI.php",
+        "line": 103,
+        "code": "$this->lng->txt(\"currently_supported\")",
+        "has_variable": false,
+        "variable": "currently_supported"
+    },
+    {
+        "id": 48446,
+        "file": "components\/ILIAS\/WOPI\/classes\/Administration\/class.ilWOPIAdministrationGUI.php",
+        "line": 107,
+        "code": "$this->lng->txt('action_edit')",
+        "has_variable": false,
+        "variable": "action_edit"
+    },
+    {
+        "id": 48448,
+        "file": "components\/ILIAS\/WOPI\/classes\/Administration\/class.ilWOPIAdministrationGUI.php",
+        "line": 108,
+        "code": "$this->lng->txt('action_view')",
+        "has_variable": false,
+        "variable": "action_view"
+    },
+    {
+        "id": 48450,
+        "file": "components\/ILIAS\/WOPI\/classes\/Administration\/class.ilWOPIAdministrationGUI.php",
+        "line": 144,
+        "code": "$this->lng->txt('launcher_url')",
+        "has_variable": false,
+        "variable": "launcher_url"
+    },
+    {
+        "id": 48452,
+        "file": "components\/ILIAS\/WOPI\/classes\/Administration\/class.ilWOPIAdministrationGUI.php",
+        "line": 145,
+        "code": "$this->lng->txt('action')",
+        "has_variable": false,
+        "variable": "action"
+    },
+    {
+        "id": 48454,
+        "file": "components\/ILIAS\/WOPI\/classes\/Administration\/class.ilWOPIAdministrationGUI.php",
+        "line": 153,
+        "code": "$this->lng->txt('actions')",
+        "has_variable": false,
+        "variable": "actions"
+    },
+    {
+        "id": 48456,
+        "file": "components\/ILIAS\/WOPI\/classes\/Administration\/class.ilWOPIAdministrationGUI.php",
+        "line": 163,
+        "code": "$this->lng->txt(\"permission_denied\")",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 48458,
+        "file": "components\/ILIAS\/WOPI\/classes\/Administration\/class.ilWOPIAdministrationGUI.php",
+        "line": 175,
+        "code": "$this->lng->txt(\"msg_wopi_settings_modified\")",
+        "has_variable": false,
+        "variable": "msg_wopi_settings_modified"
+    },
+    {
+        "id": 48460,
+        "file": "components\/ILIAS\/WOPI\/classes\/Administration\/class.ilWOPISettingsForm.php",
+        "line": 74,
+        "code": "$this->lng->txt(\"wopi_url\")",
+        "has_variable": false,
+        "variable": "wopi_url"
+    },
+    {
+        "id": 48462,
+        "file": "components\/ILIAS\/WOPI\/classes\/Administration\/class.ilWOPISettingsForm.php",
+        "line": 75,
+        "code": "$this->lng->txt(\"wopi_url_byline\")",
+        "has_variable": false,
+        "variable": "wopi_url_byline"
+    },
+    {
+        "id": 48464,
+        "file": "components\/ILIAS\/WOPI\/classes\/Administration\/class.ilWOPISettingsForm.php",
+        "line": 86,
+        "code": "$this->lng->txt('msg_error_wopi_invalid_discorvery_url')",
+        "has_variable": false,
+        "variable": "msg_error_wopi_invalid_discorvery_url"
+    },
+    {
+        "id": 48466,
+        "file": "components\/ILIAS\/WOPI\/classes\/Administration\/class.ilWOPISettingsForm.php",
+        "line": 103,
+        "code": "$this->lng->txt(\"saving_interval\")",
+        "has_variable": false,
+        "variable": "saving_interval"
+    },
+    {
+        "id": 48468,
+        "file": "components\/ILIAS\/WOPI\/classes\/Administration\/class.ilWOPISettingsForm.php",
+        "line": 104,
+        "code": "$this->lng->txt(\"saving_interval_byline\")",
+        "has_variable": false,
+        "variable": "saving_interval_byline"
+    },
+    {
+        "id": 48470,
+        "file": "components\/ILIAS\/WOPI\/classes\/Administration\/class.ilWOPISettingsForm.php",
+        "line": 124,
+        "code": "$this->lng->txt(\"activate_saving_interval\")",
+        "has_variable": false,
+        "variable": "activate_saving_interval"
+    },
+    {
+        "id": 48472,
+        "file": "components\/ILIAS\/WOPI\/classes\/Administration\/class.ilWOPISettingsForm.php",
+        "line": 146,
+        "code": "$this->lng->txt(\"activate_wopi\")",
+        "has_variable": false,
+        "variable": "activate_wopi"
+    },
+    {
+        "id": 48474,
+        "file": "components\/ILIAS\/WOPI\/classes\/Administration\/class.ilWOPISettingsForm.php",
+        "line": 166,
+        "code": "$this->lng->txt(\"wopi_settings\")",
+        "has_variable": false,
+        "variable": "wopi_settings"
+    },
+    {
+        "id": 48476,
+        "file": "components\/ILIAS\/WOPI\/classes\/Cron\/class.ilWOPICrawler.php",
+        "line": 61,
+        "code": "$this->language->txt('wopi_crawler_cronjob_title')",
+        "has_variable": false,
+        "variable": "wopi_crawler_cronjob_title"
+    },
+    {
+        "id": 48478,
+        "file": "components\/ILIAS\/WOPI\/classes\/Cron\/class.ilWOPICrawler.php",
+        "line": 66,
+        "code": "$this->language->txt('wopi_crawler_cronjob_description')",
+        "has_variable": false,
+        "variable": "wopi_crawler_cronjob_description"
+    },
+    {
+        "id": 48480,
+        "file": "components\/ILIAS\/WOPI\/classes\/Cron\/class.ilWOPICrawler.php",
+        "line": 93,
+        "code": "$this->language->txt('wopi_crawler_cronjob_not_activated')",
+        "has_variable": false,
+        "variable": "wopi_crawler_cronjob_not_activated"
+    },
+    {
+        "id": 48482,
+        "file": "components\/ILIAS\/WOPI\/classes\/Cron\/class.ilWOPICrawler.php",
+        "line": 100,
+        "code": "$this->language->txt('msg_error_wopi_invalid_discorvery_url')",
+        "has_variable": false,
+        "variable": "msg_error_wopi_invalid_discorvery_url"
+    },
+    {
+        "id": 48484,
+        "file": "components\/ILIAS\/WOPI\/classes\/Cron\/class.ilWOPICrawler.php",
+        "line": 107,
+        "code": "$this->language->txt('wopi_crawler_cronjob_no_apps')",
+        "has_variable": false,
+        "variable": "wopi_crawler_cronjob_no_apps"
+    },
+    {
+        "id": 48486,
+        "file": "components\/ILIAS\/WOPI\/classes\/Cron\/class.ilWOPICrawler.php",
+        "line": 110,
+        "code": "$this->language->txt('wopi_crawler_cronjob_success')",
+        "has_variable": false,
+        "variable": "wopi_crawler_cronjob_success"
+    },
+    {
+        "id": 48488,
+        "file": "components\/ILIAS\/WOPI\/classes\/Embed\/class.ilWOPIEmbeddedApplicationGUI.php",
+        "line": 141,
+        "code": "$this->lng->txt('close_wopi_editor_info')",
+        "has_variable": false,
+        "variable": "close_wopi_editor_info"
+    }
+]

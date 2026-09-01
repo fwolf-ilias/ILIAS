@@ -1,0 +1,122 @@
+[
+    {
+        "id": 12530,
+        "file": "components\/ILIAS\/CourseReference\/classes\/class.ilCourseReferenceDeleteConfirmationTableGUI.php",
+        "line": 74,
+        "code": "$this->lng->txt('confirm')",
+        "has_variable": false,
+        "variable": "confirm"
+    },
+    {
+        "id": 12532,
+        "file": "components\/ILIAS\/CourseReference\/classes\/class.ilCourseReferenceDeleteConfirmationTableGUI.php",
+        "line": 75,
+        "code": "$this->lng->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 12534,
+        "file": "components\/ILIAS\/CourseReference\/classes\/class.ilCourseReferenceDeleteConfirmationTableGUI.php",
+        "line": 82,
+        "code": "$this->lng->txt('type')",
+        "has_variable": false,
+        "variable": "type"
+    },
+    {
+        "id": 12536,
+        "file": "components\/ILIAS\/CourseReference\/classes\/class.ilCourseReferenceDeleteConfirmationTableGUI.php",
+        "line": 83,
+        "code": "$this->lng->txt('title')",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 12538,
+        "file": "components\/ILIAS\/CourseReference\/classes\/class.ilCourseReferenceDeleteConfirmationTableGUI.php",
+        "line": 113,
+        "code": "$this->lng->txt('obj_usr')",
+        "has_variable": false,
+        "variable": "obj_usr"
+    },
+    {
+        "id": 12540,
+        "file": "components\/ILIAS\/CourseReference\/classes\/class.ilCourseReferenceDeleteConfirmationTableGUI.php",
+        "line": 133,
+        "code": "$this->lng->txt('select_all')",
+        "has_variable": false,
+        "variable": "select_all"
+    },
+    {
+        "id": 12542,
+        "file": "components\/ILIAS\/CourseReference\/classes\/class.ilObjCourseReferenceGUI.php",
+        "line": 83,
+        "code": "$this->lng->txt('settings')",
+        "has_variable": false,
+        "variable": "settings"
+    },
+    {
+        "id": 12544,
+        "file": "components\/ILIAS\/CourseReference\/classes\/class.ilObjCourseReferenceGUI.php",
+        "line": 91,
+        "code": "$this->lng->txt('learning_progress')",
+        "has_variable": false,
+        "variable": "learning_progress"
+    },
+    {
+        "id": 12546,
+        "file": "components\/ILIAS\/CourseReference\/classes\/class.ilObjCourseReferenceGUI.php",
+        "line": 104,
+        "code": "$this->lng->txt('perm_settings')",
+        "has_variable": false,
+        "variable": "perm_settings"
+    },
+    {
+        "id": 12548,
+        "file": "components\/ILIAS\/CourseReference\/classes\/class.ilObjCourseReferenceGUI.php",
+        "line": 139,
+        "code": "$this->lng->txt('crs_ref_member_update')",
+        "has_variable": false,
+        "variable": "crs_ref_member_update"
+    },
+    {
+        "id": 12550,
+        "file": "components\/ILIAS\/CourseReference\/classes\/class.ilObjCourseReferenceGUI.php",
+        "line": 141,
+        "code": "$this->lng->txt('crs_ref_member_update_info')",
+        "has_variable": false,
+        "variable": "crs_ref_member_update_info"
+    },
+    {
+        "id": 12552,
+        "file": "components\/ILIAS\/CourseReference\/classes\/class.ilObjCourseReferenceGUI.php",
+        "line": 165,
+        "code": "$this->lng->txt('crs_ref_missing_parent_crs')",
+        "has_variable": false,
+        "variable": "crs_ref_missing_parent_crs"
+    },
+    {
+        "id": 12554,
+        "file": "components\/ILIAS\/CourseReference\/classes\/class.ilObjCourseReferenceGUI.php",
+        "line": 169,
+        "code": "$this->lng->txt('crs_ref_missing_access')",
+        "has_variable": false,
+        "variable": "crs_ref_missing_access"
+    },
+    {
+        "id": 12556,
+        "file": "components\/ILIAS\/CourseReference\/classes\/class.ilObjCourseReferenceListGUI.php",
+        "line": 140,
+        "code": "$lng->txt(\"status\")",
+        "has_variable": false,
+        "variable": "status"
+    },
+    {
+        "id": 12558,
+        "file": "components\/ILIAS\/CourseReference\/classes\/class.ilObjCourseReferenceListGUI.php",
+        "line": 141,
+        "code": "$lng->txt(\"reference_deleted\")",
+        "has_variable": false,
+        "variable": "reference_deleted"
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "id": 28834,
+        "file": "components\/ILIAS\/Notifications\/classes\/class.ilObjNotificationAdminGUI.php",
+        "line": 47,
+        "code": "$this->lng->txt('no_permission')",
+        "has_variable": false,
+        "variable": "no_permission"
+    },
+    {
+        "id": 28836,
+        "file": "components\/ILIAS\/Notifications\/classes\/class.ilObjNotificationAdminGUI.php",
+        "line": 72,
+        "code": "$this->lng->txt('settings')",
+        "has_variable": false,
+        "variable": "settings"
+    },
+    {
+        "id": 28838,
+        "file": "components\/ILIAS\/Notifications\/classes\/class.ilObjNotificationAdminGUI.php",
+        "line": 80,
+        "code": "$this->lng->txt('perm_settings')",
+        "has_variable": false,
+        "variable": "perm_settings"
+    },
+    {
+        "id": 28840,
+        "file": "components\/ILIAS\/Notifications\/classes\/class.ilObjNotificationAdminGUI.php",
+        "line": 117,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 28842,
+        "file": "components\/ILIAS\/Notifications\/classes\/class.ilObjNotificationAdminGUI.php",
+        "line": 155,
+        "code": "$this->lng->txt('osd_interval')",
+        "has_variable": false,
+        "variable": "osd_interval"
+    },
+    {
+        "id": 28844,
+        "file": "components\/ILIAS\/Notifications\/classes\/class.ilObjNotificationAdminGUI.php",
+        "line": 156,
+        "code": "$this->lng->txt('osd_interval_desc')",
+        "has_variable": false,
+        "variable": "osd_interval_desc"
+    },
+    {
+        "id": 28846,
+        "file": "components\/ILIAS\/Notifications\/classes\/class.ilObjNotificationAdminGUI.php",
+        "line": 164,
+        "code": "$this->lng->txt('osd_error_refresh_interval_too_small')",
+        "has_variable": false,
+        "variable": "osd_error_refresh_interval_too_small"
+    },
+    {
+        "id": 28848,
+        "file": "components\/ILIAS\/Notifications\/classes\/class.ilObjNotificationAdminGUI.php",
+        "line": 167,
+        "code": "$this->lng->txt('osd_play_sound')",
+        "has_variable": false,
+        "variable": "osd_play_sound"
+    },
+    {
+        "id": 28850,
+        "file": "components\/ILIAS\/Notifications\/classes\/class.ilObjNotificationAdminGUI.php",
+        "line": 168,
+        "code": "$this->lng->txt('osd_play_sound_desc')",
+        "has_variable": false,
+        "variable": "osd_play_sound_desc"
+    },
+    {
+        "id": 28852,
+        "file": "components\/ILIAS\/Notifications\/classes\/class.ilObjNotificationAdminGUI.php",
+        "line": 171,
+        "code": "$this->lng->txt('enable_osd')",
+        "has_variable": false,
+        "variable": "enable_osd"
+    },
+    {
+        "id": 28854,
+        "file": "components\/ILIAS\/Notifications\/classes\/class.ilObjNotificationAdminGUI.php",
+        "line": 172,
+        "code": "$this->lng->txt('enable_osd_desc')",
+        "has_variable": false,
+        "variable": "enable_osd_desc"
+    },
+    {
+        "id": 28856,
+        "file": "components\/ILIAS\/Notifications\/classes\/class.ilObjNotificationAdminGUI.php",
+        "line": 175,
+        "code": "$this->lng->txt('enable_push')",
+        "has_variable": false,
+        "variable": "enable_push"
+    },
+    {
+        "id": 28858,
+        "file": "components\/ILIAS\/Notifications\/classes\/class.ilObjNotificationAdminGUI.php",
+        "line": 176,
+        "code": "$this->lng->txt('enable_push_desc')",
+        "has_variable": false,
+        "variable": "enable_push_desc"
+    },
+    {
+        "id": 28860,
+        "file": "components\/ILIAS\/Notifications\/classes\/class.ilObjNotificationAdminGUI.php",
+        "line": 193,
+        "code": "$this->lng->txt('osd_settings')",
+        "has_variable": false,
+        "variable": "osd_settings"
+    },
+    {
+        "id": 28862,
+        "file": "components\/ILIAS\/Notifications\/classes\/class.ilObjNotificationAdminGUI.php",
+        "line": 197,
+        "code": "$this->lng->txt('push_settings')",
+        "has_variable": false,
+        "variable": "push_settings"
+    }
+]

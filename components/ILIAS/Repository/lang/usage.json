@@ -1,0 +1,2522 @@
+[
+    {
+        "id": 31212,
+        "file": "components\/ILIAS\/Repository\/Administration\/class.ilAdminSubItemsTableGUI.php",
+        "line": 67,
+        "code": "$this->lng->txt(\"type\")",
+        "has_variable": false,
+        "variable": "type"
+    },
+    {
+        "id": 31214,
+        "file": "components\/ILIAS\/Repository\/Administration\/class.ilAdminSubItemsTableGUI.php",
+        "line": 68,
+        "code": "$this->lng->txt(\"title\")",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 31216,
+        "file": "components\/ILIAS\/Repository\/Administration\/class.ilAdminSubItemsTableGUI.php",
+        "line": 69,
+        "code": "$this->lng->txt(\"last_change\")",
+        "has_variable": false,
+        "variable": "last_change"
+    },
+    {
+        "id": 31218,
+        "file": "components\/ILIAS\/Repository\/Administration\/class.ilAdminSubItemsTableGUI.php",
+        "line": 88,
+        "code": "$lng->txt(\"paste\")",
+        "has_variable": false,
+        "variable": "paste"
+    },
+    {
+        "id": 31220,
+        "file": "components\/ILIAS\/Repository\/Administration\/class.ilAdminSubItemsTableGUI.php",
+        "line": 89,
+        "code": "$lng->txt(\"clear\")",
+        "has_variable": false,
+        "variable": "clear"
+    },
+    {
+        "id": 31222,
+        "file": "components\/ILIAS\/Repository\/Administration\/class.ilAdminSubItemsTableGUI.php",
+        "line": 92,
+        "code": "$lng->txt(\"cut\")",
+        "has_variable": false,
+        "variable": "cut"
+    },
+    {
+        "id": 31224,
+        "file": "components\/ILIAS\/Repository\/Administration\/class.ilAdminSubItemsTableGUI.php",
+        "line": 93,
+        "code": "$lng->txt(\"delete\")",
+        "has_variable": false,
+        "variable": "delete"
+    },
+    {
+        "id": 31226,
+        "file": "components\/ILIAS\/Repository\/Administration\/class.ilAdminSubItemsTableGUI.php",
+        "line": 94,
+        "code": "$lng->txt(\"link\")",
+        "has_variable": false,
+        "variable": "link"
+    },
+    {
+        "id": 31228,
+        "file": "components\/ILIAS\/Repository\/Administration\/class.ilAdminSubItemsTableGUI.php",
+        "line": 98,
+        "code": "$lng->txt(\"clear\")",
+        "has_variable": false,
+        "variable": "clear"
+    },
+    {
+        "id": 31230,
+        "file": "components\/ILIAS\/Repository\/Administration\/class.ilAdminSubItemsTableGUI.php",
+        "line": 101,
+        "code": "$lng->txt(\"cut\")",
+        "has_variable": false,
+        "variable": "cut"
+    },
+    {
+        "id": 31232,
+        "file": "components\/ILIAS\/Repository\/Administration\/class.ilAdminSubItemsTableGUI.php",
+        "line": 102,
+        "code": "$lng->txt(\"btn_remove_system\")",
+        "has_variable": false,
+        "variable": "btn_remove_system"
+    },
+    {
+        "id": 31234,
+        "file": "components\/ILIAS\/Repository\/Administration\/class.ilAdminSubItemsTableGUI.php",
+        "line": 189,
+        "code": "$lng->txt(\"icon\")",
+        "has_variable": false,
+        "variable": "icon"
+    },
+    {
+        "id": 31236,
+        "file": "components\/ILIAS\/Repository\/Administration\/class.ilAdminSubItemsTableGUI.php",
+        "line": 190,
+        "code": "$lng->txt(\"icon\")",
+        "has_variable": false,
+        "variable": "icon"
+    },
+    {
+        "id": 31238,
+        "file": "components\/ILIAS\/Repository\/Administration\/class.ilAdminSubItemsTableGUI.php",
+        "line": 190,
+        "code": "$lng->txt(\"obj_\" . $a_set[\"type\"])",
+        "has_variable": true,
+        "variable": "\"obj_\" . $a_set[\"type\"]"
+    },
+    {
+        "id": 31240,
+        "file": "components\/ILIAS\/Repository\/Administration\/class.ilModulesTableGUI.php",
+        "line": 51,
+        "code": "$lng->txt(\"cmps_repository_object_types\")",
+        "has_variable": false,
+        "variable": "cmps_repository_object_types"
+    },
+    {
+        "id": 31242,
+        "file": "components\/ILIAS\/Repository\/Administration\/class.ilModulesTableGUI.php",
+        "line": 53,
+        "code": "$lng->txt(\"cmps_add_new_rank\")",
+        "has_variable": false,
+        "variable": "cmps_add_new_rank"
+    },
+    {
+        "id": 31244,
+        "file": "components\/ILIAS\/Repository\/Administration\/class.ilModulesTableGUI.php",
+        "line": 54,
+        "code": "$lng->txt(\"cmps_rep_object\")",
+        "has_variable": false,
+        "variable": "cmps_rep_object"
+    },
+    {
+        "id": 31246,
+        "file": "components\/ILIAS\/Repository\/Administration\/class.ilModulesTableGUI.php",
+        "line": 55,
+        "code": "$lng->txt(\"cmps_module\")",
+        "has_variable": false,
+        "variable": "cmps_module"
+    },
+    {
+        "id": 31248,
+        "file": "components\/ILIAS\/Repository\/Administration\/class.ilModulesTableGUI.php",
+        "line": 56,
+        "code": "$lng->txt(\"cmps_group\")",
+        "has_variable": false,
+        "variable": "cmps_group"
+    },
+    {
+        "id": 31250,
+        "file": "components\/ILIAS\/Repository\/Administration\/class.ilModulesTableGUI.php",
+        "line": 57,
+        "code": "$lng->txt(\"cmps_enable_creation\")",
+        "has_variable": false,
+        "variable": "cmps_enable_creation"
+    },
+    {
+        "id": 31252,
+        "file": "components\/ILIAS\/Repository\/Administration\/class.ilModulesTableGUI.php",
+        "line": 61,
+        "code": "$lng->txt(\"cmps_save_options\")",
+        "has_variable": false,
+        "variable": "cmps_save_options"
+    },
+    {
+        "id": 31254,
+        "file": "components\/ILIAS\/Repository\/Administration\/class.ilModulesTableGUI.php",
+        "line": 85,
+        "code": "$lng->txt(\"rep_new_item_group_unassigned\")",
+        "has_variable": false,
+        "variable": "rep_new_item_group_unassigned"
+    },
+    {
+        "id": 31256,
+        "file": "components\/ILIAS\/Repository\/Administration\/class.ilModulesTableGUI.php",
+        "line": 120,
+        "code": "$lng->txt(\"obj_\" . $rt[\"id\"])",
+        "has_variable": true,
+        "variable": "\"obj_\" . $rt[\"id\"]"
+    },
+    {
+        "id": 31258,
+        "file": "components\/ILIAS\/Repository\/Administration\/class.ilModulesTableGUI.php",
+        "line": 139,
+        "code": "$lng->txt(\"obj_\" . $id)",
+        "has_variable": true,
+        "variable": "\"obj_\" . $id"
+    },
+    {
+        "id": 31260,
+        "file": "components\/ILIAS\/Repository\/Administration\/class.ilModulesTableGUI.php",
+        "line": 266,
+        "code": "$lng->txt(\"cmps_plugin\")",
+        "has_variable": false,
+        "variable": "cmps_plugin"
+    },
+    {
+        "id": 31262,
+        "file": "components\/ILIAS\/Repository\/Administration\/class.ilNewItemGroupTableGUI.php",
+        "line": 50,
+        "code": "$lng->txt(\"rep_new_item_groups\")",
+        "has_variable": false,
+        "variable": "rep_new_item_groups"
+    },
+    {
+        "id": 31264,
+        "file": "components\/ILIAS\/Repository\/Administration\/class.ilNewItemGroupTableGUI.php",
+        "line": 55,
+        "code": "$lng->txt(\"cmps_add_new_rank\")",
+        "has_variable": false,
+        "variable": "cmps_add_new_rank"
+    },
+    {
+        "id": 31266,
+        "file": "components\/ILIAS\/Repository\/Administration\/class.ilNewItemGroupTableGUI.php",
+        "line": 56,
+        "code": "$lng->txt(\"title\")",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 31268,
+        "file": "components\/ILIAS\/Repository\/Administration\/class.ilNewItemGroupTableGUI.php",
+        "line": 57,
+        "code": "$lng->txt(\"rep_new_item_group_nr_subitems\")",
+        "has_variable": false,
+        "variable": "rep_new_item_group_nr_subitems"
+    },
+    {
+        "id": 31270,
+        "file": "components\/ILIAS\/Repository\/Administration\/class.ilNewItemGroupTableGUI.php",
+        "line": 60,
+        "code": "$lng->txt(\"action\")",
+        "has_variable": false,
+        "variable": "action"
+    },
+    {
+        "id": 31272,
+        "file": "components\/ILIAS\/Repository\/Administration\/class.ilNewItemGroupTableGUI.php",
+        "line": 64,
+        "code": "$lng->txt(\"cmps_save_options\")",
+        "has_variable": false,
+        "variable": "cmps_save_options"
+    },
+    {
+        "id": 31274,
+        "file": "components\/ILIAS\/Repository\/Administration\/class.ilNewItemGroupTableGUI.php",
+        "line": 65,
+        "code": "$lng->txt(\"delete\")",
+        "has_variable": false,
+        "variable": "delete"
+    },
+    {
+        "id": 31276,
+        "file": "components\/ILIAS\/Repository\/Administration\/class.ilNewItemGroupTableGUI.php",
+        "line": 87,
+        "code": "$lng->txt(\"rep_new_item_group_unassigned_subitems\")",
+        "has_variable": false,
+        "variable": "rep_new_item_group_unassigned_subitems"
+    },
+    {
+        "id": 31278,
+        "file": "components\/ILIAS\/Repository\/Administration\/class.ilNewItemGroupTableGUI.php",
+        "line": 128,
+        "code": "$lng->txt(\"edit\")",
+        "has_variable": false,
+        "variable": "edit"
+    },
+    {
+        "id": 31280,
+        "file": "components\/ILIAS\/Repository\/Administration\/class.ilObjRepositorySettings.php",
+        "line": 234,
+        "code": "$lng->txt(\"rep_add_new_def_grp_\" . $group)",
+        "has_variable": true,
+        "variable": "\"rep_add_new_def_grp_\" . $group"
+    },
+    {
+        "id": 31282,
+        "file": "components\/ILIAS\/Repository\/Administration\/class.ilObjRepositorySettingsGUI.php",
+        "line": 89,
+        "code": "$this->lng->txt('no_permission')",
+        "has_variable": false,
+        "variable": "no_permission"
+    },
+    {
+        "id": 31284,
+        "file": "components\/ILIAS\/Repository\/Administration\/class.ilObjRepositorySettingsGUI.php",
+        "line": 111,
+        "code": "$this->lng->txt(\"settings\")",
+        "has_variable": false,
+        "variable": "settings"
+    },
+    {
+        "id": 31286,
+        "file": "components\/ILIAS\/Repository\/Administration\/class.ilObjRepositorySettingsGUI.php",
+        "line": 117,
+        "code": "$this->lng->txt(\"rep_custom_icons\")",
+        "has_variable": false,
+        "variable": "rep_custom_icons"
+    },
+    {
+        "id": 31288,
+        "file": "components\/ILIAS\/Repository\/Administration\/class.ilObjRepositorySettingsGUI.php",
+        "line": 123,
+        "code": "$this->lng->txt(\"cmps_repository_object_types\")",
+        "has_variable": false,
+        "variable": "cmps_repository_object_types"
+    },
+    {
+        "id": 31290,
+        "file": "components\/ILIAS\/Repository\/Administration\/class.ilObjRepositorySettingsGUI.php",
+        "line": 130,
+        "code": "$this->lng->txt(\"perm_settings\")",
+        "has_variable": false,
+        "variable": "perm_settings"
+    },
+    {
+        "id": 31292,
+        "file": "components\/ILIAS\/Repository\/Administration\/class.ilObjRepositorySettingsGUI.php",
+        "line": 159,
+        "code": "$this->lng->txt(\"adm_rep_tree_only_cntr\")",
+        "has_variable": false,
+        "variable": "adm_rep_tree_only_cntr"
+    },
+    {
+        "id": 31294,
+        "file": "components\/ILIAS\/Repository\/Administration\/class.ilObjRepositorySettingsGUI.php",
+        "line": 160,
+        "code": "$this->lng->txt(\"adm_rep_tree_only_cntr_info\")",
+        "has_variable": false,
+        "variable": "adm_rep_tree_only_cntr_info"
+    },
+    {
+        "id": 31296,
+        "file": "components\/ILIAS\/Repository\/Administration\/class.ilObjRepositorySettingsGUI.php",
+        "line": 164,
+        "code": "$this->lng->txt(\"adm_rep_tree_limit_grp_crs\")",
+        "has_variable": false,
+        "variable": "adm_rep_tree_limit_grp_crs"
+    },
+    {
+        "id": 31298,
+        "file": "components\/ILIAS\/Repository\/Administration\/class.ilObjRepositorySettingsGUI.php",
+        "line": 165,
+        "code": "$this->lng->txt(\"adm_rep_tree_limit_grp_crs_info\")",
+        "has_variable": false,
+        "variable": "adm_rep_tree_limit_grp_crs_info"
+    },
+    {
+        "id": 31300,
+        "file": "components\/ILIAS\/Repository\/Administration\/class.ilObjRepositorySettingsGUI.php",
+        "line": 172,
+        "code": "$this->lng->txt(\"adm_rep_tree_all_types\")",
+        "has_variable": false,
+        "variable": "adm_rep_tree_all_types"
+    },
+    {
+        "id": 31302,
+        "file": "components\/ILIAS\/Repository\/Administration\/class.ilObjRepositorySettingsGUI.php",
+        "line": 173,
+        "code": "$this->lng->txt(\"adm_rep_tree_all_types_info\")",
+        "has_variable": false,
+        "variable": "adm_rep_tree_all_types_info"
+    },
+    {
+        "id": 31304,
+        "file": "components\/ILIAS\/Repository\/Administration\/class.ilObjRepositorySettingsGUI.php",
+        "line": 180,
+        "code": "$this->lng->txt(\"adm_rep_tree_presentation\")",
+        "has_variable": false,
+        "variable": "adm_rep_tree_presentation"
+    },
+    {
+        "id": 31306,
+        "file": "components\/ILIAS\/Repository\/Administration\/class.ilObjRepositorySettingsGUI.php",
+        "line": 185,
+        "code": "$this->lng->txt(\"rep_tree_limit_number\")",
+        "has_variable": false,
+        "variable": "rep_tree_limit_number"
+    },
+    {
+        "id": 31308,
+        "file": "components\/ILIAS\/Repository\/Administration\/class.ilObjRepositorySettingsGUI.php",
+        "line": 186,
+        "code": "$this->lng->txt(\"rep_tree_limit_number_info\")",
+        "has_variable": false,
+        "variable": "rep_tree_limit_number_info"
+    },
+    {
+        "id": 31310,
+        "file": "components\/ILIAS\/Repository\/Administration\/class.ilObjRepositorySettingsGUI.php",
+        "line": 196,
+        "code": "$this->lng->txt(\"rep_tree_limit\")",
+        "has_variable": false,
+        "variable": "rep_tree_limit"
+    },
+    {
+        "id": 31312,
+        "file": "components\/ILIAS\/Repository\/Administration\/class.ilObjRepositorySettingsGUI.php",
+        "line": 197,
+        "code": "$this->lng->txt(\"rep_tree_limit_info\")",
+        "has_variable": false,
+        "variable": "rep_tree_limit_info"
+    },
+    {
+        "id": 31314,
+        "file": "components\/ILIAS\/Repository\/Administration\/class.ilObjRepositorySettingsGUI.php",
+        "line": 205,
+        "code": "$this->lng->txt(\"rep_breadcr_crs_config\")",
+        "has_variable": false,
+        "variable": "rep_breadcr_crs_config"
+    },
+    {
+        "id": 31316,
+        "file": "components\/ILIAS\/Repository\/Administration\/class.ilObjRepositorySettingsGUI.php",
+        "line": 208,
+        "code": "$this->lng->txt(\"rep_breadcr_crs_overwrite\")",
+        "has_variable": false,
+        "variable": "rep_breadcr_crs_overwrite"
+    },
+    {
+        "id": 31318,
+        "file": "components\/ILIAS\/Repository\/Administration\/class.ilObjRepositorySettingsGUI.php",
+        "line": 211,
+        "code": "$this->lng->txt(\"rep_breadcr_crs_overwrite_with_default\")",
+        "has_variable": false,
+        "variable": "rep_breadcr_crs_overwrite_with_default"
+    },
+    {
+        "id": 31320,
+        "file": "components\/ILIAS\/Repository\/Administration\/class.ilObjRepositorySettingsGUI.php",
+        "line": 214,
+        "code": "$this->lng->txt(\"rep_breadcr_crs_overwrite_not\")",
+        "has_variable": false,
+        "variable": "rep_breadcr_crs_overwrite_not"
+    },
+    {
+        "id": 31322,
+        "file": "components\/ILIAS\/Repository\/Administration\/class.ilObjRepositorySettingsGUI.php",
+        "line": 224,
+        "code": "$this->lng->txt(\"rep_breadcr_crs\")",
+        "has_variable": false,
+        "variable": "rep_breadcr_crs"
+    },
+    {
+        "id": 31324,
+        "file": "components\/ILIAS\/Repository\/Administration\/class.ilObjRepositorySettingsGUI.php",
+        "line": 232,
+        "code": "$this->lng->txt(\"enable_trash\")",
+        "has_variable": false,
+        "variable": "enable_trash"
+    },
+    {
+        "id": 31326,
+        "file": "components\/ILIAS\/Repository\/Administration\/class.ilObjRepositorySettingsGUI.php",
+        "line": 233,
+        "code": "$this->lng->txt(\"enable_trash_info\")",
+        "has_variable": false,
+        "variable": "enable_trash_info"
+    },
+    {
+        "id": 31328,
+        "file": "components\/ILIAS\/Repository\/Administration\/class.ilObjRepositorySettingsGUI.php",
+        "line": 239,
+        "code": "$this->lng->txt('trac_show_repository_views')",
+        "has_variable": false,
+        "variable": "trac_show_repository_views"
+    },
+    {
+        "id": 31330,
+        "file": "components\/ILIAS\/Repository\/Administration\/class.ilObjRepositorySettingsGUI.php",
+        "line": 240,
+        "code": "$this->lng->txt(\"trac_show_repository_views_info\")",
+        "has_variable": false,
+        "variable": "trac_show_repository_views_info"
+    },
+    {
+        "id": 31332,
+        "file": "components\/ILIAS\/Repository\/Administration\/class.ilObjRepositorySettingsGUI.php",
+        "line": 246,
+        "code": "$this->lng->txt(\"rep_export_limitation_disabled\")",
+        "has_variable": false,
+        "variable": "rep_export_limitation_disabled"
+    },
+    {
+        "id": 31334,
+        "file": "components\/ILIAS\/Repository\/Administration\/class.ilObjRepositorySettingsGUI.php",
+        "line": 252,
+        "code": "$this->lng->txt(\"rep_export_limitation_unlimited\")",
+        "has_variable": false,
+        "variable": "rep_export_limitation_unlimited"
+    },
+    {
+        "id": 31336,
+        "file": "components\/ILIAS\/Repository\/Administration\/class.ilObjRepositorySettingsGUI.php",
+        "line": 257,
+        "code": "$this->lng->txt(\"rep_export_limit_number\")",
+        "has_variable": false,
+        "variable": "rep_export_limit_number"
+    },
+    {
+        "id": 31338,
+        "file": "components\/ILIAS\/Repository\/Administration\/class.ilObjRepositorySettingsGUI.php",
+        "line": 267,
+        "code": "$this->lng->txt(\"rep_export_limitation_limited\")",
+        "has_variable": false,
+        "variable": "rep_export_limitation_limited"
+    },
+    {
+        "id": 31340,
+        "file": "components\/ILIAS\/Repository\/Administration\/class.ilObjRepositorySettingsGUI.php",
+        "line": 277,
+        "code": "$this->lng->txt(\"rep_export_limitation\")",
+        "has_variable": false,
+        "variable": "rep_export_limitation"
+    },
+    {
+        "id": 31342,
+        "file": "components\/ILIAS\/Repository\/Administration\/class.ilObjRepositorySettingsGUI.php",
+        "line": 278,
+        "code": "$this->lng->txt(\"rep_export_limitation_info\")",
+        "has_variable": false,
+        "variable": "rep_export_limitation_info"
+    },
+    {
+        "id": 31344,
+        "file": "components\/ILIAS\/Repository\/Administration\/class.ilObjRepositorySettingsGUI.php",
+        "line": 290,
+        "code": "$this->lng->txt(\"enable_download_folder\")",
+        "has_variable": false,
+        "variable": "enable_download_folder"
+    },
+    {
+        "id": 31346,
+        "file": "components\/ILIAS\/Repository\/Administration\/class.ilObjRepositorySettingsGUI.php",
+        "line": 291,
+        "code": "$this->lng->txt('enable_download_folder_info')",
+        "has_variable": false,
+        "variable": "enable_download_folder_info"
+    },
+    {
+        "id": 31348,
+        "file": "components\/ILIAS\/Repository\/Administration\/class.ilObjRepositorySettingsGUI.php",
+        "line": 301,
+        "code": "$this->lng->txt(\"enable_multi_download\")",
+        "has_variable": false,
+        "variable": "enable_multi_download"
+    },
+    {
+        "id": 31350,
+        "file": "components\/ILIAS\/Repository\/Administration\/class.ilObjRepositorySettingsGUI.php",
+        "line": 302,
+        "code": "$this->lng->txt('enable_multi_download_info')",
+        "has_variable": false,
+        "variable": "enable_multi_download_info"
+    },
+    {
+        "id": 31352,
+        "file": "components\/ILIAS\/Repository\/Administration\/class.ilObjRepositorySettingsGUI.php",
+        "line": 312,
+        "code": "$this->lng->txt(\"rep_favourites\")",
+        "has_variable": false,
+        "variable": "rep_favourites"
+    },
+    {
+        "id": 31354,
+        "file": "components\/ILIAS\/Repository\/Administration\/class.ilObjRepositorySettingsGUI.php",
+        "line": 313,
+        "code": "$this->lng->txt(\"rep_favourites_info\")",
+        "has_variable": false,
+        "variable": "rep_favourites_info"
+    },
+    {
+        "id": 31356,
+        "file": "components\/ILIAS\/Repository\/Administration\/class.ilObjRepositorySettingsGUI.php",
+        "line": 329,
+        "code": "$this->lng->txt(\"settings\")",
+        "has_variable": false,
+        "variable": "settings"
+    },
+    {
+        "id": 31358,
+        "file": "components\/ILIAS\/Repository\/Administration\/class.ilObjRepositorySettingsGUI.php",
+        "line": 335,
+        "code": "$this->lng->txt(\"adm_rep_shorten_description_length\")",
+        "has_variable": false,
+        "variable": "adm_rep_shorten_description_length"
+    },
+    {
+        "id": 31360,
+        "file": "components\/ILIAS\/Repository\/Administration\/class.ilObjRepositorySettingsGUI.php",
+        "line": 344,
+        "code": "$this->lng->txt(\"adm_rep_shorten_description\")",
+        "has_variable": false,
+        "variable": "adm_rep_shorten_description"
+    },
+    {
+        "id": 31362,
+        "file": "components\/ILIAS\/Repository\/Administration\/class.ilObjRepositorySettingsGUI.php",
+        "line": 345,
+        "code": "$this->lng->txt(\"adm_rep_shorten_description_info\")",
+        "has_variable": false,
+        "variable": "adm_rep_shorten_description_info"
+    },
+    {
+        "id": 31364,
+        "file": "components\/ILIAS\/Repository\/Administration\/class.ilObjRepositorySettingsGUI.php",
+        "line": 353,
+        "code": "$this->lng->txt('adm_show_comments_tagging_in_lists_tags')",
+        "has_variable": false,
+        "variable": "adm_show_comments_tagging_in_lists_tags"
+    },
+    {
+        "id": 31366,
+        "file": "components\/ILIAS\/Repository\/Administration\/class.ilObjRepositorySettingsGUI.php",
+        "line": 360,
+        "code": "$this->lng->txt('adm_show_comments_tagging_in_lists')",
+        "has_variable": false,
+        "variable": "adm_show_comments_tagging_in_lists"
+    },
+    {
+        "id": 31368,
+        "file": "components\/ILIAS\/Repository\/Administration\/class.ilObjRepositorySettingsGUI.php",
+        "line": 371,
+        "code": "$this->lng->txt(\"rep_object_lists\")",
+        "has_variable": false,
+        "variable": "rep_object_lists"
+    },
+    {
+        "id": 31370,
+        "file": "components\/ILIAS\/Repository\/Administration\/class.ilObjRepositorySettingsGUI.php",
+        "line": 393,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 31372,
+        "file": "components\/ILIAS\/Repository\/Administration\/class.ilObjRepositorySettingsGUI.php",
+        "line": 509,
+        "code": "$this->lng->txt(\"msg_obj_modified\")",
+        "has_variable": false,
+        "variable": "msg_obj_modified"
+    },
+    {
+        "id": 31374,
+        "file": "components\/ILIAS\/Repository\/Administration\/class.ilObjRepositorySettingsGUI.php",
+        "line": 533,
+        "code": "$this->lng->txt(\"enable_custom_icons\")",
+        "has_variable": false,
+        "variable": "enable_custom_icons"
+    },
+    {
+        "id": 31376,
+        "file": "components\/ILIAS\/Repository\/Administration\/class.ilObjRepositorySettingsGUI.php",
+        "line": 534,
+        "code": "$this->lng->txt(\"enable_custom_icons_info\")",
+        "has_variable": false,
+        "variable": "enable_custom_icons_info"
+    },
+    {
+        "id": 31378,
+        "file": "components\/ILIAS\/Repository\/Administration\/class.ilObjRepositorySettingsGUI.php",
+        "line": 539,
+        "code": "$this->lng->txt(\"rep_custom_icons\")",
+        "has_variable": false,
+        "variable": "rep_custom_icons"
+    },
+    {
+        "id": 31380,
+        "file": "components\/ILIAS\/Repository\/Administration\/class.ilObjRepositorySettingsGUI.php",
+        "line": 560,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 31382,
+        "file": "components\/ILIAS\/Repository\/Administration\/class.ilObjRepositorySettingsGUI.php",
+        "line": 575,
+        "code": "$this->lng->txt(\"msg_obj_modified\")",
+        "has_variable": false,
+        "variable": "msg_obj_modified"
+    },
+    {
+        "id": 31384,
+        "file": "components\/ILIAS\/Repository\/Administration\/class.ilObjRepositorySettingsGUI.php",
+        "line": 590,
+        "code": "$this->lng->txt(\"rep_new_item_menu\")",
+        "has_variable": false,
+        "variable": "rep_new_item_menu"
+    },
+    {
+        "id": 31386,
+        "file": "components\/ILIAS\/Repository\/Administration\/class.ilObjRepositorySettingsGUI.php",
+        "line": 596,
+        "code": "$this->lng->txt(\"rep_new_item_groups\")",
+        "has_variable": false,
+        "variable": "rep_new_item_groups"
+    },
+    {
+        "id": 31388,
+        "file": "components\/ILIAS\/Repository\/Administration\/class.ilObjRepositorySettingsGUI.php",
+        "line": 662,
+        "code": "$lng->txt(\"msg_obj_modified\")",
+        "has_variable": false,
+        "variable": "msg_obj_modified"
+    },
+    {
+        "id": 31390,
+        "file": "components\/ILIAS\/Repository\/Administration\/class.ilObjRepositorySettingsGUI.php",
+        "line": 677,
+        "code": "$this->lng->txt(\"rep_new_item_group_add\")",
+        "has_variable": false,
+        "variable": "rep_new_item_group_add"
+    },
+    {
+        "id": 31392,
+        "file": "components\/ILIAS\/Repository\/Administration\/class.ilObjRepositorySettingsGUI.php",
+        "line": 696,
+        "code": "$this->lng->txt(\"title\")",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 31394,
+        "file": "components\/ILIAS\/Repository\/Administration\/class.ilObjRepositorySettingsGUI.php",
+        "line": 697,
+        "code": "$this->lng->txt(\"meta_l_\" . $def_lng)",
+        "has_variable": true,
+        "variable": "\"meta_l_\" . $def_lng"
+    },
+    {
+        "id": 31396,
+        "file": "components\/ILIAS\/Repository\/Administration\/class.ilObjRepositorySettingsGUI.php",
+        "line": 698,
+        "code": "$this->lng->txt(\"default_language\")",
+        "has_variable": false,
+        "variable": "default_language"
+    },
+    {
+        "id": 31398,
+        "file": "components\/ILIAS\/Repository\/Administration\/class.ilObjRepositorySettingsGUI.php",
+        "line": 704,
+        "code": "$this->lng->txt(\"translation\")",
+        "has_variable": false,
+        "variable": "translation"
+    },
+    {
+        "id": 31400,
+        "file": "components\/ILIAS\/Repository\/Administration\/class.ilObjRepositorySettingsGUI.php",
+        "line": 705,
+        "code": "$this->lng->txt(\"meta_l_\" . $lang_id)",
+        "has_variable": true,
+        "variable": "\"meta_l_\" . $lang_id"
+    },
+    {
+        "id": 31402,
+        "file": "components\/ILIAS\/Repository\/Administration\/class.ilObjRepositorySettingsGUI.php",
+        "line": 711,
+        "code": "$this->lng->txt(\"rep_new_item_group_add\")",
+        "has_variable": false,
+        "variable": "rep_new_item_group_add"
+    },
+    {
+        "id": 31404,
+        "file": "components\/ILIAS\/Repository\/Administration\/class.ilObjRepositorySettingsGUI.php",
+        "line": 714,
+        "code": "$this->lng->txt(\"save\")",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 31406,
+        "file": "components\/ILIAS\/Repository\/Administration\/class.ilObjRepositorySettingsGUI.php",
+        "line": 716,
+        "code": "$this->lng->txt(\"rep_new_item_group_edit\")",
+        "has_variable": false,
+        "variable": "rep_new_item_group_edit"
+    },
+    {
+        "id": 31408,
+        "file": "components\/ILIAS\/Repository\/Administration\/class.ilObjRepositorySettingsGUI.php",
+        "line": 729,
+        "code": "$this->lng->txt(\"save\")",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 31410,
+        "file": "components\/ILIAS\/Repository\/Administration\/class.ilObjRepositorySettingsGUI.php",
+        "line": 731,
+        "code": "$this->lng->txt(\"cancel\")",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 31412,
+        "file": "components\/ILIAS\/Repository\/Administration\/class.ilObjRepositorySettingsGUI.php",
+        "line": 755,
+        "code": "$this->lng->txt(\"settings_saved\")",
+        "has_variable": false,
+        "variable": "settings_saved"
+    },
+    {
+        "id": 31414,
+        "file": "components\/ILIAS\/Repository\/Administration\/class.ilObjRepositorySettingsGUI.php",
+        "line": 796,
+        "code": "$this->lng->txt(\"settings_saved\")",
+        "has_variable": false,
+        "variable": "settings_saved"
+    },
+    {
+        "id": 31416,
+        "file": "components\/ILIAS\/Repository\/Administration\/class.ilObjRepositorySettingsGUI.php",
+        "line": 832,
+        "code": "$this->lng->txt(\"settings_saved\")",
+        "has_variable": false,
+        "variable": "settings_saved"
+    },
+    {
+        "id": 31418,
+        "file": "components\/ILIAS\/Repository\/Administration\/class.ilObjRepositorySettingsGUI.php",
+        "line": 841,
+        "code": "$this->lng->txt(\"select_one\")",
+        "has_variable": false,
+        "variable": "select_one"
+    },
+    {
+        "id": 31420,
+        "file": "components\/ILIAS\/Repository\/Administration\/class.ilObjRepositorySettingsGUI.php",
+        "line": 849,
+        "code": "$this->lng->txt(\"rep_new_item_group_delete_sure\")",
+        "has_variable": false,
+        "variable": "rep_new_item_group_delete_sure"
+    },
+    {
+        "id": 31422,
+        "file": "components\/ILIAS\/Repository\/Administration\/class.ilObjRepositorySettingsGUI.php",
+        "line": 852,
+        "code": "$this->lng->txt(\"cancel\")",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 31424,
+        "file": "components\/ILIAS\/Repository\/Administration\/class.ilObjRepositorySettingsGUI.php",
+        "line": 853,
+        "code": "$this->lng->txt(\"confirm\")",
+        "has_variable": false,
+        "variable": "confirm"
+    },
+    {
+        "id": 31426,
+        "file": "components\/ILIAS\/Repository\/Administration\/class.ilObjRepositorySettingsGUI.php",
+        "line": 876,
+        "code": "$this->lng->txt(\"settings_saved\")",
+        "has_variable": false,
+        "variable": "settings_saved"
+    },
+    {
+        "id": 31428,
+        "file": "components\/ILIAS\/Repository\/GlobalScreen\/classes\/RepositoryMainBarProvider.php",
+        "line": 234,
+        "code": "$lng->txt(\"rep_no_last_visited_mess\")",
+        "has_variable": false,
+        "variable": "rep_no_last_visited_mess"
+    },
+    {
+        "id": 31430,
+        "file": "components\/ILIAS\/Repository\/Ownership\/OwnershipManagementTableBuilder.php",
+        "line": 118,
+        "code": "$lng->txt('type')",
+        "has_variable": false,
+        "variable": "type"
+    },
+    {
+        "id": 31432,
+        "file": "components\/ILIAS\/Repository\/Ownership\/OwnershipManagementTableBuilder.php",
+        "line": 119,
+        "code": "$lng->txt('title')",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 31434,
+        "file": "components\/ILIAS\/Repository\/Ownership\/OwnershipManagementTableBuilder.php",
+        "line": 120,
+        "code": "$lng->txt('path')",
+        "has_variable": false,
+        "variable": "path"
+    },
+    {
+        "id": 31436,
+        "file": "components\/ILIAS\/Repository\/Ownership\/OwnershipManagementTableBuilder.php",
+        "line": 124,
+        "code": "$lng->txt('show')",
+        "has_variable": false,
+        "variable": "show"
+    },
+    {
+        "id": 31438,
+        "file": "components\/ILIAS\/Repository\/Ownership\/OwnershipManagementTableBuilder.php",
+        "line": 129,
+        "code": "$lng->txt('move')",
+        "has_variable": false,
+        "variable": "move"
+    },
+    {
+        "id": 31440,
+        "file": "components\/ILIAS\/Repository\/Ownership\/OwnershipManagementTableBuilder.php",
+        "line": 134,
+        "code": "$lng->txt('change_owner')",
+        "has_variable": false,
+        "variable": "change_owner"
+    },
+    {
+        "id": 31442,
+        "file": "components\/ILIAS\/Repository\/Ownership\/OwnershipManagementTableBuilder.php",
+        "line": 139,
+        "code": "$lng->txt('export')",
+        "has_variable": false,
+        "variable": "export"
+    },
+    {
+        "id": 31444,
+        "file": "components\/ILIAS\/Repository\/Ownership\/OwnershipManagementTableBuilder.php",
+        "line": 144,
+        "code": "$lng->txt('delete')",
+        "has_variable": false,
+        "variable": "delete"
+    },
+    {
+        "id": 31446,
+        "file": "components\/ILIAS\/Repository\/Ownership\/class.ilObjectOwnershipManagementGUI.php",
+        "line": 78,
+        "code": "$this->lng->txt('user_owns_no_objects')",
+        "has_variable": false,
+        "variable": "user_owns_no_objects"
+    },
+    {
+        "id": 31448,
+        "file": "components\/ILIAS\/Repository\/Ownership\/class.ilObjectOwnershipManagementGUI.php",
+        "line": 103,
+        "code": "$this->lng->txt('select_object_type')",
+        "has_variable": false,
+        "variable": "select_object_type"
+    },
+    {
+        "id": 31450,
+        "file": "components\/ILIAS\/Repository\/Ownership\/class.ilObjectOwnershipManagementGUI.php",
+        "line": 139,
+        "code": "$this->lng->txt('objs_' . $type)",
+        "has_variable": true,
+        "variable": "'objs_' . $type"
+    },
+    {
+        "id": 31452,
+        "file": "components\/ILIAS\/Repository\/PluginSlot\/class.ilObjectPlugin.php",
+        "line": 60,
+        "code": "$pl->txt($lang_var)",
+        "has_variable": true,
+        "variable": "$lang_var"
+    },
+    {
+        "id": 31454,
+        "file": "components\/ILIAS\/Repository\/PluginSlot\/class.ilObjectPluginGUI.php",
+        "line": 103,
+        "code": "$lng->txt(\"obj_\" . ilObject::_lookupType(\n                    $this->slot_request->getRefId(),\n                    true\n                ))",
+        "has_variable": true,
+        "variable": "\"obj_\" . ilObject::_lookupType(\n                    $this->slot_request->getRefId(),\n                    true\n                )"
+    },
+    {
+        "id": 31456,
+        "file": "components\/ILIAS\/Repository\/PluginSlot\/class.ilObjectPluginGUI.php",
+        "line": 222,
+        "code": "$this->txt($this->getType() . \"_new\")",
+        "has_variable": true,
+        "variable": "$this->getType() . \"_new\""
+    },
+    {
+        "id": 31458,
+        "file": "components\/ILIAS\/Repository\/PluginSlot\/class.ilObjectPluginGUI.php",
+        "line": 244,
+        "code": "$lng->txt(\"edit\")",
+        "has_variable": false,
+        "variable": "edit"
+    },
+    {
+        "id": 31460,
+        "file": "components\/ILIAS\/Repository\/PluginSlot\/class.ilObjectPluginGUI.php",
+        "line": 247,
+        "code": "$lng->txt(\"title\")",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 31462,
+        "file": "components\/ILIAS\/Repository\/PluginSlot\/class.ilObjectPluginGUI.php",
+        "line": 254,
+        "code": "$lng->txt(\"description\")",
+        "has_variable": false,
+        "variable": "description"
+    },
+    {
+        "id": 31464,
+        "file": "components\/ILIAS\/Repository\/PluginSlot\/class.ilObjectPluginGUI.php",
+        "line": 259,
+        "code": "$lng->txt(\"save\")",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 31466,
+        "file": "components\/ILIAS\/Repository\/PluginSlot\/class.ilObjectPluginGUI.php",
+        "line": 260,
+        "code": "$lng->txt(\"cancel\")",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 31468,
+        "file": "components\/ILIAS\/Repository\/PluginSlot\/class.ilObjectPluginGUI.php",
+        "line": 269,
+        "code": "$this->lng->txt(\"object_added\")",
+        "has_variable": false,
+        "variable": "object_added"
+    },
+    {
+        "id": 31470,
+        "file": "components\/ILIAS\/Repository\/PluginSlot\/class.ilObjectPluginGUI.php",
+        "line": 406,
+        "code": "$lng->txt(\"msg_no_perm_read_item\")",
+        "has_variable": false,
+        "variable": "msg_no_perm_read_item"
+    },
+    {
+        "id": 31472,
+        "file": "components\/ILIAS\/Repository\/PluginSlot\/class.ilObjectPluginListGUI.php",
+        "line": 80,
+        "code": "$this->plugin->txt($a_str)",
+        "has_variable": true,
+        "variable": "$a_str"
+    },
+    {
+        "id": 31474,
+        "file": "components\/ILIAS\/Repository\/RecommendedContent\/classes\/class.ilDashboardRecommendedContentGUI.php",
+        "line": 36,
+        "code": "$this->lng->txt(\"dash_item_removed\")",
+        "has_variable": false,
+        "variable": "dash_item_removed"
+    },
+    {
+        "id": 31476,
+        "file": "components\/ILIAS\/Repository\/RecommendedContent\/classes\/class.ilDashboardRecommendedContentGUI.php",
+        "line": 123,
+        "code": "$this->lng->txt('pd_remove_multi_confirm')",
+        "has_variable": false,
+        "variable": "pd_remove_multi_confirm"
+    },
+    {
+        "id": 31478,
+        "file": "components\/ILIAS\/Repository\/RecommendedContent\/classes\/class.ilRecommendedContentRoleConfigGUI.php",
+        "line": 84,
+        "code": "$this->lng->txt('rep_no_assign_rec_content_to_role')",
+        "has_variable": false,
+        "variable": "rep_no_assign_rec_content_to_role"
+    },
+    {
+        "id": 31480,
+        "file": "components\/ILIAS\/Repository\/RecommendedContent\/classes\/class.ilRecommendedContentRoleConfigGUI.php",
+        "line": 87,
+        "code": "$lng->txt('add')",
+        "has_variable": false,
+        "variable": "add"
+    },
+    {
+        "id": 31482,
+        "file": "components\/ILIAS\/Repository\/RecommendedContent\/classes\/class.ilRecommendedContentRoleConfigGUI.php",
+        "line": 109,
+        "code": "$this->lng->txt('select_one')",
+        "has_variable": false,
+        "variable": "select_one"
+    },
+    {
+        "id": 31484,
+        "file": "components\/ILIAS\/Repository\/RecommendedContent\/classes\/class.ilRecommendedContentRoleConfigGUI.php",
+        "line": 116,
+        "code": "$this->lng->txt('rep_remove_rec_content')",
+        "has_variable": false,
+        "variable": "rep_remove_rec_content"
+    },
+    {
+        "id": 31486,
+        "file": "components\/ILIAS\/Repository\/RecommendedContent\/classes\/class.ilRecommendedContentRoleConfigGUI.php",
+        "line": 117,
+        "code": "$this->lng->txt(\"cancel\")",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 31488,
+        "file": "components\/ILIAS\/Repository\/RecommendedContent\/classes\/class.ilRecommendedContentRoleConfigGUI.php",
+        "line": 118,
+        "code": "$this->lng->txt(\"remove\")",
+        "has_variable": false,
+        "variable": "remove"
+    },
+    {
+        "id": 31490,
+        "file": "components\/ILIAS\/Repository\/RecommendedContent\/classes\/class.ilRecommendedContentRoleConfigGUI.php",
+        "line": 138,
+        "code": "$this->lng->txt('rep_rec_content_removed')",
+        "has_variable": false,
+        "variable": "rep_rec_content_removed"
+    },
+    {
+        "id": 31492,
+        "file": "components\/ILIAS\/Repository\/RecommendedContent\/classes\/class.ilRecommendedContentRoleConfigGUI.php",
+        "line": 150,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 31494,
+        "file": "components\/ILIAS\/Repository\/RecommendedContent\/classes\/class.ilRecommendedContentRoleConfigGUI.php",
+        "line": 179,
+        "code": "$this->lng->txt('rep_added_rec_content')",
+        "has_variable": false,
+        "variable": "rep_added_rec_content"
+    },
+    {
+        "id": 31496,
+        "file": "components\/ILIAS\/Repository\/RecommendedContent\/classes\/class.ilRecommendedContentRoleTableGUI.php",
+        "line": 50,
+        "code": "$this->lng->txt('rep_recommended_content')",
+        "has_variable": false,
+        "variable": "rep_recommended_content"
+    },
+    {
+        "id": 31498,
+        "file": "components\/ILIAS\/Repository\/RecommendedContent\/classes\/class.ilRecommendedContentRoleTableGUI.php",
+        "line": 51,
+        "code": "$this->lng->txt(\"obj_role\")",
+        "has_variable": false,
+        "variable": "obj_role"
+    },
+    {
+        "id": 31500,
+        "file": "components\/ILIAS\/Repository\/RecommendedContent\/classes\/class.ilRecommendedContentRoleTableGUI.php",
+        "line": 54,
+        "code": "$this->lng->txt('title')",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 31502,
+        "file": "components\/ILIAS\/Repository\/RecommendedContent\/classes\/class.ilRecommendedContentRoleTableGUI.php",
+        "line": 55,
+        "code": "$this->lng->txt('path')",
+        "has_variable": false,
+        "variable": "path"
+    },
+    {
+        "id": 31504,
+        "file": "components\/ILIAS\/Repository\/RecommendedContent\/classes\/class.ilRecommendedContentRoleTableGUI.php",
+        "line": 64,
+        "code": "$this->lng->txt('remove')",
+        "has_variable": false,
+        "variable": "remove"
+    },
+    {
+        "id": 31506,
+        "file": "components\/ILIAS\/Repository\/Service\/Form\/class.FormAdapterGUI.php",
+        "line": 354,
+        "code": "$this->lng->txt(\"rep_activation_limited_start\")",
+        "has_variable": false,
+        "variable": "rep_activation_limited_start"
+    },
+    {
+        "id": 31508,
+        "file": "components\/ILIAS\/Repository\/Service\/Form\/class.FormAdapterGUI.php",
+        "line": 357,
+        "code": "$this->lng->txt(\"rep_activation_limited_end\")",
+        "has_variable": false,
+        "variable": "rep_activation_limited_end"
+    },
+    {
+        "id": 31510,
+        "file": "components\/ILIAS\/Repository\/Service\/Form\/class.FormAdapterGUI.php",
+        "line": 577,
+        "code": "$this->lng->txt(\"rep_allowed_types\")",
+        "has_variable": false,
+        "variable": "rep_allowed_types"
+    },
+    {
+        "id": 31512,
+        "file": "components\/ILIAS\/Repository\/Service\/Form\/class.FormAdapterGUI.php",
+        "line": 720,
+        "code": "$this->lng->txt(\"save\")",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 31514,
+        "file": "components\/ILIAS\/Repository\/Service\/Form\/trait.StdObjProperties.php",
+        "line": 142,
+        "code": "$lng->txt(\"rep_time_based_availability\")",
+        "has_variable": false,
+        "variable": "rep_time_based_availability"
+    },
+    {
+        "id": 31516,
+        "file": "components\/ILIAS\/Repository\/Service\/Form\/trait.StdObjProperties.php",
+        "line": 148,
+        "code": "$this->lng->txt(\"rep_time_period\")",
+        "has_variable": false,
+        "variable": "rep_time_period"
+    },
+    {
+        "id": 31518,
+        "file": "components\/ILIAS\/Repository\/Service\/Form\/trait.StdObjProperties.php",
+        "line": 155,
+        "code": "$this->lng->txt(\"rep_activation_limited_visibility\")",
+        "has_variable": false,
+        "variable": "rep_activation_limited_visibility"
+    },
+    {
+        "id": 31520,
+        "file": "components\/ILIAS\/Repository\/Service\/Form\/trait.StdObjProperties.php",
+        "line": 200,
+        "code": "$lng->txt(\"obj_features\")",
+        "has_variable": false,
+        "variable": "obj_features"
+    },
+    {
+        "id": 31522,
+        "file": "components\/ILIAS\/Repository\/Service\/Form\/trait.StdObjProperties.php",
+        "line": 206,
+        "code": "$lng->txt('obj_tool_setting_custom_metadata')",
+        "has_variable": false,
+        "variable": "obj_tool_setting_custom_metadata"
+    },
+    {
+        "id": 31524,
+        "file": "components\/ILIAS\/Repository\/Service\/Form\/trait.StdObjProperties.php",
+        "line": 207,
+        "code": "$lng->txt('obj_tool_setting_custom_metadata_info')",
+        "has_variable": false,
+        "variable": "obj_tool_setting_custom_metadata_info"
+    },
+    {
+        "id": 31526,
+        "file": "components\/ILIAS\/Repository\/Service\/Form\/trait.StdObjProperties.php",
+        "line": 219,
+        "code": "$lng->txt('obj_tool_setting_taxonomies')",
+        "has_variable": false,
+        "variable": "obj_tool_setting_taxonomies"
+    },
+    {
+        "id": 31528,
+        "file": "components\/ILIAS\/Repository\/Service\/Form\/trait.StdObjProperties.php",
+        "line": 235,
+        "code": "$lng->txt('obj_orgunit_positions')",
+        "has_variable": false,
+        "variable": "obj_orgunit_positions"
+    },
+    {
+        "id": 31530,
+        "file": "components\/ILIAS\/Repository\/Service\/Form\/trait.StdObjProperties.php",
+        "line": 236,
+        "code": "$lng->txt('obj_orgunit_positions_info')",
+        "has_variable": false,
+        "variable": "obj_orgunit_positions_info"
+    },
+    {
+        "id": 31532,
+        "file": "components\/ILIAS\/Repository\/Service\/Form\/trait.StdObjProperties.php",
+        "line": 297,
+        "code": "$this->lng->txt('not_available')",
+        "has_variable": false,
+        "variable": "not_available"
+    },
+    {
+        "id": 31534,
+        "file": "components\/ILIAS\/Repository\/Service\/Form\/trait.StdObjProperties.php",
+        "line": 311,
+        "code": "$this->lng->txt('type')",
+        "has_variable": false,
+        "variable": "type"
+    },
+    {
+        "id": 31536,
+        "file": "components\/ILIAS\/Repository\/Service\/Form\/trait.StdObjProperties.php",
+        "line": 340,
+        "code": "$this->lng->txt('didactic_default_type')",
+        "has_variable": false,
+        "variable": "didactic_default_type"
+    },
+    {
+        "id": 31538,
+        "file": "components\/ILIAS\/Repository\/Service\/Form\/trait.StdObjProperties.php",
+        "line": 342,
+        "code": "$this->lng->txt('didactic_default_type_info')",
+        "has_variable": false,
+        "variable": "didactic_default_type_info"
+    },
+    {
+        "id": 31540,
+        "file": "components\/ILIAS\/Repository\/Service\/Form\/trait.StdObjProperties.php",
+        "line": 343,
+        "code": "$this->lng->txt('objs_' . $type)",
+        "has_variable": true,
+        "variable": "'objs_' . $type"
+    },
+    {
+        "id": 31542,
+        "file": "components\/ILIAS\/Repository\/Service\/Permission\/CmdPermission.php",
+        "line": 117,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 31544,
+        "file": "components\/ILIAS\/Repository\/Service\/Permission\/CmdPermission.php",
+        "line": 121,
+        "code": "$this->lng->txt(\"permission_denied\")",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 31546,
+        "file": "components\/ILIAS\/Repository\/Service\/Profile\/ProfileAdapter.php",
+        "line": 41,
+        "code": "$this->lng->txt(\"deleted\")",
+        "has_variable": false,
+        "variable": "deleted"
+    },
+    {
+        "id": 31548,
+        "file": "components\/ILIAS\/Repository\/Service\/Profile\/ProfileAdapter.php",
+        "line": 46,
+        "code": "$this->lng->txt(\"rep_deleted_account\")",
+        "has_variable": false,
+        "variable": "rep_deleted_account"
+    },
+    {
+        "id": 31550,
+        "file": "components\/ILIAS\/Repository\/Trash\/class.ilRepDependenciesTableGUI.php",
+        "line": 42,
+        "code": "$lng->txt(\"rep_dependencies\")",
+        "has_variable": false,
+        "variable": "rep_dependencies"
+    },
+    {
+        "id": 31552,
+        "file": "components\/ILIAS\/Repository\/Trash\/class.ilRepDependenciesTableGUI.php",
+        "line": 45,
+        "code": "$this->lng->txt(\"rep_object_to_delete\")",
+        "has_variable": false,
+        "variable": "rep_object_to_delete"
+    },
+    {
+        "id": 31554,
+        "file": "components\/ILIAS\/Repository\/Trash\/class.ilRepDependenciesTableGUI.php",
+        "line": 46,
+        "code": "$this->lng->txt(\"rep_dependent_object\")",
+        "has_variable": false,
+        "variable": "rep_dependent_object"
+    },
+    {
+        "id": 31556,
+        "file": "components\/ILIAS\/Repository\/Trash\/class.ilRepDependenciesTableGUI.php",
+        "line": 47,
+        "code": "$this->lng->txt(\"rep_dependency\")",
+        "has_variable": false,
+        "variable": "rep_dependency"
+    },
+    {
+        "id": 31558,
+        "file": "components\/ILIAS\/Repository\/Trash\/class.ilRepDependenciesTableGUI.php",
+        "line": 77,
+        "code": "$lng->txt(\"obj_\" . ilObject::_lookupType($a_set[\"dep_obj\"]))",
+        "has_variable": true,
+        "variable": "\"obj_\" . ilObject::_lookupType($a_set[\"dep_obj\"])"
+    },
+    {
+        "id": 31560,
+        "file": "components\/ILIAS\/Repository\/Trash\/class.ilRepDependenciesTableGUI.php",
+        "line": 81,
+        "code": "$lng->txt(\"obj_\" . ilObject::_lookupType($a_set[\"del_obj\"]))",
+        "has_variable": true,
+        "variable": "\"obj_\" . ilObject::_lookupType($a_set[\"del_obj\"])"
+    },
+    {
+        "id": 31562,
+        "file": "components\/ILIAS\/Repository\/Trash\/class.ilRepUtil.php",
+        "line": 276,
+        "code": "$lng->txt(\"msg_no_perm_paste\")",
+        "has_variable": false,
+        "variable": "msg_no_perm_paste"
+    },
+    {
+        "id": 31564,
+        "file": "components\/ILIAS\/Repository\/Trash\/class.ilRepositoryTrashGUI.php",
+        "line": 102,
+        "code": "$this->lng->txt('select_one')",
+        "has_variable": false,
+        "variable": "select_one"
+    },
+    {
+        "id": 31566,
+        "file": "components\/ILIAS\/Repository\/Trash\/class.ilRepositoryTrashGUI.php",
+        "line": 109,
+        "code": "$this->lng->txt('rep_target_location_info')",
+        "has_variable": false,
+        "variable": "rep_target_location_info"
+    },
+    {
+        "id": 31568,
+        "file": "components\/ILIAS\/Repository\/Trash\/class.ilRepositoryTrashGUI.php",
+        "line": 124,
+        "code": "$this->lng->txt('search_no_selection')",
+        "has_variable": false,
+        "variable": "search_no_selection"
+    },
+    {
+        "id": 31570,
+        "file": "components\/ILIAS\/Repository\/Trash\/class.ilRepositoryTrashGUI.php",
+        "line": 130,
+        "code": "$this->lng->txt('msg_undeleted')",
+        "has_variable": false,
+        "variable": "msg_undeleted"
+    },
+    {
+        "id": 31572,
+        "file": "components\/ILIAS\/Repository\/Trash\/class.ilRepositoryTrashGUI.php",
+        "line": 144,
+        "code": "$this->lng->txt('rep_target_location')",
+        "has_variable": false,
+        "variable": "rep_target_location"
+    },
+    {
+        "id": 31574,
+        "file": "components\/ILIAS\/Repository\/Trash\/class.ilRepositoryTrashGUI.php",
+        "line": 170,
+        "code": "$this->lng->txt('btn_undelete')",
+        "has_variable": false,
+        "variable": "btn_undelete"
+    },
+    {
+        "id": 31576,
+        "file": "components\/ILIAS\/Repository\/Trash\/class.ilRepositoryTrashGUI.php",
+        "line": 171,
+        "code": "$this->lng->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 31578,
+        "file": "components\/ILIAS\/Repository\/Trash\/class.ilRepositoryTrashGUI.php",
+        "line": 187,
+        "code": "$lng->txt(\"no_checkbox\")",
+        "has_variable": false,
+        "variable": "no_checkbox"
+    },
+    {
+        "id": 31580,
+        "file": "components\/ILIAS\/Repository\/Trash\/class.ilRepositoryTrashGUI.php",
+        "line": 197,
+        "code": "$lng->txt(\"info_delete_sure\")",
+        "has_variable": false,
+        "variable": "info_delete_sure"
+    },
+    {
+        "id": 31582,
+        "file": "components\/ILIAS\/Repository\/Trash\/class.ilRepositoryTrashGUI.php",
+        "line": 200,
+        "code": "$lng->txt(\"info_delete_warning_no_trash\")",
+        "has_variable": false,
+        "variable": "info_delete_warning_no_trash"
+    },
+    {
+        "id": 31584,
+        "file": "components\/ILIAS\/Repository\/Trash\/class.ilRepositoryTrashGUI.php",
+        "line": 206,
+        "code": "$lng->txt(\"cancel\")",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 31586,
+        "file": "components\/ILIAS\/Repository\/Trash\/class.ilRepositoryTrashGUI.php",
+        "line": 207,
+        "code": "$lng->txt(\"confirm\")",
+        "has_variable": false,
+        "variable": "confirm"
+    },
+    {
+        "id": 31588,
+        "file": "components\/ILIAS\/Repository\/Trash\/class.ilRepositoryTrashGUI.php",
+        "line": 218,
+        "code": "$lng->txt(\"icon\")",
+        "has_variable": false,
+        "variable": "icon"
+    },
+    {
+        "id": 31590,
+        "file": "components\/ILIAS\/Repository\/Trash\/class.ilRepositoryTrashGUI.php",
+        "line": 219,
+        "code": "$lng->txt(\"icon\")",
+        "has_variable": false,
+        "variable": "icon"
+    },
+    {
+        "id": 31592,
+        "file": "components\/ILIAS\/Repository\/Trash\/class.ilRepositoryTrashGUI.php",
+        "line": 219,
+        "code": "$lng->txt(\"obj_\" . $type)",
+        "has_variable": true,
+        "variable": "\"obj_\" . $type"
+    },
+    {
+        "id": 31594,
+        "file": "components\/ILIAS\/Repository\/Trash\/class.ilRepositoryTrashGUI.php",
+        "line": 289,
+        "code": "$lng->txt(\"rep_multiple_reference_deletion_intro\")",
+        "has_variable": false,
+        "variable": "rep_multiple_reference_deletion_intro"
+    },
+    {
+        "id": 31596,
+        "file": "components\/ILIAS\/Repository\/Trash\/class.ilRepositoryTrashGUI.php",
+        "line": 292,
+        "code": "$lng->txt(\"rep_multiple_reference_deletion_instruction\")",
+        "has_variable": false,
+        "variable": "rep_multiple_reference_deletion_instruction"
+    },
+    {
+        "id": 31598,
+        "file": "components\/ILIAS\/Repository\/Trash\/class.ilRepositoryTrashGUI.php",
+        "line": 305,
+        "code": "$lng->txt(\"rep_no_permission_to_delete\")",
+        "has_variable": false,
+        "variable": "rep_no_permission_to_delete"
+    },
+    {
+        "id": 31600,
+        "file": "components\/ILIAS\/Repository\/Trash\/class.ilRepositoryTrashGUI.php",
+        "line": 324,
+        "code": "$lng->txt(\"select_all\")",
+        "has_variable": false,
+        "variable": "select_all"
+    },
+    {
+        "id": 31602,
+        "file": "components\/ILIAS\/Repository\/Trash\/class.ilRepositoryTrashGUI.php",
+        "line": 333,
+        "code": "$lng->txt(\"rep_object_references_cannot_be_read\")",
+        "has_variable": false,
+        "variable": "rep_object_references_cannot_be_read"
+    },
+    {
+        "id": 31604,
+        "file": "components\/ILIAS\/Repository\/Trash\/class.ilRepositoryTrashGUI.php",
+        "line": 352,
+        "code": "$lng->txt(\"msg_trash_empty\")",
+        "has_variable": false,
+        "variable": "msg_trash_empty"
+    },
+    {
+        "id": 31606,
+        "file": "components\/ILIAS\/Repository\/Trash\/class.ilRepositoryTrashGUI.php",
+        "line": 375,
+        "code": "$lng->txt(\"no_checkbox\")",
+        "has_variable": false,
+        "variable": "no_checkbox"
+    },
+    {
+        "id": 31608,
+        "file": "components\/ILIAS\/Repository\/Trash\/class.ilRepositoryTrashGUI.php",
+        "line": 381,
+        "code": "$this->lng->txt('rep_failure_trashed_trash')",
+        "has_variable": false,
+        "variable": "rep_failure_trashed_trash"
+    },
+    {
+        "id": 31610,
+        "file": "components\/ILIAS\/Repository\/Trash\/class.ilRepositoryTrashGUI.php",
+        "line": 396,
+        "code": "$lng->txt(\"msg_undeleted\")",
+        "has_variable": false,
+        "variable": "msg_undeleted"
+    },
+    {
+        "id": 31612,
+        "file": "components\/ILIAS\/Repository\/Trash\/class.ilRepositoryTrashGUI.php",
+        "line": 412,
+        "code": "$lng->txt(\"no_checkbox\")",
+        "has_variable": false,
+        "variable": "no_checkbox"
+    },
+    {
+        "id": 31614,
+        "file": "components\/ILIAS\/Repository\/Trash\/class.ilRepositoryTrashGUI.php",
+        "line": 417,
+        "code": "$lng->txt(\"info_deleted\")",
+        "has_variable": false,
+        "variable": "info_deleted"
+    },
+    {
+        "id": 31616,
+        "file": "components\/ILIAS\/Repository\/Trash\/class.ilRepositoryTrashGUI.php",
+        "line": 419,
+        "code": "$lng->txt(\"msg_removed\")",
+        "has_variable": false,
+        "variable": "msg_removed"
+    },
+    {
+        "id": 31618,
+        "file": "components\/ILIAS\/Repository\/Trash\/class.ilRepositoryTrashGUI.php",
+        "line": 436,
+        "code": "$lng->txt(\"no_checkbox\")",
+        "has_variable": false,
+        "variable": "no_checkbox"
+    },
+    {
+        "id": 31620,
+        "file": "components\/ILIAS\/Repository\/Trash\/class.ilRepositoryTrashGUI.php",
+        "line": 442,
+        "code": "$lng->txt(\"msg_removed\")",
+        "has_variable": false,
+        "variable": "msg_removed"
+    },
+    {
+        "id": 31622,
+        "file": "components\/ILIAS\/Repository\/Trash\/class.ilRepositoryTrashGUI.php",
+        "line": 506,
+        "code": "$lng->txt(\"cancel\")",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 31624,
+        "file": "components\/ILIAS\/Repository\/Trash\/class.ilRepositoryTrashGUI.php",
+        "line": 507,
+        "code": "$lng->txt(\"confirm\")",
+        "has_variable": false,
+        "variable": "confirm"
+    },
+    {
+        "id": 31626,
+        "file": "components\/ILIAS\/Repository\/Trash\/class.ilRepositoryTrashGUI.php",
+        "line": 509,
+        "code": "$lng->txt(\"info_delete_sure\")",
+        "has_variable": false,
+        "variable": "info_delete_sure"
+    },
+    {
+        "id": 31628,
+        "file": "components\/ILIAS\/Repository\/Trash\/class.ilRepositoryTrashGUI.php",
+        "line": 516,
+        "code": "$lng->txt(\"icon\")",
+        "has_variable": false,
+        "variable": "icon"
+    },
+    {
+        "id": 31630,
+        "file": "components\/ILIAS\/Repository\/Trash\/class.ilRepositoryTrashGUI.php",
+        "line": 517,
+        "code": "$lng->txt(\"icon\")",
+        "has_variable": false,
+        "variable": "icon"
+    },
+    {
+        "id": 31632,
+        "file": "components\/ILIAS\/Repository\/Trash\/class.ilRepositoryTrashGUI.php",
+        "line": 517,
+        "code": "$lng->txt(\"obj_\" . $type)",
+        "has_variable": true,
+        "variable": "\"obj_\" . $type"
+    },
+    {
+        "id": 31634,
+        "file": "components\/ILIAS\/Repository\/Trash\/class.ilTrashTableGUI.php",
+        "line": 56,
+        "code": "$this->lng->txt('rep_trash_table_title')",
+        "has_variable": false,
+        "variable": "rep_trash_table_title"
+    },
+    {
+        "id": 31636,
+        "file": "components\/ILIAS\/Repository\/Trash\/class.ilTrashTableGUI.php",
+        "line": 61,
+        "code": "$this->lng->txt('type')",
+        "has_variable": false,
+        "variable": "type"
+    },
+    {
+        "id": 31638,
+        "file": "components\/ILIAS\/Repository\/Trash\/class.ilTrashTableGUI.php",
+        "line": 62,
+        "code": "$this->lng->txt('title')",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 31640,
+        "file": "components\/ILIAS\/Repository\/Trash\/class.ilTrashTableGUI.php",
+        "line": 63,
+        "code": "$this->lng->txt('rep_trash_table_col_deleted_by')",
+        "has_variable": false,
+        "variable": "rep_trash_table_col_deleted_by"
+    },
+    {
+        "id": 31642,
+        "file": "components\/ILIAS\/Repository\/Trash\/class.ilTrashTableGUI.php",
+        "line": 64,
+        "code": "$this->lng->txt('rep_trash_table_col_deleted_on')",
+        "has_variable": false,
+        "variable": "rep_trash_table_col_deleted_on"
+    },
+    {
+        "id": 31644,
+        "file": "components\/ILIAS\/Repository\/Trash\/class.ilTrashTableGUI.php",
+        "line": 65,
+        "code": "$this->lng->txt('rep_trash_table_col_num_subs')",
+        "has_variable": false,
+        "variable": "rep_trash_table_col_num_subs"
+    },
+    {
+        "id": 31646,
+        "file": "components\/ILIAS\/Repository\/Trash\/class.ilTrashTableGUI.php",
+        "line": 85,
+        "code": "$this->lng->txt('btn_undelete_origin_location')",
+        "has_variable": false,
+        "variable": "btn_undelete_origin_location"
+    },
+    {
+        "id": 31648,
+        "file": "components\/ILIAS\/Repository\/Trash\/class.ilTrashTableGUI.php",
+        "line": 86,
+        "code": "$this->lng->txt('btn_undelete_new_location')",
+        "has_variable": false,
+        "variable": "btn_undelete_new_location"
+    },
+    {
+        "id": 31650,
+        "file": "components\/ILIAS\/Repository\/Trash\/class.ilTrashTableGUI.php",
+        "line": 87,
+        "code": "$this->lng->txt('btn_remove_system')",
+        "has_variable": false,
+        "variable": "btn_remove_system"
+    },
+    {
+        "id": 31652,
+        "file": "components\/ILIAS\/Repository\/Trash\/class.ilTrashTableGUI.php",
+        "line": 99,
+        "code": "$this->lng->txt('type')",
+        "has_variable": false,
+        "variable": "type"
+    },
+    {
+        "id": 31654,
+        "file": "components\/ILIAS\/Repository\/Trash\/class.ilTrashTableGUI.php",
+        "line": 110,
+        "code": "$this->lng->txt('title')",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 31656,
+        "file": "components\/ILIAS\/Repository\/Trash\/class.ilTrashTableGUI.php",
+        "line": 119,
+        "code": "$this->lng->txt('rep_trash_table_col_deleted_by')",
+        "has_variable": false,
+        "variable": "rep_trash_table_col_deleted_by"
+    },
+    {
+        "id": 31658,
+        "file": "components\/ILIAS\/Repository\/Trash\/class.ilTrashTableGUI.php",
+        "line": 127,
+        "code": "$this->lng->txt('rep_trash_table_col_deleted_on')",
+        "has_variable": false,
+        "variable": "rep_trash_table_col_deleted_on"
+    },
+    {
+        "id": 31660,
+        "file": "components\/ILIAS\/Repository\/Trash\/class.ilTrashTableGUI.php",
+        "line": 159,
+        "code": "$this->lng->txt('rep_trash_deleted_by_unknown')",
+        "has_variable": false,
+        "variable": "rep_trash_deleted_by_unknown"
+    },
+    {
+        "id": 31662,
+        "file": "components\/ILIAS\/Repository\/Trash\/class.ilTrashTableGUI.php",
+        "line": 196,
+        "code": "$this->lng->txt('icon')",
+        "has_variable": false,
+        "variable": "icon"
+    },
+    {
+        "id": 31664,
+        "file": "components\/ILIAS\/Repository\/Trash\/class.ilTrashTableGUI.php",
+        "line": 197,
+        "code": "$this->lng->txt('icon')",
+        "has_variable": false,
+        "variable": "icon"
+    },
+    {
+        "id": 31666,
+        "file": "components\/ILIAS\/Repository\/Trash\/class.ilTrashTableGUI.php",
+        "line": 197,
+        "code": "$this->lng->txt('obj_' . $a_set['type'])",
+        "has_variable": true,
+        "variable": "'obj_' . $a_set['type']"
+    },
+    {
+        "id": 31668,
+        "file": "components\/ILIAS\/Repository\/Trash\/class.ilTrashTableGUI.php",
+        "line": 230,
+        "code": "$this->lng->txt('rep_robj_' . $type . '_objs_' . $type)",
+        "has_variable": true,
+        "variable": "'rep_robj_' . $type . '_objs_' . $type"
+    },
+    {
+        "id": 31670,
+        "file": "components\/ILIAS\/Repository\/Trash\/class.ilTrashTableGUI.php",
+        "line": 232,
+        "code": "$this->lng->txt('objs_' . $type)",
+        "has_variable": true,
+        "variable": "'objs_' . $type"
+    },
+    {
+        "id": 31672,
+        "file": "components\/ILIAS\/Repository\/Trash\/class.ilTrashTableGUI.php",
+        "line": 236,
+        "code": "$this->lng->txt('select_one')",
+        "has_variable": false,
+        "variable": "select_one"
+    },
+    {
+        "id": 31674,
+        "file": "components\/ILIAS\/Repository\/TreeValidator\/class.ilValidator.php",
+        "line": 224,
+        "code": "$lng->txt(\"scanning_system\")",
+        "has_variable": false,
+        "variable": "scanning_system"
+    },
+    {
+        "id": 31676,
+        "file": "components\/ILIAS\/Repository\/TreeValidator\/class.ilValidator.php",
+        "line": 226,
+        "code": "$lng->txt(\"disabled\")",
+        "has_variable": false,
+        "variable": "disabled"
+    },
+    {
+        "id": 31678,
+        "file": "components\/ILIAS\/Repository\/TreeValidator\/class.ilValidator.php",
+        "line": 228,
+        "code": "$lng->txt(\"searching_invalid_refs\")",
+        "has_variable": false,
+        "variable": "searching_invalid_refs"
+    },
+    {
+        "id": 31680,
+        "file": "components\/ILIAS\/Repository\/TreeValidator\/class.ilValidator.php",
+        "line": 230,
+        "code": "$lng->txt(\"found\")",
+        "has_variable": false,
+        "variable": "found"
+    },
+    {
+        "id": 31682,
+        "file": "components\/ILIAS\/Repository\/TreeValidator\/class.ilValidator.php",
+        "line": 232,
+        "code": "$lng->txt(\"found_none\")",
+        "has_variable": false,
+        "variable": "found_none"
+    },
+    {
+        "id": 31684,
+        "file": "components\/ILIAS\/Repository\/TreeValidator\/class.ilValidator.php",
+        "line": 235,
+        "code": "$lng->txt(\"searching_invalid_childs\")",
+        "has_variable": false,
+        "variable": "searching_invalid_childs"
+    },
+    {
+        "id": 31686,
+        "file": "components\/ILIAS\/Repository\/TreeValidator\/class.ilValidator.php",
+        "line": 237,
+        "code": "$lng->txt(\"found\")",
+        "has_variable": false,
+        "variable": "found"
+    },
+    {
+        "id": 31688,
+        "file": "components\/ILIAS\/Repository\/TreeValidator\/class.ilValidator.php",
+        "line": 239,
+        "code": "$lng->txt(\"found_none\")",
+        "has_variable": false,
+        "variable": "found_none"
+    },
+    {
+        "id": 31690,
+        "file": "components\/ILIAS\/Repository\/TreeValidator\/class.ilValidator.php",
+        "line": 242,
+        "code": "$lng->txt(\"searching_missing_objs\")",
+        "has_variable": false,
+        "variable": "searching_missing_objs"
+    },
+    {
+        "id": 31692,
+        "file": "components\/ILIAS\/Repository\/TreeValidator\/class.ilValidator.php",
+        "line": 244,
+        "code": "$lng->txt(\"found\")",
+        "has_variable": false,
+        "variable": "found"
+    },
+    {
+        "id": 31694,
+        "file": "components\/ILIAS\/Repository\/TreeValidator\/class.ilValidator.php",
+        "line": 246,
+        "code": "$lng->txt(\"found_none\")",
+        "has_variable": false,
+        "variable": "found_none"
+    },
+    {
+        "id": 31696,
+        "file": "components\/ILIAS\/Repository\/TreeValidator\/class.ilValidator.php",
+        "line": 249,
+        "code": "$lng->txt(\"searching_unbound_objs\")",
+        "has_variable": false,
+        "variable": "searching_unbound_objs"
+    },
+    {
+        "id": 31698,
+        "file": "components\/ILIAS\/Repository\/TreeValidator\/class.ilValidator.php",
+        "line": 251,
+        "code": "$lng->txt(\"found\")",
+        "has_variable": false,
+        "variable": "found"
+    },
+    {
+        "id": 31700,
+        "file": "components\/ILIAS\/Repository\/TreeValidator\/class.ilValidator.php",
+        "line": 253,
+        "code": "$lng->txt(\"found_none\")",
+        "has_variable": false,
+        "variable": "found_none"
+    },
+    {
+        "id": 31702,
+        "file": "components\/ILIAS\/Repository\/TreeValidator\/class.ilValidator.php",
+        "line": 256,
+        "code": "$lng->txt(\"searching_deleted_objs\")",
+        "has_variable": false,
+        "variable": "searching_deleted_objs"
+    },
+    {
+        "id": 31704,
+        "file": "components\/ILIAS\/Repository\/TreeValidator\/class.ilValidator.php",
+        "line": 258,
+        "code": "$lng->txt(\"found\")",
+        "has_variable": false,
+        "variable": "found"
+    },
+    {
+        "id": 31706,
+        "file": "components\/ILIAS\/Repository\/TreeValidator\/class.ilValidator.php",
+        "line": 260,
+        "code": "$lng->txt(\"found_none\")",
+        "has_variable": false,
+        "variable": "found_none"
+    },
+    {
+        "id": 31708,
+        "file": "components\/ILIAS\/Repository\/TreeValidator\/class.ilValidator.php",
+        "line": 263,
+        "code": "$lng->txt(\"searching_invalid_rolfs\")",
+        "has_variable": false,
+        "variable": "searching_invalid_rolfs"
+    },
+    {
+        "id": 31710,
+        "file": "components\/ILIAS\/Repository\/TreeValidator\/class.ilValidator.php",
+        "line": 265,
+        "code": "$lng->txt(\"found\")",
+        "has_variable": false,
+        "variable": "found"
+    },
+    {
+        "id": 31712,
+        "file": "components\/ILIAS\/Repository\/TreeValidator\/class.ilValidator.php",
+        "line": 267,
+        "code": "$lng->txt(\"found_none\")",
+        "has_variable": false,
+        "variable": "found_none"
+    },
+    {
+        "id": 31714,
+        "file": "components\/ILIAS\/Repository\/TreeValidator\/class.ilValidator.php",
+        "line": 270,
+        "code": "$lng->txt(\"analyzing_tree_structure\")",
+        "has_variable": false,
+        "variable": "analyzing_tree_structure"
+    },
+    {
+        "id": 31716,
+        "file": "components\/ILIAS\/Repository\/TreeValidator\/class.ilValidator.php",
+        "line": 272,
+        "code": "$lng->txt(\"tree_corrupt\")",
+        "has_variable": false,
+        "variable": "tree_corrupt"
+    },
+    {
+        "id": 31718,
+        "file": "components\/ILIAS\/Repository\/TreeValidator\/class.ilValidator.php",
+        "line": 274,
+        "code": "$lng->txt(\"done\")",
+        "has_variable": false,
+        "variable": "done"
+    },
+    {
+        "id": 31720,
+        "file": "components\/ILIAS\/Repository\/TreeValidator\/class.ilValidator.php",
+        "line": 280,
+        "code": "$lng->txt(\"dumping_tree\")",
+        "has_variable": false,
+        "variable": "dumping_tree"
+    },
+    {
+        "id": 31722,
+        "file": "components\/ILIAS\/Repository\/TreeValidator\/class.ilValidator.php",
+        "line": 282,
+        "code": "$lng->txt(\"disabled\")",
+        "has_variable": false,
+        "variable": "disabled"
+    },
+    {
+        "id": 31724,
+        "file": "components\/ILIAS\/Repository\/TreeValidator\/class.ilValidator.php",
+        "line": 286,
+        "code": "$lng->txt(\"tree_corrupt\")",
+        "has_variable": false,
+        "variable": "tree_corrupt"
+    },
+    {
+        "id": 31726,
+        "file": "components\/ILIAS\/Repository\/TreeValidator\/class.ilValidator.php",
+        "line": 288,
+        "code": "$lng->txt(\"done\")",
+        "has_variable": false,
+        "variable": "done"
+    },
+    {
+        "id": 31728,
+        "file": "components\/ILIAS\/Repository\/TreeValidator\/class.ilValidator.php",
+        "line": 294,
+        "code": "$lng->txt(\"cleaning\")",
+        "has_variable": false,
+        "variable": "cleaning"
+    },
+    {
+        "id": 31730,
+        "file": "components\/ILIAS\/Repository\/TreeValidator\/class.ilValidator.php",
+        "line": 296,
+        "code": "$lng->txt(\"disabled\")",
+        "has_variable": false,
+        "variable": "disabled"
+    },
+    {
+        "id": 31732,
+        "file": "components\/ILIAS\/Repository\/TreeValidator\/class.ilValidator.php",
+        "line": 298,
+        "code": "$lng->txt(\"removing_invalid_refs\")",
+        "has_variable": false,
+        "variable": "removing_invalid_refs"
+    },
+    {
+        "id": 31734,
+        "file": "components\/ILIAS\/Repository\/TreeValidator\/class.ilValidator.php",
+        "line": 300,
+        "code": "$lng->txt(\"done\")",
+        "has_variable": false,
+        "variable": "done"
+    },
+    {
+        "id": 31736,
+        "file": "components\/ILIAS\/Repository\/TreeValidator\/class.ilValidator.php",
+        "line": 302,
+        "code": "$lng->txt(\"nothing_to_remove\")",
+        "has_variable": false,
+        "variable": "nothing_to_remove"
+    },
+    {
+        "id": 31738,
+        "file": "components\/ILIAS\/Repository\/TreeValidator\/class.ilValidator.php",
+        "line": 302,
+        "code": "$lng->txt(\"skipped\")",
+        "has_variable": false,
+        "variable": "skipped"
+    },
+    {
+        "id": 31740,
+        "file": "components\/ILIAS\/Repository\/TreeValidator\/class.ilValidator.php",
+        "line": 305,
+        "code": "$lng->txt(\"removing_invalid_childs\")",
+        "has_variable": false,
+        "variable": "removing_invalid_childs"
+    },
+    {
+        "id": 31742,
+        "file": "components\/ILIAS\/Repository\/TreeValidator\/class.ilValidator.php",
+        "line": 307,
+        "code": "$lng->txt(\"done\")",
+        "has_variable": false,
+        "variable": "done"
+    },
+    {
+        "id": 31744,
+        "file": "components\/ILIAS\/Repository\/TreeValidator\/class.ilValidator.php",
+        "line": 309,
+        "code": "$lng->txt(\"nothing_to_remove\")",
+        "has_variable": false,
+        "variable": "nothing_to_remove"
+    },
+    {
+        "id": 31746,
+        "file": "components\/ILIAS\/Repository\/TreeValidator\/class.ilValidator.php",
+        "line": 309,
+        "code": "$lng->txt(\"skipped\")",
+        "has_variable": false,
+        "variable": "skipped"
+    },
+    {
+        "id": 31748,
+        "file": "components\/ILIAS\/Repository\/TreeValidator\/class.ilValidator.php",
+        "line": 312,
+        "code": "$lng->txt(\"removing_invalid_rolfs\")",
+        "has_variable": false,
+        "variable": "removing_invalid_rolfs"
+    },
+    {
+        "id": 31750,
+        "file": "components\/ILIAS\/Repository\/TreeValidator\/class.ilValidator.php",
+        "line": 314,
+        "code": "$lng->txt(\"done\")",
+        "has_variable": false,
+        "variable": "done"
+    },
+    {
+        "id": 31752,
+        "file": "components\/ILIAS\/Repository\/TreeValidator\/class.ilValidator.php",
+        "line": 316,
+        "code": "$lng->txt(\"nothing_to_remove\")",
+        "has_variable": false,
+        "variable": "nothing_to_remove"
+    },
+    {
+        "id": 31754,
+        "file": "components\/ILIAS\/Repository\/TreeValidator\/class.ilValidator.php",
+        "line": 316,
+        "code": "$lng->txt(\"skipped\")",
+        "has_variable": false,
+        "variable": "skipped"
+    },
+    {
+        "id": 31756,
+        "file": "components\/ILIAS\/Repository\/TreeValidator\/class.ilValidator.php",
+        "line": 326,
+        "code": "$lng->txt(\"restoring\")",
+        "has_variable": false,
+        "variable": "restoring"
+    },
+    {
+        "id": 31758,
+        "file": "components\/ILIAS\/Repository\/TreeValidator\/class.ilValidator.php",
+        "line": 329,
+        "code": "$lng->txt(\"disabled\")",
+        "has_variable": false,
+        "variable": "disabled"
+    },
+    {
+        "id": 31760,
+        "file": "components\/ILIAS\/Repository\/TreeValidator\/class.ilValidator.php",
+        "line": 331,
+        "code": "$lng->txt(\"restoring_missing_objs\")",
+        "has_variable": false,
+        "variable": "restoring_missing_objs"
+    },
+    {
+        "id": 31762,
+        "file": "components\/ILIAS\/Repository\/TreeValidator\/class.ilValidator.php",
+        "line": 333,
+        "code": "$lng->txt(\"done\")",
+        "has_variable": false,
+        "variable": "done"
+    },
+    {
+        "id": 31764,
+        "file": "components\/ILIAS\/Repository\/TreeValidator\/class.ilValidator.php",
+        "line": 335,
+        "code": "$lng->txt(\"nothing_to_restore\")",
+        "has_variable": false,
+        "variable": "nothing_to_restore"
+    },
+    {
+        "id": 31766,
+        "file": "components\/ILIAS\/Repository\/TreeValidator\/class.ilValidator.php",
+        "line": 335,
+        "code": "$lng->txt(\"skipped\")",
+        "has_variable": false,
+        "variable": "skipped"
+    },
+    {
+        "id": 31768,
+        "file": "components\/ILIAS\/Repository\/TreeValidator\/class.ilValidator.php",
+        "line": 338,
+        "code": "$lng->txt(\"restoring_unbound_objs\")",
+        "has_variable": false,
+        "variable": "restoring_unbound_objs"
+    },
+    {
+        "id": 31770,
+        "file": "components\/ILIAS\/Repository\/TreeValidator\/class.ilValidator.php",
+        "line": 340,
+        "code": "$lng->txt(\"done\")",
+        "has_variable": false,
+        "variable": "done"
+    },
+    {
+        "id": 31772,
+        "file": "components\/ILIAS\/Repository\/TreeValidator\/class.ilValidator.php",
+        "line": 342,
+        "code": "$lng->txt(\"nothing_to_restore\")",
+        "has_variable": false,
+        "variable": "nothing_to_restore"
+    },
+    {
+        "id": 31774,
+        "file": "components\/ILIAS\/Repository\/TreeValidator\/class.ilValidator.php",
+        "line": 342,
+        "code": "$lng->txt(\"skipped\")",
+        "has_variable": false,
+        "variable": "skipped"
+    },
+    {
+        "id": 31776,
+        "file": "components\/ILIAS\/Repository\/TreeValidator\/class.ilValidator.php",
+        "line": 347,
+        "code": "$lng->txt(\"restoring_trash\")",
+        "has_variable": false,
+        "variable": "restoring_trash"
+    },
+    {
+        "id": 31778,
+        "file": "components\/ILIAS\/Repository\/TreeValidator\/class.ilValidator.php",
+        "line": 350,
+        "code": "$lng->txt(\"disabled\")",
+        "has_variable": false,
+        "variable": "disabled"
+    },
+    {
+        "id": 31780,
+        "file": "components\/ILIAS\/Repository\/TreeValidator\/class.ilValidator.php",
+        "line": 352,
+        "code": "$lng->txt(\"done\")",
+        "has_variable": false,
+        "variable": "done"
+    },
+    {
+        "id": 31782,
+        "file": "components\/ILIAS\/Repository\/TreeValidator\/class.ilValidator.php",
+        "line": 354,
+        "code": "$lng->txt(\"nothing_to_restore\")",
+        "has_variable": false,
+        "variable": "nothing_to_restore"
+    },
+    {
+        "id": 31784,
+        "file": "components\/ILIAS\/Repository\/TreeValidator\/class.ilValidator.php",
+        "line": 354,
+        "code": "$lng->txt(\"skipped\")",
+        "has_variable": false,
+        "variable": "skipped"
+    },
+    {
+        "id": 31786,
+        "file": "components\/ILIAS\/Repository\/TreeValidator\/class.ilValidator.php",
+        "line": 358,
+        "code": "$lng->txt(\"purging\")",
+        "has_variable": false,
+        "variable": "purging"
+    },
+    {
+        "id": 31788,
+        "file": "components\/ILIAS\/Repository\/TreeValidator\/class.ilValidator.php",
+        "line": 361,
+        "code": "$lng->txt(\"disabled\")",
+        "has_variable": false,
+        "variable": "disabled"
+    },
+    {
+        "id": 31790,
+        "file": "components\/ILIAS\/Repository\/TreeValidator\/class.ilValidator.php",
+        "line": 363,
+        "code": "$lng->txt(\"purging_missing_objs\")",
+        "has_variable": false,
+        "variable": "purging_missing_objs"
+    },
+    {
+        "id": 31792,
+        "file": "components\/ILIAS\/Repository\/TreeValidator\/class.ilValidator.php",
+        "line": 365,
+        "code": "$lng->txt(\"done\")",
+        "has_variable": false,
+        "variable": "done"
+    },
+    {
+        "id": 31794,
+        "file": "components\/ILIAS\/Repository\/TreeValidator\/class.ilValidator.php",
+        "line": 367,
+        "code": "$lng->txt(\"nothing_to_purge\")",
+        "has_variable": false,
+        "variable": "nothing_to_purge"
+    },
+    {
+        "id": 31796,
+        "file": "components\/ILIAS\/Repository\/TreeValidator\/class.ilValidator.php",
+        "line": 367,
+        "code": "$lng->txt(\"skipped\")",
+        "has_variable": false,
+        "variable": "skipped"
+    },
+    {
+        "id": 31798,
+        "file": "components\/ILIAS\/Repository\/TreeValidator\/class.ilValidator.php",
+        "line": 370,
+        "code": "$lng->txt(\"purging_unbound_objs\")",
+        "has_variable": false,
+        "variable": "purging_unbound_objs"
+    },
+    {
+        "id": 31800,
+        "file": "components\/ILIAS\/Repository\/TreeValidator\/class.ilValidator.php",
+        "line": 372,
+        "code": "$lng->txt(\"done\")",
+        "has_variable": false,
+        "variable": "done"
+    },
+    {
+        "id": 31802,
+        "file": "components\/ILIAS\/Repository\/TreeValidator\/class.ilValidator.php",
+        "line": 374,
+        "code": "$lng->txt(\"nothing_to_purge\")",
+        "has_variable": false,
+        "variable": "nothing_to_purge"
+    },
+    {
+        "id": 31804,
+        "file": "components\/ILIAS\/Repository\/TreeValidator\/class.ilValidator.php",
+        "line": 374,
+        "code": "$lng->txt(\"skipped\")",
+        "has_variable": false,
+        "variable": "skipped"
+    },
+    {
+        "id": 31806,
+        "file": "components\/ILIAS\/Repository\/TreeValidator\/class.ilValidator.php",
+        "line": 379,
+        "code": "$lng->txt(\"purging_trash\")",
+        "has_variable": false,
+        "variable": "purging_trash"
+    },
+    {
+        "id": 31808,
+        "file": "components\/ILIAS\/Repository\/TreeValidator\/class.ilValidator.php",
+        "line": 382,
+        "code": "$lng->txt(\"disabled\")",
+        "has_variable": false,
+        "variable": "disabled"
+    },
+    {
+        "id": 31810,
+        "file": "components\/ILIAS\/Repository\/TreeValidator\/class.ilValidator.php",
+        "line": 384,
+        "code": "$lng->txt(\"done\")",
+        "has_variable": false,
+        "variable": "done"
+    },
+    {
+        "id": 31812,
+        "file": "components\/ILIAS\/Repository\/TreeValidator\/class.ilValidator.php",
+        "line": 386,
+        "code": "$lng->txt(\"nothing_to_purge\")",
+        "has_variable": false,
+        "variable": "nothing_to_purge"
+    },
+    {
+        "id": 31814,
+        "file": "components\/ILIAS\/Repository\/TreeValidator\/class.ilValidator.php",
+        "line": 386,
+        "code": "$lng->txt(\"skipped\")",
+        "has_variable": false,
+        "variable": "skipped"
+    },
+    {
+        "id": 31816,
+        "file": "components\/ILIAS\/Repository\/TreeValidator\/class.ilValidator.php",
+        "line": 391,
+        "code": "$lng->txt(\"cleaning_final\")",
+        "has_variable": false,
+        "variable": "cleaning_final"
+    },
+    {
+        "id": 31818,
+        "file": "components\/ILIAS\/Repository\/TreeValidator\/class.ilValidator.php",
+        "line": 393,
+        "code": "$lng->txt(\"initializing_gaps\")",
+        "has_variable": false,
+        "variable": "initializing_gaps"
+    },
+    {
+        "id": 31820,
+        "file": "components\/ILIAS\/Repository\/TreeValidator\/class.ilValidator.php",
+        "line": 393,
+        "code": "$lng->txt(\"done\")",
+        "has_variable": false,
+        "variable": "done"
+    },
+    {
+        "id": 31822,
+        "file": "components\/ILIAS\/Repository\/classes\/class.ilRepositoryExplorer.php",
+        "line": 72,
+        "code": "$lng->txt(\"overview\")",
+        "has_variable": false,
+        "variable": "overview"
+    },
+    {
+        "id": 31824,
+        "file": "components\/ILIAS\/Repository\/classes\/class.ilRepositoryExplorer.php",
+        "line": 326,
+        "code": "$lng->txt(\"repository\")",
+        "has_variable": false,
+        "variable": "repository"
+    },
+    {
+        "id": 31826,
+        "file": "components\/ILIAS\/Repository\/classes\/class.ilRepositoryExplorer.php",
+        "line": 330,
+        "code": "$lng->txt(\"icon\")",
+        "has_variable": false,
+        "variable": "icon"
+    },
+    {
+        "id": 31828,
+        "file": "components\/ILIAS\/Repository\/classes\/class.ilRepositoryExplorerGUI.php",
+        "line": 115,
+        "code": "$lng->txt(\"repository\")",
+        "has_variable": false,
+        "variable": "repository"
+    },
+    {
+        "id": 31830,
+        "file": "components\/ILIAS\/Repository\/classes\/class.ilRepositoryExplorerGUI.php",
+        "line": 139,
+        "code": "$lng->txt(\"repository\")",
+        "has_variable": false,
+        "variable": "repository"
+    },
+    {
+        "id": 31832,
+        "file": "components\/ILIAS\/Repository\/classes\/class.ilRepositoryExplorerGUI.php",
+        "line": 145,
+        "code": "$lng->txt(\"obj_\" . $a_node[\"type\"])",
+        "has_variable": true,
+        "variable": "\"obj_\" . $a_node[\"type\"]"
+    },
+    {
+        "id": 31834,
+        "file": "components\/ILIAS\/Repository\/classes\/class.ilRepositoryGUI.php",
+        "line": 230,
+        "code": "$lng->txt(\"permission_denied\")",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 31836,
+        "file": "components\/ILIAS\/Repository\/classes\/class.ilRepositorySelectorExplorerGUI.php",
+        "line": 127,
+        "code": "$lng->txt(\"repository\")",
+        "has_variable": false,
+        "variable": "repository"
+    },
+    {
+        "id": 31838,
+        "file": "components\/ILIAS\/Repository\/classes\/class.ilRepositorySelectorExplorerGUI.php",
+        "line": 146,
+        "code": "$lng->txt(\"repository\")",
+        "has_variable": false,
+        "variable": "repository"
+    },
+    {
+        "id": 31840,
+        "file": "components\/ILIAS\/Repository\/classes\/class.ilRepositorySelectorExplorerGUI.php",
+        "line": 148,
+        "code": "$lng->txt(\"icon\")",
+        "has_variable": false,
+        "variable": "icon"
+    }
+]

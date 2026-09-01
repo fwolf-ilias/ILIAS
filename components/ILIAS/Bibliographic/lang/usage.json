@@ -1,0 +1,562 @@
+[
+    {
+        "id": 3052,
+        "file": "components\/ILIAS\/Bibliographic\/classes\/Admin\/Library\/class.ilBiblLibraryPresentationGUI.php",
+        "line": 112,
+        "code": "$this->lng->txt('bibl_link_online')",
+        "has_variable": false,
+        "variable": "bibl_link_online"
+    },
+    {
+        "id": 3054,
+        "file": "components\/ILIAS\/Bibliographic\/classes\/Admin\/Library\/class.ilBiblLibraryPresentationGUI.php",
+        "line": 117,
+        "code": "$this->lng->txt('bibl_link_online')",
+        "has_variable": false,
+        "variable": "bibl_link_online"
+    },
+    {
+        "id": 3056,
+        "file": "components\/ILIAS\/Bibliographic\/classes\/Admin\/Library\/class.ilBiblLibraryTableGUI.php",
+        "line": 69,
+        "code": "$this->lng->txt('bibl_settings_libraries')",
+        "has_variable": false,
+        "variable": "bibl_settings_libraries"
+    },
+    {
+        "id": 3058,
+        "file": "components\/ILIAS\/Bibliographic\/classes\/Admin\/Library\/class.ilBiblLibraryTableGUI.php",
+        "line": 84,
+        "code": "$this->lng->txt('bibl_library_name')",
+        "has_variable": false,
+        "variable": "bibl_library_name"
+    },
+    {
+        "id": 3060,
+        "file": "components\/ILIAS\/Bibliographic\/classes\/Admin\/Library\/class.ilBiblLibraryTableGUI.php",
+        "line": 85,
+        "code": "$this->lng->txt('bibl_library_url')",
+        "has_variable": false,
+        "variable": "bibl_library_url"
+    },
+    {
+        "id": 3062,
+        "file": "components\/ILIAS\/Bibliographic\/classes\/Admin\/Library\/class.ilBiblLibraryTableGUI.php",
+        "line": 86,
+        "code": "$this->lng->txt('bibl_library_img')",
+        "has_variable": false,
+        "variable": "bibl_library_img"
+    },
+    {
+        "id": 3064,
+        "file": "components\/ILIAS\/Bibliographic\/classes\/Admin\/Library\/class.ilBiblLibraryTableGUI.php",
+        "line": 137,
+        "code": "$this->lng->txt('edit')",
+        "has_variable": false,
+        "variable": "edit"
+    },
+    {
+        "id": 3066,
+        "file": "components\/ILIAS\/Bibliographic\/classes\/Admin\/Library\/class.ilBiblLibraryTableGUI.php",
+        "line": 142,
+        "code": "$this->lng->txt('delete')",
+        "has_variable": false,
+        "variable": "delete"
+    },
+    {
+        "id": 3068,
+        "file": "components\/ILIAS\/Bibliographic\/classes\/Entry\/class.ilBiblEntryDetailPresentationGUI.php",
+        "line": 62,
+        "code": "$this->lng->txt(\"back\")",
+        "has_variable": false,
+        "variable": "back"
+    },
+    {
+        "id": 3070,
+        "file": "components\/ILIAS\/Bibliographic\/classes\/Entry\/class.ilBiblEntryDetailPresentationGUI.php",
+        "line": 88,
+        "code": "$this->lng->txt('detail_view')",
+        "has_variable": false,
+        "variable": "detail_view"
+    },
+    {
+        "id": 3072,
+        "file": "components\/ILIAS\/Bibliographic\/classes\/Entry\/class.ilBiblEntryDetailPresentationGUI.php",
+        "line": 107,
+        "code": "$this->lng->txt('bibl_settings_libraries')",
+        "has_variable": false,
+        "variable": "bibl_settings_libraries"
+    },
+    {
+        "id": 3074,
+        "file": "components\/ILIAS\/Bibliographic\/classes\/Entry\/class.ilBiblEntryTableGUI.php",
+        "line": 157,
+        "code": "$this->lng->txt('sorting_' . $sort_id)",
+        "has_variable": true,
+        "variable": "'sorting_' . $sort_id"
+    },
+    {
+        "id": 3076,
+        "file": "components\/ILIAS\/Bibliographic\/classes\/Entry\/class.ilBiblEntryTableGUI.php",
+        "line": 208,
+        "code": "$this->lng->txt('detail_view')",
+        "has_variable": false,
+        "variable": "detail_view"
+    },
+    {
+        "id": 3078,
+        "file": "components\/ILIAS\/Bibliographic\/classes\/Field\/DataRetrieval.php",
+        "line": 50,
+        "code": "$this->lng->txt('standard')",
+        "has_variable": false,
+        "variable": "standard"
+    },
+    {
+        "id": 3080,
+        "file": "components\/ILIAS\/Bibliographic\/classes\/Field\/DataRetrieval.php",
+        "line": 50,
+        "code": "$this->lng->txt('custom')",
+        "has_variable": false,
+        "variable": "custom"
+    },
+    {
+        "id": 3082,
+        "file": "components\/ILIAS\/Bibliographic\/classes\/Field\/Table.php",
+        "line": 73,
+        "code": "$this->lng->txt('filter')",
+        "has_variable": false,
+        "variable": "filter"
+    },
+    {
+        "id": 3084,
+        "file": "components\/ILIAS\/Bibliographic\/classes\/Field\/Table.php",
+        "line": 98,
+        "code": "$this->lng->txt('identifier')",
+        "has_variable": false,
+        "variable": "identifier"
+    },
+    {
+        "id": 3086,
+        "file": "components\/ILIAS\/Bibliographic\/classes\/Field\/Table.php",
+        "line": 99,
+        "code": "$this->lng->txt('translation')",
+        "has_variable": false,
+        "variable": "translation"
+    },
+    {
+        "id": 3088,
+        "file": "components\/ILIAS\/Bibliographic\/classes\/Field\/Table.php",
+        "line": 100,
+        "code": "$this->lng->txt('standard')",
+        "has_variable": false,
+        "variable": "standard"
+    },
+    {
+        "id": 3090,
+        "file": "components\/ILIAS\/Bibliographic\/classes\/Field\/Table.php",
+        "line": 108,
+        "code": "$this->lng->txt(\"translate\")",
+        "has_variable": false,
+        "variable": "translate"
+    },
+    {
+        "id": 3092,
+        "file": "components\/ILIAS\/Bibliographic\/classes\/Field\/class.ilBiblAdminFieldGUI.php",
+        "line": 76,
+        "code": "$this->lng->txt('back')",
+        "has_variable": false,
+        "variable": "back"
+    },
+    {
+        "id": 3094,
+        "file": "components\/ILIAS\/Bibliographic\/classes\/Field\/class.ilBiblAdminFieldGUI.php",
+        "line": 121,
+        "code": "$this->lng->txt('changes_successfully_saved')",
+        "has_variable": false,
+        "variable": "changes_successfully_saved"
+    },
+    {
+        "id": 3096,
+        "file": "components\/ILIAS\/Bibliographic\/classes\/Field\/class.ilBiblAdminFieldGUI.php",
+        "line": 159,
+        "code": "$this->lng->txt('ris')",
+        "has_variable": false,
+        "variable": "ris"
+    },
+    {
+        "id": 3098,
+        "file": "components\/ILIAS\/Bibliographic\/classes\/Field\/class.ilBiblAdminFieldGUI.php",
+        "line": 172,
+        "code": "$this->lng->txt('bibtex')",
+        "has_variable": false,
+        "variable": "bibtex"
+    },
+    {
+        "id": 3100,
+        "file": "components\/ILIAS\/Bibliographic\/classes\/Field\/class.ilBiblAdminFieldGUI.php",
+        "line": 214,
+        "code": "$this->lng->txt(\"permission_denied\")",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 3102,
+        "file": "components\/ILIAS\/Bibliographic\/classes\/FieldFilter\/DataRetrieval.php",
+        "line": 55,
+        "code": "$this->lng->txt(\"filter_type_\" . $record['filter_type'])",
+        "has_variable": true,
+        "variable": "\"filter_type_\" . $record['filter_type']"
+    },
+    {
+        "id": 3104,
+        "file": "components\/ILIAS\/Bibliographic\/classes\/FieldFilter\/Table.php",
+        "line": 60,
+        "code": "$this->lng->txt('filter')",
+        "has_variable": false,
+        "variable": "filter"
+    },
+    {
+        "id": 3106,
+        "file": "components\/ILIAS\/Bibliographic\/classes\/FieldFilter\/Table.php",
+        "line": 86,
+        "code": "$this->lng->txt('field')",
+        "has_variable": false,
+        "variable": "field"
+    },
+    {
+        "id": 3108,
+        "file": "components\/ILIAS\/Bibliographic\/classes\/FieldFilter\/Table.php",
+        "line": 87,
+        "code": "$this->lng->txt('filter_type')",
+        "has_variable": false,
+        "variable": "filter_type"
+    },
+    {
+        "id": 3110,
+        "file": "components\/ILIAS\/Bibliographic\/classes\/FieldFilter\/Table.php",
+        "line": 95,
+        "code": "$this->lng->txt(\"edit\")",
+        "has_variable": false,
+        "variable": "edit"
+    },
+    {
+        "id": 3112,
+        "file": "components\/ILIAS\/Bibliographic\/classes\/FieldFilter\/Table.php",
+        "line": 100,
+        "code": "$this->lng->txt(\"delete\")",
+        "has_variable": false,
+        "variable": "delete"
+    },
+    {
+        "id": 3114,
+        "file": "components\/ILIAS\/Bibliographic\/classes\/FieldFilter\/class.ilBiblFieldFilterGUI.php",
+        "line": 80,
+        "code": "$this->lng->txt(\"delete\")",
+        "has_variable": false,
+        "variable": "delete"
+    },
+    {
+        "id": 3116,
+        "file": "components\/ILIAS\/Bibliographic\/classes\/FieldFilter\/class.ilBiblFieldFilterGUI.php",
+        "line": 81,
+        "code": "$this->lng->txt('msg_confirm_delete_filter')",
+        "has_variable": false,
+        "variable": "msg_confirm_delete_filter"
+    },
+    {
+        "id": 3118,
+        "file": "components\/ILIAS\/Bibliographic\/classes\/FieldFilter\/class.ilBiblFieldFilterGUI.php",
+        "line": 129,
+        "code": "$this->lng->txt(\"no_permission\")",
+        "has_variable": false,
+        "variable": "no_permission"
+    },
+    {
+        "id": 3120,
+        "file": "components\/ILIAS\/Bibliographic\/classes\/FieldFilter\/class.ilBiblFieldFilterGUI.php",
+        "line": 165,
+        "code": "$this->lng->txt(\"add_filter\")",
+        "has_variable": false,
+        "variable": "add_filter"
+    },
+    {
+        "id": 3122,
+        "file": "components\/ILIAS\/Bibliographic\/classes\/FieldFilter\/class.ilBiblFieldFilterGUI.php",
+        "line": 187,
+        "code": "$this->lng->txt('changes_saved')",
+        "has_variable": false,
+        "variable": "changes_saved"
+    },
+    {
+        "id": 3124,
+        "file": "components\/ILIAS\/Bibliographic\/classes\/FieldFilter\/class.ilBiblFieldFilterGUI.php",
+        "line": 207,
+        "code": "$this->lng->txt('changes_saved')",
+        "has_variable": false,
+        "variable": "changes_saved"
+    },
+    {
+        "id": 3126,
+        "file": "components\/ILIAS\/Bibliographic\/classes\/FieldFilter\/class.ilBiblFieldFilterGUI.php",
+        "line": 224,
+        "code": "$this->lng->txt('filter_deleted')",
+        "has_variable": false,
+        "variable": "filter_deleted"
+    },
+    {
+        "id": 3128,
+        "file": "components\/ILIAS\/Bibliographic\/classes\/FieldFilter\/class.ilBiblFieldFilterGUI.php",
+        "line": 261,
+        "code": "$this->lng->txt(\"back\")",
+        "has_variable": false,
+        "variable": "back"
+    },
+    {
+        "id": 3130,
+        "file": "components\/ILIAS\/Bibliographic\/classes\/class.ilObjBibliographicAccess.php",
+        "line": 101,
+        "code": "$lng->txt(\"offline\")",
+        "has_variable": false,
+        "variable": "offline"
+    },
+    {
+        "id": 3132,
+        "file": "components\/ILIAS\/Bibliographic\/classes\/class.ilObjBibliographicAccess.php",
+        "line": 109,
+        "code": "$lng->txt(\"offline\")",
+        "has_variable": false,
+        "variable": "offline"
+    },
+    {
+        "id": 3134,
+        "file": "components\/ILIAS\/Bibliographic\/classes\/class.ilObjBibliographicAccess.php",
+        "line": 111,
+        "code": "$lng->txt(\"online\")",
+        "has_variable": false,
+        "variable": "online"
+    },
+    {
+        "id": 3136,
+        "file": "components\/ILIAS\/Bibliographic\/classes\/class.ilObjBibliographicAccess.php",
+        "line": 121,
+        "code": "$lng->txt(\"offline\")",
+        "has_variable": false,
+        "variable": "offline"
+    },
+    {
+        "id": 3138,
+        "file": "components\/ILIAS\/Bibliographic\/classes\/class.ilObjBibliographicAdminGUI.php",
+        "line": 111,
+        "code": "$this->lng->txt('fields')",
+        "has_variable": false,
+        "variable": "fields"
+    },
+    {
+        "id": 3140,
+        "file": "components\/ILIAS\/Bibliographic\/classes\/class.ilObjBibliographicAdminGUI.php",
+        "line": 118,
+        "code": "$this->lng->txt('settings')",
+        "has_variable": false,
+        "variable": "settings"
+    },
+    {
+        "id": 3142,
+        "file": "components\/ILIAS\/Bibliographic\/classes\/class.ilObjBibliographicGUI.php",
+        "line": 305,
+        "code": "$this->lng->txt($new_type . '_new')",
+        "has_variable": true,
+        "variable": "$new_type . '_new'"
+    },
+    {
+        "id": 3144,
+        "file": "components\/ILIAS\/Bibliographic\/classes\/class.ilObjBibliographicGUI.php",
+        "line": 307,
+        "code": "$this->lng->txt('title')",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 3146,
+        "file": "components\/ILIAS\/Bibliographic\/classes\/class.ilObjBibliographicGUI.php",
+        "line": 313,
+        "code": "$this->lng->txt('description')",
+        "has_variable": false,
+        "variable": "description"
+    },
+    {
+        "id": 3148,
+        "file": "components\/ILIAS\/Bibliographic\/classes\/class.ilObjBibliographicGUI.php",
+        "line": 319,
+        "code": "$this->lng->txt('bibliography_file')",
+        "has_variable": false,
+        "variable": "bibliography_file"
+    },
+    {
+        "id": 3150,
+        "file": "components\/ILIAS\/Bibliographic\/classes\/class.ilObjBibliographicGUI.php",
+        "line": 326,
+        "code": "$this->lng->txt($new_type . '_add')",
+        "has_variable": true,
+        "variable": "$new_type . '_add'"
+    },
+    {
+        "id": 3152,
+        "file": "components\/ILIAS\/Bibliographic\/classes\/class.ilObjBibliographicGUI.php",
+        "line": 327,
+        "code": "$this->lng->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 3154,
+        "file": "components\/ILIAS\/Bibliographic\/classes\/class.ilObjBibliographicGUI.php",
+        "line": 349,
+        "code": "$this->lng->txt('no_create_permission')",
+        "has_variable": false,
+        "variable": "no_create_permission"
+    },
+    {
+        "id": 3156,
+        "file": "components\/ILIAS\/Bibliographic\/classes\/class.ilObjBibliographicGUI.php",
+        "line": 404,
+        "code": "$this->lng->txt('changes_saved')",
+        "has_variable": false,
+        "variable": "changes_saved"
+    },
+    {
+        "id": 3158,
+        "file": "components\/ILIAS\/Bibliographic\/classes\/class.ilObjBibliographicGUI.php",
+        "line": 429,
+        "code": "$this->lng->txt('back')",
+        "has_variable": false,
+        "variable": "back"
+    },
+    {
+        "id": 3160,
+        "file": "components\/ILIAS\/Bibliographic\/classes\/class.ilObjBibliographicGUI.php",
+        "line": 435,
+        "code": "$this->lng->txt('replace_bibliography_file_info')",
+        "has_variable": false,
+        "variable": "replace_bibliography_file_info"
+    },
+    {
+        "id": 3162,
+        "file": "components\/ILIAS\/Bibliographic\/classes\/class.ilObjBibliographicGUI.php",
+        "line": 469,
+        "code": "$this->lng->txt('changes_saved')",
+        "has_variable": false,
+        "variable": "changes_saved"
+    },
+    {
+        "id": 3164,
+        "file": "components\/ILIAS\/Bibliographic\/classes\/class.ilObjBibliographicGUI.php",
+        "line": 488,
+        "code": "$this->lng->txt('file_allowed_suffixes')",
+        "has_variable": false,
+        "variable": "file_allowed_suffixes"
+    },
+    {
+        "id": 3166,
+        "file": "components\/ILIAS\/Bibliographic\/classes\/class.ilObjBibliographicGUI.php",
+        "line": 499,
+        "code": "$this->lng->txt('bibliography_file')",
+        "has_variable": false,
+        "variable": "bibliography_file"
+    },
+    {
+        "id": 3168,
+        "file": "components\/ILIAS\/Bibliographic\/classes\/class.ilObjBibliographicGUI.php",
+        "line": 507,
+        "code": "$this->lng->txt('replace_bibliography_file')",
+        "has_variable": false,
+        "variable": "replace_bibliography_file"
+    },
+    {
+        "id": 3170,
+        "file": "components\/ILIAS\/Bibliographic\/classes\/class.ilObjBibliographicGUI.php",
+        "line": 534,
+        "code": "$this->lng->txt('msg_error_invalid_bibl_file_suffix')",
+        "has_variable": false,
+        "variable": "msg_error_invalid_bibl_file_suffix"
+    },
+    {
+        "id": 3172,
+        "file": "components\/ILIAS\/Bibliographic\/classes\/class.ilObjBibliographicGUI.php",
+        "line": 627,
+        "code": "$this->lng->txt(\"msg_no_perm_write\")",
+        "has_variable": false,
+        "variable": "msg_no_perm_write"
+    },
+    {
+        "id": 3174,
+        "file": "components\/ILIAS\/Bibliographic\/classes\/class.ilObjBibliographicGUI.php",
+        "line": 648,
+        "code": "$this->lng->txt('bibl_edit')",
+        "has_variable": false,
+        "variable": "bibl_edit"
+    },
+    {
+        "id": 3176,
+        "file": "components\/ILIAS\/Bibliographic\/classes\/class.ilObjBibliographicGUI.php",
+        "line": 659,
+        "code": "$this->lng->txt('rep_activation_availability')",
+        "has_variable": false,
+        "variable": "rep_activation_availability"
+    },
+    {
+        "id": 3178,
+        "file": "components\/ILIAS\/Bibliographic\/classes\/class.ilObjBibliographicGUI.php",
+        "line": 670,
+        "code": "$this->lng->txt('settings_presentation_header')",
+        "has_variable": false,
+        "variable": "settings_presentation_header"
+    },
+    {
+        "id": 3180,
+        "file": "components\/ILIAS\/Bibliographic\/classes\/class.ilObjBibliographicGUI.php",
+        "line": 702,
+        "code": "$this->lng->txt('download_original_file')",
+        "has_variable": false,
+        "variable": "download_original_file"
+    },
+    {
+        "id": 3182,
+        "file": "components\/ILIAS\/Bibliographic\/classes\/class.ilObjBibliographicGUI.php",
+        "line": 709,
+        "code": "$this->lng->txt('replace_bibliography_file')",
+        "has_variable": false,
+        "variable": "replace_bibliography_file"
+    },
+    {
+        "id": 3184,
+        "file": "components\/ILIAS\/Bibliographic\/classes\/class.ilObjBibliographicListGUI.php",
+        "line": 65,
+        "code": "$lng->txt(\"migrated\")",
+        "has_variable": false,
+        "variable": "migrated"
+    },
+    {
+        "id": 3186,
+        "file": "components\/ILIAS\/Bibliographic\/classes\/class.ilObjBibliographicListGUI.php",
+        "line": 66,
+        "code": "$lng->txt(\"not_yet_migrated\")",
+        "has_variable": false,
+        "variable": "not_yet_migrated"
+    },
+    {
+        "id": 3188,
+        "file": "components\/ILIAS\/Bibliographic\/classes\/class.ilObjBibliographicListGUI.php",
+        "line": 73,
+        "code": "$lng->txt(\"status\")",
+        "has_variable": false,
+        "variable": "status"
+    },
+    {
+        "id": 3190,
+        "file": "components\/ILIAS\/Bibliographic\/classes\/class.ilObjBibliographicListGUI.php",
+        "line": 74,
+        "code": "$lng->txt(\"offline\")",
+        "has_variable": false,
+        "variable": "offline"
+    }
+]

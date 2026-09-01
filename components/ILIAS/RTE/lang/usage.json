@@ -1,0 +1,90 @@
+[
+    {
+        "id": 30576,
+        "file": "components\/ILIAS\/RTE\/classes\/class.ilRTESettingsGUI.php",
+        "line": 81,
+        "code": "$this->lng->txt(\"adve_activation\")",
+        "has_variable": false,
+        "variable": "adve_activation"
+    },
+    {
+        "id": 30578,
+        "file": "components\/ILIAS\/RTE\/classes\/class.ilRTESettingsGUI.php",
+        "line": 82,
+        "code": "$this->lng->txt(\"adve_use_tiny_mce\")",
+        "has_variable": false,
+        "variable": "adve_use_tiny_mce"
+    },
+    {
+        "id": 30580,
+        "file": "components\/ILIAS\/RTE\/classes\/class.ilRTESettingsGUI.php",
+        "line": 88,
+        "code": "$this->lng->txt(\"save\")",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 30582,
+        "file": "components\/ILIAS\/RTE\/classes\/class.ilRTESettingsGUI.php",
+        "line": 97,
+        "code": "$this->lng->txt('msg_no_perm_read')",
+        "has_variable": false,
+        "variable": "msg_no_perm_read"
+    },
+    {
+        "id": 30584,
+        "file": "components\/ILIAS\/RTE\/classes\/class.ilRTESettingsGUI.php",
+        "line": 109,
+        "code": "$this->lng->txt(\"msg_obj_modified\")",
+        "has_variable": false,
+        "variable": "msg_obj_modified"
+    },
+    {
+        "id": 30586,
+        "file": "components\/ILIAS\/RTE\/classes\/class.ilRTESettingsGUI.php",
+        "line": 169,
+        "code": "$this->lng->txt($a_title)",
+        "has_variable": true,
+        "variable": "$a_title"
+    },
+    {
+        "id": 30588,
+        "file": "components\/ILIAS\/RTE\/classes\/class.ilRTESettingsGUI.php",
+        "line": 171,
+        "code": "$this->lng->txt(\"advanced_editing_allow_html_tags\")",
+        "has_variable": false,
+        "variable": "advanced_editing_allow_html_tags"
+    },
+    {
+        "id": 30590,
+        "file": "components\/ILIAS\/RTE\/classes\/class.ilRTESettingsGUI.php",
+        "line": 182,
+        "code": "$this->lng->txt(\"save\")",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 30592,
+        "file": "components\/ILIAS\/RTE\/classes\/class.ilRTESettingsGUI.php",
+        "line": 194,
+        "code": "$this->lng->txt('msg_no_perm_read')",
+        "has_variable": false,
+        "variable": "msg_no_perm_read"
+    },
+    {
+        "id": 30594,
+        "file": "components\/ILIAS\/RTE\/classes\/class.ilRTESettingsGUI.php",
+        "line": 205,
+        "code": "$this->lng->txt('msg_obj_modified')",
+        "has_variable": false,
+        "variable": "msg_obj_modified"
+    },
+    {
+        "id": 30596,
+        "file": "components\/ILIAS\/RTE\/classes\/ilRTESettings.php",
+        "line": 199,
+        "code": "$this->lng->txt('advanced_editing_required_tags')",
+        "has_variable": false,
+        "variable": "advanced_editing_required_tags"
+    }
+]

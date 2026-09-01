@@ -1,0 +1,114 @@
+[
+    {
+        "id": 28150,
+        "file": "components\/ILIAS\/MyStaff\/classes\/ListCertificates\/class.ilMStListCertificatesGUI.php",
+        "line": 56,
+        "code": "$this->language->txt(\"permission_denied\")",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 28152,
+        "file": "components\/ILIAS\/MyStaff\/classes\/ListCertificates\/class.ilMStListCertificatesGUI.php",
+        "line": 104,
+        "code": "$this->language->txt('mst_list_certificates')",
+        "has_variable": false,
+        "variable": "mst_list_certificates"
+    },
+    {
+        "id": 28154,
+        "file": "components\/ILIAS\/MyStaff\/classes\/ListCertificates\/class.ilMStListCertificatesTableGUI.php",
+        "line": 296,
+        "code": "$this->lng->txt(\"mst_download_certificate\")",
+        "has_variable": false,
+        "variable": "mst_download_certificate"
+    },
+    {
+        "id": 28156,
+        "file": "components\/ILIAS\/MyStaff\/classes\/ListCertificates\/class.ilMStListCertificatesTableGUI.php",
+        "line": 297,
+        "code": "$this->lng->txt(\"actions\")",
+        "has_variable": false,
+        "variable": "actions"
+    },
+    {
+        "id": 28158,
+        "file": "components\/ILIAS\/MyStaff\/classes\/ListCompetences\/Skills\/class.ilMStListCompetencesSkillsTableGUI.php",
+        "line": 291,
+        "code": "$this->lng->txt(\"actions\")",
+        "has_variable": false,
+        "variable": "actions"
+    },
+    {
+        "id": 28160,
+        "file": "components\/ILIAS\/MyStaff\/classes\/ListCourses\/class.ilMStListCoursesGUI.php",
+        "line": 57,
+        "code": "$this->lng->txt(\"permission_denied\")",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 28162,
+        "file": "components\/ILIAS\/MyStaff\/classes\/ListCourses\/class.ilMStListCoursesTableGUI.php",
+        "line": 402,
+        "code": "$this->lng->txt(\"actions\")",
+        "has_variable": false,
+        "variable": "actions"
+    },
+    {
+        "id": 28164,
+        "file": "components\/ILIAS\/MyStaff\/classes\/ListUsers\/class.ilMStListUsersGUI.php",
+        "line": 59,
+        "code": "$this->language->txt(\"permission_denied\")",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 28166,
+        "file": "components\/ILIAS\/MyStaff\/classes\/ListUsers\/class.ilMStListUsersTableGUI.php",
+        "line": 245,
+        "code": "$this->language->txt('gender_' . $set->getGender())",
+        "has_variable": true,
+        "variable": "'gender_' . $set->getGender()"
+    },
+    {
+        "id": 28168,
+        "file": "components\/ILIAS\/MyStaff\/classes\/ListUsers\/class.ilMStListUsersTableGUI.php",
+        "line": 290,
+        "code": "$this->language->txt(\"mst_show_courses\")",
+        "has_variable": false,
+        "variable": "mst_show_courses"
+    },
+    {
+        "id": 28170,
+        "file": "components\/ILIAS\/MyStaff\/classes\/ListUsers\/class.ilMStListUsersTableGUI.php",
+        "line": 303,
+        "code": "$this->language->txt(\"mst_list_certificates\")",
+        "has_variable": false,
+        "variable": "mst_list_certificates"
+    },
+    {
+        "id": 28172,
+        "file": "components\/ILIAS\/MyStaff\/classes\/ListUsers\/class.ilMStListUsersTableGUI.php",
+        "line": 316,
+        "code": "$this->language->txt(\"mst_list_competences\")",
+        "has_variable": false,
+        "variable": "mst_list_competences"
+    },
+    {
+        "id": 28174,
+        "file": "components\/ILIAS\/MyStaff\/classes\/ListUsers\/class.ilMStListUsersTableGUI.php",
+        "line": 334,
+        "code": "$this->lng->txt(\"actions\")",
+        "has_variable": false,
+        "variable": "actions"
+    },
+    {
+        "id": 28176,
+        "file": "components\/ILIAS\/MyStaff\/classes\/ShowUser\/Courses\/class.ilMStShowUserCoursesTableGUI.php",
+        "line": 310,
+        "code": "$this->lng->txt(\"actions\")",
+        "has_variable": false,
+        "variable": "actions"
+    }
+]

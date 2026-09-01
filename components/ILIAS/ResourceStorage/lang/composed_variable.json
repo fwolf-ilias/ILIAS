@@ -1,0 +1,58 @@
+{
+    "metadata": {
+        "type": "composed",
+        "count": 2,
+        "description": "Variable usages with detectable prefixes or suffixes"
+    },
+    "matches": [
+        {
+            "id": 31994,
+            "file": "components\/ILIAS\/ResourceStorage\/classes\/Resources\/UI\/ResourceListingUI.php",
+            "line": 145,
+            "code": "$this->language->txt('sorting_' . $sort_id)",
+            "variable": "'sorting_' . $sort_id",
+            "has_variable": true,
+            "prefix": "sorting_",
+            "suffix": "",
+            "matching_variables": [
+                "sorting_1",
+                "sorting_2",
+                "sorting_3",
+                "sorting_4",
+                "sorting_5",
+                "sorting_6",
+                "sorting_new_items_at_bottom",
+                "sorting_new_items_at_top",
+                "sorting_new_items_direction",
+                "sorting_new_items_order",
+                "sorting_new_items_position",
+                "sorting_asc",
+                "sorting_creation_header",
+                "sorting_creation_info",
+                "sorting_desc",
+                "sorting_direction",
+                "sorting_header",
+                "sorting_info_inherit",
+                "sorting_info_manual",
+                "sorting_info_title",
+                "sorting_manual_header",
+                "sorting_save",
+                "sorting_title_header"
+            ]
+        },
+        {
+            "id": 32014,
+            "file": "components\/ILIAS\/ResourceStorage\/classes\/Resources\/UI\/RevisionToComponent.php",
+            "line": 147,
+            "code": "$this->language->txt(\n                'revision_status_' . $this->revision->getStatus()->value\n            )",
+            "variable": "'revision_status_' . $this->revision->getStatus()->value",
+            "has_variable": true,
+            "prefix": "revision_status_",
+            "suffix": "",
+            "matching_variables": [
+                "revision_status_10",
+                "revision_status_20"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,2082 @@
+[
+    {
+        "id": 19274,
+        "file": "components\/ILIAS\/Group\/UserActions\/classes\/class.ilGroupAddToGroupActionGUI.php",
+        "line": 147,
+        "code": "$lng->txt(\"grp_use_existing\")",
+        "has_variable": false,
+        "variable": "grp_use_existing"
+    },
+    {
+        "id": 19276,
+        "file": "components\/ILIAS\/Group\/UserActions\/classes\/class.ilGroupAddToGroupActionGUI.php",
+        "line": 155,
+        "code": "$lng->txt(\"grp_create_new\")",
+        "has_variable": false,
+        "variable": "grp_create_new"
+    },
+    {
+        "id": 19278,
+        "file": "components\/ILIAS\/Group\/UserActions\/classes\/class.ilGroupAddToGroupActionGUI.php",
+        "line": 162,
+        "code": "$lng->txt(\"grp_create_or_use_existing\")",
+        "has_variable": false,
+        "variable": "grp_create_or_use_existing"
+    },
+    {
+        "id": 19280,
+        "file": "components\/ILIAS\/Group\/UserActions\/classes\/class.ilGroupAddToGroupActionGUI.php",
+        "line": 185,
+        "code": "$lng->txt(\"grp_add_user_to_group\")",
+        "has_variable": false,
+        "variable": "grp_add_user_to_group"
+    },
+    {
+        "id": 19282,
+        "file": "components\/ILIAS\/Group\/UserActions\/classes\/class.ilGroupAddToGroupActionGUI.php",
+        "line": 222,
+        "code": "$lng->txt(\"back\")",
+        "has_variable": false,
+        "variable": "back"
+    },
+    {
+        "id": 19284,
+        "file": "components\/ILIAS\/Group\/UserActions\/classes\/class.ilGroupAddToGroupActionGUI.php",
+        "line": 228,
+        "code": "$lng->txt(\"grp_user_already_in_group\")",
+        "has_variable": false,
+        "variable": "grp_user_already_in_group"
+    },
+    {
+        "id": 19286,
+        "file": "components\/ILIAS\/Group\/UserActions\/classes\/class.ilGroupAddToGroupActionGUI.php",
+        "line": 229,
+        "code": "$lng->txt(\"obj_user\")",
+        "has_variable": false,
+        "variable": "obj_user"
+    },
+    {
+        "id": 19288,
+        "file": "components\/ILIAS\/Group\/UserActions\/classes\/class.ilGroupAddToGroupActionGUI.php",
+        "line": 230,
+        "code": "$lng->txt(\"obj_grp\")",
+        "has_variable": false,
+        "variable": "obj_grp"
+    },
+    {
+        "id": 19290,
+        "file": "components\/ILIAS\/Group\/UserActions\/classes\/class.ilGroupAddToGroupActionGUI.php",
+        "line": 239,
+        "code": "$lng->txt(\"grp_add_user\")",
+        "has_variable": false,
+        "variable": "grp_add_user"
+    },
+    {
+        "id": 19292,
+        "file": "components\/ILIAS\/Group\/UserActions\/classes\/class.ilGroupAddToGroupActionGUI.php",
+        "line": 245,
+        "code": "$lng->txt(\"grp_sure_add_user_to_group\")",
+        "has_variable": false,
+        "variable": "grp_sure_add_user_to_group"
+    },
+    {
+        "id": 19294,
+        "file": "components\/ILIAS\/Group\/UserActions\/classes\/class.ilGroupAddToGroupActionGUI.php",
+        "line": 246,
+        "code": "$lng->txt(\"obj_user\")",
+        "has_variable": false,
+        "variable": "obj_user"
+    },
+    {
+        "id": 19296,
+        "file": "components\/ILIAS\/Group\/UserActions\/classes\/class.ilGroupAddToGroupActionGUI.php",
+        "line": 247,
+        "code": "$lng->txt(\"obj_grp\")",
+        "has_variable": false,
+        "variable": "obj_grp"
+    },
+    {
+        "id": 19298,
+        "file": "components\/ILIAS\/Group\/UserActions\/classes\/class.ilGroupAddToGroupActionGUI.php",
+        "line": 271,
+        "code": "$lng->txt(\"grp_user_been_added\")",
+        "has_variable": false,
+        "variable": "grp_user_been_added"
+    },
+    {
+        "id": 19300,
+        "file": "components\/ILIAS\/Group\/UserActions\/classes\/class.ilGroupAddToGroupActionGUI.php",
+        "line": 287,
+        "code": "$lng->txt(\"grp_no_perm_to_add_create_first\")",
+        "has_variable": false,
+        "variable": "grp_no_perm_to_add_create_first"
+    },
+    {
+        "id": 19302,
+        "file": "components\/ILIAS\/Group\/UserActions\/classes\/class.ilGroupAddToGroupActionGUI.php",
+        "line": 306,
+        "code": "$lng->txt(\"grp_create_new_grp_in\")",
+        "has_variable": false,
+        "variable": "grp_create_new_grp_in"
+    },
+    {
+        "id": 19304,
+        "file": "components\/ILIAS\/Group\/UserActions\/classes\/class.ilGroupAddToGroupActionGUI.php",
+        "line": 322,
+        "code": "$lng->txt(\"grp_next\")",
+        "has_variable": false,
+        "variable": "grp_next"
+    },
+    {
+        "id": 19306,
+        "file": "components\/ILIAS\/Group\/UserActions\/classes\/class.ilGroupAddToGroupActionGUI.php",
+        "line": 352,
+        "code": "$lng->txt(\"grp_create_and_add_user\")",
+        "has_variable": false,
+        "variable": "grp_create_and_add_user"
+    },
+    {
+        "id": 19308,
+        "file": "components\/ILIAS\/Group\/UserActions\/classes\/class.ilGroupAddToGroupActionGUI.php",
+        "line": 358,
+        "code": "$lng->txt(\"grp_sure_create_group_add_user\")",
+        "has_variable": false,
+        "variable": "grp_sure_create_group_add_user"
+    },
+    {
+        "id": 19310,
+        "file": "components\/ILIAS\/Group\/UserActions\/classes\/class.ilGroupAddToGroupActionGUI.php",
+        "line": 359,
+        "code": "$lng->txt(\"obj_user\")",
+        "has_variable": false,
+        "variable": "obj_user"
+    },
+    {
+        "id": 19312,
+        "file": "components\/ILIAS\/Group\/UserActions\/classes\/class.ilGroupAddToGroupActionGUI.php",
+        "line": 360,
+        "code": "$lng->txt(\"obj_grp\")",
+        "has_variable": false,
+        "variable": "obj_grp"
+    },
+    {
+        "id": 19314,
+        "file": "components\/ILIAS\/Group\/UserActions\/classes\/class.ilGroupAddToGroupActionGUI.php",
+        "line": 423,
+        "code": "$lng->txt(\"grp_created_and_user_been_added\")",
+        "has_variable": false,
+        "variable": "grp_created_and_user_been_added"
+    },
+    {
+        "id": 19316,
+        "file": "components\/ILIAS\/Group\/UserActions\/classes\/class.ilGroupUserActionProvider.php",
+        "line": 41,
+        "code": "$this->lng->txt(\"grp_add_to_group\")",
+        "has_variable": false,
+        "variable": "grp_add_to_group"
+    },
+    {
+        "id": 19318,
+        "file": "components\/ILIAS\/Group\/UserActions\/classes\/class.ilGroupUserActionProvider.php",
+        "line": 80,
+        "code": "$this->lng->txt(\"grp_add_to_group\")",
+        "has_variable": false,
+        "variable": "grp_add_to_group"
+    },
+    {
+        "id": 19320,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilGroupEditParticipantsTableGUI.php",
+        "line": 53,
+        "code": "$this->lng->txt('name')",
+        "has_variable": false,
+        "variable": "name"
+    },
+    {
+        "id": 19322,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilGroupEditParticipantsTableGUI.php",
+        "line": 54,
+        "code": "$this->lng->txt('login')",
+        "has_variable": false,
+        "variable": "login"
+    },
+    {
+        "id": 19324,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilGroupEditParticipantsTableGUI.php",
+        "line": 57,
+        "code": "$this->lng->txt('last_access')",
+        "has_variable": false,
+        "variable": "last_access"
+    },
+    {
+        "id": 19326,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilGroupEditParticipantsTableGUI.php",
+        "line": 59,
+        "code": "$this->lng->txt('grp_mem_contacts')",
+        "has_variable": false,
+        "variable": "grp_mem_contacts"
+    },
+    {
+        "id": 19328,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilGroupEditParticipantsTableGUI.php",
+        "line": 60,
+        "code": "$this->lng->txt('grp_notification')",
+        "has_variable": false,
+        "variable": "grp_notification"
+    },
+    {
+        "id": 19330,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilGroupEditParticipantsTableGUI.php",
+        "line": 61,
+        "code": "$this->lng->txt('objs_role')",
+        "has_variable": false,
+        "variable": "objs_role"
+    },
+    {
+        "id": 19332,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilGroupEditParticipantsTableGUI.php",
+        "line": 63,
+        "code": "$this->lng->txt('save')",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 19334,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilGroupEditParticipantsTableGUI.php",
+        "line": 64,
+        "code": "$this->lng->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 19336,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilGroupMembershipGUI.php",
+        "line": 77,
+        "code": "$this->lng->txt('search_err_user_not_exist')",
+        "has_variable": false,
+        "variable": "search_err_user_not_exist"
+    },
+    {
+        "id": 19338,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilGroupMembershipGUI.php",
+        "line": 112,
+        "code": "$this->lng->txt(\"crs_cannot_find_role\")",
+        "has_variable": false,
+        "variable": "crs_cannot_find_role"
+    },
+    {
+        "id": 19340,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilGroupMembershipGUI.php",
+        "line": 125,
+        "code": "$this->lng->txt(\"grp_msg_member_assigned\")",
+        "has_variable": false,
+        "variable": "grp_msg_member_assigned"
+    },
+    {
+        "id": 19342,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilGroupMembershipGUI.php",
+        "line": 127,
+        "code": "$this->lng->txt('grp_users_already_assigned')",
+        "has_variable": false,
+        "variable": "grp_users_already_assigned"
+    },
+    {
+        "id": 19344,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilGroupMembershipGUI.php",
+        "line": 174,
+        "code": "$this->lng->txt('settings_saved')",
+        "has_variable": false,
+        "variable": "settings_saved"
+    },
+    {
+        "id": 19346,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilGroupMembershipGUI.php",
+        "line": 199,
+        "code": "$this->lng->txt($this->getParentObject()->getType() . '_header_edit_members')",
+        "has_variable": true,
+        "variable": "$this->getParentObject()->getType() . '_header_edit_members'"
+    },
+    {
+        "id": 19348,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilGroupMembershipGUI.php",
+        "line": 256,
+        "code": "$this->lng->txt($this->member_data['progress'])",
+        "has_variable": true,
+        "variable": "_"
+    },
+    {
+        "id": 19350,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilGroupParticipantsTableGUI.php",
+        "line": 74,
+        "code": "$this->lng->txt('name')",
+        "has_variable": false,
+        "variable": "name"
+    },
+    {
+        "id": 19352,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilGroupParticipantsTableGUI.php",
+        "line": 82,
+        "code": "$this->lng->txt('learning_progress')",
+        "has_variable": false,
+        "variable": "learning_progress"
+    },
+    {
+        "id": 19354,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilGroupParticipantsTableGUI.php",
+        "line": 86,
+        "code": "$this->lng->txt('last_access')",
+        "has_variable": false,
+        "variable": "last_access"
+    },
+    {
+        "id": 19356,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilGroupParticipantsTableGUI.php",
+        "line": 88,
+        "code": "$this->lng->txt('grp_mem_contacts')",
+        "has_variable": false,
+        "variable": "grp_mem_contacts"
+    },
+    {
+        "id": 19358,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilGroupParticipantsTableGUI.php",
+        "line": 89,
+        "code": "$this->lng->txt('grp_notification')",
+        "has_variable": false,
+        "variable": "grp_notification"
+    },
+    {
+        "id": 19360,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilGroupParticipantsTableGUI.php",
+        "line": 91,
+        "code": "$this->lng->txt('actions')",
+        "has_variable": false,
+        "variable": "actions"
+    },
+    {
+        "id": 19362,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilGroupParticipantsTableGUI.php",
+        "line": 105,
+        "code": "$this->lng->txt('edit')",
+        "has_variable": false,
+        "variable": "edit"
+    },
+    {
+        "id": 19364,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilGroupParticipantsTableGUI.php",
+        "line": 106,
+        "code": "$this->lng->txt('remove')",
+        "has_variable": false,
+        "variable": "remove"
+    },
+    {
+        "id": 19366,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilGroupParticipantsTableGUI.php",
+        "line": 107,
+        "code": "$this->lng->txt('mmbr_btn_mail_selected_users')",
+        "has_variable": false,
+        "variable": "mmbr_btn_mail_selected_users"
+    },
+    {
+        "id": 19368,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilGroupParticipantsTableGUI.php",
+        "line": 109,
+        "code": "$this->lng->txt('clipboard_add_btn')",
+        "has_variable": false,
+        "variable": "clipboard_add_btn"
+    },
+    {
+        "id": 19370,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilGroupParticipantsTableGUI.php",
+        "line": 112,
+        "code": "$this->lng->txt('save')",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 19372,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilGroupParticipantsTableGUI.php",
+        "line": 136,
+        "code": "$this->lng->txt('usr_account_inactive')",
+        "has_variable": false,
+        "variable": "usr_account_inactive"
+    },
+    {
+        "id": 19374,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilGroupParticipantsTableGUI.php",
+        "line": 144,
+        "code": "$this->lng->txt('gender_' . $a_set['gender'])",
+        "has_variable": true,
+        "variable": "'gender_' . $a_set['gender']"
+    },
+    {
+        "id": 19376,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilGroupParticipantsTableGUI.php",
+        "line": 151,
+        "code": "$this->lng->txt('no_date')",
+        "has_variable": false,
+        "variable": "no_date"
+    },
+    {
+        "id": 19378,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilGroupParticipantsTableGUI.php",
+        "line": 225,
+        "code": "$this->lng->txt($a_set['progress'])",
+        "has_variable": true,
+        "variable": "_"
+    },
+    {
+        "id": 19380,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilGroupParticipantsTableGUI.php",
+        "line": 392,
+        "code": "$this->lng->txt('cdf_edited_by_self')",
+        "has_variable": false,
+        "variable": "cdf_edited_by_self"
+    },
+    {
+        "id": 19382,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilGroupRegistrationGUI.php",
+        "line": 60,
+        "code": "$this->lng->txt('member_status')",
+        "has_variable": false,
+        "variable": "member_status"
+    },
+    {
+        "id": 19384,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilGroupRegistrationGUI.php",
+        "line": 62,
+        "code": "$this->lng->txt('grp_registration')",
+        "has_variable": false,
+        "variable": "grp_registration"
+    },
+    {
+        "id": 19386,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilGroupRegistrationGUI.php",
+        "line": 68,
+        "code": "$this->lng->txt('crs_important_info')",
+        "has_variable": false,
+        "variable": "crs_important_info"
+    },
+    {
+        "id": 19388,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilGroupRegistrationGUI.php",
+        "line": 83,
+        "code": "$this->lng->txt('mem_reg_period')",
+        "has_variable": false,
+        "variable": "mem_reg_period"
+    },
+    {
+        "id": 19390,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilGroupRegistrationGUI.php",
+        "line": 84,
+        "code": "$this->lng->txt('mem_unlimited')",
+        "has_variable": false,
+        "variable": "mem_unlimited"
+    },
+    {
+        "id": 19392,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilGroupRegistrationGUI.php",
+        "line": 95,
+        "code": "$this->lng->txt('mem_start')",
+        "has_variable": false,
+        "variable": "mem_start"
+    },
+    {
+        "id": 19394,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilGroupRegistrationGUI.php",
+        "line": 98,
+        "code": "$this->lng->txt('mem_end')",
+        "has_variable": false,
+        "variable": "mem_end"
+    },
+    {
+        "id": 19396,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilGroupRegistrationGUI.php",
+        "line": 101,
+        "code": "$this->lng->txt('mem_reg_not_started')",
+        "has_variable": false,
+        "variable": "mem_reg_not_started"
+    },
+    {
+        "id": 19398,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilGroupRegistrationGUI.php",
+        "line": 104,
+        "code": "$this->lng->txt('mem_start')",
+        "has_variable": false,
+        "variable": "mem_start"
+    },
+    {
+        "id": 19400,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilGroupRegistrationGUI.php",
+        "line": 107,
+        "code": "$this->lng->txt('mem_end')",
+        "has_variable": false,
+        "variable": "mem_end"
+    },
+    {
+        "id": 19402,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilGroupRegistrationGUI.php",
+        "line": 110,
+        "code": "$this->lng->txt('mem_reg_expired')",
+        "has_variable": false,
+        "variable": "mem_reg_expired"
+    },
+    {
+        "id": 19404,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilGroupRegistrationGUI.php",
+        "line": 113,
+        "code": "$this->lng->txt('mem_end')",
+        "has_variable": false,
+        "variable": "mem_end"
+    },
+    {
+        "id": 19406,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilGroupRegistrationGUI.php",
+        "line": 117,
+        "code": "$this->lng->txt('mem_reg_period')",
+        "has_variable": false,
+        "variable": "mem_reg_period"
+    },
+    {
+        "id": 19408,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilGroupRegistrationGUI.php",
+        "line": 143,
+        "code": "$this->lng->txt('mem_min_users')",
+        "has_variable": false,
+        "variable": "mem_min_users"
+    },
+    {
+        "id": 19410,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilGroupRegistrationGUI.php",
+        "line": 148,
+        "code": "$this->lng->txt('mem_max_users')",
+        "has_variable": false,
+        "variable": "mem_max_users"
+    },
+    {
+        "id": 19412,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilGroupRegistrationGUI.php",
+        "line": 150,
+        "code": "$this->lng->txt('mem_free_places')",
+        "has_variable": false,
+        "variable": "mem_free_places"
+    },
+    {
+        "id": 19414,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilGroupRegistrationGUI.php",
+        "line": 169,
+        "code": "$this->lng->txt('mem_waiting_list_position')",
+        "has_variable": false,
+        "variable": "mem_waiting_list_position"
+    },
+    {
+        "id": 19416,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilGroupRegistrationGUI.php",
+        "line": 172,
+        "code": "$this->lng->txt('mem_waiting_list')",
+        "has_variable": false,
+        "variable": "mem_waiting_list"
+    },
+    {
+        "id": 19418,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilGroupRegistrationGUI.php",
+        "line": 186,
+        "code": "$this->lng->txt('mem_alert_no_places')",
+        "has_variable": false,
+        "variable": "mem_alert_no_places"
+    },
+    {
+        "id": 19420,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilGroupRegistrationGUI.php",
+        "line": 197,
+        "code": "$this->lng->txt('grp_warn_no_max_set_on_waiting_list')",
+        "has_variable": false,
+        "variable": "grp_warn_no_max_set_on_waiting_list"
+    },
+    {
+        "id": 19422,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilGroupRegistrationGUI.php",
+        "line": 203,
+        "code": "$this->lng->txt('grp_warn_wl_set_on_waiting_list')",
+        "has_variable": false,
+        "variable": "grp_warn_wl_set_on_waiting_list"
+    },
+    {
+        "id": 19424,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilGroupRegistrationGUI.php",
+        "line": 207,
+        "code": "$this->lng->txt('mem_participants')",
+        "has_variable": false,
+        "variable": "mem_participants"
+    },
+    {
+        "id": 19426,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilGroupRegistrationGUI.php",
+        "line": 224,
+        "code": "$this->lng->txt('mem_reg_type')",
+        "has_variable": false,
+        "variable": "mem_reg_type"
+    },
+    {
+        "id": 19428,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilGroupRegistrationGUI.php",
+        "line": 225,
+        "code": "$this->lng->txt('grp_reg_disabled')",
+        "has_variable": false,
+        "variable": "grp_reg_disabled"
+    },
+    {
+        "id": 19430,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilGroupRegistrationGUI.php",
+        "line": 226,
+        "code": "$this->lng->txt('grp_reg_deactivated_alert')",
+        "has_variable": false,
+        "variable": "grp_reg_deactivated_alert"
+    },
+    {
+        "id": 19432,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilGroupRegistrationGUI.php",
+        "line": 235,
+        "code": "$this->lng->txt('mem_reg_type')",
+        "has_variable": false,
+        "variable": "mem_reg_type"
+    },
+    {
+        "id": 19434,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilGroupRegistrationGUI.php",
+        "line": 236,
+        "code": "$this->lng->txt('grp_pass_request')",
+        "has_variable": false,
+        "variable": "grp_pass_request"
+    },
+    {
+        "id": 19436,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilGroupRegistrationGUI.php",
+        "line": 239,
+        "code": "$this->lng->txt('passwd')",
+        "has_variable": false,
+        "variable": "passwd"
+    },
+    {
+        "id": 19438,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilGroupRegistrationGUI.php",
+        "line": 244,
+        "code": "$this->lng->txt('group_password_registration_msg')",
+        "has_variable": false,
+        "variable": "group_password_registration_msg"
+    },
+    {
+        "id": 19440,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilGroupRegistrationGUI.php",
+        "line": 257,
+        "code": "$this->lng->txt('mem_reg_type')",
+        "has_variable": false,
+        "variable": "mem_reg_type"
+    },
+    {
+        "id": 19442,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilGroupRegistrationGUI.php",
+        "line": 258,
+        "code": "$this->lng->txt('grp_reg_request')",
+        "has_variable": false,
+        "variable": "grp_reg_request"
+    },
+    {
+        "id": 19444,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilGroupRegistrationGUI.php",
+        "line": 260,
+        "code": "$this->lng->txt('grp_reg_subject')",
+        "has_variable": false,
+        "variable": "grp_reg_subject"
+    },
+    {
+        "id": 19446,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilGroupRegistrationGUI.php",
+        "line": 269,
+        "code": "$this->lng->txt('group_req_registration_msg')",
+        "has_variable": false,
+        "variable": "group_req_registration_msg"
+    },
+    {
+        "id": 19448,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilGroupRegistrationGUI.php",
+        "line": 276,
+        "code": "$this->lng->txt('grp_already_assigned')",
+        "has_variable": false,
+        "variable": "grp_already_assigned"
+    },
+    {
+        "id": 19450,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilGroupRegistrationGUI.php",
+        "line": 290,
+        "code": "$this->lng->txt('mem_reg_type')",
+        "has_variable": false,
+        "variable": "mem_reg_type"
+    },
+    {
+        "id": 19452,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilGroupRegistrationGUI.php",
+        "line": 291,
+        "code": "$this->lng->txt('group_req_direct')",
+        "has_variable": false,
+        "variable": "group_req_direct"
+    },
+    {
+        "id": 19454,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilGroupRegistrationGUI.php",
+        "line": 309,
+        "code": "$this->lng->txt('grp_update_subscr_request')",
+        "has_variable": false,
+        "variable": "grp_update_subscr_request"
+    },
+    {
+        "id": 19456,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilGroupRegistrationGUI.php",
+        "line": 310,
+        "code": "$this->lng->txt('grp_cancel_subscr_request')",
+        "has_variable": false,
+        "variable": "grp_cancel_subscr_request"
+    },
+    {
+        "id": 19458,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilGroupRegistrationGUI.php",
+        "line": 316,
+        "code": "$this->lng->txt('grp_join_request')",
+        "has_variable": false,
+        "variable": "grp_join_request"
+    },
+    {
+        "id": 19460,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilGroupRegistrationGUI.php",
+        "line": 317,
+        "code": "$this->lng->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 19462,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilGroupRegistrationGUI.php",
+        "line": 332,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 19464,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilGroupRegistrationGUI.php",
+        "line": 337,
+        "code": "$this->lng->txt('mem_error_preconditions')",
+        "has_variable": false,
+        "variable": "mem_error_preconditions"
+    },
+    {
+        "id": 19466,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilGroupRegistrationGUI.php",
+        "line": 349,
+        "code": "$this->lng->txt('err_wrong_password')",
+        "has_variable": false,
+        "variable": "err_wrong_password"
+    },
+    {
+        "id": 19468,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilGroupRegistrationGUI.php",
+        "line": 353,
+        "code": "$this->lng->txt('err_wrong_password')",
+        "has_variable": false,
+        "variable": "err_wrong_password"
+    },
+    {
+        "id": 19470,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilGroupRegistrationGUI.php",
+        "line": 358,
+        "code": "$this->lng->txt('fill_out_all_required_fields')",
+        "has_variable": false,
+        "variable": "fill_out_all_required_fields"
+    },
+    {
+        "id": 19472,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilGroupRegistrationGUI.php",
+        "line": 362,
+        "code": "$this->lng->txt($this->type . '_agreement_required')",
+        "has_variable": true,
+        "variable": "$this->type . '_agreement_required'"
+    },
+    {
+        "id": 19474,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilGroupRegistrationGUI.php",
+        "line": 385,
+        "code": "$this->lng->txt('grp_added_to_list')",
+        "has_variable": false,
+        "variable": "grp_added_to_list"
+    },
+    {
+        "id": 19476,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilGroupRegistrationGUI.php",
+        "line": 421,
+        "code": "$this->lng->txt(\"application_completed\")",
+        "has_variable": false,
+        "variable": "application_completed"
+    },
+    {
+        "id": 19478,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilGroupRegistrationGUI.php",
+        "line": 446,
+        "code": "$this->lng->txt(\"grp_registration_completed\")",
+        "has_variable": false,
+        "variable": "grp_registration_completed"
+    },
+    {
+        "id": 19480,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroup.php",
+        "line": 450,
+        "code": "$this->lng->txt(self::ERR_MISSING_TITLE)",
+        "has_variable": true,
+        "variable": "ERR_MISSING_TITLE"
+    },
+    {
+        "id": 19482,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroup.php",
+        "line": 453,
+        "code": "$this->lng->txt(self::ERR_MISSING_PASSWORD)",
+        "has_variable": true,
+        "variable": "ERR_MISSING_PASSWORD"
+    },
+    {
+        "id": 19484,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroup.php",
+        "line": 457,
+        "code": "$this->lng->txt(self::ERR_MISSING_MIN_MAX_MEMBERS)",
+        "has_variable": true,
+        "variable": "ERR_MISSING_MIN_MAX_MEMBERS"
+    },
+    {
+        "id": 19486,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroup.php",
+        "line": 460,
+        "code": "$this->lng->txt(self::ERR_WRONG_MAX_MEMBERS)",
+        "has_variable": true,
+        "variable": "ERR_WRONG_MAX_MEMBERS"
+    },
+    {
+        "id": 19488,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroup.php",
+        "line": 463,
+        "code": "$this->lng->txt(self::ERR_WRONG_MIN_MAX_MEMBERS)",
+        "has_variable": true,
+        "variable": "ERR_WRONG_MIN_MAX_MEMBERS"
+    },
+    {
+        "id": 19490,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroup.php",
+        "line": 471,
+        "code": "$this->lng->txt((self::ERR_WRONG_REGISTRATION_LIMITED))",
+        "has_variable": true,
+        "variable": "ERR_WRONG_REGISTRATION_LIMITED"
+    },
+    {
+        "id": 19492,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroup.php",
+        "line": 1467,
+        "code": "$this->lng->txt('grp_added_to_list')",
+        "has_variable": false,
+        "variable": "grp_added_to_list"
+    },
+    {
+        "id": 19494,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroupAccess.php",
+        "line": 52,
+        "code": "$lng->txt(\"info_is_member\")",
+        "has_variable": false,
+        "variable": "info_is_member"
+    },
+    {
+        "id": 19496,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroupAccess.php",
+        "line": 54,
+        "code": "$lng->txt(\"info_is_not_member\")",
+        "has_variable": false,
+        "variable": "info_is_not_member"
+    },
+    {
+        "id": 19498,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroupAccess.php",
+        "line": 80,
+        "code": "$lng->txt(\"grp_cancellation_end_rbac_info\")",
+        "has_variable": false,
+        "variable": "grp_cancellation_end_rbac_info"
+    },
+    {
+        "id": 19500,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroupAccess.php",
+        "line": 242,
+        "code": "$lng->txt('grp_list_reg_start')",
+        "has_variable": false,
+        "variable": "grp_list_reg_start"
+    },
+    {
+        "id": 19502,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroupAccess.php",
+        "line": 245,
+        "code": "$lng->txt('grp_list_reg_end')",
+        "has_variable": false,
+        "variable": "grp_list_reg_end"
+    },
+    {
+        "id": 19504,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroupAccess.php",
+        "line": 249,
+        "code": "$lng->txt('grp_list_reg_period')",
+        "has_variable": false,
+        "variable": "grp_list_reg_period"
+    },
+    {
+        "id": 19506,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroupAccess.php",
+        "line": 250,
+        "code": "$lng->txt('grp_list_reg_noreg')",
+        "has_variable": false,
+        "variable": "grp_list_reg_noreg"
+    },
+    {
+        "id": 19508,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroupAccess.php",
+        "line": 256,
+        "code": "$lng->txt('grp_list_reg')",
+        "has_variable": false,
+        "variable": "grp_list_reg"
+    },
+    {
+        "id": 19510,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroupAccess.php",
+        "line": 257,
+        "code": "$lng->txt('grp_list_reg_noreg')",
+        "has_variable": false,
+        "variable": "grp_list_reg_noreg"
+    },
+    {
+        "id": 19512,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroupAccess.php",
+        "line": 273,
+        "code": "$lng->txt('grp_list_reg_limit_places')",
+        "has_variable": false,
+        "variable": "grp_list_reg_limit_places"
+    },
+    {
+        "id": 19514,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroupAccess.php",
+        "line": 277,
+        "code": "$lng->txt('grp_list_reg_limit_full')",
+        "has_variable": false,
+        "variable": "grp_list_reg_limit_full"
+    },
+    {
+        "id": 19516,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroupAccess.php",
+        "line": 323,
+        "code": "$lng->txt('grp_period')",
+        "has_variable": false,
+        "variable": "grp_period"
+    },
+    {
+        "id": 19518,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroupGUI.php",
+        "line": 313,
+        "code": "$this->lng->txt(\"msg_no_perm_read\")",
+        "has_variable": false,
+        "variable": "msg_no_perm_read"
+    },
+    {
+        "id": 19520,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroupGUI.php",
+        "line": 369,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 19522,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroupGUI.php",
+        "line": 402,
+        "code": "$this->lng->txt(\"msg_no_perm_read\")",
+        "has_variable": false,
+        "variable": "msg_no_perm_read"
+    },
+    {
+        "id": 19524,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroupGUI.php",
+        "line": 535,
+        "code": "$this->lng->txt(\"object_added\")",
+        "has_variable": false,
+        "variable": "object_added"
+    },
+    {
+        "id": 19526,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroupGUI.php",
+        "line": 566,
+        "code": "$this->lng->txt('settings_saved')",
+        "has_variable": false,
+        "variable": "settings_saved"
+    },
+    {
+        "id": 19528,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroupGUI.php",
+        "line": 597,
+        "code": "$this->lng->txt('crs_tile_and_session_limit_not_supported')",
+        "has_variable": false,
+        "variable": "crs_tile_and_session_limit_not_supported"
+    },
+    {
+        "id": 19530,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroupGUI.php",
+        "line": 733,
+        "code": "$this->lng->txt('grp_warn_grp_type_changed')",
+        "has_variable": false,
+        "variable": "grp_warn_grp_type_changed"
+    },
+    {
+        "id": 19532,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroupGUI.php",
+        "line": 738,
+        "code": "$this->lng->txt('grp_info_new_grp_type')",
+        "has_variable": false,
+        "variable": "grp_info_new_grp_type"
+    },
+    {
+        "id": 19534,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroupGUI.php",
+        "line": 740,
+        "code": "$this->lng->txt('grp_change_type')",
+        "has_variable": false,
+        "variable": "grp_change_type"
+    },
+    {
+        "id": 19536,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroupGUI.php",
+        "line": 741,
+        "code": "$this->lng->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 19538,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroupGUI.php",
+        "line": 745,
+        "code": "$this->lng->txt(\"msg_obj_modified\")",
+        "has_variable": false,
+        "variable": "msg_obj_modified"
+    },
+    {
+        "id": 19540,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroupGUI.php",
+        "line": 799,
+        "code": "$this->lng->txt(\"grp_map_settings\")",
+        "has_variable": false,
+        "variable": "grp_map_settings"
+    },
+    {
+        "id": 19542,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroupGUI.php",
+        "line": 803,
+        "code": "$this->lng->txt(\"grp_enable_map\")",
+        "has_variable": false,
+        "variable": "grp_enable_map"
+    },
+    {
+        "id": 19544,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroupGUI.php",
+        "line": 812,
+        "code": "$this->lng->txt(\"grp_map_location\")",
+        "has_variable": false,
+        "variable": "grp_map_location"
+    },
+    {
+        "id": 19546,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroupGUI.php",
+        "line": 820,
+        "code": "$this->lng->txt(\"save\")",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 19548,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroupGUI.php",
+        "line": 876,
+        "code": "$this->lng->txt('grp_general_informations')",
+        "has_variable": false,
+        "variable": "grp_general_informations"
+    },
+    {
+        "id": 19550,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroupGUI.php",
+        "line": 877,
+        "code": "$this->lng->txt('save')",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 19552,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroupGUI.php",
+        "line": 878,
+        "code": "$this->lng->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 19554,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroupGUI.php",
+        "line": 880,
+        "code": "$this->lng->txt('grp_information')",
+        "has_variable": false,
+        "variable": "grp_information"
+    },
+    {
+        "id": 19556,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroupGUI.php",
+        "line": 881,
+        "code": "$this->lng->txt('grp_information_info')",
+        "has_variable": false,
+        "variable": "grp_information_info"
+    },
+    {
+        "id": 19558,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroupGUI.php",
+        "line": 903,
+        "code": "$this->lng->txt(\"settings_saved\")",
+        "has_variable": false,
+        "variable": "settings_saved"
+    },
+    {
+        "id": 19560,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroupGUI.php",
+        "line": 976,
+        "code": "$this->lng->txt('no_date')",
+        "has_variable": false,
+        "variable": "no_date"
+    },
+    {
+        "id": 19562,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroupGUI.php",
+        "line": 995,
+        "code": "$this->lng->txt('grp_err_administrator_required')",
+        "has_variable": false,
+        "variable": "grp_err_administrator_required"
+    },
+    {
+        "id": 19564,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroupGUI.php",
+        "line": 1003,
+        "code": "$this->lng->txt('grp_dismiss_myself')",
+        "has_variable": false,
+        "variable": "grp_dismiss_myself"
+    },
+    {
+        "id": 19566,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroupGUI.php",
+        "line": 1005,
+        "code": "$this->lng->txt(\"cancel\")",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 19568,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroupGUI.php",
+        "line": 1006,
+        "code": "$this->lng->txt(\"grp_btn_unsubscribe\")",
+        "has_variable": false,
+        "variable": "grp_btn_unsubscribe"
+    },
+    {
+        "id": 19570,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroupGUI.php",
+        "line": 1023,
+        "code": "$this->lng->txt('grp_msg_membership_annulled')",
+        "has_variable": false,
+        "variable": "grp_msg_membership_annulled"
+    },
+    {
+        "id": 19572,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroupGUI.php",
+        "line": 1036,
+        "code": "$this->lng->txt(\"content\")",
+        "has_variable": false,
+        "variable": "content"
+    },
+    {
+        "id": 19574,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroupGUI.php",
+        "line": 1058,
+        "code": "$this->lng->txt(\"cont_news_timeline_tab\")",
+        "has_variable": false,
+        "variable": "cont_news_timeline_tab"
+    },
+    {
+        "id": 19576,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroupGUI.php",
+        "line": 1147,
+        "code": "$this->lng->txt('meta_data')",
+        "has_variable": false,
+        "variable": "meta_data"
+    },
+    {
+        "id": 19578,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroupGUI.php",
+        "line": 1172,
+        "code": "$this->lng->txt('membership_leave')",
+        "has_variable": false,
+        "variable": "membership_leave"
+    },
+    {
+        "id": 19580,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroupGUI.php",
+        "line": 1211,
+        "code": "$this->lng->txt('grp_general_informations')",
+        "has_variable": false,
+        "variable": "grp_general_informations"
+    },
+    {
+        "id": 19582,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroupGUI.php",
+        "line": 1212,
+        "code": "$this->lng->txt('grp_information')",
+        "has_variable": false,
+        "variable": "grp_information"
+    },
+    {
+        "id": 19584,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroupGUI.php",
+        "line": 1232,
+        "code": "$this->lng->txt(\"grp_mem_contacts\")",
+        "has_variable": false,
+        "variable": "grp_mem_contacts"
+    },
+    {
+        "id": 19586,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroupGUI.php",
+        "line": 1242,
+        "code": "$this->lng->txt('group_registration')",
+        "has_variable": false,
+        "variable": "group_registration"
+    },
+    {
+        "id": 19588,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroupGUI.php",
+        "line": 1247,
+        "code": "$this->lng->txt('group_registration_mode')",
+        "has_variable": false,
+        "variable": "group_registration_mode"
+    },
+    {
+        "id": 19590,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroupGUI.php",
+        "line": 1248,
+        "code": "$this->lng->txt('grp_reg_deac_info_screen')",
+        "has_variable": false,
+        "variable": "grp_reg_deac_info_screen"
+    },
+    {
+        "id": 19592,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroupGUI.php",
+        "line": 1254,
+        "code": "$this->lng->txt('group_registration_mode')",
+        "has_variable": false,
+        "variable": "group_registration_mode"
+    },
+    {
+        "id": 19594,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroupGUI.php",
+        "line": 1255,
+        "code": "$this->lng->txt('grp_reg_direct_info_screen')",
+        "has_variable": false,
+        "variable": "grp_reg_direct_info_screen"
+    },
+    {
+        "id": 19596,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroupGUI.php",
+        "line": 1261,
+        "code": "$this->lng->txt('group_registration_mode')",
+        "has_variable": false,
+        "variable": "group_registration_mode"
+    },
+    {
+        "id": 19598,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroupGUI.php",
+        "line": 1262,
+        "code": "$this->lng->txt('grp_reg_req_info_screen')",
+        "has_variable": false,
+        "variable": "grp_reg_req_info_screen"
+    },
+    {
+        "id": 19600,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroupGUI.php",
+        "line": 1268,
+        "code": "$this->lng->txt('group_registration_mode')",
+        "has_variable": false,
+        "variable": "group_registration_mode"
+    },
+    {
+        "id": 19602,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroupGUI.php",
+        "line": 1269,
+        "code": "$this->lng->txt('grp_reg_passwd_info_screen')",
+        "has_variable": false,
+        "variable": "grp_reg_passwd_info_screen"
+    },
+    {
+        "id": 19604,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroupGUI.php",
+        "line": 1274,
+        "code": "$this->lng->txt('group_registration_time')",
+        "has_variable": false,
+        "variable": "group_registration_time"
+    },
+    {
+        "id": 19606,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroupGUI.php",
+        "line": 1281,
+        "code": "$this->lng->txt('group_registration_time')",
+        "has_variable": false,
+        "variable": "group_registration_time"
+    },
+    {
+        "id": 19608,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroupGUI.php",
+        "line": 1282,
+        "code": "$this->lng->txt('grp_registration_unlimited')",
+        "has_variable": false,
+        "variable": "grp_registration_unlimited"
+    },
+    {
+        "id": 19610,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroupGUI.php",
+        "line": 1286,
+        "code": "$this->lng->txt(\"group_registration_time\")",
+        "has_variable": false,
+        "variable": "group_registration_time"
+    },
+    {
+        "id": 19612,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroupGUI.php",
+        "line": 1287,
+        "code": "$this->lng->txt('cal_until')",
+        "has_variable": false,
+        "variable": "cal_until"
+    },
+    {
+        "id": 19614,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroupGUI.php",
+        "line": 1292,
+        "code": "$this->lng->txt(\"group_registration_time\")",
+        "has_variable": false,
+        "variable": "group_registration_time"
+    },
+    {
+        "id": 19616,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroupGUI.php",
+        "line": 1293,
+        "code": "$this->lng->txt('cal_from')",
+        "has_variable": false,
+        "variable": "cal_from"
+    },
+    {
+        "id": 19618,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroupGUI.php",
+        "line": 1300,
+        "code": "$this->lng->txt(\"mem_min_users\")",
+        "has_variable": false,
+        "variable": "mem_min_users"
+    },
+    {
+        "id": 19620,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroupGUI.php",
+        "line": 1308,
+        "code": "$this->lng->txt('mem_free_places')",
+        "has_variable": false,
+        "variable": "mem_free_places"
+    },
+    {
+        "id": 19622,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroupGUI.php",
+        "line": 1316,
+        "code": "$this->lng->txt('grp_cancellation_end')",
+        "has_variable": false,
+        "variable": "grp_cancellation_end"
+    },
+    {
+        "id": 19624,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroupGUI.php",
+        "line": 1326,
+        "code": "$this->lng->txt('grp_period')",
+        "has_variable": false,
+        "variable": "grp_period"
+    },
+    {
+        "id": 19626,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroupGUI.php",
+        "line": 1341,
+        "code": "$this->lng->txt('grp_user_agreement_info')",
+        "has_variable": false,
+        "variable": "grp_user_agreement_info"
+    },
+    {
+        "id": 19628,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroupGUI.php",
+        "line": 1342,
+        "code": "$this->lng->txt('ps_export_data')",
+        "has_variable": false,
+        "variable": "ps_export_data"
+    },
+    {
+        "id": 19630,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroupGUI.php",
+        "line": 1345,
+        "code": "$this->lng->txt('ps_grp_user_fields')",
+        "has_variable": false,
+        "variable": "ps_grp_user_fields"
+    },
+    {
+        "id": 19632,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroupGUI.php",
+        "line": 1373,
+        "code": "$this->lng->txt(\"settings_saved\")",
+        "has_variable": false,
+        "variable": "settings_saved"
+    },
+    {
+        "id": 19634,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroupGUI.php",
+        "line": 1430,
+        "code": "$lng->txt(\"msg_no_perm_read_item\")",
+        "has_variable": false,
+        "variable": "msg_no_perm_read_item"
+    },
+    {
+        "id": 19636,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroupGUI.php",
+        "line": 1437,
+        "code": "$lng->txt(\"msg_no_perm_read\")",
+        "has_variable": false,
+        "variable": "msg_no_perm_read"
+    },
+    {
+        "id": 19638,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroupGUI.php",
+        "line": 1466,
+        "code": "$this->lng->txt('grp_period')",
+        "has_variable": false,
+        "variable": "grp_period"
+    },
+    {
+        "id": 19640,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroupGUI.php",
+        "line": 1469,
+        "code": "$this->lng->txt('mem_period_without_time')",
+        "has_variable": false,
+        "variable": "mem_period_without_time"
+    },
+    {
+        "id": 19642,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroupGUI.php",
+        "line": 1473,
+        "code": "$this->lng->txt('grp_period_info')",
+        "has_variable": false,
+        "variable": "grp_period_info"
+    },
+    {
+        "id": 19644,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroupGUI.php",
+        "line": 1482,
+        "code": "$this->lng->txt('rep_activation_availability')",
+        "has_variable": false,
+        "variable": "rep_activation_availability"
+    },
+    {
+        "id": 19646,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroupGUI.php",
+        "line": 1485,
+        "code": "$this->lng->txt('rep_activation_online')",
+        "has_variable": false,
+        "variable": "rep_activation_online"
+    },
+    {
+        "id": 19648,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroupGUI.php",
+        "line": 1487,
+        "code": "$this->lng->txt('grp_activation_online_info')",
+        "has_variable": false,
+        "variable": "grp_activation_online_info"
+    },
+    {
+        "id": 19650,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroupGUI.php",
+        "line": 1493,
+        "code": "$this->lng->txt('grp_setting_header_registration')",
+        "has_variable": false,
+        "variable": "grp_setting_header_registration"
+    },
+    {
+        "id": 19652,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroupGUI.php",
+        "line": 1497,
+        "code": "$this->lng->txt('group_registration_mode')",
+        "has_variable": false,
+        "variable": "group_registration_mode"
+    },
+    {
+        "id": 19654,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroupGUI.php",
+        "line": 1501,
+        "code": "$this->lng->txt('grp_reg_direct')",
+        "has_variable": false,
+        "variable": "grp_reg_direct"
+    },
+    {
+        "id": 19656,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroupGUI.php",
+        "line": 1503,
+        "code": "$this->lng->txt('grp_reg_direct_info')",
+        "has_variable": false,
+        "variable": "grp_reg_direct_info"
+    },
+    {
+        "id": 19658,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroupGUI.php",
+        "line": 1507,
+        "code": "$this->lng->txt('grp_pass_request')",
+        "has_variable": false,
+        "variable": "grp_pass_request"
+    },
+    {
+        "id": 19660,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroupGUI.php",
+        "line": 1510,
+        "code": "$this->lng->txt(\"password\")",
+        "has_variable": false,
+        "variable": "password"
+    },
+    {
+        "id": 19662,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroupGUI.php",
+        "line": 1512,
+        "code": "$this->lng->txt('grp_reg_password_info')",
+        "has_variable": false,
+        "variable": "grp_reg_password_info"
+    },
+    {
+        "id": 19664,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroupGUI.php",
+        "line": 1519,
+        "code": "$this->lng->txt('grp_reg_request')",
+        "has_variable": false,
+        "variable": "grp_reg_request"
+    },
+    {
+        "id": 19666,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroupGUI.php",
+        "line": 1519,
+        "code": "$this->lng->txt('grp_reg_request_info')",
+        "has_variable": false,
+        "variable": "grp_reg_request_info"
+    },
+    {
+        "id": 19668,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroupGUI.php",
+        "line": 1522,
+        "code": "$this->lng->txt('grp_reg_no_selfreg')",
+        "has_variable": false,
+        "variable": "grp_reg_no_selfreg"
+    },
+    {
+        "id": 19670,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroupGUI.php",
+        "line": 1522,
+        "code": "$this->lng->txt('grp_reg_disabled_info')",
+        "has_variable": false,
+        "variable": "grp_reg_disabled_info"
+    },
+    {
+        "id": 19672,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroupGUI.php",
+        "line": 1526,
+        "code": "$this->lng->txt('grp_reg_code')",
+        "has_variable": false,
+        "variable": "grp_reg_code"
+    },
+    {
+        "id": 19674,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroupGUI.php",
+        "line": 1529,
+        "code": "$this->lng->txt('grp_reg_code_enabled_info')",
+        "has_variable": false,
+        "variable": "grp_reg_code_enabled_info"
+    },
+    {
+        "id": 19676,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroupGUI.php",
+        "line": 1540,
+        "code": "$this->lng->txt('grp_reg_code_link')",
+        "has_variable": false,
+        "variable": "grp_reg_code_link"
+    },
+    {
+        "id": 19678,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroupGUI.php",
+        "line": 1548,
+        "code": "$this->lng->txt('grp_reg_limited')",
+        "has_variable": false,
+        "variable": "grp_reg_limited"
+    },
+    {
+        "id": 19680,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroupGUI.php",
+        "line": 1555,
+        "code": "$this->lng->txt('grp_cancellation_end')",
+        "has_variable": false,
+        "variable": "grp_cancellation_end"
+    },
+    {
+        "id": 19682,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroupGUI.php",
+        "line": 1556,
+        "code": "$this->lng->txt('grp_cancellation_end_info')",
+        "has_variable": false,
+        "variable": "grp_cancellation_end_info"
+    },
+    {
+        "id": 19684,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroupGUI.php",
+        "line": 1561,
+        "code": "$this->lng->txt('reg_grp_max_members_short')",
+        "has_variable": false,
+        "variable": "reg_grp_max_members_short"
+    },
+    {
+        "id": 19686,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroupGUI.php",
+        "line": 1563,
+        "code": "$this->lng->txt('reg_grp_max_members')",
+        "has_variable": false,
+        "variable": "reg_grp_max_members"
+    },
+    {
+        "id": 19688,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroupGUI.php",
+        "line": 1566,
+        "code": "$this->lng->txt('reg_grp_min_members')",
+        "has_variable": false,
+        "variable": "reg_grp_min_members"
+    },
+    {
+        "id": 19690,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroupGUI.php",
+        "line": 1570,
+        "code": "$this->lng->txt('grp_subscription_min_members_info')",
+        "has_variable": false,
+        "variable": "grp_subscription_min_members_info"
+    },
+    {
+        "id": 19692,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroupGUI.php",
+        "line": 1573,
+        "code": "$this->lng->txt('reg_grp_max_members')",
+        "has_variable": false,
+        "variable": "reg_grp_max_members"
+    },
+    {
+        "id": 19694,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroupGUI.php",
+        "line": 1575,
+        "code": "$this->lng->txt('members')",
+        "has_variable": false,
+        "variable": "members"
+    },
+    {
+        "id": 19696,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroupGUI.php",
+        "line": 1578,
+        "code": "$this->lng->txt('grp_reg_max_members_info')",
+        "has_variable": false,
+        "variable": "grp_reg_max_members_info"
+    },
+    {
+        "id": 19698,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroupGUI.php",
+        "line": 1582,
+        "code": "$this->lng->txt('grp_waiting_list')",
+        "has_variable": false,
+        "variable": "grp_waiting_list"
+    },
+    {
+        "id": 19700,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroupGUI.php",
+        "line": 1584,
+        "code": "$this->lng->txt('grp_waiting_list')",
+        "has_variable": false,
+        "variable": "grp_waiting_list"
+    },
+    {
+        "id": 19702,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroupGUI.php",
+        "line": 1585,
+        "code": "$this->lng->txt('grp_waiting_list_info')",
+        "has_variable": false,
+        "variable": "grp_waiting_list_info"
+    },
+    {
+        "id": 19704,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroupGUI.php",
+        "line": 1591,
+        "code": "$this->lng->txt('grp_waiting_list')",
+        "has_variable": false,
+        "variable": "grp_waiting_list"
+    },
+    {
+        "id": 19706,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroupGUI.php",
+        "line": 1593,
+        "code": "$this->lng->txt('none')",
+        "has_variable": false,
+        "variable": "none"
+    },
+    {
+        "id": 19708,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroupGUI.php",
+        "line": 1596,
+        "code": "$this->lng->txt('grp_waiting_list_no_autofill')",
+        "has_variable": false,
+        "variable": "grp_waiting_list_no_autofill"
+    },
+    {
+        "id": 19710,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroupGUI.php",
+        "line": 1597,
+        "code": "$this->lng->txt('grp_waiting_list_info')",
+        "has_variable": false,
+        "variable": "grp_waiting_list_info"
+    },
+    {
+        "id": 19712,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroupGUI.php",
+        "line": 1600,
+        "code": "$this->lng->txt('grp_waiting_list_autofill')",
+        "has_variable": false,
+        "variable": "grp_waiting_list_autofill"
+    },
+    {
+        "id": 19714,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroupGUI.php",
+        "line": 1601,
+        "code": "$this->lng->txt('grp_waiting_list_autofill_info')",
+        "has_variable": false,
+        "variable": "grp_waiting_list_autofill_info"
+    },
+    {
+        "id": 19716,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroupGUI.php",
+        "line": 1625,
+        "code": "$this->lng->txt('grp_setting_header_presentation')",
+        "has_variable": false,
+        "variable": "grp_setting_header_presentation"
+    },
+    {
+        "id": 19718,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroupGUI.php",
+        "line": 1645,
+        "code": "$this->lng->txt('grp_presentation_type')",
+        "has_variable": false,
+        "variable": "grp_presentation_type"
+    },
+    {
+        "id": 19720,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroupGUI.php",
+        "line": 1651,
+        "code": "$this->lng->txt('cntr_view_sessions')",
+        "has_variable": false,
+        "variable": "cntr_view_sessions"
+    },
+    {
+        "id": 19722,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroupGUI.php",
+        "line": 1655,
+        "code": "$this->lng->txt('cntr_view_simple')",
+        "has_variable": false,
+        "variable": "cntr_view_simple"
+    },
+    {
+        "id": 19724,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroupGUI.php",
+        "line": 1659,
+        "code": "$this->lng->txt('cntr_view_by_type')",
+        "has_variable": false,
+        "variable": "cntr_view_by_type"
+    },
+    {
+        "id": 19726,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroupGUI.php",
+        "line": 1663,
+        "code": "$this->lng->txt('grp_view_inherit')",
+        "has_variable": false,
+        "variable": "grp_view_inherit"
+    },
+    {
+        "id": 19728,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroupGUI.php",
+        "line": 1664,
+        "code": "$this->lng->txt('grp_view_inherit_info')",
+        "has_variable": false,
+        "variable": "grp_view_inherit_info"
+    },
+    {
+        "id": 19730,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroupGUI.php",
+        "line": 1675,
+        "code": "$this->lng->txt('cntr_view_sessions')",
+        "has_variable": false,
+        "variable": "cntr_view_sessions"
+    },
+    {
+        "id": 19732,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroupGUI.php",
+        "line": 1676,
+        "code": "$this->lng->txt('cntr_view_info_sessions')",
+        "has_variable": false,
+        "variable": "cntr_view_info_sessions"
+    },
+    {
+        "id": 19734,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroupGUI.php",
+        "line": 1681,
+        "code": "$this->lng->txt('sess_limit')",
+        "has_variable": false,
+        "variable": "sess_limit"
+    },
+    {
+        "id": 19736,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroupGUI.php",
+        "line": 1684,
+        "code": "$this->lng->txt('sess_limit_info')",
+        "has_variable": false,
+        "variable": "sess_limit_info"
+    },
+    {
+        "id": 19738,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroupGUI.php",
+        "line": 1686,
+        "code": "$this->lng->txt('sess_num_prev')",
+        "has_variable": false,
+        "variable": "sess_num_prev"
+    },
+    {
+        "id": 19740,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroupGUI.php",
+        "line": 1697,
+        "code": "$this->lng->txt('sess_num_next')",
+        "has_variable": false,
+        "variable": "sess_num_next"
+    },
+    {
+        "id": 19742,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroupGUI.php",
+        "line": 1709,
+        "code": "$this->lng->txt('cntr_view_simple')",
+        "has_variable": false,
+        "variable": "cntr_view_simple"
+    },
+    {
+        "id": 19744,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroupGUI.php",
+        "line": 1710,
+        "code": "$this->lng->txt('grp_view_info_simple')",
+        "has_variable": false,
+        "variable": "grp_view_info_simple"
+    },
+    {
+        "id": 19746,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroupGUI.php",
+        "line": 1713,
+        "code": "$this->lng->txt('cntr_view_by_type')",
+        "has_variable": false,
+        "variable": "cntr_view_by_type"
+    },
+    {
+        "id": 19748,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroupGUI.php",
+        "line": 1714,
+        "code": "$this->lng->txt('grp_view_info_by_type')",
+        "has_variable": false,
+        "variable": "grp_view_info_by_type"
+    },
+    {
+        "id": 19750,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroupGUI.php",
+        "line": 1731,
+        "code": "$this->lng->txt('obj_features')",
+        "has_variable": false,
+        "variable": "obj_features"
+    },
+    {
+        "id": 19752,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroupGUI.php",
+        "line": 1741,
+        "code": "$this->lng->txt('grp_show_members')",
+        "has_variable": false,
+        "variable": "grp_show_members"
+    },
+    {
+        "id": 19754,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroupGUI.php",
+        "line": 1743,
+        "code": "$this->lng->txt('grp_show_members_info')",
+        "has_variable": false,
+        "variable": "grp_show_members_info"
+    },
+    {
+        "id": 19756,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroupGUI.php",
+        "line": 1747,
+        "code": "$this->lng->txt('grp_mail_type')",
+        "has_variable": false,
+        "variable": "grp_mail_type"
+    },
+    {
+        "id": 19758,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroupGUI.php",
+        "line": 1751,
+        "code": "$this->lng->txt('grp_mail_tutors_only')",
+        "has_variable": false,
+        "variable": "grp_mail_tutors_only"
+    },
+    {
+        "id": 19760,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroupGUI.php",
+        "line": 1753,
+        "code": "$this->lng->txt('grp_mail_tutors_only_info')",
+        "has_variable": false,
+        "variable": "grp_mail_tutors_only_info"
+    },
+    {
+        "id": 19762,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroupGUI.php",
+        "line": 1758,
+        "code": "$this->lng->txt('grp_mail_all')",
+        "has_variable": false,
+        "variable": "grp_mail_all"
+    },
+    {
+        "id": 19764,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroupGUI.php",
+        "line": 1760,
+        "code": "$this->lng->txt('grp_mail_all_info')",
+        "has_variable": false,
+        "variable": "grp_mail_all_info"
+    },
+    {
+        "id": 19766,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroupGUI.php",
+        "line": 1766,
+        "code": "$this->lng->txt('grp_auto_notification')",
+        "has_variable": false,
+        "variable": "grp_auto_notification"
+    },
+    {
+        "id": 19768,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroupGUI.php",
+        "line": 1768,
+        "code": "$this->lng->txt('grp_auto_notification_info')",
+        "has_variable": false,
+        "variable": "grp_auto_notification_info"
+    },
+    {
+        "id": 19770,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroupGUI.php",
+        "line": 1775,
+        "code": "$this->lng->txt('grp_new')",
+        "has_variable": false,
+        "variable": "grp_new"
+    },
+    {
+        "id": 19772,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroupGUI.php",
+        "line": 1778,
+        "code": "$this->lng->txt('grp_new')",
+        "has_variable": false,
+        "variable": "grp_new"
+    },
+    {
+        "id": 19774,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroupGUI.php",
+        "line": 1779,
+        "code": "$this->lng->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 19776,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroupGUI.php",
+        "line": 1783,
+        "code": "$this->lng->txt('grp_edit')",
+        "has_variable": false,
+        "variable": "grp_edit"
+    },
+    {
+        "id": 19778,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroupGUI.php",
+        "line": 1790,
+        "code": "$this->lng->txt('save')",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 19780,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroupGUI.php",
+        "line": 1791,
+        "code": "$this->lng->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 19782,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroupGUI.php",
+        "line": 1845,
+        "code": "$this->lng->txt(\"cont_news_settings\")",
+        "has_variable": false,
+        "variable": "cont_news_settings"
+    },
+    {
+        "id": 19784,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroupGUI.php",
+        "line": 1910,
+        "code": "$this->lng->txt('grp_mail_permanent_link')",
+        "has_variable": false,
+        "variable": "grp_mail_permanent_link"
+    },
+    {
+        "id": 19786,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroupGUI.php",
+        "line": 1935,
+        "code": "$this->lng->txt(\"grp_notification_deactivated\")",
+        "has_variable": false,
+        "variable": "grp_notification_deactivated"
+    },
+    {
+        "id": 19788,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroupGUI.php",
+        "line": 1944,
+        "code": "$this->lng->txt(\"grp_notification_activated\")",
+        "has_variable": false,
+        "variable": "grp_notification_activated"
+    },
+    {
+        "id": 19790,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroupListGUI.php",
+        "line": 125,
+        "code": "$this->lng->txt('member_status')",
+        "has_variable": false,
+        "variable": "member_status"
+    },
+    {
+        "id": 19792,
+        "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroupListGUI.php",
+        "line": 126,
+        "code": "$this->lng->txt('on_waiting_list')",
+        "has_variable": false,
+        "variable": "on_waiting_list"
+    }
+]

@@ -1,0 +1,1482 @@
+[
+    {
+        "id": 30682,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilAccountRegistrationGUI.php",
+        "line": 99,
+        "code": "$this->lng->txt('reg_disabled')",
+        "has_variable": false,
+        "variable": "reg_disabled"
+    },
+    {
+        "id": 30684,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilAccountRegistrationGUI.php",
+        "line": 118,
+        "code": "$this->lng->txt('registration')",
+        "has_variable": false,
+        "variable": "registration"
+    },
+    {
+        "id": 30686,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilAccountRegistrationGUI.php",
+        "line": 141,
+        "code": "$this->lng->txt('registration_codes_type_reg')",
+        "has_variable": false,
+        "variable": "registration_codes_type_reg"
+    },
+    {
+        "id": 30688,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilAccountRegistrationGUI.php",
+        "line": 143,
+        "code": "$this->lng->txt('registration_code')",
+        "has_variable": false,
+        "variable": "registration_code"
+    },
+    {
+        "id": 30690,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilAccountRegistrationGUI.php",
+        "line": 148,
+        "code": "$this->lng->txt('registration_code_required_info')",
+        "has_variable": false,
+        "variable": "registration_code_required_info"
+    },
+    {
+        "id": 30692,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilAccountRegistrationGUI.php",
+        "line": 150,
+        "code": "$this->lng->txt('registration_code_optional_info')",
+        "has_variable": false,
+        "variable": "registration_code_optional_info"
+    },
+    {
+        "id": 30694,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilAccountRegistrationGUI.php",
+        "line": 162,
+        "code": "$this->lng->txt('settings')",
+        "has_variable": false,
+        "variable": "settings"
+    },
+    {
+        "id": 30696,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilAccountRegistrationGUI.php",
+        "line": 177,
+        "code": "$this->lng->txt('registration_code_role_info')",
+        "has_variable": false,
+        "variable": "registration_code_role_info"
+    },
+    {
+        "id": 30698,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilAccountRegistrationGUI.php",
+        "line": 192,
+        "code": "$this->lng->txt('reg_email_domains')",
+        "has_variable": false,
+        "variable": "reg_email_domains"
+    },
+    {
+        "id": 30700,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilAccountRegistrationGUI.php",
+        "line": 195,
+        "code": "$this->lng->txt('reg_email_domains_code')",
+        "has_variable": false,
+        "variable": "reg_email_domains_code"
+    },
+    {
+        "id": 30702,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilAccountRegistrationGUI.php",
+        "line": 209,
+        "code": "$this->lng->txt('register')",
+        "has_variable": false,
+        "variable": "register"
+    },
+    {
+        "id": 30704,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilAccountRegistrationGUI.php",
+        "line": 231,
+        "code": "$this->lng->txt('registration_code_not_valid')",
+        "has_variable": false,
+        "variable": "registration_code_not_valid"
+    },
+    {
+        "id": 30706,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilAccountRegistrationGUI.php",
+        "line": 271,
+        "code": "$this->lng->txt('reg_email_domains')",
+        "has_variable": false,
+        "variable": "reg_email_domains"
+    },
+    {
+        "id": 30708,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilAccountRegistrationGUI.php",
+        "line": 290,
+        "code": "$this->lng->txt($error_lng_var)",
+        "has_variable": true,
+        "variable": "$error_lng_var"
+    },
+    {
+        "id": 30710,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilAccountRegistrationGUI.php",
+        "line": 314,
+        "code": "$this->lng->txt('registration_no_valid_role')",
+        "has_variable": false,
+        "variable": "registration_no_valid_role"
+    },
+    {
+        "id": 30712,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilAccountRegistrationGUI.php",
+        "line": 322,
+        "code": "$this->lng->txt('login_invalid')",
+        "has_variable": false,
+        "variable": "login_invalid"
+    },
+    {
+        "id": 30714,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilAccountRegistrationGUI.php",
+        "line": 330,
+        "code": "$this->lng->txt('login_exists')",
+        "has_variable": false,
+        "variable": "login_exists"
+    },
+    {
+        "id": 30716,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilAccountRegistrationGUI.php",
+        "line": 335,
+        "code": "$this->lng->txt('login_exists')",
+        "has_variable": false,
+        "variable": "login_exists"
+    },
+    {
+        "id": 30718,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilAccountRegistrationGUI.php",
+        "line": 357,
+        "code": "$this->lng->txt('form_input_not_valid')",
+        "has_variable": false,
+        "variable": "form_input_not_valid"
+    },
+    {
+        "id": 30720,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilAccountRegistrationGUI.php",
+        "line": 590,
+        "code": "$this->lng->txt('registration')",
+        "has_variable": false,
+        "variable": "registration"
+    },
+    {
+        "id": 30722,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilAccountRegistrationGUI.php",
+        "line": 592,
+        "code": "$this->lng->txt('welcome')",
+        "has_variable": false,
+        "variable": "welcome"
+    },
+    {
+        "id": 30724,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilAccountRegistrationGUI.php",
+        "line": 601,
+        "code": "$this->lng->txt('txt_registered')",
+        "has_variable": false,
+        "variable": "txt_registered"
+    },
+    {
+        "id": 30726,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilAccountRegistrationGUI.php",
+        "line": 605,
+        "code": "$this->lng->txt('login_to_ilias')",
+        "has_variable": false,
+        "variable": "login_to_ilias"
+    },
+    {
+        "id": 30728,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilAccountRegistrationGUI.php",
+        "line": 611,
+        "code": "$this->lng->txt('txt_submitted')",
+        "has_variable": false,
+        "variable": "txt_submitted"
+    },
+    {
+        "id": 30730,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilAccountRegistrationGUI.php",
+        "line": 613,
+        "code": "$this->lng->txt('reg_confirmation_link_successful')",
+        "has_variable": false,
+        "variable": "reg_confirmation_link_successful"
+    },
+    {
+        "id": 30732,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilAccountRegistrationGUI.php",
+        "line": 615,
+        "code": "$this->lng->txt('txt_registered_passw_gen')",
+        "has_variable": false,
+        "variable": "txt_registered_passw_gen"
+    },
+    {
+        "id": 30734,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilAccountRegistrationGUI.php",
+        "line": 623,
+        "code": "$this->lng->txt('login_data')",
+        "has_variable": false,
+        "variable": "login_data"
+    },
+    {
+        "id": 30736,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilAccountRegistrationGUI.php",
+        "line": 626,
+        "code": "$this->lng->txt('username')",
+        "has_variable": false,
+        "variable": "username"
+    },
+    {
+        "id": 30738,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilAccountRegistrationGUI.php",
+        "line": 632,
+        "code": "$this->lng->txt('password')",
+        "has_variable": false,
+        "variable": "password"
+    },
+    {
+        "id": 30740,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilAccountRegistrationGUI.php",
+        "line": 633,
+        "code": "$this->lng->txt('reg_passwd_via_mail')",
+        "has_variable": false,
+        "variable": "reg_passwd_via_mail"
+    },
+    {
+        "id": 30742,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilAccountRegistrationGUI.php",
+        "line": 638,
+        "code": "$this->lng->txt('password')",
+        "has_variable": false,
+        "variable": "password"
+    },
+    {
+        "id": 30744,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilAccountRegistrationGUI.php",
+        "line": 667,
+        "code": "$this->lng->txt('please_choose')",
+        "has_variable": false,
+        "variable": "please_choose"
+    },
+    {
+        "id": 30746,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilAccountRegistrationGUI.php",
+        "line": 668,
+        "code": "$this->lng->txt('default_role')",
+        "has_variable": false,
+        "variable": "default_role"
+    },
+    {
+        "id": 30748,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilAccountRegistrationMail.php",
+        "line": 151,
+        "code": "$this->language->txt('reg_mail_subject')",
+        "has_variable": false,
+        "variable": "reg_mail_subject"
+    },
+    {
+        "id": 30750,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilAccountRegistrationMail.php",
+        "line": 153,
+        "code": "$this->language->txt('reg_mail_body_salutation')",
+        "has_variable": false,
+        "variable": "reg_mail_body_salutation"
+    },
+    {
+        "id": 30752,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilAccountRegistrationMail.php",
+        "line": 155,
+        "code": "$this->language->txt('reg_mail_body_text1')",
+        "has_variable": false,
+        "variable": "reg_mail_body_text1"
+    },
+    {
+        "id": 30754,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilAccountRegistrationMail.php",
+        "line": 157,
+        "code": "$this->language->txt('reg_mail_body_text2')",
+        "has_variable": false,
+        "variable": "reg_mail_body_text2"
+    },
+    {
+        "id": 30756,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilAccountRegistrationMail.php",
+        "line": 161,
+        "code": "$this->language->txt('login')",
+        "has_variable": false,
+        "variable": "login"
+    },
+    {
+        "id": 30758,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilAccountRegistrationMail.php",
+        "line": 165,
+        "code": "$this->language->txt('passwd')",
+        "has_variable": false,
+        "variable": "passwd"
+    },
+    {
+        "id": 30760,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilAccountRegistrationMail.php",
+        "line": 172,
+        "code": "$this->language->txt('reg_mail_body_pwd_generation')",
+        "has_variable": false,
+        "variable": "reg_mail_body_pwd_generation"
+    },
+    {
+        "id": 30762,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilAccountRegistrationMail.php",
+        "line": 177,
+        "code": "$this->language->txt('reg_mail_body_forgot_password_info')",
+        "has_variable": false,
+        "variable": "reg_mail_body_forgot_password_info"
+    },
+    {
+        "id": 30764,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilAccountRegistrationMail.php",
+        "line": 181,
+        "code": "$this->language->txt('reg_mail_body_text3')",
+        "has_variable": false,
+        "variable": "reg_mail_body_text3"
+    },
+    {
+        "id": 30766,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilRegistrationSettingsGUI.php",
+        "line": 135,
+        "code": "$this->lng->txt('msg_no_perm_read')",
+        "has_variable": false,
+        "variable": "msg_no_perm_read"
+    },
+    {
+        "id": 30768,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilRegistrationSettingsGUI.php",
+        "line": 148,
+        "code": "$this->lng->txt(\"registration_tab_settings\")",
+        "has_variable": false,
+        "variable": "registration_tab_settings"
+    },
+    {
+        "id": 30770,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilRegistrationSettingsGUI.php",
+        "line": 153,
+        "code": "$this->lng->txt(\"registration_tab_codes\")",
+        "has_variable": false,
+        "variable": "registration_tab_codes"
+    },
+    {
+        "id": 30772,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilRegistrationSettingsGUI.php",
+        "line": 163,
+        "code": "$this->lng->txt('reg_settings_header')",
+        "has_variable": false,
+        "variable": "reg_settings_header"
+    },
+    {
+        "id": 30774,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilRegistrationSettingsGUI.php",
+        "line": 165,
+        "code": "$this->lng->txt('reg_type')",
+        "has_variable": false,
+        "variable": "reg_type"
+    },
+    {
+        "id": 30776,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilRegistrationSettingsGUI.php",
+        "line": 167,
+        "code": "$this->lng->txt('reg_disabled')",
+        "has_variable": false,
+        "variable": "reg_disabled"
+    },
+    {
+        "id": 30778,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilRegistrationSettingsGUI.php",
+        "line": 170,
+        "code": "$this->lng->txt('reg_direct')",
+        "has_variable": false,
+        "variable": "reg_direct"
+    },
+    {
+        "id": 30780,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilRegistrationSettingsGUI.php",
+        "line": 171,
+        "code": "$this->lng->txt('reg_direct_info')",
+        "has_variable": false,
+        "variable": "reg_direct_info"
+    },
+    {
+        "id": 30782,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilRegistrationSettingsGUI.php",
+        "line": 173,
+        "code": "$this->lng->txt('reg_allow_codes')",
+        "has_variable": false,
+        "variable": "reg_allow_codes"
+    },
+    {
+        "id": 30784,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilRegistrationSettingsGUI.php",
+        "line": 176,
+        "code": "$this->lng->txt('reg_allow_codes_info')",
+        "has_variable": false,
+        "variable": "reg_allow_codes_info"
+    },
+    {
+        "id": 30786,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilRegistrationSettingsGUI.php",
+        "line": 179,
+        "code": "$this->lng->txt('reg_approve')",
+        "has_variable": false,
+        "variable": "reg_approve"
+    },
+    {
+        "id": 30788,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilRegistrationSettingsGUI.php",
+        "line": 180,
+        "code": "$this->lng->txt('reg_approve_info')",
+        "has_variable": false,
+        "variable": "reg_approve_info"
+    },
+    {
+        "id": 30790,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilRegistrationSettingsGUI.php",
+        "line": 182,
+        "code": "$this->lng->txt('reg_allow_codes')",
+        "has_variable": false,
+        "variable": "reg_allow_codes"
+    },
+    {
+        "id": 30792,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilRegistrationSettingsGUI.php",
+        "line": 185,
+        "code": "$this->lng->txt('reg_allow_codes_info')",
+        "has_variable": false,
+        "variable": "reg_allow_codes_info"
+    },
+    {
+        "id": 30794,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilRegistrationSettingsGUI.php",
+        "line": 189,
+        "code": "$this->lng->txt('reg_type_confirmation')",
+        "has_variable": false,
+        "variable": "reg_type_confirmation"
+    },
+    {
+        "id": 30796,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilRegistrationSettingsGUI.php",
+        "line": 192,
+        "code": "$this->lng->txt('reg_type_confirmation_info')",
+        "has_variable": false,
+        "variable": "reg_type_confirmation_info"
+    },
+    {
+        "id": 30798,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilRegistrationSettingsGUI.php",
+        "line": 193,
+        "code": "$this->lng->txt('reg_confirmation_hash_life_time')",
+        "has_variable": false,
+        "variable": "reg_confirmation_hash_life_time"
+    },
+    {
+        "id": 30800,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilRegistrationSettingsGUI.php",
+        "line": 198,
+        "code": "$this->lng->txt('reg_confirmation_hash_life_time_info')",
+        "has_variable": false,
+        "variable": "reg_confirmation_hash_life_time_info"
+    },
+    {
+        "id": 30802,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilRegistrationSettingsGUI.php",
+        "line": 199,
+        "code": "$this->lng->txt('seconds')",
+        "has_variable": false,
+        "variable": "seconds"
+    },
+    {
+        "id": 30804,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilRegistrationSettingsGUI.php",
+        "line": 202,
+        "code": "$this->lng->txt('reg_allow_codes')",
+        "has_variable": false,
+        "variable": "reg_allow_codes"
+    },
+    {
+        "id": 30806,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilRegistrationSettingsGUI.php",
+        "line": 205,
+        "code": "$this->lng->txt('reg_allow_codes_info')",
+        "has_variable": false,
+        "variable": "reg_allow_codes_info"
+    },
+    {
+        "id": 30808,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilRegistrationSettingsGUI.php",
+        "line": 209,
+        "code": "$this->lng->txt('registration_reg_type_codes')",
+        "has_variable": false,
+        "variable": "registration_reg_type_codes"
+    },
+    {
+        "id": 30810,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilRegistrationSettingsGUI.php",
+        "line": 212,
+        "code": "$this->lng->txt('registration_reg_type_codes_info')",
+        "has_variable": false,
+        "variable": "registration_reg_type_codes_info"
+    },
+    {
+        "id": 30812,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilRegistrationSettingsGUI.php",
+        "line": 216,
+        "code": "$this->lng->txt('passwd_generation')",
+        "has_variable": false,
+        "variable": "passwd_generation"
+    },
+    {
+        "id": 30814,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilRegistrationSettingsGUI.php",
+        "line": 218,
+        "code": "$this->lng->txt('reg_info_pwd')",
+        "has_variable": false,
+        "variable": "reg_info_pwd"
+    },
+    {
+        "id": 30816,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilRegistrationSettingsGUI.php",
+        "line": 221,
+        "code": "$this->lng->txt('reg_notification')",
+        "has_variable": false,
+        "variable": "reg_notification"
+    },
+    {
+        "id": 30818,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilRegistrationSettingsGUI.php",
+        "line": 224,
+        "code": "$this->lng->txt('reg_notification_info')",
+        "has_variable": false,
+        "variable": "reg_notification_info"
+    },
+    {
+        "id": 30820,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilRegistrationSettingsGUI.php",
+        "line": 227,
+        "code": "$this->lng->txt('reg_role_assignment')",
+        "has_variable": false,
+        "variable": "reg_role_assignment"
+    },
+    {
+        "id": 30822,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilRegistrationSettingsGUI.php",
+        "line": 228,
+        "code": "$this->lng->txt('reg_fixed')",
+        "has_variable": false,
+        "variable": "reg_fixed"
+    },
+    {
+        "id": 30824,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilRegistrationSettingsGUI.php",
+        "line": 229,
+        "code": "$this->lng->txt('reg_available_roles')",
+        "has_variable": false,
+        "variable": "reg_available_roles"
+    },
+    {
+        "id": 30826,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilRegistrationSettingsGUI.php",
+        "line": 234,
+        "code": "$this->lng->txt('reg_email')",
+        "has_variable": false,
+        "variable": "reg_email"
+    },
+    {
+        "id": 30828,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilRegistrationSettingsGUI.php",
+        "line": 235,
+        "code": "$this->lng->txt('reg_available_roles')",
+        "has_variable": false,
+        "variable": "reg_available_roles"
+    },
+    {
+        "id": 30830,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilRegistrationSettingsGUI.php",
+        "line": 240,
+        "code": "$this->lng->txt('registration_codes_override_global_info')",
+        "has_variable": false,
+        "variable": "registration_codes_override_global_info"
+    },
+    {
+        "id": 30832,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilRegistrationSettingsGUI.php",
+        "line": 243,
+        "code": "$this->lng->txt('reg_access_limitations')",
+        "has_variable": false,
+        "variable": "reg_access_limitations"
+    },
+    {
+        "id": 30834,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilRegistrationSettingsGUI.php",
+        "line": 245,
+        "code": "$this->lng->txt('reg_available_roles')",
+        "has_variable": false,
+        "variable": "reg_available_roles"
+    },
+    {
+        "id": 30836,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilRegistrationSettingsGUI.php",
+        "line": 248,
+        "code": "$this->lng->txt('registration_codes_override_global_info')",
+        "has_variable": false,
+        "variable": "registration_codes_override_global_info"
+    },
+    {
+        "id": 30838,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilRegistrationSettingsGUI.php",
+        "line": 252,
+        "code": "$this->lng->txt('reg_allowed_domains')",
+        "has_variable": false,
+        "variable": "reg_allowed_domains"
+    },
+    {
+        "id": 30840,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilRegistrationSettingsGUI.php",
+        "line": 253,
+        "code": "$this->lng->txt('reg_allowed_domains_info')",
+        "has_variable": false,
+        "variable": "reg_allowed_domains_info"
+    },
+    {
+        "id": 30842,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilRegistrationSettingsGUI.php",
+        "line": 257,
+        "code": "$this->lng->txt('save')",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 30844,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilRegistrationSettingsGUI.php",
+        "line": 312,
+        "code": "$this->lng->txt('registration_user_new_account_mail')",
+        "has_variable": false,
+        "variable": "registration_user_new_account_mail"
+    },
+    {
+        "id": 30846,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilRegistrationSettingsGUI.php",
+        "line": 368,
+        "code": "$this->lng->txt('reg_unknown_recipients')",
+        "has_variable": false,
+        "variable": "reg_unknown_recipients"
+    },
+    {
+        "id": 30848,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilRegistrationSettingsGUI.php",
+        "line": 373,
+        "code": "$this->lng->txt('reg_approve_needs_recipient')",
+        "has_variable": false,
+        "variable": "reg_approve_needs_recipient"
+    },
+    {
+        "id": 30850,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilRegistrationSettingsGUI.php",
+        "line": 380,
+        "code": "$this->lng->txt('saved_successfully')",
+        "has_variable": false,
+        "variable": "saved_successfully"
+    },
+    {
+        "id": 30852,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilRegistrationSettingsGUI.php",
+        "line": 389,
+        "code": "$this->lng->txt('reg_selectable_roles')",
+        "has_variable": false,
+        "variable": "reg_selectable_roles"
+    },
+    {
+        "id": 30854,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilRegistrationSettingsGUI.php",
+        "line": 391,
+        "code": "$this->lng->txt('reg_available_roles')",
+        "has_variable": false,
+        "variable": "reg_available_roles"
+    },
+    {
+        "id": 30856,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilRegistrationSettingsGUI.php",
+        "line": 408,
+        "code": "$this->lng->txt(\"save\")",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 30858,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilRegistrationSettingsGUI.php",
+        "line": 410,
+        "code": "$this->lng->txt(\"cancel\")",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 30860,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilRegistrationSettingsGUI.php",
+        "line": 419,
+        "code": "$this->lng->txt(\"registration_settings\")",
+        "has_variable": false,
+        "variable": "registration_settings"
+    },
+    {
+        "id": 30862,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilRegistrationSettingsGUI.php",
+        "line": 435,
+        "code": "$this->lng->txt('msg_last_role_for_registration')",
+        "has_variable": false,
+        "variable": "msg_last_role_for_registration"
+    },
+    {
+        "id": 30864,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilRegistrationSettingsGUI.php",
+        "line": 446,
+        "code": "$this->lng->txt('saved_successfully')",
+        "has_variable": false,
+        "variable": "saved_successfully"
+    },
+    {
+        "id": 30866,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilRegistrationSettingsGUI.php",
+        "line": 456,
+        "code": "$this->lng->txt(\"registration_settings\")",
+        "has_variable": false,
+        "variable": "registration_settings"
+    },
+    {
+        "id": 30868,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilRegistrationSettingsGUI.php",
+        "line": 469,
+        "code": "$this->lng->txt('reg_email_role_assignment')",
+        "has_variable": false,
+        "variable": "reg_email_role_assignment"
+    },
+    {
+        "id": 30870,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilRegistrationSettingsGUI.php",
+        "line": 471,
+        "code": "$this->lng->txt(\"links_select_one\")",
+        "has_variable": false,
+        "variable": "links_select_one"
+    },
+    {
+        "id": 30872,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilRegistrationSettingsGUI.php",
+        "line": 482,
+        "code": "$this->lng->txt('reg_domain')",
+        "has_variable": false,
+        "variable": "reg_domain"
+    },
+    {
+        "id": 30874,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilRegistrationSettingsGUI.php",
+        "line": 495,
+        "code": "$this->lng->txt('reg_default')",
+        "has_variable": false,
+        "variable": "reg_default"
+    },
+    {
+        "id": 30876,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilRegistrationSettingsGUI.php",
+        "line": 502,
+        "code": "$this->lng->txt(\"save\")",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 30878,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilRegistrationSettingsGUI.php",
+        "line": 503,
+        "code": "$this->lng->txt(\"cancel\")",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 30880,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilRegistrationSettingsGUI.php",
+        "line": 515,
+        "code": "$this->lng->txt(\"registration_settings\")",
+        "has_variable": false,
+        "variable": "registration_settings"
+    },
+    {
+        "id": 30882,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilRegistrationSettingsGUI.php",
+        "line": 529,
+        "code": "$this->lng->txt('reg_role_access_limitations')",
+        "has_variable": false,
+        "variable": "reg_role_access_limitations"
+    },
+    {
+        "id": 30884,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilRegistrationSettingsGUI.php",
+        "line": 533,
+        "code": "$this->lng->txt('reg_access_limitation_mode_unlimited')",
+        "has_variable": false,
+        "variable": "reg_access_limitation_mode_unlimited"
+    },
+    {
+        "id": 30886,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilRegistrationSettingsGUI.php",
+        "line": 535,
+        "code": "$this->lng->txt('reg_access_limitation_mode_absolute')",
+        "has_variable": false,
+        "variable": "reg_access_limitation_mode_absolute"
+    },
+    {
+        "id": 30888,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilRegistrationSettingsGUI.php",
+        "line": 544,
+        "code": "$this->lng->txt('reg_access_limitation_mode_relative')",
+        "has_variable": false,
+        "variable": "reg_access_limitation_mode_relative"
+    },
+    {
+        "id": 30890,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilRegistrationSettingsGUI.php",
+        "line": 566,
+        "code": "$this->lng->txt(\"save\")",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 30892,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilRegistrationSettingsGUI.php",
+        "line": 567,
+        "code": "$this->lng->txt(\"cancel\")",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 30894,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilRegistrationSettingsGUI.php",
+        "line": 618,
+        "code": "$this->lng->txt('reg_domain_already_assigned_p')",
+        "has_variable": false,
+        "variable": "reg_domain_already_assigned_p"
+    },
+    {
+        "id": 30896,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilRegistrationSettingsGUI.php",
+        "line": 620,
+        "code": "$this->lng->txt('reg_domain_already_assigned_s')",
+        "has_variable": false,
+        "variable": "reg_domain_already_assigned_s"
+    },
+    {
+        "id": 30898,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilRegistrationSettingsGUI.php",
+        "line": 625,
+        "code": "$this->lng->txt('form_input_not_valid')",
+        "has_variable": false,
+        "variable": "form_input_not_valid"
+    },
+    {
+        "id": 30900,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilRegistrationSettingsGUI.php",
+        "line": 641,
+        "code": "$this->lng->txt('settings_saved')",
+        "has_variable": false,
+        "variable": "settings_saved"
+    },
+    {
+        "id": 30902,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilRegistrationSettingsGUI.php",
+        "line": 675,
+        "code": "$this->lng->txt('reg_access_limitation_missing_mode')",
+        "has_variable": false,
+        "variable": "reg_access_limitation_missing_mode"
+    },
+    {
+        "id": 30904,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilRegistrationSettingsGUI.php",
+        "line": 679,
+        "code": "$this->lng->txt('reg_access_limitation_out_of_date')",
+        "has_variable": false,
+        "variable": "reg_access_limitation_out_of_date"
+    },
+    {
+        "id": 30906,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilRegistrationSettingsGUI.php",
+        "line": 687,
+        "code": "$this->lng->txt('settings_saved')",
+        "has_variable": false,
+        "variable": "settings_saved"
+    },
+    {
+        "id": 30908,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilRegistrationSettingsGUI.php",
+        "line": 701,
+        "code": "$this->lng->txt(\"edit\")",
+        "has_variable": false,
+        "variable": "edit"
+    },
+    {
+        "id": 30910,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilRegistrationSettingsGUI.php",
+        "line": 711,
+        "code": "$this->lng->txt('none')",
+        "has_variable": false,
+        "variable": "none"
+    },
+    {
+        "id": 30912,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilRegistrationSettingsGUI.php",
+        "line": 743,
+        "code": "$this->lng->txt('reg_default')",
+        "has_variable": false,
+        "variable": "reg_default"
+    },
+    {
+        "id": 30914,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilRegistrationSettingsGUI.php",
+        "line": 756,
+        "code": "$this->lng->txt('reg_access_limitation_limited_until')",
+        "has_variable": false,
+        "variable": "reg_access_limitation_limited_until"
+    },
+    {
+        "id": 30916,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilRegistrationSettingsGUI.php",
+        "line": 766,
+        "code": "$this->lng->txt('reg_access_limitation_limited_time')",
+        "has_variable": false,
+        "variable": "reg_access_limitation_limited_time"
+    },
+    {
+        "id": 30918,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilRegistrationSettingsGUI.php",
+        "line": 772,
+        "code": "$this->lng->txt('and')",
+        "has_variable": false,
+        "variable": "and"
+    },
+    {
+        "id": 30920,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilRegistrationSettingsGUI.php",
+        "line": 775,
+        "code": "$this->lng->txt('and')",
+        "has_variable": false,
+        "variable": "and"
+    },
+    {
+        "id": 30922,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilRegistrationSettingsGUI.php",
+        "line": 780,
+        "code": "$this->lng->txt('month')",
+        "has_variable": false,
+        "variable": "month"
+    },
+    {
+        "id": 30924,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilRegistrationSettingsGUI.php",
+        "line": 780,
+        "code": "$this->lng->txt('months')",
+        "has_variable": false,
+        "variable": "months"
+    },
+    {
+        "id": 30926,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilRegistrationSettingsGUI.php",
+        "line": 783,
+        "code": "$this->lng->txt('and')",
+        "has_variable": false,
+        "variable": "and"
+    },
+    {
+        "id": 30928,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilRegistrationSettingsGUI.php",
+        "line": 789,
+        "code": "$this->lng->txt('day')",
+        "has_variable": false,
+        "variable": "day"
+    },
+    {
+        "id": 30930,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilRegistrationSettingsGUI.php",
+        "line": 789,
+        "code": "$this->lng->txt('days')",
+        "has_variable": false,
+        "variable": "days"
+    },
+    {
+        "id": 30932,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilRegistrationSettingsGUI.php",
+        "line": 794,
+        "code": "$this->lng->txt('reg_access_limitation_none')",
+        "has_variable": false,
+        "variable": "reg_access_limitation_none"
+    },
+    {
+        "id": 30934,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilRegistrationSettingsGUI.php",
+        "line": 824,
+        "code": "$this->lng->txt('registration_codes_add')",
+        "has_variable": false,
+        "variable": "registration_codes_add"
+    },
+    {
+        "id": 30936,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilRegistrationSettingsGUI.php",
+        "line": 873,
+        "code": "$this->lng->txt('registration_codes_edit_header')",
+        "has_variable": false,
+        "variable": "registration_codes_edit_header"
+    },
+    {
+        "id": 30938,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilRegistrationSettingsGUI.php",
+        "line": 875,
+        "code": "$this->lng->txt('registration_codes_number')",
+        "has_variable": false,
+        "variable": "registration_codes_number"
+    },
+    {
+        "id": 30940,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilRegistrationSettingsGUI.php",
+        "line": 884,
+        "code": "$this->lng->txt('registration_codes_type')",
+        "has_variable": false,
+        "variable": "registration_codes_type"
+    },
+    {
+        "id": 30942,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilRegistrationSettingsGUI.php",
+        "line": 889,
+        "code": "$this->lng->txt('registration_codes_type_reg')",
+        "has_variable": false,
+        "variable": "registration_codes_type_reg"
+    },
+    {
+        "id": 30944,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilRegistrationSettingsGUI.php",
+        "line": 891,
+        "code": "$this->lng->txt('registration_codes_type_reg_info')",
+        "has_variable": false,
+        "variable": "registration_codes_type_reg_info"
+    },
+    {
+        "id": 30946,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilRegistrationSettingsGUI.php",
+        "line": 896,
+        "code": "$this->lng->txt('registration_codes_type_ext')",
+        "has_variable": false,
+        "variable": "registration_codes_type_ext"
+    },
+    {
+        "id": 30948,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilRegistrationSettingsGUI.php",
+        "line": 898,
+        "code": "$this->lng->txt('registration_codes_type_ext_info')",
+        "has_variable": false,
+        "variable": "registration_codes_type_ext_info"
+    },
+    {
+        "id": 30950,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilRegistrationSettingsGUI.php",
+        "line": 904,
+        "code": "$this->lng->txt('registration_codes_roles_title')",
+        "has_variable": false,
+        "variable": "registration_codes_roles_title"
+    },
+    {
+        "id": 30952,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilRegistrationSettingsGUI.php",
+        "line": 907,
+        "code": "$this->lng->txt('registration_codes_no_assigned_role')",
+        "has_variable": false,
+        "variable": "registration_codes_no_assigned_role"
+    },
+    {
+        "id": 30954,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilRegistrationSettingsGUI.php",
+        "line": 913,
+        "code": "$this->lng->txt(\"registration_codes_roles\")",
+        "has_variable": false,
+        "variable": "registration_codes_roles"
+    },
+    {
+        "id": 30956,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilRegistrationSettingsGUI.php",
+        "line": 914,
+        "code": "$this->lng->txt(\"registration_codes_override_info\")",
+        "has_variable": false,
+        "variable": "registration_codes_override_info"
+    },
+    {
+        "id": 30958,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilRegistrationSettingsGUI.php",
+        "line": 918,
+        "code": "$this->lng->txt(\"registration_codes_roles_local\")",
+        "has_variable": false,
+        "variable": "registration_codes_roles_local"
+    },
+    {
+        "id": 30960,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilRegistrationSettingsGUI.php",
+        "line": 924,
+        "code": "$this->lng->txt('reg_access_limitations')",
+        "has_variable": false,
+        "variable": "reg_access_limitations"
+    },
+    {
+        "id": 30962,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilRegistrationSettingsGUI.php",
+        "line": 927,
+        "code": "$this->lng->txt(\"reg_access_limitation_mode\")",
+        "has_variable": false,
+        "variable": "reg_access_limitation_mode"
+    },
+    {
+        "id": 30964,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilRegistrationSettingsGUI.php",
+        "line": 928,
+        "code": "$this->lng->txt(\"registration_codes_override_info\")",
+        "has_variable": false,
+        "variable": "registration_codes_override_info"
+    },
+    {
+        "id": 30966,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilRegistrationSettingsGUI.php",
+        "line": 931,
+        "code": "$this->lng->txt(\"registration_codes_roles_limitation_none\")",
+        "has_variable": false,
+        "variable": "registration_codes_roles_limitation_none"
+    },
+    {
+        "id": 30968,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilRegistrationSettingsGUI.php",
+        "line": 934,
+        "code": "$this->lng->txt(\"reg_access_limitation_none\")",
+        "has_variable": false,
+        "variable": "reg_access_limitation_none"
+    },
+    {
+        "id": 30970,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilRegistrationSettingsGUI.php",
+        "line": 937,
+        "code": "$this->lng->txt(\"reg_access_limitation_mode_absolute\")",
+        "has_variable": false,
+        "variable": "reg_access_limitation_mode_absolute"
+    },
+    {
+        "id": 30972,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilRegistrationSettingsGUI.php",
+        "line": 940,
+        "code": "$this->lng->txt(\"reg_access_limitation_mode_absolute_target\")",
+        "has_variable": false,
+        "variable": "reg_access_limitation_mode_absolute_target"
+    },
+    {
+        "id": 30974,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilRegistrationSettingsGUI.php",
+        "line": 944,
+        "code": "$this->lng->txt(\"reg_access_limitation_mode_relative\")",
+        "has_variable": false,
+        "variable": "reg_access_limitation_mode_relative"
+    },
+    {
+        "id": 30976,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilRegistrationSettingsGUI.php",
+        "line": 947,
+        "code": "$this->lng->txt(\"reg_access_limitation_mode_relative_target\")",
+        "has_variable": false,
+        "variable": "reg_access_limitation_mode_relative_target"
+    },
+    {
+        "id": 30978,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilRegistrationSettingsGUI.php",
+        "line": 955,
+        "code": "$this->lng->txt('create')",
+        "has_variable": false,
+        "variable": "create"
+    },
+    {
+        "id": 30980,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilRegistrationSettingsGUI.php",
+        "line": 956,
+        "code": "$this->lng->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 30982,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilRegistrationSettingsGUI.php",
+        "line": 1015,
+        "code": "$this->lng->txt(\"form_msg_wrong_date\")",
+        "has_variable": false,
+        "variable": "form_msg_wrong_date"
+    },
+    {
+        "id": 30984,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilRegistrationSettingsGUI.php",
+        "line": 1055,
+        "code": "$this->lng->txt('saved_successfully')",
+        "has_variable": false,
+        "variable": "saved_successfully"
+    },
+    {
+        "id": 30986,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilRegistrationSettingsGUI.php",
+        "line": 1077,
+        "code": "$this->lng->txt('info_deleted')",
+        "has_variable": false,
+        "variable": "info_deleted"
+    },
+    {
+        "id": 30988,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilRegistrationSettingsGUI.php",
+        "line": 1100,
+        "code": "$this->lng->txt('err_select_one')",
+        "has_variable": false,
+        "variable": "err_select_one"
+    },
+    {
+        "id": 30990,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilRegistrationSettingsGUI.php",
+        "line": 1106,
+        "code": "$this->lng->txt('info_delete_sure')",
+        "has_variable": false,
+        "variable": "info_delete_sure"
+    },
+    {
+        "id": 30992,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilRegistrationSettingsGUI.php",
+        "line": 1107,
+        "code": "$this->lng->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 30994,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilRegistrationSettingsGUI.php",
+        "line": 1108,
+        "code": "$this->lng->txt('confirm')",
+        "has_variable": false,
+        "variable": "confirm"
+    },
+    {
+        "id": 30996,
+        "file": "components\/ILIAS\/Registration\/classes\/class.ilRegistrationSettingsGUI.php",
+        "line": 1147,
+        "code": "$this->lng->txt('registration_export_codes_no_data')",
+        "has_variable": false,
+        "variable": "registration_export_codes_no_data"
+    },
+    {
+        "id": 30998,
+        "file": "components\/ILIAS\/Registration\/src\/DualOptIn\/Cron\/DeleteExpiredPendingRegistrationsCronJob.php",
+        "line": 60,
+        "code": "$this->lng->txt('reg_delete_expired_pending_registrations')",
+        "has_variable": false,
+        "variable": "reg_delete_expired_pending_registrations"
+    },
+    {
+        "id": 31000,
+        "file": "components\/ILIAS\/Registration\/src\/DualOptIn\/Cron\/DeleteExpiredPendingRegistrationsCronJob.php",
+        "line": 67,
+        "code": "$this->lng->txt('reg_delete_expired_pending_registrations_desc')",
+        "has_variable": false,
+        "variable": "reg_delete_expired_pending_registrations_desc"
+    },
+    {
+        "id": 31002,
+        "file": "components\/ILIAS\/Registration\/src\/RegistrationCodesTable.php",
+        "line": 188,
+        "code": "$this->lng->txt('deleted')",
+        "has_variable": false,
+        "variable": "deleted"
+    },
+    {
+        "id": 31004,
+        "file": "components\/ILIAS\/Registration\/src\/RegistrationCodesTable.php",
+        "line": 212,
+        "code": "$this->lng->txt('reg_access_limitation_none')",
+        "has_variable": false,
+        "variable": "reg_access_limitation_none"
+    },
+    {
+        "id": 31006,
+        "file": "components\/ILIAS\/Registration\/src\/RegistrationCodesTable.php",
+        "line": 216,
+        "code": "$this->lng->txt('reg_access_limitation_mode_absolute_target')",
+        "has_variable": false,
+        "variable": "reg_access_limitation_mode_absolute_target"
+    },
+    {
+        "id": 31008,
+        "file": "components\/ILIAS\/Registration\/src\/RegistrationCodesTable.php",
+        "line": 233,
+        "code": "$this->lng->txt('days')",
+        "has_variable": false,
+        "variable": "days"
+    },
+    {
+        "id": 31010,
+        "file": "components\/ILIAS\/Registration\/src\/RegistrationCodesTable.php",
+        "line": 236,
+        "code": "$this->lng->txt('months')",
+        "has_variable": false,
+        "variable": "months"
+    },
+    {
+        "id": 31012,
+        "file": "components\/ILIAS\/Registration\/src\/RegistrationCodesTable.php",
+        "line": 239,
+        "code": "$this->lng->txt('years')",
+        "has_variable": false,
+        "variable": "years"
+    },
+    {
+        "id": 31014,
+        "file": "components\/ILIAS\/Registration\/src\/RegistrationCodesTable.php",
+        "line": 242,
+        "code": "$this->lng->txt('reg_access_limitation_mode_relative_target')",
+        "has_variable": false,
+        "variable": "reg_access_limitation_mode_relative_target"
+    },
+    {
+        "id": 31016,
+        "file": "components\/ILIAS\/Registration\/src\/RegistrationCodesTable.php",
+        "line": 263,
+        "code": "$this->lng->txt('registration_codes_export')",
+        "has_variable": false,
+        "variable": "registration_codes_export"
+    },
+    {
+        "id": 31018,
+        "file": "components\/ILIAS\/Registration\/src\/RegistrationCodesTable.php",
+        "line": 270,
+        "code": "$this->lng->txt('delete')",
+        "has_variable": false,
+        "variable": "delete"
+    },
+    {
+        "id": 31020,
+        "file": "components\/ILIAS\/Registration\/src\/RegistrationCodesTable.php",
+        "line": 292,
+        "code": "$this->lng->txt('registration_code')",
+        "has_variable": false,
+        "variable": "registration_code"
+    },
+    {
+        "id": 31022,
+        "file": "components\/ILIAS\/Registration\/src\/RegistrationCodesTable.php",
+        "line": 294,
+        "code": "$this->lng->txt('registration_codes_roles')",
+        "has_variable": false,
+        "variable": "registration_codes_roles"
+    },
+    {
+        "id": 31024,
+        "file": "components\/ILIAS\/Registration\/src\/RegistrationCodesTable.php",
+        "line": 296,
+        "code": "$this->lng->txt('registration_codes_roles_local')",
+        "has_variable": false,
+        "variable": "registration_codes_roles_local"
+    },
+    {
+        "id": 31026,
+        "file": "components\/ILIAS\/Registration\/src\/RegistrationCodesTable.php",
+        "line": 299,
+        "code": "$this->lng->txt('reg_access_limitations')",
+        "has_variable": false,
+        "variable": "reg_access_limitations"
+    },
+    {
+        "id": 31028,
+        "file": "components\/ILIAS\/Registration\/src\/RegistrationCodesTable.php",
+        "line": 302,
+        "code": "$this->lng->txt('registration_generated')",
+        "has_variable": false,
+        "variable": "registration_generated"
+    },
+    {
+        "id": 31030,
+        "file": "components\/ILIAS\/Registration\/src\/RegistrationCodesTable.php",
+        "line": 304,
+        "code": "$this->lng->txt('registration_used')",
+        "has_variable": false,
+        "variable": "registration_used"
+    },
+    {
+        "id": 31032,
+        "file": "components\/ILIAS\/Registration\/src\/RegistrationFilterComponent.php",
+        "line": 82,
+        "code": "$this->lng->txt('registration_code')",
+        "has_variable": false,
+        "variable": "registration_code"
+    },
+    {
+        "id": 31034,
+        "file": "components\/ILIAS\/Registration\/src\/RegistrationFilterComponent.php",
+        "line": 95,
+        "code": "$this->lng->txt('registration_roles_all')",
+        "has_variable": false,
+        "variable": "registration_roles_all"
+    },
+    {
+        "id": 31036,
+        "file": "components\/ILIAS\/Registration\/src\/RegistrationFilterComponent.php",
+        "line": 96,
+        "code": "$this->lng->txt('role')",
+        "has_variable": false,
+        "variable": "role"
+    },
+    {
+        "id": 31038,
+        "file": "components\/ILIAS\/Registration\/src\/RegistrationFilterComponent.php",
+        "line": 99,
+        "code": "$this->lng->txt('registration_codes_access_limitation_all')",
+        "has_variable": false,
+        "variable": "registration_codes_access_limitation_all"
+    },
+    {
+        "id": 31040,
+        "file": "components\/ILIAS\/Registration\/src\/RegistrationFilterComponent.php",
+        "line": 100,
+        "code": "$this->lng->txt('reg_access_limitation_none')",
+        "has_variable": false,
+        "variable": "reg_access_limitation_none"
+    },
+    {
+        "id": 31042,
+        "file": "components\/ILIAS\/Registration\/src\/RegistrationFilterComponent.php",
+        "line": 101,
+        "code": "$this->lng->txt('reg_access_limitation_mode_absolute')",
+        "has_variable": false,
+        "variable": "reg_access_limitation_mode_absolute"
+    },
+    {
+        "id": 31044,
+        "file": "components\/ILIAS\/Registration\/src\/RegistrationFilterComponent.php",
+        "line": 102,
+        "code": "$this->lng->txt('reg_access_limitation_mode_relative')",
+        "has_variable": false,
+        "variable": "reg_access_limitation_mode_relative"
+    },
+    {
+        "id": 31046,
+        "file": "components\/ILIAS\/Registration\/src\/RegistrationFilterComponent.php",
+        "line": 104,
+        "code": "$this->lng->txt('reg_access_limitations')",
+        "has_variable": false,
+        "variable": "reg_access_limitations"
+    },
+    {
+        "id": 31048,
+        "file": "components\/ILIAS\/Registration\/src\/RegistrationFilterComponent.php",
+        "line": 106,
+        "code": "$this->lng->txt('registration_generated_all')",
+        "has_variable": false,
+        "variable": "registration_generated_all"
+    },
+    {
+        "id": 31050,
+        "file": "components\/ILIAS\/Registration\/src\/RegistrationFilterComponent.php",
+        "line": 110,
+        "code": "$this->lng->txt('registration_generated')",
+        "has_variable": false,
+        "variable": "registration_generated"
+    }
+]

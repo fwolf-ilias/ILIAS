@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "type": "full",
+        "count": 1,
+        "description": "Variable usages without detectable prefixes or suffixes (pure variable references without static strings)"
+    },
+    "matches": [
+        {
+            "id": 30708,
+            "file": "components\/ILIAS\/Registration\/classes\/class.ilAccountRegistrationGUI.php",
+            "line": 290,
+            "code": "$this->lng->txt($error_lng_var)",
+            "variable": "$error_lng_var",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        }
+    ]
+}

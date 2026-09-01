@@ -1,0 +1,31 @@
+{
+    "metadata": {
+        "type": "full",
+        "count": 2,
+        "description": "Variable usages without detectable prefixes or suffixes (pure variable references without static strings)"
+    },
+    "matches": [
+        {
+            "id": 48720,
+            "file": "components\/ILIAS\/WebResource\/classes\/class.ilObjLinkResourceGUI.php",
+            "line": 1096,
+            "code": "$this->lng->txt(ilWebLinkBaseParameter::VALUES_TEXT[$identifier])",
+            "variable": "W",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 48804,
+            "file": "components\/ILIAS\/WebResource\/classes\/class.ilWebResourceEditableLinkTableGUI.php",
+            "line": 299,
+            "code": "$this->lng->txt(ilWebLinkBaseParameter::VALUES_TEXT[$identifier])",
+            "variable": "W",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        }
+    ]
+}

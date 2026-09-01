@@ -1,0 +1,306 @@
+[
+    {
+        "id": 21442,
+        "file": "components\/ILIAS\/ItemGroup\/classes\/class.ilItemGroupBehaviour.php",
+        "line": 39,
+        "code": "$lng->txt(\"itgr_always_open\")",
+        "has_variable": false,
+        "variable": "itgr_always_open"
+    },
+    {
+        "id": 21444,
+        "file": "components\/ILIAS\/ItemGroup\/classes\/class.ilItemGroupBehaviour.php",
+        "line": 40,
+        "code": "$lng->txt(\"itgr_expandable_closed\")",
+        "has_variable": false,
+        "variable": "itgr_expandable_closed"
+    },
+    {
+        "id": 21446,
+        "file": "components\/ILIAS\/ItemGroup\/classes\/class.ilItemGroupBehaviour.php",
+        "line": 41,
+        "code": "$lng->txt(\"itgr_expandable_open\")",
+        "has_variable": false,
+        "variable": "itgr_expandable_open"
+    },
+    {
+        "id": 21448,
+        "file": "components\/ILIAS\/ItemGroup\/classes\/class.ilItemGroupItemsTableGUI.php",
+        "line": 58,
+        "code": "$this->lng->txt('itgr_assigned_materials')",
+        "has_variable": false,
+        "variable": "itgr_assigned_materials"
+    },
+    {
+        "id": 21450,
+        "file": "components\/ILIAS\/ItemGroup\/classes\/class.ilItemGroupItemsTableGUI.php",
+        "line": 61,
+        "code": "$this->lng->txt('itgr_item')",
+        "has_variable": false,
+        "variable": "itgr_item"
+    },
+    {
+        "id": 21452,
+        "file": "components\/ILIAS\/ItemGroup\/classes\/class.ilItemGroupItemsTableGUI.php",
+        "line": 62,
+        "code": "$this->lng->txt('itgr_assignment')",
+        "has_variable": false,
+        "variable": "itgr_assignment"
+    },
+    {
+        "id": 21454,
+        "file": "components\/ILIAS\/ItemGroup\/classes\/class.ilItemGroupItemsTableGUI.php",
+        "line": 63,
+        "code": "$this->lng->txt('itgr_assignment_to_other_itgr')",
+        "has_variable": false,
+        "variable": "itgr_assignment_to_other_itgr"
+    },
+    {
+        "id": 21456,
+        "file": "components\/ILIAS\/ItemGroup\/classes\/class.ilItemGroupItemsTableGUI.php",
+        "line": 69,
+        "code": "$this->lng->txt('save')",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 21458,
+        "file": "components\/ILIAS\/ItemGroup\/classes\/class.ilItemGroupItemsTableGUI.php",
+        "line": 116,
+        "code": "$this->lng->txt('yes')",
+        "has_variable": false,
+        "variable": "yes"
+    },
+    {
+        "id": 21460,
+        "file": "components\/ILIAS\/ItemGroup\/classes\/class.ilItemGroupItemsTableGUI.php",
+        "line": 122,
+        "code": "$this->lng->txt('no')",
+        "has_variable": false,
+        "variable": "no"
+    },
+    {
+        "id": 21462,
+        "file": "components\/ILIAS\/ItemGroup\/classes\/class.ilObjItemGroupGUI.php",
+        "line": 147,
+        "code": "$this->lng->txt('obj_presentation')",
+        "has_variable": false,
+        "variable": "obj_presentation"
+    },
+    {
+        "id": 21464,
+        "file": "components\/ILIAS\/ItemGroup\/classes\/class.ilObjItemGroupGUI.php",
+        "line": 151,
+        "code": "$this->lng->txt('itgr_display')",
+        "has_variable": false,
+        "variable": "itgr_display"
+    },
+    {
+        "id": 21466,
+        "file": "components\/ILIAS\/ItemGroup\/classes\/class.ilObjItemGroupGUI.php",
+        "line": 156,
+        "code": "$this->lng->txt('itgr_display_without_title')",
+        "has_variable": false,
+        "variable": "itgr_display_without_title"
+    },
+    {
+        "id": 21468,
+        "file": "components\/ILIAS\/ItemGroup\/classes\/class.ilObjItemGroupGUI.php",
+        "line": 162,
+        "code": "$this->lng->txt('itgr_display_with_title')",
+        "has_variable": false,
+        "variable": "itgr_display_with_title"
+    },
+    {
+        "id": 21470,
+        "file": "components\/ILIAS\/ItemGroup\/classes\/class.ilObjItemGroupGUI.php",
+        "line": 168,
+        "code": "$this->lng->txt('itgr_display_with_title_and_toggleable')",
+        "has_variable": false,
+        "variable": "itgr_display_with_title_and_toggleable"
+    },
+    {
+        "id": 21472,
+        "file": "components\/ILIAS\/ItemGroup\/classes\/class.ilObjItemGroupGUI.php",
+        "line": 172,
+        "code": "$this->lng->txt('itgr_display_with_title_and_toggleable')",
+        "has_variable": false,
+        "variable": "itgr_display_with_title_and_toggleable"
+    },
+    {
+        "id": 21474,
+        "file": "components\/ILIAS\/ItemGroup\/classes\/class.ilObjItemGroupGUI.php",
+        "line": 178,
+        "code": "$this->lng->txt('itgr_display_with_title_and_toggleable_initially_closed')",
+        "has_variable": false,
+        "variable": "itgr_display_with_title_and_toggleable_initially_closed"
+    },
+    {
+        "id": 21476,
+        "file": "components\/ILIAS\/ItemGroup\/classes\/class.ilObjItemGroupGUI.php",
+        "line": 184,
+        "code": "$this->lng->txt('itgr_display_with_title_and_toggleable_initially_open')",
+        "has_variable": false,
+        "variable": "itgr_display_with_title_and_toggleable_initially_open"
+    },
+    {
+        "id": 21478,
+        "file": "components\/ILIAS\/ItemGroup\/classes\/class.ilObjItemGroupGUI.php",
+        "line": 192,
+        "code": "$this->lng->txt('itgr_list_presentation')",
+        "has_variable": false,
+        "variable": "itgr_list_presentation"
+    },
+    {
+        "id": 21480,
+        "file": "components\/ILIAS\/ItemGroup\/classes\/class.ilObjItemGroupGUI.php",
+        "line": 194,
+        "code": "$this->lng->txt('itgr_list_default')",
+        "has_variable": false,
+        "variable": "itgr_list_default"
+    },
+    {
+        "id": 21482,
+        "file": "components\/ILIAS\/ItemGroup\/classes\/class.ilObjItemGroupGUI.php",
+        "line": 195,
+        "code": "$this->lng->txt('itgr_list_default_info')",
+        "has_variable": false,
+        "variable": "itgr_list_default_info"
+    },
+    {
+        "id": 21484,
+        "file": "components\/ILIAS\/ItemGroup\/classes\/class.ilObjItemGroupGUI.php",
+        "line": 198,
+        "code": "$this->lng->txt('itgr_list')",
+        "has_variable": false,
+        "variable": "itgr_list"
+    },
+    {
+        "id": 21486,
+        "file": "components\/ILIAS\/ItemGroup\/classes\/class.ilObjItemGroupGUI.php",
+        "line": 201,
+        "code": "$this->lng->txt('itgr_tile')",
+        "has_variable": false,
+        "variable": "itgr_tile"
+    },
+    {
+        "id": 21488,
+        "file": "components\/ILIAS\/ItemGroup\/classes\/class.ilObjItemGroupGUI.php",
+        "line": 205,
+        "code": "$this->lng->txt(\"itgr_tile_size\")",
+        "has_variable": false,
+        "variable": "itgr_tile_size"
+    },
+    {
+        "id": 21490,
+        "file": "components\/ILIAS\/ItemGroup\/classes\/class.ilObjItemGroupGUI.php",
+        "line": 222,
+        "code": "$this->lng->txt(\"msg_no_perm_write\")",
+        "has_variable": false,
+        "variable": "msg_no_perm_write"
+    },
+    {
+        "id": 21492,
+        "file": "components\/ILIAS\/ItemGroup\/classes\/class.ilObjItemGroupGUI.php",
+        "line": 307,
+        "code": "$this->lng->txt('msg_obj_modified')",
+        "has_variable": false,
+        "variable": "msg_obj_modified"
+    },
+    {
+        "id": 21494,
+        "file": "components\/ILIAS\/ItemGroup\/classes\/class.ilObjItemGroupGUI.php",
+        "line": 331,
+        "code": "$lng->txt('obj_' . $parent_type)",
+        "has_variable": true,
+        "variable": "'obj_' . $parent_type"
+    },
+    {
+        "id": 21496,
+        "file": "components\/ILIAS\/ItemGroup\/classes\/class.ilObjItemGroupGUI.php",
+        "line": 339,
+        "code": "$lng->txt('itgr_materials')",
+        "has_variable": false,
+        "variable": "itgr_materials"
+    },
+    {
+        "id": 21498,
+        "file": "components\/ILIAS\/ItemGroup\/classes\/class.ilObjItemGroupGUI.php",
+        "line": 345,
+        "code": "$lng->txt('settings')",
+        "has_variable": false,
+        "variable": "settings"
+    },
+    {
+        "id": 21500,
+        "file": "components\/ILIAS\/ItemGroup\/classes\/class.ilObjItemGroupGUI.php",
+        "line": 353,
+        "code": "$lng->txt('perm_settings')",
+        "has_variable": false,
+        "variable": "perm_settings"
+    },
+    {
+        "id": 21502,
+        "file": "components\/ILIAS\/ItemGroup\/classes\/class.ilObjItemGroupGUI.php",
+        "line": 363,
+        "code": "$this->lng->txt(\"settings\")",
+        "has_variable": false,
+        "variable": "settings"
+    },
+    {
+        "id": 21504,
+        "file": "components\/ILIAS\/ItemGroup\/classes\/class.ilObjItemGroupGUI.php",
+        "line": 369,
+        "code": "$this->lng->txt(\"obj_multilinguality\")",
+        "has_variable": false,
+        "variable": "obj_multilinguality"
+    },
+    {
+        "id": 21506,
+        "file": "components\/ILIAS\/ItemGroup\/classes\/class.ilObjItemGroupGUI.php",
+        "line": 394,
+        "code": "$lng->txt(\"msg_no_perm_read_item\")",
+        "has_variable": false,
+        "variable": "msg_no_perm_read_item"
+    },
+    {
+        "id": 21508,
+        "file": "components\/ILIAS\/ItemGroup\/classes\/class.ilObjItemGroupGUI.php",
+        "line": 400,
+        "code": "$lng->txt(\"msg_no_perm_read\")",
+        "has_variable": false,
+        "variable": "msg_no_perm_read"
+    },
+    {
+        "id": 21510,
+        "file": "components\/ILIAS\/ItemGroup\/classes\/class.ilObjItemGroupGUI.php",
+        "line": 457,
+        "code": "$this->lng->txt('title')",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 21512,
+        "file": "components\/ILIAS\/ItemGroup\/classes\/class.ilObjItemGroupGUI.php",
+        "line": 470,
+        "code": "$this->lng->txt($new_type . '_add')",
+        "has_variable": true,
+        "variable": "$new_type . '_add'"
+    },
+    {
+        "id": 21514,
+        "file": "components\/ILIAS\/ItemGroup\/classes\/class.ilObjItemGroupGUI.php",
+        "line": 477,
+        "code": "$this->lng->txt(\"no_create_permission\")",
+        "has_variable": false,
+        "variable": "no_create_permission"
+    },
+    {
+        "id": 21516,
+        "file": "components\/ILIAS\/ItemGroup\/classes\/class.ilObjItemGroupGUI.php",
+        "line": 507,
+        "code": "$this->lng->txt(\"object_added\")",
+        "has_variable": false,
+        "variable": "object_added"
+    }
+]

@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "type": "full",
+        "count": 8,
+        "description": "Variable usages without detectable prefixes or suffixes (pure variable references without static strings)"
+    },
+    "matches": [
+        {
+            "id": 35966,
+            "file": "components\/ILIAS\/Style\/Content\/Characteristic\/Inputs\/class.ilBackgroundPositionInputGUI.php",
+            "line": 201,
+            "code": "$lng->txt(\"sty_$dir\")",
+            "variable": "sty_$dir",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 35978,
+            "file": "components\/ILIAS\/Style\/Content\/Characteristic\/Inputs\/class.ilTRBLBorderStyleInputGUI.php",
+            "line": 179,
+            "code": "$lng->txt(\"sty_$dir\")",
+            "variable": "sty_$dir",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 35984,
+            "file": "components\/ILIAS\/Style\/Content\/Characteristic\/Inputs\/class.ilTRBLBorderWidthInputGUI.php",
+            "line": 225,
+            "code": "$lng->txt(\"sty_$dir\")",
+            "variable": "sty_$dir",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 35986,
+            "file": "components\/ILIAS\/Style\/Content\/Characteristic\/Inputs\/class.ilTRBLColorPickerInputGUI.php",
+            "line": 220,
+            "code": "$lng->txt(\"sty_$dir\")",
+            "variable": "sty_$dir",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 35992,
+            "file": "components\/ILIAS\/Style\/Content\/Characteristic\/Inputs\/class.ilTRBLNumericStyleValueInputGUI.php",
+            "line": 207,
+            "code": "$lng->txt(\"sty_$dir\")",
+            "variable": "sty_$dir",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 36562,
+            "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilPasteStyleCharacteristicTableGUI.php",
+            "line": 68,
+            "code": "$lng->txt(\"\")",
+            "variable": "",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 36702,
+            "file": "components\/ILIAS\/Style\/System\/classes\/Overview\/class.ilSystemStylesTableGUI.php",
+            "line": 41,
+            "code": "$this->lng->txt('')",
+            "variable": "",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 36738,
+            "file": "components\/ILIAS\/Style\/System\/classes\/UserSettings\/Style.php",
+            "line": 53,
+            "code": "$lng->txt($this->getIdentifier())",
+            "variable": "$this->getIdentifier()",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        }
+    ]
+}

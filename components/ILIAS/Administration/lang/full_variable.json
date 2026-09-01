@@ -1,0 +1,42 @@
+{
+    "metadata": {
+        "type": "full",
+        "count": 3,
+        "description": "Variable usages without detectable prefixes or suffixes (pure variable references without static strings)"
+    },
+    "matches": [
+        {
+            "id": 1256,
+            "file": "components\/ILIAS\/Administration\/classes\/class.ilAdministrationSettingsFormHandler.php",
+            "line": 289,
+            "code": "$lng->txt($sub_caption_id)",
+            "variable": "$sub_caption_id",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 1258,
+            "file": "components\/ILIAS\/Administration\/classes\/class.ilAdministrationSettingsFormHandler.php",
+            "line": 296,
+            "code": "$lng->txt($field_caption_id)",
+            "variable": "$field_caption_id",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 1262,
+            "file": "components\/ILIAS\/Administration\/classes\/class.ilAdministrationSettingsFormHandler.php",
+            "line": 313,
+            "code": "$lng->txt($area_caption)",
+            "variable": "$area_caption",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        }
+    ]
+}

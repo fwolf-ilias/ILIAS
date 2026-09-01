@@ -1,0 +1,114 @@
+[
+    {
+        "id": 31054,
+        "file": "components\/ILIAS\/RemoteCourse\/classes\/class.ilObjRemoteCourseAccess.php",
+        "line": 66,
+        "code": "$this->lng->txt(\"offline\")",
+        "has_variable": false,
+        "variable": "offline"
+    },
+    {
+        "id": 31056,
+        "file": "components\/ILIAS\/RemoteCourse\/classes\/class.ilObjRemoteCourseAccess.php",
+        "line": 81,
+        "code": "$this->lng->txt(\"offline\")",
+        "has_variable": false,
+        "variable": "offline"
+    },
+    {
+        "id": 31058,
+        "file": "components\/ILIAS\/RemoteCourse\/classes\/class.ilObjRemoteCourseGUI.php",
+        "line": 49,
+        "code": "$this->lng->txt('crs_visibility')",
+        "has_variable": false,
+        "variable": "crs_visibility"
+    },
+    {
+        "id": 31060,
+        "file": "components\/ILIAS\/RemoteCourse\/classes\/class.ilObjRemoteCourseGUI.php",
+        "line": 56,
+        "code": "$this->lng->txt('offline')",
+        "has_variable": false,
+        "variable": "offline"
+    },
+    {
+        "id": 31062,
+        "file": "components\/ILIAS\/RemoteCourse\/classes\/class.ilObjRemoteCourseGUI.php",
+        "line": 59,
+        "code": "$this->lng->txt('crs_unlimited')",
+        "has_variable": false,
+        "variable": "crs_unlimited"
+    },
+    {
+        "id": 31064,
+        "file": "components\/ILIAS\/RemoteCourse\/classes\/class.ilObjRemoteCourseGUI.php",
+        "line": 72,
+        "code": "$this->lng->txt('crs_visibility')",
+        "has_variable": false,
+        "variable": "crs_visibility"
+    },
+    {
+        "id": 31066,
+        "file": "components\/ILIAS\/RemoteCourse\/classes\/class.ilObjRemoteCourseGUI.php",
+        "line": 77,
+        "code": "$this->lng->txt('crs_visibility_unvisible')",
+        "has_variable": false,
+        "variable": "crs_visibility_unvisible"
+    },
+    {
+        "id": 31068,
+        "file": "components\/ILIAS\/RemoteCourse\/classes\/class.ilObjRemoteCourseGUI.php",
+        "line": 83,
+        "code": "$this->lng->txt('crs_visibility_limitless')",
+        "has_variable": false,
+        "variable": "crs_visibility_limitless"
+    },
+    {
+        "id": 31070,
+        "file": "components\/ILIAS\/RemoteCourse\/classes\/class.ilObjRemoteCourseGUI.php",
+        "line": 90,
+        "code": "$this->lng->txt('crs_visibility_until')",
+        "has_variable": false,
+        "variable": "crs_visibility_until"
+    },
+    {
+        "id": 31072,
+        "file": "components\/ILIAS\/RemoteCourse\/classes\/class.ilObjRemoteCourseGUI.php",
+        "line": 94,
+        "code": "$this->lng->txt('crs_start')",
+        "has_variable": false,
+        "variable": "crs_start"
+    },
+    {
+        "id": 31074,
+        "file": "components\/ILIAS\/RemoteCourse\/classes\/class.ilObjRemoteCourseGUI.php",
+        "line": 99,
+        "code": "$this->lng->txt('crs_end')",
+        "has_variable": false,
+        "variable": "crs_end"
+    },
+    {
+        "id": 31076,
+        "file": "components\/ILIAS\/RemoteCourse\/classes\/class.ilObjRemoteCourseListGUI.php",
+        "line": 82,
+        "code": "$lng->txt('organization')",
+        "has_variable": false,
+        "variable": "organization"
+    },
+    {
+        "id": 31078,
+        "file": "components\/ILIAS\/RemoteCourse\/classes\/class.ilObjRemoteCourseListGUI.php",
+        "line": 85,
+        "code": "$lng->txt(\"status\")",
+        "has_variable": false,
+        "variable": "status"
+    },
+    {
+        "id": 31080,
+        "file": "components\/ILIAS\/RemoteCourse\/classes\/class.ilObjRemoteCourseListGUI.php",
+        "line": 85,
+        "code": "$lng->txt(\"offline\")",
+        "has_variable": false,
+        "variable": "offline"
+    }
+]

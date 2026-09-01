@@ -1,0 +1,34 @@
+[
+    {
+        "id": 24910,
+        "file": "components\/ILIAS\/Locator\/classes\/class.ilLocatorGUI.php",
+        "line": 144,
+        "code": "$this->lng->txt(\"repository\")",
+        "has_variable": false,
+        "variable": "repository"
+    },
+    {
+        "id": 24912,
+        "file": "components\/ILIAS\/Locator\/classes\/class.ilLocatorGUI.php",
+        "line": 183,
+        "code": "$lng->txt(\"repository\")",
+        "has_variable": false,
+        "variable": "repository"
+    },
+    {
+        "id": 24914,
+        "file": "components\/ILIAS\/Locator\/classes\/class.ilLocatorGUI.php",
+        "line": 240,
+        "code": "$this->lng->txt(\"repository\")",
+        "has_variable": false,
+        "variable": "repository"
+    },
+    {
+        "id": 24916,
+        "file": "components\/ILIAS\/Locator\/classes\/class.ilLocatorGUI.php",
+        "line": 334,
+        "code": "$lng->txt(\"obj_\" . $type)",
+        "has_variable": true,
+        "variable": "\"obj_\" . $type"
+    }
+]

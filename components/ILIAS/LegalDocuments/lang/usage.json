@@ -1,0 +1,810 @@
+[
+    {
+        "id": 24678,
+        "file": "components\/ILIAS\/LegalDocuments\/classes\/Administration.php",
+        "line": 88,
+        "code": "$this->ui->txt('sure_delete_documents_p')",
+        "has_variable": false,
+        "variable": "sure_delete_documents_p"
+    },
+    {
+        "id": 24680,
+        "file": "components\/ILIAS\/LegalDocuments\/classes\/Administration.php",
+        "line": 322,
+        "code": "$this->ui->txt('form_criterion')",
+        "has_variable": false,
+        "variable": "form_criterion"
+    },
+    {
+        "id": 24682,
+        "file": "components\/ILIAS\/LegalDocuments\/classes\/Administration.php",
+        "line": 330,
+        "code": "$this->ui->txt('form_criterion_standard_fields_info_text')",
+        "has_variable": false,
+        "variable": "form_criterion_standard_fields_info_text"
+    },
+    {
+        "id": 24684,
+        "file": "components\/ILIAS\/LegalDocuments\/classes\/Administration.php",
+        "line": 333,
+        "code": "$this->ui->txt('form_document')",
+        "has_variable": false,
+        "variable": "form_document"
+    },
+    {
+        "id": 24686,
+        "file": "components\/ILIAS\/LegalDocuments\/classes\/Administration.php",
+        "line": 338,
+        "code": "$this->ui->txt($criterion ? 'form_edit_criterion_head' : 'form_attach_criterion_head')",
+        "has_variable": true,
+        "variable": "_"
+    },
+    {
+        "id": 24688,
+        "file": "components\/ILIAS\/LegalDocuments\/classes\/Administration.php",
+        "line": 389,
+        "code": "$this->ui->txt('add_document_btn_label')",
+        "has_variable": false,
+        "variable": "add_document_btn_label"
+    },
+    {
+        "id": 24690,
+        "file": "components\/ILIAS\/LegalDocuments\/classes\/Administration.php",
+        "line": 421,
+        "code": "$this->ui->txt('last_reset_date')",
+        "has_variable": false,
+        "variable": "last_reset_date"
+    },
+    {
+        "id": 24692,
+        "file": "components\/ILIAS\/LegalDocuments\/classes\/Administration.php",
+        "line": 428,
+        "code": "$this->ui->txt('reset_for_all_users')",
+        "has_variable": false,
+        "variable": "reset_for_all_users"
+    },
+    {
+        "id": 24694,
+        "file": "components\/ILIAS\/LegalDocuments\/classes\/Administration.php",
+        "line": 443,
+        "code": "$this->ui->txt('title_required')",
+        "has_variable": false,
+        "variable": "title_required"
+    },
+    {
+        "id": 24696,
+        "file": "components\/ILIAS\/LegalDocuments\/classes\/Administration.php",
+        "line": 446,
+        "code": "$this->ui->txt('title')",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 24698,
+        "file": "components\/ILIAS\/LegalDocuments\/classes\/Administration.php",
+        "line": 447,
+        "code": "$this->ui->txt(...)",
+        "has_variable": true,
+        "variable": "..."
+    },
+    {
+        "id": 24700,
+        "file": "components\/ILIAS\/LegalDocuments\/classes\/Administration.php",
+        "line": 447,
+        "code": "$this->ui->txt($content_title)",
+        "has_variable": true,
+        "variable": "$content_title"
+    },
+    {
+        "id": 24702,
+        "file": "components\/ILIAS\/LegalDocuments\/classes\/Administration.php",
+        "line": 451,
+        "code": "$this->ui->txt($may_be_new ? 'form_new_doc_head' : 'form_edit_doc_head')",
+        "has_variable": true,
+        "variable": "_"
+    },
+    {
+        "id": 24704,
+        "file": "components\/ILIAS\/LegalDocuments\/classes\/Administration.php",
+        "line": 533,
+        "code": "$this->ui->txt('withdrawal_usr_deletion')",
+        "has_variable": false,
+        "variable": "withdrawal_usr_deletion"
+    },
+    {
+        "id": 24706,
+        "file": "components\/ILIAS\/LegalDocuments\/classes\/Administration.php",
+        "line": 533,
+        "code": "$this->ui->txt($enabled ? 'enabled' : 'disabled')",
+        "has_variable": true,
+        "variable": "\\$enabled"
+    },
+    {
+        "id": 24708,
+        "file": "components\/ILIAS\/LegalDocuments\/classes\/Administration.php",
+        "line": 545,
+        "code": "$this->ui->txt('adm_external_setting_edit')",
+        "has_variable": false,
+        "variable": "adm_external_setting_edit"
+    },
+    {
+        "id": 24710,
+        "file": "components\/ILIAS\/LegalDocuments\/classes\/Condition\/Definitions\/RoleDefinition.php",
+        "line": 56,
+        "code": "$this->ui->txt('perm_global_role')",
+        "has_variable": false,
+        "variable": "perm_global_role"
+    },
+    {
+        "id": 24712,
+        "file": "components\/ILIAS\/LegalDocuments\/classes\/Condition\/Definitions\/RoleDefinition.php",
+        "line": 60,
+        "code": "$this->ui->txt('crit_type_usr_global_role')",
+        "has_variable": false,
+        "variable": "crit_type_usr_global_role"
+    },
+    {
+        "id": 24714,
+        "file": "components\/ILIAS\/LegalDocuments\/classes\/Condition\/Definitions\/RoleDefinition.php",
+        "line": 60,
+        "code": "$this->ui->txt('crit_type_usr_global_role_info')",
+        "has_variable": false,
+        "variable": "crit_type_usr_global_role_info"
+    },
+    {
+        "id": 24716,
+        "file": "components\/ILIAS\/LegalDocuments\/classes\/Condition\/Definitions\/RoleDefinition.php",
+        "line": 70,
+        "code": "$this->ui->txt('crit_type_usr_global_role')",
+        "has_variable": false,
+        "variable": "crit_type_usr_global_role"
+    },
+    {
+        "id": 24718,
+        "file": "components\/ILIAS\/LegalDocuments\/classes\/Condition\/Definitions\/UserCountryDefinition.php",
+        "line": 49,
+        "code": "$this->ui->txt('country')",
+        "has_variable": false,
+        "variable": "country"
+    },
+    {
+        "id": 24720,
+        "file": "components\/ILIAS\/LegalDocuments\/classes\/Condition\/Definitions\/UserCountryDefinition.php",
+        "line": 52,
+        "code": "$this->ui->txt('crit_type_usr_country')",
+        "has_variable": false,
+        "variable": "crit_type_usr_country"
+    },
+    {
+        "id": 24722,
+        "file": "components\/ILIAS\/LegalDocuments\/classes\/Condition\/Definitions\/UserCountryDefinition.php",
+        "line": 52,
+        "code": "$this->ui->txt('crit_type_usr_country_info')",
+        "has_variable": false,
+        "variable": "crit_type_usr_country_info"
+    },
+    {
+        "id": 24724,
+        "file": "components\/ILIAS\/LegalDocuments\/classes\/Condition\/Definitions\/UserCountryDefinition.php",
+        "line": 62,
+        "code": "$this->ui->txt('crit_type_usr_country')",
+        "has_variable": false,
+        "variable": "crit_type_usr_country"
+    },
+    {
+        "id": 24726,
+        "file": "components\/ILIAS\/LegalDocuments\/classes\/Condition\/Definitions\/UserCountryDefinition.php",
+        "line": 67,
+        "code": "$this->ui->txt('meta_c_' . strtoupper($country))",
+        "has_variable": true,
+        "variable": "'meta_c_' . strtoupper($country)"
+    },
+    {
+        "id": 24728,
+        "file": "components\/ILIAS\/LegalDocuments\/classes\/Condition\/Definitions\/UserLanguageDefinition.php",
+        "line": 52,
+        "code": "$this->ui->txt('language')",
+        "has_variable": false,
+        "variable": "language"
+    },
+    {
+        "id": 24730,
+        "file": "components\/ILIAS\/LegalDocuments\/classes\/Condition\/Definitions\/UserLanguageDefinition.php",
+        "line": 56,
+        "code": "$this->ui->txt('crit_type_usr_language')",
+        "has_variable": false,
+        "variable": "crit_type_usr_language"
+    },
+    {
+        "id": 24732,
+        "file": "components\/ILIAS\/LegalDocuments\/classes\/Condition\/Definitions\/UserLanguageDefinition.php",
+        "line": 56,
+        "code": "$this->ui->txt('crit_type_usr_language_info')",
+        "has_variable": false,
+        "variable": "crit_type_usr_language_info"
+    },
+    {
+        "id": 24734,
+        "file": "components\/ILIAS\/LegalDocuments\/classes\/Condition\/Definitions\/UserLanguageDefinition.php",
+        "line": 66,
+        "code": "$this->ui->txt('crit_type_usr_language')",
+        "has_variable": false,
+        "variable": "crit_type_usr_language"
+    },
+    {
+        "id": 24736,
+        "file": "components\/ILIAS\/LegalDocuments\/classes\/Condition\/Definitions\/UserLanguageDefinition.php",
+        "line": 71,
+        "code": "$this->ui->txt('meta_l_' . $language)",
+        "has_variable": true,
+        "variable": "'meta_l_' . $language"
+    },
+    {
+        "id": 24738,
+        "file": "components\/ILIAS\/LegalDocuments\/classes\/ConsumerToolbox\/ConsumerSlots\/Agreement.php",
+        "line": 58,
+        "code": "$this->ui->txt($title)",
+        "has_variable": true,
+        "variable": "$title"
+    },
+    {
+        "id": 24740,
+        "file": "components\/ILIAS\/LegalDocuments\/classes\/ConsumerToolbox\/ConsumerSlots\/Agreement.php",
+        "line": 58,
+        "code": "$this->ui->txt($info)",
+        "has_variable": true,
+        "variable": "$info"
+    },
+    {
+        "id": 24742,
+        "file": "components\/ILIAS\/LegalDocuments\/classes\/ConsumerToolbox\/ConsumerSlots\/Agreement.php",
+        "line": 67,
+        "code": "$this->ui->txt('accept_usr_agreement')",
+        "has_variable": false,
+        "variable": "accept_usr_agreement"
+    },
+    {
+        "id": 24744,
+        "file": "components\/ILIAS\/LegalDocuments\/classes\/ConsumerToolbox\/ConsumerSlots\/Agreement.php",
+        "line": 74,
+        "code": "$this->ui->txt('accept_usr_agreement_intro')",
+        "has_variable": false,
+        "variable": "accept_usr_agreement_intro"
+    },
+    {
+        "id": 24746,
+        "file": "components\/ILIAS\/LegalDocuments\/classes\/ConsumerToolbox\/ConsumerSlots\/Agreement.php",
+        "line": 90,
+        "code": "$this->ui->txt('no_agreement_description')",
+        "has_variable": false,
+        "variable": "no_agreement_description"
+    },
+    {
+        "id": 24748,
+        "file": "components\/ILIAS\/LegalDocuments\/classes\/ConsumerToolbox\/ConsumerSlots\/Agreement.php",
+        "line": 99,
+        "code": "$this->ui->txt('accept_usr_agreement')",
+        "has_variable": false,
+        "variable": "accept_usr_agreement"
+    },
+    {
+        "id": 24750,
+        "file": "components\/ILIAS\/LegalDocuments\/classes\/ConsumerToolbox\/ConsumerSlots\/Agreement.php",
+        "line": 100,
+        "code": "$this->ui->txt('accept_usr_agreement_btn')",
+        "has_variable": false,
+        "variable": "accept_usr_agreement_btn"
+    },
+    {
+        "id": 24752,
+        "file": "components\/ILIAS\/LegalDocuments\/classes\/ConsumerToolbox\/ConsumerSlots\/Agreement.php",
+        "line": 101,
+        "code": "$this->ui->txt('deny_usr_agreement_btn')",
+        "has_variable": false,
+        "variable": "deny_usr_agreement_btn"
+    },
+    {
+        "id": 24754,
+        "file": "components\/ILIAS\/LegalDocuments\/classes\/ConsumerToolbox\/ConsumerSlots\/Agreement.php",
+        "line": 117,
+        "code": "$this->ui->txt('logout')",
+        "has_variable": false,
+        "variable": "logout"
+    },
+    {
+        "id": 24756,
+        "file": "components\/ILIAS\/LegalDocuments\/classes\/ConsumerToolbox\/ConsumerSlots\/ModifyFooter.php",
+        "line": 68,
+        "code": "$this->ui->txt('usr_agreement_footer_intro')",
+        "has_variable": false,
+        "variable": "usr_agreement_footer_intro"
+    },
+    {
+        "id": 24758,
+        "file": "components\/ILIAS\/LegalDocuments\/classes\/ConsumerToolbox\/ConsumerSlots\/ModifyFooter.php",
+        "line": 79,
+        "code": "$this->ui->txt('withdraw_consent_header')",
+        "has_variable": false,
+        "variable": "withdraw_consent_header"
+    },
+    {
+        "id": 24760,
+        "file": "components\/ILIAS\/LegalDocuments\/classes\/ConsumerToolbox\/ConsumerSlots\/ModifyFooter.php",
+        "line": 80,
+        "code": "$this->ui->txt('withdraw_consent_description')",
+        "has_variable": false,
+        "variable": "withdraw_consent_description"
+    },
+    {
+        "id": 24762,
+        "file": "components\/ILIAS\/LegalDocuments\/classes\/ConsumerToolbox\/ConsumerSlots\/ModifyFooter.php",
+        "line": 84,
+        "code": "$this->ui->txt('withdraw_consent')",
+        "has_variable": false,
+        "variable": "withdraw_consent"
+    },
+    {
+        "id": 24764,
+        "file": "components\/ILIAS\/LegalDocuments\/classes\/ConsumerToolbox\/ConsumerSlots\/ModifyFooter.php",
+        "line": 96,
+        "code": "$this->ui->txt('usr_agreement')",
+        "has_variable": false,
+        "variable": "usr_agreement"
+    },
+    {
+        "id": 24766,
+        "file": "components\/ILIAS\/LegalDocuments\/classes\/ConsumerToolbox\/ConsumerSlots\/SelfRegistration.php",
+        "line": 71,
+        "code": "$this->ui->txt('account_reg_not_possible')",
+        "has_variable": false,
+        "variable": "account_reg_not_possible"
+    },
+    {
+        "id": 24768,
+        "file": "components\/ILIAS\/LegalDocuments\/classes\/ConsumerToolbox\/ConsumerSlots\/SelfRegistration.php",
+        "line": 78,
+        "code": "$this->ui->txt('force_accept_usr_agreement')",
+        "has_variable": false,
+        "variable": "force_accept_usr_agreement"
+    },
+    {
+        "id": 24770,
+        "file": "components\/ILIAS\/LegalDocuments\/classes\/ConsumerToolbox\/ConsumerSlots\/SelfRegistration.php",
+        "line": 102,
+        "code": "$this->ui->txt('usr_agreement')",
+        "has_variable": false,
+        "variable": "usr_agreement"
+    },
+    {
+        "id": 24772,
+        "file": "components\/ILIAS\/LegalDocuments\/classes\/ConsumerToolbox\/ConsumerSlots\/SelfRegistration.php",
+        "line": 108,
+        "code": "$this->ui->txt('accept_usr_agreement')",
+        "has_variable": false,
+        "variable": "accept_usr_agreement"
+    },
+    {
+        "id": 24774,
+        "file": "components\/ILIAS\/LegalDocuments\/classes\/ConsumerToolbox\/ConsumerSlots\/ShowOnLoginPage.php",
+        "line": 51,
+        "code": "$this->ui->txt('usr_agreement')",
+        "has_variable": false,
+        "variable": "usr_agreement"
+    },
+    {
+        "id": 24776,
+        "file": "components\/ILIAS\/LegalDocuments\/classes\/ConsumerToolbox\/ConsumerSlots\/WithdrawProcess.php",
+        "line": 64,
+        "code": "$this->ui->txt($lng)",
+        "has_variable": true,
+        "variable": "$lng"
+    },
+    {
+        "id": 24778,
+        "file": "components\/ILIAS\/LegalDocuments\/classes\/ConsumerToolbox\/ConsumerSlots\/WithdrawProcess.php",
+        "line": 91,
+        "code": "$this->ui->txt('withdrawal_complete_deleted')",
+        "has_variable": false,
+        "variable": "withdrawal_complete_deleted"
+    },
+    {
+        "id": 24780,
+        "file": "components\/ILIAS\/LegalDocuments\/classes\/ConsumerToolbox\/ConsumerSlots\/WithdrawProcess.php",
+        "line": 92,
+        "code": "$this->ui->txt('withdrawal_complete_redirect')",
+        "has_variable": false,
+        "variable": "withdrawal_complete_redirect"
+    },
+    {
+        "id": 24782,
+        "file": "components\/ILIAS\/LegalDocuments\/classes\/ConsumerToolbox\/ConsumerSlots\/WithdrawProcess.php",
+        "line": 93,
+        "code": "$this->ui->txt('withdrawal_complete')",
+        "has_variable": false,
+        "variable": "withdrawal_complete"
+    },
+    {
+        "id": 24784,
+        "file": "components\/ILIAS\/LegalDocuments\/classes\/ConsumerToolbox\/ConsumerSlots\/WithdrawProcess.php",
+        "line": 133,
+        "code": "$this->ui->txt('refuse_acceptance')",
+        "has_variable": false,
+        "variable": "refuse_acceptance"
+    },
+    {
+        "id": 24786,
+        "file": "components\/ILIAS\/LegalDocuments\/classes\/ConsumerToolbox\/ConsumerSlots\/WithdrawProcess.php",
+        "line": 137,
+        "code": "$this->ui->txt('withdraw_usr_agreement')",
+        "has_variable": false,
+        "variable": "withdraw_usr_agreement"
+    },
+    {
+        "id": 24788,
+        "file": "components\/ILIAS\/LegalDocuments\/classes\/ConsumerToolbox\/ConsumerSlots\/WithdrawProcess.php",
+        "line": 140,
+        "code": "$this->ui->txt('withdrawal_mail_info')",
+        "has_variable": false,
+        "variable": "withdrawal_mail_info"
+    },
+    {
+        "id": 24790,
+        "file": "components\/ILIAS\/LegalDocuments\/classes\/ConsumerToolbox\/ConsumerSlots\/WithdrawProcess.php",
+        "line": 140,
+        "code": "$this->ui->txt('withdrawal_mail_text')",
+        "has_variable": false,
+        "variable": "withdrawal_mail_text"
+    },
+    {
+        "id": 24792,
+        "file": "components\/ILIAS\/LegalDocuments\/classes\/ConsumerToolbox\/ConsumerSlots\/WithdrawProcess.php",
+        "line": 154,
+        "code": "$this->ui->txt($question)",
+        "has_variable": true,
+        "variable": "$question"
+    },
+    {
+        "id": 24794,
+        "file": "components\/ILIAS\/LegalDocuments\/classes\/ConsumerToolbox\/ConsumerSlots\/WithdrawProcess.php",
+        "line": 156,
+        "code": "$this->ui->txt('confirm')",
+        "has_variable": false,
+        "variable": "confirm"
+    },
+    {
+        "id": 24796,
+        "file": "components\/ILIAS\/LegalDocuments\/classes\/ConsumerToolbox\/ConsumerSlots\/WithdrawProcess.php",
+        "line": 160,
+        "code": "$this->ui->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 24798,
+        "file": "components\/ILIAS\/LegalDocuments\/classes\/ConsumerToolbox\/ConsumerSlots\/WithdrawProcess.php",
+        "line": 170,
+        "code": "$this->ui->txt('withdrawal_mail_subject')",
+        "has_variable": false,
+        "variable": "withdrawal_mail_subject"
+    },
+    {
+        "id": 24800,
+        "file": "components\/ILIAS\/LegalDocuments\/classes\/ConsumerToolbox\/ConsumerSlots\/WithdrawProcess.php",
+        "line": 170,
+        "code": "$this->ui->txt('withdrawal_mail_text')",
+        "has_variable": false,
+        "variable": "withdrawal_mail_text"
+    },
+    {
+        "id": 24802,
+        "file": "components\/ILIAS\/LegalDocuments\/classes\/ConsumerToolbox\/UI.php",
+        "line": 61,
+        "code": "$this->language->txt($this->firstExisting([\n            $this->id . '_' . $name,\n            ilObjLegalDocumentsGUI::TYPE . '_' . $name\n        ], $name))",
+        "has_variable": true,
+        "variable": "$this->firstExisting([\n            $this->id . '_' . $name,\n            ilObjLegalDocumentsGUI::TYPE . '_' . $name\n        ], $name)"
+    },
+    {
+        "id": 24804,
+        "file": "components\/ILIAS\/LegalDocuments\/classes\/DefaultMappings.php",
+        "line": 56,
+        "code": "$ui->txt('msg_input_is_required')",
+        "has_variable": false,
+        "variable": "msg_input_is_required"
+    },
+    {
+        "id": 24806,
+        "file": "components\/ILIAS\/LegalDocuments\/classes\/Legacy\/Confirmation.php",
+        "line": 47,
+        "code": "$this->language->txt('confirm')",
+        "has_variable": false,
+        "variable": "confirm"
+    },
+    {
+        "id": 24808,
+        "file": "components\/ILIAS\/LegalDocuments\/classes\/Legacy\/Confirmation.php",
+        "line": 48,
+        "code": "$this->language->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 24810,
+        "file": "components\/ILIAS\/LegalDocuments\/classes\/Legacy\/Table.php",
+        "line": 171,
+        "code": "$this->lng->txt($key)",
+        "has_variable": true,
+        "variable": "$key"
+    },
+    {
+        "id": 24812,
+        "file": "components\/ILIAS\/LegalDocuments\/classes\/Table\/DocumentTable.php",
+        "line": 103,
+        "code": "$this->ui->txt('tbl_docs_title')",
+        "has_variable": false,
+        "variable": "tbl_docs_title"
+    },
+    {
+        "id": 24814,
+        "file": "components\/ILIAS\/LegalDocuments\/classes\/Table\/DocumentTable.php",
+        "line": 105,
+        "code": "$this->ui->txt('tbl_docs_head_title')",
+        "has_variable": false,
+        "variable": "tbl_docs_head_title"
+    },
+    {
+        "id": 24816,
+        "file": "components\/ILIAS\/LegalDocuments\/classes\/Table\/DocumentTable.php",
+        "line": 106,
+        "code": "$this->ui->txt('tbl_docs_head_created')",
+        "has_variable": false,
+        "variable": "tbl_docs_head_created"
+    },
+    {
+        "id": 24818,
+        "file": "components\/ILIAS\/LegalDocuments\/classes\/Table\/DocumentTable.php",
+        "line": 107,
+        "code": "$this->ui->txt('tbl_docs_head_last_change')",
+        "has_variable": false,
+        "variable": "tbl_docs_head_last_change"
+    },
+    {
+        "id": 24820,
+        "file": "components\/ILIAS\/LegalDocuments\/classes\/Table\/DocumentTable.php",
+        "line": 108,
+        "code": "$this->ui->txt('tbl_docs_head_criteria')",
+        "has_variable": false,
+        "variable": "tbl_docs_head_criteria"
+    },
+    {
+        "id": 24822,
+        "file": "components\/ILIAS\/LegalDocuments\/classes\/Table\/DocumentTable.php",
+        "line": 139,
+        "code": "$this->ui->txt('doc_detach_crit_confirm_title')",
+        "has_variable": false,
+        "variable": "doc_detach_crit_confirm_title"
+    },
+    {
+        "id": 24824,
+        "file": "components\/ILIAS\/LegalDocuments\/classes\/Table\/DocumentTable.php",
+        "line": 140,
+        "code": "$this->ui->txt('doc_sure_detach_crit')",
+        "has_variable": false,
+        "variable": "doc_sure_detach_crit"
+    },
+    {
+        "id": 24826,
+        "file": "components\/ILIAS\/LegalDocuments\/classes\/Table\/DocumentTable.php",
+        "line": 146,
+        "code": "$this->ui->txt('edit')",
+        "has_variable": false,
+        "variable": "edit"
+    },
+    {
+        "id": 24828,
+        "file": "components\/ILIAS\/LegalDocuments\/classes\/Table\/DocumentTable.php",
+        "line": 150,
+        "code": "$this->ui->txt('delete')",
+        "has_variable": false,
+        "variable": "delete"
+    },
+    {
+        "id": 24830,
+        "file": "components\/ILIAS\/LegalDocuments\/classes\/Table\/DocumentTable.php",
+        "line": 200,
+        "code": "$this->ui->txt('delete')",
+        "has_variable": false,
+        "variable": "delete"
+    },
+    {
+        "id": 24832,
+        "file": "components\/ILIAS\/LegalDocuments\/classes\/Table\/DocumentTable.php",
+        "line": 201,
+        "code": "$this->ui->txt('edit')",
+        "has_variable": false,
+        "variable": "edit"
+    },
+    {
+        "id": 24834,
+        "file": "components\/ILIAS\/LegalDocuments\/classes\/Table\/DocumentTable.php",
+        "line": 204,
+        "code": "$this->ui->txt('tbl_docs_action_add_criterion')",
+        "has_variable": false,
+        "variable": "tbl_docs_action_add_criterion"
+    },
+    {
+        "id": 24836,
+        "file": "components\/ILIAS\/LegalDocuments\/classes\/Table\/DocumentTable.php",
+        "line": 206,
+        "code": "$this->ui->txt('delete')",
+        "has_variable": false,
+        "variable": "delete"
+    },
+    {
+        "id": 24838,
+        "file": "components\/ILIAS\/LegalDocuments\/classes\/Table\/HistoryTable.php",
+        "line": 66,
+        "code": "$this->ui->txt('tbl_hist_head_acceptance_date')",
+        "has_variable": false,
+        "variable": "tbl_hist_head_acceptance_date"
+    },
+    {
+        "id": 24840,
+        "file": "components\/ILIAS\/LegalDocuments\/classes\/Table\/HistoryTable.php",
+        "line": 67,
+        "code": "$this->ui->txt('tbl_hist_head_login')",
+        "has_variable": false,
+        "variable": "tbl_hist_head_login"
+    },
+    {
+        "id": 24842,
+        "file": "components\/ILIAS\/LegalDocuments\/classes\/Table\/HistoryTable.php",
+        "line": 68,
+        "code": "$this->ui->txt('tbl_hist_head_firstname')",
+        "has_variable": false,
+        "variable": "tbl_hist_head_firstname"
+    },
+    {
+        "id": 24844,
+        "file": "components\/ILIAS\/LegalDocuments\/classes\/Table\/HistoryTable.php",
+        "line": 69,
+        "code": "$this->ui->txt('tbl_hist_head_lastname')",
+        "has_variable": false,
+        "variable": "tbl_hist_head_lastname"
+    },
+    {
+        "id": 24846,
+        "file": "components\/ILIAS\/LegalDocuments\/classes\/Table\/HistoryTable.php",
+        "line": 70,
+        "code": "$this->ui->txt('tbl_hist_head_document')",
+        "has_variable": false,
+        "variable": "tbl_hist_head_document"
+    },
+    {
+        "id": 24848,
+        "file": "components\/ILIAS\/LegalDocuments\/classes\/Table\/HistoryTable.php",
+        "line": 71,
+        "code": "$this->ui->txt('tbl_hist_head_criteria')",
+        "has_variable": false,
+        "variable": "tbl_hist_head_criteria"
+    },
+    {
+        "id": 24850,
+        "file": "components\/ILIAS\/LegalDocuments\/classes\/Table\/HistoryTable.php",
+        "line": 77,
+        "code": "$this->ui->txt('acceptance_history')",
+        "has_variable": false,
+        "variable": "acceptance_history"
+    },
+    {
+        "id": 24852,
+        "file": "components\/ILIAS\/LegalDocuments\/classes\/Table\/HistoryTable.php",
+        "line": 115,
+        "code": "$this->ui->txt('deleted')",
+        "has_variable": false,
+        "variable": "deleted"
+    },
+    {
+        "id": 24854,
+        "file": "components\/ILIAS\/LegalDocuments\/classes\/Table\/HistoryTable.php",
+        "line": 125,
+        "code": "$this->ui->txt(...)",
+        "has_variable": true,
+        "variable": "..."
+    },
+    {
+        "id": 24856,
+        "file": "components\/ILIAS\/LegalDocuments\/classes\/Table\/HistoryTable.php",
+        "line": 135,
+        "code": "$this->ui->txt('period')",
+        "has_variable": false,
+        "variable": "period"
+    },
+    {
+        "id": 24858,
+        "file": "components\/ILIAS\/LegalDocuments\/classes\/Table\/HistoryTable.php",
+        "line": 138,
+        "code": "$this->ui->txt('period_from')",
+        "has_variable": false,
+        "variable": "period_from"
+    },
+    {
+        "id": 24860,
+        "file": "components\/ILIAS\/LegalDocuments\/classes\/Table\/HistoryTable.php",
+        "line": 139,
+        "code": "$this->ui->txt('period_until')",
+        "has_variable": false,
+        "variable": "period_until"
+    },
+    {
+        "id": 24862,
+        "file": "components\/ILIAS\/LegalDocuments\/classes\/Table\/HistoryTable.php",
+        "line": 155,
+        "code": "$this->ui->txt('tbl_hist_cell_not_criterion')",
+        "has_variable": false,
+        "variable": "tbl_hist_cell_not_criterion"
+    },
+    {
+        "id": 24864,
+        "file": "components\/ILIAS\/LegalDocuments\/classes\/class.ilLegalDocumentsAdministrationGUI.php",
+        "line": 255,
+        "code": "$this->ui->txt('agreement_documents_tab_label')",
+        "has_variable": false,
+        "variable": "agreement_documents_tab_label"
+    },
+    {
+        "id": 24866,
+        "file": "components\/ILIAS\/LegalDocuments\/classes\/class.ilLegalDocumentsAdministrationGUI.php",
+        "line": 256,
+        "code": "$this->ui->txt('acceptance_history')",
+        "has_variable": false,
+        "variable": "acceptance_history"
+    },
+    {
+        "id": 24868,
+        "file": "components\/ILIAS\/LegalDocuments\/classes\/class.ilLegalDocumentsAdministrationGUI.php",
+        "line": 316,
+        "code": "$this->ui->txt('criterion_assignment_must_be_unique')",
+        "has_variable": false,
+        "variable": "criterion_assignment_must_be_unique"
+    },
+    {
+        "id": 24870,
+        "file": "components\/ILIAS\/LegalDocuments\/classes\/class.ilLegalDocumentsAdministrationGUI.php",
+        "line": 317,
+        "code": "$this->ui->txt('criterion_assignment_cannot_match')",
+        "has_variable": false,
+        "variable": "criterion_assignment_cannot_match"
+    },
+    {
+        "id": 24872,
+        "file": "components\/ILIAS\/LegalDocuments\/classes\/class.ilLegalDocumentsAdministrationGUI.php",
+        "line": 324,
+        "code": "$this->ui->txt($message)",
+        "has_variable": true,
+        "variable": "$message"
+    },
+    {
+        "id": 24874,
+        "file": "components\/ILIAS\/LegalDocuments\/classes\/class.ilLegalDocumentsAdministrationGUI.php",
+        "line": 331,
+        "code": "$this->ui->txt($success_message)",
+        "has_variable": true,
+        "variable": "$success_message"
+    },
+    {
+        "id": 24876,
+        "file": "components\/ILIAS\/LegalDocuments\/tests\/ConsumerToolbox\/UITest.php",
+        "line": 72,
+        "code": "$instance->txt('foo')",
+        "has_variable": false,
+        "variable": "foo"
+    },
+    {
+        "id": 24878,
+        "file": "components\/ILIAS\/LegalDocuments\/tests\/ConsumerToolbox\/UITest.php",
+        "line": 90,
+        "code": "$instance->txt('foo')",
+        "has_variable": false,
+        "variable": "foo"
+    }
+]

@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "type": "full",
+        "count": 8,
+        "description": "Variable usages without detectable prefixes or suffixes (pure variable references without static strings)"
+    },
+    "matches": [
+        {
+            "id": 19348,
+            "file": "components\/ILIAS\/Group\/classes\/class.ilGroupMembershipGUI.php",
+            "line": 256,
+            "code": "$this->lng->txt($this->member_data['progress'])",
+            "variable": "_",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 19378,
+            "file": "components\/ILIAS\/Group\/classes\/class.ilGroupParticipantsTableGUI.php",
+            "line": 225,
+            "code": "$this->lng->txt($a_set['progress'])",
+            "variable": "_",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 19480,
+            "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroup.php",
+            "line": 450,
+            "code": "$this->lng->txt(self::ERR_MISSING_TITLE)",
+            "variable": "ERR_MISSING_TITLE",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 19482,
+            "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroup.php",
+            "line": 453,
+            "code": "$this->lng->txt(self::ERR_MISSING_PASSWORD)",
+            "variable": "ERR_MISSING_PASSWORD",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 19484,
+            "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroup.php",
+            "line": 457,
+            "code": "$this->lng->txt(self::ERR_MISSING_MIN_MAX_MEMBERS)",
+            "variable": "ERR_MISSING_MIN_MAX_MEMBERS",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 19486,
+            "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroup.php",
+            "line": 460,
+            "code": "$this->lng->txt(self::ERR_WRONG_MAX_MEMBERS)",
+            "variable": "ERR_WRONG_MAX_MEMBERS",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 19488,
+            "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroup.php",
+            "line": 463,
+            "code": "$this->lng->txt(self::ERR_WRONG_MIN_MAX_MEMBERS)",
+            "variable": "ERR_WRONG_MIN_MAX_MEMBERS",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 19490,
+            "file": "components\/ILIAS\/Group\/classes\/class.ilObjGroup.php",
+            "line": 471,
+            "code": "$this->lng->txt((self::ERR_WRONG_REGISTRATION_LIMITED))",
+            "variable": "ERR_WRONG_REGISTRATION_LIMITED",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        }
+    ]
+}

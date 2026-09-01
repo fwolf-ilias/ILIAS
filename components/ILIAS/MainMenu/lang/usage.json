@@ -1,0 +1,122 @@
+[
+    {
+        "id": 25878,
+        "file": "components\/ILIAS\/MainMenu\/classes\/Administration\/SubItems\/class.ilMMSubItemGUI.php",
+        "line": 137,
+        "code": "$this->lng->txt('subitem')",
+        "has_variable": false,
+        "variable": "subitem"
+    },
+    {
+        "id": 25880,
+        "file": "components\/ILIAS\/MainMenu\/classes\/Administration\/SubItems\/class.ilMMSubitemFormGUI.php",
+        "line": 73,
+        "code": "$this->lng->txt($id)",
+        "has_variable": true,
+        "variable": "$id"
+    },
+    {
+        "id": 25882,
+        "file": "components\/ILIAS\/MainMenu\/classes\/Administration\/TopItems\/class.ilMMTopItemFormGUI.php",
+        "line": 73,
+        "code": "$this->lng->txt($key)",
+        "has_variable": true,
+        "variable": "$key"
+    },
+    {
+        "id": 25884,
+        "file": "components\/ILIAS\/MainMenu\/classes\/Administration\/TopItems\/class.ilMMTopItemGUI.php",
+        "line": 173,
+        "code": "$this->lng->txt(self::CMD_FLUSH)",
+        "has_variable": true,
+        "variable": "CMD_FLUSH"
+    },
+    {
+        "id": 25886,
+        "file": "components\/ILIAS\/MainMenu\/classes\/Administration\/TopItems\/class.ilMMTopItemGUI.php",
+        "line": 196,
+        "code": "$this->lng->txt('select_parent')",
+        "has_variable": false,
+        "variable": "select_parent"
+    },
+    {
+        "id": 25888,
+        "file": "components\/ILIAS\/MainMenu\/classes\/Administration\/TopItems\/class.ilMMTopItemGUI.php",
+        "line": 214,
+        "code": "$this->lng->txt('msg_moved')",
+        "has_variable": false,
+        "variable": "msg_moved"
+    },
+    {
+        "id": 25890,
+        "file": "components\/ILIAS\/MainMenu\/classes\/Administration\/TopItems\/class.ilMMTopItemGUI.php",
+        "line": 216,
+        "code": "$this->lng->txt('msg_not_moved')",
+        "has_variable": false,
+        "variable": "msg_not_moved"
+    },
+    {
+        "id": 25892,
+        "file": "components\/ILIAS\/MainMenu\/classes\/Administration\/TopItems\/class.ilMMTopItemGUI.php",
+        "line": 229,
+        "code": "$this->lng->txt('select_parent')",
+        "has_variable": false,
+        "variable": "select_parent"
+    },
+    {
+        "id": 25894,
+        "file": "components\/ILIAS\/MainMenu\/classes\/Administration\/TopItems\/class.ilMMTopItemGUI.php",
+        "line": 251,
+        "code": "$this->lng->txt('msg_restored')",
+        "has_variable": false,
+        "variable": "msg_restored"
+    },
+    {
+        "id": 25896,
+        "file": "components\/ILIAS\/MainMenu\/classes\/Administration\/class.ilMMBaseGUI.php",
+        "line": 156,
+        "code": "$this->lng->txt(\"msg_topitem_deleted\")",
+        "has_variable": false,
+        "variable": "msg_topitem_deleted"
+    },
+    {
+        "id": 25898,
+        "file": "components\/ILIAS\/MainMenu\/classes\/Administration\/class.ilMMBaseGUI.php",
+        "line": 173,
+        "code": "$this->lng->txt('delete')",
+        "has_variable": false,
+        "variable": "delete"
+    },
+    {
+        "id": 25900,
+        "file": "components\/ILIAS\/MainMenu\/classes\/Administration\/class.ilMMBaseGUI.php",
+        "line": 174,
+        "code": "$this->lng->txt('confirm_delete')",
+        "has_variable": false,
+        "variable": "confirm_delete"
+    },
+    {
+        "id": 25902,
+        "file": "components\/ILIAS\/MainMenu\/classes\/Administration\/class.ilMMBaseGUI.php",
+        "line": 175,
+        "code": "$this->lng->txt('delete')",
+        "has_variable": false,
+        "variable": "delete"
+    },
+    {
+        "id": 25904,
+        "file": "components\/ILIAS\/MainMenu\/classes\/class.ilObjMainMenu.php",
+        "line": 47,
+        "code": "$this->lng->txt(\"main_menu\")",
+        "has_variable": false,
+        "variable": "main_menu"
+    },
+    {
+        "id": 25906,
+        "file": "components\/ILIAS\/MainMenu\/classes\/class.ilObjMainMenu.php",
+        "line": 57,
+        "code": "$this->lng->txt(\"add_remove_edit_entries_of_main_menu\")",
+        "has_variable": false,
+        "variable": "add_remove_edit_entries_of_main_menu"
+    }
+]

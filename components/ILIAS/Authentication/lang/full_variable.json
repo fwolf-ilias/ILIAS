@@ -1,0 +1,86 @@
+{
+    "metadata": {
+        "type": "full",
+        "count": 7,
+        "description": "Variable usages without detectable prefixes or suffixes (pure variable references without static strings)"
+    },
+    "matches": [
+        {
+            "id": 2074,
+            "file": "components\/ILIAS\/Authentication\/classes\/Pages\/AuthPageLanguagesOverviewTable.php",
+            "line": 67,
+            "code": "$this->lng->txt($this->context->pageLanguageIdentifier(true))",
+            "variable": "$this->context->pageLanguageIdentifier(true)",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 2076,
+            "file": "components\/ILIAS\/Authentication\/classes\/Pages\/AuthPageLanguagesOverviewTable.php",
+            "line": 84,
+            "code": "$this->lng->txt($this->context->pageLanguageIdentifier())",
+            "variable": "$this->context->pageLanguageIdentifier()",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 2080,
+            "file": "components\/ILIAS\/Authentication\/classes\/Pages\/AuthPageLanguagesOverviewTable.php",
+            "line": 121,
+            "code": "$this->lng->txt($this->has_write_access ? 'edit' : 'preview')",
+            "variable": "_",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 2102,
+            "file": "components\/ILIAS\/Authentication\/classes\/Password\/class.ilLocalUserPasswordSettingsGUI.php",
+            "line": 136,
+            "code": "$this->lng->txt($error_lng_var ?? '')",
+            "variable": "_",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 2104,
+            "file": "components\/ILIAS\/Authentication\/classes\/Password\/class.ilLocalUserPasswordSettingsGUI.php",
+            "line": 162,
+            "code": "$this->lng->txt(self::CURRENT_PASSWORD)",
+            "variable": "CURRENT_PASSWORD",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 2132,
+            "file": "components\/ILIAS\/Authentication\/classes\/class.ilAuthStatus.php",
+            "line": 110,
+            "code": "$this->lng->txt($this->getReason())",
+            "variable": "$this->getReason()",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 2438,
+            "file": "components\/ILIAS\/Authentication\/src\/UserSettings\/Password.php",
+            "line": 45,
+            "code": "$lng->txt($this->getIdentifier())",
+            "variable": "$this->getIdentifier()",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        }
+    ]
+}

@@ -1,0 +1,458 @@
+[
+    {
+        "id": 8304,
+        "file": "components\/ILIAS\/Category\/classes\/AssignRoleTableBuilder.php",
+        "line": 52,
+        "code": "$lng->txt('role_assignment')",
+        "has_variable": false,
+        "variable": "role_assignment"
+    },
+    {
+        "id": 8306,
+        "file": "components\/ILIAS\/Category\/classes\/AssignRoleTableBuilder.php",
+        "line": 87,
+        "code": "$lng->txt('title')",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 8308,
+        "file": "components\/ILIAS\/Category\/classes\/AssignRoleTableBuilder.php",
+        "line": 88,
+        "code": "$lng->txt('description')",
+        "has_variable": false,
+        "variable": "description"
+    },
+    {
+        "id": 8310,
+        "file": "components\/ILIAS\/Category\/classes\/AssignRoleTableBuilder.php",
+        "line": 89,
+        "code": "$lng->txt('type')",
+        "has_variable": false,
+        "variable": "type"
+    },
+    {
+        "id": 8312,
+        "file": "components\/ILIAS\/Category\/classes\/AssignRoleTableBuilder.php",
+        "line": 90,
+        "code": "$lng->txt('info_assigned')",
+        "has_variable": false,
+        "variable": "info_assigned"
+    },
+    {
+        "id": 8314,
+        "file": "components\/ILIAS\/Category\/classes\/AssignRoleTableBuilder.php",
+        "line": 94,
+        "code": "$lng->txt(\"change_assignment\")",
+        "has_variable": false,
+        "variable": "change_assignment"
+    },
+    {
+        "id": 8316,
+        "file": "components\/ILIAS\/Category\/classes\/AssignedRolesManager.php",
+        "line": 62,
+        "code": "$lng->txt('no_global_role_left')",
+        "has_variable": false,
+        "variable": "no_global_role_left"
+    },
+    {
+        "id": 8318,
+        "file": "components\/ILIAS\/Category\/classes\/AssignedRolesRetrieval.php",
+        "line": 73,
+        "code": "$lng->txt('global')",
+        "has_variable": false,
+        "variable": "global"
+    },
+    {
+        "id": 8320,
+        "file": "components\/ILIAS\/Category\/classes\/AssignedRolesRetrieval.php",
+        "line": 74,
+        "code": "$lng->txt('local')",
+        "has_variable": false,
+        "variable": "local"
+    },
+    {
+        "id": 8322,
+        "file": "components\/ILIAS\/Category\/classes\/class.ilObjCategoryGUI.php",
+        "line": 142,
+        "code": "$this->lng->txt('backto_lua')",
+        "has_variable": false,
+        "variable": "backto_lua"
+    },
+    {
+        "id": 8324,
+        "file": "components\/ILIAS\/Category\/classes\/class.ilObjCategoryGUI.php",
+        "line": 160,
+        "code": "$this->lng->txt('backto_lua')",
+        "has_variable": false,
+        "variable": "backto_lua"
+    },
+    {
+        "id": 8326,
+        "file": "components\/ILIAS\/Category\/classes\/class.ilObjCategoryGUI.php",
+        "line": 275,
+        "code": "$this->lng->txt(\"cntr_tax_settings_info\")",
+        "has_variable": false,
+        "variable": "cntr_tax_settings_info"
+    },
+    {
+        "id": 8328,
+        "file": "components\/ILIAS\/Category\/classes\/class.ilObjCategoryGUI.php",
+        "line": 339,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 8330,
+        "file": "components\/ILIAS\/Category\/classes\/class.ilObjCategoryGUI.php",
+        "line": 367,
+        "code": "$this->lng->txt(\"cntr_tax_list_info\")",
+        "has_variable": false,
+        "variable": "cntr_tax_list_info"
+    },
+    {
+        "id": 8332,
+        "file": "components\/ILIAS\/Category\/classes\/class.ilObjCategoryGUI.php",
+        "line": 372,
+        "code": "$this->lng->txt(\"cntr_taxonomy_show_sideblock\")",
+        "has_variable": false,
+        "variable": "cntr_taxonomy_show_sideblock"
+    },
+    {
+        "id": 8334,
+        "file": "components\/ILIAS\/Category\/classes\/class.ilObjCategoryGUI.php",
+        "line": 457,
+        "code": "$this->lng->txt(\"yes\")",
+        "has_variable": false,
+        "variable": "yes"
+    },
+    {
+        "id": 8336,
+        "file": "components\/ILIAS\/Category\/classes\/class.ilObjCategoryGUI.php",
+        "line": 458,
+        "code": "$this->lng->txt(\"no\")",
+        "has_variable": false,
+        "variable": "no"
+    },
+    {
+        "id": 8338,
+        "file": "components\/ILIAS\/Category\/classes\/class.ilObjCategoryGUI.php",
+        "line": 461,
+        "code": "$this->lng->txt(\"cntr_taxonomy_show_sideblock\")",
+        "has_variable": false,
+        "variable": "cntr_taxonomy_show_sideblock"
+    },
+    {
+        "id": 8340,
+        "file": "components\/ILIAS\/Category\/classes\/class.ilObjCategoryGUI.php",
+        "line": 473,
+        "code": "$this->lng->txt(\"cat_show_tax_in_side_block\")",
+        "has_variable": false,
+        "variable": "cat_show_tax_in_side_block"
+    },
+    {
+        "id": 8342,
+        "file": "components\/ILIAS\/Category\/classes\/class.ilObjCategoryGUI.php",
+        "line": 481,
+        "code": "$this->lng->txt(\"cat_hide_tax_in_side_block\")",
+        "has_variable": false,
+        "variable": "cat_hide_tax_in_side_block"
+    },
+    {
+        "id": 8344,
+        "file": "components\/ILIAS\/Category\/classes\/class.ilObjCategoryGUI.php",
+        "line": 510,
+        "code": "$lng->txt(\"content\")",
+        "has_variable": false,
+        "variable": "content"
+    },
+    {
+        "id": 8346,
+        "file": "components\/ILIAS\/Category\/classes\/class.ilObjCategoryGUI.php",
+        "line": 559,
+        "code": "$this->lng->txt(\"meta_data\")",
+        "has_variable": false,
+        "variable": "meta_data"
+    },
+    {
+        "id": 8348,
+        "file": "components\/ILIAS\/Category\/classes\/class.ilObjCategoryGUI.php",
+        "line": 630,
+        "code": "$this->lng->txt(\"cat_added\")",
+        "has_variable": false,
+        "variable": "cat_added"
+    },
+    {
+        "id": 8350,
+        "file": "components\/ILIAS\/Category\/classes\/class.ilObjCategoryGUI.php",
+        "line": 655,
+        "code": "$this->lng->txt(\"msg_no_perm_read\")",
+        "has_variable": false,
+        "variable": "msg_no_perm_read"
+    },
+    {
+        "id": 8352,
+        "file": "components\/ILIAS\/Category\/classes\/class.ilObjCategoryGUI.php",
+        "line": 727,
+        "code": "$this->lng->txt(\"settings_saved\")",
+        "has_variable": false,
+        "variable": "settings_saved"
+    },
+    {
+        "id": 8354,
+        "file": "components\/ILIAS\/Category\/classes\/class.ilObjCategoryGUI.php",
+        "line": 744,
+        "code": "$this->lng->txt('ext_cat_settings')",
+        "has_variable": false,
+        "variable": "ext_cat_settings"
+    },
+    {
+        "id": 8356,
+        "file": "components\/ILIAS\/Category\/classes\/class.ilObjCategoryGUI.php",
+        "line": 745,
+        "code": "$this->lng->txt('save')",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 8358,
+        "file": "components\/ILIAS\/Category\/classes\/class.ilObjCategoryGUI.php",
+        "line": 746,
+        "code": "$this->lng->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 8360,
+        "file": "components\/ILIAS\/Category\/classes\/class.ilObjCategoryGUI.php",
+        "line": 759,
+        "code": "$this->lng->txt(\"general\")",
+        "has_variable": false,
+        "variable": "general"
+    },
+    {
+        "id": 8362,
+        "file": "components\/ILIAS\/Category\/classes\/class.ilObjCategoryGUI.php",
+        "line": 765,
+        "code": "$this->lng->txt(\"obj_multilinguality\")",
+        "has_variable": false,
+        "variable": "obj_multilinguality"
+    },
+    {
+        "id": 8364,
+        "file": "components\/ILIAS\/Category\/classes\/class.ilObjCategoryGUI.php",
+        "line": 779,
+        "code": "$this->lng->txt(\"cont_news_settings\")",
+        "has_variable": false,
+        "variable": "cont_news_settings"
+    },
+    {
+        "id": 8366,
+        "file": "components\/ILIAS\/Category\/classes\/class.ilObjCategoryGUI.php",
+        "line": 786,
+        "code": "$this->lng->txt(\"cont_filter\")",
+        "has_variable": false,
+        "variable": "cont_filter"
+    },
+    {
+        "id": 8368,
+        "file": "components\/ILIAS\/Category\/classes\/class.ilObjCategoryGUI.php",
+        "line": 807,
+        "code": "$this->lng->txt($this->object->getType() . \"_edit\")",
+        "has_variable": true,
+        "variable": "$this->object->getType() . \"_edit\""
+    },
+    {
+        "id": 8370,
+        "file": "components\/ILIAS\/Category\/classes\/class.ilObjCategoryGUI.php",
+        "line": 817,
+        "code": "$this->lng->txt('obj_presentation')",
+        "has_variable": false,
+        "variable": "obj_presentation"
+    },
+    {
+        "id": 8372,
+        "file": "components\/ILIAS\/Category\/classes\/class.ilObjCategoryGUI.php",
+        "line": 846,
+        "code": "$this->lng->txt(\"cont_block_limit\")",
+        "has_variable": false,
+        "variable": "cont_block_limit"
+    },
+    {
+        "id": 8374,
+        "file": "components\/ILIAS\/Category\/classes\/class.ilObjCategoryGUI.php",
+        "line": 847,
+        "code": "$this->lng->txt(\"cont_block_limit_info\")",
+        "has_variable": false,
+        "variable": "cont_block_limit_info"
+    },
+    {
+        "id": 8376,
+        "file": "components\/ILIAS\/Category\/classes\/class.ilObjCategoryGUI.php",
+        "line": 859,
+        "code": "$this->lng->txt('obj_features')",
+        "has_variable": false,
+        "variable": "obj_features"
+    },
+    {
+        "id": 8378,
+        "file": "components\/ILIAS\/Category\/classes\/class.ilObjCategoryGUI.php",
+        "line": 875,
+        "code": "$this->lng->txt(\"save\")",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 8380,
+        "file": "components\/ILIAS\/Category\/classes\/class.ilObjCategoryGUI.php",
+        "line": 892,
+        "code": "$this->lng->txt(\"msg_no_perm_write\")",
+        "has_variable": false,
+        "variable": "msg_no_perm_write"
+    },
+    {
+        "id": 8382,
+        "file": "components\/ILIAS\/Category\/classes\/class.ilObjCategoryGUI.php",
+        "line": 1012,
+        "code": "$this->lng->txt(\"msg_no_perm_admin_users\")",
+        "has_variable": false,
+        "variable": "msg_no_perm_admin_users"
+    },
+    {
+        "id": 8384,
+        "file": "components\/ILIAS\/Category\/classes\/class.ilObjCategoryGUI.php",
+        "line": 1028,
+        "code": "$this->lng->txt('add_user')",
+        "has_variable": false,
+        "variable": "add_user"
+    },
+    {
+        "id": 8386,
+        "file": "components\/ILIAS\/Category\/classes\/class.ilObjCategoryGUI.php",
+        "line": 1033,
+        "code": "$this->lng->txt('import_users')",
+        "has_variable": false,
+        "variable": "import_users"
+    },
+    {
+        "id": 8388,
+        "file": "components\/ILIAS\/Category\/classes\/class.ilObjCategoryGUI.php",
+        "line": 1037,
+        "code": "$this->lng->txt('no_roles_user_can_be_assigned_to')",
+        "has_variable": false,
+        "variable": "no_roles_user_can_be_assigned_to"
+    },
+    {
+        "id": 8390,
+        "file": "components\/ILIAS\/Category\/classes\/class.ilObjCategoryGUI.php",
+        "line": 1043,
+        "code": "$this->lng->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 8392,
+        "file": "components\/ILIAS\/Category\/classes\/class.ilObjCategoryGUI.php",
+        "line": 1045,
+        "code": "$this->lng->txt('delete')",
+        "has_variable": false,
+        "variable": "delete"
+    },
+    {
+        "id": 8394,
+        "file": "components\/ILIAS\/Category\/classes\/class.ilObjCategoryGUI.php",
+        "line": 1052,
+        "code": "$this->lng->txt('administrate_users_headline')",
+        "has_variable": false,
+        "variable": "administrate_users_headline"
+    },
+    {
+        "id": 8396,
+        "file": "components\/ILIAS\/Category\/classes\/class.ilObjCategoryGUI.php",
+        "line": 1087,
+        "code": "$this->lng->txt('deleted_users')",
+        "has_variable": false,
+        "variable": "deleted_users"
+    },
+    {
+        "id": 8398,
+        "file": "components\/ILIAS\/Category\/classes\/class.ilObjCategoryGUI.php",
+        "line": 1095,
+        "code": "$this->lng->txt('no_users_selected')",
+        "has_variable": false,
+        "variable": "no_users_selected"
+    },
+    {
+        "id": 8400,
+        "file": "components\/ILIAS\/Category\/classes\/class.ilObjCategoryGUI.php",
+        "line": 1102,
+        "code": "$this->lng->txt('sure_delete_selected_users')",
+        "has_variable": false,
+        "variable": "sure_delete_selected_users"
+    },
+    {
+        "id": 8402,
+        "file": "components\/ILIAS\/Category\/classes\/class.ilObjCategoryGUI.php",
+        "line": 1103,
+        "code": "$this->lng->txt('delete')",
+        "has_variable": false,
+        "variable": "delete"
+    },
+    {
+        "id": 8404,
+        "file": "components\/ILIAS\/Category\/classes\/class.ilObjCategoryGUI.php",
+        "line": 1104,
+        "code": "$this->lng->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 8406,
+        "file": "components\/ILIAS\/Category\/classes\/class.ilObjCategoryGUI.php",
+        "line": 1132,
+        "code": "$this->lng->txt('backto_lua')",
+        "has_variable": false,
+        "variable": "backto_lua"
+    },
+    {
+        "id": 8408,
+        "file": "components\/ILIAS\/Category\/classes\/class.ilObjCategoryGUI.php",
+        "line": 1170,
+        "code": "$lng->txt(\"msg_obj_modified\")",
+        "has_variable": false,
+        "variable": "msg_obj_modified"
+    },
+    {
+        "id": 8410,
+        "file": "components\/ILIAS\/Category\/classes\/class.ilObjCategoryGUI.php",
+        "line": 1192,
+        "code": "$lng->txt(\"msg_no_perm_read_item\")",
+        "has_variable": false,
+        "variable": "msg_no_perm_read_item"
+    },
+    {
+        "id": 8412,
+        "file": "components\/ILIAS\/Category\/classes\/class.ilObjCategoryGUI.php",
+        "line": 1198,
+        "code": "$lng->txt(\"msg_no_perm_read\")",
+        "has_variable": false,
+        "variable": "msg_no_perm_read"
+    },
+    {
+        "id": 8414,
+        "file": "components\/ILIAS\/Category\/classes\/class.ilObjCategoryGUI.php",
+        "line": 1210,
+        "code": "$this->lng->txt(\"cntr_taxonomy_sideblock_settings\")",
+        "has_variable": false,
+        "variable": "cntr_taxonomy_sideblock_settings"
+    },
+    {
+        "id": 8416,
+        "file": "components\/ILIAS\/Category\/classes\/class.ilObjCategoryGUI.php",
+        "line": 1215,
+        "code": "$this->lng->txt(\"cntr_taxonomy_definitions\")",
+        "has_variable": false,
+        "variable": "cntr_taxonomy_definitions"
+    }
+]

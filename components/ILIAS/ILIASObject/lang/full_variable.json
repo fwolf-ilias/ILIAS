@@ -1,0 +1,361 @@
+{
+    "metadata": {
+        "type": "full",
+        "count": 32,
+        "description": "Variable usages without detectable prefixes or suffixes (pure variable references without static strings)"
+    },
+    "matches": [
+        {
+            "id": 20196,
+            "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjTypeDefinitionGUI.php",
+            "line": 109,
+            "code": "$this->lng->txt($val)",
+            "variable": "$val",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 20202,
+            "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjTypeDefinitionGUI.php",
+            "line": 144,
+            "code": "$this->lng->txt($val)",
+            "variable": "$val",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 20214,
+            "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjTypeDefinitionGUI.php",
+            "line": 279,
+            "code": "$this->lng->txt($val)",
+            "variable": "$val",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 20222,
+            "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObject.php",
+            "line": 286,
+            "code": "$this->lng->txt(\"obj_{$this->type}\")",
+            "variable": "obj_{$this->type}",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 20224,
+            "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObject.php",
+            "line": 287,
+            "code": "$this->lng->txt(\"obj_{$this->type}_desc\")",
+            "variable": "obj_{$this->type}_desc",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 20244,
+            "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectActivation.php",
+            "line": 316,
+            "code": "$lng->txt($item['activation_info'])",
+            "variable": "_",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 20416,
+            "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectGUI.php",
+            "line": 729,
+            "code": "$this->lng->txt(\"obj_{$this->requested_new_type}\")",
+            "variable": "obj_{$this->requested_new_type}",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 20418,
+            "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectGUI.php",
+            "line": 740,
+            "code": "$this->lng->txt(\"{$this->requested_new_type}_new\")",
+            "variable": "{$this->requested_new_type}_new",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 20594,
+            "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectListGUI.php",
+            "line": 1995,
+            "code": "$this->lng->txt($command['lang_var'])",
+            "variable": "_",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 20596,
+            "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectListGUI.php",
+            "line": 2019,
+            "code": "$this->lng->txt($command['lang_var'])",
+            "variable": "_",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 20642,
+            "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilObjectMetaDataGUI.php",
+            "line": 550,
+            "code": "$this->lng->txt($caption)",
+            "variable": "$caption",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 20728,
+            "file": "components\/ILIAS\/ILIASObject\/classes\/class.ilPasteIntoMultipleItemsExplorer.php",
+            "line": 220,
+            "code": "$this->lng->txt($option[\"desc\"])",
+            "variable": "\\$option",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 20738,
+            "file": "components\/ILIAS\/ILIASObject\/src\/Properties\/AdditionalProperties\/Icon\/Icon.php",
+            "line": 120,
+            "code": "$language->txt(self::INPUT_LABEL)",
+            "variable": "INPUT_LABEL",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 20740,
+            "file": "components\/ILIAS\/ILIASObject\/src\/Properties\/AdditionalProperties\/Icon\/Icon.php",
+            "line": 137,
+            "code": "$language->txt(self::INPUT_LABEL)",
+            "variable": "INPUT_LABEL",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 20742,
+            "file": "components\/ILIAS\/ILIASObject\/src\/Properties\/AdditionalProperties\/Simple\/HeaderActionVisibility.php",
+            "line": 57,
+            "code": "$language->txt(self::INPUT_LABEL)",
+            "variable": "INPUT_LABEL",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 20744,
+            "file": "components\/ILIAS\/ILIASObject\/src\/Properties\/AdditionalProperties\/Simple\/HeaderActionVisibility.php",
+            "line": 67,
+            "code": "$language->txt(self::INPUT_LABEL)",
+            "variable": "INPUT_LABEL",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 20746,
+            "file": "components\/ILIAS\/ILIASObject\/src\/Properties\/AdditionalProperties\/Simple\/InfoTabVisibility.php",
+            "line": 57,
+            "code": "$language->txt(self::INPUT_LABEL)",
+            "variable": "INPUT_LABEL",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 20748,
+            "file": "components\/ILIAS\/ILIASObject\/src\/Properties\/AdditionalProperties\/Simple\/TitleAndIconVisiblity.php",
+            "line": 57,
+            "code": "$language->txt(self::INPUT_LABEL)",
+            "variable": "INPUT_LABEL",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 20750,
+            "file": "components\/ILIAS\/ILIASObject\/src\/Properties\/AdditionalProperties\/Simple\/TitleAndIconVisiblity.php",
+            "line": 67,
+            "code": "$language->txt(self::INPUT_LABEL)",
+            "variable": "INPUT_LABEL",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 20752,
+            "file": "components\/ILIAS\/ILIASObject\/src\/Properties\/CoreProperties\/Online.php",
+            "line": 71,
+            "code": "$language->txt(self::INPUT_LABEL)",
+            "variable": "INPUT_LABEL",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 20754,
+            "file": "components\/ILIAS\/ILIASObject\/src\/Properties\/CoreProperties\/Online.php",
+            "line": 72,
+            "code": "$language->txt(self::INPUT_BYLINE)",
+            "variable": "INPUT_BYLINE",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 20756,
+            "file": "components\/ILIAS\/ILIASObject\/src\/Properties\/CoreProperties\/TileImage\/Property.php",
+            "line": 91,
+            "code": "$language->txt(self::INPUT_LABEL)",
+            "variable": "INPUT_LABEL",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 20758,
+            "file": "components\/ILIAS\/ILIASObject\/src\/Properties\/CoreProperties\/TileImage\/Property.php",
+            "line": 91,
+            "code": "$language->txt(self::INPUT_BYLINE)",
+            "variable": "INPUT_BYLINE",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 20760,
+            "file": "components\/ILIAS\/ILIASObject\/src\/Properties\/CoreProperties\/TileImage\/Property.php",
+            "line": 106,
+            "code": "$language->txt(self::INPUT_LABEL)",
+            "variable": "INPUT_LABEL",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 20762,
+            "file": "components\/ILIAS\/ILIASObject\/src\/Properties\/CoreProperties\/TileImage\/Property.php",
+            "line": 107,
+            "code": "$language->txt(self::INPUT_BYLINE)",
+            "variable": "INPUT_BYLINE",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 20764,
+            "file": "components\/ILIAS\/ILIASObject\/src\/Properties\/CoreProperties\/TitleAndDescription.php",
+            "line": 96,
+            "code": "$language->txt(self::TITLE_LABEL)",
+            "variable": "TITLE_LABEL",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 20766,
+            "file": "components\/ILIAS\/ILIASObject\/src\/Properties\/CoreProperties\/TitleAndDescription.php",
+            "line": 101,
+            "code": "$language->txt(self::DESCRIPTION_LABEL)",
+            "variable": "DESCRIPTION_LABEL",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 20794,
+            "file": "components\/ILIAS\/ILIASObject\/src\/Properties\/Translations\/Language.php",
+            "line": 165,
+            "code": "$lng->txt(\"meta_l_{$language_code}\")",
+            "variable": "meta_l_{$language_code}",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 20826,
+            "file": "components\/ILIAS\/ILIASObject\/src\/Properties\/Translations\/TranslationsTable.php",
+            "line": 326,
+            "code": "$this->lng->txt(\"meta_l_{$v}\")",
+            "variable": "meta_l_{$v}",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 20856,
+            "file": "components\/ILIAS\/ILIASObject\/src\/Properties\/Translations\/class.TranslationGUI.php",
+            "line": 282,
+            "code": "$this->lng->txt($text_tag)",
+            "variable": "$text_tag",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 20866,
+            "file": "components\/ILIAS\/ILIASObject\/src\/Properties\/Translations\/class.TranslationGUI.php",
+            "line": 312,
+            "code": "$this->lng->txt(\"meta_l_{$v}\")",
+            "variable": "meta_l_{$v}",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 20870,
+            "file": "components\/ILIAS\/ILIASObject\/src\/Properties\/Translations\/class.TranslationGUI.php",
+            "line": 335,
+            "code": "$this->lng->txt(\"meta_l_{$v}\")",
+            "variable": "meta_l_{$v}",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        }
+    ]
+}

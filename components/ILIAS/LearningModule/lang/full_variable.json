@@ -1,0 +1,108 @@
+{
+    "metadata": {
+        "type": "full",
+        "count": 9,
+        "description": "Variable usages without detectable prefixes or suffixes (pure variable references without static strings)"
+    },
+    "matches": [
+        {
+            "id": 23658,
+            "file": "components\/ILIAS\/LearningModule\/Questions\/class.ilLMBlockedUsersTableGUI.php",
+            "line": 46,
+            "code": "$lng->txt(\"\")",
+            "variable": "",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 23806,
+            "file": "components\/ILIAS\/LearningModule\/classes\/class.ilLMObjectGUI.php",
+            "line": 235,
+            "code": "$this->lng->txt($val[\"lng\"])",
+            "variable": "\\$val",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 23854,
+            "file": "components\/ILIAS\/LearningModule\/classes\/class.ilLMPagesTableGUI.php",
+            "line": 49,
+            "code": "$this->lng->txt(\"\")",
+            "variable": "",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 23906,
+            "file": "components\/ILIAS\/LearningModule\/classes\/class.ilLearningModuleNotification.php",
+            "line": 155,
+            "code": "$a_ulng->txt('learning module')",
+            "variable": "learning module",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 23942,
+            "file": "components\/ILIAS\/LearningModule\/classes\/class.ilLinksTableGUI.php",
+            "line": 178,
+            "code": "$lng->txt((\"obj_\" . $obj_type))",
+            "variable": "(\"obj_\" . $obj_type)",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 23974,
+            "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+            "line": 270,
+            "code": "$lng->txt(\"learning module\")",
+            "variable": "learning module",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 23976,
+            "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+            "line": 288,
+            "code": "$lng->txt(\"learning module\")",
+            "variable": "learning module",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 24134,
+            "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+            "line": 1409,
+            "code": "$this->lng->txt($val[\"lng\"])",
+            "variable": "\\$val",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 24418,
+            "file": "components\/ILIAS\/LearningModule\/classes\/class.ilStructureObjectGUI.php",
+            "line": 203,
+            "code": "$this->lng->txt($this->obj->getType())",
+            "variable": "$this->obj->getType()",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        }
+    ]
+}

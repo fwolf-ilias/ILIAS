@@ -1,0 +1,1970 @@
+[
+    {
+        "id": 21518,
+        "file": "components\/ILIAS\/LDAP\/classes\/LDAPRoleAssignmentTable.php",
+        "line": 83,
+        "code": "$this->lng->txt('ldap_role_by_attribute')",
+        "has_variable": false,
+        "variable": "ldap_role_by_attribute"
+    },
+    {
+        "id": 21520,
+        "file": "components\/ILIAS\/LDAP\/classes\/LDAPRoleAssignmentTable.php",
+        "line": 87,
+        "code": "$this->lng->txt('ldap_role_by_group')",
+        "has_variable": false,
+        "variable": "ldap_role_by_group"
+    },
+    {
+        "id": 21522,
+        "file": "components\/ILIAS\/LDAP\/classes\/LDAPRoleAssignmentTable.php",
+        "line": 91,
+        "code": "$this->lng->txt('ldap_role_by_plugin')",
+        "has_variable": false,
+        "variable": "ldap_role_by_plugin"
+    },
+    {
+        "id": 21524,
+        "file": "components\/ILIAS\/LDAP\/classes\/LDAPRoleAssignmentTable.php",
+        "line": 119,
+        "code": "$this->lng->txt('ldap_tbl_role_ass')",
+        "has_variable": false,
+        "variable": "ldap_tbl_role_ass"
+    },
+    {
+        "id": 21526,
+        "file": "components\/ILIAS\/LDAP\/classes\/LDAPRoleAssignmentTable.php",
+        "line": 176,
+        "code": "$this->lng->txt('delete')",
+        "has_variable": false,
+        "variable": "delete"
+    },
+    {
+        "id": 21528,
+        "file": "components\/ILIAS\/LDAP\/classes\/LDAPRoleAssignmentTable.php",
+        "line": 183,
+        "code": "$this->lng->txt('edit')",
+        "has_variable": false,
+        "variable": "edit"
+    },
+    {
+        "id": 21530,
+        "file": "components\/ILIAS\/LDAP\/classes\/LDAPRoleAssignmentTable.php",
+        "line": 183,
+        "code": "$this->lng->txt('view')",
+        "has_variable": false,
+        "variable": "view"
+    },
+    {
+        "id": 21532,
+        "file": "components\/ILIAS\/LDAP\/classes\/LDAPRoleAssignmentTable.php",
+        "line": 256,
+        "code": "$this->lng->txt('ldap_rule_type')",
+        "has_variable": false,
+        "variable": "ldap_rule_type"
+    },
+    {
+        "id": 21534,
+        "file": "components\/ILIAS\/LDAP\/classes\/LDAPRoleAssignmentTable.php",
+        "line": 257,
+        "code": "$this->lng->txt('ldap_ilias_role')",
+        "has_variable": false,
+        "variable": "ldap_ilias_role"
+    },
+    {
+        "id": 21536,
+        "file": "components\/ILIAS\/LDAP\/classes\/LDAPRoleAssignmentTable.php",
+        "line": 258,
+        "code": "$this->lng->txt('ldap_rule_condition')",
+        "has_variable": false,
+        "variable": "ldap_rule_condition"
+    },
+    {
+        "id": 21538,
+        "file": "components\/ILIAS\/LDAP\/classes\/LDAPRoleAssignmentTable.php",
+        "line": 259,
+        "code": "$this->lng->txt('ldap_add_roles')",
+        "has_variable": false,
+        "variable": "ldap_add_roles"
+    },
+    {
+        "id": 21540,
+        "file": "components\/ILIAS\/LDAP\/classes\/LDAPRoleAssignmentTable.php",
+        "line": 261,
+        "code": "$this->lng->txt('ldap_remove_roles')",
+        "has_variable": false,
+        "variable": "ldap_remove_roles"
+    },
+    {
+        "id": 21542,
+        "file": "components\/ILIAS\/LDAP\/classes\/LDAPRoleMappingTable.php",
+        "line": 106,
+        "code": "$this->lng->txt('mail_templates')",
+        "has_variable": false,
+        "variable": "mail_templates"
+    },
+    {
+        "id": 21544,
+        "file": "components\/ILIAS\/LDAP\/classes\/LDAPRoleMappingTable.php",
+        "line": 109,
+        "code": "$this->lng->txt('ldap_role_group_assignments')",
+        "has_variable": false,
+        "variable": "ldap_role_group_assignments"
+    },
+    {
+        "id": 21546,
+        "file": "components\/ILIAS\/LDAP\/classes\/LDAPRoleMappingTable.php",
+        "line": 165,
+        "code": "$this->lng->txt('delete')",
+        "has_variable": false,
+        "variable": "delete"
+    },
+    {
+        "id": 21548,
+        "file": "components\/ILIAS\/LDAP\/classes\/LDAPRoleMappingTable.php",
+        "line": 171,
+        "code": "$this->lng->txt('copy')",
+        "has_variable": false,
+        "variable": "copy"
+    },
+    {
+        "id": 21550,
+        "file": "components\/ILIAS\/LDAP\/classes\/LDAPRoleMappingTable.php",
+        "line": 178,
+        "code": "$this->lng->txt('edit')",
+        "has_variable": false,
+        "variable": "edit"
+    },
+    {
+        "id": 21552,
+        "file": "components\/ILIAS\/LDAP\/classes\/LDAPRoleMappingTable.php",
+        "line": 178,
+        "code": "$this->lng->txt('view')",
+        "has_variable": false,
+        "variable": "view"
+    },
+    {
+        "id": 21554,
+        "file": "components\/ILIAS\/LDAP\/classes\/LDAPRoleMappingTable.php",
+        "line": 255,
+        "code": "$this->lng->txt('title')",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 21556,
+        "file": "components\/ILIAS\/LDAP\/classes\/LDAPRoleMappingTable.php",
+        "line": 256,
+        "code": "$this->lng->txt('obj_role')",
+        "has_variable": false,
+        "variable": "obj_role"
+    },
+    {
+        "id": 21558,
+        "file": "components\/ILIAS\/LDAP\/classes\/LDAPRoleMappingTable.php",
+        "line": 257,
+        "code": "$this->lng->txt('ldap_group_dn')",
+        "has_variable": false,
+        "variable": "ldap_group_dn"
+    },
+    {
+        "id": 21560,
+        "file": "components\/ILIAS\/LDAP\/classes\/LDAPRoleMappingTable.php",
+        "line": 258,
+        "code": "$this->lng->txt('ldap_server')",
+        "has_variable": false,
+        "variable": "ldap_server"
+    },
+    {
+        "id": 21562,
+        "file": "components\/ILIAS\/LDAP\/classes\/LDAPRoleMappingTable.php",
+        "line": 259,
+        "code": "$this->lng->txt('ldap_group_member')",
+        "has_variable": false,
+        "variable": "ldap_group_member"
+    },
+    {
+        "id": 21564,
+        "file": "components\/ILIAS\/LDAP\/classes\/LDAPRoleMappingTable.php",
+        "line": 260,
+        "code": "$this->lng->txt('ldap_info_text')",
+        "has_variable": false,
+        "variable": "ldap_info_text"
+    },
+    {
+        "id": 21566,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPCronSynchronization.php",
+        "line": 55,
+        "code": "$this->lng->txt('ldap_user_sync_cron')",
+        "has_variable": false,
+        "variable": "ldap_user_sync_cron"
+    },
+    {
+        "id": 21568,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPCronSynchronization.php",
+        "line": 60,
+        "code": "$this->lng->txt(\"ldap_user_sync_cron_info\")",
+        "has_variable": false,
+        "variable": "ldap_user_sync_cron_info"
+    },
+    {
+        "id": 21570,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPRoleAssignmentRule.php",
+        "line": 393,
+        "code": "$this->lng->txt('ldap_plugin_id')",
+        "has_variable": false,
+        "variable": "ldap_plugin_id"
+    },
+    {
+        "id": 21572,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPRoleGroupMappingSettings.php",
+        "line": 174,
+        "code": "$this->lng->txt('fill_out_all_required_fields')",
+        "has_variable": false,
+        "variable": "fill_out_all_required_fields"
+    },
+    {
+        "id": 21574,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPRoleGroupMappingSettings.php",
+        "line": 179,
+        "code": "$this->lng->txt('ldap_role_not_exists')",
+        "has_variable": false,
+        "variable": "ldap_role_not_exists"
+    },
+    {
+        "id": 21576,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPServer.php",
+        "line": 846,
+        "code": "$this->lng->txt('fill_out_all_required_fields')",
+        "has_variable": false,
+        "variable": "fill_out_all_required_fields"
+    },
+    {
+        "id": 21578,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPServer.php",
+        "line": 851,
+        "code": "$this->lng->txt('form_input_not_valid')",
+        "has_variable": false,
+        "variable": "form_input_not_valid"
+    },
+    {
+        "id": 21580,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPServer.php",
+        "line": 857,
+        "code": "$this->lng->txt('ldap_missing_bind_user')",
+        "has_variable": false,
+        "variable": "ldap_missing_bind_user"
+    },
+    {
+        "id": 21582,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPServer.php",
+        "line": 862,
+        "code": "$this->lng->txt('ldap_missing_role_assignment')",
+        "has_variable": false,
+        "variable": "ldap_missing_role_assignment"
+    },
+    {
+        "id": 21584,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPServer.php",
+        "line": 867,
+        "code": "$this->lng->txt('ldap_tls_conflict')",
+        "has_variable": false,
+        "variable": "ldap_tls_conflict"
+    },
+    {
+        "id": 21586,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPServer.php",
+        "line": 881,
+        "code": "$this->lng->txt('ldap_server_url_required')",
+        "has_variable": false,
+        "variable": "ldap_server_url_required"
+    },
+    {
+        "id": 21588,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPServer.php",
+        "line": 886,
+        "code": "$this->lng->txt('ldap_server_url_invalid_uris')",
+        "has_variable": false,
+        "variable": "ldap_server_url_invalid_uris"
+    },
+    {
+        "id": 21590,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 118,
+        "code": "$this->lng->txt('select_one')",
+        "has_variable": false,
+        "variable": "select_one"
+    },
+    {
+        "id": 21592,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 249,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 21594,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 261,
+        "code": "$this->lng->txt('msg_no_perm_read')",
+        "has_variable": false,
+        "variable": "msg_no_perm_read"
+    },
+    {
+        "id": 21596,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 311,
+        "code": "$this->lng->txt('select_one')",
+        "has_variable": false,
+        "variable": "select_one"
+    },
+    {
+        "id": 21598,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 354,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 21600,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 365,
+        "code": "$this->lng->txt($roleErrorMessage)",
+        "has_variable": true,
+        "variable": "$roleErrorMessage"
+    },
+    {
+        "id": 21602,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 381,
+        "code": "$this->lng->txt('settings_saved')",
+        "has_variable": false,
+        "variable": "settings_saved"
+    },
+    {
+        "id": 21604,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 391,
+        "code": "$this->lng->txt('select_one')",
+        "has_variable": false,
+        "variable": "select_one"
+    },
+    {
+        "id": 21606,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 401,
+        "code": "$this->lng->txt('ldap_confirm_del_role_ass')",
+        "has_variable": false,
+        "variable": "ldap_confirm_del_role_ass"
+    },
+    {
+        "id": 21608,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 402,
+        "code": "$this->lng->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 21610,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 403,
+        "code": "$this->lng->txt('confirm')",
+        "has_variable": false,
+        "variable": "confirm"
+    },
+    {
+        "id": 21612,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 417,
+        "code": "$this->lng->txt('select_once')",
+        "has_variable": false,
+        "variable": "select_once"
+    },
+    {
+        "id": 21614,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 427,
+        "code": "$this->lng->txt('ldap_deleted_rule')",
+        "has_variable": false,
+        "variable": "ldap_deleted_rule"
+    },
+    {
+        "id": 21616,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 434,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 21618,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 446,
+        "code": "$this->lng->txt($roleErrorMessage)",
+        "has_variable": true,
+        "variable": "$roleErrorMessage"
+    },
+    {
+        "id": 21620,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 463,
+        "code": "$this->lng->txt('settings_saved')",
+        "has_variable": false,
+        "variable": "settings_saved"
+    },
+    {
+        "id": 21622,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 513,
+        "code": "$this->lng->txt('ldap_role_selection')",
+        "has_variable": false,
+        "variable": "ldap_role_selection"
+    },
+    {
+        "id": 21624,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 515,
+        "code": "$this->lng->txt('ldap_choose_role')",
+        "has_variable": false,
+        "variable": "ldap_choose_role"
+    },
+    {
+        "id": 21626,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 525,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 21628,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 531,
+        "code": "$this->lng->txt('select_one')",
+        "has_variable": false,
+        "variable": "select_one"
+    },
+    {
+        "id": 21630,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 545,
+        "code": "$this->lng->txt('settings_saved')",
+        "has_variable": false,
+        "variable": "settings_saved"
+    },
+    {
+        "id": 21632,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 644,
+        "code": "$this->lng->txt('select_one')",
+        "has_variable": false,
+        "variable": "select_one"
+    },
+    {
+        "id": 21634,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 654,
+        "code": "$this->lng->txt('ldap_deleted_role_mapping')",
+        "has_variable": false,
+        "variable": "ldap_deleted_role_mapping"
+    },
+    {
+        "id": 21636,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 706,
+        "code": "$this->lng->txt('settings_saved')",
+        "has_variable": false,
+        "variable": "settings_saved"
+    },
+    {
+        "id": 21638,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 775,
+        "code": "$this->lng->txt('msg_no_perm_read')",
+        "has_variable": false,
+        "variable": "msg_no_perm_read"
+    },
+    {
+        "id": 21640,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 784,
+        "code": "$this->lng->txt('add_ldap_server')",
+        "has_variable": false,
+        "variable": "add_ldap_server"
+    },
+    {
+        "id": 21642,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 851,
+        "code": "$this->lng->txt('ldap_configure')",
+        "has_variable": false,
+        "variable": "ldap_configure"
+    },
+    {
+        "id": 21644,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 853,
+        "code": "$this->lng->txt('auth_ldap_enable')",
+        "has_variable": false,
+        "variable": "auth_ldap_enable"
+    },
+    {
+        "id": 21646,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 857,
+        "code": "$this->lng->txt('ldap_as_ds')",
+        "has_variable": false,
+        "variable": "ldap_as_ds"
+    },
+    {
+        "id": 21648,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 859,
+        "code": "$this->lng->txt('ldap_as_ds_info')",
+        "has_variable": false,
+        "variable": "ldap_as_ds_info"
+    },
+    {
+        "id": 21650,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 862,
+        "code": "$this->lng->txt('ldap_server_name')",
+        "has_variable": false,
+        "variable": "ldap_server_name"
+    },
+    {
+        "id": 21652,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 864,
+        "code": "$this->lng->txt('ldap_server_name_info')",
+        "has_variable": false,
+        "variable": "ldap_server_name_info"
+    },
+    {
+        "id": 21654,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 869,
+        "code": "$this->lng->txt('ldap_username_filter')",
+        "has_variable": false,
+        "variable": "ldap_username_filter"
+    },
+    {
+        "id": 21656,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 870,
+        "code": "$this->lng->txt('ldap_username_filter_info')",
+        "has_variable": false,
+        "variable": "ldap_username_filter_info"
+    },
+    {
+        "id": 21658,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 875,
+        "code": "$this->lng->txt('ldap_server')",
+        "has_variable": false,
+        "variable": "ldap_server"
+    },
+    {
+        "id": 21660,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 877,
+        "code": "$this->lng->txt('ldap_server_url_info')",
+        "has_variable": false,
+        "variable": "ldap_server_url_info"
+    },
+    {
+        "id": 21662,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 882,
+        "code": "$this->lng->txt('ldap_version')",
+        "has_variable": false,
+        "variable": "ldap_version"
+    },
+    {
+        "id": 21664,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 884,
+        "code": "$this->lng->txt('ldap_server_version_info')",
+        "has_variable": false,
+        "variable": "ldap_server_version_info"
+    },
+    {
+        "id": 21666,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 887,
+        "code": "$this->lng->txt('basedn')",
+        "has_variable": false,
+        "variable": "basedn"
+    },
+    {
+        "id": 21668,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 893,
+        "code": "$this->lng->txt('ldap_referrals')",
+        "has_variable": false,
+        "variable": "ldap_referrals"
+    },
+    {
+        "id": 21670,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 895,
+        "code": "$this->lng->txt('ldap_referrals_info')",
+        "has_variable": false,
+        "variable": "ldap_referrals_info"
+    },
+    {
+        "id": 21672,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 899,
+        "code": "$this->lng->txt('ldap_server_security_settings')",
+        "has_variable": false,
+        "variable": "ldap_server_security_settings"
+    },
+    {
+        "id": 21674,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 902,
+        "code": "$this->lng->txt('ldap_tls')",
+        "has_variable": false,
+        "variable": "ldap_tls"
+    },
+    {
+        "id": 21676,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 906,
+        "code": "$this->lng->txt('ldap_server_binding')",
+        "has_variable": false,
+        "variable": "ldap_server_binding"
+    },
+    {
+        "id": 21678,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 907,
+        "code": "$this->lng->txt('ldap_bind_anonymous')",
+        "has_variable": false,
+        "variable": "ldap_bind_anonymous"
+    },
+    {
+        "id": 21680,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 909,
+        "code": "$this->lng->txt('ldap_bind_user')",
+        "has_variable": false,
+        "variable": "ldap_bind_user"
+    },
+    {
+        "id": 21682,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 910,
+        "code": "$this->lng->txt('ldap_server_bind_dn')",
+        "has_variable": false,
+        "variable": "ldap_server_bind_dn"
+    },
+    {
+        "id": 21684,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 914,
+        "code": "$this->lng->txt('ldap_server_bind_pass')",
+        "has_variable": false,
+        "variable": "ldap_server_bind_pass"
+    },
+    {
+        "id": 21686,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 923,
+        "code": "$this->lng->txt('ldap_authentication_settings')",
+        "has_variable": false,
+        "variable": "ldap_authentication_settings"
+    },
+    {
+        "id": 21688,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 926,
+        "code": "$this->lng->txt('ldap_user_dn')",
+        "has_variable": false,
+        "variable": "ldap_user_dn"
+    },
+    {
+        "id": 21690,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 927,
+        "code": "$this->lng->txt('ldap_search_base_info')",
+        "has_variable": false,
+        "variable": "ldap_search_base_info"
+    },
+    {
+        "id": 21692,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 932,
+        "code": "$this->lng->txt('ldap_user_scope')",
+        "has_variable": false,
+        "variable": "ldap_user_scope"
+    },
+    {
+        "id": 21694,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 934,
+        "code": "$this->lng->txt('ldap_scope_one')",
+        "has_variable": false,
+        "variable": "ldap_scope_one"
+    },
+    {
+        "id": 21696,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 935,
+        "code": "$this->lng->txt('ldap_scope_sub')",
+        "has_variable": false,
+        "variable": "ldap_scope_sub"
+    },
+    {
+        "id": 21698,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 937,
+        "code": "$this->lng->txt('ldap_user_scope_info')",
+        "has_variable": false,
+        "variable": "ldap_user_scope_info"
+    },
+    {
+        "id": 21700,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 940,
+        "code": "$this->lng->txt('ldap_user_attribute')",
+        "has_variable": false,
+        "variable": "ldap_user_attribute"
+    },
+    {
+        "id": 21702,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 946,
+        "code": "$this->lng->txt('ldap_search_filter')",
+        "has_variable": false,
+        "variable": "ldap_search_filter"
+    },
+    {
+        "id": 21704,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 947,
+        "code": "$this->lng->txt('ldap_filter_info')",
+        "has_variable": false,
+        "variable": "ldap_filter_info"
+    },
+    {
+        "id": 21706,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 953,
+        "code": "$this->lng->txt('ldap_group_restrictions')",
+        "has_variable": false,
+        "variable": "ldap_group_restrictions"
+    },
+    {
+        "id": 21708,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 956,
+        "code": "$this->lng->txt('ldap_group_search_base')",
+        "has_variable": false,
+        "variable": "ldap_group_search_base"
+    },
+    {
+        "id": 21710,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 957,
+        "code": "$this->lng->txt('ldap_group_dn_info')",
+        "has_variable": false,
+        "variable": "ldap_group_dn_info"
+    },
+    {
+        "id": 21712,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 962,
+        "code": "$this->lng->txt('ldap_group_scope')",
+        "has_variable": false,
+        "variable": "ldap_group_scope"
+    },
+    {
+        "id": 21714,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 964,
+        "code": "$this->lng->txt('ldap_scope_one')",
+        "has_variable": false,
+        "variable": "ldap_scope_one"
+    },
+    {
+        "id": 21716,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 965,
+        "code": "$this->lng->txt('ldap_scope_sub')",
+        "has_variable": false,
+        "variable": "ldap_scope_sub"
+    },
+    {
+        "id": 21718,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 967,
+        "code": "$this->lng->txt('ldap_group_scope_info')",
+        "has_variable": false,
+        "variable": "ldap_group_scope_info"
+    },
+    {
+        "id": 21720,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 970,
+        "code": "$this->lng->txt('ldap_group_filter')",
+        "has_variable": false,
+        "variable": "ldap_group_filter"
+    },
+    {
+        "id": 21722,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 971,
+        "code": "$this->lng->txt('ldap_group_filter_info')",
+        "has_variable": false,
+        "variable": "ldap_group_filter_info"
+    },
+    {
+        "id": 21724,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 976,
+        "code": "$this->lng->txt('ldap_group_member')",
+        "has_variable": false,
+        "variable": "ldap_group_member"
+    },
+    {
+        "id": 21726,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 977,
+        "code": "$this->lng->txt('ldap_group_member_info')",
+        "has_variable": false,
+        "variable": "ldap_group_member_info"
+    },
+    {
+        "id": 21728,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 982,
+        "code": "$this->lng->txt('ldap_memberisdn')",
+        "has_variable": false,
+        "variable": "ldap_memberisdn"
+    },
+    {
+        "id": 21730,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 985,
+        "code": "$this->lng->txt('ldap_escapedn')",
+        "has_variable": false,
+        "variable": "ldap_escapedn"
+    },
+    {
+        "id": 21732,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 987,
+        "code": "$this->lng->txt('ldap_escapedn_info')",
+        "has_variable": false,
+        "variable": "ldap_escapedn_info"
+    },
+    {
+        "id": 21734,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 990,
+        "code": "$this->lng->txt('ldap_group_name')",
+        "has_variable": false,
+        "variable": "ldap_group_name"
+    },
+    {
+        "id": 21736,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 991,
+        "code": "$this->lng->txt('ldap_group_name_info')",
+        "has_variable": false,
+        "variable": "ldap_group_name_info"
+    },
+    {
+        "id": 21738,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 996,
+        "code": "$this->lng->txt('ldap_group_attribute')",
+        "has_variable": false,
+        "variable": "ldap_group_attribute"
+    },
+    {
+        "id": 21740,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 997,
+        "code": "$this->lng->txt('ldap_group_attribute_info')",
+        "has_variable": false,
+        "variable": "ldap_group_attribute_info"
+    },
+    {
+        "id": 21742,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 1002,
+        "code": "$this->lng->txt('ldap_group_membership')",
+        "has_variable": false,
+        "variable": "ldap_group_membership"
+    },
+    {
+        "id": 21744,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 1003,
+        "code": "$this->lng->txt('ldap_group_member_optional')",
+        "has_variable": false,
+        "variable": "ldap_group_member_optional"
+    },
+    {
+        "id": 21746,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 1004,
+        "code": "$this->lng->txt('ldap_group_optional_info')",
+        "has_variable": false,
+        "variable": "ldap_group_optional_info"
+    },
+    {
+        "id": 21748,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 1006,
+        "code": "$this->lng->txt('ldap_group_user_filter')",
+        "has_variable": false,
+        "variable": "ldap_group_user_filter"
+    },
+    {
+        "id": 21750,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 1013,
+        "code": "$this->lng->txt('ldap_user_sync')",
+        "has_variable": false,
+        "variable": "ldap_user_sync"
+    },
+    {
+        "id": 21752,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 1016,
+        "code": "$this->lng->txt('ldap_moment_sync')",
+        "has_variable": false,
+        "variable": "ldap_moment_sync"
+    },
+    {
+        "id": 21754,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 1017,
+        "code": "$this->lng->txt('ldap_sync_login')",
+        "has_variable": false,
+        "variable": "ldap_sync_login"
+    },
+    {
+        "id": 21756,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 1020,
+        "code": "$this->lng->txt('ldap_sync_cron')",
+        "has_variable": false,
+        "variable": "ldap_sync_cron"
+    },
+    {
+        "id": 21758,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 1023,
+        "code": "$this->lng->txt('ldap_user_sync_info')",
+        "has_variable": false,
+        "variable": "ldap_user_sync_info"
+    },
+    {
+        "id": 21760,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 1026,
+        "code": "$this->lng->txt('ldap_global_role_assignment')",
+        "has_variable": false,
+        "variable": "ldap_global_role_assignment"
+    },
+    {
+        "id": 21762,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 1028,
+        "code": "$this->lng->txt('ldap_global_role_info')",
+        "has_variable": false,
+        "variable": "ldap_global_role_info"
+    },
+    {
+        "id": 21764,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 1031,
+        "code": "$this->lng->txt('auth_ldap_migration')",
+        "has_variable": false,
+        "variable": "auth_ldap_migration"
+    },
+    {
+        "id": 21766,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 1032,
+        "code": "$this->lng->txt('auth_ldap_migration_info')",
+        "has_variable": false,
+        "variable": "auth_ldap_migration_info"
+    },
+    {
+        "id": 21768,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 1043,
+        "code": "$this->lng->txt('save')",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 21770,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 1054,
+        "code": "$this->lng->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 21772,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 1120,
+        "code": "$this->lng->txt('settings_saved')",
+        "has_variable": false,
+        "variable": "settings_saved"
+    },
+    {
+        "id": 21774,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 1140,
+        "code": "$this->lng->txt('back')",
+        "has_variable": false,
+        "variable": "back"
+    },
+    {
+        "id": 21776,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 1146,
+        "code": "$this->lng->txt('ldap_settings')",
+        "has_variable": false,
+        "variable": "ldap_settings"
+    },
+    {
+        "id": 21778,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 1157,
+        "code": "$this->lng->txt('ldap_user_mapping')",
+        "has_variable": false,
+        "variable": "ldap_user_mapping"
+    },
+    {
+        "id": 21780,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 1163,
+        "code": "$this->lng->txt('ldap_role_assignments')",
+        "has_variable": false,
+        "variable": "ldap_role_assignments"
+    },
+    {
+        "id": 21782,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 1169,
+        "code": "$this->lng->txt('ldap_role_mapping')",
+        "has_variable": false,
+        "variable": "ldap_role_mapping"
+    },
+    {
+        "id": 21784,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 1206,
+        "code": "$this->lng->txt('links_select_one')",
+        "has_variable": false,
+        "variable": "links_select_one"
+    },
+    {
+        "id": 21786,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 1220,
+        "code": "$this->lng->txt('gender')",
+        "has_variable": false,
+        "variable": "gender"
+    },
+    {
+        "id": 21788,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 1221,
+        "code": "$this->lng->txt('firstname')",
+        "has_variable": false,
+        "variable": "firstname"
+    },
+    {
+        "id": 21790,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 1222,
+        "code": "$this->lng->txt('lastname')",
+        "has_variable": false,
+        "variable": "lastname"
+    },
+    {
+        "id": 21792,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 1223,
+        "code": "$this->lng->txt('person_title')",
+        "has_variable": false,
+        "variable": "person_title"
+    },
+    {
+        "id": 21794,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 1224,
+        "code": "$this->lng->txt('institution')",
+        "has_variable": false,
+        "variable": "institution"
+    },
+    {
+        "id": 21796,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 1225,
+        "code": "$this->lng->txt('department')",
+        "has_variable": false,
+        "variable": "department"
+    },
+    {
+        "id": 21798,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 1226,
+        "code": "$this->lng->txt('street')",
+        "has_variable": false,
+        "variable": "street"
+    },
+    {
+        "id": 21800,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 1227,
+        "code": "$this->lng->txt('city')",
+        "has_variable": false,
+        "variable": "city"
+    },
+    {
+        "id": 21802,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 1228,
+        "code": "$this->lng->txt('zipcode')",
+        "has_variable": false,
+        "variable": "zipcode"
+    },
+    {
+        "id": 21804,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 1229,
+        "code": "$this->lng->txt('country')",
+        "has_variable": false,
+        "variable": "country"
+    },
+    {
+        "id": 21806,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 1230,
+        "code": "$this->lng->txt('phone_office')",
+        "has_variable": false,
+        "variable": "phone_office"
+    },
+    {
+        "id": 21808,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 1231,
+        "code": "$this->lng->txt('phone_home')",
+        "has_variable": false,
+        "variable": "phone_home"
+    },
+    {
+        "id": 21810,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 1232,
+        "code": "$this->lng->txt('phone_mobile')",
+        "has_variable": false,
+        "variable": "phone_mobile"
+    },
+    {
+        "id": 21812,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 1233,
+        "code": "$this->lng->txt('fax')",
+        "has_variable": false,
+        "variable": "fax"
+    },
+    {
+        "id": 21814,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 1234,
+        "code": "$this->lng->txt('email')",
+        "has_variable": false,
+        "variable": "email"
+    },
+    {
+        "id": 21816,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 1235,
+        "code": "$this->lng->txt('second_email')",
+        "has_variable": false,
+        "variable": "second_email"
+    },
+    {
+        "id": 21818,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 1236,
+        "code": "$this->lng->txt('hobby')",
+        "has_variable": false,
+        "variable": "hobby"
+    },
+    {
+        "id": 21820,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 1237,
+        "code": "$this->lng->txt('matriculation')",
+        "has_variable": false,
+        "variable": "matriculation"
+    },
+    {
+        "id": 21822,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 1246,
+        "code": "$this->lng->txt('ldap_ilias_role')",
+        "has_variable": false,
+        "variable": "ldap_ilias_role"
+    },
+    {
+        "id": 21824,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 1247,
+        "code": "$this->lng->txt('ldap_role_name_info')",
+        "has_variable": false,
+        "variable": "ldap_role_name_info"
+    },
+    {
+        "id": 21826,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 1251,
+        "code": "$this->lng->txt('ldap_global_role')",
+        "has_variable": false,
+        "variable": "ldap_global_role"
+    },
+    {
+        "id": 21828,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 1258,
+        "code": "$this->lng->txt('ldap_local_role')",
+        "has_variable": false,
+        "variable": "ldap_local_role"
+    },
+    {
+        "id": 21830,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 1265,
+        "code": "$this->lng->txt('ldap_update_roles')",
+        "has_variable": false,
+        "variable": "ldap_update_roles"
+    },
+    {
+        "id": 21832,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 1266,
+        "code": "$this->lng->txt('ldap_check_role_assignment')",
+        "has_variable": false,
+        "variable": "ldap_check_role_assignment"
+    },
+    {
+        "id": 21834,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 1269,
+        "code": "$this->lng->txt('ldap_add_missing')",
+        "has_variable": false,
+        "variable": "ldap_add_missing"
+    },
+    {
+        "id": 21836,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 1273,
+        "code": "$this->lng->txt('ldap_remove_deprecated')",
+        "has_variable": false,
+        "variable": "ldap_remove_deprecated"
+    },
+    {
+        "id": 21838,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 1278,
+        "code": "$this->lng->txt('ldap_assignment_type')",
+        "has_variable": false,
+        "variable": "ldap_assignment_type"
+    },
+    {
+        "id": 21840,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 1281,
+        "code": "$this->lng->txt('ldap_role_by_group')",
+        "has_variable": false,
+        "variable": "ldap_role_by_group"
+    },
+    {
+        "id": 21842,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 1283,
+        "code": "$this->lng->txt('ldap_group_dn')",
+        "has_variable": false,
+        "variable": "ldap_group_dn"
+    },
+    {
+        "id": 21844,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 1286,
+        "code": "$this->lng->txt('ldap_role_grp_dn_info')",
+        "has_variable": false,
+        "variable": "ldap_role_grp_dn_info"
+    },
+    {
+        "id": 21846,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 1288,
+        "code": "$this->lng->txt('ldap_role_grp_at')",
+        "has_variable": false,
+        "variable": "ldap_role_grp_at"
+    },
+    {
+        "id": 21848,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 1292,
+        "code": "$this->lng->txt('ldap_role_grp_isdn')",
+        "has_variable": false,
+        "variable": "ldap_role_grp_isdn"
+    },
+    {
+        "id": 21850,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 1293,
+        "code": "$this->lng->txt('ldap_group_member_info')",
+        "has_variable": false,
+        "variable": "ldap_group_member_info"
+    },
+    {
+        "id": 21852,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 1295,
+        "code": "$this->lng->txt('ldap_role_grp_info')",
+        "has_variable": false,
+        "variable": "ldap_role_grp_info"
+    },
+    {
+        "id": 21854,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 1299,
+        "code": "$this->lng->txt('ldap_role_by_attribute')",
+        "has_variable": false,
+        "variable": "ldap_role_by_attribute"
+    },
+    {
+        "id": 21856,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 1300,
+        "code": "$this->lng->txt('ldap_role_at_name')",
+        "has_variable": false,
+        "variable": "ldap_role_at_name"
+    },
+    {
+        "id": 21858,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 1305,
+        "code": "$this->lng->txt('ldap_role_at_value')",
+        "has_variable": false,
+        "variable": "ldap_role_at_value"
+    },
+    {
+        "id": 21860,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 1309,
+        "code": "$this->lng->txt('ldap_role_at_info')",
+        "has_variable": false,
+        "variable": "ldap_role_at_info"
+    },
+    {
+        "id": 21862,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 1314,
+        "code": "$this->lng->txt('ldap_plugin')",
+        "has_variable": false,
+        "variable": "ldap_plugin"
+    },
+    {
+        "id": 21864,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 1316,
+        "code": "$this->lng->txt('ldap_plugin_info')",
+        "has_variable": false,
+        "variable": "ldap_plugin_info"
+    },
+    {
+        "id": 21866,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 1319,
+        "code": "$this->lng->txt('ldap_plugin_id')",
+        "has_variable": false,
+        "variable": "ldap_plugin_id"
+    },
+    {
+        "id": 21868,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 1333,
+        "code": "$this->lng->txt('ldap_edit_role_ass_rule')",
+        "has_variable": false,
+        "variable": "ldap_edit_role_ass_rule"
+    },
+    {
+        "id": 21870,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 1334,
+        "code": "$this->lng->txt('save')",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 21872,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 1337,
+        "code": "$this->lng->txt('ldap_add_role_ass_rule')",
+        "has_variable": false,
+        "variable": "ldap_add_role_ass_rule"
+    },
+    {
+        "id": 21874,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 1338,
+        "code": "$this->lng->txt('ldap_btn_add_role_ass')",
+        "has_variable": false,
+        "variable": "ldap_btn_add_role_ass"
+    },
+    {
+        "id": 21876,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 1361,
+        "code": "$this->lng->txt('ldap_mapping_template')",
+        "has_variable": false,
+        "variable": "ldap_mapping_template"
+    },
+    {
+        "id": 21878,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 1371,
+        "code": "$this->lng->txt('show')",
+        "has_variable": false,
+        "variable": "show"
+    },
+    {
+        "id": 21880,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 1378,
+        "code": "$this->lng->txt('ldap_mapping_table')",
+        "has_variable": false,
+        "variable": "ldap_mapping_table"
+    },
+    {
+        "id": 21882,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 1392,
+        "code": "$this->lng->txt('ldap_update_field_info')",
+        "has_variable": false,
+        "variable": "ldap_update_field_info"
+    },
+    {
+        "id": 21884,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 1411,
+        "code": "$this->lng->txt('ldap_update_field_info')",
+        "has_variable": false,
+        "variable": "ldap_update_field_info"
+    },
+    {
+        "id": 21886,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 1416,
+        "code": "$this->lng->txt('save')",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 21888,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 1440,
+        "code": "$this->lng->txt('ldap_role_settings')",
+        "has_variable": false,
+        "variable": "ldap_role_settings"
+    },
+    {
+        "id": 21890,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 1442,
+        "code": "$this->lng->txt('ldap_role_active')",
+        "has_variable": false,
+        "variable": "ldap_role_active"
+    },
+    {
+        "id": 21892,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 1446,
+        "code": "$this->lng->txt('ldap_server_binding')",
+        "has_variable": false,
+        "variable": "ldap_server_binding"
+    },
+    {
+        "id": 21894,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 1447,
+        "code": "$this->lng->txt('ldap_role_bind_user_info')",
+        "has_variable": false,
+        "variable": "ldap_role_bind_user_info"
+    },
+    {
+        "id": 21896,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 1453,
+        "code": "$this->lng->txt('ldap_role_bind_user')",
+        "has_variable": false,
+        "variable": "ldap_role_bind_user"
+    },
+    {
+        "id": 21898,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 1461,
+        "code": "$this->lng->txt('ldap_role_bind_pass')",
+        "has_variable": false,
+        "variable": "ldap_role_bind_pass"
+    },
+    {
+        "id": 21900,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 1467,
+        "code": "$this->lng->txt('ldap_new_role_assignment')",
+        "has_variable": false,
+        "variable": "ldap_new_role_assignment"
+    },
+    {
+        "id": 21902,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 1470,
+        "code": "$this->lng->txt('save')",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 21904,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 1505,
+        "code": "$this->lng->txt('ldap_edit_role_assignment')",
+        "has_variable": false,
+        "variable": "ldap_edit_role_assignment"
+    },
+    {
+        "id": 21906,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 1548,
+        "code": "$this->lng->txt('settings_saved')",
+        "has_variable": false,
+        "variable": "settings_saved"
+    },
+    {
+        "id": 21908,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 1552,
+        "code": "$this->lng->txt('ldap_role_not_exists')",
+        "has_variable": false,
+        "variable": "ldap_role_not_exists"
+    },
+    {
+        "id": 21910,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 1566,
+        "code": "$this->lng->txt('select_one')",
+        "has_variable": false,
+        "variable": "select_one"
+    },
+    {
+        "id": 21912,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 1576,
+        "code": "$this->lng->txt('ldap_confirm_del_role_ass')",
+        "has_variable": false,
+        "variable": "ldap_confirm_del_role_ass"
+    },
+    {
+        "id": 21914,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 1577,
+        "code": "$this->lng->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 21916,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 1578,
+        "code": "$this->lng->txt('confirm')",
+        "has_variable": false,
+        "variable": "confirm"
+    },
+    {
+        "id": 21918,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 1583,
+        "code": "$this->lng->txt('obj_role')",
+        "has_variable": false,
+        "variable": "obj_role"
+    },
+    {
+        "id": 21920,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 1584,
+        "code": "$this->lng->txt('ldap_group_dn')",
+        "has_variable": false,
+        "variable": "ldap_group_dn"
+    },
+    {
+        "id": 21922,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 1585,
+        "code": "$this->lng->txt('ldap_server_short')",
+        "has_variable": false,
+        "variable": "ldap_server_short"
+    },
+    {
+        "id": 21924,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 1586,
+        "code": "$this->lng->txt('ldap_group_member_short')",
+        "has_variable": false,
+        "variable": "ldap_group_member_short"
+    },
+    {
+        "id": 21926,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 1622,
+        "code": "$this->lng->txt('select_one')",
+        "has_variable": false,
+        "variable": "select_one"
+    },
+    {
+        "id": 21928,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 1629,
+        "code": "$this->lng->txt('ldap_confirm_del_server_settings')",
+        "has_variable": false,
+        "variable": "ldap_confirm_del_server_settings"
+    },
+    {
+        "id": 21930,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 1630,
+        "code": "$this->lng->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 21932,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 1631,
+        "code": "$this->lng->txt('confirm')",
+        "has_variable": false,
+        "variable": "confirm"
+    },
+    {
+        "id": 21934,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 1643,
+        "code": "$this->lng->txt('select_one')",
+        "has_variable": false,
+        "variable": "select_one"
+    },
+    {
+        "id": 21936,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 1653,
+        "code": "$this->lng->txt('deleted')",
+        "has_variable": false,
+        "variable": "deleted"
+    },
+    {
+        "id": 21938,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 1677,
+        "code": "$this->lng->txt('saved_successfully')",
+        "has_variable": false,
+        "variable": "saved_successfully"
+    },
+    {
+        "id": 21940,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 1689,
+        "code": "$this->lng->txt('saved_successfully')",
+        "has_variable": false,
+        "variable": "saved_successfully"
+    },
+    {
+        "id": 21942,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 1704,
+        "code": "$this->lng->txt('ldap_mapping_table')",
+        "has_variable": false,
+        "variable": "ldap_mapping_table"
+    },
+    {
+        "id": 21944,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 1707,
+        "code": "$this->lng->txt('ldap_server')",
+        "has_variable": false,
+        "variable": "ldap_server"
+    },
+    {
+        "id": 21946,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 1713,
+        "code": "$this->lng->txt('ldap_group_dn')",
+        "has_variable": false,
+        "variable": "ldap_group_dn"
+    },
+    {
+        "id": 21948,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 1717,
+        "code": "$this->lng->txt('ldap_dn_info')",
+        "has_variable": false,
+        "variable": "ldap_dn_info"
+    },
+    {
+        "id": 21950,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 1720,
+        "code": "$this->lng->txt('ldap_group_member')",
+        "has_variable": false,
+        "variable": "ldap_group_member"
+    },
+    {
+        "id": 21952,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 1724,
+        "code": "$this->lng->txt('ldap_member_info')",
+        "has_variable": false,
+        "variable": "ldap_member_info"
+    },
+    {
+        "id": 21954,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 1729,
+        "code": "$this->lng->txt('ldap_memberisdn')",
+        "has_variable": false,
+        "variable": "ldap_memberisdn"
+    },
+    {
+        "id": 21956,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 1731,
+        "code": "$this->lng->txt('ldap_ilias_role')",
+        "has_variable": false,
+        "variable": "ldap_ilias_role"
+    },
+    {
+        "id": 21958,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 1735,
+        "code": "$this->lng->txt('ldap_role_info')",
+        "has_variable": false,
+        "variable": "ldap_role_info"
+    },
+    {
+        "id": 21960,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 1738,
+        "code": "$this->lng->txt('ldap_info_text')",
+        "has_variable": false,
+        "variable": "ldap_info_text"
+    },
+    {
+        "id": 21962,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 1742,
+        "code": "$this->lng->txt('ldap_info_text_info')",
+        "has_variable": false,
+        "variable": "ldap_info_text_info"
+    },
+    {
+        "id": 21964,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 1746,
+        "code": "$this->lng->txt('ldap_mapping_info_type')",
+        "has_variable": false,
+        "variable": "ldap_mapping_info_type"
+    },
+    {
+        "id": 21966,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 1757,
+        "code": "$this->lng->txt('save')",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 21968,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 1767,
+        "code": "$this->lng->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 21970,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 1826,
+        "code": "$this->lng->txt('settings_saved')",
+        "has_variable": false,
+        "variable": "settings_saved"
+    },
+    {
+        "id": 21972,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 1832,
+        "code": "$this->lng->txt('ldap_role_not_exists')",
+        "has_variable": false,
+        "variable": "ldap_role_not_exists"
+    },
+    {
+        "id": 21974,
+        "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+        "line": 1853,
+        "code": "$this->lng->txt('settings_saved')",
+        "has_variable": false,
+        "variable": "settings_saved"
+    },
+    {
+        "id": 21976,
+        "file": "components\/ILIAS\/LDAP\/src\/Server\/UI\/ServerTable.php",
+        "line": 150,
+        "code": "$this->lng->txt('status')",
+        "has_variable": false,
+        "variable": "status"
+    },
+    {
+        "id": 21978,
+        "file": "components\/ILIAS\/LDAP\/src\/Server\/UI\/ServerTable.php",
+        "line": 153,
+        "code": "$this->lng->txt('active')",
+        "has_variable": false,
+        "variable": "active"
+    },
+    {
+        "id": 21980,
+        "file": "components\/ILIAS\/LDAP\/src\/Server\/UI\/ServerTable.php",
+        "line": 158,
+        "code": "$this->lng->txt('inactive')",
+        "has_variable": false,
+        "variable": "inactive"
+    },
+    {
+        "id": 21982,
+        "file": "components\/ILIAS\/LDAP\/src\/Server\/UI\/ServerTable.php",
+        "line": 164,
+        "code": "$this->lng->txt('status')",
+        "has_variable": false,
+        "variable": "status"
+    },
+    {
+        "id": 21984,
+        "file": "components\/ILIAS\/LDAP\/src\/Server\/UI\/ServerTable.php",
+        "line": 164,
+        "code": "$this->lng->txt('active')",
+        "has_variable": false,
+        "variable": "active"
+    },
+    {
+        "id": 21986,
+        "file": "components\/ILIAS\/LDAP\/src\/Server\/UI\/ServerTable.php",
+        "line": 164,
+        "code": "$this->lng->txt('order_option_first')",
+        "has_variable": false,
+        "variable": "order_option_first"
+    },
+    {
+        "id": 21988,
+        "file": "components\/ILIAS\/LDAP\/src\/Server\/UI\/ServerTable.php",
+        "line": 165,
+        "code": "$this->lng->txt('status')",
+        "has_variable": false,
+        "variable": "status"
+    },
+    {
+        "id": 21990,
+        "file": "components\/ILIAS\/LDAP\/src\/Server\/UI\/ServerTable.php",
+        "line": 165,
+        "code": "$this->lng->txt('inactive')",
+        "has_variable": false,
+        "variable": "inactive"
+    },
+    {
+        "id": 21992,
+        "file": "components\/ILIAS\/LDAP\/src\/Server\/UI\/ServerTable.php",
+        "line": 165,
+        "code": "$this->lng->txt('order_option_first')",
+        "has_variable": false,
+        "variable": "order_option_first"
+    },
+    {
+        "id": 21994,
+        "file": "components\/ILIAS\/LDAP\/src\/Server\/UI\/ServerTable.php",
+        "line": 170,
+        "code": "$this->lng->txt('title')",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 21996,
+        "file": "components\/ILIAS\/LDAP\/src\/Server\/UI\/ServerTable.php",
+        "line": 175,
+        "code": "$this->lng->txt('user')",
+        "has_variable": false,
+        "variable": "user"
+    },
+    {
+        "id": 21998,
+        "file": "components\/ILIAS\/LDAP\/src\/Server\/UI\/ServerTable.php",
+        "line": 189,
+        "code": "$this->lng->txt('edit')",
+        "has_variable": false,
+        "variable": "edit"
+    },
+    {
+        "id": 22000,
+        "file": "components\/ILIAS\/LDAP\/src\/Server\/UI\/ServerTable.php",
+        "line": 189,
+        "code": "$this->lng->txt('view')",
+        "has_variable": false,
+        "variable": "view"
+    },
+    {
+        "id": 22002,
+        "file": "components\/ILIAS\/LDAP\/src\/Server\/UI\/ServerTable.php",
+        "line": 197,
+        "code": "$this->lng->txt('activate')",
+        "has_variable": false,
+        "variable": "activate"
+    },
+    {
+        "id": 22004,
+        "file": "components\/ILIAS\/LDAP\/src\/Server\/UI\/ServerTable.php",
+        "line": 203,
+        "code": "$this->lng->txt('deactivate')",
+        "has_variable": false,
+        "variable": "deactivate"
+    },
+    {
+        "id": 22006,
+        "file": "components\/ILIAS\/LDAP\/src\/Server\/UI\/ServerTable.php",
+        "line": 209,
+        "code": "$this->lng->txt('delete')",
+        "has_variable": false,
+        "variable": "delete"
+    },
+    {
+        "id": 22008,
+        "file": "components\/ILIAS\/LDAP\/src\/Server\/UI\/ServerTable.php",
+        "line": 224,
+        "code": "$this->lng->txt('ldap_servers')",
+        "has_variable": false,
+        "variable": "ldap_servers"
+    }
+]

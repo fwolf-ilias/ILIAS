@@ -1,0 +1,10 @@
+[
+    {
+        "id": 31052,
+        "file": "components\/ILIAS\/RemoteCategory\/classes\/class.ilObjRemoteCategoryListGUI.php",
+        "line": 79,
+        "code": "$this->lng->txt('organization')",
+        "has_variable": false,
+        "variable": "organization"
+    }
+]

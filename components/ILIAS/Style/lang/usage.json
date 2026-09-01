@@ -1,0 +1,3250 @@
+[
+    {
+        "id": 35962,
+        "file": "components\/ILIAS\/Style\/Content\/Characteristic\/Inputs\/class.ilBackgroundImageInputGUI.php",
+        "line": 73,
+        "code": "$lng->txt(\"msg_input_is_required\")",
+        "has_variable": false,
+        "variable": "msg_input_is_required"
+    },
+    {
+        "id": 35964,
+        "file": "components\/ILIAS\/Style\/Content\/Characteristic\/Inputs\/class.ilBackgroundPositionInputGUI.php",
+        "line": 110,
+        "code": "$lng->txt(\"sty_msg_input_must_be_numeric\")",
+        "has_variable": false,
+        "variable": "sty_msg_input_must_be_numeric"
+    },
+    {
+        "id": 35966,
+        "file": "components\/ILIAS\/Style\/Content\/Characteristic\/Inputs\/class.ilBackgroundPositionInputGUI.php",
+        "line": 201,
+        "code": "$lng->txt(\"sty_$dir\")",
+        "has_variable": true,
+        "variable": "sty_$dir"
+    },
+    {
+        "id": 35968,
+        "file": "components\/ILIAS\/Style\/Content\/Characteristic\/Inputs\/class.ilFontSizeInputGUI.php",
+        "line": 64,
+        "code": "$lng->txt(\"msg_input_is_required\")",
+        "has_variable": false,
+        "variable": "msg_input_is_required"
+    },
+    {
+        "id": 35970,
+        "file": "components\/ILIAS\/Style\/Content\/Characteristic\/Inputs\/class.ilFontSizeInputGUI.php",
+        "line": 71,
+        "code": "$lng->txt(\"sty_msg_input_must_be_numeric\")",
+        "has_variable": false,
+        "variable": "sty_msg_input_must_be_numeric"
+    },
+    {
+        "id": 35972,
+        "file": "components\/ILIAS\/Style\/Content\/Characteristic\/Inputs\/class.ilNumericStyleValueInputGUI.php",
+        "line": 71,
+        "code": "$lng->txt(\"msg_input_is_required\")",
+        "has_variable": false,
+        "variable": "msg_input_is_required"
+    },
+    {
+        "id": 35974,
+        "file": "components\/ILIAS\/Style\/Content\/Characteristic\/Inputs\/class.ilNumericStyleValueInputGUI.php",
+        "line": 77,
+        "code": "$lng->txt(\"sty_msg_input_must_be_numeric\")",
+        "has_variable": false,
+        "variable": "sty_msg_input_must_be_numeric"
+    },
+    {
+        "id": 35976,
+        "file": "components\/ILIAS\/Style\/Content\/Characteristic\/Inputs\/class.ilTRBLBorderStyleInputGUI.php",
+        "line": 111,
+        "code": "$lng->txt(\"msg_input_is_required\")",
+        "has_variable": false,
+        "variable": "msg_input_is_required"
+    },
+    {
+        "id": 35978,
+        "file": "components\/ILIAS\/Style\/Content\/Characteristic\/Inputs\/class.ilTRBLBorderStyleInputGUI.php",
+        "line": 179,
+        "code": "$lng->txt(\"sty_$dir\")",
+        "has_variable": true,
+        "variable": "sty_$dir"
+    },
+    {
+        "id": 35980,
+        "file": "components\/ILIAS\/Style\/Content\/Characteristic\/Inputs\/class.ilTRBLBorderWidthInputGUI.php",
+        "line": 116,
+        "code": "$lng->txt(\"msg_input_is_required\")",
+        "has_variable": false,
+        "variable": "msg_input_is_required"
+    },
+    {
+        "id": 35982,
+        "file": "components\/ILIAS\/Style\/Content\/Characteristic\/Inputs\/class.ilTRBLBorderWidthInputGUI.php",
+        "line": 122,
+        "code": "$lng->txt(\"sty_msg_input_must_be_numeric\")",
+        "has_variable": false,
+        "variable": "sty_msg_input_must_be_numeric"
+    },
+    {
+        "id": 35984,
+        "file": "components\/ILIAS\/Style\/Content\/Characteristic\/Inputs\/class.ilTRBLBorderWidthInputGUI.php",
+        "line": 225,
+        "code": "$lng->txt(\"sty_$dir\")",
+        "has_variable": true,
+        "variable": "sty_$dir"
+    },
+    {
+        "id": 35986,
+        "file": "components\/ILIAS\/Style\/Content\/Characteristic\/Inputs\/class.ilTRBLColorPickerInputGUI.php",
+        "line": 220,
+        "code": "$lng->txt(\"sty_$dir\")",
+        "has_variable": true,
+        "variable": "sty_$dir"
+    },
+    {
+        "id": 35988,
+        "file": "components\/ILIAS\/Style\/Content\/Characteristic\/Inputs\/class.ilTRBLNumericStyleValueInputGUI.php",
+        "line": 126,
+        "code": "$lng->txt(\"msg_input_is_required\")",
+        "has_variable": false,
+        "variable": "msg_input_is_required"
+    },
+    {
+        "id": 35990,
+        "file": "components\/ILIAS\/Style\/Content\/Characteristic\/Inputs\/class.ilTRBLNumericStyleValueInputGUI.php",
+        "line": 132,
+        "code": "$lng->txt(\"sty_msg_input_must_be_numeric\")",
+        "has_variable": false,
+        "variable": "sty_msg_input_must_be_numeric"
+    },
+    {
+        "id": 35992,
+        "file": "components\/ILIAS\/Style\/Content\/Characteristic\/Inputs\/class.ilTRBLNumericStyleValueInputGUI.php",
+        "line": 207,
+        "code": "$lng->txt(\"sty_$dir\")",
+        "has_variable": true,
+        "variable": "sty_$dir"
+    },
+    {
+        "id": 35994,
+        "file": "components\/ILIAS\/Style\/Content\/Characteristic\/class.CharacteristicTableGUI.php",
+        "line": 67,
+        "code": "$this->lng->txt(\"sty_\" . $a_super_type . \"_char\")",
+        "has_variable": true,
+        "variable": "\"sty_\" . $a_super_type . \"_char\""
+    },
+    {
+        "id": 35996,
+        "file": "components\/ILIAS\/Style\/Content\/Characteristic\/class.CharacteristicTableGUI.php",
+        "line": 86,
+        "code": "$this->lng->txt(\"sty_order\")",
+        "has_variable": false,
+        "variable": "sty_order"
+    },
+    {
+        "id": 35998,
+        "file": "components\/ILIAS\/Style\/Content\/Characteristic\/class.CharacteristicTableGUI.php",
+        "line": 88,
+        "code": "$this->lng->txt(\"sty_class_name\")",
+        "has_variable": false,
+        "variable": "sty_class_name"
+    },
+    {
+        "id": 36000,
+        "file": "components\/ILIAS\/Style\/Content\/Characteristic\/class.CharacteristicTableGUI.php",
+        "line": 89,
+        "code": "$this->lng->txt(\"title\")",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 36002,
+        "file": "components\/ILIAS\/Style\/Content\/Characteristic\/class.CharacteristicTableGUI.php",
+        "line": 90,
+        "code": "$this->lng->txt(\"sty_type\")",
+        "has_variable": false,
+        "variable": "sty_type"
+    },
+    {
+        "id": 36004,
+        "file": "components\/ILIAS\/Style\/Content\/Characteristic\/class.CharacteristicTableGUI.php",
+        "line": 91,
+        "code": "$this->lng->txt(\"sty_example\")",
+        "has_variable": false,
+        "variable": "sty_example"
+    },
+    {
+        "id": 36006,
+        "file": "components\/ILIAS\/Style\/Content\/Characteristic\/class.CharacteristicTableGUI.php",
+        "line": 93,
+        "code": "$this->lng->txt(\"sty_hide\")",
+        "has_variable": false,
+        "variable": "sty_hide"
+    },
+    {
+        "id": 36008,
+        "file": "components\/ILIAS\/Style\/Content\/Characteristic\/class.CharacteristicTableGUI.php",
+        "line": 95,
+        "code": "$this->lng->txt(\"sty_outdated\")",
+        "has_variable": false,
+        "variable": "sty_outdated"
+    },
+    {
+        "id": 36010,
+        "file": "components\/ILIAS\/Style\/Content\/Characteristic\/class.CharacteristicTableGUI.php",
+        "line": 96,
+        "code": "$this->lng->txt(\"actions\")",
+        "has_variable": false,
+        "variable": "actions"
+    },
+    {
+        "id": 36012,
+        "file": "components\/ILIAS\/Style\/Content\/Characteristic\/class.CharacteristicTableGUI.php",
+        "line": 105,
+        "code": "$this->lng->txt(\"sty_save_hide_status\")",
+        "has_variable": false,
+        "variable": "sty_save_hide_status"
+    },
+    {
+        "id": 36014,
+        "file": "components\/ILIAS\/Style\/Content\/Characteristic\/class.CharacteristicTableGUI.php",
+        "line": 107,
+        "code": "$this->lng->txt(\"sty_save_hide_order_status\")",
+        "has_variable": false,
+        "variable": "sty_save_hide_order_status"
+    },
+    {
+        "id": 36016,
+        "file": "components\/ILIAS\/Style\/Content\/Characteristic\/class.CharacteristicTableGUI.php",
+        "line": 109,
+        "code": "$this->lng->txt(\"sty_save_order_status\")",
+        "has_variable": false,
+        "variable": "sty_save_order_status"
+    },
+    {
+        "id": 36018,
+        "file": "components\/ILIAS\/Style\/Content\/Characteristic\/class.CharacteristicTableGUI.php",
+        "line": 115,
+        "code": "$this->lng->txt(\"copy\")",
+        "has_variable": false,
+        "variable": "copy"
+    },
+    {
+        "id": 36020,
+        "file": "components\/ILIAS\/Style\/Content\/Characteristic\/class.CharacteristicTableGUI.php",
+        "line": 116,
+        "code": "$this->lng->txt(\"sty_set_outdated\")",
+        "has_variable": false,
+        "variable": "sty_set_outdated"
+    },
+    {
+        "id": 36022,
+        "file": "components\/ILIAS\/Style\/Content\/Characteristic\/class.CharacteristicTableGUI.php",
+        "line": 117,
+        "code": "$this->lng->txt(\"sty_remove_outdated\")",
+        "has_variable": false,
+        "variable": "sty_remove_outdated"
+    },
+    {
+        "id": 36024,
+        "file": "components\/ILIAS\/Style\/Content\/Characteristic\/class.CharacteristicTableGUI.php",
+        "line": 121,
+        "code": "$this->lng->txt(\"delete\")",
+        "has_variable": false,
+        "variable": "delete"
+    },
+    {
+        "id": 36026,
+        "file": "components\/ILIAS\/Style\/Content\/Characteristic\/class.CharacteristicTableGUI.php",
+        "line": 189,
+        "code": "$lng->txt(\"sty_type_\" . $char->getType())",
+        "has_variable": true,
+        "variable": "\"sty_type_\" . $char->getType()"
+    },
+    {
+        "id": 36028,
+        "file": "components\/ILIAS\/Style\/Content\/Characteristic\/class.CharacteristicTableGUI.php",
+        "line": 204,
+        "code": "$this->lng->txt(\"edit\")",
+        "has_variable": false,
+        "variable": "edit"
+    },
+    {
+        "id": 36030,
+        "file": "components\/ILIAS\/Style\/Content\/Characteristic\/class.CharacteristicTableGUI.php",
+        "line": 210,
+        "code": "$lng->txt(\"yes\")",
+        "has_variable": false,
+        "variable": "yes"
+    },
+    {
+        "id": 36032,
+        "file": "components\/ILIAS\/Style\/Content\/Characteristic\/class.CharacteristicTableGUI.php",
+        "line": 212,
+        "code": "$this->lng->txt(\"sty_remove_outdated\")",
+        "has_variable": false,
+        "variable": "sty_remove_outdated"
+    },
+    {
+        "id": 36034,
+        "file": "components\/ILIAS\/Style\/Content\/Characteristic\/class.CharacteristicTableGUI.php",
+        "line": 216,
+        "code": "$lng->txt(\"no\")",
+        "has_variable": false,
+        "variable": "no"
+    },
+    {
+        "id": 36036,
+        "file": "components\/ILIAS\/Style\/Content\/Characteristic\/class.CharacteristicTableGUI.php",
+        "line": 218,
+        "code": "$this->lng->txt(\"sty_set_outdated\")",
+        "has_variable": false,
+        "variable": "sty_set_outdated"
+    },
+    {
+        "id": 36038,
+        "file": "components\/ILIAS\/Style\/Content\/Characteristic\/class.ilStyleCharacteristicGUI.php",
+        "line": 137,
+        "code": "$lng->txt('sty_style_not_migrated')",
+        "has_variable": false,
+        "variable": "sty_style_not_migrated"
+    },
+    {
+        "id": 36040,
+        "file": "components\/ILIAS\/Style\/Content\/Characteristic\/class.ilStyleCharacteristicGUI.php",
+        "line": 143,
+        "code": "$lng->txt('sty_legacy_image_directory_found')",
+        "has_variable": false,
+        "variable": "sty_legacy_image_directory_found"
+    },
+    {
+        "id": 36042,
+        "file": "components\/ILIAS\/Style\/Content\/Characteristic\/class.ilStyleCharacteristicGUI.php",
+        "line": 146,
+        "code": "$lng->txt('sty_migrate_images')",
+        "has_variable": false,
+        "variable": "sty_migrate_images"
+    },
+    {
+        "id": 36044,
+        "file": "components\/ILIAS\/Style\/Content\/Characteristic\/class.ilStyleCharacteristicGUI.php",
+        "line": 184,
+        "code": "$lng->txt(\"sty_add_characteristic\")",
+        "has_variable": false,
+        "variable": "sty_add_characteristic"
+    },
+    {
+        "id": 36046,
+        "file": "components\/ILIAS\/Style\/Content\/Characteristic\/class.ilStyleCharacteristicGUI.php",
+        "line": 194,
+        "code": "$lng->txt(\"sty_paste_style_classes\")",
+        "has_variable": false,
+        "variable": "sty_paste_style_classes"
+    },
+    {
+        "id": 36048,
+        "file": "components\/ILIAS\/Style\/Content\/Characteristic\/class.ilStyleCharacteristicGUI.php",
+        "line": 224,
+        "code": "$lng->txt(\"sty_\" . $super_type . \"_char\")",
+        "has_variable": true,
+        "variable": "\"sty_\" . $super_type . \"_char\""
+    },
+    {
+        "id": 36050,
+        "file": "components\/ILIAS\/Style\/Content\/Characteristic\/class.ilStyleCharacteristicGUI.php",
+        "line": 253,
+        "code": "$lng->txt(\"sty_characteristic_already_exists\")",
+        "has_variable": false,
+        "variable": "sty_characteristic_already_exists"
+    },
+    {
+        "id": 36052,
+        "file": "components\/ILIAS\/Style\/Content\/Characteristic\/class.ilStyleCharacteristicGUI.php",
+        "line": 256,
+        "code": "$lng->txt(\"sty_added_characteristic\")",
+        "has_variable": false,
+        "variable": "sty_added_characteristic"
+    },
+    {
+        "id": 36054,
+        "file": "components\/ILIAS\/Style\/Content\/Characteristic\/class.ilStyleCharacteristicGUI.php",
+        "line": 280,
+        "code": "$lng->txt(\"no_checkbox\")",
+        "has_variable": false,
+        "variable": "no_checkbox"
+    },
+    {
+        "id": 36056,
+        "file": "components\/ILIAS\/Style\/Content\/Characteristic\/class.ilStyleCharacteristicGUI.php",
+        "line": 294,
+        "code": "$lng->txt(\"sty_confirm_char_deletion\")",
+        "has_variable": false,
+        "variable": "sty_confirm_char_deletion"
+    },
+    {
+        "id": 36058,
+        "file": "components\/ILIAS\/Style\/Content\/Characteristic\/class.ilStyleCharacteristicGUI.php",
+        "line": 295,
+        "code": "$lng->txt(\"cancel\")",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 36060,
+        "file": "components\/ILIAS\/Style\/Content\/Characteristic\/class.ilStyleCharacteristicGUI.php",
+        "line": 296,
+        "code": "$lng->txt(\"delete\")",
+        "has_variable": false,
+        "variable": "delete"
+    },
+    {
+        "id": 36062,
+        "file": "components\/ILIAS\/Style\/Content\/Characteristic\/class.ilStyleCharacteristicGUI.php",
+        "line": 334,
+        "code": "$lng->txt(\"sty_all_styles_obligatory\")",
+        "has_variable": false,
+        "variable": "sty_all_styles_obligatory"
+    },
+    {
+        "id": 36064,
+        "file": "components\/ILIAS\/Style\/Content\/Characteristic\/class.ilStyleCharacteristicGUI.php",
+        "line": 335,
+        "code": "$lng->txt(\"back\")",
+        "has_variable": false,
+        "variable": "back"
+    },
+    {
+        "id": 36066,
+        "file": "components\/ILIAS\/Style\/Content\/Characteristic\/class.ilStyleCharacteristicGUI.php",
+        "line": 336,
+        "code": "$lng->txt(\"ok\")",
+        "has_variable": false,
+        "variable": "ok"
+    },
+    {
+        "id": 36068,
+        "file": "components\/ILIAS\/Style\/Content\/Characteristic\/class.ilStyleCharacteristicGUI.php",
+        "line": 338,
+        "code": "$lng->txt(\"sty_some_styles_obligatory_delete_rest\")",
+        "has_variable": false,
+        "variable": "sty_some_styles_obligatory_delete_rest"
+    },
+    {
+        "id": 36070,
+        "file": "components\/ILIAS\/Style\/Content\/Characteristic\/class.ilStyleCharacteristicGUI.php",
+        "line": 339,
+        "code": "$lng->txt(\"cancel\")",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 36072,
+        "file": "components\/ILIAS\/Style\/Content\/Characteristic\/class.ilStyleCharacteristicGUI.php",
+        "line": 340,
+        "code": "$lng->txt(\"sty_delete_other_selected\")",
+        "has_variable": false,
+        "variable": "sty_delete_other_selected"
+    },
+    {
+        "id": 36074,
+        "file": "components\/ILIAS\/Style\/Content\/Characteristic\/class.ilStyleCharacteristicGUI.php",
+        "line": 351,
+        "code": "$lng->txt(\"action_aborted\")",
+        "has_variable": false,
+        "variable": "action_aborted"
+    },
+    {
+        "id": 36076,
+        "file": "components\/ILIAS\/Style\/Content\/Characteristic\/class.ilStyleCharacteristicGUI.php",
+        "line": 390,
+        "code": "$lng->txt(\"title\")",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 36078,
+        "file": "components\/ILIAS\/Style\/Content\/Characteristic\/class.ilStyleCharacteristicGUI.php",
+        "line": 392,
+        "code": "$lng->txt(\"sty_msg_characteristic_must_only_include\")",
+        "has_variable": false,
+        "variable": "sty_msg_characteristic_must_only_include"
+    },
+    {
+        "id": 36080,
+        "file": "components\/ILIAS\/Style\/Content\/Characteristic\/class.ilStyleCharacteristicGUI.php",
+        "line": 402,
+        "code": "$lng->txt(\"sty_type_\" . $t)",
+        "has_variable": true,
+        "variable": "\"sty_type_\" . $t"
+    },
+    {
+        "id": 36082,
+        "file": "components\/ILIAS\/Style\/Content\/Characteristic\/class.ilStyleCharacteristicGUI.php",
+        "line": 406,
+        "code": "$lng->txt(\"sty_type\")",
+        "has_variable": false,
+        "variable": "sty_type"
+    },
+    {
+        "id": 36084,
+        "file": "components\/ILIAS\/Style\/Content\/Characteristic\/class.ilStyleCharacteristicGUI.php",
+        "line": 416,
+        "code": "$lng->txt(\"sty_add_characteristic\")",
+        "has_variable": false,
+        "variable": "sty_add_characteristic"
+    },
+    {
+        "id": 36086,
+        "file": "components\/ILIAS\/Style\/Content\/Characteristic\/class.ilStyleCharacteristicGUI.php",
+        "line": 417,
+        "code": "$lng->txt(\"save\")",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 36088,
+        "file": "components\/ILIAS\/Style\/Content\/Characteristic\/class.ilStyleCharacteristicGUI.php",
+        "line": 418,
+        "code": "$lng->txt(\"cancel\")",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 36090,
+        "file": "components\/ILIAS\/Style\/Content\/Characteristic\/class.ilStyleCharacteristicGUI.php",
+        "line": 434,
+        "code": "$lng->txt(\"back\")",
+        "has_variable": false,
+        "variable": "back"
+    },
+    {
+        "id": 36092,
+        "file": "components\/ILIAS\/Style\/Content\/Characteristic\/class.ilStyleCharacteristicGUI.php",
+        "line": 442,
+        "code": "$lng->txt(\"sty_parameters\")",
+        "has_variable": false,
+        "variable": "sty_parameters"
+    },
+    {
+        "id": 36094,
+        "file": "components\/ILIAS\/Style\/Content\/Characteristic\/class.ilStyleCharacteristicGUI.php",
+        "line": 449,
+        "code": "$lng->txt(\"sty_titles\")",
+        "has_variable": false,
+        "variable": "sty_titles"
+    },
+    {
+        "id": 36096,
+        "file": "components\/ILIAS\/Style\/Content\/Characteristic\/class.ilStyleCharacteristicGUI.php",
+        "line": 467,
+        "code": "$lng->txt(\"sty_tag_normal\")",
+        "has_variable": false,
+        "variable": "sty_tag_normal"
+    },
+    {
+        "id": 36098,
+        "file": "components\/ILIAS\/Style\/Content\/Characteristic\/class.ilStyleCharacteristicGUI.php",
+        "line": 511,
+        "code": "$lng->txt(\"sty_default\")",
+        "has_variable": false,
+        "variable": "sty_default"
+    },
+    {
+        "id": 36100,
+        "file": "components\/ILIAS\/Style\/Content\/Characteristic\/class.ilStyleCharacteristicGUI.php",
+        "line": 521,
+        "code": "$lng->txt(\"sty_switch\")",
+        "has_variable": false,
+        "variable": "sty_switch"
+    },
+    {
+        "id": 36102,
+        "file": "components\/ILIAS\/Style\/Content\/Characteristic\/class.ilStyleCharacteristicGUI.php",
+        "line": 557,
+        "code": "$lng->txt(\"sty_\" . $k)",
+        "has_variable": true,
+        "variable": "\"sty_\" . $k"
+    },
+    {
+        "id": 36104,
+        "file": "components\/ILIAS\/Style\/Content\/Characteristic\/class.ilStyleCharacteristicGUI.php",
+        "line": 568,
+        "code": "$lng->txt(\"sty_\" . $var)",
+        "has_variable": true,
+        "variable": "\"sty_\" . $var"
+    },
+    {
+        "id": 36106,
+        "file": "components\/ILIAS\/Style\/Content\/Characteristic\/class.ilStyleCharacteristicGUI.php",
+        "line": 578,
+        "code": "$lng->txt(\"sty_\" . $var)",
+        "has_variable": true,
+        "variable": "\"sty_\" . $var"
+    },
+    {
+        "id": 36108,
+        "file": "components\/ILIAS\/Style\/Content\/Characteristic\/class.ilStyleCharacteristicGUI.php",
+        "line": 585,
+        "code": "$lng->txt(\"sty_\" . $var)",
+        "has_variable": true,
+        "variable": "\"sty_\" . $var"
+    },
+    {
+        "id": 36110,
+        "file": "components\/ILIAS\/Style\/Content\/Characteristic\/class.ilStyleCharacteristicGUI.php",
+        "line": 591,
+        "code": "$lng->txt(\"sty_\" . $var)",
+        "has_variable": true,
+        "variable": "\"sty_\" . $var"
+    },
+    {
+        "id": 36112,
+        "file": "components\/ILIAS\/Style\/Content\/Characteristic\/class.ilStyleCharacteristicGUI.php",
+        "line": 599,
+        "code": "$lng->txt(\"sty_\" . $var)",
+        "has_variable": true,
+        "variable": "\"sty_\" . $var"
+    },
+    {
+        "id": 36114,
+        "file": "components\/ILIAS\/Style\/Content\/Characteristic\/class.ilStyleCharacteristicGUI.php",
+        "line": 608,
+        "code": "$lng->txt(\"sty_\" . $var)",
+        "has_variable": true,
+        "variable": "\"sty_\" . $var"
+    },
+    {
+        "id": 36116,
+        "file": "components\/ILIAS\/Style\/Content\/Characteristic\/class.ilStyleCharacteristicGUI.php",
+        "line": 615,
+        "code": "$lng->txt(\"sty_\" . $var)",
+        "has_variable": true,
+        "variable": "\"sty_\" . $var"
+    },
+    {
+        "id": 36118,
+        "file": "components\/ILIAS\/Style\/Content\/Characteristic\/class.ilStyleCharacteristicGUI.php",
+        "line": 623,
+        "code": "$lng->txt(\"sty_\" . $var)",
+        "has_variable": true,
+        "variable": "\"sty_\" . $var"
+    },
+    {
+        "id": 36120,
+        "file": "components\/ILIAS\/Style\/Content\/Characteristic\/class.ilStyleCharacteristicGUI.php",
+        "line": 628,
+        "code": "$lng->txt(\"sty_\" . $var)",
+        "has_variable": true,
+        "variable": "\"sty_\" . $var"
+    },
+    {
+        "id": 36122,
+        "file": "components\/ILIAS\/Style\/Content\/Characteristic\/class.ilStyleCharacteristicGUI.php",
+        "line": 633,
+        "code": "$lng->txt(\"sty_\" . $var)",
+        "has_variable": true,
+        "variable": "\"sty_\" . $var"
+    },
+    {
+        "id": 36124,
+        "file": "components\/ILIAS\/Style\/Content\/Characteristic\/class.ilStyleCharacteristicGUI.php",
+        "line": 639,
+        "code": "$lng->txt(\"sty_\" . $var)",
+        "has_variable": true,
+        "variable": "\"sty_\" . $var"
+    },
+    {
+        "id": 36126,
+        "file": "components\/ILIAS\/Style\/Content\/Characteristic\/class.ilStyleCharacteristicGUI.php",
+        "line": 645,
+        "code": "$lng->txt(\"sty_bg_img_info\")",
+        "has_variable": false,
+        "variable": "sty_bg_img_info"
+    },
+    {
+        "id": 36128,
+        "file": "components\/ILIAS\/Style\/Content\/Characteristic\/class.ilStyleCharacteristicGUI.php",
+        "line": 650,
+        "code": "$lng->txt(\"sty_\" . $var)",
+        "has_variable": true,
+        "variable": "\"sty_\" . $var"
+    },
+    {
+        "id": 36130,
+        "file": "components\/ILIAS\/Style\/Content\/Characteristic\/class.ilStyleCharacteristicGUI.php",
+        "line": 659,
+        "code": "$lng->txt(\"sty_custom\")",
+        "has_variable": false,
+        "variable": "sty_custom"
+    },
+    {
+        "id": 36132,
+        "file": "components\/ILIAS\/Style\/Content\/Characteristic\/class.ilStyleCharacteristicGUI.php",
+        "line": 663,
+        "code": "$lng->txt(\"sty_custom_par\")",
+        "has_variable": false,
+        "variable": "sty_custom_par"
+    },
+    {
+        "id": 36134,
+        "file": "components\/ILIAS\/Style\/Content\/Characteristic\/class.ilStyleCharacteristicGUI.php",
+        "line": 667,
+        "code": "$lng->txt(\"sty_custom_par_info\")",
+        "has_variable": false,
+        "variable": "sty_custom_par_info"
+    },
+    {
+        "id": 36136,
+        "file": "components\/ILIAS\/Style\/Content\/Characteristic\/class.ilStyleCharacteristicGUI.php",
+        "line": 672,
+        "code": "$lng->txt(\"save_return\")",
+        "has_variable": false,
+        "variable": "save_return"
+    },
+    {
+        "id": 36138,
+        "file": "components\/ILIAS\/Style\/Content\/Characteristic\/class.ilStyleCharacteristicGUI.php",
+        "line": 673,
+        "code": "$lng->txt(\"save_refresh\")",
+        "has_variable": false,
+        "variable": "save_refresh"
+    },
+    {
+        "id": 36140,
+        "file": "components\/ILIAS\/Style\/Content\/Characteristic\/class.ilStyleCharacteristicGUI.php",
+        "line": 756,
+        "code": "$lng->txt(\"sty_type_\" . $this->style_type)",
+        "has_variable": true,
+        "variable": "\"sty_type_\" . $this->style_type"
+    },
+    {
+        "id": 36142,
+        "file": "components\/ILIAS\/Style\/Content\/Characteristic\/class.ilStyleCharacteristicGUI.php",
+        "line": 920,
+        "code": "$lng->txt(\"title\")",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 36144,
+        "file": "components\/ILIAS\/Style\/Content\/Characteristic\/class.ilStyleCharacteristicGUI.php",
+        "line": 921,
+        "code": "$lng->txt(\"meta_l_\" . $l)",
+        "has_variable": true,
+        "variable": "\"meta_l_\" . $l"
+    },
+    {
+        "id": 36146,
+        "file": "components\/ILIAS\/Style\/Content\/Characteristic\/class.ilStyleCharacteristicGUI.php",
+        "line": 927,
+        "code": "$lng->txt(\"sty_titles\")",
+        "has_variable": false,
+        "variable": "sty_titles"
+    },
+    {
+        "id": 36148,
+        "file": "components\/ILIAS\/Style\/Content\/Characteristic\/class.ilStyleCharacteristicGUI.php",
+        "line": 957,
+        "code": "$lng->txt(\"msg_obj_modified\")",
+        "has_variable": false,
+        "variable": "msg_obj_modified"
+    },
+    {
+        "id": 36150,
+        "file": "components\/ILIAS\/Style\/Content\/Characteristic\/class.ilStyleCharacteristicGUI.php",
+        "line": 1002,
+        "code": "$lng->txt(\"msg_obj_modified\")",
+        "has_variable": false,
+        "variable": "msg_obj_modified"
+    },
+    {
+        "id": 36152,
+        "file": "components\/ILIAS\/Style\/Content\/Characteristic\/class.ilStyleCharacteristicGUI.php",
+        "line": 1021,
+        "code": "$lng->txt(\"msg_obj_modified\")",
+        "has_variable": false,
+        "variable": "msg_obj_modified"
+    },
+    {
+        "id": 36154,
+        "file": "components\/ILIAS\/Style\/Content\/Characteristic\/class.ilStyleCharacteristicGUI.php",
+        "line": 1030,
+        "code": "$lng->txt(\"msg_obj_modified\")",
+        "has_variable": false,
+        "variable": "msg_obj_modified"
+    },
+    {
+        "id": 36156,
+        "file": "components\/ILIAS\/Style\/Content\/Characteristic\/class.ilStyleCharacteristicGUI.php",
+        "line": 1051,
+        "code": "$lng->txt(\"msg_obj_modified\")",
+        "has_variable": false,
+        "variable": "msg_obj_modified"
+    },
+    {
+        "id": 36158,
+        "file": "components\/ILIAS\/Style\/Content\/Characteristic\/class.ilStyleCharacteristicGUI.php",
+        "line": 1060,
+        "code": "$lng->txt(\"msg_obj_modified\")",
+        "has_variable": false,
+        "variable": "msg_obj_modified"
+    },
+    {
+        "id": 36160,
+        "file": "components\/ILIAS\/Style\/Content\/Characteristic\/class.ilStyleCharacteristicGUI.php",
+        "line": 1079,
+        "code": "$lng->txt(\"sty_cannot_be_copied\")",
+        "has_variable": false,
+        "variable": "sty_cannot_be_copied"
+    },
+    {
+        "id": 36162,
+        "file": "components\/ILIAS\/Style\/Content\/Characteristic\/class.ilStyleCharacteristicGUI.php",
+        "line": 1079,
+        "code": "$lng->txt(\"sty_type_\" . $type_arr[0] ?? \"\")",
+        "has_variable": true,
+        "variable": "\"sty_type_\" . $type_arr[0] ?? \"\""
+    },
+    {
+        "id": 36164,
+        "file": "components\/ILIAS\/Style\/Content\/Characteristic\/class.ilStyleCharacteristicGUI.php",
+        "line": 1087,
+        "code": "$lng->txt(\"no_checkbox\")",
+        "has_variable": false,
+        "variable": "no_checkbox"
+    },
+    {
+        "id": 36166,
+        "file": "components\/ILIAS\/Style\/Content\/Characteristic\/class.ilStyleCharacteristicGUI.php",
+        "line": 1093,
+        "code": "$lng->txt(\"sty_copied_please_select_target\")",
+        "has_variable": false,
+        "variable": "sty_copied_please_select_target"
+    },
+    {
+        "id": 36168,
+        "file": "components\/ILIAS\/Style\/Content\/Characteristic\/class.ilStyleCharacteristicGUI.php",
+        "line": 1160,
+        "code": "$lng->txt(\"sty_create_new_class\")",
+        "has_variable": false,
+        "variable": "sty_create_new_class"
+    },
+    {
+        "id": 36170,
+        "file": "components\/ILIAS\/Style\/Content\/Characteristic\/class.ilStyleCharacteristicGUI.php",
+        "line": 1165,
+        "code": "$lng->txt(\"sty_class\")",
+        "has_variable": false,
+        "variable": "sty_class"
+    },
+    {
+        "id": 36172,
+        "file": "components\/ILIAS\/Style\/Content\/Characteristic\/class.ilStyleCharacteristicGUI.php",
+        "line": 1169,
+        "code": "$lng->txt(\"sty_overwrite_existing_class\")",
+        "has_variable": false,
+        "variable": "sty_overwrite_existing_class"
+    },
+    {
+        "id": 36174,
+        "file": "components\/ILIAS\/Style\/Content\/Characteristic\/class.ilStyleCharacteristicGUI.php",
+        "line": 1181,
+        "code": "$lng->txt(\"sty_paste_chars\")",
+        "has_variable": false,
+        "variable": "sty_paste_chars"
+    },
+    {
+        "id": 36176,
+        "file": "components\/ILIAS\/Style\/Content\/Characteristic\/class.ilStyleCharacteristicGUI.php",
+        "line": 1205,
+        "code": "$lng->txt(\"sty_msg_characteristic_must_only_include\")",
+        "has_variable": false,
+        "variable": "sty_msg_characteristic_must_only_include"
+    },
+    {
+        "id": 36178,
+        "file": "components\/ILIAS\/Style\/Content\/Characteristic\/class.ilStyleCharacteristicGUI.php",
+        "line": 1209,
+        "code": "$lng->txt(\"sty_characteristic_already_exists\")",
+        "has_variable": false,
+        "variable": "sty_characteristic_already_exists"
+    },
+    {
+        "id": 36180,
+        "file": "components\/ILIAS\/Style\/Content\/Characteristic\/class.ilStyleCharacteristicGUI.php",
+        "line": 1212,
+        "code": "$lng->txt(\"sty_class_name\")",
+        "has_variable": false,
+        "variable": "sty_class_name"
+    },
+    {
+        "id": 36182,
+        "file": "components\/ILIAS\/Style\/Content\/Characteristic\/class.ilStyleCharacteristicGUI.php",
+        "line": 1218,
+        "code": "$lng->txt(\"title\")",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 36184,
+        "file": "components\/ILIAS\/Style\/Content\/Characteristic\/class.ilStyleCharacteristicGUI.php",
+        "line": 1219,
+        "code": "$lng->txt(\"meta_l_\" . $l)",
+        "has_variable": true,
+        "variable": "\"meta_l_\" . $l"
+    },
+    {
+        "id": 36186,
+        "file": "components\/ILIAS\/Style\/Content\/Characteristic\/class.ilStyleCharacteristicGUI.php",
+        "line": 1262,
+        "code": "$lng->txt(\"msg_obj_modified\")",
+        "has_variable": false,
+        "variable": "msg_obj_modified"
+    },
+    {
+        "id": 36188,
+        "file": "components\/ILIAS\/Style\/Content\/Characteristic\/class.ilStyleCharacteristicGUI.php",
+        "line": 1322,
+        "code": "$lng->txt(\"msg_obj_modified\")",
+        "has_variable": false,
+        "variable": "msg_obj_modified"
+    },
+    {
+        "id": 36190,
+        "file": "components\/ILIAS\/Style\/Content\/Characteristic\/class.ilStyleCharacteristicGUI.php",
+        "line": 1352,
+        "code": "$lng->txt(\"sty_style_classes_copied\")",
+        "has_variable": false,
+        "variable": "sty_style_classes_copied"
+    },
+    {
+        "id": 36192,
+        "file": "components\/ILIAS\/Style\/Content\/Color\/class.ilStyleColorTableGUI.php",
+        "line": 53,
+        "code": "$lng->txt(\"sty_colors\")",
+        "has_variable": false,
+        "variable": "sty_colors"
+    },
+    {
+        "id": 36194,
+        "file": "components\/ILIAS\/Style\/Content\/Color\/class.ilStyleColorTableGUI.php",
+        "line": 54,
+        "code": "$lng->txt(\"sty_color_info\")",
+        "has_variable": false,
+        "variable": "sty_color_info"
+    },
+    {
+        "id": 36196,
+        "file": "components\/ILIAS\/Style\/Content\/Color\/class.ilStyleColorTableGUI.php",
+        "line": 58,
+        "code": "$this->lng->txt(\"sty_color_name\")",
+        "has_variable": false,
+        "variable": "sty_color_name"
+    },
+    {
+        "id": 36198,
+        "file": "components\/ILIAS\/Style\/Content\/Color\/class.ilStyleColorTableGUI.php",
+        "line": 59,
+        "code": "$this->lng->txt(\"sty_color_code\")",
+        "has_variable": false,
+        "variable": "sty_color_code"
+    },
+    {
+        "id": 36200,
+        "file": "components\/ILIAS\/Style\/Content\/Color\/class.ilStyleColorTableGUI.php",
+        "line": 60,
+        "code": "$this->lng->txt(\"sty_color\")",
+        "has_variable": false,
+        "variable": "sty_color"
+    },
+    {
+        "id": 36202,
+        "file": "components\/ILIAS\/Style\/Content\/Color\/class.ilStyleColorTableGUI.php",
+        "line": 61,
+        "code": "$this->lng->txt(\"sty_color_flavors\")",
+        "has_variable": false,
+        "variable": "sty_color_flavors"
+    },
+    {
+        "id": 36204,
+        "file": "components\/ILIAS\/Style\/Content\/Color\/class.ilStyleColorTableGUI.php",
+        "line": 62,
+        "code": "$this->lng->txt(\"sty_commands\")",
+        "has_variable": false,
+        "variable": "sty_commands"
+    },
+    {
+        "id": 36206,
+        "file": "components\/ILIAS\/Style\/Content\/Color\/class.ilStyleColorTableGUI.php",
+        "line": 71,
+        "code": "$lng->txt(\"delete\")",
+        "has_variable": false,
+        "variable": "delete"
+    },
+    {
+        "id": 36208,
+        "file": "components\/ILIAS\/Style\/Content\/Color\/class.ilStyleColorTableGUI.php",
+        "line": 102,
+        "code": "$lng->txt(\"edit\")",
+        "has_variable": false,
+        "variable": "edit"
+    },
+    {
+        "id": 36210,
+        "file": "components\/ILIAS\/Style\/Content\/Images\/class.ilContentStyleImageGUI.php",
+        "line": 106,
+        "code": "$lng->txt(\"sty_add_image\")",
+        "has_variable": false,
+        "variable": "sty_add_image"
+    },
+    {
+        "id": 36212,
+        "file": "components\/ILIAS\/Style\/Content\/Images\/class.ilContentStyleImageGUI.php",
+        "line": 145,
+        "code": "$this->lng->txt(\"sty_add_image\")",
+        "has_variable": false,
+        "variable": "sty_add_image"
+    },
+    {
+        "id": 36214,
+        "file": "components\/ILIAS\/Style\/Content\/Images\/class.ilContentStyleImageGUI.php",
+        "line": 148,
+        "code": "$this->lng->txt(\"sty_image_file\")",
+        "has_variable": false,
+        "variable": "sty_image_file"
+    },
+    {
+        "id": 36216,
+        "file": "components\/ILIAS\/Style\/Content\/Images\/class.ilContentStyleImageGUI.php",
+        "line": 197,
+        "code": "$lng->txt(\"cont_width\")",
+        "has_variable": false,
+        "variable": "cont_width"
+    },
+    {
+        "id": 36218,
+        "file": "components\/ILIAS\/Style\/Content\/Images\/class.ilContentStyleImageGUI.php",
+        "line": 198,
+        "code": "$lng->txt(\"cont_height\")",
+        "has_variable": false,
+        "variable": "cont_height"
+    },
+    {
+        "id": 36220,
+        "file": "components\/ILIAS\/Style\/Content\/Images\/class.ilContentStyleImageGUI.php",
+        "line": 209,
+        "code": "$lng->txt(\"sty_resize\")",
+        "has_variable": false,
+        "variable": "sty_resize"
+    },
+    {
+        "id": 36222,
+        "file": "components\/ILIAS\/Style\/Content\/Images\/class.ilContentStyleImageGUI.php",
+        "line": 211,
+        "code": "$lng->txt(\"sty_resize_image\")",
+        "has_variable": false,
+        "variable": "sty_resize_image"
+    },
+    {
+        "id": 36224,
+        "file": "components\/ILIAS\/Style\/Content\/Images\/class.ilContentStyleImageGUI.php",
+        "line": 234,
+        "code": "$lng->txt(\"msg_obj_modified\")",
+        "has_variable": false,
+        "variable": "msg_obj_modified"
+    },
+    {
+        "id": 36226,
+        "file": "components\/ILIAS\/Style\/Content\/Images\/class.ilStyleImageTableGUI.php",
+        "line": 62,
+        "code": "$lng->txt(\"sty_images\")",
+        "has_variable": false,
+        "variable": "sty_images"
+    },
+    {
+        "id": 36228,
+        "file": "components\/ILIAS\/Style\/Content\/Images\/class.ilStyleImageTableGUI.php",
+        "line": 65,
+        "code": "$this->lng->txt(\"thumbnail\")",
+        "has_variable": false,
+        "variable": "thumbnail"
+    },
+    {
+        "id": 36230,
+        "file": "components\/ILIAS\/Style\/Content\/Images\/class.ilStyleImageTableGUI.php",
+        "line": 66,
+        "code": "$this->lng->txt(\"file\")",
+        "has_variable": false,
+        "variable": "file"
+    },
+    {
+        "id": 36232,
+        "file": "components\/ILIAS\/Style\/Content\/Images\/class.ilStyleImageTableGUI.php",
+        "line": 67,
+        "code": "$this->lng->txt(\"sty_width_height\")",
+        "has_variable": false,
+        "variable": "sty_width_height"
+    },
+    {
+        "id": 36234,
+        "file": "components\/ILIAS\/Style\/Content\/Images\/class.ilStyleImageTableGUI.php",
+        "line": 68,
+        "code": "$this->lng->txt(\"size\")",
+        "has_variable": false,
+        "variable": "size"
+    },
+    {
+        "id": 36236,
+        "file": "components\/ILIAS\/Style\/Content\/Images\/class.ilStyleImageTableGUI.php",
+        "line": 69,
+        "code": "$this->lng->txt(\"actions\")",
+        "has_variable": false,
+        "variable": "actions"
+    },
+    {
+        "id": 36238,
+        "file": "components\/ILIAS\/Style\/Content\/Images\/class.ilStyleImageTableGUI.php",
+        "line": 78,
+        "code": "$lng->txt(\"delete\")",
+        "has_variable": false,
+        "variable": "delete"
+    },
+    {
+        "id": 36240,
+        "file": "components\/ILIAS\/Style\/Content\/Images\/class.ilStyleImageTableGUI.php",
+        "line": 81,
+        "code": "$lng->txt(\"cont_set_link\")",
+        "has_variable": false,
+        "variable": "cont_set_link"
+    },
+    {
+        "id": 36242,
+        "file": "components\/ILIAS\/Style\/Content\/Images\/class.ilStyleImageTableGUI.php",
+        "line": 82,
+        "code": "$this->lng->txt(\"sty_add_image\")",
+        "has_variable": false,
+        "variable": "sty_add_image"
+    },
+    {
+        "id": 36244,
+        "file": "components\/ILIAS\/Style\/Content\/Images\/class.ilStyleImageTableGUI.php",
+        "line": 140,
+        "code": "$this->lng->txt(\"sty_resize\")",
+        "has_variable": false,
+        "variable": "sty_resize"
+    },
+    {
+        "id": 36246,
+        "file": "components\/ILIAS\/Style\/Content\/Object\/class.ilObjectContentStyleSettingsGUI.php",
+        "line": 117,
+        "code": "$lng->txt(\"style_current_style\")",
+        "has_variable": false,
+        "variable": "style_current_style"
+    },
+    {
+        "id": 36248,
+        "file": "components\/ILIAS\/Style\/Content\/Object\/class.ilObjectContentStyleSettingsGUI.php",
+        "line": 119,
+        "code": "$lng->txt(\"global_fixed\")",
+        "has_variable": false,
+        "variable": "global_fixed"
+    },
+    {
+        "id": 36250,
+        "file": "components\/ILIAS\/Style\/Content\/Object\/class.ilObjectContentStyleSettingsGUI.php",
+        "line": 128,
+        "code": "$lng->txt(\"default\")",
+        "has_variable": false,
+        "variable": "default"
+    },
+    {
+        "id": 36252,
+        "file": "components\/ILIAS\/Style\/Content\/Object\/class.ilObjectContentStyleSettingsGUI.php",
+        "line": 133,
+        "code": "$lng->txt(\"style_current_style\")",
+        "has_variable": false,
+        "variable": "style_current_style"
+    },
+    {
+        "id": 36254,
+        "file": "components\/ILIAS\/Style\/Content\/Object\/class.ilObjectContentStyleSettingsGUI.php",
+        "line": 138,
+        "code": "$lng->txt(\"style_support_reuse\")",
+        "has_variable": false,
+        "variable": "style_support_reuse"
+    },
+    {
+        "id": 36256,
+        "file": "components\/ILIAS\/Style\/Content\/Object\/class.ilObjectContentStyleSettingsGUI.php",
+        "line": 139,
+        "code": "$lng->txt(\"style_support_reuse_info\")",
+        "has_variable": false,
+        "variable": "style_support_reuse_info"
+    },
+    {
+        "id": 36258,
+        "file": "components\/ILIAS\/Style\/Content\/Object\/class.ilObjectContentStyleSettingsGUI.php",
+        "line": 145,
+        "code": "$lng->txt(\"save\")",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 36260,
+        "file": "components\/ILIAS\/Style\/Content\/Object\/class.ilObjectContentStyleSettingsGUI.php",
+        "line": 153,
+        "code": "$lng->txt(\"style_edit_style\")",
+        "has_variable": false,
+        "variable": "style_edit_style"
+    },
+    {
+        "id": 36262,
+        "file": "components\/ILIAS\/Style\/Content\/Object\/class.ilObjectContentStyleSettingsGUI.php",
+        "line": 158,
+        "code": "$lng->txt(\"style_delete_style\")",
+        "has_variable": false,
+        "variable": "style_delete_style"
+    },
+    {
+        "id": 36264,
+        "file": "components\/ILIAS\/Style\/Content\/Object\/class.ilObjectContentStyleSettingsGUI.php",
+        "line": 165,
+        "code": "$lng->txt(\"style_current_style\")",
+        "has_variable": false,
+        "variable": "style_current_style"
+    },
+    {
+        "id": 36266,
+        "file": "components\/ILIAS\/Style\/Content\/Object\/class.ilObjectContentStyleSettingsGUI.php",
+        "line": 175,
+        "code": "$lng->txt(\"save\")",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 36268,
+        "file": "components\/ILIAS\/Style\/Content\/Object\/class.ilObjectContentStyleSettingsGUI.php",
+        "line": 180,
+        "code": "$lng->txt(\"sty_create_ind_style\")",
+        "has_variable": false,
+        "variable": "sty_create_ind_style"
+    },
+    {
+        "id": 36270,
+        "file": "components\/ILIAS\/Style\/Content\/Object\/class.ilObjectContentStyleSettingsGUI.php",
+        "line": 185,
+        "code": "$lng->txt(\"obj_sty\")",
+        "has_variable": false,
+        "variable": "obj_sty"
+    },
+    {
+        "id": 36272,
+        "file": "components\/ILIAS\/Style\/Content\/Object\/class.ilObjectContentStyleSettingsGUI.php",
+        "line": 280,
+        "code": "$lng->txt(\"msg_obj_modified\")",
+        "has_variable": false,
+        "variable": "msg_obj_modified"
+    },
+    {
+        "id": 36274,
+        "file": "components\/ILIAS\/Style\/Content\/Object\/class.ilObjectContentStyleSettingsGUI.php",
+        "line": 294,
+        "code": "$lng->txt(\"msg_obj_modified\")",
+        "has_variable": false,
+        "variable": "msg_obj_modified"
+    },
+    {
+        "id": 36276,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilContentStyleSettingsGUI.php",
+        "line": 126,
+        "code": "$this->lng->txt(\"permission_denied\")",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 36278,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilContentStyleSettingsGUI.php",
+        "line": 171,
+        "code": "$this->lng->txt(\"sty_individual_styles\")",
+        "has_variable": false,
+        "variable": "sty_individual_styles"
+    },
+    {
+        "id": 36280,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilContentStyleSettingsGUI.php",
+        "line": 173,
+        "code": "$this->lng->txt(\"sty_individual_styles\")",
+        "has_variable": false,
+        "variable": "sty_individual_styles"
+    },
+    {
+        "id": 36282,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilContentStyleSettingsGUI.php",
+        "line": 179,
+        "code": "$this->lng->txt(\"sty_default_style\")",
+        "has_variable": false,
+        "variable": "sty_default_style"
+    },
+    {
+        "id": 36284,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilContentStyleSettingsGUI.php",
+        "line": 181,
+        "code": "$this->lng->txt(\"sty_default_style\")",
+        "has_variable": false,
+        "variable": "sty_default_style"
+    },
+    {
+        "id": 36286,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilContentStyleSettingsGUI.php",
+        "line": 182,
+        "code": "$this->lng->txt(\"sty_default_style\")",
+        "has_variable": false,
+        "variable": "sty_default_style"
+    },
+    {
+        "id": 36288,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilContentStyleSettingsGUI.php",
+        "line": 188,
+        "code": "$this->lng->txt(\"sty_add_content_style\")",
+        "has_variable": false,
+        "variable": "sty_add_content_style"
+    },
+    {
+        "id": 36290,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilContentStyleSettingsGUI.php",
+        "line": 193,
+        "code": "$this->lng->txt(\"import\")",
+        "has_variable": false,
+        "variable": "import"
+    },
+    {
+        "id": 36292,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilContentStyleSettingsGUI.php",
+        "line": 195,
+        "code": "$this->lng->txt(\"import\")",
+        "has_variable": false,
+        "variable": "import"
+    },
+    {
+        "id": 36294,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilContentStyleSettingsGUI.php",
+        "line": 202,
+        "code": "$this->lng->txt(\"sty_move_obj_styles\")",
+        "has_variable": false,
+        "variable": "sty_move_obj_styles"
+    },
+    {
+        "id": 36296,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilContentStyleSettingsGUI.php",
+        "line": 202,
+        "code": "$this->lng->txt(\"sty_from\")",
+        "has_variable": false,
+        "variable": "sty_from"
+    },
+    {
+        "id": 36298,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilContentStyleSettingsGUI.php",
+        "line": 207,
+        "code": "$this->lng->txt(\"sty_to\")",
+        "has_variable": false,
+        "variable": "sty_to"
+    },
+    {
+        "id": 36300,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilContentStyleSettingsGUI.php",
+        "line": 210,
+        "code": "$this->lng->txt(\"sty_move_style\")",
+        "has_variable": false,
+        "variable": "sty_move_style"
+    },
+    {
+        "id": 36302,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilContentStyleSettingsGUI.php",
+        "line": 225,
+        "code": "$this->lng->txt(\"import\")",
+        "has_variable": false,
+        "variable": "import"
+    },
+    {
+        "id": 36304,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilContentStyleSettingsGUI.php",
+        "line": 288,
+        "code": "$this->lng->txt(\"sty_confirm_del_ind_styles\")",
+        "has_variable": false,
+        "variable": "sty_confirm_del_ind_styles"
+    },
+    {
+        "id": 36306,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilContentStyleSettingsGUI.php",
+        "line": 290,
+        "code": "$this->lng->txt(\"sty_confirm_del_ind_styles_desc\")",
+        "has_variable": false,
+        "variable": "sty_confirm_del_ind_styles_desc"
+    },
+    {
+        "id": 36308,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilContentStyleSettingsGUI.php",
+        "line": 293,
+        "code": "$this->lng->txt(\"cancel\")",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 36310,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilContentStyleSettingsGUI.php",
+        "line": 294,
+        "code": "$this->lng->txt(\"ok\")",
+        "has_variable": false,
+        "variable": "ok"
+    },
+    {
+        "id": 36312,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilContentStyleSettingsGUI.php",
+        "line": 307,
+        "code": "$this->lng->txt(\"no_checkbox\")",
+        "has_variable": false,
+        "variable": "no_checkbox"
+    },
+    {
+        "id": 36314,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilContentStyleSettingsGUI.php",
+        "line": 314,
+        "code": "$this->lng->txt(\"info_delete_sure\")",
+        "has_variable": false,
+        "variable": "info_delete_sure"
+    },
+    {
+        "id": 36316,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilContentStyleSettingsGUI.php",
+        "line": 315,
+        "code": "$this->lng->txt(\"cancel\")",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 36318,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilContentStyleSettingsGUI.php",
+        "line": 316,
+        "code": "$this->lng->txt(\"confirm\")",
+        "has_variable": false,
+        "variable": "confirm"
+    },
+    {
+        "id": 36320,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilContentStyleSettingsGUI.php",
+        "line": 366,
+        "code": "$lng->txt(\"msg_obj_modified\")",
+        "has_variable": false,
+        "variable": "msg_obj_modified"
+    },
+    {
+        "id": 36322,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilContentStyleSettingsGUI.php",
+        "line": 389,
+        "code": "$lng->txt(\"msg_obj_modified\")",
+        "has_variable": false,
+        "variable": "msg_obj_modified"
+    },
+    {
+        "id": 36324,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilContentStyleSettingsGUI.php",
+        "line": 415,
+        "code": "$this->lng->txt(\"delete\")",
+        "has_variable": false,
+        "variable": "delete"
+    },
+    {
+        "id": 36326,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilContentStyleSettingsGUI.php",
+        "line": 421,
+        "code": "$this->lng->txt(\"toggleGlobalDefault\")",
+        "has_variable": false,
+        "variable": "toggleGlobalDefault"
+    },
+    {
+        "id": 36328,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilContentStyleSettingsGUI.php",
+        "line": 427,
+        "code": "$this->lng->txt(\"toggleGlobalFixed\")",
+        "has_variable": false,
+        "variable": "toggleGlobalFixed"
+    },
+    {
+        "id": 36330,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilContentStyleSettingsGUI.php",
+        "line": 433,
+        "code": "$this->lng->txt(\"sty_set_scope\")",
+        "has_variable": false,
+        "variable": "sty_set_scope"
+    },
+    {
+        "id": 36332,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilContentStyleSettingsGUI.php",
+        "line": 439,
+        "code": "$this->lng->txt(\"sty_save_active_styles\")",
+        "has_variable": false,
+        "variable": "sty_save_active_styles"
+    },
+    {
+        "id": 36334,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilContentStyleSettingsGUI.php",
+        "line": 449,
+        "code": "$this->lng->txt(\"msg_cancel\")",
+        "has_variable": false,
+        "variable": "msg_cancel"
+    },
+    {
+        "id": 36336,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilContentStyleSettingsGUI.php",
+        "line": 487,
+        "code": "$this->lng->txt(\"msg_obj_modified\")",
+        "has_variable": false,
+        "variable": "msg_obj_modified"
+    },
+    {
+        "id": 36338,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilContentStylesTableGUI.php",
+        "line": 58,
+        "code": "$lng->txt(\"content_styles\")",
+        "has_variable": false,
+        "variable": "content_styles"
+    },
+    {
+        "id": 36340,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilContentStylesTableGUI.php",
+        "line": 61,
+        "code": "$this->lng->txt(\"title\")",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 36342,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilContentStylesTableGUI.php",
+        "line": 62,
+        "code": "$this->lng->txt(\"sty_nr_objects\")",
+        "has_variable": false,
+        "variable": "sty_nr_objects"
+    },
+    {
+        "id": 36344,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilContentStylesTableGUI.php",
+        "line": 63,
+        "code": "$this->lng->txt(\"purpose\")",
+        "has_variable": false,
+        "variable": "purpose"
+    },
+    {
+        "id": 36346,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilContentStylesTableGUI.php",
+        "line": 64,
+        "code": "$this->lng->txt(\"sty_scope\")",
+        "has_variable": false,
+        "variable": "sty_scope"
+    },
+    {
+        "id": 36348,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilContentStylesTableGUI.php",
+        "line": 65,
+        "code": "$this->lng->txt(\"active\")",
+        "has_variable": false,
+        "variable": "active"
+    },
+    {
+        "id": 36350,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilContentStylesTableGUI.php",
+        "line": 66,
+        "code": "$this->lng->txt(\"actions\")",
+        "has_variable": false,
+        "variable": "actions"
+    },
+    {
+        "id": 36352,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilContentStylesTableGUI.php",
+        "line": 71,
+        "code": "$lng->txt(\"delete\")",
+        "has_variable": false,
+        "variable": "delete"
+    },
+    {
+        "id": 36354,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilContentStylesTableGUI.php",
+        "line": 72,
+        "code": "$lng->txt(\"sty_save_active_styles\")",
+        "has_variable": false,
+        "variable": "sty_save_active_styles"
+    },
+    {
+        "id": 36356,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilContentStylesTableGUI.php",
+        "line": 115,
+        "code": "$lng->txt(\"sty_remove_global_default_state\")",
+        "has_variable": false,
+        "variable": "sty_remove_global_default_state"
+    },
+    {
+        "id": 36358,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilContentStylesTableGUI.php",
+        "line": 120,
+        "code": "$lng->txt(\"sty_make_global_default\")",
+        "has_variable": false,
+        "variable": "sty_make_global_default"
+    },
+    {
+        "id": 36360,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilContentStylesTableGUI.php",
+        "line": 128,
+        "code": "$lng->txt(\"sty_remove_global_fixed_state\")",
+        "has_variable": false,
+        "variable": "sty_remove_global_fixed_state"
+    },
+    {
+        "id": 36362,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilContentStylesTableGUI.php",
+        "line": 133,
+        "code": "$lng->txt(\"sty_make_global_fixed\")",
+        "has_variable": false,
+        "variable": "sty_make_global_fixed"
+    },
+    {
+        "id": 36364,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilContentStylesTableGUI.php",
+        "line": 138,
+        "code": "$lng->txt(\"sty_set_scope\")",
+        "has_variable": false,
+        "variable": "sty_set_scope"
+    },
+    {
+        "id": 36366,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilContentStylesTableGUI.php",
+        "line": 147,
+        "code": "$lng->txt(\"global_fixed\")",
+        "has_variable": false,
+        "variable": "global_fixed"
+    },
+    {
+        "id": 36368,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilContentStylesTableGUI.php",
+        "line": 150,
+        "code": "$lng->txt(\"global_default\")",
+        "has_variable": false,
+        "variable": "global_default"
+    },
+    {
+        "id": 36370,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilObjStyleSheet.php",
+        "line": 1013,
+        "code": "$lng->txt(\"sty_acopy\")",
+        "has_variable": false,
+        "variable": "sty_acopy"
+    },
+    {
+        "id": 36372,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilObjStyleSheetGUI.php",
+        "line": 223,
+        "code": "$this->lng->txt(\"option\")",
+        "has_variable": false,
+        "variable": "option"
+    },
+    {
+        "id": 36374,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilObjStyleSheetGUI.php",
+        "line": 239,
+        "code": "$this->lng->txt(\"sty_create_new_stylesheet\")",
+        "has_variable": false,
+        "variable": "sty_create_new_stylesheet"
+    },
+    {
+        "id": 36376,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilObjStyleSheetGUI.php",
+        "line": 248,
+        "code": "$this->lng->txt(\"sty_create_new_stylesheet\")",
+        "has_variable": false,
+        "variable": "sty_create_new_stylesheet"
+    },
+    {
+        "id": 36378,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilObjStyleSheetGUI.php",
+        "line": 251,
+        "code": "$this->lng->txt(\"title\")",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 36380,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilObjStyleSheetGUI.php",
+        "line": 258,
+        "code": "$this->lng->txt(\"description\")",
+        "has_variable": false,
+        "variable": "description"
+    },
+    {
+        "id": 36382,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilObjStyleSheetGUI.php",
+        "line": 263,
+        "code": "$this->lng->txt(\"save\")",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 36384,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilObjStyleSheetGUI.php",
+        "line": 264,
+        "code": "$this->lng->txt(\"cancel\")",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 36386,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilObjStyleSheetGUI.php",
+        "line": 273,
+        "code": "$this->lng->txt(\"sty_import_stylesheet\")",
+        "has_variable": false,
+        "variable": "sty_import_stylesheet"
+    },
+    {
+        "id": 36388,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilObjStyleSheetGUI.php",
+        "line": 276,
+        "code": "$this->lng->txt(\"import_file\")",
+        "has_variable": false,
+        "variable": "import_file"
+    },
+    {
+        "id": 36390,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilObjStyleSheetGUI.php",
+        "line": 280,
+        "code": "$this->lng->txt(\"import\")",
+        "has_variable": false,
+        "variable": "import"
+    },
+    {
+        "id": 36392,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilObjStyleSheetGUI.php",
+        "line": 281,
+        "code": "$this->lng->txt(\"cancel\")",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 36394,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilObjStyleSheetGUI.php",
+        "line": 290,
+        "code": "$this->lng->txt(\"sty_copy_other_stylesheet\")",
+        "has_variable": false,
+        "variable": "sty_copy_other_stylesheet"
+    },
+    {
+        "id": 36396,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilObjStyleSheetGUI.php",
+        "line": 293,
+        "code": "$this->lng->txt(\"sty_source\")",
+        "has_variable": false,
+        "variable": "sty_source"
+    },
+    {
+        "id": 36398,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilObjStyleSheetGUI.php",
+        "line": 298,
+        "code": "$this->lng->txt(\"copy\")",
+        "has_variable": false,
+        "variable": "copy"
+    },
+    {
+        "id": 36400,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilObjStyleSheetGUI.php",
+        "line": 299,
+        "code": "$this->lng->txt(\"cancel\")",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 36402,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilObjStyleSheetGUI.php",
+        "line": 355,
+        "code": "$this->lng->txt(\"title\")",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 36404,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilObjStyleSheetGUI.php",
+        "line": 362,
+        "code": "$this->lng->txt(\"description\")",
+        "has_variable": false,
+        "variable": "description"
+    },
+    {
+        "id": 36406,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilObjStyleSheetGUI.php",
+        "line": 368,
+        "code": "$this->lng->txt(\"sty_disable_auto_margins\")",
+        "has_variable": false,
+        "variable": "sty_disable_auto_margins"
+    },
+    {
+        "id": 36408,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilObjStyleSheetGUI.php",
+        "line": 369,
+        "code": "$this->lng->txt(\"sty_disable_auto_margins_info\")",
+        "has_variable": false,
+        "variable": "sty_disable_auto_margins_info"
+    },
+    {
+        "id": 36410,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilObjStyleSheetGUI.php",
+        "line": 375,
+        "code": "$lng->txt(\"save\")",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 36412,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilObjStyleSheetGUI.php",
+        "line": 376,
+        "code": "$lng->txt(\"cancel\")",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 36414,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilObjStyleSheetGUI.php",
+        "line": 379,
+        "code": "$lng->txt(\"save\")",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 36416,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilObjStyleSheetGUI.php",
+        "line": 383,
+        "code": "$lng->txt(\"edit_stylesheet\")",
+        "has_variable": false,
+        "variable": "edit_stylesheet"
+    },
+    {
+        "id": 36418,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilObjStyleSheetGUI.php",
+        "line": 402,
+        "code": "$lng->txt(\"msg_obj_modified\")",
+        "has_variable": false,
+        "variable": "msg_obj_modified"
+    },
+    {
+        "id": 36420,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilObjStyleSheetGUI.php",
+        "line": 430,
+        "code": "$this->lng->txt(\"info_delete_sure\")",
+        "has_variable": false,
+        "variable": "info_delete_sure"
+    },
+    {
+        "id": 36422,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilObjStyleSheetGUI.php",
+        "line": 431,
+        "code": "$this->lng->txt(\"cancel\")",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 36424,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilObjStyleSheetGUI.php",
+        "line": 432,
+        "code": "$this->lng->txt(\"confirm\")",
+        "has_variable": false,
+        "variable": "confirm"
+    },
+    {
+        "id": 36426,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilObjStyleSheetGUI.php",
+        "line": 505,
+        "code": "$this->lng->txt(\"object_added\")",
+        "has_variable": false,
+        "variable": "object_added"
+    },
+    {
+        "id": 36428,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilObjStyleSheetGUI.php",
+        "line": 613,
+        "code": "$lng->txt(\"msg_cancel\")",
+        "has_variable": false,
+        "variable": "msg_cancel"
+    },
+    {
+        "id": 36430,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilObjStyleSheetGUI.php",
+        "line": 630,
+        "code": "$lng->txt(\"back\")",
+        "has_variable": false,
+        "variable": "back"
+    },
+    {
+        "id": 36432,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilObjStyleSheetGUI.php",
+        "line": 724,
+        "code": "$this->lng->txt(\"obj_stys\")",
+        "has_variable": false,
+        "variable": "obj_stys"
+    },
+    {
+        "id": 36434,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilObjStyleSheetGUI.php",
+        "line": 729,
+        "code": "$this->lng->txt(\"content_styles\")",
+        "has_variable": false,
+        "variable": "content_styles"
+    },
+    {
+        "id": 36436,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilObjStyleSheetGUI.php",
+        "line": 769,
+        "code": "$lng->txt(\"sty_caption\")",
+        "has_variable": false,
+        "variable": "sty_caption"
+    },
+    {
+        "id": 36438,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilObjStyleSheetGUI.php",
+        "line": 795,
+        "code": "$this->lng->txt(\"sty_add_color\")",
+        "has_variable": false,
+        "variable": "sty_add_color"
+    },
+    {
+        "id": 36440,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilObjStyleSheetGUI.php",
+        "line": 837,
+        "code": "$lng->txt(\"sty_add_color\")",
+        "has_variable": false,
+        "variable": "sty_add_color"
+    },
+    {
+        "id": 36442,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilObjStyleSheetGUI.php",
+        "line": 840,
+        "code": "$lng->txt(\"sty_color_name\")",
+        "has_variable": false,
+        "variable": "sty_color_name"
+    },
+    {
+        "id": 36444,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilObjStyleSheetGUI.php",
+        "line": 842,
+        "code": "$lng->txt(\"sty_msg_color_must_only_include\")",
+        "has_variable": false,
+        "variable": "sty_msg_color_must_only_include"
+    },
+    {
+        "id": 36446,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilObjStyleSheetGUI.php",
+        "line": 849,
+        "code": "$lng->txt(\"sty_color_code\")",
+        "has_variable": false,
+        "variable": "sty_color_code"
+    },
+    {
+        "id": 36448,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilObjStyleSheetGUI.php",
+        "line": 855,
+        "code": "$lng->txt(\"save\")",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 36450,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilObjStyleSheetGUI.php",
+        "line": 857,
+        "code": "$lng->txt(\"save\")",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 36452,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilObjStyleSheetGUI.php",
+        "line": 859,
+        "code": "$lng->txt(\"cancel\")",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 36454,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilObjStyleSheetGUI.php",
+        "line": 899,
+        "code": "$lng->txt(\"sty_color_already_exists\")",
+        "has_variable": false,
+        "variable": "sty_color_already_exists"
+    },
+    {
+        "id": 36456,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilObjStyleSheetGUI.php",
+        "line": 929,
+        "code": "$lng->txt(\"sty_color_already_exists\")",
+        "has_variable": false,
+        "variable": "sty_color_already_exists"
+    },
+    {
+        "id": 36458,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilObjStyleSheetGUI.php",
+        "line": 954,
+        "code": "$lng->txt(\"no_checkbox\")",
+        "has_variable": false,
+        "variable": "no_checkbox"
+    },
+    {
+        "id": 36460,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilObjStyleSheetGUI.php",
+        "line": 959,
+        "code": "$lng->txt(\"sty_confirm_color_deletion\")",
+        "has_variable": false,
+        "variable": "sty_confirm_color_deletion"
+    },
+    {
+        "id": 36462,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilObjStyleSheetGUI.php",
+        "line": 960,
+        "code": "$lng->txt(\"cancel\")",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 36464,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilObjStyleSheetGUI.php",
+        "line": 961,
+        "code": "$lng->txt(\"delete\")",
+        "has_variable": false,
+        "variable": "delete"
+    },
+    {
+        "id": 36466,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilObjStyleSheetGUI.php",
+        "line": 1004,
+        "code": "$this->lng->txt(\"sty_add_media_query\")",
+        "has_variable": false,
+        "variable": "sty_add_media_query"
+    },
+    {
+        "id": 36468,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilObjStyleSheetGUI.php",
+        "line": 1049,
+        "code": "$lng->txt(\"sty_add_media_query\")",
+        "has_variable": false,
+        "variable": "sty_add_media_query"
+    },
+    {
+        "id": 36470,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilObjStyleSheetGUI.php",
+        "line": 1054,
+        "code": "$lng->txt(\"sty_add_media_query_info\")",
+        "has_variable": false,
+        "variable": "sty_add_media_query_info"
+    },
+    {
+        "id": 36472,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilObjStyleSheetGUI.php",
+        "line": 1059,
+        "code": "$lng->txt(\"save\")",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 36474,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilObjStyleSheetGUI.php",
+        "line": 1061,
+        "code": "$lng->txt(\"save\")",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 36476,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilObjStyleSheetGUI.php",
+        "line": 1063,
+        "code": "$lng->txt(\"cancel\")",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 36478,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilObjStyleSheetGUI.php",
+        "line": 1129,
+        "code": "$lng->txt(\"no_checkbox\")",
+        "has_variable": false,
+        "variable": "no_checkbox"
+    },
+    {
+        "id": 36480,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilObjStyleSheetGUI.php",
+        "line": 1134,
+        "code": "$lng->txt(\"sty_sure_del_mqueries\")",
+        "has_variable": false,
+        "variable": "sty_sure_del_mqueries"
+    },
+    {
+        "id": 36482,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilObjStyleSheetGUI.php",
+        "line": 1135,
+        "code": "$lng->txt(\"cancel\")",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 36484,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilObjStyleSheetGUI.php",
+        "line": 1136,
+        "code": "$lng->txt(\"delete\")",
+        "has_variable": false,
+        "variable": "delete"
+    },
+    {
+        "id": 36486,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilObjStyleSheetGUI.php",
+        "line": 1199,
+        "code": "$this->lng->txt(\"sty_generate_template\")",
+        "has_variable": false,
+        "variable": "sty_generate_template"
+    },
+    {
+        "id": 36488,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilObjStyleSheetGUI.php",
+        "line": 1204,
+        "code": "$this->lng->txt(\"sty_add_template\")",
+        "has_variable": false,
+        "variable": "sty_add_template"
+    },
+    {
+        "id": 36490,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilObjStyleSheetGUI.php",
+        "line": 1302,
+        "code": "$lng->txt(\"sty_caption\")",
+        "has_variable": false,
+        "variable": "sty_caption"
+    },
+    {
+        "id": 36492,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilObjStyleSheetGUI.php",
+        "line": 1381,
+        "code": "$lng->txt(\"sty_add_template\")",
+        "has_variable": false,
+        "variable": "sty_add_template"
+    },
+    {
+        "id": 36494,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilObjStyleSheetGUI.php",
+        "line": 1383,
+        "code": "$lng->txt(\"sty_edit_template\")",
+        "has_variable": false,
+        "variable": "sty_edit_template"
+    },
+    {
+        "id": 36496,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilObjStyleSheetGUI.php",
+        "line": 1387,
+        "code": "$lng->txt(\"sty_template_name\")",
+        "has_variable": false,
+        "variable": "sty_template_name"
+    },
+    {
+        "id": 36498,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilObjStyleSheetGUI.php",
+        "line": 1389,
+        "code": "$lng->txt(\"sty_msg_color_must_only_include\")",
+        "has_variable": false,
+        "variable": "sty_msg_color_must_only_include"
+    },
+    {
+        "id": 36500,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilObjStyleSheetGUI.php",
+        "line": 1401,
+        "code": "$lng->txt(\"sty_\" . $sc . \"_class\")",
+        "has_variable": true,
+        "variable": "\"sty_\" . $sc . \"_class\""
+    },
+    {
+        "id": 36502,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilObjStyleSheetGUI.php",
+        "line": 1412,
+        "code": "$lng->txt(\"save\")",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 36504,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilObjStyleSheetGUI.php",
+        "line": 1414,
+        "code": "$lng->txt(\"save_refresh\")",
+        "has_variable": false,
+        "variable": "save_refresh"
+    },
+    {
+        "id": 36506,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilObjStyleSheetGUI.php",
+        "line": 1415,
+        "code": "$lng->txt(\"save_return\")",
+        "has_variable": false,
+        "variable": "save_return"
+    },
+    {
+        "id": 36508,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilObjStyleSheetGUI.php",
+        "line": 1417,
+        "code": "$lng->txt(\"cancel\")",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 36510,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilObjStyleSheetGUI.php",
+        "line": 1446,
+        "code": "$lng->txt(\"sty_table_template_already_exists\")",
+        "has_variable": false,
+        "variable": "sty_table_template_already_exists"
+    },
+    {
+        "id": 36512,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilObjStyleSheetGUI.php",
+        "line": 1483,
+        "code": "$lng->txt(\"sty_template_already_exists\")",
+        "has_variable": false,
+        "variable": "sty_template_already_exists"
+    },
+    {
+        "id": 36514,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilObjStyleSheetGUI.php",
+        "line": 1567,
+        "code": "$lng->txt(\"no_checkbox\")",
+        "has_variable": false,
+        "variable": "no_checkbox"
+    },
+    {
+        "id": 36516,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilObjStyleSheetGUI.php",
+        "line": 1572,
+        "code": "$lng->txt(\"sty_confirm_template_deletion\")",
+        "has_variable": false,
+        "variable": "sty_confirm_template_deletion"
+    },
+    {
+        "id": 36518,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilObjStyleSheetGUI.php",
+        "line": 1573,
+        "code": "$lng->txt(\"cancel\")",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 36520,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilObjStyleSheetGUI.php",
+        "line": 1574,
+        "code": "$lng->txt(\"sty_del_template\")",
+        "has_variable": false,
+        "variable": "sty_del_template"
+    },
+    {
+        "id": 36522,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilObjStyleSheetGUI.php",
+        "line": 1589,
+        "code": "$lng->txt(\"sty_style_class\")",
+        "has_variable": false,
+        "variable": "sty_style_class"
+    },
+    {
+        "id": 36524,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilObjStyleSheetGUI.php",
+        "line": 1594,
+        "code": "$lng->txt(\"sty_del_template_keep_classes\")",
+        "has_variable": false,
+        "variable": "sty_del_template_keep_classes"
+    },
+    {
+        "id": 36526,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilObjStyleSheetGUI.php",
+        "line": 1666,
+        "code": "$lng->txt(\"sty_generate_template\")",
+        "has_variable": false,
+        "variable": "sty_generate_template"
+    },
+    {
+        "id": 36528,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilObjStyleSheetGUI.php",
+        "line": 1669,
+        "code": "$lng->txt(\"sty_template_name\")",
+        "has_variable": false,
+        "variable": "sty_template_name"
+    },
+    {
+        "id": 36530,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilObjStyleSheetGUI.php",
+        "line": 1671,
+        "code": "$lng->txt(\"sty_msg_color_must_only_include\")",
+        "has_variable": false,
+        "variable": "sty_msg_color_must_only_include"
+    },
+    {
+        "id": 36532,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilObjStyleSheetGUI.php",
+        "line": 1678,
+        "code": "$lng->txt(\"sty_template_layout\")",
+        "has_variable": false,
+        "variable": "sty_template_layout"
+    },
+    {
+        "id": 36534,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilObjStyleSheetGUI.php",
+        "line": 1680,
+        "code": "$lng->txt(\"sty_table_template_colored_zebra\")",
+        "has_variable": false,
+        "variable": "sty_table_template_colored_zebra"
+    },
+    {
+        "id": 36536,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilObjStyleSheetGUI.php",
+        "line": 1681,
+        "code": "$lng->txt(\"sty_table_template_bw_zebra\")",
+        "has_variable": false,
+        "variable": "sty_table_template_bw_zebra"
+    },
+    {
+        "id": 36538,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilObjStyleSheetGUI.php",
+        "line": 1682,
+        "code": "$lng->txt(\"sty_table_template_no_zebra\")",
+        "has_variable": false,
+        "variable": "sty_table_template_no_zebra"
+    },
+    {
+        "id": 36540,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilObjStyleSheetGUI.php",
+        "line": 1688,
+        "code": "$lng->txt(\"sty_top_bottom_padding\")",
+        "has_variable": false,
+        "variable": "sty_top_bottom_padding"
+    },
+    {
+        "id": 36542,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilObjStyleSheetGUI.php",
+        "line": 1694,
+        "code": "$lng->txt(\"sty_left_right_padding\")",
+        "has_variable": false,
+        "variable": "sty_left_right_padding"
+    },
+    {
+        "id": 36544,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilObjStyleSheetGUI.php",
+        "line": 1700,
+        "code": "$lng->txt(\"sty_base_color\")",
+        "has_variable": false,
+        "variable": "sty_base_color"
+    },
+    {
+        "id": 36546,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilObjStyleSheetGUI.php",
+        "line": 1713,
+        "code": "$lng->txt(\"sty_lightness_\" . $ls)",
+        "has_variable": true,
+        "variable": "\"sty_lightness_\" . $ls"
+    },
+    {
+        "id": 36548,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilObjStyleSheetGUI.php",
+        "line": 1722,
+        "code": "$lng->txt(\"generate\")",
+        "has_variable": false,
+        "variable": "generate"
+    },
+    {
+        "id": 36550,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilObjStyleSheetGUI.php",
+        "line": 1723,
+        "code": "$lng->txt(\"cancel\")",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 36552,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilObjStyleSheetGUI.php",
+        "line": 1741,
+        "code": "$lng->txt(\"sty_table_template_already_exists\")",
+        "has_variable": false,
+        "variable": "sty_table_template_already_exists"
+    },
+    {
+        "id": 36554,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilPasteStyleCharacteristicTableGUI.php",
+        "line": 50,
+        "code": "$lng->txt(\"sty_paste_characteristics\")",
+        "has_variable": false,
+        "variable": "sty_paste_characteristics"
+    },
+    {
+        "id": 36556,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilPasteStyleCharacteristicTableGUI.php",
+        "line": 58,
+        "code": "$this->lng->txt(\"name\")",
+        "has_variable": false,
+        "variable": "name"
+    },
+    {
+        "id": 36558,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilPasteStyleCharacteristicTableGUI.php",
+        "line": 59,
+        "code": "$this->lng->txt(\"type\")",
+        "has_variable": false,
+        "variable": "type"
+    },
+    {
+        "id": 36560,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilPasteStyleCharacteristicTableGUI.php",
+        "line": 60,
+        "code": "$this->lng->txt(\"sty_if_style_class_already_exists\")",
+        "has_variable": false,
+        "variable": "sty_if_style_class_already_exists"
+    },
+    {
+        "id": 36562,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilPasteStyleCharacteristicTableGUI.php",
+        "line": 68,
+        "code": "$lng->txt(\"\")",
+        "has_variable": true,
+        "variable": ""
+    },
+    {
+        "id": 36564,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilPasteStyleCharacteristicTableGUI.php",
+        "line": 69,
+        "code": "$lng->txt(\"paste\")",
+        "has_variable": false,
+        "variable": "paste"
+    },
+    {
+        "id": 36566,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilPasteStyleCharacteristicTableGUI.php",
+        "line": 70,
+        "code": "$lng->txt(\"cancel\")",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 36568,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilPasteStyleCharacteristicTableGUI.php",
+        "line": 84,
+        "code": "$lng->txt(\"sty_type_\" . $char[0])",
+        "has_variable": true,
+        "variable": "\"sty_type_\" . $char[0]"
+    },
+    {
+        "id": 36570,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilPasteStyleCharacteristicTableGUI.php",
+        "line": 86,
+        "code": "$lng->txt(\"sty_overwrite\")",
+        "has_variable": false,
+        "variable": "sty_overwrite"
+    },
+    {
+        "id": 36572,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilPasteStyleCharacteristicTableGUI.php",
+        "line": 87,
+        "code": "$lng->txt(\"sty_keep_existing\")",
+        "has_variable": false,
+        "variable": "sty_keep_existing"
+    },
+    {
+        "id": 36574,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilStyleMediaQueryTableGUI.php",
+        "line": 52,
+        "code": "$lng->txt(\"sty_media_queries\")",
+        "has_variable": false,
+        "variable": "sty_media_queries"
+    },
+    {
+        "id": 36576,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilStyleMediaQueryTableGUI.php",
+        "line": 53,
+        "code": "$lng->txt(\"sty_media_query_info\")",
+        "has_variable": false,
+        "variable": "sty_media_query_info"
+    },
+    {
+        "id": 36578,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilStyleMediaQueryTableGUI.php",
+        "line": 57,
+        "code": "$this->lng->txt(\"sty_order\")",
+        "has_variable": false,
+        "variable": "sty_order"
+    },
+    {
+        "id": 36580,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilStyleMediaQueryTableGUI.php",
+        "line": 58,
+        "code": "$this->lng->txt(\"sty_query\")",
+        "has_variable": false,
+        "variable": "sty_query"
+    },
+    {
+        "id": 36582,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilStyleMediaQueryTableGUI.php",
+        "line": 59,
+        "code": "$this->lng->txt(\"actions\")",
+        "has_variable": false,
+        "variable": "actions"
+    },
+    {
+        "id": 36584,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilStyleMediaQueryTableGUI.php",
+        "line": 68,
+        "code": "$lng->txt(\"sty_save_order\")",
+        "has_variable": false,
+        "variable": "sty_save_order"
+    },
+    {
+        "id": 36586,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilStyleMediaQueryTableGUI.php",
+        "line": 69,
+        "code": "$lng->txt(\"delete\")",
+        "has_variable": false,
+        "variable": "delete"
+    },
+    {
+        "id": 36588,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilStyleMediaQueryTableGUI.php",
+        "line": 90,
+        "code": "$lng->txt(\"edit\")",
+        "has_variable": false,
+        "variable": "edit"
+    },
+    {
+        "id": 36590,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilTableTemplatesTableGUI.php",
+        "line": 57,
+        "code": "$lng->txt(\"sty_templates\")",
+        "has_variable": false,
+        "variable": "sty_templates"
+    },
+    {
+        "id": 36592,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilTableTemplatesTableGUI.php",
+        "line": 62,
+        "code": "$this->lng->txt(\"sty_template_name\")",
+        "has_variable": false,
+        "variable": "sty_template_name"
+    },
+    {
+        "id": 36594,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilTableTemplatesTableGUI.php",
+        "line": 63,
+        "code": "$this->lng->txt(\"sty_preview\")",
+        "has_variable": false,
+        "variable": "sty_preview"
+    },
+    {
+        "id": 36596,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilTableTemplatesTableGUI.php",
+        "line": 64,
+        "code": "$this->lng->txt(\"sty_commands\")",
+        "has_variable": false,
+        "variable": "sty_commands"
+    },
+    {
+        "id": 36598,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilTableTemplatesTableGUI.php",
+        "line": 72,
+        "code": "$lng->txt(\"delete\")",
+        "has_variable": false,
+        "variable": "delete"
+    },
+    {
+        "id": 36600,
+        "file": "components\/ILIAS\/Style\/Content\/classes\/class.ilTableTemplatesTableGUI.php",
+        "line": 101,
+        "code": "$lng->txt(\"edit\")",
+        "has_variable": false,
+        "variable": "edit"
+    },
+    {
+        "id": 36602,
+        "file": "components\/ILIAS\/Style\/System\/classes\/Config\/class.ilSubStyleAssignmentGUI.php",
+        "line": 69,
+        "code": "$this->lng->txt('sty_add_assignment')",
+        "has_variable": false,
+        "variable": "sty_add_assignment"
+    },
+    {
+        "id": 36604,
+        "file": "components\/ILIAS\/Style\/System\/classes\/Config\/class.ilSubStyleAssignmentGUI.php",
+        "line": 126,
+        "code": "$this->lng->txt('msg_obj_modified')",
+        "has_variable": false,
+        "variable": "msg_obj_modified"
+    },
+    {
+        "id": 36606,
+        "file": "components\/ILIAS\/Style\/System\/classes\/Config\/class.ilSubStyleAssignmentGUI.php",
+        "line": 128,
+        "code": "$this->lng->txt('msg_assignment_failed')",
+        "has_variable": false,
+        "variable": "msg_assignment_failed"
+    },
+    {
+        "id": 36608,
+        "file": "components\/ILIAS\/Style\/System\/classes\/Config\/class.ilSubStyleAssignmentGUI.php",
+        "line": 153,
+        "code": "$this->lng->txt('msg_obj_modified')",
+        "has_variable": false,
+        "variable": "msg_obj_modified"
+    },
+    {
+        "id": 36610,
+        "file": "components\/ILIAS\/Style\/System\/classes\/Config\/class.ilSubStyleAssignmentGUI.php",
+        "line": 156,
+        "code": "$this->lng->txt('no_style_selected')",
+        "has_variable": false,
+        "variable": "no_style_selected"
+    },
+    {
+        "id": 36612,
+        "file": "components\/ILIAS\/Style\/System\/classes\/Config\/class.ilSysStyleCatAssignmentTableGUI.php",
+        "line": 46,
+        "code": "$this->lng->txt('sty_cat_assignments')",
+        "has_variable": false,
+        "variable": "sty_cat_assignments"
+    },
+    {
+        "id": 36614,
+        "file": "components\/ILIAS\/Style\/System\/classes\/Config\/class.ilSysStyleCatAssignmentTableGUI.php",
+        "line": 49,
+        "code": "$this->lng->txt('obj_cat')",
+        "has_variable": false,
+        "variable": "obj_cat"
+    },
+    {
+        "id": 36616,
+        "file": "components\/ILIAS\/Style\/System\/classes\/Config\/class.ilSystemStyleConfigGUI.php",
+        "line": 170,
+        "code": "$this->lng->txt('msg_sys_style_update')",
+        "has_variable": false,
+        "variable": "msg_sys_style_update"
+    },
+    {
+        "id": 36618,
+        "file": "components\/ILIAS\/Style\/System\/classes\/Config\/class.ilSystemStyleConfigGUI.php",
+        "line": 231,
+        "code": "$this->lng->txt('personal_style_set_to')",
+        "has_variable": false,
+        "variable": "personal_style_set_to"
+    },
+    {
+        "id": 36620,
+        "file": "components\/ILIAS\/Style\/System\/classes\/Config\/class.ilSystemStyleConfigGUI.php",
+        "line": 244,
+        "code": "$this->lng->txt('default_style_set_to')",
+        "has_variable": false,
+        "variable": "default_style_set_to"
+    },
+    {
+        "id": 36622,
+        "file": "components\/ILIAS\/Style\/System\/classes\/Config\/class.ilSystemStyleConfigGUI.php",
+        "line": 262,
+        "code": "$this->lng->txt('skin_id')",
+        "has_variable": false,
+        "variable": "skin_id"
+    },
+    {
+        "id": 36624,
+        "file": "components\/ILIAS\/Style\/System\/classes\/Config\/class.ilSystemStyleConfigGUI.php",
+        "line": 262,
+        "code": "$this->lng->txt('skin_id_description')",
+        "has_variable": false,
+        "variable": "skin_id_description"
+    },
+    {
+        "id": 36626,
+        "file": "components\/ILIAS\/Style\/System\/classes\/Config\/class.ilSystemStyleConfigGUI.php",
+        "line": 271,
+        "code": "$this->lng->txt('skin_name')",
+        "has_variable": false,
+        "variable": "skin_name"
+    },
+    {
+        "id": 36628,
+        "file": "components\/ILIAS\/Style\/System\/classes\/Config\/class.ilSystemStyleConfigGUI.php",
+        "line": 271,
+        "code": "$this->lng->txt('skin_name_description')",
+        "has_variable": false,
+        "variable": "skin_name_description"
+    },
+    {
+        "id": 36630,
+        "file": "components\/ILIAS\/Style\/System\/classes\/Config\/class.ilSystemStyleConfigGUI.php",
+        "line": 282,
+        "code": "$this->lng->txt('skin_version')",
+        "has_variable": false,
+        "variable": "skin_version"
+    },
+    {
+        "id": 36632,
+        "file": "components\/ILIAS\/Style\/System\/classes\/Config\/class.ilSystemStyleConfigGUI.php",
+        "line": 283,
+        "code": "$this->lng->txt('skin_version_description')",
+        "has_variable": false,
+        "variable": "skin_version_description"
+    },
+    {
+        "id": 36634,
+        "file": "components\/ILIAS\/Style\/System\/classes\/Config\/class.ilSystemStyleConfigGUI.php",
+        "line": 293,
+        "code": "$this->lng->txt('skin')",
+        "has_variable": false,
+        "variable": "skin"
+    },
+    {
+        "id": 36636,
+        "file": "components\/ILIAS\/Style\/System\/classes\/Config\/class.ilSystemStyleConfigGUI.php",
+        "line": 296,
+        "code": "$this->lng->txt('style_id')",
+        "has_variable": false,
+        "variable": "style_id"
+    },
+    {
+        "id": 36638,
+        "file": "components\/ILIAS\/Style\/System\/classes\/Config\/class.ilSystemStyleConfigGUI.php",
+        "line": 296,
+        "code": "$this->lng->txt('style_id_description')",
+        "has_variable": false,
+        "variable": "style_id_description"
+    },
+    {
+        "id": 36640,
+        "file": "components\/ILIAS\/Style\/System\/classes\/Config\/class.ilSystemStyleConfigGUI.php",
+        "line": 305,
+        "code": "$this->lng->txt('style_name')",
+        "has_variable": false,
+        "variable": "style_name"
+    },
+    {
+        "id": 36642,
+        "file": "components\/ILIAS\/Style\/System\/classes\/Config\/class.ilSystemStyleConfigGUI.php",
+        "line": 305,
+        "code": "$this->lng->txt('style_name_description')",
+        "has_variable": false,
+        "variable": "style_name_description"
+    },
+    {
+        "id": 36644,
+        "file": "components\/ILIAS\/Style\/System\/classes\/Config\/class.ilSystemStyleConfigGUI.php",
+        "line": 313,
+        "code": "$this->lng->txt('image_dir')",
+        "has_variable": false,
+        "variable": "image_dir"
+    },
+    {
+        "id": 36646,
+        "file": "components\/ILIAS\/Style\/System\/classes\/Config\/class.ilSystemStyleConfigGUI.php",
+        "line": 313,
+        "code": "$this->lng->txt('image_dir_description')",
+        "has_variable": false,
+        "variable": "image_dir_description"
+    },
+    {
+        "id": 36648,
+        "file": "components\/ILIAS\/Style\/System\/classes\/Config\/class.ilSystemStyleConfigGUI.php",
+        "line": 320,
+        "code": "$this->lng->txt('font_dir')",
+        "has_variable": false,
+        "variable": "font_dir"
+    },
+    {
+        "id": 36650,
+        "file": "components\/ILIAS\/Style\/System\/classes\/Config\/class.ilSystemStyleConfigGUI.php",
+        "line": 320,
+        "code": "$this->lng->txt('font_dir_description')",
+        "has_variable": false,
+        "variable": "font_dir_description"
+    },
+    {
+        "id": 36652,
+        "file": "components\/ILIAS\/Style\/System\/classes\/Config\/class.ilSystemStyleConfigGUI.php",
+        "line": 327,
+        "code": "$this->lng->txt('sound_dir')",
+        "has_variable": false,
+        "variable": "sound_dir"
+    },
+    {
+        "id": 36654,
+        "file": "components\/ILIAS\/Style\/System\/classes\/Config\/class.ilSystemStyleConfigGUI.php",
+        "line": 327,
+        "code": "$this->lng->txt('sound_dir_description')",
+        "has_variable": false,
+        "variable": "sound_dir_description"
+    },
+    {
+        "id": 36656,
+        "file": "components\/ILIAS\/Style\/System\/classes\/Config\/class.ilSystemStyleConfigGUI.php",
+        "line": 334,
+        "code": "$this->lng->txt('style')",
+        "has_variable": false,
+        "variable": "style"
+    },
+    {
+        "id": 36658,
+        "file": "components\/ILIAS\/Style\/System\/classes\/Config\/class.ilSystemStyleConfigGUI.php",
+        "line": 336,
+        "code": "$this->lng->txt('sub_style')",
+        "has_variable": false,
+        "variable": "sub_style"
+    },
+    {
+        "id": 36660,
+        "file": "components\/ILIAS\/Style\/System\/classes\/Config\/class.ilSystemStyleConfigGUI.php",
+        "line": 352,
+        "code": "$this->lng->txt('default')",
+        "has_variable": false,
+        "variable": "default"
+    },
+    {
+        "id": 36662,
+        "file": "components\/ILIAS\/Style\/System\/classes\/Config\/class.ilSystemStyleConfigGUI.php",
+        "line": 353,
+        "code": "$this->lng->txt('system_style_default_description')",
+        "has_variable": false,
+        "variable": "system_style_default_description"
+    },
+    {
+        "id": 36664,
+        "file": "components\/ILIAS\/Style\/System\/classes\/Config\/class.ilSystemStyleConfigGUI.php",
+        "line": 357,
+        "code": "$this->lng->txt('personal')",
+        "has_variable": false,
+        "variable": "personal"
+    },
+    {
+        "id": 36666,
+        "file": "components\/ILIAS\/Style\/System\/classes\/Config\/class.ilSystemStyleConfigGUI.php",
+        "line": 358,
+        "code": "$this->lng->txt('system_style_personal_description')",
+        "has_variable": false,
+        "variable": "system_style_personal_description"
+    },
+    {
+        "id": 36668,
+        "file": "components\/ILIAS\/Style\/System\/classes\/Config\/class.ilSystemStyleConfigGUI.php",
+        "line": 363,
+        "code": "$this->lng->txt('system_style_activation')",
+        "has_variable": false,
+        "variable": "system_style_activation"
+    },
+    {
+        "id": 36670,
+        "file": "components\/ILIAS\/Style\/System\/classes\/Config\/class.ilSystemStyleConfigGUI.php",
+        "line": 364,
+        "code": "$this->lng->txt('system_style_activation_description')",
+        "has_variable": false,
+        "variable": "system_style_activation_description"
+    },
+    {
+        "id": 36672,
+        "file": "components\/ILIAS\/Style\/System\/classes\/Config\/class.ilSystemStyleConfigGUI.php",
+        "line": 368,
+        "code": "$this->lng->txt('system_style_activation')",
+        "has_variable": false,
+        "variable": "system_style_activation"
+    },
+    {
+        "id": 36674,
+        "file": "components\/ILIAS\/Style\/System\/classes\/Overview\/class.ilSystemStyleOverviewGUI.php",
+        "line": 110,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 36676,
+        "file": "components\/ILIAS\/Style\/System\/classes\/Overview\/class.ilSystemStyleOverviewGUI.php",
+        "line": 120,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 36678,
+        "file": "components\/ILIAS\/Style\/System\/classes\/Overview\/class.ilSystemStyleOverviewGUI.php",
+        "line": 155,
+        "code": "$this->lng->txt('sty_move_user_styles')",
+        "has_variable": false,
+        "variable": "sty_move_user_styles"
+    },
+    {
+        "id": 36680,
+        "file": "components\/ILIAS\/Style\/System\/classes\/Overview\/class.ilSystemStyleOverviewGUI.php",
+        "line": 155,
+        "code": "$this->lng->txt('sty_to')",
+        "has_variable": false,
+        "variable": "sty_to"
+    },
+    {
+        "id": 36682,
+        "file": "components\/ILIAS\/Style\/System\/classes\/Overview\/class.ilSystemStyleOverviewGUI.php",
+        "line": 157,
+        "code": "$this->lng->txt('sty_move_user_styles')",
+        "has_variable": false,
+        "variable": "sty_move_user_styles"
+    },
+    {
+        "id": 36684,
+        "file": "components\/ILIAS\/Style\/System\/classes\/Overview\/class.ilSystemStyleOverviewGUI.php",
+        "line": 158,
+        "code": "$this->lng->txt('sty_from')",
+        "has_variable": false,
+        "variable": "sty_from"
+    },
+    {
+        "id": 36686,
+        "file": "components\/ILIAS\/Style\/System\/classes\/Overview\/class.ilSystemStyleOverviewGUI.php",
+        "line": 167,
+        "code": "$this->lng->txt('change_assignment')",
+        "has_variable": false,
+        "variable": "change_assignment"
+    },
+    {
+        "id": 36688,
+        "file": "components\/ILIAS\/Style\/System\/classes\/Overview\/class.ilSystemStyleOverviewGUI.php",
+        "line": 209,
+        "code": "$this->lng->txt('msg_obj_modified')",
+        "has_variable": false,
+        "variable": "msg_obj_modified"
+    },
+    {
+        "id": 36690,
+        "file": "components\/ILIAS\/Style\/System\/classes\/Overview\/class.ilSystemStyleOverviewGUI.php",
+        "line": 246,
+        "code": "$this->lng->txt('sty_move_user_styles_saved')",
+        "has_variable": false,
+        "variable": "sty_move_user_styles_saved"
+    },
+    {
+        "id": 36692,
+        "file": "components\/ILIAS\/Style\/System\/classes\/Overview\/class.ilSystemStyleOverviewGUI.php",
+        "line": 260,
+        "code": "$this->lng->txt('at_least_one_style')",
+        "has_variable": false,
+        "variable": "at_least_one_style"
+    },
+    {
+        "id": 36694,
+        "file": "components\/ILIAS\/Style\/System\/classes\/Overview\/class.ilSystemStyleOverviewGUI.php",
+        "line": 279,
+        "code": "$this->lng->txt('cant_deactivate_default_style')",
+        "has_variable": false,
+        "variable": "cant_deactivate_default_style"
+    },
+    {
+        "id": 36696,
+        "file": "components\/ILIAS\/Style\/System\/classes\/Overview\/class.ilSystemStyleOverviewGUI.php",
+        "line": 293,
+        "code": "$this->lng->txt('cant_deactivate_if_users_assigned')",
+        "has_variable": false,
+        "variable": "cant_deactivate_if_users_assigned"
+    },
+    {
+        "id": 36698,
+        "file": "components\/ILIAS\/Style\/System\/classes\/Overview\/class.ilSystemStyleOverviewGUI.php",
+        "line": 309,
+        "code": "$this->lng->txt('zip_export_failed')",
+        "has_variable": false,
+        "variable": "zip_export_failed"
+    },
+    {
+        "id": 36700,
+        "file": "components\/ILIAS\/Style\/System\/classes\/Overview\/class.ilSystemStylesTableGUI.php",
+        "line": 40,
+        "code": "$this->lng->txt('manage_system_styles')",
+        "has_variable": false,
+        "variable": "manage_system_styles"
+    },
+    {
+        "id": 36702,
+        "file": "components\/ILIAS\/Style\/System\/classes\/Overview\/class.ilSystemStylesTableGUI.php",
+        "line": 41,
+        "code": "$this->lng->txt('')",
+        "has_variable": true,
+        "variable": ""
+    },
+    {
+        "id": 36704,
+        "file": "components\/ILIAS\/Style\/System\/classes\/Overview\/class.ilSystemStylesTableGUI.php",
+        "line": 42,
+        "code": "$this->lng->txt('style_name')",
+        "has_variable": false,
+        "variable": "style_name"
+    },
+    {
+        "id": 36706,
+        "file": "components\/ILIAS\/Style\/System\/classes\/Overview\/class.ilSystemStylesTableGUI.php",
+        "line": 43,
+        "code": "$this->lng->txt('skin_name')",
+        "has_variable": false,
+        "variable": "skin_name"
+    },
+    {
+        "id": 36708,
+        "file": "components\/ILIAS\/Style\/System\/classes\/Overview\/class.ilSystemStylesTableGUI.php",
+        "line": 44,
+        "code": "$this->lng->txt('sty_substyle_of')",
+        "has_variable": false,
+        "variable": "sty_substyle_of"
+    },
+    {
+        "id": 36710,
+        "file": "components\/ILIAS\/Style\/System\/classes\/Overview\/class.ilSystemStylesTableGUI.php",
+        "line": 45,
+        "code": "$this->lng->txt('scope')",
+        "has_variable": false,
+        "variable": "scope"
+    },
+    {
+        "id": 36712,
+        "file": "components\/ILIAS\/Style\/System\/classes\/Overview\/class.ilSystemStylesTableGUI.php",
+        "line": 46,
+        "code": "$this->lng->txt('default')",
+        "has_variable": false,
+        "variable": "default"
+    },
+    {
+        "id": 36714,
+        "file": "components\/ILIAS\/Style\/System\/classes\/Overview\/class.ilSystemStylesTableGUI.php",
+        "line": 47,
+        "code": "$this->lng->txt('active')",
+        "has_variable": false,
+        "variable": "active"
+    },
+    {
+        "id": 36716,
+        "file": "components\/ILIAS\/Style\/System\/classes\/Overview\/class.ilSystemStylesTableGUI.php",
+        "line": 48,
+        "code": "$this->lng->txt('users')",
+        "has_variable": false,
+        "variable": "users"
+    },
+    {
+        "id": 36718,
+        "file": "components\/ILIAS\/Style\/System\/classes\/Overview\/class.ilSystemStylesTableGUI.php",
+        "line": 49,
+        "code": "$this->lng->txt('version')",
+        "has_variable": false,
+        "variable": "version"
+    },
+    {
+        "id": 36720,
+        "file": "components\/ILIAS\/Style\/System\/classes\/Overview\/class.ilSystemStylesTableGUI.php",
+        "line": 64,
+        "code": "$this->lng->txt('save')",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 36722,
+        "file": "components\/ILIAS\/Style\/System\/classes\/Overview\/class.ilSystemStylesTableGUI.php",
+        "line": 70,
+        "code": "$this->lng->txt('actions')",
+        "has_variable": false,
+        "variable": "actions"
+    },
+    {
+        "id": 36724,
+        "file": "components\/ILIAS\/Style\/System\/classes\/Overview\/class.ilSystemStylesTableGUI.php",
+        "line": 95,
+        "code": "$this->lng->txt('other')",
+        "has_variable": false,
+        "variable": "other"
+    },
+    {
+        "id": 36726,
+        "file": "components\/ILIAS\/Style\/System\/classes\/Overview\/class.ilSystemStylesTableGUI.php",
+        "line": 183,
+        "code": "$this->lng->txt('local')",
+        "has_variable": false,
+        "variable": "local"
+    },
+    {
+        "id": 36728,
+        "file": "components\/ILIAS\/Style\/System\/classes\/Overview\/class.ilSystemStylesTableGUI.php",
+        "line": 187,
+        "code": "$this->lng->txt('global')",
+        "has_variable": false,
+        "variable": "global"
+    },
+    {
+        "id": 36730,
+        "file": "components\/ILIAS\/Style\/System\/classes\/Overview\/class.ilSystemStylesTableGUI.php",
+        "line": 206,
+        "code": "$this->lng->txt('sty_cat_assignments')",
+        "has_variable": false,
+        "variable": "sty_cat_assignments"
+    },
+    {
+        "id": 36732,
+        "file": "components\/ILIAS\/Style\/System\/classes\/Overview\/class.ilSystemStylesTableGUI.php",
+        "line": 212,
+        "code": "$this->lng->txt('export')",
+        "has_variable": false,
+        "variable": "export"
+    },
+    {
+        "id": 36734,
+        "file": "components\/ILIAS\/Style\/System\/classes\/Overview\/class.ilSystemStylesTableGUI.php",
+        "line": 226,
+        "code": "$this->lng->txt('sty_change_user_assignment')",
+        "has_variable": false,
+        "variable": "sty_change_user_assignment"
+    },
+    {
+        "id": 36736,
+        "file": "components\/ILIAS\/Style\/System\/classes\/Overview\/class.ilSystemStylesTableGUI.php",
+        "line": 235,
+        "code": "$this->lng->txt('actions')",
+        "has_variable": false,
+        "variable": "actions"
+    },
+    {
+        "id": 36738,
+        "file": "components\/ILIAS\/Style\/System\/classes\/UserSettings\/Style.php",
+        "line": 53,
+        "code": "$lng->txt($this->getIdentifier())",
+        "has_variable": true,
+        "variable": "$this->getIdentifier()"
+    },
+    {
+        "id": 36740,
+        "file": "components\/ILIAS\/Style\/System\/classes\/UserSettings\/Style.php",
+        "line": 76,
+        "code": "$lng->txt('usr_skin_style')",
+        "has_variable": false,
+        "variable": "usr_skin_style"
+    },
+    {
+        "id": 36742,
+        "file": "components\/ILIAS\/Style\/System\/classes\/UserSettings\/Style.php",
+        "line": 91,
+        "code": "$lng->txt('usr_skin_style')",
+        "has_variable": false,
+        "variable": "usr_skin_style"
+    },
+    {
+        "id": 36744,
+        "file": "components\/ILIAS\/Style\/System\/classes\/class.ilSystemStyleMainGUI.php",
+        "line": 227,
+        "code": "$this->lng->txt('sty_permission_denied')",
+        "has_variable": false,
+        "variable": "sty_permission_denied"
+    },
+    {
+        "id": 36746,
+        "file": "components\/ILIAS\/Style\/System\/classes\/class.ilSystemStyleMainGUI.php",
+        "line": 241,
+        "code": "$this->lng->txt('overview')",
+        "has_variable": false,
+        "variable": "overview"
+    },
+    {
+        "id": 36748,
+        "file": "components\/ILIAS\/Style\/System\/classes\/class.ilSystemStyleMainGUI.php",
+        "line": 247,
+        "code": "$this->lng->txt('documentation')",
+        "has_variable": false,
+        "variable": "documentation"
+    },
+    {
+        "id": 36750,
+        "file": "components\/ILIAS\/Style\/System\/classes\/class.ilSystemStyleMainGUI.php",
+        "line": 267,
+        "code": "$this->lng->txt('back')",
+        "has_variable": false,
+        "variable": "back"
+    },
+    {
+        "id": 36752,
+        "file": "components\/ILIAS\/Style\/System\/classes\/class.ilSystemStyleMainGUI.php",
+        "line": 271,
+        "code": "$this->lng->txt('settings')",
+        "has_variable": false,
+        "variable": "settings"
+    },
+    {
+        "id": 36754,
+        "file": "components\/ILIAS\/Style\/System\/classes\/class.ilSystemStyleMainGUI.php",
+        "line": 290,
+        "code": "$this->lng->txt('settings_of_substyle')",
+        "has_variable": false,
+        "variable": "settings_of_substyle"
+    },
+    {
+        "id": 36756,
+        "file": "components\/ILIAS\/Style\/System\/classes\/class.ilSystemStyleMainGUI.php",
+        "line": 291,
+        "code": "$this->lng->txt('of_parent')",
+        "has_variable": false,
+        "variable": "of_parent"
+    },
+    {
+        "id": 36758,
+        "file": "components\/ILIAS\/Style\/System\/classes\/class.ilSystemStyleMainGUI.php",
+        "line": 292,
+        "code": "$this->lng->txt('from_skin')",
+        "has_variable": false,
+        "variable": "from_skin"
+    },
+    {
+        "id": 36760,
+        "file": "components\/ILIAS\/Style\/System\/classes\/class.ilSystemStyleMainGUI.php",
+        "line": 296,
+        "code": "$this->lng->txt('settings_of_style')",
+        "has_variable": false,
+        "variable": "settings_of_style"
+    },
+    {
+        "id": 36762,
+        "file": "components\/ILIAS\/Style\/System\/classes\/class.ilSystemStyleMainGUI.php",
+        "line": 297,
+        "code": "$this->lng->txt('from_skin')",
+        "has_variable": false,
+        "variable": "from_skin"
+    },
+    {
+        "id": 36764,
+        "file": "components\/ILIAS\/Style\/classes\/class.ilObjStyleSettingsGUI.php",
+        "line": 105,
+        "code": "$this->lng->txt(\"object_added\")",
+        "has_variable": false,
+        "variable": "object_added"
+    },
+    {
+        "id": 36766,
+        "file": "components\/ILIAS\/Style\/classes\/class.ilObjStyleSettingsGUI.php",
+        "line": 126,
+        "code": "$this->lng->txt(\"system_styles\")",
+        "has_variable": false,
+        "variable": "system_styles"
+    },
+    {
+        "id": 36768,
+        "file": "components\/ILIAS\/Style\/classes\/class.ilObjStyleSettingsGUI.php",
+        "line": 132,
+        "code": "$this->lng->txt(\"content_styles\")",
+        "has_variable": false,
+        "variable": "content_styles"
+    },
+    {
+        "id": 36770,
+        "file": "components\/ILIAS\/Style\/classes\/class.ilObjStyleSettingsGUI.php",
+        "line": 138,
+        "code": "$this->lng->txt(\"page_layouts\")",
+        "has_variable": false,
+        "variable": "page_layouts"
+    },
+    {
+        "id": 36772,
+        "file": "components\/ILIAS\/Style\/classes\/class.ilObjStyleSettingsGUI.php",
+        "line": 146,
+        "code": "$this->lng->txt(\"perm_settings\")",
+        "has_variable": false,
+        "variable": "perm_settings"
+    }
+]

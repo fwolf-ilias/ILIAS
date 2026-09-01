@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "type": "full",
+        "count": 4,
+        "description": "Variable usages without detectable prefixes or suffixes (pure variable references without static strings)"
+    },
+    "matches": [
+        {
+            "id": 13756,
+            "file": "components\/ILIAS\/DataProtection\/classes\/class.ilObjDataProtectionGUI.php",
+            "line": 239,
+            "code": "$this->ui->txt($label)",
+            "variable": "$label",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 13758,
+            "file": "components\/ILIAS\/DataProtection\/classes\/class.ilObjDataProtectionGUI.php",
+            "line": 240,
+            "code": "$this->ui->txt($description)",
+            "variable": "$description",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 13760,
+            "file": "components\/ILIAS\/DataProtection\/classes\/class.ilObjDataProtectionGUI.php",
+            "line": 249,
+            "code": "$this->ui->txt($prefix)",
+            "variable": "$prefix",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 13764,
+            "file": "components\/ILIAS\/DataProtection\/classes\/class.ilObjDataProtectionGUI.php",
+            "line": 251,
+            "code": "$this->ui->txt($label)",
+            "variable": "$label",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        }
+    ]
+}

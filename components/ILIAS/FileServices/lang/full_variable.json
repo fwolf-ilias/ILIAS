@@ -1,0 +1,295 @@
+{
+    "metadata": {
+        "type": "full",
+        "count": 26,
+        "description": "Variable usages without detectable prefixes or suffixes (pure variable references without static strings)"
+    },
+    "matches": [
+        {
+            "id": 17094,
+            "file": "components\/ILIAS\/FileServices\/classes\/UploadService\/UploadLimits\/UploadPoliciesTableUI.php",
+            "line": 229,
+            "code": "$this->language->txt(self::ACTIVE_FILTER_ALL)",
+            "variable": "ACTIVE_FILTER_ALL",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 17096,
+            "file": "components\/ILIAS\/FileServices\/classes\/UploadService\/UploadLimits\/UploadPoliciesTableUI.php",
+            "line": 230,
+            "code": "$this->language->txt(self::ACTIVE_FILTER_ACTIVE)",
+            "variable": "ACTIVE_FILTER_ACTIVE",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 17098,
+            "file": "components\/ILIAS\/FileServices\/classes\/UploadService\/UploadLimits\/UploadPoliciesTableUI.php",
+            "line": 231,
+            "code": "$this->language->txt(self::ACTIVE_FILTER_INACTIVE)",
+            "variable": "ACTIVE_FILTER_INACTIVE",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 17100,
+            "file": "components\/ILIAS\/FileServices\/classes\/UploadService\/UploadLimits\/UploadPoliciesTableUI.php",
+            "line": 235,
+            "code": "$this->language->txt($active_control_element)",
+            "variable": "$active_control_element",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 17126,
+            "file": "components\/ILIAS\/FileServices\/classes\/UploadService\/UploadLimits\/UploadPolicyFormUI.php",
+            "line": 97,
+            "code": "$this->language->txt(self::LABEL_INPUT_FIELD_TITLE)",
+            "variable": "LABEL_INPUT_FIELD_TITLE",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 17128,
+            "file": "components\/ILIAS\/FileServices\/classes\/UploadService\/UploadLimits\/UploadPolicyFormUI.php",
+            "line": 98,
+            "code": "$this->language->txt(self::BYLINE_INPUT_FIELD_TITLE)",
+            "variable": "BYLINE_INPUT_FIELD_TITLE",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 17130,
+            "file": "components\/ILIAS\/FileServices\/classes\/UploadService\/UploadLimits\/UploadPolicyFormUI.php",
+            "line": 103,
+            "code": "$this->language->txt(self::LABEL_INPUT_FIELD_UPLOAD_LIMIT)",
+            "variable": "LABEL_INPUT_FIELD_UPLOAD_LIMIT",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 17132,
+            "file": "components\/ILIAS\/FileServices\/classes\/UploadService\/UploadLimits\/UploadPolicyFormUI.php",
+            "line": 104,
+            "code": "$this->language->txt(self::BYLINE_INPUT_FIELD_UPLOAD_LIMIT)",
+            "variable": "BYLINE_INPUT_FIELD_UPLOAD_LIMIT",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 17134,
+            "file": "components\/ILIAS\/FileServices\/classes\/UploadService\/UploadLimits\/UploadPolicyFormUI.php",
+            "line": 113,
+            "code": "$this->language->txt(self::LABEL_INPUT_SECTION_GENERAL)",
+            "variable": "LABEL_INPUT_SECTION_GENERAL",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 17136,
+            "file": "components\/ILIAS\/FileServices\/classes\/UploadService\/UploadLimits\/UploadPolicyFormUI.php",
+            "line": 119,
+            "code": "$this->language->txt(self::LABEL_INPUT_OPTION_ALL_USERS)",
+            "variable": "LABEL_INPUT_OPTION_ALL_USERS",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 17138,
+            "file": "components\/ILIAS\/FileServices\/classes\/UploadService\/UploadLimits\/UploadPolicyFormUI.php",
+            "line": 120,
+            "code": "$this->language->txt(self::BYLINE_INPUT_OPTION_ALL_USERS)",
+            "variable": "BYLINE_INPUT_OPTION_ALL_USERS",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 17140,
+            "file": "components\/ILIAS\/FileServices\/classes\/UploadService\/UploadLimits\/UploadPolicyFormUI.php",
+            "line": 123,
+            "code": "$this->language->txt(self::LABEL_INPUT_FIELD_GLOBAL_ROLES)",
+            "variable": "LABEL_INPUT_FIELD_GLOBAL_ROLES",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 17142,
+            "file": "components\/ILIAS\/FileServices\/classes\/UploadService\/UploadLimits\/UploadPolicyFormUI.php",
+            "line": 132,
+            "code": "$this->language->txt(self::LABEL_INPUT_OPTION_GLOBAL_ROLES)",
+            "variable": "LABEL_INPUT_OPTION_GLOBAL_ROLES",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 17144,
+            "file": "components\/ILIAS\/FileServices\/classes\/UploadService\/UploadLimits\/UploadPolicyFormUI.php",
+            "line": 133,
+            "code": "$this->language->txt(self::BYLINE_INPUT_OPTION_GLOBAL_ROLES)",
+            "variable": "BYLINE_INPUT_OPTION_GLOBAL_ROLES",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 17146,
+            "file": "components\/ILIAS\/FileServices\/classes\/UploadService\/UploadLimits\/UploadPolicyFormUI.php",
+            "line": 140,
+            "code": "$this->language->txt(self::LABEL_INPUT_FIELD_AUDIENCE)",
+            "variable": "LABEL_INPUT_FIELD_AUDIENCE",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 17148,
+            "file": "components\/ILIAS\/FileServices\/classes\/UploadService\/UploadLimits\/UploadPolicyFormUI.php",
+            "line": 148,
+            "code": "$this->language->txt(self::LABEL_INPUT_SECTION_AUDIENCE)",
+            "variable": "LABEL_INPUT_SECTION_AUDIENCE",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 17150,
+            "file": "components\/ILIAS\/FileServices\/classes\/UploadService\/UploadLimits\/UploadPolicyFormUI.php",
+            "line": 155,
+            "code": "$this->language->txt(self::LABEL_INPUT_FIELD_VALID_UNTIL)",
+            "variable": "LABEL_INPUT_FIELD_VALID_UNTIL",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 17152,
+            "file": "components\/ILIAS\/FileServices\/classes\/UploadService\/UploadLimits\/UploadPolicyFormUI.php",
+            "line": 156,
+            "code": "$this->language->txt(self::BYLINE_INPUT_FIELD_VALID_UNTIL)",
+            "variable": "BYLINE_INPUT_FIELD_VALID_UNTIL",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 17154,
+            "file": "components\/ILIAS\/FileServices\/classes\/UploadService\/UploadLimits\/UploadPolicyFormUI.php",
+            "line": 161,
+            "code": "$this->language->txt(self::LABEL_INPUT_FIELD_ACTIVE)",
+            "variable": "LABEL_INPUT_FIELD_ACTIVE",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 17156,
+            "file": "components\/ILIAS\/FileServices\/classes\/UploadService\/UploadLimits\/UploadPolicyFormUI.php",
+            "line": 170,
+            "code": "$this->language->txt(self::LABEL_INPUT_SECTION_VALIDITY)",
+            "variable": "LABEL_INPUT_SECTION_VALIDITY",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 17182,
+            "file": "components\/ILIAS\/FileServices\/classes\/class.ilObjFileServicesGUI.php",
+            "line": 153,
+            "code": "$this->lng->txt(self::TAB_SETTINGS)",
+            "variable": "TAB_SETTINGS",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 17184,
+            "file": "components\/ILIAS\/FileServices\/classes\/class.ilObjFileServicesGUI.php",
+            "line": 165,
+            "code": "$this->lng->txt(self::TAB_OVERVIEW)",
+            "variable": "TAB_OVERVIEW",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 17186,
+            "file": "components\/ILIAS\/FileServices\/classes\/class.ilObjFileServicesGUI.php",
+            "line": 177,
+            "code": "$this->lng->txt(self::TAB_UPLOAD_LIMITS)",
+            "variable": "TAB_UPLOAD_LIMITS",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 17188,
+            "file": "components\/ILIAS\/FileServices\/classes\/class.ilObjFileServicesGUI.php",
+            "line": 189,
+            "code": "$this->lng->txt(self::TAB_WOPI)",
+            "variable": "TAB_WOPI",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 17190,
+            "file": "components\/ILIAS\/FileServices\/classes\/class.ilObjFileServicesGUI.php",
+            "line": 202,
+            "code": "$this->lng->txt(self::TAB_PERMISSIONS)",
+            "variable": "TAB_PERMISSIONS",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 17192,
+            "file": "components\/ILIAS\/FileServices\/classes\/class.ilObjFileServicesGUI.php",
+            "line": 221,
+            "code": "$this->lng->txt(self::TAB_SETTINGS)",
+            "variable": "TAB_SETTINGS",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        }
+    ]
+}

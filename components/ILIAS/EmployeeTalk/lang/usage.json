@@ -1,0 +1,850 @@
+[
+    {
+        "id": 14040,
+        "file": "components\/ILIAS\/EmployeeTalk\/classes\/Notification\/Calendar\/VCalendarGenerator.php",
+        "line": 62,
+        "code": "$this->lng->txt('title')",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 14042,
+        "file": "components\/ILIAS\/EmployeeTalk\/classes\/Notification\/Calendar\/VCalendarGenerator.php",
+        "line": 63,
+        "code": "$this->lng->txt('desc')",
+        "has_variable": false,
+        "variable": "desc"
+    },
+    {
+        "id": 14044,
+        "file": "components\/ILIAS\/EmployeeTalk\/classes\/Notification\/Calendar\/VCalendarGenerator.php",
+        "line": 64,
+        "code": "$this->lng->txt('location')",
+        "has_variable": false,
+        "variable": "location"
+    },
+    {
+        "id": 14046,
+        "file": "components\/ILIAS\/EmployeeTalk\/classes\/Notification\/Calendar\/VCalendarGenerator.php",
+        "line": 65,
+        "code": "$this->lng->txt('il_orgu_superior')",
+        "has_variable": false,
+        "variable": "il_orgu_superior"
+    },
+    {
+        "id": 14048,
+        "file": "components\/ILIAS\/EmployeeTalk\/classes\/Notification\/Calendar\/VCalendarGenerator.php",
+        "line": 66,
+        "code": "$this->lng->txt('il_orgu_employee')",
+        "has_variable": false,
+        "variable": "il_orgu_employee"
+    },
+    {
+        "id": 14050,
+        "file": "components\/ILIAS\/EmployeeTalk\/classes\/Provider\/class.EmployeeTalkUserActionProvider.php",
+        "line": 55,
+        "code": "$this->language->txt('mm_org_etal')",
+        "has_variable": false,
+        "variable": "mm_org_etal"
+    },
+    {
+        "id": 14052,
+        "file": "components\/ILIAS\/EmployeeTalk\/classes\/Provider\/class.EmployeeTalkUserActionProvider.php",
+        "line": 77,
+        "code": "$this->language->txt('mm_org_etal')",
+        "has_variable": false,
+        "variable": "mm_org_etal"
+    },
+    {
+        "id": 14054,
+        "file": "components\/ILIAS\/EmployeeTalk\/classes\/Talk\/class.ilEmployeeTalkAppointmentGUI.php",
+        "line": 93,
+        "code": "$this->language->txt('back')",
+        "has_variable": false,
+        "variable": "back"
+    },
+    {
+        "id": 14056,
+        "file": "components\/ILIAS\/EmployeeTalk\/classes\/Talk\/class.ilEmployeeTalkAppointmentGUI.php",
+        "line": 112,
+        "code": "$this->language->txt('etal_date_series_edit')",
+        "has_variable": false,
+        "variable": "etal_date_series_edit"
+    },
+    {
+        "id": 14058,
+        "file": "components\/ILIAS\/EmployeeTalk\/classes\/Talk\/class.ilEmployeeTalkAppointmentGUI.php",
+        "line": 126,
+        "code": "$this->language->txt('etal_date_appointment_edit')",
+        "has_variable": false,
+        "variable": "etal_date_appointment_edit"
+    },
+    {
+        "id": 14060,
+        "file": "components\/ILIAS\/EmployeeTalk\/classes\/Talk\/class.ilEmployeeTalkAppointmentGUI.php",
+        "line": 141,
+        "code": "$this->language->txt('pending_talks_warning')",
+        "has_variable": false,
+        "variable": "pending_talks_warning"
+    },
+    {
+        "id": 14062,
+        "file": "components\/ILIAS\/EmployeeTalk\/classes\/Talk\/class.ilEmployeeTalkAppointmentGUI.php",
+        "line": 183,
+        "code": "$this->language->txt('saved_successfully')",
+        "has_variable": false,
+        "variable": "saved_successfully"
+    },
+    {
+        "id": 14064,
+        "file": "components\/ILIAS\/EmployeeTalk\/classes\/Talk\/class.ilEmployeeTalkAppointmentGUI.php",
+        "line": 203,
+        "code": "$this->language->txt('appointment')",
+        "has_variable": false,
+        "variable": "appointment"
+    },
+    {
+        "id": 14066,
+        "file": "components\/ILIAS\/EmployeeTalk\/classes\/Talk\/class.ilEmployeeTalkAppointmentGUI.php",
+        "line": 206,
+        "code": "$this->language->txt('cal_fullday')",
+        "has_variable": false,
+        "variable": "cal_fullday"
+    },
+    {
+        "id": 14068,
+        "file": "components\/ILIAS\/EmployeeTalk\/classes\/Talk\/class.ilEmployeeTalkAppointmentGUI.php",
+        "line": 212,
+        "code": "$this->language->txt('cal_fullday_title')",
+        "has_variable": false,
+        "variable": "cal_fullday_title"
+    },
+    {
+        "id": 14070,
+        "file": "components\/ILIAS\/EmployeeTalk\/classes\/Talk\/class.ilEmployeeTalkAppointmentGUI.php",
+        "line": 221,
+        "code": "$this->language->txt('save')",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 14072,
+        "file": "components\/ILIAS\/EmployeeTalk\/classes\/Talk\/class.ilEmployeeTalkAppointmentGUI.php",
+        "line": 235,
+        "code": "$this->language->txt('appointments')",
+        "has_variable": false,
+        "variable": "appointments"
+    },
+    {
+        "id": 14074,
+        "file": "components\/ILIAS\/EmployeeTalk\/classes\/Talk\/class.ilEmployeeTalkAppointmentGUI.php",
+        "line": 238,
+        "code": "$this->language->txt('cal_fullday')",
+        "has_variable": false,
+        "variable": "cal_fullday"
+    },
+    {
+        "id": 14076,
+        "file": "components\/ILIAS\/EmployeeTalk\/classes\/Talk\/class.ilEmployeeTalkAppointmentGUI.php",
+        "line": 244,
+        "code": "$this->language->txt('cal_fullday_title')",
+        "has_variable": false,
+        "variable": "cal_fullday_title"
+    },
+    {
+        "id": 14078,
+        "file": "components\/ILIAS\/EmployeeTalk\/classes\/Talk\/class.ilEmployeeTalkAppointmentGUI.php",
+        "line": 255,
+        "code": "$this->language->txt('cal_recurrences')",
+        "has_variable": false,
+        "variable": "cal_recurrences"
+    },
+    {
+        "id": 14080,
+        "file": "components\/ILIAS\/EmployeeTalk\/classes\/Talk\/class.ilEmployeeTalkAppointmentGUI.php",
+        "line": 262,
+        "code": "$this->language->txt('save')",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 14082,
+        "file": "components\/ILIAS\/EmployeeTalk\/classes\/Talk\/class.ilEmployeeTalkAppointmentGUI.php",
+        "line": 304,
+        "code": "$this->language->txt('saved_successfully')",
+        "has_variable": false,
+        "variable": "saved_successfully"
+    },
+    {
+        "id": 14084,
+        "file": "components\/ILIAS\/EmployeeTalk\/classes\/Talk\/class.ilEmployeeTalkMyStaffBaseGUI.php",
+        "line": 73,
+        "code": "$this->language->txt('etal_talks')",
+        "has_variable": false,
+        "variable": "etal_talks"
+    },
+    {
+        "id": 14086,
+        "file": "components\/ILIAS\/EmployeeTalk\/classes\/Talk\/class.ilEmployeeTalkMyStaffBaseGUI.php",
+        "line": 107,
+        "code": "$this->language->txt(\"permission_denied\")",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 14088,
+        "file": "components\/ILIAS\/EmployeeTalk\/classes\/Talk\/class.ilEmployeeTalkMyStaffBaseGUI.php",
+        "line": 185,
+        "code": "$this->language->txt('etal_add_new_item')",
+        "has_variable": false,
+        "variable": "etal_add_new_item"
+    },
+    {
+        "id": 14090,
+        "file": "components\/ILIAS\/EmployeeTalk\/classes\/Talk\/class.ilEmployeeTalkMyStaffListGUI.php",
+        "line": 49,
+        "code": "$this->language->txt('mm_org_etal')",
+        "has_variable": false,
+        "variable": "mm_org_etal"
+    },
+    {
+        "id": 14092,
+        "file": "components\/ILIAS\/EmployeeTalk\/classes\/Talk\/class.ilEmployeeTalkTableGUI.php",
+        "line": 77,
+        "code": "$this->language->txt('title')",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 14094,
+        "file": "components\/ILIAS\/EmployeeTalk\/classes\/Talk\/class.ilEmployeeTalkTableGUI.php",
+        "line": 78,
+        "code": "$this->language->txt('type')",
+        "has_variable": false,
+        "variable": "type"
+    },
+    {
+        "id": 14096,
+        "file": "components\/ILIAS\/EmployeeTalk\/classes\/Talk\/class.ilEmployeeTalkTableGUI.php",
+        "line": 83,
+        "code": "$this->language->txt('date_of_talk')",
+        "has_variable": false,
+        "variable": "date_of_talk"
+    },
+    {
+        "id": 14098,
+        "file": "components\/ILIAS\/EmployeeTalk\/classes\/Talk\/class.ilEmployeeTalkTableGUI.php",
+        "line": 89,
+        "code": "$this->language->txt('superior')",
+        "has_variable": false,
+        "variable": "superior"
+    },
+    {
+        "id": 14100,
+        "file": "components\/ILIAS\/EmployeeTalk\/classes\/Talk\/class.ilEmployeeTalkTableGUI.php",
+        "line": 90,
+        "code": "$this->language->txt('employee')",
+        "has_variable": false,
+        "variable": "employee"
+    },
+    {
+        "id": 14102,
+        "file": "components\/ILIAS\/EmployeeTalk\/classes\/Talk\/class.ilEmployeeTalkTableGUI.php",
+        "line": 94,
+        "code": "$this->language->txt('status')",
+        "has_variable": false,
+        "variable": "status"
+    },
+    {
+        "id": 14104,
+        "file": "components\/ILIAS\/EmployeeTalk\/classes\/Talk\/class.ilEmployeeTalkTableGUI.php",
+        "line": 96,
+        "code": "$this->language->txt('etal_status_all')",
+        "has_variable": false,
+        "variable": "etal_status_all"
+    },
+    {
+        "id": 14106,
+        "file": "components\/ILIAS\/EmployeeTalk\/classes\/Talk\/class.ilEmployeeTalkTableGUI.php",
+        "line": 97,
+        "code": "$this->language->txt('etal_status_pending')",
+        "has_variable": false,
+        "variable": "etal_status_pending"
+    },
+    {
+        "id": 14108,
+        "file": "components\/ILIAS\/EmployeeTalk\/classes\/Talk\/class.ilEmployeeTalkTableGUI.php",
+        "line": 98,
+        "code": "$this->language->txt('etal_status_completed')",
+        "has_variable": false,
+        "variable": "etal_status_completed"
+    },
+    {
+        "id": 14110,
+        "file": "components\/ILIAS\/EmployeeTalk\/classes\/Talk\/class.ilEmployeeTalkTableGUI.php",
+        "line": 105,
+        "code": "$this->language->txt('title')",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 14112,
+        "file": "components\/ILIAS\/EmployeeTalk\/classes\/Talk\/class.ilEmployeeTalkTableGUI.php",
+        "line": 110,
+        "code": "$this->language->txt('type')",
+        "has_variable": false,
+        "variable": "type"
+    },
+    {
+        "id": 14114,
+        "file": "components\/ILIAS\/EmployeeTalk\/classes\/Talk\/class.ilEmployeeTalkTableGUI.php",
+        "line": 115,
+        "code": "$this->language->txt('date_of_talk')",
+        "has_variable": false,
+        "variable": "date_of_talk"
+    },
+    {
+        "id": 14116,
+        "file": "components\/ILIAS\/EmployeeTalk\/classes\/Talk\/class.ilEmployeeTalkTableGUI.php",
+        "line": 120,
+        "code": "$this->language->txt('superior')",
+        "has_variable": false,
+        "variable": "superior"
+    },
+    {
+        "id": 14118,
+        "file": "components\/ILIAS\/EmployeeTalk\/classes\/Talk\/class.ilEmployeeTalkTableGUI.php",
+        "line": 125,
+        "code": "$this->language->txt('employee')",
+        "has_variable": false,
+        "variable": "employee"
+    },
+    {
+        "id": 14120,
+        "file": "components\/ILIAS\/EmployeeTalk\/classes\/Talk\/class.ilEmployeeTalkTableGUI.php",
+        "line": 130,
+        "code": "$this->language->txt('status')",
+        "has_variable": false,
+        "variable": "status"
+    },
+    {
+        "id": 14122,
+        "file": "components\/ILIAS\/EmployeeTalk\/classes\/Talk\/class.ilEmployeeTalkTableGUI.php",
+        "line": 135,
+        "code": "$this->language->txt('action')",
+        "has_variable": false,
+        "variable": "action"
+    },
+    {
+        "id": 14124,
+        "file": "components\/ILIAS\/EmployeeTalk\/classes\/Talk\/class.ilEmployeeTalkTableGUI.php",
+        "line": 157,
+        "code": "$this->language->txt('edit')",
+        "has_variable": false,
+        "variable": "edit"
+    },
+    {
+        "id": 14126,
+        "file": "components\/ILIAS\/EmployeeTalk\/classes\/Talk\/class.ilEmployeeTalkTableGUI.php",
+        "line": 162,
+        "code": "$this->language->txt('view')",
+        "has_variable": false,
+        "variable": "view"
+    },
+    {
+        "id": 14128,
+        "file": "components\/ILIAS\/EmployeeTalk\/classes\/Talk\/class.ilEmployeeTalkTableGUI.php",
+        "line": 174,
+        "code": "$this->language->txt('delete')",
+        "has_variable": false,
+        "variable": "delete"
+    },
+    {
+        "id": 14130,
+        "file": "components\/ILIAS\/EmployeeTalk\/classes\/Talk\/class.ilEmployeeTalkTableGUI.php",
+        "line": 181,
+        "code": "$this->language->txt('actions')",
+        "has_variable": false,
+        "variable": "actions"
+    },
+    {
+        "id": 14132,
+        "file": "components\/ILIAS\/EmployeeTalk\/classes\/Talk\/class.ilEmployeeTalkTableGUI.php",
+        "line": 212,
+        "code": "$this->language->txt('etal_unknown_username')",
+        "has_variable": false,
+        "variable": "etal_unknown_username"
+    },
+    {
+        "id": 14134,
+        "file": "components\/ILIAS\/EmployeeTalk\/classes\/Talk\/class.ilEmployeeTalkTableGUI.php",
+        "line": 213,
+        "code": "$this->language->txt('etal_unknown_username')",
+        "has_variable": false,
+        "variable": "etal_unknown_username"
+    },
+    {
+        "id": 14136,
+        "file": "components\/ILIAS\/EmployeeTalk\/classes\/Talk\/class.ilEmployeeTalkTableGUI.php",
+        "line": 275,
+        "code": "$this->language->txt('etal_status_completed')",
+        "has_variable": false,
+        "variable": "etal_status_completed"
+    },
+    {
+        "id": 14138,
+        "file": "components\/ILIAS\/EmployeeTalk\/classes\/Talk\/class.ilEmployeeTalkTableGUI.php",
+        "line": 275,
+        "code": "$this->language->txt('etal_status_pending')",
+        "has_variable": false,
+        "variable": "etal_status_pending"
+    },
+    {
+        "id": 14140,
+        "file": "components\/ILIAS\/EmployeeTalk\/classes\/Talk\/class.ilEmployeeTalkTableGUI.php",
+        "line": 303,
+        "code": "$this->language->txt('confirm')",
+        "has_variable": false,
+        "variable": "confirm"
+    },
+    {
+        "id": 14142,
+        "file": "components\/ILIAS\/EmployeeTalk\/classes\/Talk\/class.ilEmployeeTalkTableGUI.php",
+        "line": 304,
+        "code": "$this->language->txt('etal_delete_confirmation_msg')",
+        "has_variable": false,
+        "variable": "etal_delete_confirmation_msg"
+    },
+    {
+        "id": 14144,
+        "file": "components\/ILIAS\/EmployeeTalk\/classes\/Talk\/class.ilObjEmployeeTalkGUI.php",
+        "line": 79,
+        "code": "$this->lng->txt('mst_my_staff')",
+        "has_variable": false,
+        "variable": "mst_my_staff"
+    },
+    {
+        "id": 14146,
+        "file": "components\/ILIAS\/EmployeeTalk\/classes\/Talk\/class.ilObjEmployeeTalkGUI.php",
+        "line": 89,
+        "code": "$this->lng->txt(\"permission_denied\")",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 14148,
+        "file": "components\/ILIAS\/EmployeeTalk\/classes\/Talk\/class.ilObjEmployeeTalkGUI.php",
+        "line": 222,
+        "code": "$this->lng->txt(\"permission_denied\")",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 14150,
+        "file": "components\/ILIAS\/EmployeeTalk\/classes\/Talk\/class.ilObjEmployeeTalkGUI.php",
+        "line": 237,
+        "code": "$this->lng->txt('no_checkbox')",
+        "has_variable": false,
+        "variable": "no_checkbox"
+    },
+    {
+        "id": 14152,
+        "file": "components\/ILIAS\/EmployeeTalk\/classes\/Talk\/class.ilObjEmployeeTalkGUI.php",
+        "line": 287,
+        "code": "$this->lng->txt('talk_serial')",
+        "has_variable": false,
+        "variable": "talk_serial"
+    },
+    {
+        "id": 14154,
+        "file": "components\/ILIAS\/EmployeeTalk\/classes\/Talk\/class.ilObjEmployeeTalkGUI.php",
+        "line": 290,
+        "code": "$this->lng->txt($this->object->getType() . \"_edit\")",
+        "has_variable": true,
+        "variable": "$this->object->getType() . \"_edit\""
+    },
+    {
+        "id": 14156,
+        "file": "components\/ILIAS\/EmployeeTalk\/classes\/Talk\/class.ilObjEmployeeTalkGUI.php",
+        "line": 293,
+        "code": "$this->lng->txt(\"title\")",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 14158,
+        "file": "components\/ILIAS\/EmployeeTalk\/classes\/Talk\/class.ilObjEmployeeTalkGUI.php",
+        "line": 294,
+        "code": "$this->lng->txt('will_update_series_info_title')",
+        "has_variable": false,
+        "variable": "will_update_series_info_title"
+    },
+    {
+        "id": 14160,
+        "file": "components\/ILIAS\/EmployeeTalk\/classes\/Talk\/class.ilObjEmployeeTalkGUI.php",
+        "line": 301,
+        "code": "$this->lng->txt(\"superior\")",
+        "has_variable": false,
+        "variable": "superior"
+    },
+    {
+        "id": 14162,
+        "file": "components\/ILIAS\/EmployeeTalk\/classes\/Talk\/class.ilObjEmployeeTalkGUI.php",
+        "line": 305,
+        "code": "$this->lng->txt(\"employee\")",
+        "has_variable": false,
+        "variable": "employee"
+    },
+    {
+        "id": 14164,
+        "file": "components\/ILIAS\/EmployeeTalk\/classes\/Talk\/class.ilObjEmployeeTalkGUI.php",
+        "line": 309,
+        "code": "$this->lng->txt(\"lock_edititng_for_others\")",
+        "has_variable": false,
+        "variable": "lock_edititng_for_others"
+    },
+    {
+        "id": 14166,
+        "file": "components\/ILIAS\/EmployeeTalk\/classes\/Talk\/class.ilObjEmployeeTalkGUI.php",
+        "line": 310,
+        "code": "$this->lng->txt('will_update_series_info_lock')",
+        "has_variable": false,
+        "variable": "will_update_series_info_lock"
+    },
+    {
+        "id": 14168,
+        "file": "components\/ILIAS\/EmployeeTalk\/classes\/Talk\/class.ilObjEmployeeTalkGUI.php",
+        "line": 320,
+        "code": "$this->lng->txt(\"description\")",
+        "has_variable": false,
+        "variable": "description"
+    },
+    {
+        "id": 14170,
+        "file": "components\/ILIAS\/EmployeeTalk\/classes\/Talk\/class.ilObjEmployeeTalkGUI.php",
+        "line": 326,
+        "code": "$this->lng->txt('location')",
+        "has_variable": false,
+        "variable": "location"
+    },
+    {
+        "id": 14172,
+        "file": "components\/ILIAS\/EmployeeTalk\/classes\/Talk\/class.ilObjEmployeeTalkGUI.php",
+        "line": 331,
+        "code": "$this->lng->txt('etal_status_completed')",
+        "has_variable": false,
+        "variable": "etal_status_completed"
+    },
+    {
+        "id": 14174,
+        "file": "components\/ILIAS\/EmployeeTalk\/classes\/Talk\/class.ilObjEmployeeTalkGUI.php",
+        "line": 338,
+        "code": "$this->lng->txt(\"save\")",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 14176,
+        "file": "components\/ILIAS\/EmployeeTalk\/classes\/Talk\/class.ilObjEmployeeTalkGUI.php",
+        "line": 362,
+        "code": "$this->lng->txt('change_date_of_talk')",
+        "has_variable": false,
+        "variable": "change_date_of_talk"
+    },
+    {
+        "id": 14178,
+        "file": "components\/ILIAS\/EmployeeTalk\/classes\/Talk\/class.ilObjEmployeeTalkGUI.php",
+        "line": 376,
+        "code": "$this->lng->txt('change_date_of_series')",
+        "has_variable": false,
+        "variable": "change_date_of_series"
+    },
+    {
+        "id": 14180,
+        "file": "components\/ILIAS\/EmployeeTalk\/classes\/Talk\/class.ilObjEmployeeTalkGUI.php",
+        "line": 493,
+        "code": "$this->lng->txt(\"msg_obj_modified\")",
+        "has_variable": false,
+        "variable": "msg_obj_modified"
+    },
+    {
+        "id": 14182,
+        "file": "components\/ILIAS\/EmployeeTalk\/classes\/Talk\/class.ilObjEmployeeTalkGUI.php",
+        "line": 506,
+        "code": "$this->lng->txt(\"content\")",
+        "has_variable": false,
+        "variable": "content"
+    },
+    {
+        "id": 14184,
+        "file": "components\/ILIAS\/EmployeeTalk\/classes\/Talk\/class.ilObjEmployeeTalkGUI.php",
+        "line": 516,
+        "code": "$this->lng->txt(\"settings\")",
+        "has_variable": false,
+        "variable": "settings"
+    },
+    {
+        "id": 14186,
+        "file": "components\/ILIAS\/EmployeeTalk\/classes\/Talk\/class.ilObjEmployeeTalkGUI.php",
+        "line": 531,
+        "code": "$this->lng->txt('perm_settings')",
+        "has_variable": false,
+        "variable": "perm_settings"
+    },
+    {
+        "id": 14188,
+        "file": "components\/ILIAS\/EmployeeTalk\/classes\/Talk\/class.ilObjEmployeeTalkGUI.php",
+        "line": 566,
+        "code": "$this->lng->txt('save')",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 14190,
+        "file": "components\/ILIAS\/EmployeeTalk\/classes\/TalkSeries\/class.ilObjEmployeeTalkSeriesGUI.php",
+        "line": 92,
+        "code": "$this->lng->txt(\"permission_denied\")",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 14192,
+        "file": "components\/ILIAS\/EmployeeTalk\/classes\/TalkSeries\/class.ilObjEmployeeTalkSeriesGUI.php",
+        "line": 194,
+        "code": "$this->lng->txt(\"object_added\")",
+        "has_variable": false,
+        "variable": "object_added"
+    },
+    {
+        "id": 14194,
+        "file": "components\/ILIAS\/EmployeeTalk\/classes\/TalkSeries\/class.ilObjEmployeeTalkSeriesGUI.php",
+        "line": 212,
+        "code": "$this->lng->txt('etal_invalid_user')",
+        "has_variable": false,
+        "variable": "etal_invalid_user"
+    },
+    {
+        "id": 14196,
+        "file": "components\/ILIAS\/EmployeeTalk\/classes\/TalkSeries\/class.ilObjEmployeeTalkSeriesGUI.php",
+        "line": 215,
+        "code": "$this->lng->txt('form_input_not_valid')",
+        "has_variable": false,
+        "variable": "form_input_not_valid"
+    },
+    {
+        "id": 14198,
+        "file": "components\/ILIAS\/EmployeeTalk\/classes\/TalkSeries\/class.ilObjEmployeeTalkSeriesGUI.php",
+        "line": 245,
+        "code": "$this->lng->txt($new_type . \"_new\")",
+        "has_variable": true,
+        "variable": "$new_type . \"_new\""
+    },
+    {
+        "id": 14200,
+        "file": "components\/ILIAS\/EmployeeTalk\/classes\/TalkSeries\/class.ilObjEmployeeTalkSeriesGUI.php",
+        "line": 248,
+        "code": "$this->lng->txt(\"title\")",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 14202,
+        "file": "components\/ILIAS\/EmployeeTalk\/classes\/TalkSeries\/class.ilObjEmployeeTalkSeriesGUI.php",
+        "line": 255,
+        "code": "$this->lng->txt(\"description\")",
+        "has_variable": false,
+        "variable": "description"
+    },
+    {
+        "id": 14204,
+        "file": "components\/ILIAS\/EmployeeTalk\/classes\/TalkSeries\/class.ilObjEmployeeTalkSeriesGUI.php",
+        "line": 261,
+        "code": "$this->lng->txt('cal_fullday')",
+        "has_variable": false,
+        "variable": "cal_fullday"
+    },
+    {
+        "id": 14206,
+        "file": "components\/ILIAS\/EmployeeTalk\/classes\/TalkSeries\/class.ilObjEmployeeTalkSeriesGUI.php",
+        "line": 264,
+        "code": "$this->lng->txt('cal_fullday_title')",
+        "has_variable": false,
+        "variable": "cal_fullday_title"
+    },
+    {
+        "id": 14208,
+        "file": "components\/ILIAS\/EmployeeTalk\/classes\/TalkSeries\/class.ilObjEmployeeTalkSeriesGUI.php",
+        "line": 271,
+        "code": "$this->lng->txt(\"etal_recurrence\")",
+        "has_variable": false,
+        "variable": "etal_recurrence"
+    },
+    {
+        "id": 14210,
+        "file": "components\/ILIAS\/EmployeeTalk\/classes\/TalkSeries\/class.ilObjEmployeeTalkSeriesGUI.php",
+        "line": 280,
+        "code": "$this->lng->txt(\"etal_location\")",
+        "has_variable": false,
+        "variable": "etal_location"
+    },
+    {
+        "id": 14212,
+        "file": "components\/ILIAS\/EmployeeTalk\/classes\/TalkSeries\/class.ilObjEmployeeTalkSeriesGUI.php",
+        "line": 285,
+        "code": "$this->lng->txt(\"employee\")",
+        "has_variable": false,
+        "variable": "employee"
+    },
+    {
+        "id": 14214,
+        "file": "components\/ILIAS\/EmployeeTalk\/classes\/TalkSeries\/class.ilObjEmployeeTalkSeriesGUI.php",
+        "line": 301,
+        "code": "$this->lng->txt($new_type . \"_add\")",
+        "has_variable": true,
+        "variable": "$new_type . \"_add\""
+    },
+    {
+        "id": 14216,
+        "file": "components\/ILIAS\/EmployeeTalk\/classes\/TalkSeries\/class.ilObjEmployeeTalkSeriesGUI.php",
+        "line": 302,
+        "code": "$this->lng->txt(\"cancel\")",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 14218,
+        "file": "components\/ILIAS\/EmployeeTalk\/classes\/TalkSeries\/class.ilObjEmployeeTalkSeriesGUI.php",
+        "line": 591,
+        "code": "$this->lng->txt('etal_create_invalid_template_ref')",
+        "has_variable": false,
+        "variable": "etal_create_invalid_template_ref"
+    },
+    {
+        "id": 14220,
+        "file": "components\/ILIAS\/EmployeeTalk\/classes\/class.ilObjTalkTemplateAdministration.php",
+        "line": 82,
+        "code": "$this->lng->txt(\"objs_tala\")",
+        "has_variable": false,
+        "variable": "objs_tala"
+    },
+    {
+        "id": 14222,
+        "file": "components\/ILIAS\/EmployeeTalk\/classes\/class.ilObjTalkTemplateAdministrationGUI.php",
+        "line": 96,
+        "code": "$this->lng->txt('obj_tala')",
+        "has_variable": false,
+        "variable": "obj_tala"
+    },
+    {
+        "id": 14224,
+        "file": "components\/ILIAS\/EmployeeTalk\/classes\/class.ilObjTalkTemplateAdministrationGUI.php",
+        "line": 114,
+        "code": "$this->lng->txt(\"objs_tala\")",
+        "has_variable": false,
+        "variable": "objs_tala"
+    },
+    {
+        "id": 14226,
+        "file": "components\/ILIAS\/EmployeeTalk\/classes\/class.ilObjTalkTemplateAdministrationGUI.php",
+        "line": 115,
+        "code": "$this->lng->txt(\"objs_tala\")",
+        "has_variable": false,
+        "variable": "objs_tala"
+    },
+    {
+        "id": 14228,
+        "file": "components\/ILIAS\/EmployeeTalk\/classes\/class.ilObjTalkTemplateAdministrationGUI.php",
+        "line": 117,
+        "code": "$this->lng->txt(\"obj_\" . $this->object->getType())",
+        "has_variable": true,
+        "variable": "\"obj_\" . $this->object->getType()"
+    },
+    {
+        "id": 14230,
+        "file": "components\/ILIAS\/EmployeeTalk\/classes\/class.ilObjTalkTemplateAdministrationGUI.php",
+        "line": 130,
+        "code": "$this->lng->txt('other')",
+        "has_variable": false,
+        "variable": "other"
+    },
+    {
+        "id": 14232,
+        "file": "components\/ILIAS\/EmployeeTalk\/classes\/class.ilObjTalkTemplateAdministrationGUI.php",
+        "line": 158,
+        "code": "$this->lng->txt(\"msg_no_perm_read\")",
+        "has_variable": false,
+        "variable": "msg_no_perm_read"
+    },
+    {
+        "id": 14234,
+        "file": "components\/ILIAS\/EmployeeTalk\/classes\/class.ilObjTalkTemplateAdministrationGUI.php",
+        "line": 168,
+        "code": "$this->lng->txt(\"tala_no_content_without_admin_info\")",
+        "has_variable": false,
+        "variable": "tala_no_content_without_admin_info"
+    },
+    {
+        "id": 14236,
+        "file": "components\/ILIAS\/EmployeeTalk\/classes\/class.ilObjTalkTemplateAdministrationGUI.php",
+        "line": 205,
+        "code": "$this->lng->txt(\"content\")",
+        "has_variable": false,
+        "variable": "content"
+    },
+    {
+        "id": 14238,
+        "file": "components\/ILIAS\/EmployeeTalk\/classes\/class.ilObjTalkTemplateAdministrationGUI.php",
+        "line": 208,
+        "code": "$this->lng->txt('tab_info')",
+        "has_variable": false,
+        "variable": "tab_info"
+    },
+    {
+        "id": 14240,
+        "file": "components\/ILIAS\/EmployeeTalk\/classes\/class.ilObjTalkTemplateGUI.php",
+        "line": 102,
+        "code": "$this->lng->txt(\"cancel\")",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 14242,
+        "file": "components\/ILIAS\/EmployeeTalk\/classes\/class.ilObjTalkTemplateGUI.php",
+        "line": 108,
+        "code": "$this->lng->txt('rep_activation_online')",
+        "has_variable": false,
+        "variable": "rep_activation_online"
+    },
+    {
+        "id": 14244,
+        "file": "components\/ILIAS\/EmployeeTalk\/classes\/class.ilObjTalkTemplateGUI.php",
+        "line": 109,
+        "code": "$this->lng->txt('talt_activation_online_info')",
+        "has_variable": false,
+        "variable": "talt_activation_online_info"
+    },
+    {
+        "id": 14246,
+        "file": "components\/ILIAS\/EmployeeTalk\/classes\/class.ilObjTalkTemplateGUI.php",
+        "line": 166,
+        "code": "$this->lng->txt(\"content\")",
+        "has_variable": false,
+        "variable": "content"
+    },
+    {
+        "id": 14248,
+        "file": "components\/ILIAS\/EmployeeTalk\/classes\/class.ilObjTalkTemplateGUI.php",
+        "line": 171,
+        "code": "$this->lng->txt(\"settings\")",
+        "has_variable": false,
+        "variable": "settings"
+    },
+    {
+        "id": 14250,
+        "file": "components\/ILIAS\/EmployeeTalk\/classes\/class.ilObjTalkTemplateGUI.php",
+        "line": 190,
+        "code": "$this->lng->txt('obj_tala')",
+        "has_variable": false,
+        "variable": "obj_tala"
+    }
+]

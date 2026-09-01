@@ -1,0 +1,75 @@
+{
+    "metadata": {
+        "type": "full",
+        "count": 6,
+        "description": "Variable usages without detectable prefixes or suffixes (pure variable references without static strings)"
+    },
+    "matches": [
+        {
+            "id": 1386,
+            "file": "components\/ILIAS\/AdvancedMetaData\/classes\/Record\/class.ilAdvancedMDRecord.php",
+            "line": 166,
+            "code": "$lng->txt($at[\"obj_type\"] . \"_\" . $at[\"sub_type\"])",
+            "variable": "$at[\"obj_type\"] . \"_\" . $at[\"sub_type\"]",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 1430,
+            "file": "components\/ILIAS\/AdvancedMetaData\/classes\/Record\/class.ilAdvancedMDRecordTableGUI.php",
+            "line": 224,
+            "code": "$this->lng->txt($definition_obj->getTypeTitle())",
+            "variable": "$definition_obj->getTypeTitle()",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 1612,
+            "file": "components\/ILIAS\/AdvancedMetaData\/classes\/class.ilAdvancedMDFieldTableGUI.php",
+            "line": 136,
+            "code": "$this->lng->txt($definition->getTypeTitle())",
+            "variable": "$definition->getTypeTitle()",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 1690,
+            "file": "components\/ILIAS\/AdvancedMetaData\/classes\/class.ilAdvancedMDSettingsGUI.php",
+            "line": 913,
+            "code": "$this->lng->txt($field->getTypeTitle())",
+            "variable": "$field->getTypeTitle()",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 1692,
+            "file": "components\/ILIAS\/AdvancedMetaData\/classes\/class.ilAdvancedMDSettingsGUI.php",
+            "line": 918,
+            "code": "$this->lng->txt($field->getTypeTitle())",
+            "variable": "$field->getTypeTitle()",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 1746,
+            "file": "components\/ILIAS\/AdvancedMetaData\/classes\/class.ilAdvancedMDSettingsGUI.php",
+            "line": 1391,
+            "code": "$this->lng->txt($a_definition->getTypeTitle())",
+            "variable": "$a_definition->getTypeTitle()",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        }
+    ]
+}

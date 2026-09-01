@@ -1,0 +1,1682 @@
+[
+    {
+        "id": 28178,
+        "file": "components\/ILIAS\/News\/Dashboard\/class.InternalGUIService.php",
+        "line": 68,
+        "code": "$lng->txt(\"news_time_period\")",
+        "has_variable": false,
+        "variable": "news_time_period"
+    },
+    {
+        "id": 28180,
+        "file": "components\/ILIAS\/News\/Dashboard\/class.InternalGUIService.php",
+        "line": 74,
+        "code": "$lng->txt(\"context\")",
+        "has_variable": false,
+        "variable": "context"
+    },
+    {
+        "id": 28182,
+        "file": "components\/ILIAS\/News\/Timeline\/class.ilTimelineGUI.php",
+        "line": 75,
+        "code": "$this->lng->txt(\"month_\" . $dt->get(IL_CAL_FKT_DATE, \"m\") . \"_short\")",
+        "has_variable": true,
+        "variable": "\"month_\" . $dt->get(IL_CAL_FKT_DATE, \"m\") . \"_short\""
+    },
+    {
+        "id": 28184,
+        "file": "components\/ILIAS\/News\/classes\/class.ilNewsForContextBlockGUI.php",
+        "line": 92,
+        "code": "$this->lng->txt(\"news_internal_news\")",
+        "has_variable": false,
+        "variable": "news_internal_news"
+    },
+    {
+        "id": 28186,
+        "file": "components\/ILIAS\/News\/classes\/class.ilNewsForContextBlockGUI.php",
+        "line": 141,
+        "code": "$this->lng->txt('news_not_available')",
+        "has_variable": false,
+        "variable": "news_not_available"
+    },
+    {
+        "id": 28188,
+        "file": "components\/ILIAS\/News\/classes\/class.ilNewsForContextBlockGUI.php",
+        "line": 142,
+        "code": "$this->lng->txt('news_sorry_not_accessible_anymore')",
+        "has_variable": false,
+        "variable": "news_sorry_not_accessible_anymore"
+    },
+    {
+        "id": 28190,
+        "file": "components\/ILIAS\/News\/classes\/class.ilNewsForContextBlockGUI.php",
+        "line": 147,
+        "code": "$this->lng->txt('date')",
+        "has_variable": false,
+        "variable": "date"
+    },
+    {
+        "id": 28192,
+        "file": "components\/ILIAS\/News\/classes\/class.ilNewsForContextBlockGUI.php",
+        "line": 195,
+        "code": "$this->lng->txt($lang_type)",
+        "has_variable": true,
+        "variable": "$lang_type"
+    },
+    {
+        "id": 28194,
+        "file": "components\/ILIAS\/News\/classes\/class.ilNewsForContextBlockGUI.php",
+        "line": 294,
+        "code": "$lng->txt(\"news_feed_url\")",
+        "has_variable": false,
+        "variable": "news_feed_url"
+    },
+    {
+        "id": 28196,
+        "file": "components\/ILIAS\/News\/classes\/class.ilNewsForContextBlockGUI.php",
+        "line": 302,
+        "code": "$lng->txt(\"edit\")",
+        "has_variable": false,
+        "variable": "edit"
+    },
+    {
+        "id": 28198,
+        "file": "components\/ILIAS\/News\/classes\/class.ilNewsForContextBlockGUI.php",
+        "line": 308,
+        "code": "$lng->txt(\"add\")",
+        "has_variable": false,
+        "variable": "add"
+    },
+    {
+        "id": 28200,
+        "file": "components\/ILIAS\/News\/classes\/class.ilNewsForContextBlockGUI.php",
+        "line": 326,
+        "code": "$lng->txt(\"settings\")",
+        "has_variable": false,
+        "variable": "settings"
+    },
+    {
+        "id": 28202,
+        "file": "components\/ILIAS\/News\/classes\/class.ilNewsForContextBlockGUI.php",
+        "line": 336,
+        "code": "$lng->txt(\"settings\")",
+        "has_variable": false,
+        "variable": "settings"
+    },
+    {
+        "id": 28204,
+        "file": "components\/ILIAS\/News\/classes\/class.ilNewsForContextBlockGUI.php",
+        "line": 412,
+        "code": "$lng->txt(\"news_news_items\")",
+        "has_variable": false,
+        "variable": "news_news_items"
+    },
+    {
+        "id": 28206,
+        "file": "components\/ILIAS\/News\/classes\/class.ilNewsForContextBlockGUI.php",
+        "line": 459,
+        "code": "$this->lng->txt(\"deleted\")",
+        "has_variable": false,
+        "variable": "deleted"
+    },
+    {
+        "id": 28208,
+        "file": "components\/ILIAS\/News\/classes\/class.ilNewsForContextBlockGUI.php",
+        "line": 463,
+        "code": "$this->lng->txt(\"author\")",
+        "has_variable": false,
+        "variable": "author"
+    },
+    {
+        "id": 28210,
+        "file": "components\/ILIAS\/News\/classes\/class.ilNewsForContextBlockGUI.php",
+        "line": 500,
+        "code": "$this->lng->txt(\"news_news_item_visibility\")",
+        "has_variable": false,
+        "variable": "news_news_item_visibility"
+    },
+    {
+        "id": 28212,
+        "file": "components\/ILIAS\/News\/classes\/class.ilNewsForContextBlockGUI.php",
+        "line": 509,
+        "code": "$this->lng->txt(\"news_visibility_public\")",
+        "has_variable": false,
+        "variable": "news_visibility_public"
+    },
+    {
+        "id": 28214,
+        "file": "components\/ILIAS\/News\/classes\/class.ilNewsForContextBlockGUI.php",
+        "line": 511,
+        "code": "$this->lng->txt(\"news_visibility_users\")",
+        "has_variable": false,
+        "variable": "news_visibility_users"
+    },
+    {
+        "id": 28216,
+        "file": "components\/ILIAS\/News\/classes\/class.ilNewsForContextBlockGUI.php",
+        "line": 528,
+        "code": "$this->lng->txt(\"last_update\")",
+        "has_variable": false,
+        "variable": "last_update"
+    },
+    {
+        "id": 28218,
+        "file": "components\/ILIAS\/News\/classes\/class.ilNewsForContextBlockGUI.php",
+        "line": 543,
+        "code": "$this->lng->txt(\"created\")",
+        "has_variable": false,
+        "variable": "created"
+    },
+    {
+        "id": 28220,
+        "file": "components\/ILIAS\/News\/classes\/class.ilNewsForContextBlockGUI.php",
+        "line": 558,
+        "code": "$this->lng->txt(\"download\")",
+        "has_variable": false,
+        "variable": "download"
+    },
+    {
+        "id": 28222,
+        "file": "components\/ILIAS\/News\/classes\/class.ilNewsForContextBlockGUI.php",
+        "line": 659,
+        "code": "$this->lng->txt(\"news_internal_news\")",
+        "has_variable": false,
+        "variable": "news_internal_news"
+    },
+    {
+        "id": 28224,
+        "file": "components\/ILIAS\/News\/classes\/class.ilNewsForContextBlockGUI.php",
+        "line": 801,
+        "code": "$lng->txt(\"news_settings\")",
+        "has_variable": false,
+        "variable": "news_settings"
+    },
+    {
+        "id": 28226,
+        "file": "components\/ILIAS\/News\/classes\/class.ilNewsForContextBlockGUI.php",
+        "line": 806,
+        "code": "$lng->txt(\"news_hide_news_block\")",
+        "has_variable": false,
+        "variable": "news_hide_news_block"
+    },
+    {
+        "id": 28228,
+        "file": "components\/ILIAS\/News\/classes\/class.ilNewsForContextBlockGUI.php",
+        "line": 809,
+        "code": "$lng->txt(\"news_hide_news_block_info\")",
+        "has_variable": false,
+        "variable": "news_hide_news_block_info"
+    },
+    {
+        "id": 28230,
+        "file": "components\/ILIAS\/News\/classes\/class.ilNewsForContextBlockGUI.php",
+        "line": 814,
+        "code": "$lng->txt(\"news_hide_news_per_date\")",
+        "has_variable": false,
+        "variable": "news_hide_news_per_date"
+    },
+    {
+        "id": 28232,
+        "file": "components\/ILIAS\/News\/classes\/class.ilNewsForContextBlockGUI.php",
+        "line": 817,
+        "code": "$lng->txt(\"news_hide_news_per_date_info\")",
+        "has_variable": false,
+        "variable": "news_hide_news_per_date_info"
+    },
+    {
+        "id": 28234,
+        "file": "components\/ILIAS\/News\/classes\/class.ilNewsForContextBlockGUI.php",
+        "line": 821,
+        "code": "$lng->txt(\"news_hide_news_date\")",
+        "has_variable": false,
+        "variable": "news_hide_news_date"
+    },
+    {
+        "id": 28236,
+        "file": "components\/ILIAS\/News\/classes\/class.ilNewsForContextBlockGUI.php",
+        "line": 848,
+        "code": "$lng->txt(\"news_default_visibility\")",
+        "has_variable": false,
+        "variable": "news_default_visibility"
+    },
+    {
+        "id": 28238,
+        "file": "components\/ILIAS\/News\/classes\/class.ilNewsForContextBlockGUI.php",
+        "line": 849,
+        "code": "$lng->txt(\"news_visibility_users\")",
+        "has_variable": false,
+        "variable": "news_visibility_users"
+    },
+    {
+        "id": 28240,
+        "file": "components\/ILIAS\/News\/classes\/class.ilNewsForContextBlockGUI.php",
+        "line": 851,
+        "code": "$lng->txt(\"news_visibility_public\")",
+        "has_variable": false,
+        "variable": "news_visibility_public"
+    },
+    {
+        "id": 28242,
+        "file": "components\/ILIAS\/News\/classes\/class.ilNewsForContextBlockGUI.php",
+        "line": 853,
+        "code": "$lng->txt(\"news_news_item_visibility_info\")",
+        "has_variable": false,
+        "variable": "news_news_item_visibility_info"
+    },
+    {
+        "id": 28244,
+        "file": "components\/ILIAS\/News\/classes\/class.ilNewsForContextBlockGUI.php",
+        "line": 862,
+        "code": "$lng->txt(\"news_notifications_public\")",
+        "has_variable": false,
+        "variable": "news_notifications_public"
+    },
+    {
+        "id": 28246,
+        "file": "components\/ILIAS\/News\/classes\/class.ilNewsForContextBlockGUI.php",
+        "line": 865,
+        "code": "$lng->txt(\"news_notifications_public_info\")",
+        "has_variable": false,
+        "variable": "news_notifications_public_info"
+    },
+    {
+        "id": 28248,
+        "file": "components\/ILIAS\/News\/classes\/class.ilNewsForContextBlockGUI.php",
+        "line": 873,
+        "code": "$lng->txt(\"news_public_feed\")",
+        "has_variable": false,
+        "variable": "news_public_feed"
+    },
+    {
+        "id": 28250,
+        "file": "components\/ILIAS\/News\/classes\/class.ilNewsForContextBlockGUI.php",
+        "line": 876,
+        "code": "$lng->txt(\"news_public_feed_info\")",
+        "has_variable": false,
+        "variable": "news_public_feed_info"
+    },
+    {
+        "id": 28252,
+        "file": "components\/ILIAS\/News\/classes\/class.ilNewsForContextBlockGUI.php",
+        "line": 881,
+        "code": "$lng->txt(\"save\")",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 28254,
+        "file": "components\/ILIAS\/News\/classes\/class.ilNewsForContextBlockGUI.php",
+        "line": 882,
+        "code": "$lng->txt(\"cancel\")",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 28256,
+        "file": "components\/ILIAS\/News\/classes\/class.ilNewsForContextBlockGUI.php",
+        "line": 915,
+        "code": "$lng->txt(\"news_default_visibility\")",
+        "has_variable": false,
+        "variable": "news_default_visibility"
+    },
+    {
+        "id": 28258,
+        "file": "components\/ILIAS\/News\/classes\/class.ilNewsForContextBlockGUI.php",
+        "line": 916,
+        "code": "$lng->txt(\"news_visibility_users\")",
+        "has_variable": false,
+        "variable": "news_visibility_users"
+    },
+    {
+        "id": 28260,
+        "file": "components\/ILIAS\/News\/classes\/class.ilNewsForContextBlockGUI.php",
+        "line": 918,
+        "code": "$lng->txt(\"news_visibility_public\")",
+        "has_variable": false,
+        "variable": "news_visibility_public"
+    },
+    {
+        "id": 28262,
+        "file": "components\/ILIAS\/News\/classes\/class.ilNewsForContextBlockGUI.php",
+        "line": 920,
+        "code": "$lng->txt(\"news_news_item_visibility_info\")",
+        "has_variable": false,
+        "variable": "news_news_item_visibility_info"
+    },
+    {
+        "id": 28264,
+        "file": "components\/ILIAS\/News\/classes\/class.ilNewsForContextBlockGUI.php",
+        "line": 928,
+        "code": "$lng->txt(\"news_public_feed\")",
+        "has_variable": false,
+        "variable": "news_public_feed"
+    },
+    {
+        "id": 28266,
+        "file": "components\/ILIAS\/News\/classes\/class.ilNewsForContextBlockGUI.php",
+        "line": 931,
+        "code": "$lng->txt(\"news_public_feed_info\")",
+        "has_variable": false,
+        "variable": "news_public_feed_info"
+    },
+    {
+        "id": 28268,
+        "file": "components\/ILIAS\/News\/classes\/class.ilNewsForContextBlockGUI.php",
+        "line": 1046,
+        "code": "$lng->txt(\"news_feed_url_for\")",
+        "has_variable": false,
+        "variable": "news_feed_url_for"
+    },
+    {
+        "id": 28270,
+        "file": "components\/ILIAS\/News\/classes\/class.ilNewsForContextBlockGUI.php",
+        "line": 1048,
+        "code": "$lng->txt(\"news_get_feed_info\")",
+        "has_variable": false,
+        "variable": "news_get_feed_info"
+    },
+    {
+        "id": 28272,
+        "file": "components\/ILIAS\/News\/classes\/class.ilNewsForContextBlockGUI.php",
+        "line": 1049,
+        "code": "$lng->txt(\"news_feed_url\")",
+        "has_variable": false,
+        "variable": "news_feed_url"
+    },
+    {
+        "id": 28274,
+        "file": "components\/ILIAS\/News\/classes\/class.ilNewsForContextBlockGUI.php",
+        "line": 1064,
+        "code": "$lng->txt(\"news_internal_news\")",
+        "has_variable": false,
+        "variable": "news_internal_news"
+    },
+    {
+        "id": 28276,
+        "file": "components\/ILIAS\/News\/classes\/class.ilNewsForContextBlockGUI.php",
+        "line": 1083,
+        "code": "$lng->txt(\"news_loading_news\")",
+        "has_variable": false,
+        "variable": "news_loading_news"
+    },
+    {
+        "id": 28278,
+        "file": "components\/ILIAS\/News\/classes\/class.ilNewsForContextBlockGUI.php",
+        "line": 1091,
+        "code": "$lng->txt(\"news_no_js_click_here\")",
+        "has_variable": false,
+        "variable": "news_no_js_click_here"
+    },
+    {
+        "id": 28280,
+        "file": "components\/ILIAS\/News\/classes\/class.ilNewsForContextBlockGUI.php",
+        "line": 1141,
+        "code": "$this->lng->txt(\"news_no_news_items\")",
+        "has_variable": false,
+        "variable": "news_no_news_items"
+    },
+    {
+        "id": 28282,
+        "file": "components\/ILIAS\/News\/classes\/class.ilNewsForContextTableGUI.php",
+        "line": 51,
+        "code": "$lng->txt(\"news_news_item_content\")",
+        "has_variable": false,
+        "variable": "news_news_item_content"
+    },
+    {
+        "id": 28284,
+        "file": "components\/ILIAS\/News\/classes\/class.ilNewsForContextTableGUI.php",
+        "line": 52,
+        "code": "$lng->txt(\"news_attached_to\")",
+        "has_variable": false,
+        "variable": "news_attached_to"
+    },
+    {
+        "id": 28286,
+        "file": "components\/ILIAS\/News\/classes\/class.ilNewsForContextTableGUI.php",
+        "line": 53,
+        "code": "$lng->txt(\"access\")",
+        "has_variable": false,
+        "variable": "access"
+    },
+    {
+        "id": 28288,
+        "file": "components\/ILIAS\/News\/classes\/class.ilNewsForContextTableGUI.php",
+        "line": 54,
+        "code": "$lng->txt(\"author\")",
+        "has_variable": false,
+        "variable": "author"
+    },
+    {
+        "id": 28290,
+        "file": "components\/ILIAS\/News\/classes\/class.ilNewsForContextTableGUI.php",
+        "line": 55,
+        "code": "$lng->txt(\"created\")",
+        "has_variable": false,
+        "variable": "created"
+    },
+    {
+        "id": 28292,
+        "file": "components\/ILIAS\/News\/classes\/class.ilNewsForContextTableGUI.php",
+        "line": 56,
+        "code": "$lng->txt(\"last_update\")",
+        "has_variable": false,
+        "variable": "last_update"
+    },
+    {
+        "id": 28294,
+        "file": "components\/ILIAS\/News\/classes\/class.ilNewsForContextTableGUI.php",
+        "line": 57,
+        "code": "$lng->txt(\"actions\")",
+        "has_variable": false,
+        "variable": "actions"
+    },
+    {
+        "id": 28296,
+        "file": "components\/ILIAS\/News\/classes\/class.ilNewsForContextTableGUI.php",
+        "line": 83,
+        "code": "$lng->txt(\"author\")",
+        "has_variable": false,
+        "variable": "author"
+    },
+    {
+        "id": 28298,
+        "file": "components\/ILIAS\/News\/classes\/class.ilNewsForContextTableGUI.php",
+        "line": 90,
+        "code": "$lng->txt(\"news_news_item_visibility\")",
+        "has_variable": false,
+        "variable": "news_news_item_visibility"
+    },
+    {
+        "id": 28300,
+        "file": "components\/ILIAS\/News\/classes\/class.ilNewsForContextTableGUI.php",
+        "line": 99,
+        "code": "$lng->txt(\"news_visibility_public\")",
+        "has_variable": false,
+        "variable": "news_visibility_public"
+    },
+    {
+        "id": 28302,
+        "file": "components\/ILIAS\/News\/classes\/class.ilNewsForContextTableGUI.php",
+        "line": 101,
+        "code": "$lng->txt(\"news_visibility_users\")",
+        "has_variable": false,
+        "variable": "news_visibility_users"
+    },
+    {
+        "id": 28304,
+        "file": "components\/ILIAS\/News\/classes\/class.ilNewsForContextTableGUI.php",
+        "line": 109,
+        "code": "$lng->txt(\"last_update\")",
+        "has_variable": false,
+        "variable": "last_update"
+    },
+    {
+        "id": 28306,
+        "file": "components\/ILIAS\/News\/classes\/class.ilNewsForContextTableGUI.php",
+        "line": 122,
+        "code": "$lng->txt(\"created\")",
+        "has_variable": false,
+        "variable": "created"
+    },
+    {
+        "id": 28308,
+        "file": "components\/ILIAS\/News\/classes\/class.ilNewsForContextTableGUI.php",
+        "line": 144,
+        "code": "$lng->txt(\"edit\")",
+        "has_variable": false,
+        "variable": "edit"
+    },
+    {
+        "id": 28310,
+        "file": "components\/ILIAS\/News\/classes\/class.ilNewsForContextTableGUI.php",
+        "line": 162,
+        "code": "$lng->txt(\"obj_\" . $a_set[\"context_obj_type\"])",
+        "has_variable": true,
+        "variable": "\"obj_\" . $a_set[\"context_obj_type\"]"
+    },
+    {
+        "id": 28312,
+        "file": "components\/ILIAS\/News\/classes\/class.ilNewsItem.php",
+        "line": 1553,
+        "code": "$lng->txt(\"news_x_postings\")",
+        "has_variable": false,
+        "variable": "news_x_postings"
+    },
+    {
+        "id": 28314,
+        "file": "components\/ILIAS\/News\/classes\/class.ilNewsItem.php",
+        "line": 1556,
+        "code": "$lng->txt(\"news_1_postings\")",
+        "has_variable": false,
+        "variable": "news_1_postings"
+    },
+    {
+        "id": 28316,
+        "file": "components\/ILIAS\/News\/classes\/class.ilNewsItem.php",
+        "line": 1571,
+        "code": "$lng->txt(\"news_1_file_created\")",
+        "has_variable": false,
+        "variable": "news_1_file_created"
+    },
+    {
+        "id": 28318,
+        "file": "components\/ILIAS\/News\/classes\/class.ilNewsItem.php",
+        "line": 1574,
+        "code": "$lng->txt(\"news_x_files_created\")",
+        "has_variable": false,
+        "variable": "news_x_files_created"
+    },
+    {
+        "id": 28320,
+        "file": "components\/ILIAS\/News\/classes\/class.ilNewsItem.php",
+        "line": 1578,
+        "code": "$lng->txt(\"news_1_file_updated\")",
+        "has_variable": false,
+        "variable": "news_1_file_updated"
+    },
+    {
+        "id": 28322,
+        "file": "components\/ILIAS\/News\/classes\/class.ilNewsItem.php",
+        "line": 1580,
+        "code": "$lng->txt(\"news_x_files_updated\")",
+        "has_variable": false,
+        "variable": "news_x_files_updated"
+    },
+    {
+        "id": 28324,
+        "file": "components\/ILIAS\/News\/classes\/class.ilNewsItem.php",
+        "line": 1589,
+        "code": "$lng->txt($a_title)",
+        "has_variable": true,
+        "variable": "$a_title"
+    },
+    {
+        "id": 28326,
+        "file": "components\/ILIAS\/News\/classes\/class.ilNewsItem.php",
+        "line": 1617,
+        "code": "$lng->txt($a_content)",
+        "has_variable": true,
+        "variable": "$a_content"
+    },
+    {
+        "id": 28328,
+        "file": "components\/ILIAS\/News\/classes\/class.ilNewsItemGUI.php",
+        "line": 215,
+        "code": "$lng->txt(\"news_news_item_title\")",
+        "has_variable": false,
+        "variable": "news_news_item_title"
+    },
+    {
+        "id": 28330,
+        "file": "components\/ILIAS\/News\/classes\/class.ilNewsItemGUI.php",
+        "line": 222,
+        "code": "$lng->txt(\"news_news_item_content\")",
+        "has_variable": false,
+        "variable": "news_news_item_content"
+    },
+    {
+        "id": 28332,
+        "file": "components\/ILIAS\/News\/classes\/class.ilNewsItemGUI.php",
+        "line": 229,
+        "code": "$lng->txt(\"news_news_item_visibility\")",
+        "has_variable": false,
+        "variable": "news_news_item_visibility"
+    },
+    {
+        "id": 28334,
+        "file": "components\/ILIAS\/News\/classes\/class.ilNewsItemGUI.php",
+        "line": 230,
+        "code": "$lng->txt(\"news_visibility_users\")",
+        "has_variable": false,
+        "variable": "news_visibility_users"
+    },
+    {
+        "id": 28336,
+        "file": "components\/ILIAS\/News\/classes\/class.ilNewsItemGUI.php",
+        "line": 232,
+        "code": "$lng->txt(\"news_visibility_public\")",
+        "has_variable": false,
+        "variable": "news_visibility_public"
+    },
+    {
+        "id": 28338,
+        "file": "components\/ILIAS\/News\/classes\/class.ilNewsItemGUI.php",
+        "line": 234,
+        "code": "$lng->txt(\"news_news_item_visibility_info\")",
+        "has_variable": false,
+        "variable": "news_news_item_visibility_info"
+    },
+    {
+        "id": 28340,
+        "file": "components\/ILIAS\/News\/classes\/class.ilNewsItemGUI.php",
+        "line": 240,
+        "code": "$lng->txt('news_media')",
+        "has_variable": false,
+        "variable": "news_media"
+    },
+    {
+        "id": 28342,
+        "file": "components\/ILIAS\/News\/classes\/class.ilNewsItemGUI.php",
+        "line": 249,
+        "code": "$lng->txt(\"save\")",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 28344,
+        "file": "components\/ILIAS\/News\/classes\/class.ilNewsItemGUI.php",
+        "line": 250,
+        "code": "$lng->txt(\"cancel\")",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 28346,
+        "file": "components\/ILIAS\/News\/classes\/class.ilNewsItemGUI.php",
+        "line": 252,
+        "code": "$lng->txt(\"save\")",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 28348,
+        "file": "components\/ILIAS\/News\/classes\/class.ilNewsItemGUI.php",
+        "line": 253,
+        "code": "$lng->txt(\"cancel\")",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 28350,
+        "file": "components\/ILIAS\/News\/classes\/class.ilNewsItemGUI.php",
+        "line": 256,
+        "code": "$lng->txt(\"news_news_item_head\")",
+        "has_variable": false,
+        "variable": "news_news_item_head"
+    },
+    {
+        "id": 28352,
+        "file": "components\/ILIAS\/News\/classes\/class.ilNewsItemGUI.php",
+        "line": 439,
+        "code": "$lng->txt(\"news_add_news\")",
+        "has_variable": false,
+        "variable": "news_add_news"
+    },
+    {
+        "id": 28354,
+        "file": "components\/ILIAS\/News\/classes\/class.ilNewsItemGUI.php",
+        "line": 464,
+        "code": "$lng->txt(\"no_checkbox\")",
+        "has_variable": false,
+        "variable": "no_checkbox"
+    },
+    {
+        "id": 28356,
+        "file": "components\/ILIAS\/News\/classes\/class.ilNewsItemGUI.php",
+        "line": 474,
+        "code": "$lng->txt(\"info_delete_sure\")",
+        "has_variable": false,
+        "variable": "info_delete_sure"
+    },
+    {
+        "id": 28358,
+        "file": "components\/ILIAS\/News\/classes\/class.ilNewsItemGUI.php",
+        "line": 475,
+        "code": "$lng->txt(\"cancel\")",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 28360,
+        "file": "components\/ILIAS\/News\/classes\/class.ilNewsItemGUI.php",
+        "line": 476,
+        "code": "$lng->txt(\"confirm\")",
+        "has_variable": false,
+        "variable": "confirm"
+    },
+    {
+        "id": 28362,
+        "file": "components\/ILIAS\/News\/classes\/class.ilNewsItemGUI.php",
+        "line": 524,
+        "code": "$lng->txt(\"news_block_news_for_context\")",
+        "has_variable": false,
+        "variable": "news_block_news_for_context"
+    },
+    {
+        "id": 28364,
+        "file": "components\/ILIAS\/News\/classes\/class.ilNewsItemGUI.php",
+        "line": 571,
+        "code": "$lng->txt(\"news_table_news_for_context\")",
+        "has_variable": false,
+        "variable": "news_table_news_for_context"
+    },
+    {
+        "id": 28366,
+        "file": "components\/ILIAS\/News\/classes\/class.ilNewsItemGUI.php",
+        "line": 577,
+        "code": "$lng->txt(\"delete\")",
+        "has_variable": false,
+        "variable": "delete"
+    },
+    {
+        "id": 28368,
+        "file": "components\/ILIAS\/News\/classes\/class.ilNewsItemGUI.php",
+        "line": 578,
+        "code": "$lng->txt(\"news\")",
+        "has_variable": false,
+        "variable": "news"
+    },
+    {
+        "id": 28370,
+        "file": "components\/ILIAS\/News\/classes\/class.ilNewsItemGUI.php",
+        "line": 593,
+        "code": "$lng->txt(\"back\")",
+        "has_variable": false,
+        "variable": "back"
+    },
+    {
+        "id": 28372,
+        "file": "components\/ILIAS\/News\/classes\/class.ilNewsTimelineGUI.php",
+        "line": 206,
+        "code": "$this->lng->txt(\"news_add_news\")",
+        "has_variable": false,
+        "variable": "news_add_news"
+    },
+    {
+        "id": 28374,
+        "file": "components\/ILIAS\/News\/classes\/class.ilNewsTimelineGUI.php",
+        "line": 254,
+        "code": "$this->lng->txt(\"news_timline_add_entries_info\")",
+        "has_variable": false,
+        "variable": "news_timline_add_entries_info"
+    },
+    {
+        "id": 28376,
+        "file": "components\/ILIAS\/News\/classes\/class.ilNewsTimelineGUI.php",
+        "line": 260,
+        "code": "$this->lng->txt(\"news_timline_no_entries\")",
+        "has_variable": false,
+        "variable": "news_timline_no_entries"
+    },
+    {
+        "id": 28378,
+        "file": "components\/ILIAS\/News\/classes\/class.ilNewsTimelineGUI.php",
+        "line": 467,
+        "code": "$this->lng->txt(\"edit\")",
+        "has_variable": false,
+        "variable": "edit"
+    },
+    {
+        "id": 28380,
+        "file": "components\/ILIAS\/News\/classes\/class.ilNewsTimelineGUI.php",
+        "line": 477,
+        "code": "$this->lng->txt(\"news_really_delete_news\")",
+        "has_variable": false,
+        "variable": "news_really_delete_news"
+    },
+    {
+        "id": 28382,
+        "file": "components\/ILIAS\/News\/classes\/class.ilNewsTimelineGUI.php",
+        "line": 480,
+        "code": "$this->lng->txt(\"delete\")",
+        "has_variable": false,
+        "variable": "delete"
+    },
+    {
+        "id": 28384,
+        "file": "components\/ILIAS\/News\/classes\/class.ilNewsTimelineGUI.php",
+        "line": 482,
+        "code": "$this->lng->txt(\"delete\")",
+        "has_variable": false,
+        "variable": "delete"
+    },
+    {
+        "id": 28386,
+        "file": "components\/ILIAS\/News\/classes\/class.ilNewsTimelineItemGUI.php",
+        "line": 115,
+        "code": "$this->lng->txt(\"cont_news_edited\")",
+        "has_variable": false,
+        "variable": "cont_news_edited"
+    },
+    {
+        "id": 28388,
+        "file": "components\/ILIAS\/News\/classes\/class.ilNewsTimelineItemGUI.php",
+        "line": 182,
+        "code": "$this->lng->txt(\"edit\")",
+        "has_variable": false,
+        "variable": "edit"
+    },
+    {
+        "id": 28390,
+        "file": "components\/ILIAS\/News\/classes\/class.ilNewsTimelineItemGUI.php",
+        "line": 188,
+        "code": "$this->lng->txt(\"delete\")",
+        "has_variable": false,
+        "variable": "delete"
+    },
+    {
+        "id": 28392,
+        "file": "components\/ILIAS\/News\/classes\/class.ilObjNewsSettingsGUI.php",
+        "line": 51,
+        "code": "$this->lng->txt('no_permission')",
+        "has_variable": false,
+        "variable": "no_permission"
+    },
+    {
+        "id": 28394,
+        "file": "components\/ILIAS\/News\/classes\/class.ilObjNewsSettingsGUI.php",
+        "line": 124,
+        "code": "$lng->txt(\"news_settings\")",
+        "has_variable": false,
+        "variable": "news_settings"
+    },
+    {
+        "id": 28396,
+        "file": "components\/ILIAS\/News\/classes\/class.ilObjNewsSettingsGUI.php",
+        "line": 128,
+        "code": "$lng->txt(\"news_enable_internal_news\")",
+        "has_variable": false,
+        "variable": "news_enable_internal_news"
+    },
+    {
+        "id": 28398,
+        "file": "components\/ILIAS\/News\/classes\/class.ilObjNewsSettingsGUI.php",
+        "line": 132,
+        "code": "$lng->txt(\"news_enable_internal_news_info\")",
+        "has_variable": false,
+        "variable": "news_enable_internal_news_info"
+    },
+    {
+        "id": 28400,
+        "file": "components\/ILIAS\/News\/classes\/class.ilObjNewsSettingsGUI.php",
+        "line": 137,
+        "code": "$lng->txt(\"news_default_visibility\")",
+        "has_variable": false,
+        "variable": "news_default_visibility"
+    },
+    {
+        "id": 28402,
+        "file": "components\/ILIAS\/News\/classes\/class.ilObjNewsSettingsGUI.php",
+        "line": 138,
+        "code": "$lng->txt(\"news_visibility_users\")",
+        "has_variable": false,
+        "variable": "news_visibility_users"
+    },
+    {
+        "id": 28404,
+        "file": "components\/ILIAS\/News\/classes\/class.ilObjNewsSettingsGUI.php",
+        "line": 140,
+        "code": "$lng->txt(\"news_visibility_public\")",
+        "has_variable": false,
+        "variable": "news_visibility_public"
+    },
+    {
+        "id": 28406,
+        "file": "components\/ILIAS\/News\/classes\/class.ilObjNewsSettingsGUI.php",
+        "line": 142,
+        "code": "$lng->txt(\"news_news_item_visibility_info\")",
+        "has_variable": false,
+        "variable": "news_news_item_visibility_info"
+    },
+    {
+        "id": 28408,
+        "file": "components\/ILIAS\/News\/classes\/class.ilObjNewsSettingsGUI.php",
+        "line": 150,
+        "code": "$lng->txt(\"news_nr_of_items\")",
+        "has_variable": false,
+        "variable": "news_nr_of_items"
+    },
+    {
+        "id": 28410,
+        "file": "components\/ILIAS\/News\/classes\/class.ilObjNewsSettingsGUI.php",
+        "line": 153,
+        "code": "$lng->txt(\"news_nr_of_items_info\")",
+        "has_variable": false,
+        "variable": "news_nr_of_items_info"
+    },
+    {
+        "id": 28412,
+        "file": "components\/ILIAS\/News\/classes\/class.ilObjNewsSettingsGUI.php",
+        "line": 161,
+        "code": "$lng->txt(\"news_cache\")",
+        "has_variable": false,
+        "variable": "news_cache"
+    },
+    {
+        "id": 28414,
+        "file": "components\/ILIAS\/News\/classes\/class.ilObjNewsSettingsGUI.php",
+        "line": 164,
+        "code": "$lng->txt(\"news_cache_info\")",
+        "has_variable": false,
+        "variable": "news_cache_info"
+    },
+    {
+        "id": 28416,
+        "file": "components\/ILIAS\/News\/classes\/class.ilObjNewsSettingsGUI.php",
+        "line": 171,
+        "code": "$lng->txt(\"week\")",
+        "has_variable": false,
+        "variable": "week"
+    },
+    {
+        "id": 28418,
+        "file": "components\/ILIAS\/News\/classes\/class.ilObjNewsSettingsGUI.php",
+        "line": 172,
+        "code": "$lng->txt(\"month\")",
+        "has_variable": false,
+        "variable": "month"
+    },
+    {
+        "id": 28420,
+        "file": "components\/ILIAS\/News\/classes\/class.ilObjNewsSettingsGUI.php",
+        "line": 173,
+        "code": "$lng->txt(\"year\")",
+        "has_variable": false,
+        "variable": "year"
+    },
+    {
+        "id": 28422,
+        "file": "components\/ILIAS\/News\/classes\/class.ilObjNewsSettingsGUI.php",
+        "line": 176,
+        "code": "$lng->txt(\"news_pd_period\")",
+        "has_variable": false,
+        "variable": "news_pd_period"
+    },
+    {
+        "id": 28424,
+        "file": "components\/ILIAS\/News\/classes\/class.ilObjNewsSettingsGUI.php",
+        "line": 179,
+        "code": "$lng->txt(\"news_pd_period_info\")",
+        "has_variable": false,
+        "variable": "news_pd_period_info"
+    },
+    {
+        "id": 28426,
+        "file": "components\/ILIAS\/News\/classes\/class.ilObjNewsSettingsGUI.php",
+        "line": 186,
+        "code": "$lng->txt(\"news_allow_shorter_periods\")",
+        "has_variable": false,
+        "variable": "news_allow_shorter_periods"
+    },
+    {
+        "id": 28428,
+        "file": "components\/ILIAS\/News\/classes\/class.ilObjNewsSettingsGUI.php",
+        "line": 190,
+        "code": "$lng->txt(\"news_allow_shorter_periods_info\")",
+        "has_variable": false,
+        "variable": "news_allow_shorter_periods_info"
+    },
+    {
+        "id": 28430,
+        "file": "components\/ILIAS\/News\/classes\/class.ilObjNewsSettingsGUI.php",
+        "line": 196,
+        "code": "$lng->txt(\"news_allow_longer_periods\")",
+        "has_variable": false,
+        "variable": "news_allow_longer_periods"
+    },
+    {
+        "id": 28432,
+        "file": "components\/ILIAS\/News\/classes\/class.ilObjNewsSettingsGUI.php",
+        "line": 200,
+        "code": "$lng->txt(\"news_allow_longer_periods_info\")",
+        "has_variable": false,
+        "variable": "news_allow_longer_periods_info"
+    },
+    {
+        "id": 28434,
+        "file": "components\/ILIAS\/News\/classes\/class.ilObjNewsSettingsGUI.php",
+        "line": 206,
+        "code": "$lng->txt(\"news_enable_internal_rss\")",
+        "has_variable": false,
+        "variable": "news_enable_internal_rss"
+    },
+    {
+        "id": 28436,
+        "file": "components\/ILIAS\/News\/classes\/class.ilObjNewsSettingsGUI.php",
+        "line": 210,
+        "code": "$lng->txt(\"news_enable_internal_rss_info\")",
+        "has_variable": false,
+        "variable": "news_enable_internal_rss_info"
+    },
+    {
+        "id": 28438,
+        "file": "components\/ILIAS\/News\/classes\/class.ilObjNewsSettingsGUI.php",
+        "line": 215,
+        "code": "$lng->txt(\"days\")",
+        "has_variable": false,
+        "variable": "days"
+    },
+    {
+        "id": 28440,
+        "file": "components\/ILIAS\/News\/classes\/class.ilObjNewsSettingsGUI.php",
+        "line": 216,
+        "code": "$lng->txt(\"days\")",
+        "has_variable": false,
+        "variable": "days"
+    },
+    {
+        "id": 28442,
+        "file": "components\/ILIAS\/News\/classes\/class.ilObjNewsSettingsGUI.php",
+        "line": 217,
+        "code": "$lng->txt(\"days\")",
+        "has_variable": false,
+        "variable": "days"
+    },
+    {
+        "id": 28444,
+        "file": "components\/ILIAS\/News\/classes\/class.ilObjNewsSettingsGUI.php",
+        "line": 218,
+        "code": "$lng->txt(\"week\")",
+        "has_variable": false,
+        "variable": "week"
+    },
+    {
+        "id": 28446,
+        "file": "components\/ILIAS\/News\/classes\/class.ilObjNewsSettingsGUI.php",
+        "line": 219,
+        "code": "$lng->txt(\"weeks\")",
+        "has_variable": false,
+        "variable": "weeks"
+    },
+    {
+        "id": 28448,
+        "file": "components\/ILIAS\/News\/classes\/class.ilObjNewsSettingsGUI.php",
+        "line": 220,
+        "code": "$lng->txt(\"month\")",
+        "has_variable": false,
+        "variable": "month"
+    },
+    {
+        "id": 28450,
+        "file": "components\/ILIAS\/News\/classes\/class.ilObjNewsSettingsGUI.php",
+        "line": 221,
+        "code": "$lng->txt(\"months\")",
+        "has_variable": false,
+        "variable": "months"
+    },
+    {
+        "id": 28452,
+        "file": "components\/ILIAS\/News\/classes\/class.ilObjNewsSettingsGUI.php",
+        "line": 222,
+        "code": "$lng->txt(\"months\")",
+        "has_variable": false,
+        "variable": "months"
+    },
+    {
+        "id": 28454,
+        "file": "components\/ILIAS\/News\/classes\/class.ilObjNewsSettingsGUI.php",
+        "line": 223,
+        "code": "$lng->txt(\"months\")",
+        "has_variable": false,
+        "variable": "months"
+    },
+    {
+        "id": 28456,
+        "file": "components\/ILIAS\/News\/classes\/class.ilObjNewsSettingsGUI.php",
+        "line": 224,
+        "code": "$lng->txt(\"year\")",
+        "has_variable": false,
+        "variable": "year"
+    },
+    {
+        "id": 28458,
+        "file": "components\/ILIAS\/News\/classes\/class.ilObjNewsSettingsGUI.php",
+        "line": 227,
+        "code": "$lng->txt(\"news_rss_period\")",
+        "has_variable": false,
+        "variable": "news_rss_period"
+    },
+    {
+        "id": 28460,
+        "file": "components\/ILIAS\/News\/classes\/class.ilObjNewsSettingsGUI.php",
+        "line": 236,
+        "code": "$lng->txt(\"news_rss\")",
+        "has_variable": false,
+        "variable": "news_rss"
+    },
+    {
+        "id": 28462,
+        "file": "components\/ILIAS\/News\/classes\/class.ilObjNewsSettingsGUI.php",
+        "line": 241,
+        "code": "$lng->txt(\"news_rss_title_format_obj_news\")",
+        "has_variable": false,
+        "variable": "news_rss_title_format_obj_news"
+    },
+    {
+        "id": 28464,
+        "file": "components\/ILIAS\/News\/classes\/class.ilObjNewsSettingsGUI.php",
+        "line": 242,
+        "code": "$lng->txt(\"news_rss_title_format_news_obj\")",
+        "has_variable": false,
+        "variable": "news_rss_title_format_news_obj"
+    },
+    {
+        "id": 28466,
+        "file": "components\/ILIAS\/News\/classes\/class.ilObjNewsSettingsGUI.php",
+        "line": 244,
+        "code": "$lng->txt(\"news_rss_title_format\")",
+        "has_variable": false,
+        "variable": "news_rss_title_format"
+    },
+    {
+        "id": 28468,
+        "file": "components\/ILIAS\/News\/classes\/class.ilObjNewsSettingsGUI.php",
+        "line": 253,
+        "code": "$lng->txt(\"news_enable_private_feed\")",
+        "has_variable": false,
+        "variable": "news_enable_private_feed"
+    },
+    {
+        "id": 28470,
+        "file": "components\/ILIAS\/News\/classes\/class.ilObjNewsSettingsGUI.php",
+        "line": 257,
+        "code": "$lng->txt(\"news_enable_private_feed_info\")",
+        "has_variable": false,
+        "variable": "news_enable_private_feed_info"
+    },
+    {
+        "id": 28472,
+        "file": "components\/ILIAS\/News\/classes\/class.ilObjNewsSettingsGUI.php",
+        "line": 263,
+        "code": "$lng->txt(\"save\")",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 28474,
+        "file": "components\/ILIAS\/News\/classes\/class.ilObjNewsSettingsGUI.php",
+        "line": 264,
+        "code": "$lng->txt(\"cancel\")",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 28476,
+        "file": "components\/ILIAS\/News\/classes\/class.ilObjNewsSettingsGUI.php",
+        "line": 306,
+        "code": "$this->lng->txt(\"settings_saved\")",
+        "has_variable": false,
+        "variable": "settings_saved"
+    },
+    {
+        "id": 28478,
+        "file": "components\/ILIAS\/News\/classes\/class.ilPDNewsBlockGUI.php",
+        "line": 39,
+        "code": "$this->lng->txt(\"news_internal_news\")",
+        "has_variable": false,
+        "variable": "news_internal_news"
+    },
+    {
+        "id": 28480,
+        "file": "components\/ILIAS\/News\/classes\/class.ilPDNewsBlockGUI.php",
+        "line": 86,
+        "code": "$lng->txt(\"news_block_information\")",
+        "has_variable": false,
+        "variable": "news_block_information"
+    },
+    {
+        "id": 28482,
+        "file": "components\/ILIAS\/News\/classes\/class.ilPDNewsBlockGUI.php",
+        "line": 98,
+        "code": "$lng->txt(\"news_get_feed_url\")",
+        "has_variable": false,
+        "variable": "news_get_feed_url"
+    },
+    {
+        "id": 28484,
+        "file": "components\/ILIAS\/News\/classes\/class.ilPDNewsBlockGUI.php",
+        "line": 105,
+        "code": "$lng->txt(\"settings\")",
+        "has_variable": false,
+        "variable": "settings"
+    },
+    {
+        "id": 28486,
+        "file": "components\/ILIAS\/News\/classes\/class.ilPDNewsBlockGUI.php",
+        "line": 129,
+        "code": "$lng->txt(\"news_get_priv_feed_title\")",
+        "has_variable": false,
+        "variable": "news_get_priv_feed_title"
+    },
+    {
+        "id": 28488,
+        "file": "components\/ILIAS\/News\/classes\/class.ilPDNewsBlockGUI.php",
+        "line": 133,
+        "code": "$lng->txt(\"news_get_priv_feed_info\")",
+        "has_variable": false,
+        "variable": "news_get_priv_feed_info"
+    },
+    {
+        "id": 28490,
+        "file": "components\/ILIAS\/News\/classes\/class.ilPDNewsBlockGUI.php",
+        "line": 134,
+        "code": "$lng->txt(\"news_feed_url\")",
+        "has_variable": false,
+        "variable": "news_feed_url"
+    },
+    {
+        "id": 28492,
+        "file": "components\/ILIAS\/News\/classes\/class.ilPDNewsBlockGUI.php",
+        "line": 146,
+        "code": "$lng->txt(\"news_inactive_private_feed_info\")",
+        "has_variable": false,
+        "variable": "news_inactive_private_feed_info"
+    },
+    {
+        "id": 28494,
+        "file": "components\/ILIAS\/News\/classes\/class.ilPDNewsBlockGUI.php",
+        "line": 148,
+        "code": "$lng->txt(\"news_edit_news_settings\")",
+        "has_variable": false,
+        "variable": "news_edit_news_settings"
+    },
+    {
+        "id": 28496,
+        "file": "components\/ILIAS\/News\/classes\/class.ilPDNewsBlockGUI.php",
+        "line": 153,
+        "code": "$lng->txt(\"news_get_feed_title\")",
+        "has_variable": false,
+        "variable": "news_get_feed_title"
+    },
+    {
+        "id": 28498,
+        "file": "components\/ILIAS\/News\/classes\/class.ilPDNewsBlockGUI.php",
+        "line": 154,
+        "code": "$lng->txt(\"news_get_feed_info\")",
+        "has_variable": false,
+        "variable": "news_get_feed_info"
+    },
+    {
+        "id": 28500,
+        "file": "components\/ILIAS\/News\/classes\/class.ilPDNewsBlockGUI.php",
+        "line": 155,
+        "code": "$lng->txt(\"news_feed_url\")",
+        "has_variable": false,
+        "variable": "news_feed_url"
+    },
+    {
+        "id": 28502,
+        "file": "components\/ILIAS\/News\/classes\/class.ilPDNewsBlockGUI.php",
+        "line": 169,
+        "code": "$lng->txt(\"news_internal_news\")",
+        "has_variable": false,
+        "variable": "news_internal_news"
+    },
+    {
+        "id": 28504,
+        "file": "components\/ILIAS\/News\/classes\/class.ilPDNewsBlockGUI.php",
+        "line": 191,
+        "code": "$lng->txt(\"news_settings\")",
+        "has_variable": false,
+        "variable": "news_settings"
+    },
+    {
+        "id": 28506,
+        "file": "components\/ILIAS\/News\/classes\/class.ilPDNewsBlockGUI.php",
+        "line": 199,
+        "code": "$lng->txt(\"days\")",
+        "has_variable": false,
+        "variable": "days"
+    },
+    {
+        "id": 28508,
+        "file": "components\/ILIAS\/News\/classes\/class.ilPDNewsBlockGUI.php",
+        "line": 200,
+        "code": "$lng->txt(\"days\")",
+        "has_variable": false,
+        "variable": "days"
+    },
+    {
+        "id": 28510,
+        "file": "components\/ILIAS\/News\/classes\/class.ilPDNewsBlockGUI.php",
+        "line": 201,
+        "code": "$lng->txt(\"days\")",
+        "has_variable": false,
+        "variable": "days"
+    },
+    {
+        "id": 28512,
+        "file": "components\/ILIAS\/News\/classes\/class.ilPDNewsBlockGUI.php",
+        "line": 202,
+        "code": "$lng->txt(\"week\")",
+        "has_variable": false,
+        "variable": "week"
+    },
+    {
+        "id": 28514,
+        "file": "components\/ILIAS\/News\/classes\/class.ilPDNewsBlockGUI.php",
+        "line": 203,
+        "code": "$lng->txt(\"weeks\")",
+        "has_variable": false,
+        "variable": "weeks"
+    },
+    {
+        "id": 28516,
+        "file": "components\/ILIAS\/News\/classes\/class.ilPDNewsBlockGUI.php",
+        "line": 204,
+        "code": "$lng->txt(\"month\")",
+        "has_variable": false,
+        "variable": "month"
+    },
+    {
+        "id": 28518,
+        "file": "components\/ILIAS\/News\/classes\/class.ilPDNewsBlockGUI.php",
+        "line": 205,
+        "code": "$lng->txt(\"months\")",
+        "has_variable": false,
+        "variable": "months"
+    },
+    {
+        "id": 28520,
+        "file": "components\/ILIAS\/News\/classes\/class.ilPDNewsBlockGUI.php",
+        "line": 206,
+        "code": "$lng->txt(\"months\")",
+        "has_variable": false,
+        "variable": "months"
+    },
+    {
+        "id": 28522,
+        "file": "components\/ILIAS\/News\/classes\/class.ilPDNewsBlockGUI.php",
+        "line": 207,
+        "code": "$lng->txt(\"months\")",
+        "has_variable": false,
+        "variable": "months"
+    },
+    {
+        "id": 28524,
+        "file": "components\/ILIAS\/News\/classes\/class.ilPDNewsBlockGUI.php",
+        "line": 208,
+        "code": "$lng->txt(\"year\")",
+        "has_variable": false,
+        "variable": "year"
+    },
+    {
+        "id": 28526,
+        "file": "components\/ILIAS\/News\/classes\/class.ilPDNewsBlockGUI.php",
+        "line": 225,
+        "code": "$lng->txt(\"news_pd_period\")",
+        "has_variable": false,
+        "variable": "news_pd_period"
+    },
+    {
+        "id": 28528,
+        "file": "components\/ILIAS\/News\/classes\/class.ilPDNewsBlockGUI.php",
+        "line": 232,
+        "code": "$lng->txt(\"save\")",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 28530,
+        "file": "components\/ILIAS\/News\/classes\/class.ilPDNewsBlockGUI.php",
+        "line": 233,
+        "code": "$lng->txt(\"cancel\")",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 28532,
+        "file": "components\/ILIAS\/News\/classes\/class.ilPDNewsBlockGUI.php",
+        "line": 258,
+        "code": "$lng->txt(\"priv_feed_settings\")",
+        "has_variable": false,
+        "variable": "priv_feed_settings"
+    },
+    {
+        "id": 28534,
+        "file": "components\/ILIAS\/News\/classes\/class.ilPDNewsBlockGUI.php",
+        "line": 262,
+        "code": "$lng->txt(\"news_enable_private_feed\")",
+        "has_variable": false,
+        "variable": "news_enable_private_feed"
+    },
+    {
+        "id": 28536,
+        "file": "components\/ILIAS\/News\/classes\/class.ilPDNewsBlockGUI.php",
+        "line": 266,
+        "code": "$lng->txt(\"password\")",
+        "has_variable": false,
+        "variable": "password"
+    },
+    {
+        "id": 28538,
+        "file": "components\/ILIAS\/News\/classes\/class.ilPDNewsBlockGUI.php",
+        "line": 271,
+        "code": "$lng->txt(\"save\")",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 28540,
+        "file": "components\/ILIAS\/News\/classes\/class.ilPDNewsBlockGUI.php",
+        "line": 272,
+        "code": "$lng->txt(\"cancel\")",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 28542,
+        "file": "components\/ILIAS\/News\/classes\/class.ilPDNewsBlockGUI.php",
+        "line": 309,
+        "code": "$lng->txt(\"priv_feed_disabled\")",
+        "has_variable": false,
+        "variable": "priv_feed_disabled"
+    },
+    {
+        "id": 28544,
+        "file": "components\/ILIAS\/News\/classes\/class.ilPDNewsBlockGUI.php",
+        "line": 315,
+        "code": "$lng->txt(\"passwd_equals_ilpasswd\")",
+        "has_variable": false,
+        "variable": "passwd_equals_ilpasswd"
+    },
+    {
+        "id": 28546,
+        "file": "components\/ILIAS\/News\/classes\/class.ilPDNewsBlockGUI.php",
+        "line": 316,
+        "code": "$lng->txt(\"form_input_not_valid\")",
+        "has_variable": false,
+        "variable": "form_input_not_valid"
+    },
+    {
+        "id": 28548,
+        "file": "components\/ILIAS\/News\/classes\/class.ilPDNewsBlockGUI.php",
+        "line": 319,
+        "code": "$lng->txt(\"saved_successfully\")",
+        "has_variable": false,
+        "variable": "saved_successfully"
+    },
+    {
+        "id": 28550,
+        "file": "components\/ILIAS\/News\/classes\/class.ilPDNewsGUI.php",
+        "line": 116,
+        "code": "$this->lng->txt(\"news\")",
+        "has_variable": false,
+        "variable": "news"
+    },
+    {
+        "id": 28552,
+        "file": "components\/ILIAS\/News\/classes\/class.ilPDNewsTableGUI.php",
+        "line": 87,
+        "code": "$lng->txt(\"news_period_x_days\")",
+        "has_variable": false,
+        "variable": "news_period_x_days"
+    },
+    {
+        "id": 28554,
+        "file": "components\/ILIAS\/News\/classes\/class.ilPDNewsTableGUI.php",
+        "line": 88,
+        "code": "$lng->txt(\"news_period_x_days\")",
+        "has_variable": false,
+        "variable": "news_period_x_days"
+    },
+    {
+        "id": 28556,
+        "file": "components\/ILIAS\/News\/classes\/class.ilPDNewsTableGUI.php",
+        "line": 89,
+        "code": "$lng->txt(\"news_period_x_days\")",
+        "has_variable": false,
+        "variable": "news_period_x_days"
+    },
+    {
+        "id": 28558,
+        "file": "components\/ILIAS\/News\/classes\/class.ilPDNewsTableGUI.php",
+        "line": 90,
+        "code": "$lng->txt(\"news_period_1_week\")",
+        "has_variable": false,
+        "variable": "news_period_1_week"
+    },
+    {
+        "id": 28560,
+        "file": "components\/ILIAS\/News\/classes\/class.ilPDNewsTableGUI.php",
+        "line": 91,
+        "code": "$lng->txt(\"news_period_x_weeks\")",
+        "has_variable": false,
+        "variable": "news_period_x_weeks"
+    },
+    {
+        "id": 28562,
+        "file": "components\/ILIAS\/News\/classes\/class.ilPDNewsTableGUI.php",
+        "line": 92,
+        "code": "$lng->txt(\"news_period_1_month\")",
+        "has_variable": false,
+        "variable": "news_period_1_month"
+    },
+    {
+        "id": 28564,
+        "file": "components\/ILIAS\/News\/classes\/class.ilPDNewsTableGUI.php",
+        "line": 93,
+        "code": "$lng->txt(\"news_period_x_months\")",
+        "has_variable": false,
+        "variable": "news_period_x_months"
+    },
+    {
+        "id": 28566,
+        "file": "components\/ILIAS\/News\/classes\/class.ilPDNewsTableGUI.php",
+        "line": 94,
+        "code": "$lng->txt(\"news_period_x_months\")",
+        "has_variable": false,
+        "variable": "news_period_x_months"
+    },
+    {
+        "id": 28568,
+        "file": "components\/ILIAS\/News\/classes\/class.ilPDNewsTableGUI.php",
+        "line": 95,
+        "code": "$lng->txt(\"news_period_x_months\")",
+        "has_variable": false,
+        "variable": "news_period_x_months"
+    },
+    {
+        "id": 28570,
+        "file": "components\/ILIAS\/News\/classes\/class.ilPDNewsTableGUI.php",
+        "line": 96,
+        "code": "$lng->txt(\"news_period_1_year\")",
+        "has_variable": false,
+        "variable": "news_period_1_year"
+    },
+    {
+        "id": 28572,
+        "file": "components\/ILIAS\/News\/classes\/class.ilPDNewsTableGUI.php",
+        "line": 112,
+        "code": "$this->lng->txt(\"news_time_period\")",
+        "has_variable": false,
+        "variable": "news_time_period"
+    },
+    {
+        "id": 28574,
+        "file": "components\/ILIAS\/News\/classes\/class.ilPDNewsTableGUI.php",
+        "line": 118,
+        "code": "$this->lng->txt(\"context\")",
+        "has_variable": false,
+        "variable": "context"
+    },
+    {
+        "id": 28576,
+        "file": "components\/ILIAS\/News\/classes\/class.ilPDNewsTableGUI.php",
+        "line": 148,
+        "code": "$lng->txt(\"forums_anonymous\")",
+        "has_variable": false,
+        "variable": "forums_anonymous"
+    },
+    {
+        "id": 28578,
+        "file": "components\/ILIAS\/News\/classes\/class.ilPDNewsTableGUI.php",
+        "line": 151,
+        "code": "$lng->txt(\"forums_anonymous\")",
+        "has_variable": false,
+        "variable": "forums_anonymous"
+    },
+    {
+        "id": 28580,
+        "file": "components\/ILIAS\/News\/classes\/class.ilPDNewsTableGUI.php",
+        "line": 160,
+        "code": "$lng->txt(\"author\")",
+        "has_variable": false,
+        "variable": "author"
+    },
+    {
+        "id": 28582,
+        "file": "components\/ILIAS\/News\/classes\/class.ilPDNewsTableGUI.php",
+        "line": 174,
+        "code": "$lng->txt(\"news_news_item_visibility\")",
+        "has_variable": false,
+        "variable": "news_news_item_visibility"
+    },
+    {
+        "id": 28584,
+        "file": "components\/ILIAS\/News\/classes\/class.ilPDNewsTableGUI.php",
+        "line": 183,
+        "code": "$lng->txt(\"news_visibility_public\")",
+        "has_variable": false,
+        "variable": "news_visibility_public"
+    },
+    {
+        "id": 28586,
+        "file": "components\/ILIAS\/News\/classes\/class.ilPDNewsTableGUI.php",
+        "line": 185,
+        "code": "$lng->txt(\"news_visibility_users\")",
+        "has_variable": false,
+        "variable": "news_visibility_users"
+    },
+    {
+        "id": 28588,
+        "file": "components\/ILIAS\/News\/classes\/class.ilPDNewsTableGUI.php",
+        "line": 212,
+        "code": "$lng->txt(\"last_update\")",
+        "has_variable": false,
+        "variable": "last_update"
+    },
+    {
+        "id": 28590,
+        "file": "components\/ILIAS\/News\/classes\/class.ilPDNewsTableGUI.php",
+        "line": 238,
+        "code": "$this->lng->txt(\"download\")",
+        "has_variable": false,
+        "variable": "download"
+    },
+    {
+        "id": 28592,
+        "file": "components\/ILIAS\/News\/classes\/class.ilPDNewsTableGUI.php",
+        "line": 280,
+        "code": "$lng->txt(\"icon\")",
+        "has_variable": false,
+        "variable": "icon"
+    },
+    {
+        "id": 28594,
+        "file": "components\/ILIAS\/News\/classes\/class.ilPDNewsTableGUI.php",
+        "line": 280,
+        "code": "$lng->txt(\"obj_\" . $obj_type)",
+        "has_variable": true,
+        "variable": "\"obj_\" . $obj_type"
+    },
+    {
+        "id": 28596,
+        "file": "components\/ILIAS\/News\/classes\/class.ilPDNewsTableGUI.php",
+        "line": 301,
+        "code": "$lng->txt(\"created\")",
+        "has_variable": false,
+        "variable": "created"
+    }
+]

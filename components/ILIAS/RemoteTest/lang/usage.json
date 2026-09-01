@@ -1,0 +1,114 @@
+[
+    {
+        "id": 31162,
+        "file": "components\/ILIAS\/RemoteTest\/classes\/class.ilObjRemoteTestAccess.php",
+        "line": 51,
+        "code": "$lng->txt(\"offline\")",
+        "has_variable": false,
+        "variable": "offline"
+    },
+    {
+        "id": 31164,
+        "file": "components\/ILIAS\/RemoteTest\/classes\/class.ilObjRemoteTestAccess.php",
+        "line": 66,
+        "code": "$lng->txt(\"offline\")",
+        "has_variable": false,
+        "variable": "offline"
+    },
+    {
+        "id": 31166,
+        "file": "components\/ILIAS\/RemoteTest\/classes\/class.ilObjRemoteTestGUI.php",
+        "line": 49,
+        "code": "$this->lng->txt('grp_visibility')",
+        "has_variable": false,
+        "variable": "grp_visibility"
+    },
+    {
+        "id": 31168,
+        "file": "components\/ILIAS\/RemoteTest\/classes\/class.ilObjRemoteTestGUI.php",
+        "line": 56,
+        "code": "$this->lng->txt('offline')",
+        "has_variable": false,
+        "variable": "offline"
+    },
+    {
+        "id": 31170,
+        "file": "components\/ILIAS\/RemoteTest\/classes\/class.ilObjRemoteTestGUI.php",
+        "line": 59,
+        "code": "$this->lng->txt('grp_unlimited')",
+        "has_variable": false,
+        "variable": "grp_unlimited"
+    },
+    {
+        "id": 31172,
+        "file": "components\/ILIAS\/RemoteTest\/classes\/class.ilObjRemoteTestGUI.php",
+        "line": 72,
+        "code": "$this->lng->txt('grp_visibility')",
+        "has_variable": false,
+        "variable": "grp_visibility"
+    },
+    {
+        "id": 31174,
+        "file": "components\/ILIAS\/RemoteTest\/classes\/class.ilObjRemoteTestGUI.php",
+        "line": 76,
+        "code": "$this->lng->txt('grp_visibility_unvisible')",
+        "has_variable": false,
+        "variable": "grp_visibility_unvisible"
+    },
+    {
+        "id": 31176,
+        "file": "components\/ILIAS\/RemoteTest\/classes\/class.ilObjRemoteTestGUI.php",
+        "line": 79,
+        "code": "$this->lng->txt('grp_visibility_limitless')",
+        "has_variable": false,
+        "variable": "grp_visibility_limitless"
+    },
+    {
+        "id": 31178,
+        "file": "components\/ILIAS\/RemoteTest\/classes\/class.ilObjRemoteTestGUI.php",
+        "line": 83,
+        "code": "$this->lng->txt('grp_visibility_until')",
+        "has_variable": false,
+        "variable": "grp_visibility_until"
+    },
+    {
+        "id": 31180,
+        "file": "components\/ILIAS\/RemoteTest\/classes\/class.ilObjRemoteTestGUI.php",
+        "line": 85,
+        "code": "$this->lng->txt('grp_start')",
+        "has_variable": false,
+        "variable": "grp_start"
+    },
+    {
+        "id": 31182,
+        "file": "components\/ILIAS\/RemoteTest\/classes\/class.ilObjRemoteTestGUI.php",
+        "line": 90,
+        "code": "$this->lng->txt('grp_end')",
+        "has_variable": false,
+        "variable": "grp_end"
+    },
+    {
+        "id": 31184,
+        "file": "components\/ILIAS\/RemoteTest\/classes\/class.ilObjRemoteTestListGUI.php",
+        "line": 79,
+        "code": "$this->lng->txt('organization')",
+        "has_variable": false,
+        "variable": "organization"
+    },
+    {
+        "id": 31186,
+        "file": "components\/ILIAS\/RemoteTest\/classes\/class.ilObjRemoteTestListGUI.php",
+        "line": 82,
+        "code": "$this->lng->txt(\"status\")",
+        "has_variable": false,
+        "variable": "status"
+    },
+    {
+        "id": 31188,
+        "file": "components\/ILIAS\/RemoteTest\/classes\/class.ilObjRemoteTestListGUI.php",
+        "line": 82,
+        "code": "$this->lng->txt(\"offline\")",
+        "has_variable": false,
+        "variable": "offline"
+    }
+]

@@ -1,0 +1,1426 @@
+[
+    {
+        "id": 33834,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilObjSession.php",
+        "line": 361,
+        "code": "$this->lng->txt(\"sess_max_members_needed\")",
+        "has_variable": false,
+        "variable": "sess_max_members_needed"
+    },
+    {
+        "id": 33836,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilObjSession.php",
+        "line": 625,
+        "code": "$this->lng->txt('obj_sess')",
+        "has_variable": false,
+        "variable": "obj_sess"
+    },
+    {
+        "id": 33838,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilObjSessionGUI.php",
+        "line": 327,
+        "code": "$this->lng->txt('sess_reg_max_users_exceeded')",
+        "has_variable": false,
+        "variable": "sess_reg_max_users_exceeded"
+    },
+    {
+        "id": 33840,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilObjSessionGUI.php",
+        "line": 343,
+        "code": "$this->lng->txt('event_registered')",
+        "has_variable": false,
+        "variable": "event_registered"
+    },
+    {
+        "id": 33842,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilObjSessionGUI.php",
+        "line": 359,
+        "code": "$this->lng->txt('sess_registered_confirm')",
+        "has_variable": false,
+        "variable": "sess_registered_confirm"
+    },
+    {
+        "id": 33844,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilObjSessionGUI.php",
+        "line": 390,
+        "code": "$this->lng->txt('event_unregistered')",
+        "has_variable": false,
+        "variable": "event_unregistered"
+    },
+    {
+        "id": 33846,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilObjSessionGUI.php",
+        "line": 393,
+        "code": "$this->lng->txt('event_registered')",
+        "has_variable": false,
+        "variable": "event_registered"
+    },
+    {
+        "id": 33848,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilObjSessionGUI.php",
+        "line": 445,
+        "code": "$this->lng->txt('sess_participation_refused_info')",
+        "has_variable": false,
+        "variable": "sess_participation_refused_info"
+    },
+    {
+        "id": 33850,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilObjSessionGUI.php",
+        "line": 447,
+        "code": "$this->lng->txt('event_unregistered')",
+        "has_variable": false,
+        "variable": "event_unregistered"
+    },
+    {
+        "id": 33852,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilObjSessionGUI.php",
+        "line": 477,
+        "code": "$lng->txt(\"msg_no_perm_read_item\")",
+        "has_variable": false,
+        "variable": "msg_no_perm_read_item"
+    },
+    {
+        "id": 33854,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilObjSessionGUI.php",
+        "line": 552,
+        "code": "$this->lng->txt('sess_bt_refuse')",
+        "has_variable": false,
+        "variable": "sess_bt_refuse"
+    },
+    {
+        "id": 33856,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilObjSessionGUI.php",
+        "line": 583,
+        "code": "$this->lng->txt('sess_reg_max_users_exceeded_wl')",
+        "has_variable": false,
+        "variable": "sess_reg_max_users_exceeded_wl"
+    },
+    {
+        "id": 33858,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilObjSessionGUI.php",
+        "line": 585,
+        "code": "$this->lng->txt(\"mem_add_to_wl\")",
+        "has_variable": false,
+        "variable": "mem_add_to_wl"
+    },
+    {
+        "id": 33860,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilObjSessionGUI.php",
+        "line": 593,
+        "code": "$this->lng->txt('sess_reg_max_users_exceeded')",
+        "has_variable": false,
+        "variable": "sess_reg_max_users_exceeded"
+    },
+    {
+        "id": 33862,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilObjSessionGUI.php",
+        "line": 597,
+        "code": "$this->lng->txt('sess_join_info')",
+        "has_variable": false,
+        "variable": "sess_join_info"
+    },
+    {
+        "id": 33864,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilObjSessionGUI.php",
+        "line": 599,
+        "code": "$this->lng->txt(\"join_session\")",
+        "has_variable": false,
+        "variable": "join_session"
+    },
+    {
+        "id": 33866,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilObjSessionGUI.php",
+        "line": 655,
+        "code": "$this->lng->txt('event_materials')",
+        "has_variable": false,
+        "variable": "event_materials"
+    },
+    {
+        "id": 33868,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilObjSessionGUI.php",
+        "line": 666,
+        "code": "$this->lng->txt('event_section_information')",
+        "has_variable": false,
+        "variable": "event_section_information"
+    },
+    {
+        "id": 33870,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilObjSessionGUI.php",
+        "line": 670,
+        "code": "$this->lng->txt('event_location')",
+        "has_variable": false,
+        "variable": "event_location"
+    },
+    {
+        "id": 33872,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilObjSessionGUI.php",
+        "line": 676,
+        "code": "$this->lng->txt('event_details_workflow')",
+        "has_variable": false,
+        "variable": "event_details_workflow"
+    },
+    {
+        "id": 33874,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilObjSessionGUI.php",
+        "line": 691,
+        "code": "$this->lng->txt('event_tutor_data')",
+        "has_variable": false,
+        "variable": "event_tutor_data"
+    },
+    {
+        "id": 33876,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilObjSessionGUI.php",
+        "line": 694,
+        "code": "$this->lng->txt('event_lecturer')",
+        "has_variable": false,
+        "variable": "event_lecturer"
+    },
+    {
+        "id": 33878,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilObjSessionGUI.php",
+        "line": 700,
+        "code": "$this->lng->txt('tutor_email')",
+        "has_variable": false,
+        "variable": "tutor_email"
+    },
+    {
+        "id": 33880,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilObjSessionGUI.php",
+        "line": 706,
+        "code": "$this->lng->txt('tutor_phone')",
+        "has_variable": false,
+        "variable": "tutor_phone"
+    },
+    {
+        "id": 33882,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilObjSessionGUI.php",
+        "line": 716,
+        "code": "$this->lng->txt(\"crs_mem_contacts\")",
+        "has_variable": false,
+        "variable": "crs_mem_contacts"
+    },
+    {
+        "id": 33884,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilObjSessionGUI.php",
+        "line": 771,
+        "code": "$this->lng->txt('err_check_input')",
+        "has_variable": false,
+        "variable": "err_check_input"
+    },
+    {
+        "id": 33886,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilObjSessionGUI.php",
+        "line": 780,
+        "code": "$this->lng->txt('err_check_input')",
+        "has_variable": false,
+        "variable": "err_check_input"
+    },
+    {
+        "id": 33888,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilObjSessionGUI.php",
+        "line": 836,
+        "code": "$this->lng->txt('event_add_new_event')",
+        "has_variable": false,
+        "variable": "event_add_new_event"
+    },
+    {
+        "id": 33890,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilObjSessionGUI.php",
+        "line": 962,
+        "code": "$this->lng->txt('err_check_input')",
+        "has_variable": false,
+        "variable": "err_check_input"
+    },
+    {
+        "id": 33892,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilObjSessionGUI.php",
+        "line": 987,
+        "code": "$this->lng->txt('err_check_input')",
+        "has_variable": false,
+        "variable": "err_check_input"
+    },
+    {
+        "id": 33894,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilObjSessionGUI.php",
+        "line": 1028,
+        "code": "$this->lng->txt('event_updated')",
+        "has_variable": false,
+        "variable": "event_updated"
+    },
+    {
+        "id": 33896,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilObjSessionGUI.php",
+        "line": 1034,
+        "code": "$this->lng->txt('il_sess_status_open')",
+        "has_variable": false,
+        "variable": "il_sess_status_open"
+    },
+    {
+        "id": 33898,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilObjSessionGUI.php",
+        "line": 1043,
+        "code": "$this->lng->txt('sess_warn_sess_type_changed')",
+        "has_variable": false,
+        "variable": "sess_warn_sess_type_changed"
+    },
+    {
+        "id": 33900,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilObjSessionGUI.php",
+        "line": 1047,
+        "code": "$this->lng->txt('sess_info_new_sess_type')",
+        "has_variable": false,
+        "variable": "sess_info_new_sess_type"
+    },
+    {
+        "id": 33902,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilObjSessionGUI.php",
+        "line": 1049,
+        "code": "$this->lng->txt('sess_change_type')",
+        "has_variable": false,
+        "variable": "sess_change_type"
+    },
+    {
+        "id": 33904,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilObjSessionGUI.php",
+        "line": 1050,
+        "code": "$this->lng->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 33906,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilObjSessionGUI.php",
+        "line": 1065,
+        "code": "$this->lng->txt('settings_saved')",
+        "has_variable": false,
+        "variable": "settings_saved"
+    },
+    {
+        "id": 33908,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilObjSessionGUI.php",
+        "line": 1130,
+        "code": "$this->lng->txt('sess_assign')",
+        "has_variable": false,
+        "variable": "sess_assign"
+    },
+    {
+        "id": 33910,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilObjSessionGUI.php",
+        "line": 1131,
+        "code": "$this->lng->txt(\"remove\")",
+        "has_variable": false,
+        "variable": "remove"
+    },
+    {
+        "id": 33912,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilObjSessionGUI.php",
+        "line": 1133,
+        "code": "$this->lng->txt(\"event_assign_materials_table\")",
+        "has_variable": false,
+        "variable": "event_assign_materials_table"
+    },
+    {
+        "id": 33914,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilObjSessionGUI.php",
+        "line": 1134,
+        "code": "$this->lng->txt('event_assign_materials_info')",
+        "has_variable": false,
+        "variable": "event_assign_materials_info"
+    },
+    {
+        "id": 33916,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilObjSessionGUI.php",
+        "line": 1208,
+        "code": "$this->lng->txt('settings_saved')",
+        "has_variable": false,
+        "variable": "settings_saved"
+    },
+    {
+        "id": 33918,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilObjSessionGUI.php",
+        "line": 1241,
+        "code": "$this->lng->txt('sess_attendance_list')",
+        "has_variable": false,
+        "variable": "sess_attendance_list"
+    },
+    {
+        "id": 33920,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilObjSessionGUI.php",
+        "line": 1243,
+        "code": "$this->lng->txt('trac_mark')",
+        "has_variable": false,
+        "variable": "trac_mark"
+    },
+    {
+        "id": 33922,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilObjSessionGUI.php",
+        "line": 1244,
+        "code": "$this->lng->txt('trac_comment')",
+        "has_variable": false,
+        "variable": "trac_comment"
+    },
+    {
+        "id": 33924,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilObjSessionGUI.php",
+        "line": 1246,
+        "code": "$this->lng->txt('event_tbl_registered')",
+        "has_variable": false,
+        "variable": "event_tbl_registered"
+    },
+    {
+        "id": 33926,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilObjSessionGUI.php",
+        "line": 1248,
+        "code": "$this->lng->txt('event_tbl_participated')",
+        "has_variable": false,
+        "variable": "event_tbl_participated"
+    },
+    {
+        "id": 33928,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilObjSessionGUI.php",
+        "line": 1249,
+        "code": "$this->lng->txt('sess_signature')",
+        "has_variable": false,
+        "variable": "sess_signature"
+    },
+    {
+        "id": 33930,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilObjSessionGUI.php",
+        "line": 1251,
+        "code": "$this->lng->txt('event_list_registered_only')",
+        "has_variable": false,
+        "variable": "event_list_registered_only"
+    },
+    {
+        "id": 33932,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilObjSessionGUI.php",
+        "line": 1277,
+        "code": "$this->lng->txt('yes')",
+        "has_variable": false,
+        "variable": "yes"
+    },
+    {
+        "id": 33934,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilObjSessionGUI.php",
+        "line": 1278,
+        "code": "$this->lng->txt('no')",
+        "has_variable": false,
+        "variable": "no"
+    },
+    {
+        "id": 33936,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilObjSessionGUI.php",
+        "line": 1280,
+        "code": "$this->lng->txt('yes')",
+        "has_variable": false,
+        "variable": "yes"
+    },
+    {
+        "id": 33938,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilObjSessionGUI.php",
+        "line": 1281,
+        "code": "$this->lng->txt('no')",
+        "has_variable": false,
+        "variable": "no"
+    },
+    {
+        "id": 33940,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilObjSessionGUI.php",
+        "line": 1293,
+        "code": "$this->lng->txt('msg_no_perm_read')",
+        "has_variable": false,
+        "variable": "msg_no_perm_read"
+    },
+    {
+        "id": 33942,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilObjSessionGUI.php",
+        "line": 1297,
+        "code": "$this->lng->txt('event_csv_export')",
+        "has_variable": false,
+        "variable": "event_csv_export"
+    },
+    {
+        "id": 33944,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilObjSessionGUI.php",
+        "line": 1309,
+        "code": "$this->lng->txt(\"event_overview\")",
+        "has_variable": false,
+        "variable": "event_overview"
+    },
+    {
+        "id": 33946,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilObjSessionGUI.php",
+        "line": 1311,
+        "code": "$this->lng->txt('obj_usr')",
+        "has_variable": false,
+        "variable": "obj_usr"
+    },
+    {
+        "id": 33948,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilObjSessionGUI.php",
+        "line": 1329,
+        "code": "$this->lng->txt('name')",
+        "has_variable": false,
+        "variable": "name"
+    },
+    {
+        "id": 33950,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilObjSessionGUI.php",
+        "line": 1348,
+        "code": "$this->lng->txt(\"previous\")",
+        "has_variable": false,
+        "variable": "previous"
+    },
+    {
+        "id": 33952,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilObjSessionGUI.php",
+        "line": 1348,
+        "code": "$this->lng->txt(\"next\")",
+        "has_variable": false,
+        "variable": "next"
+    },
+    {
+        "id": 33954,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilObjSessionGUI.php",
+        "line": 1367,
+        "code": "$this->lng->txt('event_participated')",
+        "has_variable": false,
+        "variable": "event_participated"
+    },
+    {
+        "id": 33956,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilObjSessionGUI.php",
+        "line": 1368,
+        "code": "$this->lng->txt('event_not_participated')",
+        "has_variable": false,
+        "variable": "event_not_participated"
+    },
+    {
+        "id": 33958,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilObjSessionGUI.php",
+        "line": 1382,
+        "code": "$this->lng->txt(\"legend\")",
+        "has_variable": false,
+        "variable": "legend"
+    },
+    {
+        "id": 33960,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilObjSessionGUI.php",
+        "line": 1383,
+        "code": "$this->lng->txt(\"event_digit\")",
+        "has_variable": false,
+        "variable": "event_digit"
+    },
+    {
+        "id": 33962,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilObjSessionGUI.php",
+        "line": 1384,
+        "code": "$this->lng->txt(\"event\")",
+        "has_variable": false,
+        "variable": "event"
+    },
+    {
+        "id": 33964,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilObjSessionGUI.php",
+        "line": 1385,
+        "code": "$this->lng->txt(\"event_location\")",
+        "has_variable": false,
+        "variable": "event_location"
+    },
+    {
+        "id": 33966,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilObjSessionGUI.php",
+        "line": 1386,
+        "code": "$this->lng->txt(\"event_date_time\")",
+        "has_variable": false,
+        "variable": "event_date_time"
+    },
+    {
+        "id": 33968,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilObjSessionGUI.php",
+        "line": 1422,
+        "code": "$this->lng->txt('cal_fullday')",
+        "has_variable": false,
+        "variable": "cal_fullday"
+    },
+    {
+        "id": 33970,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilObjSessionGUI.php",
+        "line": 1425,
+        "code": "$this->lng->txt('event_fulltime_info')",
+        "has_variable": false,
+        "variable": "event_fulltime_info"
+    },
+    {
+        "id": 33972,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilObjSessionGUI.php",
+        "line": 1440,
+        "code": "$this->lng->txt('cal_recurrences')",
+        "has_variable": false,
+        "variable": "cal_recurrences"
+    },
+    {
+        "id": 33974,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilObjSessionGUI.php",
+        "line": 1446,
+        "code": "$this->lng->txt(\"sess_lp_preset\")",
+        "has_variable": false,
+        "variable": "sess_lp_preset"
+    },
+    {
+        "id": 33976,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilObjSessionGUI.php",
+        "line": 1447,
+        "code": "$this->lng->txt(\"sess_lp_preset_info\")",
+        "has_variable": false,
+        "variable": "sess_lp_preset_info"
+    },
+    {
+        "id": 33978,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilObjSessionGUI.php",
+        "line": 1453,
+        "code": "$this->lng->txt('event_section_information')",
+        "has_variable": false,
+        "variable": "event_section_information"
+    },
+    {
+        "id": 33980,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilObjSessionGUI.php",
+        "line": 1457,
+        "code": "$this->lng->txt('event_title')",
+        "has_variable": false,
+        "variable": "event_title"
+    },
+    {
+        "id": 33982,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilObjSessionGUI.php",
+        "line": 1465,
+        "code": "$this->lng->txt('event_desc')",
+        "has_variable": false,
+        "variable": "event_desc"
+    },
+    {
+        "id": 33984,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilObjSessionGUI.php",
+        "line": 1472,
+        "code": "$this->lng->txt('event_location')",
+        "has_variable": false,
+        "variable": "event_location"
+    },
+    {
+        "id": 33986,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilObjSessionGUI.php",
+        "line": 1479,
+        "code": "$this->lng->txt('event_details_workflow')",
+        "has_variable": false,
+        "variable": "event_details_workflow"
+    },
+    {
+        "id": 33988,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilObjSessionGUI.php",
+        "line": 1506,
+        "code": "$this->lng->txt('event_tutor_data')",
+        "has_variable": false,
+        "variable": "event_tutor_data"
+    },
+    {
+        "id": 33990,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilObjSessionGUI.php",
+        "line": 1510,
+        "code": "$this->lng->txt('tutor_name')",
+        "has_variable": false,
+        "variable": "tutor_name"
+    },
+    {
+        "id": 33992,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilObjSessionGUI.php",
+        "line": 1517,
+        "code": "$this->lng->txt('tutor_email')",
+        "has_variable": false,
+        "variable": "tutor_email"
+    },
+    {
+        "id": 33994,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilObjSessionGUI.php",
+        "line": 1524,
+        "code": "$this->lng->txt('tutor_phone')",
+        "has_variable": false,
+        "variable": "tutor_phone"
+    },
+    {
+        "id": 33996,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilObjSessionGUI.php",
+        "line": 1531,
+        "code": "$this->lng->txt('sess_section_reg')",
+        "has_variable": false,
+        "variable": "sess_section_reg"
+    },
+    {
+        "id": 33998,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilObjSessionGUI.php",
+        "line": 1549,
+        "code": "$this->lng->txt('event_assign_files')",
+        "has_variable": false,
+        "variable": "event_assign_files"
+    },
+    {
+        "id": 34000,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilObjSessionGUI.php",
+        "line": 1552,
+        "code": "$this->lng->txt('objs_file')",
+        "has_variable": false,
+        "variable": "objs_file"
+    },
+    {
+        "id": 34002,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilObjSessionGUI.php",
+        "line": 1557,
+        "code": "$this->lng->txt('sess_setting_header_presentation')",
+        "has_variable": false,
+        "variable": "sess_setting_header_presentation"
+    },
+    {
+        "id": 34004,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilObjSessionGUI.php",
+        "line": 1563,
+        "code": "$this->lng->txt('obj_features')",
+        "has_variable": false,
+        "variable": "obj_features"
+    },
+    {
+        "id": 34006,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilObjSessionGUI.php",
+        "line": 1573,
+        "code": "$this->lng->txt('sess_show_members')",
+        "has_variable": false,
+        "variable": "sess_show_members"
+    },
+    {
+        "id": 34008,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilObjSessionGUI.php",
+        "line": 1575,
+        "code": "$this->lng->txt('sess_show_participants_info')",
+        "has_variable": false,
+        "variable": "sess_show_participants_info"
+    },
+    {
+        "id": 34010,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilObjSessionGUI.php",
+        "line": 1580,
+        "code": "$this->lng->txt('sess_mail_type')",
+        "has_variable": false,
+        "variable": "sess_mail_type"
+    },
+    {
+        "id": 34012,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilObjSessionGUI.php",
+        "line": 1584,
+        "code": "$this->lng->txt('sess_mail_admins_only')",
+        "has_variable": false,
+        "variable": "sess_mail_admins_only"
+    },
+    {
+        "id": 34014,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilObjSessionGUI.php",
+        "line": 1586,
+        "code": "$this->lng->txt('sess_mail_admins_only_info')",
+        "has_variable": false,
+        "variable": "sess_mail_admins_only_info"
+    },
+    {
+        "id": 34016,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilObjSessionGUI.php",
+        "line": 1591,
+        "code": "$this->lng->txt('sess_mail_all')",
+        "has_variable": false,
+        "variable": "sess_mail_all"
+    },
+    {
+        "id": 34018,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilObjSessionGUI.php",
+        "line": 1593,
+        "code": "$this->lng->txt('sess_mail_all_info')",
+        "has_variable": false,
+        "variable": "sess_mail_all_info"
+    },
+    {
+        "id": 34020,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilObjSessionGUI.php",
+        "line": 1602,
+        "code": "$this->lng->txt('event_table_create')",
+        "has_variable": false,
+        "variable": "event_table_create"
+    },
+    {
+        "id": 34022,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilObjSessionGUI.php",
+        "line": 1604,
+        "code": "$this->lng->txt('event_btn_add')",
+        "has_variable": false,
+        "variable": "event_btn_add"
+    },
+    {
+        "id": 34024,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilObjSessionGUI.php",
+        "line": 1605,
+        "code": "$this->lng->txt('event_btn_add_edit')",
+        "has_variable": false,
+        "variable": "event_btn_add_edit"
+    },
+    {
+        "id": 34026,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilObjSessionGUI.php",
+        "line": 1606,
+        "code": "$this->lng->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 34028,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilObjSessionGUI.php",
+        "line": 1611,
+        "code": "$this->lng->txt('event_table_update')",
+        "has_variable": false,
+        "variable": "event_table_update"
+    },
+    {
+        "id": 34030,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilObjSessionGUI.php",
+        "line": 1613,
+        "code": "$this->lng->txt('save')",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 34032,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilObjSessionGUI.php",
+        "line": 1614,
+        "code": "$this->lng->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 34034,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilObjSessionGUI.php",
+        "line": 1827,
+        "code": "$this->lng->txt('back_to_' . $parent_type . '_content')",
+        "has_variable": true,
+        "variable": "'back_to_' . $parent_type . '_content'"
+    },
+    {
+        "id": 34036,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilObjSessionGUI.php",
+        "line": 1845,
+        "code": "$this->lng->txt('crs_materials')",
+        "has_variable": false,
+        "variable": "crs_materials"
+    },
+    {
+        "id": 34038,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilObjSessionGUI.php",
+        "line": 1886,
+        "code": "$this->lng->txt('meta_data')",
+        "has_variable": false,
+        "variable": "meta_data"
+    },
+    {
+        "id": 34040,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilObjSessionGUI.php",
+        "line": 1985,
+        "code": "$this->lng->txt('sess_mail_permanent_link')",
+        "has_variable": false,
+        "variable": "sess_mail_permanent_link"
+    },
+    {
+        "id": 34042,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilObjSessionListGUI.php",
+        "line": 118,
+        "code": "$this->lng->txt('sess_list_reg_limit_places')",
+        "has_variable": false,
+        "variable": "sess_list_reg_limit_places"
+    },
+    {
+        "id": 34044,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilObjSessionListGUI.php",
+        "line": 131,
+        "code": "$this->lng->txt('event_ass_materials_prop')",
+        "has_variable": false,
+        "variable": "event_ass_materials_prop"
+    },
+    {
+        "id": 34046,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilObjSessionListGUI.php",
+        "line": 142,
+        "code": "$this->lng->txt('event_location')",
+        "has_variable": false,
+        "variable": "event_location"
+    },
+    {
+        "id": 34048,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilObjSessionListGUI.php",
+        "line": 149,
+        "code": "$this->lng->txt('event_details_workflow')",
+        "has_variable": false,
+        "variable": "event_details_workflow"
+    },
+    {
+        "id": 34050,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilObjSessionListGUI.php",
+        "line": 158,
+        "code": "$this->lng->txt('event_lecturer')",
+        "has_variable": false,
+        "variable": "event_lecturer"
+    },
+    {
+        "id": 34052,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilObjSessionListGUI.php",
+        "line": 167,
+        "code": "$this->lng->txt('tutor_email')",
+        "has_variable": false,
+        "variable": "tutor_email"
+    },
+    {
+        "id": 34054,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilObjSessionListGUI.php",
+        "line": 176,
+        "code": "$this->lng->txt('tutor_phone')",
+        "has_variable": false,
+        "variable": "tutor_phone"
+    },
+    {
+        "id": 34056,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilSessionAppointment.php",
+        "line": 246,
+        "code": "$lng->txt('lang_timeformat_no_sec')",
+        "has_variable": false,
+        "variable": "lang_timeformat_no_sec"
+    },
+    {
+        "id": 34058,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilSessionAppointment.php",
+        "line": 247,
+        "code": "$lng->txt('lang_timeformat_no_sec')",
+        "has_variable": false,
+        "variable": "lang_timeformat_no_sec"
+    },
+    {
+        "id": 34060,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilSessionAppointment.php",
+        "line": 261,
+        "code": "$lng->txt('event_full_time_info')",
+        "has_variable": false,
+        "variable": "event_full_time_info"
+    },
+    {
+        "id": 34062,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilSessionAppointment.php",
+        "line": 381,
+        "code": "$this->lng->txt('event_etime_smaller_stime')",
+        "has_variable": false,
+        "variable": "event_etime_smaller_stime"
+    },
+    {
+        "id": 34064,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilSessionMailTemplateParticipantContext.php",
+        "line": 54,
+        "code": "$lng->txt('sess_mail_context_participant_title')",
+        "has_variable": false,
+        "variable": "sess_mail_context_participant_title"
+    },
+    {
+        "id": 34066,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilSessionMailTemplateParticipantContext.php",
+        "line": 62,
+        "code": "$lng->txt('sess_mail_context_participant_info')",
+        "has_variable": false,
+        "variable": "sess_mail_context_participant_info"
+    },
+    {
+        "id": 34068,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilSessionMailTemplateParticipantContext.php",
+        "line": 75,
+        "code": "$lng->txt('sess_title')",
+        "has_variable": false,
+        "variable": "sess_title"
+    },
+    {
+        "id": 34070,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilSessionMailTemplateParticipantContext.php",
+        "line": 80,
+        "code": "$lng->txt('event_date_time')",
+        "has_variable": false,
+        "variable": "event_date_time"
+    },
+    {
+        "id": 34072,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilSessionMailTemplateParticipantContext.php",
+        "line": 85,
+        "code": "$lng->txt('event_location')",
+        "has_variable": false,
+        "variable": "event_location"
+    },
+    {
+        "id": 34074,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilSessionMailTemplateParticipantContext.php",
+        "line": 90,
+        "code": "$lng->txt('event_details_workflow')",
+        "has_variable": false,
+        "variable": "event_details_workflow"
+    },
+    {
+        "id": 34076,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilSessionMaterialsTableGUI.php",
+        "line": 65,
+        "code": "$this->lng->txt(\"crs_materials\")",
+        "has_variable": false,
+        "variable": "crs_materials"
+    },
+    {
+        "id": 34078,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilSessionMaterialsTableGUI.php",
+        "line": 66,
+        "code": "$this->lng->txt(\"sess_is_assigned\")",
+        "has_variable": false,
+        "variable": "sess_is_assigned"
+    },
+    {
+        "id": 34080,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilSessionMaterialsTableGUI.php",
+        "line": 198,
+        "code": "$this->lng->txt('obj_' . $a_set['type'])",
+        "has_variable": true,
+        "variable": "'obj_' . $a_set['type']"
+    },
+    {
+        "id": 34082,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilSessionMaterialsTableGUI.php",
+        "line": 211,
+        "code": "$this->lng->txt(\"assigned\")",
+        "has_variable": false,
+        "variable": "assigned"
+    },
+    {
+        "id": 34084,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilSessionMaterialsTableGUI.php",
+        "line": 240,
+        "code": "$this->lng->txt(\"title\")",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 34086,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilSessionMaterialsTableGUI.php",
+        "line": 251,
+        "code": "$this->lng->txt('sess_filter_all_types')",
+        "has_variable": false,
+        "variable": "sess_filter_all_types"
+    },
+    {
+        "id": 34088,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilSessionMaterialsTableGUI.php",
+        "line": 253,
+        "code": "$this->lng->txt(\"obj_\" . $type)",
+        "has_variable": true,
+        "variable": "\"obj_\" . $type"
+    },
+    {
+        "id": 34090,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilSessionMaterialsTableGUI.php",
+        "line": 256,
+        "code": "$this->lng->txt(\"type\")",
+        "has_variable": false,
+        "variable": "type"
+    },
+    {
+        "id": 34092,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilSessionMaterialsTableGUI.php",
+        "line": 265,
+        "code": "$this->lng->txt(\"sess_filter_not_assigned\")",
+        "has_variable": false,
+        "variable": "sess_filter_not_assigned"
+    },
+    {
+        "id": 34094,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilSessionMaterialsTableGUI.php",
+        "line": 266,
+        "code": "$this->lng->txt(\"assigned\")",
+        "has_variable": false,
+        "variable": "assigned"
+    },
+    {
+        "id": 34096,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilSessionMaterialsTableGUI.php",
+        "line": 268,
+        "code": "$this->lng->txt(\"assigned\")",
+        "has_variable": false,
+        "variable": "assigned"
+    },
+    {
+        "id": 34098,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilSessionMembershipGUI.php",
+        "line": 206,
+        "code": "$this->lng->txt('sess_mem_tbl_header')",
+        "has_variable": false,
+        "variable": "sess_mem_tbl_header"
+    },
+    {
+        "id": 34100,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilSessionMembershipGUI.php",
+        "line": 214,
+        "code": "$this->lng->txt('group_new_registrations')",
+        "has_variable": false,
+        "variable": "group_new_registrations"
+    },
+    {
+        "id": 34102,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilSessionMembershipGUI.php",
+        "line": 268,
+        "code": "$this->lng->txt('no_checkbox')",
+        "has_variable": false,
+        "variable": "no_checkbox"
+    },
+    {
+        "id": 34104,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilSessionMembershipGUI.php",
+        "line": 274,
+        "code": "$this->lng->txt($this->getParentObject()->getType() . '_header_delete_members')",
+        "has_variable": true,
+        "variable": "$this->getParentObject()->getType() . '_header_delete_members'"
+    },
+    {
+        "id": 34106,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilSessionMembershipGUI.php",
+        "line": 275,
+        "code": "$this->lng->txt('confirm')",
+        "has_variable": false,
+        "variable": "confirm"
+    },
+    {
+        "id": 34108,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilSessionMembershipGUI.php",
+        "line": 276,
+        "code": "$this->lng->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 34110,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilSessionMembershipGUI.php",
+        "line": 299,
+        "code": "$this->lng->txt(\"no_checkbox\")",
+        "has_variable": false,
+        "variable": "no_checkbox"
+    },
+    {
+        "id": 34112,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilSessionMembershipGUI.php",
+        "line": 316,
+        "code": "$this->lng->txt($this->getParentObject()->getType() . \"_members_deleted\")",
+        "has_variable": true,
+        "variable": "$this->getParentObject()->getType() . \"_members_deleted\""
+    },
+    {
+        "id": 34114,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilSessionMembershipGUI.php",
+        "line": 345,
+        "code": "$this->lng->txt('yes')",
+        "has_variable": false,
+        "variable": "yes"
+    },
+    {
+        "id": 34116,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilSessionMembershipGUI.php",
+        "line": 346,
+        "code": "$this->lng->txt('no')",
+        "has_variable": false,
+        "variable": "no"
+    },
+    {
+        "id": 34118,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilSessionMembershipGUI.php",
+        "line": 348,
+        "code": "$this->lng->txt('yes')",
+        "has_variable": false,
+        "variable": "yes"
+    },
+    {
+        "id": 34120,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilSessionMembershipGUI.php",
+        "line": 349,
+        "code": "$this->lng->txt('no')",
+        "has_variable": false,
+        "variable": "no"
+    },
+    {
+        "id": 34122,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilSessionMembershipGUI.php",
+        "line": 356,
+        "code": "$this->lng->txt($this->getParentObject()->getType() . '_members')",
+        "has_variable": true,
+        "variable": "$this->getParentObject()->getType() . '_members'"
+    },
+    {
+        "id": 34124,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilSessionMembershipGUI.php",
+        "line": 361,
+        "code": "$this->lng->txt(\"sess_mail_type\")",
+        "has_variable": false,
+        "variable": "sess_mail_type"
+    },
+    {
+        "id": 34126,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilSessionOverviewGUI.php",
+        "line": 87,
+        "code": "$this->lng->txt('msg_no_perm_read')",
+        "has_variable": false,
+        "variable": "msg_no_perm_read"
+    },
+    {
+        "id": 34128,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilSessionOverviewGUI.php",
+        "line": 91,
+        "code": "$this->lng->txt('event_csv_export')",
+        "has_variable": false,
+        "variable": "event_csv_export"
+    },
+    {
+        "id": 34130,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilSessionOverviewGUI.php",
+        "line": 142,
+        "code": "$this->lng->txt(\"lastname\")",
+        "has_variable": false,
+        "variable": "lastname"
+    },
+    {
+        "id": 34132,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilSessionOverviewGUI.php",
+        "line": 143,
+        "code": "$this->lng->txt(\"firstname\")",
+        "has_variable": false,
+        "variable": "firstname"
+    },
+    {
+        "id": 34134,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilSessionOverviewGUI.php",
+        "line": 144,
+        "code": "$this->lng->txt(\"login\")",
+        "has_variable": false,
+        "variable": "login"
+    },
+    {
+        "id": 34136,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilSessionOverviewGUI.php",
+        "line": 162,
+        "code": "$this->lng->txt('event_participated')",
+        "has_variable": false,
+        "variable": "event_participated"
+    },
+    {
+        "id": 34138,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilSessionOverviewGUI.php",
+        "line": 163,
+        "code": "$this->lng->txt('event_not_participated')",
+        "has_variable": false,
+        "variable": "event_not_participated"
+    },
+    {
+        "id": 34140,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilSessionOverviewTableGUI.php",
+        "line": 59,
+        "code": "$this->lng->txt('event_overview')",
+        "has_variable": false,
+        "variable": "event_overview"
+    },
+    {
+        "id": 34142,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilSessionOverviewTableGUI.php",
+        "line": 61,
+        "code": "$this->lng->txt('name')",
+        "has_variable": false,
+        "variable": "name"
+    },
+    {
+        "id": 34144,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilSessionOverviewTableGUI.php",
+        "line": 62,
+        "code": "$this->lng->txt('login')",
+        "has_variable": false,
+        "variable": "login"
+    },
+    {
+        "id": 34146,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilSessionOverviewTableGUI.php",
+        "line": 75,
+        "code": "$this->lng->txt(\"event_location\")",
+        "has_variable": false,
+        "variable": "event_location"
+    },
+    {
+        "id": 34148,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilSessionOverviewTableGUI.php",
+        "line": 77,
+        "code": "$this->lng->txt(\"event_date_time\")",
+        "has_variable": false,
+        "variable": "event_date_time"
+    },
+    {
+        "id": 34150,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilSessionOverviewTableGUI.php",
+        "line": 154,
+        "code": "$this->lng->txt('event_participated')",
+        "has_variable": false,
+        "variable": "event_participated"
+    },
+    {
+        "id": 34152,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilSessionOverviewTableGUI.php",
+        "line": 156,
+        "code": "$this->lng->txt('event_not_participated')",
+        "has_variable": false,
+        "variable": "event_not_participated"
+    },
+    {
+        "id": 34154,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilSessionParticipantsTableGUI.php",
+        "line": 110,
+        "code": "$this->lng->txt('name')",
+        "has_variable": false,
+        "variable": "name"
+    },
+    {
+        "id": 34156,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilSessionParticipantsTableGUI.php",
+        "line": 111,
+        "code": "$this->lng->txt('login')",
+        "has_variable": false,
+        "variable": "login"
+    },
+    {
+        "id": 34158,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilSessionParticipantsTableGUI.php",
+        "line": 120,
+        "code": "$this->lng->txt('event_tbl_registered')",
+        "has_variable": false,
+        "variable": "event_tbl_registered"
+    },
+    {
+        "id": 34160,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilSessionParticipantsTableGUI.php",
+        "line": 127,
+        "code": "$this->lng->txt('event_tbl_participated')",
+        "has_variable": false,
+        "variable": "event_tbl_participated"
+    },
+    {
+        "id": 34162,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilSessionParticipantsTableGUI.php",
+        "line": 130,
+        "code": "$this->lng->txt('sess_part_table_excused')",
+        "has_variable": false,
+        "variable": "sess_part_table_excused"
+    },
+    {
+        "id": 34164,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilSessionParticipantsTableGUI.php",
+        "line": 133,
+        "code": "$this->lng->txt('sess_contact')",
+        "has_variable": false,
+        "variable": "sess_contact"
+    },
+    {
+        "id": 34166,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilSessionParticipantsTableGUI.php",
+        "line": 135,
+        "code": "$this->lng->txt('notification')",
+        "has_variable": false,
+        "variable": "notification"
+    },
+    {
+        "id": 34168,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilSessionParticipantsTableGUI.php",
+        "line": 138,
+        "code": "$this->lng->txt('trac_mark')",
+        "has_variable": false,
+        "variable": "trac_mark"
+    },
+    {
+        "id": 34170,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilSessionParticipantsTableGUI.php",
+        "line": 139,
+        "code": "$this->lng->txt('trac_comment')",
+        "has_variable": false,
+        "variable": "trac_comment"
+    },
+    {
+        "id": 34172,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilSessionParticipantsTableGUI.php",
+        "line": 142,
+        "code": "$this->lng->txt('mmbr_btn_mail_selected_users')",
+        "has_variable": false,
+        "variable": "mmbr_btn_mail_selected_users"
+    },
+    {
+        "id": 34174,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilSessionParticipantsTableGUI.php",
+        "line": 144,
+        "code": "$this->lng->txt('clipboard_add_btn')",
+        "has_variable": false,
+        "variable": "clipboard_add_btn"
+    },
+    {
+        "id": 34176,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilSessionParticipantsTableGUI.php",
+        "line": 147,
+        "code": "$this->lng->txt('save')",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 34178,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilSessionParticipantsTableGUI.php",
+        "line": 156,
+        "code": "$this->lng->txt('name')",
+        "has_variable": false,
+        "variable": "name"
+    },
+    {
+        "id": 34180,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilSessionParticipantsTableGUI.php",
+        "line": 166,
+        "code": "$this->lng->txt('objs_' . ilObject::_lookupType(ilObject::_lookupObjId($this->member_ref_id)) . '_role')",
+        "has_variable": true,
+        "variable": "'objs_' . ilObject::_lookupType(ilObject::_lookupObjId($this->member_ref_id)) . '_role'"
+    },
+    {
+        "id": 34182,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilSessionParticipantsTableGUI.php",
+        "line": 170,
+        "code": "$this->lng->txt('all_roles')",
+        "has_variable": false,
+        "variable": "all_roles"
+    },
+    {
+        "id": 34184,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilSessionParticipantsTableGUI.php",
+        "line": 180,
+        "code": "$this->lng->txt('sess_part_filter_registered')",
+        "has_variable": false,
+        "variable": "sess_part_filter_registered"
+    },
+    {
+        "id": 34186,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilSessionParticipantsTableGUI.php",
+        "line": 188,
+        "code": "$this->lng->txt('sess_part_filter_participated')",
+        "has_variable": false,
+        "variable": "sess_part_filter_participated"
+    },
+    {
+        "id": 34188,
+        "file": "components\/ILIAS\/Session\/classes\/class.ilSessionParticipantsTableGUI.php",
+        "line": 196,
+        "code": "$this->lng->txt('objs_role')",
+        "has_variable": false,
+        "variable": "objs_role"
+    }
+]

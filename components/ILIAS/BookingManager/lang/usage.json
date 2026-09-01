@@ -1,0 +1,3706 @@
+[
+    {
+        "id": 3544,
+        "file": "components\/ILIAS\/BookingManager\/BookingProcess\/class.BookingProcessManager.php",
+        "line": 195,
+        "code": "$lng->txt('cal_ch_personal_book')",
+        "has_variable": false,
+        "variable": "cal_ch_personal_book"
+    },
+    {
+        "id": 3546,
+        "file": "components\/ILIAS\/BookingManager\/BookingProcess\/class.BookingProcessManager.php",
+        "line": 204,
+        "code": "$lng->txt('book_cal_entry')",
+        "has_variable": false,
+        "variable": "book_cal_entry"
+    },
+    {
+        "id": 3548,
+        "file": "components\/ILIAS\/BookingManager\/BookingProcess\/class.ObjectSelectionListGUI.php",
+        "line": 60,
+        "code": "$this->lng->txt(\"book_week_no_objects_selected\")",
+        "has_variable": false,
+        "variable": "book_week_no_objects_selected"
+    },
+    {
+        "id": 3550,
+        "file": "components\/ILIAS\/BookingManager\/BookingProcess\/class.ObjectSelectionListGUI.php",
+        "line": 77,
+        "code": "$this->lng->txt(\"book_refresh\")",
+        "has_variable": false,
+        "variable": "book_refresh"
+    },
+    {
+        "id": 3552,
+        "file": "components\/ILIAS\/BookingManager\/BookingProcess\/class.ObjectSelectionListGUI.php",
+        "line": 90,
+        "code": "$this->lng->txt(\"book_object_selection\")",
+        "has_variable": false,
+        "variable": "book_object_selection"
+    },
+    {
+        "id": 3554,
+        "file": "components\/ILIAS\/BookingManager\/BookingProcess\/class.ProcessUtilGUI.php",
+        "line": 107,
+        "code": "$lng->txt('book_back_to_list')",
+        "has_variable": false,
+        "variable": "book_back_to_list"
+    },
+    {
+        "id": 3556,
+        "file": "components\/ILIAS\/BookingManager\/BookingProcess\/class.ProcessUtilGUI.php",
+        "line": 130,
+        "code": "$lng->txt(\"no_permission\")",
+        "has_variable": false,
+        "variable": "no_permission"
+    },
+    {
+        "id": 3558,
+        "file": "components\/ILIAS\/BookingManager\/BookingProcess\/class.ProcessUtilGUI.php",
+        "line": 144,
+        "code": "$this->lng->txt('book_reservation_confirmed')",
+        "has_variable": false,
+        "variable": "book_reservation_confirmed"
+    },
+    {
+        "id": 3560,
+        "file": "components\/ILIAS\/BookingManager\/BookingProcess\/class.ProcessUtilGUI.php",
+        "line": 244,
+        "code": "$this->lng->txt('book_post_booking_information_for')",
+        "has_variable": false,
+        "variable": "book_post_booking_information_for"
+    },
+    {
+        "id": 3562,
+        "file": "components\/ILIAS\/BookingManager\/BookingProcess\/class.ProcessUtilGUI.php",
+        "line": 245,
+        "code": "$this->lng->txt('book_post_booking_information')",
+        "has_variable": false,
+        "variable": "book_post_booking_information"
+    },
+    {
+        "id": 3564,
+        "file": "components\/ILIAS\/BookingManager\/BookingProcess\/class.ProcessUtilGUI.php",
+        "line": 267,
+        "code": "$this->lng->txt('download')",
+        "has_variable": false,
+        "variable": "download"
+    },
+    {
+        "id": 3566,
+        "file": "components\/ILIAS\/BookingManager\/BookingProcess\/class.ProcessUtilGUI.php",
+        "line": 277,
+        "code": "$this->lng->txt('ok')",
+        "has_variable": false,
+        "variable": "ok"
+    },
+    {
+        "id": 3568,
+        "file": "components\/ILIAS\/BookingManager\/BookingProcess\/class.WeekGridGUI.php",
+        "line": 66,
+        "code": "$this->lng->txt('book_all_day')",
+        "has_variable": false,
+        "variable": "book_all_day"
+    },
+    {
+        "id": 3570,
+        "file": "components\/ILIAS\/BookingManager\/BookingProcess\/class.WeekGridGUI.php",
+        "line": 155,
+        "code": "$this->lng->txt('week')",
+        "has_variable": false,
+        "variable": "week"
+    },
+    {
+        "id": 3572,
+        "file": "components\/ILIAS\/BookingManager\/BookingProcess\/class.WeekGridGUI.php",
+        "line": 159,
+        "code": "$this->lng->txt('book_reservation_title')",
+        "has_variable": false,
+        "variable": "book_reservation_title"
+    },
+    {
+        "id": 3574,
+        "file": "components\/ILIAS\/BookingManager\/BookingProcess\/class.WeekGridGUI.php",
+        "line": 160,
+        "code": "$this->lng->txt('time')",
+        "has_variable": false,
+        "variable": "time"
+    },
+    {
+        "id": 3576,
+        "file": "components\/ILIAS\/BookingManager\/BookingProcess\/class.ilBookingAssignParticipantsTableGUI.php",
+        "line": 60,
+        "code": "$this->lng->txt(\"book_assign_participant\")",
+        "has_variable": false,
+        "variable": "book_assign_participant"
+    },
+    {
+        "id": 3578,
+        "file": "components\/ILIAS\/BookingManager\/BookingProcess\/class.ilBookingAssignParticipantsTableGUI.php",
+        "line": 63,
+        "code": "$this->lng->txt(\"name\")",
+        "has_variable": false,
+        "variable": "name"
+    },
+    {
+        "id": 3580,
+        "file": "components\/ILIAS\/BookingManager\/BookingProcess\/class.ilBookingAssignParticipantsTableGUI.php",
+        "line": 65,
+        "code": "$this->lng->txt(\"book_bobj\")",
+        "has_variable": false,
+        "variable": "book_bobj"
+    },
+    {
+        "id": 3582,
+        "file": "components\/ILIAS\/BookingManager\/BookingProcess\/class.ilBookingAssignParticipantsTableGUI.php",
+        "line": 67,
+        "code": "$this->lng->txt(\"action\")",
+        "has_variable": false,
+        "variable": "action"
+    },
+    {
+        "id": 3584,
+        "file": "components\/ILIAS\/BookingManager\/BookingProcess\/class.ilBookingAssignParticipantsTableGUI.php",
+        "line": 80,
+        "code": "$this->lng->txt(\"assign\")",
+        "has_variable": false,
+        "variable": "assign"
+    },
+    {
+        "id": 3586,
+        "file": "components\/ILIAS\/BookingManager\/BookingProcess\/class.ilBookingAssignParticipantsTableGUI.php",
+        "line": 87,
+        "code": "$this->lng->txt(\"book_objects_available\")",
+        "has_variable": false,
+        "variable": "book_objects_available"
+    },
+    {
+        "id": 3588,
+        "file": "components\/ILIAS\/BookingManager\/BookingProcess\/class.ilBookingAssignParticipantsTableGUI.php",
+        "line": 128,
+        "code": "$this->lng->txt(\"book_assign\")",
+        "has_variable": false,
+        "variable": "book_assign"
+    },
+    {
+        "id": 3590,
+        "file": "components\/ILIAS\/BookingManager\/BookingProcess\/class.ilBookingProcessWithScheduleGUI.php",
+        "line": 137,
+        "code": "$this->lng->txt(\"no_permission\")",
+        "has_variable": false,
+        "variable": "no_permission"
+    },
+    {
+        "id": 3592,
+        "file": "components\/ILIAS\/BookingManager\/BookingProcess\/class.ilBookingProcessWithScheduleGUI.php",
+        "line": 154,
+        "code": "$this->lng->txt('book_back_to_list')",
+        "has_variable": false,
+        "variable": "book_back_to_list"
+    },
+    {
+        "id": 3594,
+        "file": "components\/ILIAS\/BookingManager\/BookingProcess\/class.ilBookingProcessWithScheduleGUI.php",
+        "line": 174,
+        "code": "$this->lng->txt('book_week')",
+        "has_variable": false,
+        "variable": "book_week"
+    },
+    {
+        "id": 3596,
+        "file": "components\/ILIAS\/BookingManager\/BookingProcess\/class.ilBookingProcessWithScheduleGUI.php",
+        "line": 177,
+        "code": "$this->lng->txt('book_table')",
+        "has_variable": false,
+        "variable": "book_table"
+    },
+    {
+        "id": 3598,
+        "file": "components\/ILIAS\/BookingManager\/BookingProcess\/class.ilBookingProcessWithScheduleGUI.php",
+        "line": 180,
+        "code": "$this->lng->txt('book_view')",
+        "has_variable": false,
+        "variable": "book_view"
+    },
+    {
+        "id": 3600,
+        "file": "components\/ILIAS\/BookingManager\/BookingProcess\/class.ilBookingProcessWithScheduleGUI.php",
+        "line": 216,
+        "code": "$this->lng->txt('book_back_to_list')",
+        "has_variable": false,
+        "variable": "book_back_to_list"
+    },
+    {
+        "id": 3602,
+        "file": "components\/ILIAS\/BookingManager\/BookingProcess\/class.ilBookingProcessWithScheduleGUI.php",
+        "line": 261,
+        "code": "$this->lng->txt('book_back_to_list')",
+        "has_variable": false,
+        "variable": "book_back_to_list"
+    },
+    {
+        "id": 3604,
+        "file": "components\/ILIAS\/BookingManager\/BookingProcess\/class.ilBookingProcessWithScheduleGUI.php",
+        "line": 294,
+        "code": "$this->lng->txt(\"book_confirm_booking_schedule_number_of_objects\")",
+        "has_variable": false,
+        "variable": "book_confirm_booking_schedule_number_of_objects"
+    },
+    {
+        "id": 3606,
+        "file": "components\/ILIAS\/BookingManager\/BookingProcess\/class.ilBookingProcessWithScheduleGUI.php",
+        "line": 295,
+        "code": "$this->lng->txt(\"book_confirm_booking_schedule_number_of_objects_info\")",
+        "has_variable": false,
+        "variable": "book_confirm_booking_schedule_number_of_objects_info"
+    },
+    {
+        "id": 3608,
+        "file": "components\/ILIAS\/BookingManager\/BookingProcess\/class.ilBookingProcessWithScheduleGUI.php",
+        "line": 298,
+        "code": "$this->lng->txt(\"book_recurrence\")",
+        "has_variable": false,
+        "variable": "book_recurrence"
+    },
+    {
+        "id": 3610,
+        "file": "components\/ILIAS\/BookingManager\/BookingProcess\/class.ilBookingProcessWithScheduleGUI.php",
+        "line": 299,
+        "code": "$this->lng->txt(\"book_no_recurrence\")",
+        "has_variable": false,
+        "variable": "book_no_recurrence"
+    },
+    {
+        "id": 3612,
+        "file": "components\/ILIAS\/BookingManager\/BookingProcess\/class.ilBookingProcessWithScheduleGUI.php",
+        "line": 300,
+        "code": "$this->lng->txt(\"book_book_recurrence\")",
+        "has_variable": false,
+        "variable": "book_book_recurrence"
+    },
+    {
+        "id": 3614,
+        "file": "components\/ILIAS\/BookingManager\/BookingProcess\/class.ilBookingProcessWithScheduleGUI.php",
+        "line": 305,
+        "code": "$this->lng->txt(\"book_message\")",
+        "has_variable": false,
+        "variable": "book_message"
+    },
+    {
+        "id": 3616,
+        "file": "components\/ILIAS\/BookingManager\/BookingProcess\/class.ilBookingProcessWithScheduleGUI.php",
+        "line": 306,
+        "code": "$this->lng->txt(\"book_message_info\")",
+        "has_variable": false,
+        "variable": "book_message_info"
+    },
+    {
+        "id": 3618,
+        "file": "components\/ILIAS\/BookingManager\/BookingProcess\/class.ilBookingProcessWithScheduleGUI.php",
+        "line": 378,
+        "code": "$this->lng->txt(\"book_confirm_booking_schedule_number_of_objects\")",
+        "has_variable": false,
+        "variable": "book_confirm_booking_schedule_number_of_objects"
+    },
+    {
+        "id": 3620,
+        "file": "components\/ILIAS\/BookingManager\/BookingProcess\/class.ilBookingProcessWithScheduleGUI.php",
+        "line": 379,
+        "code": "$this->lng->txt(\"book_confirm_booking_schedule_number_of_objects_info\")",
+        "has_variable": false,
+        "variable": "book_confirm_booking_schedule_number_of_objects_info"
+    },
+    {
+        "id": 3622,
+        "file": "components\/ILIAS\/BookingManager\/BookingProcess\/class.ilBookingProcessWithScheduleGUI.php",
+        "line": 381,
+        "code": "$this->lng->txt(\"cal_recurrences\")",
+        "has_variable": false,
+        "variable": "cal_recurrences"
+    },
+    {
+        "id": 3624,
+        "file": "components\/ILIAS\/BookingManager\/BookingProcess\/class.ilBookingProcessWithScheduleGUI.php",
+        "line": 382,
+        "code": "$this->lng->txt(\"cal_weekly\")",
+        "has_variable": false,
+        "variable": "cal_weekly"
+    },
+    {
+        "id": 3626,
+        "file": "components\/ILIAS\/BookingManager\/BookingProcess\/class.ilBookingProcessWithScheduleGUI.php",
+        "line": 383,
+        "code": "$this->lng->txt(\"cal_repeat_until\")",
+        "has_variable": false,
+        "variable": "cal_repeat_until"
+    },
+    {
+        "id": 3628,
+        "file": "components\/ILIAS\/BookingManager\/BookingProcess\/class.ilBookingProcessWithScheduleGUI.php",
+        "line": 384,
+        "code": "$this->lng->txt(\"r_14\")",
+        "has_variable": false,
+        "variable": "r_14"
+    },
+    {
+        "id": 3630,
+        "file": "components\/ILIAS\/BookingManager\/BookingProcess\/class.ilBookingProcessWithScheduleGUI.php",
+        "line": 385,
+        "code": "$this->lng->txt(\"cal_repeat_until\")",
+        "has_variable": false,
+        "variable": "cal_repeat_until"
+    },
+    {
+        "id": 3632,
+        "file": "components\/ILIAS\/BookingManager\/BookingProcess\/class.ilBookingProcessWithScheduleGUI.php",
+        "line": 386,
+        "code": "$this->lng->txt(\"r_4_weeks\")",
+        "has_variable": false,
+        "variable": "r_4_weeks"
+    },
+    {
+        "id": 3634,
+        "file": "components\/ILIAS\/BookingManager\/BookingProcess\/class.ilBookingProcessWithScheduleGUI.php",
+        "line": 387,
+        "code": "$this->lng->txt(\"cal_repeat_until\")",
+        "has_variable": false,
+        "variable": "cal_repeat_until"
+    },
+    {
+        "id": 3636,
+        "file": "components\/ILIAS\/BookingManager\/BookingProcess\/class.ilBookingProcessWithScheduleGUI.php",
+        "line": 458,
+        "code": "$this->lng->txt(\"book_book_available\")",
+        "has_variable": false,
+        "variable": "book_book_available"
+    },
+    {
+        "id": 3638,
+        "file": "components\/ILIAS\/BookingManager\/BookingProcess\/class.ilBookingProcessWithScheduleGUI.php",
+        "line": 471,
+        "code": "$this->lng->txt(\"book_missing_availability\")",
+        "has_variable": false,
+        "variable": "book_missing_availability"
+    },
+    {
+        "id": 3640,
+        "file": "components\/ILIAS\/BookingManager\/BookingProcess\/class.ilBookingProcessWithScheduleGUI.php",
+        "line": 475,
+        "code": "$this->lng->txt(\"book_missing_items\")",
+        "has_variable": false,
+        "variable": "book_missing_items"
+    },
+    {
+        "id": 3642,
+        "file": "components\/ILIAS\/BookingManager\/BookingProcess\/class.ilBookingProcessWithScheduleGUI.php",
+        "line": 522,
+        "code": "$this->lng->txt('book_reservation_failed')",
+        "has_variable": false,
+        "variable": "book_reservation_failed"
+    },
+    {
+        "id": 3644,
+        "file": "components\/ILIAS\/BookingManager\/BookingProcess\/class.ilBookingProcessWithoutScheduleGUI.php",
+        "line": 131,
+        "code": "$this->lng->txt(\"no_permission\")",
+        "has_variable": false,
+        "variable": "no_permission"
+    },
+    {
+        "id": 3646,
+        "file": "components\/ILIAS\/BookingManager\/BookingProcess\/class.ilBookingProcessWithoutScheduleGUI.php",
+        "line": 149,
+        "code": "$this->lng->txt('book_back_to_list')",
+        "has_variable": false,
+        "variable": "book_back_to_list"
+    },
+    {
+        "id": 3648,
+        "file": "components\/ILIAS\/BookingManager\/BookingProcess\/class.ilBookingProcessWithoutScheduleGUI.php",
+        "line": 177,
+        "code": "$this->lng->txt(\"book_book\")",
+        "has_variable": false,
+        "variable": "book_book"
+    },
+    {
+        "id": 3650,
+        "file": "components\/ILIAS\/BookingManager\/BookingProcess\/class.ilBookingProcessWithoutScheduleGUI.php",
+        "line": 178,
+        "code": "$this->lng->txt(\"book_booking\")",
+        "has_variable": false,
+        "variable": "book_booking"
+    },
+    {
+        "id": 3652,
+        "file": "components\/ILIAS\/BookingManager\/BookingProcess\/class.ilBookingProcessWithoutScheduleGUI.php",
+        "line": 181,
+        "code": "$this->lng->txt(\"book_message\")",
+        "has_variable": false,
+        "variable": "book_message"
+    },
+    {
+        "id": 3654,
+        "file": "components\/ILIAS\/BookingManager\/BookingProcess\/class.ilBookingProcessWithoutScheduleGUI.php",
+        "line": 182,
+        "code": "$this->lng->txt(\"book_message_info\")",
+        "has_variable": false,
+        "variable": "book_message_info"
+    },
+    {
+        "id": 3656,
+        "file": "components\/ILIAS\/BookingManager\/BookingProcess\/class.ilBookingProcessWithoutScheduleGUI.php",
+        "line": 197,
+        "code": "$this->lng->txt('book_back_to_list')",
+        "has_variable": false,
+        "variable": "book_back_to_list"
+    },
+    {
+        "id": 3658,
+        "file": "components\/ILIAS\/BookingManager\/BookingProcess\/class.ilBookingProcessWithoutScheduleGUI.php",
+        "line": 211,
+        "code": "$this->lng->txt(\"book_confirm_booking_no_schedule\")",
+        "has_variable": false,
+        "variable": "book_confirm_booking_no_schedule"
+    },
+    {
+        "id": 3660,
+        "file": "components\/ILIAS\/BookingManager\/BookingProcess\/class.ilBookingProcessWithoutScheduleGUI.php",
+        "line": 214,
+        "code": "$this->lng->txt(\"cancel\")",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 3662,
+        "file": "components\/ILIAS\/BookingManager\/BookingProcess\/class.ilBookingProcessWithoutScheduleGUI.php",
+        "line": 215,
+        "code": "$this->lng->txt(\"confirm\")",
+        "has_variable": false,
+        "variable": "confirm"
+    },
+    {
+        "id": 3664,
+        "file": "components\/ILIAS\/BookingManager\/BookingProcess\/class.ilBookingProcessWithoutScheduleGUI.php",
+        "line": 240,
+        "code": "$this->lng->txt(\"back\")",
+        "has_variable": false,
+        "variable": "back"
+    },
+    {
+        "id": 3666,
+        "file": "components\/ILIAS\/BookingManager\/BookingProcess\/class.ilBookingProcessWithoutScheduleGUI.php",
+        "line": 259,
+        "code": "$this->lng->txt('book_limit_objects_available')",
+        "has_variable": false,
+        "variable": "book_limit_objects_available"
+    },
+    {
+        "id": 3668,
+        "file": "components\/ILIAS\/BookingManager\/BookingProcess\/class.ilBookingProcessWithoutScheduleGUI.php",
+        "line": 266,
+        "code": "$this->lng->txt('book_confirm_booking_for_users')",
+        "has_variable": false,
+        "variable": "book_confirm_booking_for_users"
+    },
+    {
+        "id": 3670,
+        "file": "components\/ILIAS\/BookingManager\/BookingProcess\/class.ilBookingProcessWithoutScheduleGUI.php",
+        "line": 268,
+        "code": "$this->lng->txt(\"assign\")",
+        "has_variable": false,
+        "variable": "assign"
+    },
+    {
+        "id": 3672,
+        "file": "components\/ILIAS\/BookingManager\/BookingProcess\/class.ilBookingProcessWithoutScheduleGUI.php",
+        "line": 271,
+        "code": "$this->lng->txt(\"cancel\")",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 3674,
+        "file": "components\/ILIAS\/BookingManager\/BookingProcess\/class.ilBookingProcessWithoutScheduleGUI.php",
+        "line": 313,
+        "code": "$this->lng->txt('booking_multiple_succesfully')",
+        "has_variable": false,
+        "variable": "booking_multiple_succesfully"
+    },
+    {
+        "id": 3676,
+        "file": "components\/ILIAS\/BookingManager\/BookingProcess\/class.ilBookingProcessWithoutScheduleGUI.php",
+        "line": 318,
+        "code": "$this->lng->txt('book_reservation_failed_overbooked')",
+        "has_variable": false,
+        "variable": "book_reservation_failed_overbooked"
+    },
+    {
+        "id": 3678,
+        "file": "components\/ILIAS\/BookingManager\/BookingProcess\/class.ilBookingProcessWithoutScheduleGUI.php",
+        "line": 350,
+        "code": "$this->lng->txt('book_reservation_failed_overbooked')",
+        "has_variable": false,
+        "variable": "book_reservation_failed_overbooked"
+    },
+    {
+        "id": 3680,
+        "file": "components\/ILIAS\/BookingManager\/BookingProcess\/class.ilBookingProcessWithoutScheduleGUI.php",
+        "line": 361,
+        "code": "$this->lng->txt('book_reservation_failed')",
+        "has_variable": false,
+        "variable": "book_reservation_failed"
+    },
+    {
+        "id": 3682,
+        "file": "components\/ILIAS\/BookingManager\/BookingService\/class.ilBookingGatewayGUI.php",
+        "line": 209,
+        "code": "$this->lng->txt(\"book_select_pool\")",
+        "has_variable": false,
+        "variable": "book_select_pool"
+    },
+    {
+        "id": 3684,
+        "file": "components\/ILIAS\/BookingManager\/BookingService\/class.ilBookingGatewayGUI.php",
+        "line": 230,
+        "code": "$lng->txt(\"book_booking_objects\")",
+        "has_variable": false,
+        "variable": "book_booking_objects"
+    },
+    {
+        "id": 3686,
+        "file": "components\/ILIAS\/BookingManager\/BookingService\/class.ilBookingGatewayGUI.php",
+        "line": 235,
+        "code": "$lng->txt(\"book_log\")",
+        "has_variable": false,
+        "variable": "book_log"
+    },
+    {
+        "id": 3688,
+        "file": "components\/ILIAS\/BookingManager\/BookingService\/class.ilBookingGatewayGUI.php",
+        "line": 242,
+        "code": "$lng->txt(\"settings\")",
+        "has_variable": false,
+        "variable": "settings"
+    },
+    {
+        "id": 3690,
+        "file": "components\/ILIAS\/BookingManager\/BookingService\/class.ilBookingGatewayGUI.php",
+        "line": 259,
+        "code": "$this->lng->txt(\"book_no_pools_selected\")",
+        "has_variable": false,
+        "variable": "book_no_pools_selected"
+    },
+    {
+        "id": 3692,
+        "file": "components\/ILIAS\/BookingManager\/BookingService\/class.ilBookingGatewayGUI.php",
+        "line": 282,
+        "code": "$this->lng->txt(\"objs_book\")",
+        "has_variable": false,
+        "variable": "objs_book"
+    },
+    {
+        "id": 3694,
+        "file": "components\/ILIAS\/BookingManager\/BookingService\/class.ilBookingGatewayGUI.php",
+        "line": 290,
+        "code": "$lng->txt(\"save\")",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 3696,
+        "file": "components\/ILIAS\/BookingManager\/BookingService\/class.ilBookingGatewayGUI.php",
+        "line": 292,
+        "code": "$lng->txt(\"book_pool_selection\")",
+        "has_variable": false,
+        "variable": "book_pool_selection"
+    },
+    {
+        "id": 3698,
+        "file": "components\/ILIAS\/BookingManager\/BookingService\/class.ilBookingGatewayGUI.php",
+        "line": 314,
+        "code": "$lng->txt(\"book_all_pools_need_schedules\")",
+        "has_variable": false,
+        "variable": "book_all_pools_need_schedules"
+    },
+    {
+        "id": 3700,
+        "file": "components\/ILIAS\/BookingManager\/BookingService\/class.ilBookingGatewayGUI.php",
+        "line": 329,
+        "code": "$lng->txt(\"msg_obj_modified\")",
+        "has_variable": false,
+        "variable": "msg_obj_modified"
+    },
+    {
+        "id": 3702,
+        "file": "components\/ILIAS\/BookingManager\/Objects\/class.ilBookBulkCreationGUI.php",
+        "line": 74,
+        "code": "$lng->txt(\"book_bulk_creation\")",
+        "has_variable": false,
+        "variable": "book_bulk_creation"
+    },
+    {
+        "id": 3704,
+        "file": "components\/ILIAS\/BookingManager\/Objects\/class.ilBookBulkCreationGUI.php",
+        "line": 76,
+        "code": "$lng->txt(\"book_bulk_creation\")",
+        "has_variable": false,
+        "variable": "book_bulk_creation"
+    },
+    {
+        "id": 3706,
+        "file": "components\/ILIAS\/BookingManager\/Objects\/class.ilBookBulkCreationGUI.php",
+        "line": 92,
+        "code": "$lng->txt(\"book_bulk_creation\")",
+        "has_variable": false,
+        "variable": "book_bulk_creation"
+    },
+    {
+        "id": 3708,
+        "file": "components\/ILIAS\/BookingManager\/Objects\/class.ilBookBulkCreationGUI.php",
+        "line": 106,
+        "code": "$lng->txt(\"book_bulk_data\")",
+        "has_variable": false,
+        "variable": "book_bulk_data"
+    },
+    {
+        "id": 3710,
+        "file": "components\/ILIAS\/BookingManager\/Objects\/class.ilBookBulkCreationGUI.php",
+        "line": 109,
+        "code": "$lng->txt(\"book_title_description_nr\")",
+        "has_variable": false,
+        "variable": "book_title_description_nr"
+    },
+    {
+        "id": 3712,
+        "file": "components\/ILIAS\/BookingManager\/Objects\/class.ilBookBulkCreationGUI.php",
+        "line": 110,
+        "code": "$lng->txt(\"book_title_description_nr_info\")",
+        "has_variable": false,
+        "variable": "book_title_description_nr_info"
+    },
+    {
+        "id": 3714,
+        "file": "components\/ILIAS\/BookingManager\/Objects\/class.ilBookBulkCreationGUI.php",
+        "line": 117,
+        "code": "$lng->txt(\"book_schedule\")",
+        "has_variable": false,
+        "variable": "book_schedule"
+    },
+    {
+        "id": 3716,
+        "file": "components\/ILIAS\/BookingManager\/Objects\/class.ilBookBulkCreationGUI.php",
+        "line": 134,
+        "code": "$lng->txt(\"book_bulk_creation\")",
+        "has_variable": false,
+        "variable": "book_bulk_creation"
+    },
+    {
+        "id": 3718,
+        "file": "components\/ILIAS\/BookingManager\/Objects\/class.ilBookBulkCreationGUI.php",
+        "line": 143,
+        "code": "$lng->txt(\"book_bulk_creation\")",
+        "has_variable": false,
+        "variable": "book_bulk_creation"
+    },
+    {
+        "id": 3720,
+        "file": "components\/ILIAS\/BookingManager\/Objects\/class.ilBookBulkCreationGUI.php",
+        "line": 159,
+        "code": "$lng->txt(\"book_create_objects\")",
+        "has_variable": false,
+        "variable": "book_create_objects"
+    },
+    {
+        "id": 3722,
+        "file": "components\/ILIAS\/BookingManager\/Objects\/class.ilBookBulkCreationGUI.php",
+        "line": 170,
+        "code": "$lng->txt(\"cancel\")",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 3724,
+        "file": "components\/ILIAS\/BookingManager\/Objects\/class.ilBookBulkCreationGUI.php",
+        "line": 175,
+        "code": "$lng->txt(\"book_bulk_confirmation\")",
+        "has_variable": false,
+        "variable": "book_bulk_confirmation"
+    },
+    {
+        "id": 3726,
+        "file": "components\/ILIAS\/BookingManager\/Objects\/class.ilBookBulkCreationGUI.php",
+        "line": 203,
+        "code": "$lng->txt(\"msg_obj_modified\")",
+        "has_variable": false,
+        "variable": "msg_obj_modified"
+    },
+    {
+        "id": 3728,
+        "file": "components\/ILIAS\/BookingManager\/Objects\/class.ilBookingBulkCreationTableGUI.php",
+        "line": 47,
+        "code": "$lng->txt(\"book_booking_objects\")",
+        "has_variable": false,
+        "variable": "book_booking_objects"
+    },
+    {
+        "id": 3730,
+        "file": "components\/ILIAS\/BookingManager\/Objects\/class.ilBookingBulkCreationTableGUI.php",
+        "line": 50,
+        "code": "$this->lng->txt(\"title\")",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 3732,
+        "file": "components\/ILIAS\/BookingManager\/Objects\/class.ilBookingBulkCreationTableGUI.php",
+        "line": 51,
+        "code": "$this->lng->txt(\"description\")",
+        "has_variable": false,
+        "variable": "description"
+    },
+    {
+        "id": 3734,
+        "file": "components\/ILIAS\/BookingManager\/Objects\/class.ilBookingBulkCreationTableGUI.php",
+        "line": 52,
+        "code": "$this->lng->txt(\"booking_nr_of_items\")",
+        "has_variable": false,
+        "variable": "booking_nr_of_items"
+    },
+    {
+        "id": 3736,
+        "file": "components\/ILIAS\/BookingManager\/Objects\/class.ilBookingObjectGUI.php",
+        "line": 234,
+        "code": "$this->lng->txt('book_add_object')",
+        "has_variable": false,
+        "variable": "book_add_object"
+    },
+    {
+        "id": 3738,
+        "file": "components\/ILIAS\/BookingManager\/Objects\/class.ilBookingObjectGUI.php",
+        "line": 247,
+        "code": "$this->lng->txt('book_table')",
+        "has_variable": false,
+        "variable": "book_table"
+    },
+    {
+        "id": 3740,
+        "file": "components\/ILIAS\/BookingManager\/Objects\/class.ilBookingObjectGUI.php",
+        "line": 248,
+        "code": "$this->lng->txt('book_week')",
+        "has_variable": false,
+        "variable": "book_week"
+    },
+    {
+        "id": 3742,
+        "file": "components\/ILIAS\/BookingManager\/Objects\/class.ilBookingObjectGUI.php",
+        "line": 250,
+        "code": "$this->lng->txt('book_view')",
+        "has_variable": false,
+        "variable": "book_view"
+    },
+    {
+        "id": 3744,
+        "file": "components\/ILIAS\/BookingManager\/Objects\/class.ilBookingObjectGUI.php",
+        "line": 339,
+        "code": "$this->lng->txt('book_back_to_list')",
+        "has_variable": false,
+        "variable": "book_back_to_list"
+    },
+    {
+        "id": 3746,
+        "file": "components\/ILIAS\/BookingManager\/Objects\/class.ilBookingObjectGUI.php",
+        "line": 354,
+        "code": "$this->lng->txt('book_back_to_list')",
+        "has_variable": false,
+        "variable": "book_back_to_list"
+    },
+    {
+        "id": 3748,
+        "file": "components\/ILIAS\/BookingManager\/Objects\/class.ilBookingObjectGUI.php",
+        "line": 371,
+        "code": "$this->lng->txt('title')",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 3750,
+        "file": "components\/ILIAS\/BookingManager\/Objects\/class.ilBookingObjectGUI.php",
+        "line": 377,
+        "code": "$this->lng->txt('description')",
+        "has_variable": false,
+        "variable": "description"
+    },
+    {
+        "id": 3752,
+        "file": "components\/ILIAS\/BookingManager\/Objects\/class.ilBookingObjectGUI.php",
+        "line": 383,
+        "code": "$this->lng->txt('book_additional_info_file')",
+        "has_variable": false,
+        "variable": "book_additional_info_file"
+    },
+    {
+        "id": 3754,
+        "file": "components\/ILIAS\/BookingManager\/Objects\/class.ilBookingObjectGUI.php",
+        "line": 387,
+        "code": "$this->lng->txt('booking_nr_of_items')",
+        "has_variable": false,
+        "variable": "booking_nr_of_items"
+    },
+    {
+        "id": 3756,
+        "file": "components\/ILIAS\/BookingManager\/Objects\/class.ilBookingObjectGUI.php",
+        "line": 391,
+        "code": "$this->lng->txt('book_booking_objects')",
+        "has_variable": false,
+        "variable": "book_booking_objects"
+    },
+    {
+        "id": 3758,
+        "file": "components\/ILIAS\/BookingManager\/Objects\/class.ilBookingObjectGUI.php",
+        "line": 400,
+        "code": "$this->lng->txt('book_schedule')",
+        "has_variable": false,
+        "variable": "book_schedule"
+    },
+    {
+        "id": 3760,
+        "file": "components\/ILIAS\/BookingManager\/Objects\/class.ilBookingObjectGUI.php",
+        "line": 407,
+        "code": "$this->lng->txt('book_post_booking_information')",
+        "has_variable": false,
+        "variable": "book_post_booking_information"
+    },
+    {
+        "id": 3762,
+        "file": "components\/ILIAS\/BookingManager\/Objects\/class.ilBookingObjectGUI.php",
+        "line": 410,
+        "code": "$this->lng->txt('book_post_booking_text')",
+        "has_variable": false,
+        "variable": "book_post_booking_text"
+    },
+    {
+        "id": 3764,
+        "file": "components\/ILIAS\/BookingManager\/Objects\/class.ilBookingObjectGUI.php",
+        "line": 413,
+        "code": "$this->lng->txt('book_post_booking_text_info')",
+        "has_variable": false,
+        "variable": "book_post_booking_text_info"
+    },
+    {
+        "id": 3766,
+        "file": "components\/ILIAS\/BookingManager\/Objects\/class.ilBookingObjectGUI.php",
+        "line": 416,
+        "code": "$this->lng->txt('book_post_booking_file')",
+        "has_variable": false,
+        "variable": "book_post_booking_file"
+    },
+    {
+        "id": 3768,
+        "file": "components\/ILIAS\/BookingManager\/Objects\/class.ilBookingObjectGUI.php",
+        "line": 432,
+        "code": "$this->lng->txt('book_edit_object')",
+        "has_variable": false,
+        "variable": "book_edit_object"
+    },
+    {
+        "id": 3770,
+        "file": "components\/ILIAS\/BookingManager\/Objects\/class.ilBookingObjectGUI.php",
+        "line": 448,
+        "code": "$this->lng->txt('save')",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 3772,
+        "file": "components\/ILIAS\/BookingManager\/Objects\/class.ilBookingObjectGUI.php",
+        "line": 450,
+        "code": "$this->lng->txt('book_add_object')",
+        "has_variable": false,
+        "variable": "book_add_object"
+    },
+    {
+        "id": 3774,
+        "file": "components\/ILIAS\/BookingManager\/Objects\/class.ilBookingObjectGUI.php",
+        "line": 451,
+        "code": "$this->lng->txt('save')",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 3776,
+        "file": "components\/ILIAS\/BookingManager\/Objects\/class.ilBookingObjectGUI.php",
+        "line": 452,
+        "code": "$this->lng->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 3778,
+        "file": "components\/ILIAS\/BookingManager\/Objects\/class.ilBookingObjectGUI.php",
+        "line": 521,
+        "code": "$this->lng->txt($create ? 'book_object_added' : 'book_object_updated')",
+        "has_variable": true,
+        "variable": "_"
+    },
+    {
+        "id": 3780,
+        "file": "components\/ILIAS\/BookingManager\/Objects\/class.ilBookingObjectGUI.php",
+        "line": 538,
+        "code": "$this->lng->txt('book_back_to_list')",
+        "has_variable": false,
+        "variable": "book_back_to_list"
+    },
+    {
+        "id": 3782,
+        "file": "components\/ILIAS\/BookingManager\/Objects\/class.ilBookingObjectGUI.php",
+        "line": 542,
+        "code": "$this->lng->txt('book_confirm_delete')",
+        "has_variable": false,
+        "variable": "book_confirm_delete"
+    },
+    {
+        "id": 3784,
+        "file": "components\/ILIAS\/BookingManager\/Objects\/class.ilBookingObjectGUI.php",
+        "line": 546,
+        "code": "$this->lng->txt('delete')",
+        "has_variable": false,
+        "variable": "delete"
+    },
+    {
+        "id": 3786,
+        "file": "components\/ILIAS\/BookingManager\/Objects\/class.ilBookingObjectGUI.php",
+        "line": 547,
+        "code": "$this->lng->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 3788,
+        "file": "components\/ILIAS\/BookingManager\/Objects\/class.ilBookingObjectGUI.php",
+        "line": 562,
+        "code": "$this->lng->txt('book_object_deleted')",
+        "has_variable": false,
+        "variable": "book_object_deleted"
+    },
+    {
+        "id": 3790,
+        "file": "components\/ILIAS\/BookingManager\/Participants\/class.ilBookingAssignObjectsTableGUI.php",
+        "line": 80,
+        "code": "$this->lng->txt(\"book_assign_object\")",
+        "has_variable": false,
+        "variable": "book_assign_object"
+    },
+    {
+        "id": 3792,
+        "file": "components\/ILIAS\/BookingManager\/Participants\/class.ilBookingAssignObjectsTableGUI.php",
+        "line": 82,
+        "code": "$this->lng->txt(\"title\")",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 3794,
+        "file": "components\/ILIAS\/BookingManager\/Participants\/class.ilBookingAssignObjectsTableGUI.php",
+        "line": 83,
+        "code": "$this->lng->txt(\"description\")",
+        "has_variable": false,
+        "variable": "description"
+    },
+    {
+        "id": 3796,
+        "file": "components\/ILIAS\/BookingManager\/Participants\/class.ilBookingAssignObjectsTableGUI.php",
+        "line": 85,
+        "code": "$this->lng->txt(\"available\")",
+        "has_variable": false,
+        "variable": "available"
+    },
+    {
+        "id": 3798,
+        "file": "components\/ILIAS\/BookingManager\/Participants\/class.ilBookingAssignObjectsTableGUI.php",
+        "line": 87,
+        "code": "$this->lng->txt(\"action\")",
+        "has_variable": false,
+        "variable": "action"
+    },
+    {
+        "id": 3800,
+        "file": "components\/ILIAS\/BookingManager\/Participants\/class.ilBookingAssignObjectsTableGUI.php",
+        "line": 134,
+        "code": "$this->lng->txt(\"book_assign\")",
+        "has_variable": false,
+        "variable": "book_assign"
+    },
+    {
+        "id": 3802,
+        "file": "components\/ILIAS\/BookingManager\/Participants\/class.ilBookingParticipantGUI.php",
+        "line": 93,
+        "code": "$this->lng->txt('book_add_participant')",
+        "has_variable": false,
+        "variable": "book_add_participant"
+    },
+    {
+        "id": 3804,
+        "file": "components\/ILIAS\/BookingManager\/Participants\/class.ilBookingParticipantGUI.php",
+        "line": 124,
+        "code": "$this->lng->txt('user')",
+        "has_variable": false,
+        "variable": "user"
+    },
+    {
+        "id": 3806,
+        "file": "components\/ILIAS\/BookingManager\/Participants\/class.ilBookingParticipantGUI.php",
+        "line": 125,
+        "code": "$this->lng->txt('add')",
+        "has_variable": false,
+        "variable": "add"
+    },
+    {
+        "id": 3808,
+        "file": "components\/ILIAS\/BookingManager\/Participants\/class.ilBookingParticipantGUI.php",
+        "line": 143,
+        "code": "$this->lng->txt('msg_no_search_string')",
+        "has_variable": false,
+        "variable": "msg_no_search_string"
+    },
+    {
+        "id": 3810,
+        "file": "components\/ILIAS\/BookingManager\/Participants\/class.ilBookingParticipantGUI.php",
+        "line": 156,
+        "code": "$this->lng->txt('user_not_known')",
+        "has_variable": false,
+        "variable": "user_not_known"
+    },
+    {
+        "id": 3812,
+        "file": "components\/ILIAS\/BookingManager\/Participants\/class.ilBookingParticipantGUI.php",
+        "line": 179,
+        "code": "$this->lng->txt('book_participant_assigned')",
+        "has_variable": false,
+        "variable": "book_participant_assigned"
+    },
+    {
+        "id": 3814,
+        "file": "components\/ILIAS\/BookingManager\/Participants\/class.ilBookingParticipantGUI.php",
+        "line": 187,
+        "code": "$this->lng->txt('book_participant_already_assigned')",
+        "has_variable": false,
+        "variable": "book_participant_already_assigned"
+    },
+    {
+        "id": 3816,
+        "file": "components\/ILIAS\/BookingManager\/Participants\/class.ilBookingParticipantGUI.php",
+        "line": 207,
+        "code": "$this->lng->txt('book_back_to_list')",
+        "has_variable": false,
+        "variable": "book_back_to_list"
+    },
+    {
+        "id": 3818,
+        "file": "components\/ILIAS\/BookingManager\/Preferences\/class.ilBookingPreferencesGUI.php",
+        "line": 100,
+        "code": "$this->lng->txt(\"book_type_warning\")",
+        "has_variable": false,
+        "variable": "book_type_warning"
+    },
+    {
+        "id": 3820,
+        "file": "components\/ILIAS\/BookingManager\/Preferences\/class.ilBookingPreferencesGUI.php",
+        "line": 127,
+        "code": "$lng->txt(\"book_preferences\")",
+        "has_variable": false,
+        "variable": "book_preferences"
+    },
+    {
+        "id": 3822,
+        "file": "components\/ILIAS\/BookingManager\/Preferences\/class.ilBookingPreferencesGUI.php",
+        "line": 161,
+        "code": "$lng->txt(\"book_too_many_preferences\")",
+        "has_variable": false,
+        "variable": "book_too_many_preferences"
+    },
+    {
+        "id": 3824,
+        "file": "components\/ILIAS\/BookingManager\/Preferences\/class.ilBookingPreferencesGUI.php",
+        "line": 167,
+        "code": "$lng->txt(\"book_not_enough_preferences\")",
+        "has_variable": false,
+        "variable": "book_not_enough_preferences"
+    },
+    {
+        "id": 3826,
+        "file": "components\/ILIAS\/BookingManager\/Preferences\/class.ilBookingPreferencesGUI.php",
+        "line": 183,
+        "code": "$lng->txt(\"book_preferences_saved\")",
+        "has_variable": false,
+        "variable": "book_preferences_saved"
+    },
+    {
+        "id": 3828,
+        "file": "components\/ILIAS\/BookingManager\/Preferences\/class.ilBookingPreferencesGUI.php",
+        "line": 194,
+        "code": "$lng->txt(\"book_preference_info\")",
+        "has_variable": false,
+        "variable": "book_preference_info"
+    },
+    {
+        "id": 3830,
+        "file": "components\/ILIAS\/BookingManager\/Preferences\/class.ilBookingPreferencesGUI.php",
+        "line": 215,
+        "code": "$lng->txt(\"book_your_preferences\")",
+        "has_variable": false,
+        "variable": "book_your_preferences"
+    },
+    {
+        "id": 3832,
+        "file": "components\/ILIAS\/BookingManager\/Preferences\/class.ilBookingPreferencesGUI.php",
+        "line": 220,
+        "code": "$this->lng->txt(\"book_deleted_object\")",
+        "has_variable": false,
+        "variable": "book_deleted_object"
+    },
+    {
+        "id": 3834,
+        "file": "components\/ILIAS\/BookingManager\/Preferences\/class.ilBookingPreferencesGUI.php",
+        "line": 226,
+        "code": "$lng->txt(\"book_no_preferences_for_you\")",
+        "has_variable": false,
+        "variable": "book_no_preferences_for_you"
+    },
+    {
+        "id": 3836,
+        "file": "components\/ILIAS\/BookingManager\/Preferences\/class.ilBookingPreferencesGUI.php",
+        "line": 234,
+        "code": "$lng->txt(\"book_your_bookings\")",
+        "has_variable": false,
+        "variable": "book_your_bookings"
+    },
+    {
+        "id": 3838,
+        "file": "components\/ILIAS\/BookingManager\/Preferences\/class.ilBookingPreferencesGUI.php",
+        "line": 246,
+        "code": "$lng->txt(\"book_post_booking_information\")",
+        "has_variable": false,
+        "variable": "book_post_booking_information"
+    },
+    {
+        "id": 3840,
+        "file": "components\/ILIAS\/BookingManager\/Preferences\/class.ilBookingPreferencesGUI.php",
+        "line": 254,
+        "code": "$lng->txt(\"book_no_bookings_for_you\")",
+        "has_variable": false,
+        "variable": "book_no_bookings_for_you"
+    },
+    {
+        "id": 3842,
+        "file": "components\/ILIAS\/BookingManager\/Preferences\/class.ilBookingPreferencesGUI.php",
+        "line": 259,
+        "code": "$lng->txt(\"book_all_users\")",
+        "has_variable": false,
+        "variable": "book_all_users"
+    },
+    {
+        "id": 3844,
+        "file": "components\/ILIAS\/BookingManager\/Preferences\/class.ilBookingPreferencesGUI.php",
+        "line": 262,
+        "code": "$this->lng->txt(\"book_deleted_object\")",
+        "has_variable": false,
+        "variable": "book_deleted_object"
+    },
+    {
+        "id": 3846,
+        "file": "components\/ILIAS\/BookingManager\/Preferences\/class.ilBookingPreferencesGUI.php",
+        "line": 263,
+        "code": "$this->lng->txt(\"book_deleted_booking\")",
+        "has_variable": false,
+        "variable": "book_deleted_booking"
+    },
+    {
+        "id": 3848,
+        "file": "components\/ILIAS\/BookingManager\/Preferences\/class.ilBookingPreferencesGUI.php",
+        "line": 275,
+        "code": "$lng->txt(\"book_log\")",
+        "has_variable": false,
+        "variable": "book_log"
+    },
+    {
+        "id": 3850,
+        "file": "components\/ILIAS\/BookingManager\/Preferences\/class.ilBookingPreferencesGUI.php",
+        "line": 277,
+        "code": "$lng->txt(\"book_preferences\")",
+        "has_variable": false,
+        "variable": "book_preferences"
+    },
+    {
+        "id": 3852,
+        "file": "components\/ILIAS\/BookingManager\/Reservations\/class.ilBookingReservationsGUI.php",
+        "line": 220,
+        "code": "$this->lng->txt('select_one')",
+        "has_variable": false,
+        "variable": "select_one"
+    },
+    {
+        "id": 3854,
+        "file": "components\/ILIAS\/BookingManager\/Reservations\/class.ilBookingReservationsGUI.php",
+        "line": 228,
+        "code": "$this->lng->txt('settings_saved')",
+        "has_variable": false,
+        "variable": "settings_saved"
+    },
+    {
+        "id": 3856,
+        "file": "components\/ILIAS\/BookingManager\/Reservations\/class.ilBookingReservationsGUI.php",
+        "line": 248,
+        "code": "$this->lng->txt('book_rerun_assignments')",
+        "has_variable": false,
+        "variable": "book_rerun_assignments"
+    },
+    {
+        "id": 3858,
+        "file": "components\/ILIAS\/BookingManager\/Reservations\/class.ilBookingReservationsGUI.php",
+        "line": 261,
+        "code": "$this->lng->txt('book_rerun_confirmation')",
+        "has_variable": false,
+        "variable": "book_rerun_confirmation"
+    },
+    {
+        "id": 3860,
+        "file": "components\/ILIAS\/BookingManager\/Reservations\/class.ilBookingReservationsGUI.php",
+        "line": 263,
+        "code": "$this->lng->txt('book_rerun_assignments')",
+        "has_variable": false,
+        "variable": "book_rerun_assignments"
+    },
+    {
+        "id": 3862,
+        "file": "components\/ILIAS\/BookingManager\/Reservations\/class.ilBookingReservationsGUI.php",
+        "line": 264,
+        "code": "$this->lng->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 3864,
+        "file": "components\/ILIAS\/BookingManager\/Reservations\/class.ilBookingReservationsTableGUI.php",
+        "line": 107,
+        "code": "$lng->txt(\"book_reservations_list\")",
+        "has_variable": false,
+        "variable": "book_reservations_list"
+    },
+    {
+        "id": 3866,
+        "file": "components\/ILIAS\/BookingManager\/Reservations\/class.ilBookingReservationsTableGUI.php",
+        "line": 110,
+        "code": "$this->lng->txt(\"title\")",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 3868,
+        "file": "components\/ILIAS\/BookingManager\/Reservations\/class.ilBookingReservationsTableGUI.php",
+        "line": 120,
+        "code": "$this->lng->txt(\"date\")",
+        "has_variable": false,
+        "variable": "date"
+    },
+    {
+        "id": 3870,
+        "file": "components\/ILIAS\/BookingManager\/Reservations\/class.ilBookingReservationsTableGUI.php",
+        "line": 122,
+        "code": "$this->lng->txt(\"wk_short\")",
+        "has_variable": false,
+        "variable": "wk_short"
+    },
+    {
+        "id": 3872,
+        "file": "components\/ILIAS\/BookingManager\/Reservations\/class.ilBookingReservationsTableGUI.php",
+        "line": 126,
+        "code": "$this->lng->txt(\"cal_weekday\")",
+        "has_variable": false,
+        "variable": "cal_weekday"
+    },
+    {
+        "id": 3874,
+        "file": "components\/ILIAS\/BookingManager\/Reservations\/class.ilBookingReservationsTableGUI.php",
+        "line": 129,
+        "code": "$this->lng->txt(\"book_schedule_slot\")",
+        "has_variable": false,
+        "variable": "book_schedule_slot"
+    },
+    {
+        "id": 3876,
+        "file": "components\/ILIAS\/BookingManager\/Reservations\/class.ilBookingReservationsTableGUI.php",
+        "line": 130,
+        "code": "$this->lng->txt(\"book_no_of_objects\")",
+        "has_variable": false,
+        "variable": "book_no_of_objects"
+    },
+    {
+        "id": 3878,
+        "file": "components\/ILIAS\/BookingManager\/Reservations\/class.ilBookingReservationsTableGUI.php",
+        "line": 134,
+        "code": "$this->lng->txt(\"status\")",
+        "has_variable": false,
+        "variable": "status"
+    },
+    {
+        "id": 3880,
+        "file": "components\/ILIAS\/BookingManager\/Reservations\/class.ilBookingReservationsTableGUI.php",
+        "line": 139,
+        "code": "$this->lng->txt(\"book_message\")",
+        "has_variable": false,
+        "variable": "book_message"
+    },
+    {
+        "id": 3882,
+        "file": "components\/ILIAS\/BookingManager\/Reservations\/class.ilBookingReservationsTableGUI.php",
+        "line": 165,
+        "code": "$this->lng->txt(\"book_booked_in\")",
+        "has_variable": false,
+        "variable": "book_booked_in"
+    },
+    {
+        "id": 3884,
+        "file": "components\/ILIAS\/BookingManager\/Reservations\/class.ilBookingReservationsTableGUI.php",
+        "line": 168,
+        "code": "$this->lng->txt(\"user\")",
+        "has_variable": false,
+        "variable": "user"
+    },
+    {
+        "id": 3886,
+        "file": "components\/ILIAS\/BookingManager\/Reservations\/class.ilBookingReservationsTableGUI.php",
+        "line": 177,
+        "code": "$this->lng->txt(\"actions\")",
+        "has_variable": false,
+        "variable": "actions"
+    },
+    {
+        "id": 3888,
+        "file": "components\/ILIAS\/BookingManager\/Reservations\/class.ilBookingReservationsTableGUI.php",
+        "line": 189,
+        "code": "$lng->txt('book_set_cancel')",
+        "has_variable": false,
+        "variable": "book_set_cancel"
+    },
+    {
+        "id": 3890,
+        "file": "components\/ILIAS\/BookingManager\/Reservations\/class.ilBookingReservationsTableGUI.php",
+        "line": 192,
+        "code": "$lng->txt('delete')",
+        "has_variable": false,
+        "variable": "delete"
+    },
+    {
+        "id": 3892,
+        "file": "components\/ILIAS\/BookingManager\/Reservations\/class.ilBookingReservationsTableGUI.php",
+        "line": 210,
+        "code": "$this->lng->txt('wk_short')",
+        "has_variable": false,
+        "variable": "wk_short"
+    },
+    {
+        "id": 3894,
+        "file": "components\/ILIAS\/BookingManager\/Reservations\/class.ilBookingReservationsTableGUI.php",
+        "line": 211,
+        "code": "$this->lng->txt('cal_weekday')",
+        "has_variable": false,
+        "variable": "cal_weekday"
+    },
+    {
+        "id": 3896,
+        "file": "components\/ILIAS\/BookingManager\/Reservations\/class.ilBookingReservationsTableGUI.php",
+        "line": 269,
+        "code": "$this->lng->txt('book_all')",
+        "has_variable": false,
+        "variable": "book_all"
+    },
+    {
+        "id": 3898,
+        "file": "components\/ILIAS\/BookingManager\/Reservations\/class.ilBookingReservationsTableGUI.php",
+        "line": 275,
+        "code": "$this->lng->txt(\"object\")",
+        "has_variable": false,
+        "variable": "object"
+    },
+    {
+        "id": 3900,
+        "file": "components\/ILIAS\/BookingManager\/Reservations\/class.ilBookingReservationsTableGUI.php",
+        "line": 275,
+        "code": "$this->lng->txt(\"title\")",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 3902,
+        "file": "components\/ILIAS\/BookingManager\/Reservations\/class.ilBookingReservationsTableGUI.php",
+        "line": 275,
+        "code": "$this->lng->txt(\"description\")",
+        "has_variable": false,
+        "variable": "description"
+    },
+    {
+        "id": 3904,
+        "file": "components\/ILIAS\/BookingManager\/Reservations\/class.ilBookingReservationsTableGUI.php",
+        "line": 310,
+        "code": "$this->lng->txt('book_fromto')",
+        "has_variable": false,
+        "variable": "book_fromto"
+    },
+    {
+        "id": 3906,
+        "file": "components\/ILIAS\/BookingManager\/Reservations\/class.ilBookingReservationsTableGUI.php",
+        "line": 319,
+        "code": "$this->lng->txt('book_all')",
+        "has_variable": false,
+        "variable": "book_all"
+    },
+    {
+        "id": 3908,
+        "file": "components\/ILIAS\/BookingManager\/Reservations\/class.ilBookingReservationsTableGUI.php",
+        "line": 329,
+        "code": "$this->lng->txt('book_all_day')",
+        "has_variable": false,
+        "variable": "book_all_day"
+    },
+    {
+        "id": 3910,
+        "file": "components\/ILIAS\/BookingManager\/Reservations\/class.ilBookingReservationsTableGUI.php",
+        "line": 345,
+        "code": "$this->lng->txt(\"book_filter_past_reservations\")",
+        "has_variable": false,
+        "variable": "book_filter_past_reservations"
+    },
+    {
+        "id": 3912,
+        "file": "components\/ILIAS\/BookingManager\/Reservations\/class.ilBookingReservationsTableGUI.php",
+        "line": 363,
+        "code": "$this->lng->txt('book_all')",
+        "has_variable": false,
+        "variable": "book_all"
+    },
+    {
+        "id": 3914,
+        "file": "components\/ILIAS\/BookingManager\/Reservations\/class.ilBookingReservationsTableGUI.php",
+        "line": 369,
+        "code": "$this->lng->txt('book_reservation_status_' . $loop)",
+        "has_variable": true,
+        "variable": "'book_reservation_status_' . $loop"
+    },
+    {
+        "id": 3916,
+        "file": "components\/ILIAS\/BookingManager\/Reservations\/class.ilBookingReservationsTableGUI.php",
+        "line": 371,
+        "code": "$this->lng->txt('book_not')",
+        "has_variable": false,
+        "variable": "book_not"
+    },
+    {
+        "id": 3918,
+        "file": "components\/ILIAS\/BookingManager\/Reservations\/class.ilBookingReservationsTableGUI.php",
+        "line": 371,
+        "code": "$this->lng->txt('book_reservation_status_' . -$loop)",
+        "has_variable": true,
+        "variable": "'book_reservation_status_' . -$loop"
+    },
+    {
+        "id": 3920,
+        "file": "components\/ILIAS\/BookingManager\/Reservations\/class.ilBookingReservationsTableGUI.php",
+        "line": 380,
+        "code": "$this->lng->txt('book_all')",
+        "has_variable": false,
+        "variable": "book_all"
+    },
+    {
+        "id": 3922,
+        "file": "components\/ILIAS\/BookingManager\/Reservations\/class.ilBookingReservationsTableGUI.php",
+        "line": 652,
+        "code": "$this->lng->txt('book_all_day')",
+        "has_variable": false,
+        "variable": "book_all_day"
+    },
+    {
+        "id": 3924,
+        "file": "components\/ILIAS\/BookingManager\/Reservations\/class.ilBookingReservationsTableGUI.php",
+        "line": 660,
+        "code": "$lng->txt('book_reservation_status_' . $a_set['status'])",
+        "has_variable": true,
+        "variable": "'book_reservation_status_' . $a_set['status']"
+    },
+    {
+        "id": 3926,
+        "file": "components\/ILIAS\/BookingManager\/Reservations\/class.ilBookingReservationsTableGUI.php",
+        "line": 709,
+        "code": "$lng->txt('book_post_booking_information')",
+        "has_variable": false,
+        "variable": "book_post_booking_information"
+    },
+    {
+        "id": 3928,
+        "file": "components\/ILIAS\/BookingManager\/Reservations\/class.ilBookingReservationsTableGUI.php",
+        "line": 720,
+        "code": "$lng->txt('book_set_cancel')",
+        "has_variable": false,
+        "variable": "book_set_cancel"
+    },
+    {
+        "id": 3930,
+        "file": "components\/ILIAS\/BookingManager\/Reservations\/class.ilBookingReservationsTableGUI.php",
+        "line": 729,
+        "code": "$lng->txt('delete')",
+        "has_variable": false,
+        "variable": "delete"
+    },
+    {
+        "id": 3932,
+        "file": "components\/ILIAS\/BookingManager\/Reservations\/class.ilBookingReservationsTableGUI.php",
+        "line": 738,
+        "code": "$this->lng->txt(\"book_message\")",
+        "has_variable": false,
+        "variable": "book_message"
+    },
+    {
+        "id": 3934,
+        "file": "components\/ILIAS\/BookingManager\/Reservations\/class.ilBookingReservationsTableGUI.php",
+        "line": 739,
+        "code": "$this->lng->txt(\"close\")",
+        "has_variable": false,
+        "variable": "close"
+    },
+    {
+        "id": 3936,
+        "file": "components\/ILIAS\/BookingManager\/Reservations\/class.ilBookingReservationsTableGUI.php",
+        "line": 743,
+        "code": "$this->lng->txt(\"book_show_message\")",
+        "has_variable": false,
+        "variable": "book_show_message"
+    },
+    {
+        "id": 3938,
+        "file": "components\/ILIAS\/BookingManager\/Reservations\/class.ilBookingReservationsTableGUI.php",
+        "line": 773,
+        "code": "$this->lng->txt(\"user\")",
+        "has_variable": false,
+        "variable": "user"
+    },
+    {
+        "id": 3940,
+        "file": "components\/ILIAS\/BookingManager\/Reservations\/class.ilBookingReservationsTableGUI.php",
+        "line": 774,
+        "code": "$this->lng->txt(\"login\")",
+        "has_variable": false,
+        "variable": "login"
+    },
+    {
+        "id": 3942,
+        "file": "components\/ILIAS\/BookingManager\/Reservations\/class.ilBookingReservationsTableGUI.php",
+        "line": 790,
+        "code": "$this->lng->txt(\"title\")",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 3944,
+        "file": "components\/ILIAS\/BookingManager\/Reservations\/class.ilBookingReservationsTableGUI.php",
+        "line": 793,
+        "code": "$this->lng->txt(\"date\")",
+        "has_variable": false,
+        "variable": "date"
+    },
+    {
+        "id": 3946,
+        "file": "components\/ILIAS\/BookingManager\/Reservations\/class.ilBookingReservationsTableGUI.php",
+        "line": 794,
+        "code": "$this->lng->txt(\"wk_short\")",
+        "has_variable": false,
+        "variable": "wk_short"
+    },
+    {
+        "id": 3948,
+        "file": "components\/ILIAS\/BookingManager\/Reservations\/class.ilBookingReservationsTableGUI.php",
+        "line": 795,
+        "code": "$this->lng->txt(\"cal_weekday\")",
+        "has_variable": false,
+        "variable": "cal_weekday"
+    },
+    {
+        "id": 3950,
+        "file": "components\/ILIAS\/BookingManager\/Reservations\/class.ilBookingReservationsTableGUI.php",
+        "line": 796,
+        "code": "$this->lng->txt(\"book_schedule_slot\")",
+        "has_variable": false,
+        "variable": "book_schedule_slot"
+    },
+    {
+        "id": 3952,
+        "file": "components\/ILIAS\/BookingManager\/Reservations\/class.ilBookingReservationsTableGUI.php",
+        "line": 797,
+        "code": "$this->lng->txt(\"book_no_of_objects\")",
+        "has_variable": false,
+        "variable": "book_no_of_objects"
+    },
+    {
+        "id": 3954,
+        "file": "components\/ILIAS\/BookingManager\/Reservations\/class.ilBookingReservationsTableGUI.php",
+        "line": 799,
+        "code": "$this->lng->txt(\"status\")",
+        "has_variable": false,
+        "variable": "status"
+    },
+    {
+        "id": 3956,
+        "file": "components\/ILIAS\/BookingManager\/Reservations\/class.ilBookingReservationsTableGUI.php",
+        "line": 802,
+        "code": "$this->lng->txt(\"book_message\")",
+        "has_variable": false,
+        "variable": "book_message"
+    },
+    {
+        "id": 3958,
+        "file": "components\/ILIAS\/BookingManager\/Reservations\/class.ilBookingReservationsTableGUI.php",
+        "line": 831,
+        "code": "$this->lng->txt('book_reservation_status_' . $a_set['status'])",
+        "has_variable": true,
+        "variable": "'book_reservation_status_' . $a_set['status']"
+    },
+    {
+        "id": 3960,
+        "file": "components\/ILIAS\/BookingManager\/Reservations\/class.ilBookingReservationsTableGUI.php",
+        "line": 859,
+        "code": "$this->lng->txt(\"title\")",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 3962,
+        "file": "components\/ILIAS\/BookingManager\/Reservations\/class.ilBookingReservationsTableGUI.php",
+        "line": 861,
+        "code": "$this->lng->txt(\"date\")",
+        "has_variable": false,
+        "variable": "date"
+    },
+    {
+        "id": 3964,
+        "file": "components\/ILIAS\/BookingManager\/Reservations\/class.ilBookingReservationsTableGUI.php",
+        "line": 862,
+        "code": "$this->lng->txt(\"wk_short\")",
+        "has_variable": false,
+        "variable": "wk_short"
+    },
+    {
+        "id": 3966,
+        "file": "components\/ILIAS\/BookingManager\/Reservations\/class.ilBookingReservationsTableGUI.php",
+        "line": 863,
+        "code": "$this->lng->txt(\"cal_weekday\")",
+        "has_variable": false,
+        "variable": "cal_weekday"
+    },
+    {
+        "id": 3968,
+        "file": "components\/ILIAS\/BookingManager\/Reservations\/class.ilBookingReservationsTableGUI.php",
+        "line": 864,
+        "code": "$this->lng->txt(\"book_schedule_slot\")",
+        "has_variable": false,
+        "variable": "book_schedule_slot"
+    },
+    {
+        "id": 3970,
+        "file": "components\/ILIAS\/BookingManager\/Reservations\/class.ilBookingReservationsTableGUI.php",
+        "line": 865,
+        "code": "$this->lng->txt(\"book_no_of_objects\")",
+        "has_variable": false,
+        "variable": "book_no_of_objects"
+    },
+    {
+        "id": 3972,
+        "file": "components\/ILIAS\/BookingManager\/Reservations\/class.ilBookingReservationsTableGUI.php",
+        "line": 867,
+        "code": "$this->lng->txt(\"status\")",
+        "has_variable": false,
+        "variable": "status"
+    },
+    {
+        "id": 3974,
+        "file": "components\/ILIAS\/BookingManager\/Reservations\/class.ilBookingReservationsTableGUI.php",
+        "line": 870,
+        "code": "$this->lng->txt(\"book_message\")",
+        "has_variable": false,
+        "variable": "book_message"
+    },
+    {
+        "id": 3976,
+        "file": "components\/ILIAS\/BookingManager\/Reservations\/class.ilBookingReservationsTableGUI.php",
+        "line": 897,
+        "code": "$this->lng->txt('book_reservation_status_' . $a_set['status'])",
+        "has_variable": true,
+        "variable": "'book_reservation_status_' . $a_set['status']"
+    },
+    {
+        "id": 3978,
+        "file": "components\/ILIAS\/BookingManager\/Schedule\/class.ilBookingScheduleGUI.php",
+        "line": 113,
+        "code": "$this->lng->txt('book_add_schedule')",
+        "has_variable": false,
+        "variable": "book_add_schedule"
+    },
+    {
+        "id": 3980,
+        "file": "components\/ILIAS\/BookingManager\/Schedule\/class.ilBookingScheduleGUI.php",
+        "line": 129,
+        "code": "$this->lng->txt('book_back_to_list')",
+        "has_variable": false,
+        "variable": "book_back_to_list"
+    },
+    {
+        "id": 3982,
+        "file": "components\/ILIAS\/BookingManager\/Schedule\/class.ilBookingScheduleGUI.php",
+        "line": 139,
+        "code": "$this->lng->txt('book_back_to_list')",
+        "has_variable": false,
+        "variable": "book_back_to_list"
+    },
+    {
+        "id": 3984,
+        "file": "components\/ILIAS\/BookingManager\/Schedule\/class.ilBookingScheduleGUI.php",
+        "line": 152,
+        "code": "$this->lng->txt('title')",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 3986,
+        "file": "components\/ILIAS\/BookingManager\/Schedule\/class.ilBookingScheduleGUI.php",
+        "line": 161,
+        "code": "$this->lng->txt('schedule_type')",
+        "has_variable": false,
+        "variable": "schedule_type"
+    },
+    {
+        "id": 3988,
+        "file": "components\/ILIAS\/BookingManager\/Schedule\/class.ilBookingScheduleGUI.php",
+        "line": 165,
+        "code": "$this->lng->txt('book_schedule_days')",
+        "has_variable": false,
+        "variable": "book_schedule_days"
+    },
+    {
+        "id": 3990,
+        "file": "components\/ILIAS\/BookingManager\/Schedule\/class.ilBookingScheduleGUI.php",
+        "line": 167,
+        "code": "$this->lng->txt('book_schedule_days_info')",
+        "has_variable": false,
+        "variable": "book_schedule_days_info"
+    },
+    {
+        "id": 3992,
+        "file": "components\/ILIAS\/BookingManager\/Schedule\/class.ilBookingScheduleGUI.php",
+        "line": 172,
+        "code": "$this->lng->txt('book_schedule_all_day')",
+        "has_variable": false,
+        "variable": "book_schedule_all_day"
+    },
+    {
+        "id": 3994,
+        "file": "components\/ILIAS\/BookingManager\/Schedule\/class.ilBookingScheduleGUI.php",
+        "line": 180,
+        "code": "$this->lng->txt('book_deadline_options')",
+        "has_variable": false,
+        "variable": "book_deadline_options"
+    },
+    {
+        "id": 3996,
+        "file": "components\/ILIAS\/BookingManager\/Schedule\/class.ilBookingScheduleGUI.php",
+        "line": 184,
+        "code": "$this->lng->txt('book_deadline_hours')",
+        "has_variable": false,
+        "variable": "book_deadline_hours"
+    },
+    {
+        "id": 3998,
+        "file": "components\/ILIAS\/BookingManager\/Schedule\/class.ilBookingScheduleGUI.php",
+        "line": 187,
+        "code": "$this->lng->txt('book_deadline')",
+        "has_variable": false,
+        "variable": "book_deadline"
+    },
+    {
+        "id": 4000,
+        "file": "components\/ILIAS\/BookingManager\/Schedule\/class.ilBookingScheduleGUI.php",
+        "line": 188,
+        "code": "$this->lng->txt('book_deadline_info')",
+        "has_variable": false,
+        "variable": "book_deadline_info"
+    },
+    {
+        "id": 4002,
+        "file": "components\/ILIAS\/BookingManager\/Schedule\/class.ilBookingScheduleGUI.php",
+        "line": 189,
+        "code": "$this->lng->txt('book_hours')",
+        "has_variable": false,
+        "variable": "book_hours"
+    },
+    {
+        "id": 4004,
+        "file": "components\/ILIAS\/BookingManager\/Schedule\/class.ilBookingScheduleGUI.php",
+        "line": 196,
+        "code": "$this->lng->txt('book_deadline_slot_start')",
+        "has_variable": false,
+        "variable": "book_deadline_slot_start"
+    },
+    {
+        "id": 4006,
+        "file": "components\/ILIAS\/BookingManager\/Schedule\/class.ilBookingScheduleGUI.php",
+        "line": 199,
+        "code": "$this->lng->txt('book_deadline_slot_end')",
+        "has_variable": false,
+        "variable": "book_deadline_slot_end"
+    },
+    {
+        "id": 4008,
+        "file": "components\/ILIAS\/BookingManager\/Schedule\/class.ilBookingScheduleGUI.php",
+        "line": 203,
+        "code": "$this->lng->txt('obj_activation_list_gui')",
+        "has_variable": false,
+        "variable": "obj_activation_list_gui"
+    },
+    {
+        "id": 4010,
+        "file": "components\/ILIAS\/BookingManager\/Schedule\/class.ilBookingScheduleGUI.php",
+        "line": 209,
+        "code": "$this->lng->txt('rep_activation_limited_start')",
+        "has_variable": false,
+        "variable": "rep_activation_limited_start"
+    },
+    {
+        "id": 4012,
+        "file": "components\/ILIAS\/BookingManager\/Schedule\/class.ilBookingScheduleGUI.php",
+        "line": 213,
+        "code": "$this->lng->txt('rep_activation_limited_end')",
+        "has_variable": false,
+        "variable": "rep_activation_limited_end"
+    },
+    {
+        "id": 4014,
+        "file": "components\/ILIAS\/BookingManager\/Schedule\/class.ilBookingScheduleGUI.php",
+        "line": 218,
+        "code": "$this->lng->txt('book_edit_schedule')",
+        "has_variable": false,
+        "variable": "book_edit_schedule"
+    },
+    {
+        "id": 4016,
+        "file": "components\/ILIAS\/BookingManager\/Schedule\/class.ilBookingScheduleGUI.php",
+        "line": 245,
+        "code": "$this->lng->txt('save')",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 4018,
+        "file": "components\/ILIAS\/BookingManager\/Schedule\/class.ilBookingScheduleGUI.php",
+        "line": 247,
+        "code": "$this->lng->txt('book_add_schedule')",
+        "has_variable": false,
+        "variable": "book_add_schedule"
+    },
+    {
+        "id": 4020,
+        "file": "components\/ILIAS\/BookingManager\/Schedule\/class.ilBookingScheduleGUI.php",
+        "line": 248,
+        "code": "$this->lng->txt('save')",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 4022,
+        "file": "components\/ILIAS\/BookingManager\/Schedule\/class.ilBookingScheduleGUI.php",
+        "line": 249,
+        "code": "$this->lng->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 4024,
+        "file": "components\/ILIAS\/BookingManager\/Schedule\/class.ilBookingScheduleGUI.php",
+        "line": 267,
+        "code": "$this->lng->txt('book_schedule_added')",
+        "has_variable": false,
+        "variable": "book_schedule_added"
+    },
+    {
+        "id": 4026,
+        "file": "components\/ILIAS\/BookingManager\/Schedule\/class.ilBookingScheduleGUI.php",
+        "line": 289,
+        "code": "$this->lng->txt('book_schedule_updated')",
+        "has_variable": false,
+        "variable": "book_schedule_updated"
+    },
+    {
+        "id": 4028,
+        "file": "components\/ILIAS\/BookingManager\/Schedule\/class.ilBookingScheduleGUI.php",
+        "line": 353,
+        "code": "$this->lng->txt('book_type_warning')",
+        "has_variable": false,
+        "variable": "book_type_warning"
+    },
+    {
+        "id": 4030,
+        "file": "components\/ILIAS\/BookingManager\/Settings\/class.SettingsGUI.php",
+        "line": 80,
+        "code": "$lng->txt(\"book_edit\")",
+        "has_variable": false,
+        "variable": "book_edit"
+    },
+    {
+        "id": 4032,
+        "file": "components\/ILIAS\/BookingManager\/Settings\/class.SettingsGUI.php",
+        "line": 98,
+        "code": "$lng->txt(\"book_schedule_type\")",
+        "has_variable": false,
+        "variable": "book_schedule_type"
+    },
+    {
+        "id": 4034,
+        "file": "components\/ILIAS\/BookingManager\/Settings\/class.SettingsGUI.php",
+        "line": 105,
+        "code": "$lng->txt(\"book_schedule_type_fixed\")",
+        "has_variable": false,
+        "variable": "book_schedule_type_fixed"
+    },
+    {
+        "id": 4036,
+        "file": "components\/ILIAS\/BookingManager\/Settings\/class.SettingsGUI.php",
+        "line": 106,
+        "code": "$lng->txt(\"book_schedule_type_fixed_info\")",
+        "has_variable": false,
+        "variable": "book_schedule_type_fixed_info"
+    },
+    {
+        "id": 4038,
+        "file": "components\/ILIAS\/BookingManager\/Settings\/class.SettingsGUI.php",
+        "line": 111,
+        "code": "$lng->txt(\"book_reservation_filter_period\")",
+        "has_variable": false,
+        "variable": "book_reservation_filter_period"
+    },
+    {
+        "id": 4040,
+        "file": "components\/ILIAS\/BookingManager\/Settings\/class.SettingsGUI.php",
+        "line": 112,
+        "code": "$lng->txt(\"days\")",
+        "has_variable": false,
+        "variable": "days"
+    },
+    {
+        "id": 4042,
+        "file": "components\/ILIAS\/BookingManager\/Settings\/class.SettingsGUI.php",
+        "line": 113,
+        "code": "$lng->txt(\"book_reservation_filter_period_info\")",
+        "has_variable": false,
+        "variable": "book_reservation_filter_period_info"
+    },
+    {
+        "id": 4044,
+        "file": "components\/ILIAS\/BookingManager\/Settings\/class.SettingsGUI.php",
+        "line": 118,
+        "code": "$lng->txt(\"book_reminder_setting\")",
+        "has_variable": false,
+        "variable": "book_reminder_setting"
+    },
+    {
+        "id": 4046,
+        "file": "components\/ILIAS\/BookingManager\/Settings\/class.SettingsGUI.php",
+        "line": 124,
+        "code": "$lng->txt(\"book_reminder_day\")",
+        "has_variable": false,
+        "variable": "book_reminder_day"
+    },
+    {
+        "id": 4048,
+        "file": "components\/ILIAS\/BookingManager\/Settings\/class.SettingsGUI.php",
+        "line": 130,
+        "code": "$lng->txt(\"book_schedule_type_none_direct\")",
+        "has_variable": false,
+        "variable": "book_schedule_type_none_direct"
+    },
+    {
+        "id": 4050,
+        "file": "components\/ILIAS\/BookingManager\/Settings\/class.SettingsGUI.php",
+        "line": 131,
+        "code": "$lng->txt(\"book_schedule_type_none_direct_info\")",
+        "has_variable": false,
+        "variable": "book_schedule_type_none_direct_info"
+    },
+    {
+        "id": 4052,
+        "file": "components\/ILIAS\/BookingManager\/Settings\/class.SettingsGUI.php",
+        "line": 136,
+        "code": "$lng->txt(\"book_overall_limit\")",
+        "has_variable": false,
+        "variable": "book_overall_limit"
+    },
+    {
+        "id": 4054,
+        "file": "components\/ILIAS\/BookingManager\/Settings\/class.SettingsGUI.php",
+        "line": 137,
+        "code": "$lng->txt(\"book_total_individual_bookings_limit\")",
+        "has_variable": false,
+        "variable": "book_total_individual_bookings_limit"
+    },
+    {
+        "id": 4056,
+        "file": "components\/ILIAS\/BookingManager\/Settings\/class.SettingsGUI.php",
+        "line": 152,
+        "code": "$lng->txt(\"book_schedule_type_none_preference\")",
+        "has_variable": false,
+        "variable": "book_schedule_type_none_preference"
+    },
+    {
+        "id": 4058,
+        "file": "components\/ILIAS\/BookingManager\/Settings\/class.SettingsGUI.php",
+        "line": 153,
+        "code": "$lng->txt(\"book_schedule_type_none_preference_info\")",
+        "has_variable": false,
+        "variable": "book_schedule_type_none_preference_info"
+    },
+    {
+        "id": 4060,
+        "file": "components\/ILIAS\/BookingManager\/Settings\/class.SettingsGUI.php",
+        "line": 159,
+        "code": "$lng->txt(\"book_nr_of_preferences\")",
+        "has_variable": false,
+        "variable": "book_nr_of_preferences"
+    },
+    {
+        "id": 4062,
+        "file": "components\/ILIAS\/BookingManager\/Settings\/class.SettingsGUI.php",
+        "line": 160,
+        "code": "$lng->txt(\"book_nr_preferences\")",
+        "has_variable": false,
+        "variable": "book_nr_preferences"
+    },
+    {
+        "id": 4064,
+        "file": "components\/ILIAS\/BookingManager\/Settings\/class.SettingsGUI.php",
+        "line": 161,
+        "code": "$lng->txt(\"book_nr_of_preferences_info\")",
+        "has_variable": false,
+        "variable": "book_nr_of_preferences_info"
+    },
+    {
+        "id": 4066,
+        "file": "components\/ILIAS\/BookingManager\/Settings\/class.SettingsGUI.php",
+        "line": 170,
+        "code": "$lng->txt(\"book_pref_deadline\")",
+        "has_variable": false,
+        "variable": "book_pref_deadline"
+    },
+    {
+        "id": 4068,
+        "file": "components\/ILIAS\/BookingManager\/Settings\/class.SettingsGUI.php",
+        "line": 171,
+        "code": "$lng->txt(\"book_pref_deadline_info\")",
+        "has_variable": false,
+        "variable": "book_pref_deadline_info"
+    },
+    {
+        "id": 4070,
+        "file": "components\/ILIAS\/BookingManager\/Settings\/class.SettingsGUI.php",
+        "line": 188,
+        "code": "$lng->txt(\"book_public_log\")",
+        "has_variable": false,
+        "variable": "book_public_log"
+    },
+    {
+        "id": 4072,
+        "file": "components\/ILIAS\/BookingManager\/Settings\/class.SettingsGUI.php",
+        "line": 189,
+        "code": "$lng->txt(\"book_public_log_info\")",
+        "has_variable": false,
+        "variable": "book_public_log_info"
+    },
+    {
+        "id": 4074,
+        "file": "components\/ILIAS\/BookingManager\/Settings\/class.SettingsGUI.php",
+        "line": 194,
+        "code": "$lng->txt(\"book_messages\")",
+        "has_variable": false,
+        "variable": "book_messages"
+    },
+    {
+        "id": 4076,
+        "file": "components\/ILIAS\/BookingManager\/Settings\/class.SettingsGUI.php",
+        "line": 195,
+        "code": "$lng->txt(\"book_messages_info\")",
+        "has_variable": false,
+        "variable": "book_messages_info"
+    },
+    {
+        "id": 4078,
+        "file": "components\/ILIAS\/BookingManager\/Settings\/class.SettingsGUI.php",
+        "line": 204,
+        "code": "$lng->txt('rep_activation_availability')",
+        "has_variable": false,
+        "variable": "rep_activation_availability"
+    },
+    {
+        "id": 4080,
+        "file": "components\/ILIAS\/BookingManager\/Settings\/class.SettingsGUI.php",
+        "line": 214,
+        "code": "$lng->txt('obj_presentation')",
+        "has_variable": false,
+        "variable": "obj_presentation"
+    },
+    {
+        "id": 4082,
+        "file": "components\/ILIAS\/BookingManager\/Settings\/class.SettingsGUI.php",
+        "line": 284,
+        "code": "$lng->txt(\"msg_obj_modified\")",
+        "has_variable": false,
+        "variable": "msg_obj_modified"
+    },
+    {
+        "id": 4084,
+        "file": "components\/ILIAS\/BookingManager\/classes\/class.ilBookCronNotification.php",
+        "line": 55,
+        "code": "$lng->txt(\"book_notification\")",
+        "has_variable": false,
+        "variable": "book_notification"
+    },
+    {
+        "id": 4086,
+        "file": "components\/ILIAS\/BookingManager\/classes\/class.ilBookCronNotification.php",
+        "line": 63,
+        "code": "$lng->txt(\"book_notification_info\")",
+        "has_variable": false,
+        "variable": "book_notification_info"
+    },
+    {
+        "id": 4088,
+        "file": "components\/ILIAS\/BookingManager\/classes\/class.ilBookCronNotification.php",
+        "line": 208,
+        "code": "$lng->txt(\"book_your_reservations\")",
+        "has_variable": false,
+        "variable": "book_your_reservations"
+    },
+    {
+        "id": 4090,
+        "file": "components\/ILIAS\/BookingManager\/classes\/class.ilBookCronNotification.php",
+        "line": 221,
+        "code": "$lng->txt(\"book_reservation_overview\")",
+        "has_variable": false,
+        "variable": "book_reservation_overview"
+    },
+    {
+        "id": 4092,
+        "file": "components\/ILIAS\/BookingManager\/classes\/class.ilBookCronNotification.php",
+        "line": 230,
+        "code": "$lng->txt(\"book_message\")",
+        "has_variable": false,
+        "variable": "book_message"
+    },
+    {
+        "id": 4094,
+        "file": "components\/ILIAS\/BookingManager\/classes\/class.ilBookingPrefBookCron.php",
+        "line": 51,
+        "code": "$lng->txt(\"book_pref_book_cron\")",
+        "has_variable": false,
+        "variable": "book_pref_book_cron"
+    },
+    {
+        "id": 4096,
+        "file": "components\/ILIAS\/BookingManager\/classes\/class.ilBookingPrefBookCron.php",
+        "line": 60,
+        "code": "$lng->txt(\"book_pref_book_cron_info\")",
+        "has_variable": false,
+        "variable": "book_pref_book_cron_info"
+    },
+    {
+        "id": 4098,
+        "file": "components\/ILIAS\/BookingManager\/classes\/class.ilObjBookingPoolAccess.php",
+        "line": 87,
+        "code": "$this->lng->txt(\"offline\")",
+        "has_variable": false,
+        "variable": "offline"
+    },
+    {
+        "id": 4100,
+        "file": "components\/ILIAS\/BookingManager\/classes\/class.ilObjBookingPoolGUI.php",
+        "line": 262,
+        "code": "$this->lng->txt(\"book_pool_added\")",
+        "has_variable": false,
+        "variable": "book_pool_added"
+    },
+    {
+        "id": 4102,
+        "file": "components\/ILIAS\/BookingManager\/classes\/class.ilObjBookingPoolGUI.php",
+        "line": 295,
+        "code": "$this->lng->txt(\"book_schedule_warning_edit\")",
+        "has_variable": false,
+        "variable": "book_schedule_warning_edit"
+    },
+    {
+        "id": 4104,
+        "file": "components\/ILIAS\/BookingManager\/classes\/class.ilObjBookingPoolGUI.php",
+        "line": 307,
+        "code": "$this->lng->txt(\"book_schedule_type\")",
+        "has_variable": false,
+        "variable": "book_schedule_type"
+    },
+    {
+        "id": 4106,
+        "file": "components\/ILIAS\/BookingManager\/classes\/class.ilObjBookingPoolGUI.php",
+        "line": 316,
+        "code": "$this->lng->txt(\"book_schedule_type_fixed\")",
+        "has_variable": false,
+        "variable": "book_schedule_type_fixed"
+    },
+    {
+        "id": 4108,
+        "file": "components\/ILIAS\/BookingManager\/classes\/class.ilObjBookingPoolGUI.php",
+        "line": 317,
+        "code": "$this->lng->txt(\"book_schedule_type_fixed_info\")",
+        "has_variable": false,
+        "variable": "book_schedule_type_fixed_info"
+    },
+    {
+        "id": 4110,
+        "file": "components\/ILIAS\/BookingManager\/classes\/class.ilObjBookingPoolGUI.php",
+        "line": 322,
+        "code": "$this->lng->txt(\"book_reservation_filter_period\")",
+        "has_variable": false,
+        "variable": "book_reservation_filter_period"
+    },
+    {
+        "id": 4112,
+        "file": "components\/ILIAS\/BookingManager\/classes\/class.ilObjBookingPoolGUI.php",
+        "line": 323,
+        "code": "$this->lng->txt(\"book_reservation_filter_period_info\")",
+        "has_variable": false,
+        "variable": "book_reservation_filter_period_info"
+    },
+    {
+        "id": 4114,
+        "file": "components\/ILIAS\/BookingManager\/classes\/class.ilObjBookingPoolGUI.php",
+        "line": 324,
+        "code": "$this->lng->txt(\"days\")",
+        "has_variable": false,
+        "variable": "days"
+    },
+    {
+        "id": 4116,
+        "file": "components\/ILIAS\/BookingManager\/classes\/class.ilObjBookingPoolGUI.php",
+        "line": 330,
+        "code": "$this->lng->txt(\"book_reminder_setting\")",
+        "has_variable": false,
+        "variable": "book_reminder_setting"
+    },
+    {
+        "id": 4118,
+        "file": "components\/ILIAS\/BookingManager\/classes\/class.ilObjBookingPoolGUI.php",
+        "line": 332,
+        "code": "$this->lng->txt(\"book_reminder_day_info\")",
+        "has_variable": false,
+        "variable": "book_reminder_day_info"
+    },
+    {
+        "id": 4120,
+        "file": "components\/ILIAS\/BookingManager\/classes\/class.ilObjBookingPoolGUI.php",
+        "line": 334,
+        "code": "$this->lng->txt(\"book_notification_cron_not_active\")",
+        "has_variable": false,
+        "variable": "book_notification_cron_not_active"
+    },
+    {
+        "id": 4122,
+        "file": "components\/ILIAS\/BookingManager\/classes\/class.ilObjBookingPoolGUI.php",
+        "line": 339,
+        "code": "$this->lng->txt(\"book_reminder_day\")",
+        "has_variable": false,
+        "variable": "book_reminder_day"
+    },
+    {
+        "id": 4124,
+        "file": "components\/ILIAS\/BookingManager\/classes\/class.ilObjBookingPoolGUI.php",
+        "line": 342,
+        "code": "$this->lng->txt(\"book_reminder_days\")",
+        "has_variable": false,
+        "variable": "book_reminder_days"
+    },
+    {
+        "id": 4126,
+        "file": "components\/ILIAS\/BookingManager\/classes\/class.ilObjBookingPoolGUI.php",
+        "line": 348,
+        "code": "$this->lng->txt(\"book_schedule_type_none_direct\")",
+        "has_variable": false,
+        "variable": "book_schedule_type_none_direct"
+    },
+    {
+        "id": 4128,
+        "file": "components\/ILIAS\/BookingManager\/classes\/class.ilObjBookingPoolGUI.php",
+        "line": 349,
+        "code": "$this->lng->txt(\"book_schedule_type_none_direct_info\")",
+        "has_variable": false,
+        "variable": "book_schedule_type_none_direct_info"
+    },
+    {
+        "id": 4130,
+        "file": "components\/ILIAS\/BookingManager\/classes\/class.ilObjBookingPoolGUI.php",
+        "line": 352,
+        "code": "$this->lng->txt(\"book_overall_limit\")",
+        "has_variable": false,
+        "variable": "book_overall_limit"
+    },
+    {
+        "id": 4132,
+        "file": "components\/ILIAS\/BookingManager\/classes\/class.ilObjBookingPoolGUI.php",
+        "line": 355,
+        "code": "$this->lng->txt(\"book_total_individual_bookings_limit\")",
+        "has_variable": false,
+        "variable": "book_total_individual_bookings_limit"
+    },
+    {
+        "id": 4134,
+        "file": "components\/ILIAS\/BookingManager\/classes\/class.ilObjBookingPoolGUI.php",
+        "line": 359,
+        "code": "$this->lng->txt(\"book_schedule_type_none_preference\")",
+        "has_variable": false,
+        "variable": "book_schedule_type_none_preference"
+    },
+    {
+        "id": 4136,
+        "file": "components\/ILIAS\/BookingManager\/classes\/class.ilObjBookingPoolGUI.php",
+        "line": 360,
+        "code": "$this->lng->txt(\"book_schedule_type_none_preference_info\")",
+        "has_variable": false,
+        "variable": "book_schedule_type_none_preference_info"
+    },
+    {
+        "id": 4138,
+        "file": "components\/ILIAS\/BookingManager\/classes\/class.ilObjBookingPoolGUI.php",
+        "line": 364,
+        "code": "$this->lng->txt(\"book_nr_of_preferences\")",
+        "has_variable": false,
+        "variable": "book_nr_of_preferences"
+    },
+    {
+        "id": 4140,
+        "file": "components\/ILIAS\/BookingManager\/classes\/class.ilObjBookingPoolGUI.php",
+        "line": 367,
+        "code": "$this->lng->txt(\"book_nr_of_preferences_info\")",
+        "has_variable": false,
+        "variable": "book_nr_of_preferences_info"
+    },
+    {
+        "id": 4142,
+        "file": "components\/ILIAS\/BookingManager\/classes\/class.ilObjBookingPoolGUI.php",
+        "line": 368,
+        "code": "$this->lng->txt(\"book_nr_preferences\")",
+        "has_variable": false,
+        "variable": "book_nr_preferences"
+    },
+    {
+        "id": 4144,
+        "file": "components\/ILIAS\/BookingManager\/classes\/class.ilObjBookingPoolGUI.php",
+        "line": 373,
+        "code": "$this->lng->txt(\"book_pref_deadline\")",
+        "has_variable": false,
+        "variable": "book_pref_deadline"
+    },
+    {
+        "id": 4146,
+        "file": "components\/ILIAS\/BookingManager\/classes\/class.ilObjBookingPoolGUI.php",
+        "line": 374,
+        "code": "$this->lng->txt(\"book_pref_deadline_info\")",
+        "has_variable": false,
+        "variable": "book_pref_deadline_info"
+    },
+    {
+        "id": 4148,
+        "file": "components\/ILIAS\/BookingManager\/classes\/class.ilObjBookingPoolGUI.php",
+        "line": 380,
+        "code": "$this->lng->txt(\"book_public_log\")",
+        "has_variable": false,
+        "variable": "book_public_log"
+    },
+    {
+        "id": 4150,
+        "file": "components\/ILIAS\/BookingManager\/classes\/class.ilObjBookingPoolGUI.php",
+        "line": 381,
+        "code": "$this->lng->txt(\"book_public_log_info\")",
+        "has_variable": false,
+        "variable": "book_public_log_info"
+    },
+    {
+        "id": 4152,
+        "file": "components\/ILIAS\/BookingManager\/classes\/class.ilObjBookingPoolGUI.php",
+        "line": 385,
+        "code": "$this->lng->txt(\"book_messages\")",
+        "has_variable": false,
+        "variable": "book_messages"
+    },
+    {
+        "id": 4154,
+        "file": "components\/ILIAS\/BookingManager\/classes\/class.ilObjBookingPoolGUI.php",
+        "line": 386,
+        "code": "$this->lng->txt(\"book_messages_info\")",
+        "has_variable": false,
+        "variable": "book_messages_info"
+    },
+    {
+        "id": 4156,
+        "file": "components\/ILIAS\/BookingManager\/classes\/class.ilObjBookingPoolGUI.php",
+        "line": 391,
+        "code": "$this->lng->txt('rep_activation_availability')",
+        "has_variable": false,
+        "variable": "rep_activation_availability"
+    },
+    {
+        "id": 4158,
+        "file": "components\/ILIAS\/BookingManager\/classes\/class.ilObjBookingPoolGUI.php",
+        "line": 394,
+        "code": "$this->lng->txt(\"online\")",
+        "has_variable": false,
+        "variable": "online"
+    },
+    {
+        "id": 4160,
+        "file": "components\/ILIAS\/BookingManager\/classes\/class.ilObjBookingPoolGUI.php",
+        "line": 399,
+        "code": "$this->lng->txt('obj_presentation')",
+        "has_variable": false,
+        "variable": "obj_presentation"
+    },
+    {
+        "id": 4162,
+        "file": "components\/ILIAS\/BookingManager\/classes\/class.ilObjBookingPoolGUI.php",
+        "line": 407,
+        "code": "$this->lng->txt('obj_features')",
+        "has_variable": false,
+        "variable": "obj_features"
+    },
+    {
+        "id": 4164,
+        "file": "components\/ILIAS\/BookingManager\/classes\/class.ilObjBookingPoolGUI.php",
+        "line": 439,
+        "code": "$this->lng->txt('book_pref_overview')",
+        "has_variable": false,
+        "variable": "book_pref_overview"
+    },
+    {
+        "id": 4166,
+        "file": "components\/ILIAS\/BookingManager\/classes\/class.ilObjBookingPoolGUI.php",
+        "line": 448,
+        "code": "$this->lng->txt('book_booking_objects')",
+        "has_variable": false,
+        "variable": "book_booking_objects"
+    },
+    {
+        "id": 4168,
+        "file": "components\/ILIAS\/BookingManager\/classes\/class.ilObjBookingPoolGUI.php",
+        "line": 461,
+        "code": "$this->lng->txt('book_log')",
+        "has_variable": false,
+        "variable": "book_log"
+    },
+    {
+        "id": 4170,
+        "file": "components\/ILIAS\/BookingManager\/classes\/class.ilObjBookingPoolGUI.php",
+        "line": 468,
+        "code": "$this->lng->txt('info_short')",
+        "has_variable": false,
+        "variable": "info_short"
+    },
+    {
+        "id": 4172,
+        "file": "components\/ILIAS\/BookingManager\/classes\/class.ilObjBookingPoolGUI.php",
+        "line": 477,
+        "code": "$this->lng->txt('settings')",
+        "has_variable": false,
+        "variable": "settings"
+    },
+    {
+        "id": 4174,
+        "file": "components\/ILIAS\/BookingManager\/classes\/class.ilObjBookingPoolGUI.php",
+        "line": 483,
+        "code": "$this->lng->txt('settings')",
+        "has_variable": false,
+        "variable": "settings"
+    },
+    {
+        "id": 4176,
+        "file": "components\/ILIAS\/BookingManager\/classes\/class.ilObjBookingPoolGUI.php",
+        "line": 490,
+        "code": "$this->lng->txt('book_schedules')",
+        "has_variable": false,
+        "variable": "book_schedules"
+    },
+    {
+        "id": 4178,
+        "file": "components\/ILIAS\/BookingManager\/classes\/class.ilObjBookingPoolGUI.php",
+        "line": 497,
+        "code": "$this->lng->txt('participants')",
+        "has_variable": false,
+        "variable": "participants"
+    },
+    {
+        "id": 4180,
+        "file": "components\/ILIAS\/BookingManager\/classes\/class.ilObjBookingPoolGUI.php",
+        "line": 517,
+        "code": "$this->lng->txt('perm_settings')",
+        "has_variable": false,
+        "variable": "perm_settings"
+    },
+    {
+        "id": 4182,
+        "file": "components\/ILIAS\/BookingManager\/classes\/class.ilObjBookingPoolGUI.php",
+        "line": 537,
+        "code": "$lng->txt(\"msg_no_perm_read_item\")",
+        "has_variable": false,
+        "variable": "msg_no_perm_read_item"
+    },
+    {
+        "id": 4184,
+        "file": "components\/ILIAS\/BookingManager\/classes\/class.ilObjBookingPoolGUI.php",
+        "line": 636,
+        "code": "$lng->txt(\"noti_notification_deactivated\")",
+        "has_variable": false,
+        "variable": "noti_notification_deactivated"
+    },
+    {
+        "id": 4186,
+        "file": "components\/ILIAS\/BookingManager\/classes\/class.ilObjBookingPoolGUI.php",
+        "line": 645,
+        "code": "$lng->txt(\"noti_notification_activated\")",
+        "has_variable": false,
+        "variable": "noti_notification_activated"
+    },
+    {
+        "id": 4188,
+        "file": "components\/ILIAS\/BookingManager\/classes\/class.ilScheduleDaysInputGUI.php",
+        "line": 42,
+        "code": "$this->lng->txt('msg_input_does_not_match_regexp')",
+        "has_variable": false,
+        "variable": "msg_input_does_not_match_regexp"
+    },
+    {
+        "id": 4190,
+        "file": "components\/ILIAS\/BookingManager\/classes\/class.ilScheduleInputGUI.php",
+        "line": 81,
+        "code": "$lng->txt(\"msg_input_does_not_match_regexp\")",
+        "has_variable": false,
+        "variable": "msg_input_does_not_match_regexp"
+    },
+    {
+        "id": 4192,
+        "file": "components\/ILIAS\/BookingManager\/classes\/class.ilScheduleInputGUI.php",
+        "line": 89,
+        "code": "$lng->txt(\"msg_input_does_not_match_regexp\")",
+        "has_variable": false,
+        "variable": "msg_input_does_not_match_regexp"
+    },
+    {
+        "id": 4194,
+        "file": "components\/ILIAS\/BookingManager\/classes\/class.ilScheduleInputGUI.php",
+        "line": 102,
+        "code": "$lng->txt(\"msg_input_does_not_match_regexp\")",
+        "has_variable": false,
+        "variable": "msg_input_does_not_match_regexp"
+    },
+    {
+        "id": 4196,
+        "file": "components\/ILIAS\/BookingManager\/classes\/class.ilScheduleInputGUI.php",
+        "line": 113,
+        "code": "$lng->txt(\"msg_input_is_required\")",
+        "has_variable": false,
+        "variable": "msg_input_is_required"
+    },
+    {
+        "id": 4198,
+        "file": "components\/ILIAS\/BookingManager\/classes\/class.ilScheduleInputGUI.php",
+        "line": 187,
+        "code": "$lng->txt($day . \"_short\")",
+        "has_variable": true,
+        "variable": "$day . \"_short\""
+    },
+    {
+        "id": 4200,
+        "file": "components\/ILIAS\/BookingManager\/classes\/class.ilScheduleInputGUI.php",
+        "line": 203,
+        "code": "$lng->txt(\"cal_from\")",
+        "has_variable": false,
+        "variable": "cal_from"
+    },
+    {
+        "id": 4202,
+        "file": "components\/ILIAS\/BookingManager\/classes\/class.ilScheduleInputGUI.php",
+        "line": 204,
+        "code": "$lng->txt(\"cal_until\")",
+        "has_variable": false,
+        "variable": "cal_until"
+    },
+    {
+        "id": 4204,
+        "file": "components\/ILIAS\/BookingManager\/classes\/class.ilScheduleInputGUI.php",
+        "line": 207,
+        "code": "$lng->txt(\"add\")",
+        "has_variable": false,
+        "variable": "add"
+    },
+    {
+        "id": 4206,
+        "file": "components\/ILIAS\/BookingManager\/classes\/class.ilScheduleInputGUI.php",
+        "line": 208,
+        "code": "$lng->txt(\"remove\")",
+        "has_variable": false,
+        "variable": "remove"
+    },
+    {
+        "id": 4208,
+        "file": "components\/ILIAS\/BookingManager\/src\/BookableItem\/Table\/Action\/BookableItemTableBookAction.php",
+        "line": 116,
+        "code": "$this->lng->txt($this->getActionLabel())",
+        "has_variable": true,
+        "variable": "$this->getActionLabel()"
+    },
+    {
+        "id": 4210,
+        "file": "components\/ILIAS\/BookingManager\/src\/BookableItem\/Table\/Action\/BookableItemTableBookAction.php",
+        "line": 148,
+        "code": "$this->lng->txt('book_overall_limit_would_be_exceeded')",
+        "has_variable": false,
+        "variable": "book_overall_limit_would_be_exceeded"
+    },
+    {
+        "id": 4212,
+        "file": "components\/ILIAS\/BookingManager\/src\/BookableItem\/Table\/Action\/BookableItemTableBookAction.php",
+        "line": 182,
+        "code": "$this->lng->txt('no_valid_selection')",
+        "has_variable": false,
+        "variable": "no_valid_selection"
+    },
+    {
+        "id": 4214,
+        "file": "components\/ILIAS\/BookingManager\/src\/BookableItem\/Table\/Action\/BookableItemTableBookAction.php",
+        "line": 196,
+        "code": "$this->lng->txt('book_modal_warning_skipped_selections')",
+        "has_variable": false,
+        "variable": "book_modal_warning_skipped_selections"
+    },
+    {
+        "id": 4216,
+        "file": "components\/ILIAS\/BookingManager\/src\/BookableItem\/Table\/Action\/BookableItemTableBookAction.php",
+        "line": 216,
+        "code": "$this->lng->txt('book_objects_available')",
+        "has_variable": false,
+        "variable": "book_objects_available"
+    },
+    {
+        "id": 4218,
+        "file": "components\/ILIAS\/BookingManager\/src\/BookableItem\/Table\/Action\/BookableItemTableBookAction.php",
+        "line": 239,
+        "code": "$this->lng->txt('book_message')",
+        "has_variable": false,
+        "variable": "book_message"
+    },
+    {
+        "id": 4220,
+        "file": "components\/ILIAS\/BookingManager\/src\/BookableItem\/Table\/Action\/BookableItemTableBookAction.php",
+        "line": 240,
+        "code": "$this->lng->txt('book_message_info')",
+        "has_variable": false,
+        "variable": "book_message_info"
+    },
+    {
+        "id": 4222,
+        "file": "components\/ILIAS\/BookingManager\/src\/BookableItem\/Table\/Action\/BookableItemTableBookAction.php",
+        "line": 247,
+        "code": "$this->lng->txt('book_modal_enter_quantity_intro')",
+        "has_variable": false,
+        "variable": "book_modal_enter_quantity_intro"
+    },
+    {
+        "id": 4224,
+        "file": "components\/ILIAS\/BookingManager\/src\/BookableItem\/Table\/Action\/BookableItemTableBookAction.php",
+        "line": 252,
+        "code": "$this->lng->txt('book_modal_booking_confirmation')",
+        "has_variable": false,
+        "variable": "book_modal_booking_confirmation"
+    },
+    {
+        "id": 4226,
+        "file": "components\/ILIAS\/BookingManager\/src\/BookableItem\/Table\/Action\/BookableItemTableBookAction.php",
+        "line": 268,
+        "code": "$this->lng->txt('book_overall_limit_warning')",
+        "has_variable": false,
+        "variable": "book_overall_limit_warning"
+    },
+    {
+        "id": 4228,
+        "file": "components\/ILIAS\/BookingManager\/src\/BookableItem\/Table\/Action\/BookableItemTableBookAction.php",
+        "line": 335,
+        "code": "$this->lng->txt('book_some_reservations_unavailable')",
+        "has_variable": false,
+        "variable": "book_some_reservations_unavailable"
+    },
+    {
+        "id": 4230,
+        "file": "components\/ILIAS\/BookingManager\/src\/BookableItem\/Table\/Action\/BookableItemTableBookAction.php",
+        "line": 343,
+        "code": "$this->lng->txt('book_reservation_failed')",
+        "has_variable": false,
+        "variable": "book_reservation_failed"
+    },
+    {
+        "id": 4232,
+        "file": "components\/ILIAS\/BookingManager\/src\/BookableItem\/Table\/Action\/BookableItemTableBookAction.php",
+        "line": 351,
+        "code": "$this->lng->txt('book_reservation_confirmed')",
+        "has_variable": false,
+        "variable": "book_reservation_confirmed"
+    },
+    {
+        "id": 4234,
+        "file": "components\/ILIAS\/BookingManager\/src\/BookableItem\/Table\/Action\/BookableItemTableBookAction.php",
+        "line": 384,
+        "code": "$this->lng->txt('book_modal_booking_confirmation')",
+        "has_variable": false,
+        "variable": "book_modal_booking_confirmation"
+    },
+    {
+        "id": 4236,
+        "file": "components\/ILIAS\/BookingManager\/src\/BookableItem\/Table\/Action\/BookableItemTableBookAction.php",
+        "line": 402,
+        "code": "$lng->txt('book_modal_skipped_unknown_item')",
+        "has_variable": false,
+        "variable": "book_modal_skipped_unknown_item"
+    },
+    {
+        "id": 4238,
+        "file": "components\/ILIAS\/BookingManager\/src\/BookableItem\/Table\/Action\/BookableItemTableBookForParticipantAction.php",
+        "line": 81,
+        "code": "$this->lng->txt(self::ACTION_LABEL)",
+        "has_variable": true,
+        "variable": "ACTION_LABEL"
+    },
+    {
+        "id": 4240,
+        "file": "components\/ILIAS\/BookingManager\/src\/BookableItem\/Table\/Action\/BookableItemTableBookingsAction.php",
+        "line": 78,
+        "code": "$this->lng->txt(self::ACTION_LABEL)",
+        "has_variable": true,
+        "variable": "ACTION_LABEL"
+    },
+    {
+        "id": 4242,
+        "file": "components\/ILIAS\/BookingManager\/src\/BookableItem\/Table\/Action\/BookableItemTableCancelBookingAction.php",
+        "line": 111,
+        "code": "$this->lng->txt(self::ACTION_LABEL)",
+        "has_variable": true,
+        "variable": "ACTION_LABEL"
+    },
+    {
+        "id": 4244,
+        "file": "components\/ILIAS\/BookingManager\/src\/BookableItem\/Table\/Action\/BookableItemTableCancelBookingAction.php",
+        "line": 147,
+        "code": "$this->lng->txt('book_confirm_cancel')",
+        "has_variable": false,
+        "variable": "book_confirm_cancel"
+    },
+    {
+        "id": 4246,
+        "file": "components\/ILIAS\/BookingManager\/src\/BookableItem\/Table\/Action\/BookableItemTableCancelBookingAction.php",
+        "line": 148,
+        "code": "$this->lng->txt('book_confirm_cancel_info')",
+        "has_variable": false,
+        "variable": "book_confirm_cancel_info"
+    },
+    {
+        "id": 4248,
+        "file": "components\/ILIAS\/BookingManager\/src\/BookableItem\/Table\/Action\/BookableItemTableCancelBookingAction.php",
+        "line": 156,
+        "code": "$this->lng->txt('book_set_cancel')",
+        "has_variable": false,
+        "variable": "book_set_cancel"
+    },
+    {
+        "id": 4250,
+        "file": "components\/ILIAS\/BookingManager\/src\/BookableItem\/Table\/Action\/BookableItemTableCancelBookingAction.php",
+        "line": 201,
+        "code": "$this->lng->txt('no_permission')",
+        "has_variable": false,
+        "variable": "no_permission"
+    },
+    {
+        "id": 4252,
+        "file": "components\/ILIAS\/BookingManager\/src\/BookableItem\/Table\/Action\/BookableItemTableCancelBookingAction.php",
+        "line": 218,
+        "code": "$this->lng->txt('no_valid_selection')",
+        "has_variable": false,
+        "variable": "no_valid_selection"
+    },
+    {
+        "id": 4254,
+        "file": "components\/ILIAS\/BookingManager\/src\/BookableItem\/Table\/Action\/BookableItemTableCancelBookingAction.php",
+        "line": 226,
+        "code": "$this->lng->txt('book_reservation_cancelled')",
+        "has_variable": false,
+        "variable": "book_reservation_cancelled"
+    },
+    {
+        "id": 4256,
+        "file": "components\/ILIAS\/BookingManager\/src\/BookableItem\/Table\/Action\/BookableItemTableDeleteAction.php",
+        "line": 81,
+        "code": "$this->lng->txt(self::ACTION_LABEL)",
+        "has_variable": true,
+        "variable": "ACTION_LABEL"
+    },
+    {
+        "id": 4258,
+        "file": "components\/ILIAS\/BookingManager\/src\/BookableItem\/Table\/Action\/BookableItemTableDeleteAction.php",
+        "line": 100,
+        "code": "$this->lng->txt('confirm')",
+        "has_variable": false,
+        "variable": "confirm"
+    },
+    {
+        "id": 4260,
+        "file": "components\/ILIAS\/BookingManager\/src\/BookableItem\/Table\/Action\/BookableItemTableDeleteAction.php",
+        "line": 101,
+        "code": "$this->lng->txt('book_confirm_delete')",
+        "has_variable": false,
+        "variable": "book_confirm_delete"
+    },
+    {
+        "id": 4262,
+        "file": "components\/ILIAS\/BookingManager\/src\/BookableItem\/Table\/Action\/BookableItemTableDeleteAction.php",
+        "line": 111,
+        "code": "$this->lng->txt('delete')",
+        "has_variable": false,
+        "variable": "delete"
+    },
+    {
+        "id": 4264,
+        "file": "components\/ILIAS\/BookingManager\/src\/BookableItem\/Table\/Action\/BookableItemTableDeleteAction.php",
+        "line": 120,
+        "code": "$this->lng->txt('no_permission')",
+        "has_variable": false,
+        "variable": "no_permission"
+    },
+    {
+        "id": 4266,
+        "file": "components\/ILIAS\/BookingManager\/src\/BookableItem\/Table\/Action\/BookableItemTableDeleteAction.php",
+        "line": 135,
+        "code": "$this->lng->txt('book_object_deleted')",
+        "has_variable": false,
+        "variable": "book_object_deleted"
+    },
+    {
+        "id": 4268,
+        "file": "components\/ILIAS\/BookingManager\/src\/BookableItem\/Table\/Action\/BookableItemTableEditAction.php",
+        "line": 72,
+        "code": "$this->lng->txt(self::ACTION_LABEL)",
+        "has_variable": true,
+        "variable": "ACTION_LABEL"
+    },
+    {
+        "id": 4270,
+        "file": "components\/ILIAS\/BookingManager\/src\/BookableItem\/Table\/BookableItemTable.php",
+        "line": 110,
+        "code": "$this->lng->txt('book_overall_limit_warning')",
+        "has_variable": false,
+        "variable": "book_overall_limit_warning"
+    },
+    {
+        "id": 4272,
+        "file": "components\/ILIAS\/BookingManager\/src\/BookableItem\/Table\/BookableItemTable.php",
+        "line": 119,
+        "code": "$this->lng->txt('book_booking_objects')",
+        "has_variable": false,
+        "variable": "book_booking_objects"
+    },
+    {
+        "id": 4274,
+        "file": "components\/ILIAS\/BookingManager\/src\/BookableItem\/Table\/BookableItemTable.php",
+        "line": 351,
+        "code": "$this->lng->txt($available > 0 ? 'book_book' : 'book_no_objects')",
+        "has_variable": true,
+        "variable": "_"
+    },
+    {
+        "id": 4276,
+        "file": "components\/ILIAS\/BookingManager\/src\/BookableItem\/Table\/BookableItemWithScheduleTable.php",
+        "line": 57,
+        "code": "$this->lng->txt('book_table_col_availability')",
+        "has_variable": false,
+        "variable": "book_table_col_availability"
+    },
+    {
+        "id": 4278,
+        "file": "components\/ILIAS\/BookingManager\/src\/BookableItem\/Table\/BookableItemWithScheduleTable.php",
+        "line": 58,
+        "code": "$this->lng->txt('book_table_col_datetime')",
+        "has_variable": false,
+        "variable": "book_table_col_datetime"
+    },
+    {
+        "id": 4280,
+        "file": "components\/ILIAS\/BookingManager\/src\/BookableItem\/Table\/BookableItemWithScheduleTable.php",
+        "line": 59,
+        "code": "$this->lng->txt('title')",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 4282,
+        "file": "components\/ILIAS\/BookingManager\/src\/BookableItem\/Table\/BookableItemWithScheduleTable.php",
+        "line": 60,
+        "code": "$this->lng->txt('description')",
+        "has_variable": false,
+        "variable": "description"
+    },
+    {
+        "id": 4284,
+        "file": "components\/ILIAS\/BookingManager\/src\/BookableItem\/Table\/BookableItemWithScheduleTable.php",
+        "line": 76,
+        "code": "$this->lng->txt('title')",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 4286,
+        "file": "components\/ILIAS\/BookingManager\/src\/BookableItem\/Table\/BookableItemWithScheduleTable.php",
+        "line": 77,
+        "code": "$this->lng->txt('description')",
+        "has_variable": false,
+        "variable": "description"
+    },
+    {
+        "id": 4288,
+        "file": "components\/ILIAS\/BookingManager\/src\/BookableItem\/Table\/BookableItemWithScheduleTable.php",
+        "line": 78,
+        "code": "$this->lng->txt('book_filter_objects')",
+        "has_variable": false,
+        "variable": "book_filter_objects"
+    },
+    {
+        "id": 4290,
+        "file": "components\/ILIAS\/BookingManager\/src\/BookableItem\/Table\/BookableItemWithScheduleTable.php",
+        "line": 79,
+        "code": "$this->lng->txt('book_filter_period')",
+        "has_variable": false,
+        "variable": "book_filter_period"
+    },
+    {
+        "id": 4292,
+        "file": "components\/ILIAS\/BookingManager\/src\/BookableItem\/Table\/BookableItemWithScheduleTable.php",
+        "line": 310,
+        "code": "$this->lng->txt('book_all_day')",
+        "has_variable": false,
+        "variable": "book_all_day"
+    },
+    {
+        "id": 4294,
+        "file": "components\/ILIAS\/BookingManager\/src\/BookableItem\/Table\/BookableItemWithScheduleTable.php",
+        "line": 327,
+        "code": "$this->lng->txt('book_all_day')",
+        "has_variable": false,
+        "variable": "book_all_day"
+    },
+    {
+        "id": 4296,
+        "file": "components\/ILIAS\/BookingManager\/src\/BookableItem\/Table\/BookableItemWithoutScheduleTable.php",
+        "line": 38,
+        "code": "$this->lng->txt('book_table_col_availability')",
+        "has_variable": false,
+        "variable": "book_table_col_availability"
+    },
+    {
+        "id": 4298,
+        "file": "components\/ILIAS\/BookingManager\/src\/BookableItem\/Table\/BookableItemWithoutScheduleTable.php",
+        "line": 39,
+        "code": "$this->lng->txt('title')",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 4300,
+        "file": "components\/ILIAS\/BookingManager\/src\/BookableItem\/Table\/BookableItemWithoutScheduleTable.php",
+        "line": 40,
+        "code": "$this->lng->txt('description')",
+        "has_variable": false,
+        "variable": "description"
+    },
+    {
+        "id": 4302,
+        "file": "components\/ILIAS\/BookingManager\/src\/BookableItem\/Table\/BookableItemWithoutScheduleTable.php",
+        "line": 56,
+        "code": "$this->lng->txt('title')",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 4304,
+        "file": "components\/ILIAS\/BookingManager\/src\/BookableItem\/Table\/BookableItemWithoutScheduleTable.php",
+        "line": 57,
+        "code": "$this->lng->txt('description')",
+        "has_variable": false,
+        "variable": "description"
+    },
+    {
+        "id": 4306,
+        "file": "components\/ILIAS\/BookingManager\/src\/BookableItem\/Table\/BookableItemWithoutScheduleTable.php",
+        "line": 58,
+        "code": "$this->lng->txt('book_filter_objects')",
+        "has_variable": false,
+        "variable": "book_filter_objects"
+    },
+    {
+        "id": 4308,
+        "file": "components\/ILIAS\/BookingManager\/src\/Booking\/Table\/Action\/BookingsTableBookingInformationAction.php",
+        "line": 77,
+        "code": "$this->lng->txt($this->getActionLabel())",
+        "has_variable": true,
+        "variable": "$this->getActionLabel()"
+    },
+    {
+        "id": 4310,
+        "file": "components\/ILIAS\/BookingManager\/src\/Booking\/Table\/Action\/BookingsTableBookingInformationAction.php",
+        "line": 105,
+        "code": "$this->lng->txt('no_valid_selection')",
+        "has_variable": false,
+        "variable": "no_valid_selection"
+    },
+    {
+        "id": 4312,
+        "file": "components\/ILIAS\/BookingManager\/src\/Booking\/Table\/Action\/BookingsTableCancelAction.php",
+        "line": 102,
+        "code": "$this->lng->txt($this->getActionLabel())",
+        "has_variable": true,
+        "variable": "$this->getActionLabel()"
+    },
+    {
+        "id": 4314,
+        "file": "components\/ILIAS\/BookingManager\/src\/Booking\/Table\/Action\/BookingsTableCancelAction.php",
+        "line": 116,
+        "code": "$this->lng->txt('confirm')",
+        "has_variable": false,
+        "variable": "confirm"
+    },
+    {
+        "id": 4316,
+        "file": "components\/ILIAS\/BookingManager\/src\/Booking\/Table\/Action\/BookingsTableCancelAction.php",
+        "line": 117,
+        "code": "$this->lng->txt('book_confirm_cancel')",
+        "has_variable": false,
+        "variable": "book_confirm_cancel"
+    },
+    {
+        "id": 4318,
+        "file": "components\/ILIAS\/BookingManager\/src\/Booking\/Table\/Action\/BookingsTableCancelAction.php",
+        "line": 127,
+        "code": "$this->lng->txt($this->getActionLabel())",
+        "has_variable": true,
+        "variable": "$this->getActionLabel()"
+    },
+    {
+        "id": 4320,
+        "file": "components\/ILIAS\/BookingManager\/src\/Booking\/Table\/Action\/BookingsTableCancelAction.php",
+        "line": 141,
+        "code": "$this->lng->txt('no_permission')",
+        "has_variable": false,
+        "variable": "no_permission"
+    },
+    {
+        "id": 4322,
+        "file": "components\/ILIAS\/BookingManager\/src\/Booking\/Table\/Action\/BookingsTableCancelAction.php",
+        "line": 159,
+        "code": "$this->lng->txt('book_reservation_cancelled')",
+        "has_variable": false,
+        "variable": "book_reservation_cancelled"
+    },
+    {
+        "id": 4324,
+        "file": "components\/ILIAS\/BookingManager\/src\/Booking\/Table\/Action\/BookingsTableDeleteAction.php",
+        "line": 97,
+        "code": "$this->lng->txt($this->getActionLabel())",
+        "has_variable": true,
+        "variable": "$this->getActionLabel()"
+    },
+    {
+        "id": 4326,
+        "file": "components\/ILIAS\/BookingManager\/src\/Booking\/Table\/Action\/BookingsTableDeleteAction.php",
+        "line": 111,
+        "code": "$this->lng->txt('confirm')",
+        "has_variable": false,
+        "variable": "confirm"
+    },
+    {
+        "id": 4328,
+        "file": "components\/ILIAS\/BookingManager\/src\/Booking\/Table\/Action\/BookingsTableDeleteAction.php",
+        "line": 112,
+        "code": "$this->lng->txt('book_confirm_delete')",
+        "has_variable": false,
+        "variable": "book_confirm_delete"
+    },
+    {
+        "id": 4330,
+        "file": "components\/ILIAS\/BookingManager\/src\/Booking\/Table\/Action\/BookingsTableDeleteAction.php",
+        "line": 122,
+        "code": "$this->lng->txt($this->getActionLabel())",
+        "has_variable": true,
+        "variable": "$this->getActionLabel()"
+    },
+    {
+        "id": 4332,
+        "file": "components\/ILIAS\/BookingManager\/src\/Booking\/Table\/Action\/BookingsTableDeleteAction.php",
+        "line": 128,
+        "code": "$this->lng->txt('no_permission')",
+        "has_variable": false,
+        "variable": "no_permission"
+    },
+    {
+        "id": 4334,
+        "file": "components\/ILIAS\/BookingManager\/src\/Booking\/Table\/Action\/BookingsTableDeleteAction.php",
+        "line": 146,
+        "code": "$this->lng->txt('reservation_deleted')",
+        "has_variable": false,
+        "variable": "reservation_deleted"
+    },
+    {
+        "id": 4336,
+        "file": "components\/ILIAS\/BookingManager\/src\/Booking\/Table\/Action\/BookingsTableMailAction.php",
+        "line": 89,
+        "code": "$this->lng->txt($this->getActionLabel())",
+        "has_variable": true,
+        "variable": "$this->getActionLabel()"
+    },
+    {
+        "id": 4338,
+        "file": "components\/ILIAS\/BookingManager\/src\/Booking\/Table\/Action\/BookingsTableMailAction.php",
+        "line": 110,
+        "code": "$this->lng->txt('no_valid_selection')",
+        "has_variable": false,
+        "variable": "no_valid_selection"
+    },
+    {
+        "id": 4340,
+        "file": "components\/ILIAS\/BookingManager\/src\/Booking\/Table\/Action\/BookingsTableMailAction.php",
+        "line": 149,
+        "code": "$this->lng->txt('book_mail_permanent_link')",
+        "has_variable": false,
+        "variable": "book_mail_permanent_link"
+    },
+    {
+        "id": 4342,
+        "file": "components\/ILIAS\/BookingManager\/src\/Booking\/Table\/BookingsTable.php",
+        "line": 391,
+        "code": "$this->lng->txt('bookings')",
+        "has_variable": false,
+        "variable": "bookings"
+    },
+    {
+        "id": 4344,
+        "file": "components\/ILIAS\/BookingManager\/src\/Booking\/Table\/BookingsTable.php",
+        "line": 408,
+        "code": "$this->lng->txt($caption_lng_id)",
+        "has_variable": true,
+        "variable": "$caption_lng_id"
+    },
+    {
+        "id": 4346,
+        "file": "components\/ILIAS\/BookingManager\/src\/Booking\/Table\/BookingsTable.php",
+        "line": 417,
+        "code": "$this->lng->txt('export')",
+        "has_variable": false,
+        "variable": "export"
+    },
+    {
+        "id": 4348,
+        "file": "components\/ILIAS\/BookingManager\/src\/Booking\/Table\/BookingsTable.php",
+        "line": 441,
+        "code": "$this->lng->txt('book_not_cancelled')",
+        "has_variable": false,
+        "variable": "book_not_cancelled"
+    },
+    {
+        "id": 4350,
+        "file": "components\/ILIAS\/BookingManager\/src\/Booking\/Table\/BookingsTable.php",
+        "line": 442,
+        "code": "$this->lng->txt('book_reservation_status_5')",
+        "has_variable": false,
+        "variable": "book_reservation_status_5"
+    },
+    {
+        "id": 4352,
+        "file": "components\/ILIAS\/BookingManager\/src\/Booking\/Table\/BookingsWithScheduleTable.php",
+        "line": 61,
+        "code": "$this->lng->txt('book_all_day')",
+        "has_variable": false,
+        "variable": "book_all_day"
+    },
+    {
+        "id": 4354,
+        "file": "components\/ILIAS\/BookingManager\/src\/Booking\/Table\/BookingsWithScheduleTable.php",
+        "line": 74,
+        "code": "$this->lng->txt('book_reservation_status_5')",
+        "has_variable": false,
+        "variable": "book_reservation_status_5"
+    },
+    {
+        "id": 4356,
+        "file": "components\/ILIAS\/BookingManager\/src\/Booking\/Table\/BookingsWithScheduleTable.php",
+        "line": 93,
+        "code": "$this->lng->txt('title')",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 4358,
+        "file": "components\/ILIAS\/BookingManager\/src\/Booking\/Table\/BookingsWithScheduleTable.php",
+        "line": 94,
+        "code": "$this->lng->txt('status')",
+        "has_variable": false,
+        "variable": "status"
+    },
+    {
+        "id": 4360,
+        "file": "components\/ILIAS\/BookingManager\/src\/Booking\/Table\/BookingsWithScheduleTable.php",
+        "line": 96,
+        "code": "$this->lng->txt('date')",
+        "has_variable": false,
+        "variable": "date"
+    },
+    {
+        "id": 4362,
+        "file": "components\/ILIAS\/BookingManager\/src\/Booking\/Table\/BookingsWithScheduleTable.php",
+        "line": 106,
+        "code": "$this->lng->txt('week')",
+        "has_variable": false,
+        "variable": "week"
+    },
+    {
+        "id": 4364,
+        "file": "components\/ILIAS\/BookingManager\/src\/Booking\/Table\/BookingsWithScheduleTable.php",
+        "line": 108,
+        "code": "$this->lng->txt('cal_weekday')",
+        "has_variable": false,
+        "variable": "cal_weekday"
+    },
+    {
+        "id": 4366,
+        "file": "components\/ILIAS\/BookingManager\/src\/Booking\/Table\/BookingsWithScheduleTable.php",
+        "line": 110,
+        "code": "$this->lng->txt('book_schedule_slot')",
+        "has_variable": false,
+        "variable": "book_schedule_slot"
+    },
+    {
+        "id": 4368,
+        "file": "components\/ILIAS\/BookingManager\/src\/Booking\/Table\/BookingsWithScheduleTable.php",
+        "line": 111,
+        "code": "$this->lng->txt('book_no_of_objects')",
+        "has_variable": false,
+        "variable": "book_no_of_objects"
+    },
+    {
+        "id": 4370,
+        "file": "components\/ILIAS\/BookingManager\/src\/Booking\/Table\/BookingsWithScheduleTable.php",
+        "line": 112,
+        "code": "$this->lng->txt('book_message')",
+        "has_variable": false,
+        "variable": "book_message"
+    },
+    {
+        "id": 4372,
+        "file": "components\/ILIAS\/BookingManager\/src\/Booking\/Table\/BookingsWithScheduleTable.php",
+        "line": 113,
+        "code": "$this->lng->txt('user')",
+        "has_variable": false,
+        "variable": "user"
+    },
+    {
+        "id": 4374,
+        "file": "components\/ILIAS\/BookingManager\/src\/Booking\/Table\/BookingsWithScheduleTable.php",
+        "line": 125,
+        "code": "$this->lng->txt('user')",
+        "has_variable": false,
+        "variable": "user"
+    },
+    {
+        "id": 4376,
+        "file": "components\/ILIAS\/BookingManager\/src\/Booking\/Table\/BookingsWithScheduleTable.php",
+        "line": 140,
+        "code": "$this->lng->txt('object')",
+        "has_variable": false,
+        "variable": "object"
+    },
+    {
+        "id": 4378,
+        "file": "components\/ILIAS\/BookingManager\/src\/Booking\/Table\/BookingsWithScheduleTable.php",
+        "line": 143,
+        "code": "$this->lng->txt('book_object_title_or_description')",
+        "has_variable": false,
+        "variable": "book_object_title_or_description"
+    },
+    {
+        "id": 4380,
+        "file": "components\/ILIAS\/BookingManager\/src\/Booking\/Table\/BookingsWithScheduleTable.php",
+        "line": 144,
+        "code": "$this->lng->txt('book_filter_period')",
+        "has_variable": false,
+        "variable": "book_filter_period"
+    },
+    {
+        "id": 4382,
+        "file": "components\/ILIAS\/BookingManager\/src\/Booking\/Table\/BookingsWithScheduleTable.php",
+        "line": 147,
+        "code": "$this->lng->txt('book_schedule_slot')",
+        "has_variable": false,
+        "variable": "book_schedule_slot"
+    },
+    {
+        "id": 4384,
+        "file": "components\/ILIAS\/BookingManager\/src\/Booking\/Table\/BookingsWithScheduleTable.php",
+        "line": 149,
+        "code": "$this->lng->txt('book_show_past_bookings')",
+        "has_variable": false,
+        "variable": "book_show_past_bookings"
+    },
+    {
+        "id": 4386,
+        "file": "components\/ILIAS\/BookingManager\/src\/Booking\/Table\/BookingsWithScheduleTable.php",
+        "line": 150,
+        "code": "$this->lng->txt('book_past_bookings')",
+        "has_variable": false,
+        "variable": "book_past_bookings"
+    },
+    {
+        "id": 4388,
+        "file": "components\/ILIAS\/BookingManager\/src\/Booking\/Table\/BookingsWithScheduleTable.php",
+        "line": 150,
+        "code": "$this->lng->txt('book_present_bookings')",
+        "has_variable": false,
+        "variable": "book_present_bookings"
+    },
+    {
+        "id": 4390,
+        "file": "components\/ILIAS\/BookingManager\/src\/Booking\/Table\/BookingsWithScheduleTable.php",
+        "line": 152,
+        "code": "$this->lng->txt('status')",
+        "has_variable": false,
+        "variable": "status"
+    },
+    {
+        "id": 4392,
+        "file": "components\/ILIAS\/BookingManager\/src\/Booking\/Table\/BookingsWithScheduleTable.php",
+        "line": 175,
+        "code": "$this->lng->txt('book_all_day')",
+        "has_variable": false,
+        "variable": "book_all_day"
+    },
+    {
+        "id": 4394,
+        "file": "components\/ILIAS\/BookingManager\/src\/Booking\/Table\/BookingsWithoutScheduleTable.php",
+        "line": 53,
+        "code": "$this->lng->txt('book_reservation_status_5')",
+        "has_variable": false,
+        "variable": "book_reservation_status_5"
+    },
+    {
+        "id": 4396,
+        "file": "components\/ILIAS\/BookingManager\/src\/Booking\/Table\/BookingsWithoutScheduleTable.php",
+        "line": 66,
+        "code": "$this->lng->txt('title')",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 4398,
+        "file": "components\/ILIAS\/BookingManager\/src\/Booking\/Table\/BookingsWithoutScheduleTable.php",
+        "line": 67,
+        "code": "$this->lng->txt('status')",
+        "has_variable": false,
+        "variable": "status"
+    },
+    {
+        "id": 4400,
+        "file": "components\/ILIAS\/BookingManager\/src\/Booking\/Table\/BookingsWithoutScheduleTable.php",
+        "line": 68,
+        "code": "$this->lng->txt('user')",
+        "has_variable": false,
+        "variable": "user"
+    },
+    {
+        "id": 4402,
+        "file": "components\/ILIAS\/BookingManager\/src\/Booking\/Table\/BookingsWithoutScheduleTable.php",
+        "line": 74,
+        "code": "$this->lng->txt('user')",
+        "has_variable": false,
+        "variable": "user"
+    },
+    {
+        "id": 4404,
+        "file": "components\/ILIAS\/BookingManager\/src\/Booking\/Table\/BookingsWithoutScheduleTable.php",
+        "line": 89,
+        "code": "$this->lng->txt('object')",
+        "has_variable": false,
+        "variable": "object"
+    },
+    {
+        "id": 4406,
+        "file": "components\/ILIAS\/BookingManager\/src\/Booking\/Table\/BookingsWithoutScheduleTable.php",
+        "line": 92,
+        "code": "$this->lng->txt('book_object_title_or_description')",
+        "has_variable": false,
+        "variable": "book_object_title_or_description"
+    },
+    {
+        "id": 4408,
+        "file": "components\/ILIAS\/BookingManager\/src\/Booking\/Table\/BookingsWithoutScheduleTable.php",
+        "line": 93,
+        "code": "$this->lng->txt('status')",
+        "has_variable": false,
+        "variable": "status"
+    },
+    {
+        "id": 4410,
+        "file": "components\/ILIAS\/BookingManager\/src\/Common\/Table\/TableActionModalTrait.php",
+        "line": 141,
+        "code": "$this->lng->txt('no_valid_selection')",
+        "has_variable": false,
+        "variable": "no_valid_selection"
+    },
+    {
+        "id": 4412,
+        "file": "components\/ILIAS\/BookingManager\/src\/Participant\/Table\/Action\/ParticipantTableBookForParticipantAction.php",
+        "line": 78,
+        "code": "$this->lng->txt('book_assign_object')",
+        "has_variable": false,
+        "variable": "book_assign_object"
+    },
+    {
+        "id": 4414,
+        "file": "components\/ILIAS\/BookingManager\/src\/Participant\/Table\/Action\/ParticipantTableDeleteAction.php",
+        "line": 89,
+        "code": "$this->lng->txt($this->getActionLabel())",
+        "has_variable": true,
+        "variable": "$this->getActionLabel()"
+    },
+    {
+        "id": 4416,
+        "file": "components\/ILIAS\/BookingManager\/src\/Participant\/Table\/Action\/ParticipantTableDeleteAction.php",
+        "line": 111,
+        "code": "$this->lng->txt('confirm')",
+        "has_variable": false,
+        "variable": "confirm"
+    },
+    {
+        "id": 4418,
+        "file": "components\/ILIAS\/BookingManager\/src\/Participant\/Table\/Action\/ParticipantTableDeleteAction.php",
+        "line": 112,
+        "code": "$this->lng->txt('book_confirm_remove_participant')",
+        "has_variable": false,
+        "variable": "book_confirm_remove_participant"
+    },
+    {
+        "id": 4420,
+        "file": "components\/ILIAS\/BookingManager\/src\/Participant\/Table\/Action\/ParticipantTableDeleteAction.php",
+        "line": 122,
+        "code": "$this->lng->txt('remove')",
+        "has_variable": false,
+        "variable": "remove"
+    },
+    {
+        "id": 4422,
+        "file": "components\/ILIAS\/BookingManager\/src\/Participant\/Table\/Action\/ParticipantTableDeleteAction.php",
+        "line": 131,
+        "code": "$this->lng->txt('no_permission')",
+        "has_variable": false,
+        "variable": "no_permission"
+    },
+    {
+        "id": 4424,
+        "file": "components\/ILIAS\/BookingManager\/src\/Participant\/Table\/Action\/ParticipantTableDeleteAction.php",
+        "line": 140,
+        "code": "$this->lng->txt('book_participant_removed')",
+        "has_variable": false,
+        "variable": "book_participant_removed"
+    },
+    {
+        "id": 4426,
+        "file": "components\/ILIAS\/BookingManager\/src\/Participant\/Table\/Action\/ParticipantTableEditBookingAction.php",
+        "line": 80,
+        "code": "$this->lng->txt('book_deassign')",
+        "has_variable": false,
+        "variable": "book_deassign"
+    },
+    {
+        "id": 4428,
+        "file": "components\/ILIAS\/BookingManager\/src\/Participant\/Table\/ParticipantTable.php",
+        "line": 92,
+        "code": "$this->lng->txt('participants')",
+        "has_variable": false,
+        "variable": "participants"
+    },
+    {
+        "id": 4430,
+        "file": "components\/ILIAS\/BookingManager\/src\/Participant\/Table\/ParticipantTable.php",
+        "line": 143,
+        "code": "$this->lng->txt('name')",
+        "has_variable": false,
+        "variable": "name"
+    },
+    {
+        "id": 4432,
+        "file": "components\/ILIAS\/BookingManager\/src\/Participant\/Table\/ParticipantTable.php",
+        "line": 144,
+        "code": "$this->lng->txt('book_bobj')",
+        "has_variable": false,
+        "variable": "book_bobj"
+    },
+    {
+        "id": 4434,
+        "file": "components\/ILIAS\/BookingManager\/src\/Participant\/Table\/ParticipantTable.php",
+        "line": 215,
+        "code": "$this->lng->txt('book_bobj')",
+        "has_variable": false,
+        "variable": "book_bobj"
+    },
+    {
+        "id": 4436,
+        "file": "components\/ILIAS\/BookingManager\/src\/Participant\/Table\/ParticipantTable.php",
+        "line": 216,
+        "code": "$this->lng->txt('book_no_objects')",
+        "has_variable": false,
+        "variable": "book_no_objects"
+    },
+    {
+        "id": 4438,
+        "file": "components\/ILIAS\/BookingManager\/src\/Participant\/Table\/ParticipantTable.php",
+        "line": 219,
+        "code": "$this->lng->txt('book_bobj')",
+        "has_variable": false,
+        "variable": "book_bobj"
+    },
+    {
+        "id": 4440,
+        "file": "components\/ILIAS\/BookingManager\/src\/Participant\/Table\/ParticipantTable.php",
+        "line": 219,
+        "code": "$this->lng->txt('title')",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 4442,
+        "file": "components\/ILIAS\/BookingManager\/src\/Participant\/Table\/ParticipantTable.php",
+        "line": 219,
+        "code": "$this->lng->txt('description')",
+        "has_variable": false,
+        "variable": "description"
+    },
+    {
+        "id": 4444,
+        "file": "components\/ILIAS\/BookingManager\/src\/Participant\/Table\/ParticipantTable.php",
+        "line": 222,
+        "code": "$this->lng->txt('book_participant')",
+        "has_variable": false,
+        "variable": "book_participant"
+    },
+    {
+        "id": 4446,
+        "file": "components\/ILIAS\/BookingManager\/src\/Schedule\/Table\/Action\/ScheduleTableDeleteAction.php",
+        "line": 88,
+        "code": "$this->lng->txt(self::ACTION_LABEL)",
+        "has_variable": true,
+        "variable": "ACTION_LABEL"
+    },
+    {
+        "id": 4448,
+        "file": "components\/ILIAS\/BookingManager\/src\/Schedule\/Table\/Action\/ScheduleTableDeleteAction.php",
+        "line": 107,
+        "code": "$this->lng->txt('confirm')",
+        "has_variable": false,
+        "variable": "confirm"
+    },
+    {
+        "id": 4450,
+        "file": "components\/ILIAS\/BookingManager\/src\/Schedule\/Table\/Action\/ScheduleTableDeleteAction.php",
+        "line": 108,
+        "code": "$this->lng->txt('book_confirm_delete')",
+        "has_variable": false,
+        "variable": "book_confirm_delete"
+    },
+    {
+        "id": 4452,
+        "file": "components\/ILIAS\/BookingManager\/src\/Schedule\/Table\/Action\/ScheduleTableDeleteAction.php",
+        "line": 118,
+        "code": "$this->lng->txt('delete')",
+        "has_variable": false,
+        "variable": "delete"
+    },
+    {
+        "id": 4454,
+        "file": "components\/ILIAS\/BookingManager\/src\/Schedule\/Table\/Action\/ScheduleTableDeleteAction.php",
+        "line": 127,
+        "code": "$this->lng->txt('no_permission')",
+        "has_variable": false,
+        "variable": "no_permission"
+    },
+    {
+        "id": 4456,
+        "file": "components\/ILIAS\/BookingManager\/src\/Schedule\/Table\/Action\/ScheduleTableDeleteAction.php",
+        "line": 141,
+        "code": "$this->lng->txt('book_schedule_deleted')",
+        "has_variable": false,
+        "variable": "book_schedule_deleted"
+    },
+    {
+        "id": 4458,
+        "file": "components\/ILIAS\/BookingManager\/src\/Schedule\/Table\/Action\/ScheduleTableEditAction.php",
+        "line": 76,
+        "code": "$this->lng->txt(self::ACTION_LABEL)",
+        "has_variable": true,
+        "variable": "ACTION_LABEL"
+    },
+    {
+        "id": 4460,
+        "file": "components\/ILIAS\/BookingManager\/src\/Schedule\/Table\/ScheduleTable.php",
+        "line": 83,
+        "code": "$this->lng->txt('book_schedules')",
+        "has_variable": false,
+        "variable": "book_schedules"
+    },
+    {
+        "id": 4462,
+        "file": "components\/ILIAS\/BookingManager\/src\/Schedule\/Table\/ScheduleTable.php",
+        "line": 166,
+        "code": "$this->lng->txt('title')",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 4464,
+        "file": "components\/ILIAS\/BookingManager\/src\/Schedule\/Table\/ScheduleTable.php",
+        "line": 168,
+        "code": "$this->lng->txt('book_is_used')",
+        "has_variable": false,
+        "variable": "book_is_used"
+    },
+    {
+        "id": 4466,
+        "file": "components\/ILIAS\/BookingManager\/src\/Schedule\/Table\/ScheduleTable.php",
+        "line": 171,
+        "code": "$this->lng->txt('yes')",
+        "has_variable": false,
+        "variable": "yes"
+    },
+    {
+        "id": 4468,
+        "file": "components\/ILIAS\/BookingManager\/src\/Schedule\/Table\/ScheduleTable.php",
+        "line": 175,
+        "code": "$this->lng->txt('no')",
+        "has_variable": false,
+        "variable": "no"
+    }
+]

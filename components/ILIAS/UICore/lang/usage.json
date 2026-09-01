@@ -1,0 +1,42 @@
+[
+    {
+        "id": 46644,
+        "file": "components\/ILIAS\/UICore\/classes\/MetaTemplate\/PageContentGUI.php",
+        "line": 545,
+        "code": "$lng->txt(\"actions\")",
+        "has_variable": false,
+        "variable": "actions"
+    },
+    {
+        "id": 46646,
+        "file": "components\/ILIAS\/UICore\/classes\/MetaTemplate\/PageContentGUI.php",
+        "line": 560,
+        "code": "$lng->txt(\"actions\")",
+        "has_variable": false,
+        "variable": "actions"
+    },
+    {
+        "id": 46648,
+        "file": "components\/ILIAS\/UICore\/classes\/class.ilGlobalTemplate.php",
+        "line": 1070,
+        "code": "$lng->txt($this->tree_flat_mode . \"view\")",
+        "has_variable": true,
+        "variable": "$this->tree_flat_mode . \"view\""
+    },
+    {
+        "id": 46650,
+        "file": "components\/ILIAS\/UICore\/classes\/class.ilGlobalTemplate.php",
+        "line": 1108,
+        "code": "$lng->txt(\"actions\")",
+        "has_variable": false,
+        "variable": "actions"
+    },
+    {
+        "id": 46652,
+        "file": "components\/ILIAS\/UICore\/classes\/class.ilGlobalTemplate.php",
+        "line": 1124,
+        "code": "$lng->txt(\"actions\")",
+        "has_variable": false,
+        "variable": "actions"
+    }
+]

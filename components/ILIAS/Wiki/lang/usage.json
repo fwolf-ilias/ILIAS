@@ -1,0 +1,3018 @@
+[
+    {
+        "id": 49678,
+        "file": "components\/ILIAS\/Wiki\/Export\/WikiHtmlExport.php",
+        "line": 324,
+        "code": "$lng->txt(\"obj_wiki\")",
+        "has_variable": false,
+        "variable": "obj_wiki"
+    },
+    {
+        "id": 49680,
+        "file": "components\/ILIAS\/Wiki\/Notification\/NotificationGUI.php",
+        "line": 150,
+        "code": "$ulng->txt('wiki_notification_comment_subject')",
+        "has_variable": false,
+        "variable": "wiki_notification_comment_subject"
+    },
+    {
+        "id": 49682,
+        "file": "components\/ILIAS\/Wiki\/Notification\/NotificationGUI.php",
+        "line": 151,
+        "code": "$ulng->txt('wiki_change_notification_salutation')",
+        "has_variable": false,
+        "variable": "wiki_change_notification_salutation"
+    },
+    {
+        "id": 49684,
+        "file": "components\/ILIAS\/Wiki\/Notification\/NotificationGUI.php",
+        "line": 153,
+        "code": "$ulng->txt('wiki_notification_' . $a_action)",
+        "has_variable": true,
+        "variable": "'wiki_notification_' . $a_action"
+    },
+    {
+        "id": 49686,
+        "file": "components\/ILIAS\/Wiki\/Notification\/NotificationGUI.php",
+        "line": 154,
+        "code": "$ulng->txt('wiki')",
+        "has_variable": false,
+        "variable": "wiki"
+    },
+    {
+        "id": 49688,
+        "file": "components\/ILIAS\/Wiki\/Notification\/NotificationGUI.php",
+        "line": 155,
+        "code": "$ulng->txt('page')",
+        "has_variable": false,
+        "variable": "page"
+    },
+    {
+        "id": 49690,
+        "file": "components\/ILIAS\/Wiki\/Notification\/NotificationGUI.php",
+        "line": 156,
+        "code": "$ulng->txt('wiki_commented_by')",
+        "has_variable": false,
+        "variable": "wiki_commented_by"
+    },
+    {
+        "id": 49692,
+        "file": "components\/ILIAS\/Wiki\/Notification\/NotificationGUI.php",
+        "line": 160,
+        "code": "$ulng->txt('comment')",
+        "has_variable": false,
+        "variable": "comment"
+    },
+    {
+        "id": 49694,
+        "file": "components\/ILIAS\/Wiki\/Notification\/NotificationGUI.php",
+        "line": 163,
+        "code": "$ulng->txt('wiki_change_notification_page_link')",
+        "has_variable": false,
+        "variable": "wiki_change_notification_page_link"
+    },
+    {
+        "id": 49696,
+        "file": "components\/ILIAS\/Wiki\/Notification\/NotificationGUI.php",
+        "line": 165,
+        "code": "$ulng->txt('wiki_change_notification_subject')",
+        "has_variable": false,
+        "variable": "wiki_change_notification_subject"
+    },
+    {
+        "id": 49698,
+        "file": "components\/ILIAS\/Wiki\/Notification\/NotificationGUI.php",
+        "line": 166,
+        "code": "$ulng->txt('wiki_change_notification_salutation')",
+        "has_variable": false,
+        "variable": "wiki_change_notification_salutation"
+    },
+    {
+        "id": 49700,
+        "file": "components\/ILIAS\/Wiki\/Notification\/NotificationGUI.php",
+        "line": 170,
+        "code": "$ulng->txt('wiki_change_notification_page_body_' . $a_action)",
+        "has_variable": true,
+        "variable": "'wiki_change_notification_page_body_' . $a_action"
+    },
+    {
+        "id": 49702,
+        "file": "components\/ILIAS\/Wiki\/Notification\/NotificationGUI.php",
+        "line": 171,
+        "code": "$ulng->txt('wiki')",
+        "has_variable": false,
+        "variable": "wiki"
+    },
+    {
+        "id": 49704,
+        "file": "components\/ILIAS\/Wiki\/Notification\/NotificationGUI.php",
+        "line": 172,
+        "code": "$ulng->txt('page')",
+        "has_variable": false,
+        "variable": "page"
+    },
+    {
+        "id": 49706,
+        "file": "components\/ILIAS\/Wiki\/Notification\/NotificationGUI.php",
+        "line": 173,
+        "code": "$ulng->txt('wiki_changed_by')",
+        "has_variable": false,
+        "variable": "wiki_changed_by"
+    },
+    {
+        "id": 49708,
+        "file": "components\/ILIAS\/Wiki\/Notification\/NotificationGUI.php",
+        "line": 176,
+        "code": "$ulng->txt('content')",
+        "has_variable": false,
+        "variable": "content"
+    },
+    {
+        "id": 49710,
+        "file": "components\/ILIAS\/Wiki\/Notification\/NotificationGUI.php",
+        "line": 184,
+        "code": "$ulng->txt('comment')",
+        "has_variable": false,
+        "variable": "comment"
+    },
+    {
+        "id": 49712,
+        "file": "components\/ILIAS\/Wiki\/Notification\/NotificationGUI.php",
+        "line": 187,
+        "code": "$ulng->txt('wiki_change_notification_page_link')",
+        "has_variable": false,
+        "variable": "wiki_change_notification_page_link"
+    },
+    {
+        "id": 49714,
+        "file": "components\/ILIAS\/Wiki\/Notification\/NotificationGUI.php",
+        "line": 190,
+        "code": "$ulng->txt('wiki_change_notification_body_' . $a_action)",
+        "has_variable": true,
+        "variable": "'wiki_change_notification_body_' . $a_action"
+    },
+    {
+        "id": 49716,
+        "file": "components\/ILIAS\/Wiki\/Notification\/NotificationGUI.php",
+        "line": 191,
+        "code": "$ulng->txt('wiki')",
+        "has_variable": false,
+        "variable": "wiki"
+    },
+    {
+        "id": 49718,
+        "file": "components\/ILIAS\/Wiki\/Notification\/NotificationGUI.php",
+        "line": 192,
+        "code": "$ulng->txt('page')",
+        "has_variable": false,
+        "variable": "page"
+    },
+    {
+        "id": 49720,
+        "file": "components\/ILIAS\/Wiki\/Notification\/NotificationGUI.php",
+        "line": 193,
+        "code": "$ulng->txt('wiki_changed_by')",
+        "has_variable": false,
+        "variable": "wiki_changed_by"
+    },
+    {
+        "id": 49722,
+        "file": "components\/ILIAS\/Wiki\/Notification\/NotificationGUI.php",
+        "line": 196,
+        "code": "$ulng->txt('content')",
+        "has_variable": false,
+        "variable": "content"
+    },
+    {
+        "id": 49724,
+        "file": "components\/ILIAS\/Wiki\/Notification\/NotificationGUI.php",
+        "line": 202,
+        "code": "$ulng->txt('wiki_change_notification_link')",
+        "has_variable": false,
+        "variable": "wiki_change_notification_link"
+    },
+    {
+        "id": 49726,
+        "file": "components\/ILIAS\/Wiki\/PrintView\/class.WikiPrintViewProviderGUI.php",
+        "line": 102,
+        "code": "$lng->txt(\"cont_selection\")",
+        "has_variable": false,
+        "variable": "cont_selection"
+    },
+    {
+        "id": 49728,
+        "file": "components\/ILIAS\/Wiki\/PrintView\/class.WikiPrintViewProviderGUI.php",
+        "line": 104,
+        "code": "$lng->txt(\"cont_current_page\")",
+        "has_variable": false,
+        "variable": "cont_current_page"
+    },
+    {
+        "id": 49730,
+        "file": "components\/ILIAS\/Wiki\/PrintView\/class.WikiPrintViewProviderGUI.php",
+        "line": 106,
+        "code": "$lng->txt(\"wiki_whole_wiki\")",
+        "has_variable": false,
+        "variable": "wiki_whole_wiki"
+    },
+    {
+        "id": 49732,
+        "file": "components\/ILIAS\/Wiki\/PrintView\/class.WikiPrintViewProviderGUI.php",
+        "line": 107,
+        "code": "$lng->txt(\"wiki_pages\")",
+        "has_variable": false,
+        "variable": "wiki_pages"
+    },
+    {
+        "id": 49734,
+        "file": "components\/ILIAS\/Wiki\/PrintView\/class.WikiPrintViewProviderGUI.php",
+        "line": 109,
+        "code": "$lng->txt(\"wiki_selected_pages\")",
+        "has_variable": false,
+        "variable": "wiki_selected_pages"
+    },
+    {
+        "id": 49736,
+        "file": "components\/ILIAS\/Wiki\/PrintView\/class.WikiPrintViewProviderGUI.php",
+        "line": 123,
+        "code": "$lng->txt(\"wiki_page\")",
+        "has_variable": false,
+        "variable": "wiki_page"
+    },
+    {
+        "id": 49738,
+        "file": "components\/ILIAS\/Wiki\/PrintView\/class.WikiPrintViewProviderGUI.php",
+        "line": 129,
+        "code": "$lng->txt(\"wiki_show_print_view\")",
+        "has_variable": false,
+        "variable": "wiki_show_print_view"
+    },
+    {
+        "id": 49740,
+        "file": "components\/ILIAS\/Wiki\/PrintView\/class.WikiPrintViewProviderGUI.php",
+        "line": 131,
+        "code": "$lng->txt(\"cont_print_selection\")",
+        "has_variable": false,
+        "variable": "cont_print_selection"
+    },
+    {
+        "id": 49742,
+        "file": "components\/ILIAS\/Wiki\/Search\/SubitemPropertiesReader.php",
+        "line": 93,
+        "code": "$this->lng->txt('obj_pg')",
+        "has_variable": false,
+        "variable": "obj_pg"
+    },
+    {
+        "id": 49744,
+        "file": "components\/ILIAS\/Wiki\/Search\/SubitemPropertiesReader.php",
+        "line": 113,
+        "code": "$this->lng->txt('obj_file')",
+        "has_variable": false,
+        "variable": "obj_file"
+    },
+    {
+        "id": 49746,
+        "file": "components\/ILIAS\/Wiki\/Settings\/class.SettingsGUI.php",
+        "line": 74,
+        "code": "$lng->txt(\"wiki_settings\")",
+        "has_variable": false,
+        "variable": "wiki_settings"
+    },
+    {
+        "id": 49748,
+        "file": "components\/ILIAS\/Wiki\/Settings\/class.SettingsGUI.php",
+        "line": 78,
+        "code": "$lng->txt(\"wiki_introduction\")",
+        "has_variable": false,
+        "variable": "wiki_introduction"
+    },
+    {
+        "id": 49750,
+        "file": "components\/ILIAS\/Wiki\/Settings\/class.SettingsGUI.php",
+        "line": 84,
+        "code": "$lng->txt(\"wiki_start_page\")",
+        "has_variable": false,
+        "variable": "wiki_start_page"
+    },
+    {
+        "id": 49752,
+        "file": "components\/ILIAS\/Wiki\/Settings\/class.SettingsGUI.php",
+        "line": 89,
+        "code": "$lng->txt(\"rep_activation_availability\")",
+        "has_variable": false,
+        "variable": "rep_activation_availability"
+    },
+    {
+        "id": 49754,
+        "file": "components\/ILIAS\/Wiki\/Settings\/class.SettingsGUI.php",
+        "line": 92,
+        "code": "$lng->txt(\"obj_presentation\")",
+        "has_variable": false,
+        "variable": "obj_presentation"
+    },
+    {
+        "id": 49756,
+        "file": "components\/ILIAS\/Wiki\/Settings\/class.SettingsGUI.php",
+        "line": 96,
+        "code": "$lng->txt(\"wiki_page_toc\")",
+        "has_variable": false,
+        "variable": "wiki_page_toc"
+    },
+    {
+        "id": 49758,
+        "file": "components\/ILIAS\/Wiki\/Settings\/class.SettingsGUI.php",
+        "line": 97,
+        "code": "$lng->txt(\"wiki_page_toc_info\")",
+        "has_variable": false,
+        "variable": "wiki_page_toc_info"
+    },
+    {
+        "id": 49760,
+        "file": "components\/ILIAS\/Wiki\/Settings\/class.SettingsGUI.php",
+        "line": 105,
+        "code": "$lng->txt(\"wiki_link_md_values\")",
+        "has_variable": false,
+        "variable": "wiki_link_md_values"
+    },
+    {
+        "id": 49762,
+        "file": "components\/ILIAS\/Wiki\/Settings\/class.SettingsGUI.php",
+        "line": 106,
+        "code": "$lng->txt(\"wiki_link_md_values_info\")",
+        "has_variable": false,
+        "variable": "wiki_link_md_values_info"
+    },
+    {
+        "id": 49764,
+        "file": "components\/ILIAS\/Wiki\/Settings\/class.SettingsGUI.php",
+        "line": 120,
+        "code": "$lng->txt(\"rating_activate_rating\")",
+        "has_variable": false,
+        "variable": "rating_activate_rating"
+    },
+    {
+        "id": 49766,
+        "file": "components\/ILIAS\/Wiki\/Settings\/class.SettingsGUI.php",
+        "line": 121,
+        "code": "$lng->txt(\"rating_activate_rating_info\")",
+        "has_variable": false,
+        "variable": "rating_activate_rating_info"
+    },
+    {
+        "id": 49768,
+        "file": "components\/ILIAS\/Wiki\/Settings\/class.SettingsGUI.php",
+        "line": 126,
+        "code": "$lng->txt(\"wiki_activate_rating\")",
+        "has_variable": false,
+        "variable": "wiki_activate_rating"
+    },
+    {
+        "id": 49770,
+        "file": "components\/ILIAS\/Wiki\/Settings\/class.SettingsGUI.php",
+        "line": 132,
+        "code": "$lng->txt(\"wiki_activate_new_page_rating\")",
+        "has_variable": false,
+        "variable": "wiki_activate_new_page_rating"
+    },
+    {
+        "id": 49772,
+        "file": "components\/ILIAS\/Wiki\/Settings\/class.SettingsGUI.php",
+        "line": 138,
+        "code": "$lng->txt(\"wiki_activate_extended_rating\")",
+        "has_variable": false,
+        "variable": "wiki_activate_extended_rating"
+    },
+    {
+        "id": 49774,
+        "file": "components\/ILIAS\/Wiki\/Settings\/class.SettingsGUI.php",
+        "line": 148,
+        "code": "$lng->txt(\"wiki_public_comments\")",
+        "has_variable": false,
+        "variable": "wiki_public_comments"
+    },
+    {
+        "id": 49776,
+        "file": "components\/ILIAS\/Wiki\/Settings\/class.SettingsGUI.php",
+        "line": 201,
+        "code": "$lng->txt(\"msg_obj_modified\")",
+        "has_variable": false,
+        "variable": "msg_obj_modified"
+    },
+    {
+        "id": 49778,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilImportantPagesTableGUI.php",
+        "line": 54,
+        "code": "$this->lng->txt(\"\")",
+        "has_variable": true,
+        "variable": ""
+    },
+    {
+        "id": 49780,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilImportantPagesTableGUI.php",
+        "line": 58,
+        "code": "$this->lng->txt(\"wiki_ordering\")",
+        "has_variable": false,
+        "variable": "wiki_ordering"
+    },
+    {
+        "id": 49782,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilImportantPagesTableGUI.php",
+        "line": 59,
+        "code": "$this->lng->txt(\"wiki_indentation\")",
+        "has_variable": false,
+        "variable": "wiki_indentation"
+    },
+    {
+        "id": 49784,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilImportantPagesTableGUI.php",
+        "line": 60,
+        "code": "$this->lng->txt(\"wiki_page\")",
+        "has_variable": false,
+        "variable": "wiki_page"
+    },
+    {
+        "id": 49786,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilImportantPagesTableGUI.php",
+        "line": 61,
+        "code": "$this->lng->txt(\"wiki_purpose\")",
+        "has_variable": false,
+        "variable": "wiki_purpose"
+    },
+    {
+        "id": 49788,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilImportantPagesTableGUI.php",
+        "line": 69,
+        "code": "$this->lng->txt(\"remove\")",
+        "has_variable": false,
+        "variable": "remove"
+    },
+    {
+        "id": 49790,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilImportantPagesTableGUI.php",
+        "line": 70,
+        "code": "$this->lng->txt(\"wiki_set_as_start_page\")",
+        "has_variable": false,
+        "variable": "wiki_set_as_start_page"
+    },
+    {
+        "id": 49792,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilImportantPagesTableGUI.php",
+        "line": 71,
+        "code": "$this->lng->txt(\"wiki_save_ordering_and_indent\")",
+        "has_variable": false,
+        "variable": "wiki_save_ordering_and_indent"
+    },
+    {
+        "id": 49794,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilImportantPagesTableGUI.php",
+        "line": 106,
+        "code": "$lng->txt(\"wiki_page_template\")",
+        "has_variable": false,
+        "variable": "wiki_page_template"
+    },
+    {
+        "id": 49796,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilImportantPagesTableGUI.php",
+        "line": 117,
+        "code": "$lng->txt(\"wiki_start_page\")",
+        "has_variable": false,
+        "variable": "wiki_start_page"
+    },
+    {
+        "id": 49798,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilObjWiki.php",
+        "line": 687,
+        "code": "$lng->txt(\"wiki_wpg\")",
+        "has_variable": false,
+        "variable": "wiki_wpg"
+    },
+    {
+        "id": 49800,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilObjWikiAccess.php",
+        "line": 67,
+        "code": "$lng->txt(\"offline\")",
+        "has_variable": false,
+        "variable": "offline"
+    },
+    {
+        "id": 49802,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilObjWikiAccess.php",
+        "line": 75,
+        "code": "$lng->txt(\"offline\")",
+        "has_variable": false,
+        "variable": "offline"
+    },
+    {
+        "id": 49804,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilObjWikiAccess.php",
+        "line": 77,
+        "code": "$lng->txt(\"online\")",
+        "has_variable": false,
+        "variable": "online"
+    },
+    {
+        "id": 49806,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilObjWikiAccess.php",
+        "line": 86,
+        "code": "$lng->txt(\"offline\")",
+        "has_variable": false,
+        "variable": "offline"
+    },
+    {
+        "id": 49808,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilObjWikiGUI.php",
+        "line": 262,
+        "code": "$this->lng->txt(\"page\")",
+        "has_variable": false,
+        "variable": "page"
+    },
+    {
+        "id": 49810,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilObjWikiGUI.php",
+        "line": 381,
+        "code": "$lng->txt(\"wiki_start_page\")",
+        "has_variable": false,
+        "variable": "wiki_start_page"
+    },
+    {
+        "id": 49812,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilObjWikiGUI.php",
+        "line": 386,
+        "code": "$this->lng->txt($new_type . '_add')",
+        "has_variable": true,
+        "variable": "$new_type . '_add'"
+    },
+    {
+        "id": 49814,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilObjWikiGUI.php",
+        "line": 399,
+        "code": "$this->lng->txt(\"object_added\")",
+        "has_variable": false,
+        "variable": "object_added"
+    },
+    {
+        "id": 49816,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilObjWikiGUI.php",
+        "line": 433,
+        "code": "$this->lng->txt(\"permission_denied\")",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 49818,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilObjWikiGUI.php",
+        "line": 439,
+        "code": "$lng->txt(\"wiki_introduction\")",
+        "has_variable": false,
+        "variable": "wiki_introduction"
+    },
+    {
+        "id": 49820,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilObjWikiGUI.php",
+        "line": 448,
+        "code": "$this->lng->txt(\"wiki_feedback_from_tutor\")",
+        "has_variable": false,
+        "variable": "wiki_feedback_from_tutor"
+    },
+    {
+        "id": 49822,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilObjWikiGUI.php",
+        "line": 451,
+        "code": "$this->lng->txt(\"wiki_comment\")",
+        "has_variable": false,
+        "variable": "wiki_comment"
+    },
+    {
+        "id": 49824,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilObjWikiGUI.php",
+        "line": 457,
+        "code": "$this->lng->txt(\"wiki_mark\")",
+        "has_variable": false,
+        "variable": "wiki_mark"
+    },
+    {
+        "id": 49826,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilObjWikiGUI.php",
+        "line": 464,
+        "code": "$this->lng->txt(\"status\")",
+        "has_variable": false,
+        "variable": "status"
+    },
+    {
+        "id": 49828,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilObjWikiGUI.php",
+        "line": 465,
+        "code": "$this->lng->txt(\"wiki_passed\")",
+        "has_variable": false,
+        "variable": "wiki_passed"
+    },
+    {
+        "id": 49830,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilObjWikiGUI.php",
+        "line": 470,
+        "code": "$this->lng->txt(\"status\")",
+        "has_variable": false,
+        "variable": "status"
+    },
+    {
+        "id": 49832,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilObjWikiGUI.php",
+        "line": 471,
+        "code": "$this->lng->txt(\"wiki_failed\")",
+        "has_variable": false,
+        "variable": "wiki_failed"
+    },
+    {
+        "id": 49834,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilObjWikiGUI.php",
+        "line": 477,
+        "code": "$lng->txt(\"wiki_start_page\")",
+        "has_variable": false,
+        "variable": "wiki_start_page"
+    },
+    {
+        "id": 49836,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilObjWikiGUI.php",
+        "line": 599,
+        "code": "$lng->txt(\"wiki_last_visited_page\")",
+        "has_variable": false,
+        "variable": "wiki_last_visited_page"
+    },
+    {
+        "id": 49838,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilObjWikiGUI.php",
+        "line": 612,
+        "code": "$lng->txt(\"wiki_pages\")",
+        "has_variable": false,
+        "variable": "wiki_pages"
+    },
+    {
+        "id": 49840,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilObjWikiGUI.php",
+        "line": 622,
+        "code": "$this->lng->txt(\"mob_media\")",
+        "has_variable": false,
+        "variable": "mob_media"
+    },
+    {
+        "id": 49842,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilObjWikiGUI.php",
+        "line": 631,
+        "code": "$lng->txt(\"info_short\")",
+        "has_variable": false,
+        "variable": "info_short"
+    },
+    {
+        "id": 49844,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilObjWikiGUI.php",
+        "line": 640,
+        "code": "$lng->txt(\"settings\")",
+        "has_variable": false,
+        "variable": "settings"
+    },
+    {
+        "id": 49846,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilObjWikiGUI.php",
+        "line": 650,
+        "code": "$this->lng->txt(\"meta_data\")",
+        "has_variable": false,
+        "variable": "meta_data"
+    },
+    {
+        "id": 49848,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilObjWikiGUI.php",
+        "line": 660,
+        "code": "$lng->txt(\"wiki_contributors\")",
+        "has_variable": false,
+        "variable": "wiki_contributors"
+    },
+    {
+        "id": 49850,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilObjWikiGUI.php",
+        "line": 669,
+        "code": "$lng->txt(\"statistics\")",
+        "has_variable": false,
+        "variable": "statistics"
+    },
+    {
+        "id": 49852,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilObjWikiGUI.php",
+        "line": 677,
+        "code": "$lng->txt(\"export\")",
+        "has_variable": false,
+        "variable": "export"
+    },
+    {
+        "id": 49854,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilObjWikiGUI.php",
+        "line": 686,
+        "code": "$lng->txt(\"perm_settings\")",
+        "has_variable": false,
+        "variable": "perm_settings"
+    },
+    {
+        "id": 49856,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilObjWikiGUI.php",
+        "line": 708,
+        "code": "$lng->txt(\"wiki_general_settings\")",
+        "has_variable": false,
+        "variable": "wiki_general_settings"
+    },
+    {
+        "id": 49858,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilObjWikiGUI.php",
+        "line": 715,
+        "code": "$lng->txt(\"obj_permission_settings\")",
+        "has_variable": false,
+        "variable": "obj_permission_settings"
+    },
+    {
+        "id": 49860,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilObjWikiGUI.php",
+        "line": 722,
+        "code": "$lng->txt(\"wiki_style\")",
+        "has_variable": false,
+        "variable": "wiki_style"
+    },
+    {
+        "id": 49862,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilObjWikiGUI.php",
+        "line": 731,
+        "code": "$lng->txt(\"wiki_navigation\")",
+        "has_variable": false,
+        "variable": "wiki_navigation"
+    },
+    {
+        "id": 49864,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilObjWikiGUI.php",
+        "line": 740,
+        "code": "$lng->txt(\"wiki_page_templates\")",
+        "has_variable": false,
+        "variable": "wiki_page_templates"
+    },
+    {
+        "id": 49866,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilObjWikiGUI.php",
+        "line": 749,
+        "code": "$lng->txt(\"rating_categories\")",
+        "has_variable": false,
+        "variable": "rating_categories"
+    },
+    {
+        "id": 49868,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilObjWikiGUI.php",
+        "line": 756,
+        "code": "$lng->txt(\"notifications\")",
+        "has_variable": false,
+        "variable": "notifications"
+    },
+    {
+        "id": 49870,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilObjWikiGUI.php",
+        "line": 762,
+        "code": "$lng->txt(\"obj_multilinguality\")",
+        "has_variable": false,
+        "variable": "obj_multilinguality"
+    },
+    {
+        "id": 49872,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilObjWikiGUI.php",
+        "line": 836,
+        "code": "$lng->txt(\"msg_obj_modified\")",
+        "has_variable": false,
+        "variable": "msg_obj_modified"
+    },
+    {
+        "id": 49874,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilObjWikiGUI.php",
+        "line": 937,
+        "code": "$lng->txt(\"msg_no_perm_read_item\")",
+        "has_variable": false,
+        "variable": "msg_no_perm_read_item"
+    },
+    {
+        "id": 49876,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilObjWikiGUI.php",
+        "line": 943,
+        "code": "$lng->txt(\"permission_denied\")",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 49878,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilObjWikiGUI.php",
+        "line": 1076,
+        "code": "$this->lng->txt(\"no_permission\")",
+        "has_variable": false,
+        "variable": "no_permission"
+    },
+    {
+        "id": 49880,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilObjWikiGUI.php",
+        "line": 1088,
+        "code": "$this->lng->txt(\"wiki_page_title_too_long\")",
+        "has_variable": false,
+        "variable": "wiki_page_title_too_long"
+    },
+    {
+        "id": 49882,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilObjWikiGUI.php",
+        "line": 1133,
+        "code": "$this->lng->txt(\"back\")",
+        "has_variable": false,
+        "variable": "back"
+    },
+    {
+        "id": 49884,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilObjWikiGUI.php",
+        "line": 1152,
+        "code": "$this->lng->txt(\"wiki_translate_page_master_info\")",
+        "has_variable": false,
+        "variable": "wiki_translate_page_master_info"
+    },
+    {
+        "id": 49886,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilObjWikiGUI.php",
+        "line": 1165,
+        "code": "$this->lng->txt(\"meta_l_\" . $this->edit_request->getTranslation())",
+        "has_variable": true,
+        "variable": "\"meta_l_\" . $this->edit_request->getTranslation()"
+    },
+    {
+        "id": 49888,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilObjWikiGUI.php",
+        "line": 1166,
+        "code": "$this->lng->txt(\"meta_l_\" . $this->object->getObjectProperties()->getPropertyTranslations()->getBaseLanguage())",
+        "has_variable": true,
+        "variable": "\"meta_l_\" . $this->object->getObjectProperties()->getPropertyTranslations()->getBaseLanguage()"
+    },
+    {
+        "id": 49890,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilObjWikiGUI.php",
+        "line": 1168,
+        "code": "$this->lng->txt(\"wiki_translation_page\")",
+        "has_variable": false,
+        "variable": "wiki_translation_page"
+    },
+    {
+        "id": 49892,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilObjWikiGUI.php",
+        "line": 1169,
+        "code": "$this->lng->txt(\"wiki_page_in_master_language\")",
+        "has_variable": false,
+        "variable": "wiki_page_in_master_language"
+    },
+    {
+        "id": 49894,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilObjWikiGUI.php",
+        "line": 1170,
+        "code": "$this->lng->txt(\"wiki_master_existing\")",
+        "has_variable": false,
+        "variable": "wiki_master_existing"
+    },
+    {
+        "id": 49896,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilObjWikiGUI.php",
+        "line": 1171,
+        "code": "$this->lng->txt(\"wiki_master_title\")",
+        "has_variable": false,
+        "variable": "wiki_master_title"
+    },
+    {
+        "id": 49898,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilObjWikiGUI.php",
+        "line": 1173,
+        "code": "$this->lng->txt(\"wiki_no_master\")",
+        "has_variable": false,
+        "variable": "wiki_no_master"
+    },
+    {
+        "id": 49900,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilObjWikiGUI.php",
+        "line": 1174,
+        "code": "$this->lng->txt(\"wiki_master_title\")",
+        "has_variable": false,
+        "variable": "wiki_master_title"
+    },
+    {
+        "id": 49902,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilObjWikiGUI.php",
+        "line": 1178,
+        "code": "$this->lng->txt(\"wiki_page_template\")",
+        "has_variable": false,
+        "variable": "wiki_page_template"
+    },
+    {
+        "id": 49904,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilObjWikiGUI.php",
+        "line": 1180,
+        "code": "$this->lng->txt(\"wiki_empty_page\")",
+        "has_variable": false,
+        "variable": "wiki_empty_page"
+    },
+    {
+        "id": 49906,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilObjWikiGUI.php",
+        "line": 1277,
+        "code": "$lng->txt('wiki_search')",
+        "has_variable": false,
+        "variable": "wiki_search"
+    },
+    {
+        "id": 49908,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilObjWikiGUI.php",
+        "line": 1291,
+        "code": "$lng->txt(\"wiki_rate_page\")",
+        "has_variable": false,
+        "variable": "wiki_rate_page"
+    },
+    {
+        "id": 49910,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilObjWikiGUI.php",
+        "line": 1401,
+        "code": "$lng->txt(\"wiki_please_enter_search_term\")",
+        "has_variable": false,
+        "variable": "wiki_please_enter_search_term"
+    },
+    {
+        "id": 49912,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilObjWikiGUI.php",
+        "line": 1448,
+        "code": "$lng->txt(\"wiki_navigation_info\")",
+        "has_variable": false,
+        "variable": "wiki_navigation_info"
+    },
+    {
+        "id": 49914,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilObjWikiGUI.php",
+        "line": 1454,
+        "code": "$lng->txt(\"please_select\")",
+        "has_variable": false,
+        "variable": "please_select"
+    },
+    {
+        "id": 49916,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilObjWikiGUI.php",
+        "line": 1461,
+        "code": "$lng->txt(\"wiki_pages\")",
+        "has_variable": false,
+        "variable": "wiki_pages"
+    },
+    {
+        "id": 49918,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilObjWikiGUI.php",
+        "line": 1463,
+        "code": "$lng->txt(\"\")",
+        "has_variable": true,
+        "variable": ""
+    },
+    {
+        "id": 49920,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilObjWikiGUI.php",
+        "line": 1466,
+        "code": "$lng->txt(\"add\")",
+        "has_variable": false,
+        "variable": "add"
+    },
+    {
+        "id": 49922,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilObjWikiGUI.php",
+        "line": 1488,
+        "code": "$lng->txt(\"wiki_imp_page_added\")",
+        "has_variable": false,
+        "variable": "wiki_imp_page_added"
+    },
+    {
+        "id": 49924,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilObjWikiGUI.php",
+        "line": 1501,
+        "code": "$lng->txt(\"no_checkbox\")",
+        "has_variable": false,
+        "variable": "no_checkbox"
+    },
+    {
+        "id": 49926,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilObjWikiGUI.php",
+        "line": 1506,
+        "code": "$lng->txt(\"wiki_sure_remove_imp_pages\")",
+        "has_variable": false,
+        "variable": "wiki_sure_remove_imp_pages"
+    },
+    {
+        "id": 49928,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilObjWikiGUI.php",
+        "line": 1507,
+        "code": "$lng->txt(\"cancel\")",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 49930,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilObjWikiGUI.php",
+        "line": 1508,
+        "code": "$lng->txt(\"remove\")",
+        "has_variable": false,
+        "variable": "remove"
+    },
+    {
+        "id": 49932,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilObjWikiGUI.php",
+        "line": 1529,
+        "code": "$lng->txt(\"wiki_removed_imp_pages\")",
+        "has_variable": false,
+        "variable": "wiki_removed_imp_pages"
+    },
+    {
+        "id": 49934,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilObjWikiGUI.php",
+        "line": 1543,
+        "code": "$lng->txt(\"wiki_ordering_and_indent_saved\")",
+        "has_variable": false,
+        "variable": "wiki_ordering_and_indent_saved"
+    },
+    {
+        "id": 49936,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilObjWikiGUI.php",
+        "line": 1556,
+        "code": "$lng->txt(\"wiki_select_one_item\")",
+        "has_variable": false,
+        "variable": "wiki_select_one_item"
+    },
+    {
+        "id": 49938,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilObjWikiGUI.php",
+        "line": 1561,
+        "code": "$this->lng->txt(\"msg_obj_modified\")",
+        "has_variable": false,
+        "variable": "msg_obj_modified"
+    },
+    {
+        "id": 49940,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilObjWikiGUI.php",
+        "line": 1623,
+        "code": "$lng->txt(\"wiki_page_not_exist_select_templ\")",
+        "has_variable": false,
+        "variable": "wiki_page_not_exist_select_templ"
+    },
+    {
+        "id": 49942,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilObjWikiGUI.php",
+        "line": 1642,
+        "code": "$lng->txt(\"wiki_page_template\")",
+        "has_variable": false,
+        "variable": "wiki_page_template"
+    },
+    {
+        "id": 49944,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilObjWikiGUI.php",
+        "line": 1646,
+        "code": "$lng->txt(\"wiki_empty_page\")",
+        "has_variable": false,
+        "variable": "wiki_empty_page"
+    },
+    {
+        "id": 49946,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilObjWikiGUI.php",
+        "line": 1660,
+        "code": "$lng->txt(\"wiki_create_page\")",
+        "has_variable": false,
+        "variable": "wiki_create_page"
+    },
+    {
+        "id": 49948,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilObjWikiGUI.php",
+        "line": 1661,
+        "code": "$lng->txt(\"cancel\")",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 49950,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilObjWikiGUI.php",
+        "line": 1663,
+        "code": "$lng->txt(\"wiki_new_page\")",
+        "has_variable": false,
+        "variable": "wiki_new_page"
+    },
+    {
+        "id": 49952,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilObjWikiGUI.php",
+        "line": 1689,
+        "code": "$lng->txt(\"msg_obj_modified\")",
+        "has_variable": false,
+        "variable": "msg_obj_modified"
+    },
+    {
+        "id": 49954,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilObjWikiGUI.php",
+        "line": 1839,
+        "code": "$lng->txt(\"wiki_finalize_wiki\")",
+        "has_variable": false,
+        "variable": "wiki_finalize_wiki"
+    },
+    {
+        "id": 49956,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilObjWikiGUI.php",
+        "line": 1851,
+        "code": "$lng->txt(\"wiki_download_submission\")",
+        "has_variable": false,
+        "variable": "wiki_download_submission"
+    },
+    {
+        "id": 49958,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilObjWikiListGUI.php",
+        "line": 62,
+        "code": "$lng->txt(\"wiki_team_members\")",
+        "has_variable": false,
+        "variable": "wiki_team_members"
+    },
+    {
+        "id": 49960,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilObjWikiSettingsGUI.php",
+        "line": 68,
+        "code": "$this->lng->txt('no_permission')",
+        "has_variable": false,
+        "variable": "no_permission"
+    },
+    {
+        "id": 49962,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilObjWikiSettingsGUI.php",
+        "line": 117,
+        "code": "$lng->txt(\"save\")",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 49964,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilObjWikiSettingsGUI.php",
+        "line": 120,
+        "code": "$lng->txt(\"settings\")",
+        "has_variable": false,
+        "variable": "settings"
+    },
+    {
+        "id": 49966,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilObjWikiSettingsGUI.php",
+        "line": 143,
+        "code": "$lng->txt('msg_obj_modified')",
+        "has_variable": false,
+        "variable": "msg_obj_modified"
+    },
+    {
+        "id": 49968,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilObjWikiSettingsGUI.php",
+        "line": 152,
+        "code": "$this->lng->txt(\"settings\")",
+        "has_variable": false,
+        "variable": "settings"
+    },
+    {
+        "id": 49970,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilObjWikiSettingsGUI.php",
+        "line": 160,
+        "code": "$this->lng->txt(\"perm_settings\")",
+        "has_variable": false,
+        "variable": "perm_settings"
+    },
+    {
+        "id": 49972,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilPCAMDPageListGUI.php",
+        "line": 87,
+        "code": "$this->lng->txt(\"cont_insert_amd_page_list\")",
+        "has_variable": false,
+        "variable": "cont_insert_amd_page_list"
+    },
+    {
+        "id": 49974,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilPCAMDPageListGUI.php",
+        "line": 89,
+        "code": "$this->lng->txt(\"cont_update_amd_page_list\")",
+        "has_variable": false,
+        "variable": "cont_update_amd_page_list"
+    },
+    {
+        "id": 49976,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilPCAMDPageListGUI.php",
+        "line": 91,
+        "code": "$this->lng->txt(\"wiki_page_list_form_info\")",
+        "has_variable": false,
+        "variable": "wiki_page_list_form_info"
+    },
+    {
+        "id": 49978,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilPCAMDPageListGUI.php",
+        "line": 93,
+        "code": "$this->lng->txt(\"wiki_page_list_mode\")",
+        "has_variable": false,
+        "variable": "wiki_page_list_mode"
+    },
+    {
+        "id": 49980,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilPCAMDPageListGUI.php",
+        "line": 95,
+        "code": "$this->lng->txt(\"wiki_page_list_mode_unordered\")",
+        "has_variable": false,
+        "variable": "wiki_page_list_mode_unordered"
+    },
+    {
+        "id": 49982,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilPCAMDPageListGUI.php",
+        "line": 96,
+        "code": "$this->lng->txt(\"wiki_page_list_mode_ordered\")",
+        "has_variable": false,
+        "variable": "wiki_page_list_mode_ordered"
+    },
+    {
+        "id": 49984,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilPCAMDPageListGUI.php",
+        "line": 119,
+        "code": "$this->lng->txt(\"wiki_pg_list_no_search_fields\")",
+        "has_variable": false,
+        "variable": "wiki_pg_list_no_search_fields"
+    },
+    {
+        "id": 49986,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilPCAMDPageListGUI.php",
+        "line": 124,
+        "code": "$this->lng->txt(\"select\")",
+        "has_variable": false,
+        "variable": "select"
+    },
+    {
+        "id": 49988,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilPCAMDPageListGUI.php",
+        "line": 126,
+        "code": "$this->lng->txt(\"cancel\")",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 49990,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilPCAMDPageListGUI.php",
+        "line": 129,
+        "code": "$this->lng->txt(\"select\")",
+        "has_variable": false,
+        "variable": "select"
+    },
+    {
+        "id": 49992,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilPCAMDPageListGUI.php",
+        "line": 131,
+        "code": "$this->lng->txt(\"cancel\")",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 49994,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiContributorsTableGUI.php",
+        "line": 46,
+        "code": "$lng->txt(\"wiki_contributors\")",
+        "has_variable": false,
+        "variable": "wiki_contributors"
+    },
+    {
+        "id": 49996,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiContributorsTableGUI.php",
+        "line": 47,
+        "code": "$lng->txt(\"wiki_page_changes\")",
+        "has_variable": false,
+        "variable": "wiki_page_changes"
+    },
+    {
+        "id": 49998,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiContributorsTableGUI.php",
+        "line": 48,
+        "code": "$lng->txt(\"wiki_grading\")",
+        "has_variable": false,
+        "variable": "wiki_grading"
+    },
+    {
+        "id": 50000,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiContributorsTableGUI.php",
+        "line": 57,
+        "code": "$lng->txt(\"save\")",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 50002,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiContributorsTableGUI.php",
+        "line": 58,
+        "code": "$lng->txt(\"save\")",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 50004,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiContributorsTableGUI.php",
+        "line": 62,
+        "code": "$lng->txt(\"wiki_contributors\")",
+        "has_variable": false,
+        "variable": "wiki_contributors"
+    },
+    {
+        "id": 50006,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiContributorsTableGUI.php",
+        "line": 113,
+        "code": "$lng->txt(\"wiki_comment_for_learner\")",
+        "has_variable": false,
+        "variable": "wiki_comment_for_learner"
+    },
+    {
+        "id": 50008,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiContributorsTableGUI.php",
+        "line": 131,
+        "code": "$lng->txt(\"wiki_notgraded\")",
+        "has_variable": false,
+        "variable": "wiki_notgraded"
+    },
+    {
+        "id": 50010,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiContributorsTableGUI.php",
+        "line": 132,
+        "code": "$lng->txt(\"wiki_passed\")",
+        "has_variable": false,
+        "variable": "wiki_passed"
+    },
+    {
+        "id": 50012,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiContributorsTableGUI.php",
+        "line": 133,
+        "code": "$lng->txt(\"wiki_failed\")",
+        "has_variable": false,
+        "variable": "wiki_failed"
+    },
+    {
+        "id": 50014,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiContributorsTableGUI.php",
+        "line": 139,
+        "code": "$lng->txt(\"last_change\")",
+        "has_variable": false,
+        "variable": "last_change"
+    },
+    {
+        "id": 50016,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiContributorsTableGUI.php",
+        "line": 153,
+        "code": "$lng->txt(\"wiki_passed\")",
+        "has_variable": false,
+        "variable": "wiki_passed"
+    },
+    {
+        "id": 50018,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiContributorsTableGUI.php",
+        "line": 159,
+        "code": "$lng->txt(\"wiki_failed\")",
+        "has_variable": false,
+        "variable": "wiki_failed"
+    },
+    {
+        "id": 50020,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiContributorsTableGUI.php",
+        "line": 165,
+        "code": "$lng->txt(\"wiki_notgraded\")",
+        "has_variable": false,
+        "variable": "wiki_notgraded"
+    },
+    {
+        "id": 50022,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiContributorsTableGUI.php",
+        "line": 173,
+        "code": "$lng->txt(\"wiki_mark\")",
+        "has_variable": false,
+        "variable": "wiki_mark"
+    },
+    {
+        "id": 50024,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiExportOptionHTML.php",
+        "line": 64,
+        "code": "$this->lng->txt('exp_format_dropdown-html')",
+        "has_variable": false,
+        "variable": "exp_format_dropdown-html"
+    },
+    {
+        "id": 50026,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiExportOptionHTMLWithComments.php",
+        "line": 59,
+        "code": "$this->lng->txt(\"exp_format_dropdown-html\")",
+        "has_variable": false,
+        "variable": "exp_format_dropdown-html"
+    },
+    {
+        "id": 50028,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiExportOptionHTMLWithComments.php",
+        "line": 59,
+        "code": "$this->lng->txt(\"wiki_incl_comments\")",
+        "has_variable": false,
+        "variable": "wiki_incl_comments"
+    },
+    {
+        "id": 50030,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiExportOrderTableGUI.php",
+        "line": 46,
+        "code": "$lng->txt($title)",
+        "has_variable": true,
+        "variable": "$title"
+    },
+    {
+        "id": 50032,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiExportOrderTableGUI.php",
+        "line": 48,
+        "code": "$lng->txt(\"wiki_ordering\")",
+        "has_variable": false,
+        "variable": "wiki_ordering"
+    },
+    {
+        "id": 50034,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiExportOrderTableGUI.php",
+        "line": 49,
+        "code": "$lng->txt(\"wiki_page\")",
+        "has_variable": false,
+        "variable": "wiki_page"
+    },
+    {
+        "id": 50036,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiExportOrderTableGUI.php",
+        "line": 52,
+        "code": "$lng->txt(\"refresh\")",
+        "has_variable": false,
+        "variable": "refresh"
+    },
+    {
+        "id": 50038,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiExportOrderTableGUI.php",
+        "line": 54,
+        "code": "$lng->txt(\"continue\")",
+        "has_variable": false,
+        "variable": "continue"
+    },
+    {
+        "id": 50040,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiFunctionsBlockGUI.php",
+        "line": 59,
+        "code": "$lng->txt(\"wiki_functions\")",
+        "has_variable": false,
+        "variable": "wiki_functions"
+    },
+    {
+        "id": 50042,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiFunctionsBlockGUI.php",
+        "line": 120,
+        "code": "$lng->txt(\"info_short\")",
+        "has_variable": false,
+        "variable": "info_short"
+    },
+    {
+        "id": 50044,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiFunctionsBlockGUI.php",
+        "line": 126,
+        "code": "$lng->txt(\"wiki_recent_changes\")",
+        "has_variable": false,
+        "variable": "wiki_recent_changes"
+    },
+    {
+        "id": 50046,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiFunctionsBlockGUI.php",
+        "line": 144,
+        "code": "$lng->txt(\"wiki_all_pages\")",
+        "has_variable": false,
+        "variable": "wiki_all_pages"
+    },
+    {
+        "id": 50048,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiFunctionsBlockGUI.php",
+        "line": 150,
+        "code": "$lng->txt(\"wiki_new_pages\")",
+        "has_variable": false,
+        "variable": "wiki_new_pages"
+    },
+    {
+        "id": 50050,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiFunctionsBlockGUI.php",
+        "line": 156,
+        "code": "$lng->txt(\"wiki_popular_pages\")",
+        "has_variable": false,
+        "variable": "wiki_popular_pages"
+    },
+    {
+        "id": 50052,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiFunctionsBlockGUI.php",
+        "line": 162,
+        "code": "$lng->txt(\"wiki_orphaned_pages\")",
+        "has_variable": false,
+        "variable": "wiki_orphaned_pages"
+    },
+    {
+        "id": 50054,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiFunctionsBlockGUI.php",
+        "line": 175,
+        "code": "$lng->txt(\"wiki_page_lists\")",
+        "has_variable": false,
+        "variable": "wiki_page_lists"
+    },
+    {
+        "id": 50056,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiFunctionsBlockGUI.php",
+        "line": 190,
+        "code": "$lng->txt(\"wiki_activate_page_rating\")",
+        "has_variable": false,
+        "variable": "wiki_activate_page_rating"
+    },
+    {
+        "id": 50058,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiFunctionsBlockGUI.php",
+        "line": 195,
+        "code": "$lng->txt(\"wiki_deactivate_page_rating\")",
+        "has_variable": false,
+        "variable": "wiki_deactivate_page_rating"
+    },
+    {
+        "id": 50060,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiFunctionsBlockGUI.php",
+        "line": 208,
+        "code": "$lng->txt(\"wiki_unhide_meta_adv_records\")",
+        "has_variable": false,
+        "variable": "wiki_unhide_meta_adv_records"
+    },
+    {
+        "id": 50062,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiFunctionsBlockGUI.php",
+        "line": 218,
+        "code": "$lng->txt(\"wiki_rename_page\")",
+        "has_variable": false,
+        "variable": "wiki_rename_page"
+    },
+    {
+        "id": 50064,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiFunctionsBlockGUI.php",
+        "line": 227,
+        "code": "$lng->txt(\"wiki_unblock_page\")",
+        "has_variable": false,
+        "variable": "wiki_unblock_page"
+    },
+    {
+        "id": 50066,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiFunctionsBlockGUI.php",
+        "line": 232,
+        "code": "$lng->txt(\"wiki_block_page\")",
+        "has_variable": false,
+        "variable": "wiki_block_page"
+    },
+    {
+        "id": 50068,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiFunctionsBlockGUI.php",
+        "line": 243,
+        "code": "$lng->txt(\"wiki_delete_page\")",
+        "has_variable": false,
+        "variable": "wiki_delete_page"
+    },
+    {
+        "id": 50070,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiFunctionsBlockGUI.php",
+        "line": 254,
+        "code": "$lng->txt(\"wiki_add_template\")",
+        "has_variable": false,
+        "variable": "wiki_add_template"
+    },
+    {
+        "id": 50072,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiFunctionsBlockGUI.php",
+        "line": 259,
+        "code": "$lng->txt(\"wiki_remove_template_status\")",
+        "has_variable": false,
+        "variable": "wiki_remove_template_status"
+    },
+    {
+        "id": 50074,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiFunctionsBlockGUI.php",
+        "line": 265,
+        "code": "$lng->txt(\"wiki_page_actions\")",
+        "has_variable": false,
+        "variable": "wiki_page_actions"
+    },
+    {
+        "id": 50076,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiFunctionsBlockGUI.php",
+        "line": 279,
+        "code": "$lng->txt(\"perm_settings\")",
+        "has_variable": false,
+        "variable": "perm_settings"
+    },
+    {
+        "id": 50078,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiFunctionsBlockGUI.php",
+        "line": 289,
+        "code": "$lng->txt(\"wiki_contributors\")",
+        "has_variable": false,
+        "variable": "wiki_contributors"
+    },
+    {
+        "id": 50080,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiFunctionsBlockGUI.php",
+        "line": 298,
+        "code": "$lng->txt(\"wiki_html_export\")",
+        "has_variable": false,
+        "variable": "wiki_html_export"
+    },
+    {
+        "id": 50082,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiFunctionsBlockGUI.php",
+        "line": 306,
+        "code": "$this->lng->txt(\"wiki_html_export\")",
+        "has_variable": false,
+        "variable": "wiki_html_export"
+    },
+    {
+        "id": 50084,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiFunctionsBlockGUI.php",
+        "line": 307,
+        "code": "$this->lng->txt(\"note_html_export_include_comments\")",
+        "has_variable": false,
+        "variable": "note_html_export_include_comments"
+    },
+    {
+        "id": 50086,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiFunctionsBlockGUI.php",
+        "line": 313,
+        "code": "$lng->txt(\"wiki_html_export\")",
+        "has_variable": false,
+        "variable": "wiki_html_export"
+    },
+    {
+        "id": 50088,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiFunctionsBlockGUI.php",
+        "line": 323,
+        "code": "$lng->txt(\"settings\")",
+        "has_variable": false,
+        "variable": "settings"
+    },
+    {
+        "id": 50090,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiFunctionsBlockGUI.php",
+        "line": 328,
+        "code": "$lng->txt(\"statistics\")",
+        "has_variable": false,
+        "variable": "statistics"
+    },
+    {
+        "id": 50092,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiImportantPagesBlockGUI.php",
+        "line": 62,
+        "code": "$this->lng->txt(\"wiki_navigation\")",
+        "has_variable": false,
+        "variable": "wiki_navigation"
+    },
+    {
+        "id": 50094,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiImportantPagesBlockGUI.php",
+        "line": 100,
+        "code": "$lng->txt(\"edit\")",
+        "has_variable": false,
+        "variable": "edit"
+    },
+    {
+        "id": 50096,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiPageConfig.php",
+        "line": 63,
+        "code": "$lng->txt(\"wiki_sec_protect_info\")",
+        "has_variable": false,
+        "variable": "wiki_sec_protect_info"
+    },
+    {
+        "id": 50098,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiPageGUI.php",
+        "line": 183,
+        "code": "$lng->txt(\"permission_denied\")",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 50100,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiPageGUI.php",
+        "line": 284,
+        "code": "$this->lng->txt(\"wiki_rate_overall\")",
+        "has_variable": false,
+        "variable": "wiki_rate_overall"
+    },
+    {
+        "id": 50102,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiPageGUI.php",
+        "line": 303,
+        "code": "$this->lng->txt(\"wiki_notification_activated\")",
+        "has_variable": false,
+        "variable": "wiki_notification_activated"
+    },
+    {
+        "id": 50104,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiPageGUI.php",
+        "line": 316,
+        "code": "$this->lng->txt(\"wiki_page_notification_activated\")",
+        "has_variable": false,
+        "variable": "wiki_page_notification_activated"
+    },
+    {
+        "id": 50106,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiPageGUI.php",
+        "line": 325,
+        "code": "$this->lng->txt(\"wiki_notification_deactivated\")",
+        "has_variable": false,
+        "variable": "wiki_notification_deactivated"
+    },
+    {
+        "id": 50108,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiPageGUI.php",
+        "line": 362,
+        "code": "$lng->txt(\"wiki_page_status_blocked\")",
+        "has_variable": false,
+        "variable": "wiki_page_status_blocked"
+    },
+    {
+        "id": 50110,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiPageGUI.php",
+        "line": 407,
+        "code": "$lng->txt(\"wiki_last_edited\")",
+        "has_variable": false,
+        "variable": "wiki_last_edited"
+    },
+    {
+        "id": 50112,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiPageGUI.php",
+        "line": 508,
+        "code": "$this->lng->txt(\"wiki_not_existing\")",
+        "has_variable": false,
+        "variable": "wiki_not_existing"
+    },
+    {
+        "id": 50114,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiPageGUI.php",
+        "line": 532,
+        "code": "$this->lng->txt(\"language\")",
+        "has_variable": false,
+        "variable": "language"
+    },
+    {
+        "id": 50116,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiPageGUI.php",
+        "line": 532,
+        "code": "$this->lng->txt(\"meta_l_\" . $code)",
+        "has_variable": true,
+        "variable": "\"meta_l_\" . $code"
+    },
+    {
+        "id": 50118,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiPageGUI.php",
+        "line": 666,
+        "code": "$lng->txt(\"wiki_page_deletion_confirmation\")",
+        "has_variable": false,
+        "variable": "wiki_page_deletion_confirmation"
+    },
+    {
+        "id": 50120,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiPageGUI.php",
+        "line": 667,
+        "code": "$lng->txt(\"cancel\")",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 50122,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiPageGUI.php",
+        "line": 668,
+        "code": "$lng->txt(\"delete\")",
+        "has_variable": false,
+        "variable": "delete"
+    },
+    {
+        "id": 50124,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiPageGUI.php",
+        "line": 680,
+        "code": "$lng->txt(\"wiki_other_pages_linking\")",
+        "has_variable": false,
+        "variable": "wiki_other_pages_linking"
+    },
+    {
+        "id": 50126,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiPageGUI.php",
+        "line": 698,
+        "code": "$lng->txt(\"wiki_contributors\")",
+        "has_variable": false,
+        "variable": "wiki_contributors"
+    },
+    {
+        "id": 50128,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiPageGUI.php",
+        "line": 717,
+        "code": "$lng->txt(\"wiki_number_users_notes_or_comments\")",
+        "has_variable": false,
+        "variable": "wiki_number_users_notes_or_comments"
+    },
+    {
+        "id": 50130,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiPageGUI.php",
+        "line": 741,
+        "code": "$lng->txt(\"wiki_page_deleted\")",
+        "has_variable": false,
+        "variable": "wiki_page_deleted"
+    },
+    {
+        "id": 50132,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiPageGUI.php",
+        "line": 814,
+        "code": "$this->lng->txt(\"back\")",
+        "has_variable": false,
+        "variable": "back"
+    },
+    {
+        "id": 50134,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiPageGUI.php",
+        "line": 845,
+        "code": "$lng->txt(\"wiki_page_blocked\")",
+        "has_variable": false,
+        "variable": "wiki_page_blocked"
+    },
+    {
+        "id": 50136,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiPageGUI.php",
+        "line": 860,
+        "code": "$lng->txt(\"wiki_page_unblocked\")",
+        "has_variable": false,
+        "variable": "wiki_page_unblocked"
+    },
+    {
+        "id": 50138,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiPageGUI.php",
+        "line": 896,
+        "code": "$lng->txt(\"wiki_new_page_name\")",
+        "has_variable": false,
+        "variable": "wiki_new_page_name"
+    },
+    {
+        "id": 50140,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiPageGUI.php",
+        "line": 903,
+        "code": "$lng->txt(\"wiki_rename\")",
+        "has_variable": false,
+        "variable": "wiki_rename"
+    },
+    {
+        "id": 50142,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiPageGUI.php",
+        "line": 904,
+        "code": "$lng->txt(\"cancel\")",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 50144,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiPageGUI.php",
+        "line": 906,
+        "code": "$lng->txt(\"wiki_rename_page\")",
+        "has_variable": false,
+        "variable": "wiki_rename_page"
+    },
+    {
+        "id": 50146,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiPageGUI.php",
+        "line": 934,
+        "code": "$lng->txt(\"wiki_page_already_exists\")",
+        "has_variable": false,
+        "variable": "wiki_page_already_exists"
+    },
+    {
+        "id": 50148,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiPageGUI.php",
+        "line": 938,
+        "code": "$lng->txt(\"msg_obj_modified\")",
+        "has_variable": false,
+        "variable": "msg_obj_modified"
+    },
+    {
+        "id": 50150,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiPageGUI.php",
+        "line": 960,
+        "code": "$lng->txt(\"msg_obj_modified\")",
+        "has_variable": false,
+        "variable": "msg_obj_modified"
+    },
+    {
+        "id": 50152,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiPageGUI.php",
+        "line": 972,
+        "code": "$lng->txt(\"msg_obj_modified\")",
+        "has_variable": false,
+        "variable": "msg_obj_modified"
+    },
+    {
+        "id": 50154,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiPageGUI.php",
+        "line": 1017,
+        "code": "$lng->txt(\"wiki_advmd_block_title\")",
+        "has_variable": false,
+        "variable": "wiki_advmd_block_title"
+    },
+    {
+        "id": 50156,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiPageGUI.php",
+        "line": 1029,
+        "code": "$lng->txt(\"save\")",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 50158,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiPageGUI.php",
+        "line": 1030,
+        "code": "$lng->txt(\"cancel\")",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 50160,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiPageGUI.php",
+        "line": 1052,
+        "code": "$lng->txt(\"back\")",
+        "has_variable": false,
+        "variable": "back"
+    },
+    {
+        "id": 50162,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiPageGUI.php",
+        "line": 1084,
+        "code": "$lng->txt(\"settings_saved\")",
+        "has_variable": false,
+        "variable": "settings_saved"
+    },
+    {
+        "id": 50164,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiPageGUI.php",
+        "line": 1103,
+        "code": "$lng->txt(\"settings_saved\")",
+        "has_variable": false,
+        "variable": "settings_saved"
+    },
+    {
+        "id": 50166,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiPageGUI.php",
+        "line": 1121,
+        "code": "$lng->txt(\"settings_saved\")",
+        "has_variable": false,
+        "variable": "settings_saved"
+    },
+    {
+        "id": 50168,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiPageGUI.php",
+        "line": 1142,
+        "code": "$lng->txt(\"wiki_page_exists\")",
+        "has_variable": false,
+        "variable": "wiki_page_exists"
+    },
+    {
+        "id": 50170,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiPageGUI.php",
+        "line": 1143,
+        "code": "$lng->txt(\"wiki_new_page\")",
+        "has_variable": false,
+        "variable": "wiki_new_page"
+    },
+    {
+        "id": 50172,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiPageGUI.php",
+        "line": 1156,
+        "code": "$lng->txt(\"wiki_add_link\")",
+        "has_variable": false,
+        "variable": "wiki_add_link"
+    },
+    {
+        "id": 50174,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiPageGUI.php",
+        "line": 1157,
+        "code": "$lng->txt(\"search\")",
+        "has_variable": false,
+        "variable": "search"
+    },
+    {
+        "id": 50176,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiPageGUI.php",
+        "line": 1160,
+        "code": "$this->lng->txt(\"wiki_target_page\")",
+        "has_variable": false,
+        "variable": "wiki_target_page"
+    },
+    {
+        "id": 50178,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiPageGUI.php",
+        "line": 1168,
+        "code": "$this->lng->txt(\"wiki_link_text\")",
+        "has_variable": false,
+        "variable": "wiki_link_text"
+    },
+    {
+        "id": 50180,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiPageGUI.php",
+        "line": 1172,
+        "code": "$lng->txt(\"wiki_link\")",
+        "has_variable": false,
+        "variable": "wiki_link"
+    },
+    {
+        "id": 50182,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiPageGUI.php",
+        "line": 1246,
+        "code": "$lng->txt(\"wiki_no_page_found\")",
+        "has_variable": false,
+        "variable": "wiki_no_page_found"
+    },
+    {
+        "id": 50184,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiPageGUI.php",
+        "line": 1248,
+        "code": "$lng->txt(\"wiki_no_search_term\")",
+        "has_variable": false,
+        "variable": "wiki_no_search_term"
+    },
+    {
+        "id": 50186,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiPageGUI.php",
+        "line": 1250,
+        "code": "$lng->txt(\"wiki_pages_found\")",
+        "has_variable": false,
+        "variable": "wiki_pages_found"
+    },
+    {
+        "id": 50188,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiPageGUI.php",
+        "line": 1253,
+        "code": "$lng->txt(\"back\")",
+        "has_variable": false,
+        "variable": "back"
+    },
+    {
+        "id": 50190,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiPageGUI.php",
+        "line": 1275,
+        "code": "$lng->txt(\"wiki_finalized\")",
+        "has_variable": false,
+        "variable": "wiki_finalized"
+    },
+    {
+        "id": 50192,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiPageGUI.php",
+        "line": 1325,
+        "code": "$this->lng->txt(\"back\")",
+        "has_variable": false,
+        "variable": "back"
+    },
+    {
+        "id": 50194,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiPageGUI.php",
+        "line": 1335,
+        "code": "$this->lng->txt(\"cont_page_translation_does_not_exist\")",
+        "has_variable": false,
+        "variable": "cont_page_translation_does_not_exist"
+    },
+    {
+        "id": 50196,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiPageGUI.php",
+        "line": 1336,
+        "code": "$this->lng->txt(\"meta_l_\" . $l)",
+        "has_variable": true,
+        "variable": "\"meta_l_\" . $l"
+    },
+    {
+        "id": 50198,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiPageGUI.php",
+        "line": 1346,
+        "code": "$this->lng->txt(\"cont_page_translation_does_not_exist\")",
+        "has_variable": false,
+        "variable": "cont_page_translation_does_not_exist"
+    },
+    {
+        "id": 50200,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiPageGUI.php",
+        "line": 1347,
+        "code": "$this->lng->txt(\"meta_l_\" . $l)",
+        "has_variable": true,
+        "variable": "\"meta_l_\" . $l"
+    },
+    {
+        "id": 50202,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiPageGUI.php",
+        "line": 1348,
+        "code": "$this->lng->txt(\"cancel\")",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 50204,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiPageGUI.php",
+        "line": 1349,
+        "code": "$this->lng->txt(\"confirm\")",
+        "has_variable": false,
+        "variable": "confirm"
+    },
+    {
+        "id": 50206,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiPageGUI.php",
+        "line": 1356,
+        "code": "$this->lng->txt(\"title\")",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 50208,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiPageTemplateGUI.php",
+        "line": 80,
+        "code": "$this->lng->txt(\"please_select\")",
+        "has_variable": false,
+        "variable": "please_select"
+    },
+    {
+        "id": 50210,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiPageTemplateGUI.php",
+        "line": 93,
+        "code": "$this->lng->txt(\"wiki_pages\")",
+        "has_variable": false,
+        "variable": "wiki_pages"
+    },
+    {
+        "id": 50212,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiPageTemplateGUI.php",
+        "line": 96,
+        "code": "$this->lng->txt(\"wiki_add_template\")",
+        "has_variable": false,
+        "variable": "wiki_add_template"
+    },
+    {
+        "id": 50214,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiPageTemplateGUI.php",
+        "line": 101,
+        "code": "$this->lng->txt(\"wiki_empty_page_template\")",
+        "has_variable": false,
+        "variable": "wiki_empty_page_template"
+    },
+    {
+        "id": 50216,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiPageTemplateGUI.php",
+        "line": 104,
+        "code": "$this->lng->txt(\"save\")",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 50218,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiPageTemplateGUI.php",
+        "line": 116,
+        "code": "$this->lng->txt(\"wiki_template_added\")",
+        "has_variable": false,
+        "variable": "wiki_template_added"
+    },
+    {
+        "id": 50220,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiPageTemplateGUI.php",
+        "line": 129,
+        "code": "$this->lng->txt(\"wiki_template_status_removed\")",
+        "has_variable": false,
+        "variable": "wiki_template_status_removed"
+    },
+    {
+        "id": 50222,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiPageTemplateGUI.php",
+        "line": 148,
+        "code": "$this->lng->txt(\"msg_obj_modified\")",
+        "has_variable": false,
+        "variable": "msg_obj_modified"
+    },
+    {
+        "id": 50224,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiPageTemplateGUI.php",
+        "line": 163,
+        "code": "$this->lng->txt(\"wiki_template_status_removed\")",
+        "has_variable": false,
+        "variable": "wiki_template_status_removed"
+    },
+    {
+        "id": 50226,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiPageTemplateGUI.php",
+        "line": 175,
+        "code": "$this->lng->txt(\"wiki_template_added\")",
+        "has_variable": false,
+        "variable": "wiki_template_added"
+    },
+    {
+        "id": 50228,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiPageTemplatesTableGUI.php",
+        "line": 50,
+        "code": "$lng->txt(\"\")",
+        "has_variable": true,
+        "variable": ""
+    },
+    {
+        "id": 50230,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiPageTemplatesTableGUI.php",
+        "line": 52,
+        "code": "$this->lng->txt(\"\")",
+        "has_variable": true,
+        "variable": ""
+    },
+    {
+        "id": 50232,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiPageTemplatesTableGUI.php",
+        "line": 53,
+        "code": "$this->lng->txt(\"title\")",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 50234,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiPageTemplatesTableGUI.php",
+        "line": 55,
+        "code": "$this->lng->txt(\"wiki_translations\")",
+        "has_variable": false,
+        "variable": "wiki_translations"
+    },
+    {
+        "id": 50236,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiPageTemplatesTableGUI.php",
+        "line": 57,
+        "code": "$this->lng->txt(\"wiki_templ_new_pages\")",
+        "has_variable": false,
+        "variable": "wiki_templ_new_pages"
+    },
+    {
+        "id": 50238,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiPageTemplatesTableGUI.php",
+        "line": 58,
+        "code": "$this->lng->txt(\"wiki_templ_add_to_page\")",
+        "has_variable": false,
+        "variable": "wiki_templ_add_to_page"
+    },
+    {
+        "id": 50240,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiPageTemplatesTableGUI.php",
+        "line": 66,
+        "code": "$lng->txt(\"wiki_remove_template_status\")",
+        "has_variable": false,
+        "variable": "wiki_remove_template_status"
+    },
+    {
+        "id": 50242,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiPageTemplatesTableGUI.php",
+        "line": 67,
+        "code": "$lng->txt(\"save\")",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 50244,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiPagesTableGUI.php",
+        "line": 76,
+        "code": "$this->lng->txt(\"created\")",
+        "has_variable": false,
+        "variable": "created"
+    },
+    {
+        "id": 50246,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiPagesTableGUI.php",
+        "line": 77,
+        "code": "$this->lng->txt(\"wiki_page\")",
+        "has_variable": false,
+        "variable": "wiki_page"
+    },
+    {
+        "id": 50248,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiPagesTableGUI.php",
+        "line": 79,
+        "code": "$this->lng->txt(\"wiki_created_by\")",
+        "has_variable": false,
+        "variable": "wiki_created_by"
+    },
+    {
+        "id": 50250,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiPagesTableGUI.php",
+        "line": 87,
+        "code": "$this->lng->txt(\"wiki_page\")",
+        "has_variable": false,
+        "variable": "wiki_page"
+    },
+    {
+        "id": 50252,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiPagesTableGUI.php",
+        "line": 89,
+        "code": "$this->lng->txt(\"wiki_page_hits\")",
+        "has_variable": false,
+        "variable": "wiki_page_hits"
+    },
+    {
+        "id": 50254,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiPagesTableGUI.php",
+        "line": 97,
+        "code": "$this->lng->txt(\"wiki_page\")",
+        "has_variable": false,
+        "variable": "wiki_page"
+    },
+    {
+        "id": 50256,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiPagesTableGUI.php",
+        "line": 106,
+        "code": "$this->lng->txt(\"wiki_page\")",
+        "has_variable": false,
+        "variable": "wiki_page"
+    },
+    {
+        "id": 50258,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiPagesTableGUI.php",
+        "line": 107,
+        "code": "$this->lng->txt(\"wiki_last_changed\")",
+        "has_variable": false,
+        "variable": "wiki_last_changed"
+    },
+    {
+        "id": 50260,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiPagesTableGUI.php",
+        "line": 111,
+        "code": "$this->lng->txt(\"wiki_last_changed_by\")",
+        "has_variable": false,
+        "variable": "wiki_last_changed_by"
+    },
+    {
+        "id": 50262,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiPagesTableGUI.php",
+        "line": 128,
+        "code": "$this->lng->txt(\"wiki_what_links_to_page\")",
+        "has_variable": false,
+        "variable": "wiki_what_links_to_page"
+    },
+    {
+        "id": 50264,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiPagesTableGUI.php",
+        "line": 135,
+        "code": "$this->lng->txt(\"wiki_\" . $a_mode . \"_pages\")",
+        "has_variable": true,
+        "variable": "\"wiki_\" . $a_mode . \"_pages\""
+    },
+    {
+        "id": 50266,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiPagesTableGUI.php",
+        "line": 143,
+        "code": "$this->lng->txt(\"language\")",
+        "has_variable": false,
+        "variable": "language"
+    },
+    {
+        "id": 50268,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiPagesTableGUI.php",
+        "line": 150,
+        "code": "$this->lng->txt(\"wiki_translations\")",
+        "has_variable": false,
+        "variable": "wiki_translations"
+    },
+    {
+        "id": 50270,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiPagesTableGUI.php",
+        "line": 253,
+        "code": "$this->lng->txt(\"meta_l_\" . $l)",
+        "has_variable": true,
+        "variable": "\"meta_l_\" . $l"
+    },
+    {
+        "id": 50272,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiPagesTableGUI.php",
+        "line": 267,
+        "code": "$this->lng->txt(\"meta_l_\" . $l)",
+        "has_variable": true,
+        "variable": "\"meta_l_\" . $l"
+    },
+    {
+        "id": 50274,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiRecentChangesTableGUI.php",
+        "line": 54,
+        "code": "$this->lng->txt(\"wiki_last_changed\")",
+        "has_variable": false,
+        "variable": "wiki_last_changed"
+    },
+    {
+        "id": 50276,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiRecentChangesTableGUI.php",
+        "line": 55,
+        "code": "$this->lng->txt(\"wiki_page\")",
+        "has_variable": false,
+        "variable": "wiki_page"
+    },
+    {
+        "id": 50278,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiRecentChangesTableGUI.php",
+        "line": 57,
+        "code": "$this->lng->txt(\"language\")",
+        "has_variable": false,
+        "variable": "language"
+    },
+    {
+        "id": 50280,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiRecentChangesTableGUI.php",
+        "line": 59,
+        "code": "$this->lng->txt(\"wiki_last_changed_by\")",
+        "has_variable": false,
+        "variable": "wiki_last_changed_by"
+    },
+    {
+        "id": 50282,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiRecentChangesTableGUI.php",
+        "line": 70,
+        "code": "$this->lng->txt(\"wiki_recent_changes\")",
+        "has_variable": false,
+        "variable": "wiki_recent_changes"
+    },
+    {
+        "id": 50284,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiRecentChangesTableGUI.php",
+        "line": 101,
+        "code": "$this->lng->txt(\"meta_l_\" . $l)",
+        "has_variable": true,
+        "variable": "\"meta_l_\" . $l"
+    },
+    {
+        "id": 50286,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiSearchResultsTableGUI.php",
+        "line": 45,
+        "code": "$lng->txt(\"wiki_page\")",
+        "has_variable": false,
+        "variable": "wiki_page"
+    },
+    {
+        "id": 50288,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiSearchResultsTableGUI.php",
+        "line": 56,
+        "code": "$lng->txt(\"wiki_search_results\")",
+        "has_variable": false,
+        "variable": "wiki_search_results"
+    },
+    {
+        "id": 50290,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiStat.php",
+        "line": 1273,
+        "code": "$lng->txt(\"wiki_stat_num_pages\")",
+        "has_variable": false,
+        "variable": "wiki_stat_num_pages"
+    },
+    {
+        "id": 50292,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiStat.php",
+        "line": 1274,
+        "code": "$lng->txt(\"wiki_stat_new_pages\")",
+        "has_variable": false,
+        "variable": "wiki_stat_new_pages"
+    },
+    {
+        "id": 50294,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiStat.php",
+        "line": 1275,
+        "code": "$lng->txt(\"wiki_stat_new_pages_avg\")",
+        "has_variable": false,
+        "variable": "wiki_stat_new_pages_avg"
+    },
+    {
+        "id": 50296,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiStat.php",
+        "line": 1276,
+        "code": "$lng->txt(\"wiki_stat_edit_pages\")",
+        "has_variable": false,
+        "variable": "wiki_stat_edit_pages"
+    },
+    {
+        "id": 50298,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiStat.php",
+        "line": 1277,
+        "code": "$lng->txt(\"wiki_stat_edit_pages_avg\")",
+        "has_variable": false,
+        "variable": "wiki_stat_edit_pages_avg"
+    },
+    {
+        "id": 50300,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiStat.php",
+        "line": 1278,
+        "code": "$lng->txt(\"wiki_stat_deleted_pages\")",
+        "has_variable": false,
+        "variable": "wiki_stat_deleted_pages"
+    },
+    {
+        "id": 50302,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiStat.php",
+        "line": 1279,
+        "code": "$lng->txt(\"wiki_stat_read_pages\")",
+        "has_variable": false,
+        "variable": "wiki_stat_read_pages"
+    },
+    {
+        "id": 50304,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiStat.php",
+        "line": 1280,
+        "code": "$lng->txt(\"wiki_stat_user_edit_pages\")",
+        "has_variable": false,
+        "variable": "wiki_stat_user_edit_pages"
+    },
+    {
+        "id": 50306,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiStat.php",
+        "line": 1281,
+        "code": "$lng->txt(\"wiki_stat_user_edit_pages_avg\")",
+        "has_variable": false,
+        "variable": "wiki_stat_user_edit_pages_avg"
+    },
+    {
+        "id": 50308,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiStat.php",
+        "line": 1282,
+        "code": "$lng->txt(\"wiki_stat_num_rating\")",
+        "has_variable": false,
+        "variable": "wiki_stat_num_rating"
+    },
+    {
+        "id": 50310,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiStat.php",
+        "line": 1283,
+        "code": "$lng->txt(\"wiki_stat_num_rating_avg\")",
+        "has_variable": false,
+        "variable": "wiki_stat_num_rating_avg"
+    },
+    {
+        "id": 50312,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiStat.php",
+        "line": 1284,
+        "code": "$lng->txt(\"wiki_stat_rating_avg\")",
+        "has_variable": false,
+        "variable": "wiki_stat_rating_avg"
+    },
+    {
+        "id": 50314,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiStat.php",
+        "line": 1285,
+        "code": "$lng->txt(\"wiki_stat_internal_links\")",
+        "has_variable": false,
+        "variable": "wiki_stat_internal_links"
+    },
+    {
+        "id": 50316,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiStat.php",
+        "line": 1286,
+        "code": "$lng->txt(\"wiki_stat_internal_links_avg\")",
+        "has_variable": false,
+        "variable": "wiki_stat_internal_links_avg"
+    },
+    {
+        "id": 50318,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiStat.php",
+        "line": 1287,
+        "code": "$lng->txt(\"wiki_stat_external_links\")",
+        "has_variable": false,
+        "variable": "wiki_stat_external_links"
+    },
+    {
+        "id": 50320,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiStat.php",
+        "line": 1288,
+        "code": "$lng->txt(\"wiki_stat_external_links_avg\")",
+        "has_variable": false,
+        "variable": "wiki_stat_external_links_avg"
+    },
+    {
+        "id": 50322,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiStat.php",
+        "line": 1289,
+        "code": "$lng->txt(\"wiki_stat_words\")",
+        "has_variable": false,
+        "variable": "wiki_stat_words"
+    },
+    {
+        "id": 50324,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiStat.php",
+        "line": 1290,
+        "code": "$lng->txt(\"wiki_stat_words_avg\")",
+        "has_variable": false,
+        "variable": "wiki_stat_words_avg"
+    },
+    {
+        "id": 50326,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiStat.php",
+        "line": 1291,
+        "code": "$lng->txt(\"wiki_stat_chars\")",
+        "has_variable": false,
+        "variable": "wiki_stat_chars"
+    },
+    {
+        "id": 50328,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiStat.php",
+        "line": 1292,
+        "code": "$lng->txt(\"wiki_stat_chars_avg\")",
+        "has_variable": false,
+        "variable": "wiki_stat_chars_avg"
+    },
+    {
+        "id": 50330,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiStat.php",
+        "line": 1293,
+        "code": "$lng->txt(\"wiki_stat_footnotes\")",
+        "has_variable": false,
+        "variable": "wiki_stat_footnotes"
+    },
+    {
+        "id": 50332,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiStat.php",
+        "line": 1294,
+        "code": "$lng->txt(\"wiki_stat_footnotes_avg\")",
+        "has_variable": false,
+        "variable": "wiki_stat_footnotes_avg"
+    },
+    {
+        "id": 50334,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiStat.php",
+        "line": 1296,
+        "code": "$lng->txt(\"wiki_stat_page_changes\")",
+        "has_variable": false,
+        "variable": "wiki_stat_page_changes"
+    },
+    {
+        "id": 50336,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiStat.php",
+        "line": 1297,
+        "code": "$lng->txt(\"wiki_stat_page_changes_avg\")",
+        "has_variable": false,
+        "variable": "wiki_stat_page_changes_avg"
+    },
+    {
+        "id": 50338,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiStat.php",
+        "line": 1298,
+        "code": "$lng->txt(\"wiki_stat_page_user_edit\")",
+        "has_variable": false,
+        "variable": "wiki_stat_page_user_edit"
+    },
+    {
+        "id": 50340,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiStat.php",
+        "line": 1299,
+        "code": "$lng->txt(\"wiki_stat_page_read\")",
+        "has_variable": false,
+        "variable": "wiki_stat_page_read"
+    },
+    {
+        "id": 50342,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiStat.php",
+        "line": 1300,
+        "code": "$lng->txt(\"wiki_stat_page_internal_links\")",
+        "has_variable": false,
+        "variable": "wiki_stat_page_internal_links"
+    },
+    {
+        "id": 50344,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiStat.php",
+        "line": 1301,
+        "code": "$lng->txt(\"wiki_stat_page_external_links\")",
+        "has_variable": false,
+        "variable": "wiki_stat_page_external_links"
+    },
+    {
+        "id": 50346,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiStat.php",
+        "line": 1302,
+        "code": "$lng->txt(\"wiki_stat_page_words\")",
+        "has_variable": false,
+        "variable": "wiki_stat_page_words"
+    },
+    {
+        "id": 50348,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiStat.php",
+        "line": 1303,
+        "code": "$lng->txt(\"wiki_stat_page_characters\")",
+        "has_variable": false,
+        "variable": "wiki_stat_page_characters"
+    },
+    {
+        "id": 50350,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiStat.php",
+        "line": 1304,
+        "code": "$lng->txt(\"wiki_stat_page_footnotes\")",
+        "has_variable": false,
+        "variable": "wiki_stat_page_footnotes"
+    },
+    {
+        "id": 50352,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiStat.php",
+        "line": 1305,
+        "code": "$lng->txt(\"wiki_stat_page_ratings\")",
+        "has_variable": false,
+        "variable": "wiki_stat_page_ratings"
+    },
+    {
+        "id": 50354,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiStatGUI.php",
+        "line": 82,
+        "code": "$lng->txt(\"wiki_stat_figure\")",
+        "has_variable": false,
+        "variable": "wiki_stat_figure"
+    },
+    {
+        "id": 50356,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiStatGUI.php",
+        "line": 105,
+        "code": "$lng->txt(\"month\")",
+        "has_variable": false,
+        "variable": "month"
+    },
+    {
+        "id": 50358,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiStatGUI.php",
+        "line": 115,
+        "code": "$lng->txt(\"wiki_stat_scope\")",
+        "has_variable": false,
+        "variable": "wiki_stat_scope"
+    },
+    {
+        "id": 50360,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiStatGUI.php",
+        "line": 117,
+        "code": "$lng->txt(\"month\")",
+        "has_variable": false,
+        "variable": "month"
+    },
+    {
+        "id": 50362,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiStatGUI.php",
+        "line": 118,
+        "code": "$lng->txt(\"months\")",
+        "has_variable": false,
+        "variable": "months"
+    },
+    {
+        "id": 50364,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiStatGUI.php",
+        "line": 119,
+        "code": "$lng->txt(\"months\")",
+        "has_variable": false,
+        "variable": "months"
+    },
+    {
+        "id": 50366,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiStatGUI.php",
+        "line": 120,
+        "code": "$lng->txt(\"months\")",
+        "has_variable": false,
+        "variable": "months"
+    },
+    {
+        "id": 50368,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiStatGUI.php",
+        "line": 121,
+        "code": "$lng->txt(\"months\")",
+        "has_variable": false,
+        "variable": "months"
+    },
+    {
+        "id": 50370,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiStatGUI.php",
+        "line": 122,
+        "code": "$lng->txt(\"months\")",
+        "has_variable": false,
+        "variable": "months"
+    },
+    {
+        "id": 50372,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiStatGUI.php",
+        "line": 132,
+        "code": "$lng->txt(\"show\")",
+        "has_variable": false,
+        "variable": "show"
+    },
+    {
+        "id": 50374,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiStatGUI.php",
+        "line": 136,
+        "code": "$lng->txt(\"export\")",
+        "has_variable": false,
+        "variable": "export"
+    },
+    {
+        "id": 50376,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiStatGUI.php",
+        "line": 177,
+        "code": "$this->lng->txt(\"statistics\")",
+        "has_variable": false,
+        "variable": "statistics"
+    },
+    {
+        "id": 50378,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiStatGUI.php",
+        "line": 229,
+        "code": "$lng->txt(\"wiki_stat_figure\")",
+        "has_variable": false,
+        "variable": "wiki_stat_figure"
+    },
+    {
+        "id": 50380,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiStatGUI.php",
+        "line": 230,
+        "code": "$lng->txt(\"yesterday\")",
+        "has_variable": false,
+        "variable": "yesterday"
+    },
+    {
+        "id": 50382,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiStatGUI.php",
+        "line": 231,
+        "code": "$lng->txt(\"today\")",
+        "has_variable": false,
+        "variable": "today"
+    },
+    {
+        "id": 50384,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiStatGUI.php",
+        "line": 236,
+        "code": "$lng->txt(\"statistics\")",
+        "has_variable": false,
+        "variable": "statistics"
+    },
+    {
+        "id": 50386,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiUtil.php",
+        "line": 563,
+        "code": "$ulng->txt('wiki_notification_comment_subject')",
+        "has_variable": false,
+        "variable": "wiki_notification_comment_subject"
+    },
+    {
+        "id": 50388,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiUtil.php",
+        "line": 564,
+        "code": "$ulng->txt('wiki_change_notification_salutation')",
+        "has_variable": false,
+        "variable": "wiki_change_notification_salutation"
+    },
+    {
+        "id": 50390,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiUtil.php",
+        "line": 566,
+        "code": "$ulng->txt('wiki_notification_' . $a_action)",
+        "has_variable": true,
+        "variable": "'wiki_notification_' . $a_action"
+    },
+    {
+        "id": 50392,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiUtil.php",
+        "line": 567,
+        "code": "$ulng->txt('wiki')",
+        "has_variable": false,
+        "variable": "wiki"
+    },
+    {
+        "id": 50394,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiUtil.php",
+        "line": 568,
+        "code": "$ulng->txt('page')",
+        "has_variable": false,
+        "variable": "page"
+    },
+    {
+        "id": 50396,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiUtil.php",
+        "line": 569,
+        "code": "$ulng->txt('wiki_commented_by')",
+        "has_variable": false,
+        "variable": "wiki_commented_by"
+    },
+    {
+        "id": 50398,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiUtil.php",
+        "line": 573,
+        "code": "$ulng->txt('comment')",
+        "has_variable": false,
+        "variable": "comment"
+    },
+    {
+        "id": 50400,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiUtil.php",
+        "line": 576,
+        "code": "$ulng->txt('wiki_change_notification_page_link')",
+        "has_variable": false,
+        "variable": "wiki_change_notification_page_link"
+    },
+    {
+        "id": 50402,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiUtil.php",
+        "line": 578,
+        "code": "$ulng->txt('wiki_change_notification_subject')",
+        "has_variable": false,
+        "variable": "wiki_change_notification_subject"
+    },
+    {
+        "id": 50404,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiUtil.php",
+        "line": 579,
+        "code": "$ulng->txt('wiki_change_notification_salutation')",
+        "has_variable": false,
+        "variable": "wiki_change_notification_salutation"
+    },
+    {
+        "id": 50406,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiUtil.php",
+        "line": 583,
+        "code": "$ulng->txt('wiki_change_notification_page_body_' . $a_action)",
+        "has_variable": true,
+        "variable": "'wiki_change_notification_page_body_' . $a_action"
+    },
+    {
+        "id": 50408,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiUtil.php",
+        "line": 584,
+        "code": "$ulng->txt('wiki')",
+        "has_variable": false,
+        "variable": "wiki"
+    },
+    {
+        "id": 50410,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiUtil.php",
+        "line": 585,
+        "code": "$ulng->txt('page')",
+        "has_variable": false,
+        "variable": "page"
+    },
+    {
+        "id": 50412,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiUtil.php",
+        "line": 586,
+        "code": "$ulng->txt('wiki_changed_by')",
+        "has_variable": false,
+        "variable": "wiki_changed_by"
+    },
+    {
+        "id": 50414,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiUtil.php",
+        "line": 589,
+        "code": "$ulng->txt('content')",
+        "has_variable": false,
+        "variable": "content"
+    },
+    {
+        "id": 50416,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiUtil.php",
+        "line": 597,
+        "code": "$ulng->txt('comment')",
+        "has_variable": false,
+        "variable": "comment"
+    },
+    {
+        "id": 50418,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiUtil.php",
+        "line": 600,
+        "code": "$ulng->txt('wiki_change_notification_page_link')",
+        "has_variable": false,
+        "variable": "wiki_change_notification_page_link"
+    },
+    {
+        "id": 50420,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiUtil.php",
+        "line": 603,
+        "code": "$ulng->txt('wiki_change_notification_body_' . $a_action)",
+        "has_variable": true,
+        "variable": "'wiki_change_notification_body_' . $a_action"
+    },
+    {
+        "id": 50422,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiUtil.php",
+        "line": 604,
+        "code": "$ulng->txt('wiki')",
+        "has_variable": false,
+        "variable": "wiki"
+    },
+    {
+        "id": 50424,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiUtil.php",
+        "line": 605,
+        "code": "$ulng->txt('page')",
+        "has_variable": false,
+        "variable": "page"
+    },
+    {
+        "id": 50426,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiUtil.php",
+        "line": 606,
+        "code": "$ulng->txt('wiki_changed_by')",
+        "has_variable": false,
+        "variable": "wiki_changed_by"
+    },
+    {
+        "id": 50428,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiUtil.php",
+        "line": 609,
+        "code": "$ulng->txt('content')",
+        "has_variable": false,
+        "variable": "content"
+    },
+    {
+        "id": 50430,
+        "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiUtil.php",
+        "line": 615,
+        "code": "$ulng->txt('wiki_change_notification_link')",
+        "has_variable": false,
+        "variable": "wiki_change_notification_link"
+    }
+]

@@ -1,0 +1,383 @@
+{
+    "metadata": {
+        "type": "full",
+        "count": 34,
+        "description": "Variable usages without detectable prefixes or suffixes (pure variable references without static strings)"
+    },
+    "matches": [
+        {
+            "id": 29030,
+            "file": "components\/ILIAS\/OrgUnit\/classes\/ARHelper\/BaseCommands.php",
+            "line": 187,
+            "code": "$this->lng->txt($subtab_id)",
+            "variable": "$subtab_id",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 29034,
+            "file": "components\/ILIAS\/OrgUnit\/classes\/ARHelper\/BaseForm.php",
+            "line": 77,
+            "code": "$this->txt(BaseCommands::CMD_CREATE)",
+            "variable": "B",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 29036,
+            "file": "components\/ILIAS\/OrgUnit\/classes\/ARHelper\/BaseForm.php",
+            "line": 78,
+            "code": "$this->txt(BaseCommands::CMD_CANCEL)",
+            "variable": "B",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 29040,
+            "file": "components\/ILIAS\/OrgUnit\/classes\/ARHelper\/BaseForm.php",
+            "line": 81,
+            "code": "$this->txt(BaseCommands::CMD_UPDATE)",
+            "variable": "B",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 29042,
+            "file": "components\/ILIAS\/OrgUnit\/classes\/ARHelper\/BaseForm.php",
+            "line": 82,
+            "code": "$this->txt(BaseCommands::CMD_CANCEL)",
+            "variable": "B",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 29044,
+            "file": "components\/ILIAS\/OrgUnit\/classes\/ARHelper\/BaseForm.php",
+            "line": 89,
+            "code": "$this->lng->txt($key)",
+            "variable": "$key",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 29122,
+            "file": "components\/ILIAS\/OrgUnit\/classes\/Positions\/Authorities\/class.ilOrgUnitAuthorityFormGUI.php",
+            "line": 34,
+            "code": "$this->lng->txt(self::F_TITLE)",
+            "variable": "F_TITLE",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 29124,
+            "file": "components\/ILIAS\/OrgUnit\/classes\/Positions\/Authorities\/class.ilOrgUnitAuthorityFormGUI.php",
+            "line": 38,
+            "code": "$this->lng->txt(self::F_DESCRIPTION)",
+            "variable": "F_DESCRIPTION",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 29186,
+            "file": "components\/ILIAS\/OrgUnit\/classes\/Positions\/class.ilOrgUnitPositionDBRepository.php",
+            "line": 366,
+            "code": "$this->lng->txt($key)",
+            "variable": "$key",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 29188,
+            "file": "components\/ILIAS\/OrgUnit\/classes\/Positions\/class.ilOrgUnitPositionFormGUI.php",
+            "line": 67,
+            "code": "$lng->txt(self::F_TITLE)",
+            "variable": "F_TITLE",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 29190,
+            "file": "components\/ILIAS\/OrgUnit\/classes\/Positions\/class.ilOrgUnitPositionFormGUI.php",
+            "line": 71,
+            "code": "$lng->txt(self::F_DESCRIPTION)",
+            "variable": "F_DESCRIPTION",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 29192,
+            "file": "components\/ILIAS\/OrgUnit\/classes\/Positions\/class.ilOrgUnitPositionFormGUI.php",
+            "line": 74,
+            "code": "$lng->txt(self::F_AUTHORITIES)",
+            "variable": "F_AUTHORITIES",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 29204,
+            "file": "components\/ILIAS\/OrgUnit\/classes\/Positions\/class.ilOrgUnitPositionFormGUI.php",
+            "line": 107,
+            "code": "$this->txt(BaseCommands::CMD_CREATE)",
+            "variable": "B",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 29206,
+            "file": "components\/ILIAS\/OrgUnit\/classes\/Positions\/class.ilOrgUnitPositionFormGUI.php",
+            "line": 108,
+            "code": "$this->txt(BaseCommands::CMD_CANCEL)",
+            "variable": "B",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 29210,
+            "file": "components\/ILIAS\/OrgUnit\/classes\/Positions\/class.ilOrgUnitPositionFormGUI.php",
+            "line": 111,
+            "code": "$this->txt(BaseCommands::CMD_UPDATE)",
+            "variable": "B",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 29212,
+            "file": "components\/ILIAS\/OrgUnit\/classes\/Positions\/class.ilOrgUnitPositionFormGUI.php",
+            "line": 112,
+            "code": "$this->txt(BaseCommands::CMD_CANCEL)",
+            "variable": "B",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 29214,
+            "file": "components\/ILIAS\/OrgUnit\/classes\/Positions\/class.ilOrgUnitPositionFormGUI.php",
+            "line": 175,
+            "code": "$this->lng->txt($key)",
+            "variable": "$key",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 29232,
+            "file": "components\/ILIAS\/OrgUnit\/classes\/Positions\/class.ilOrgUnitPositionGUI.php",
+            "line": 182,
+            "code": "$this->lng->txt(\"org_op_{$operation->getOperationString()}\")",
+            "variable": "org_op_{$operation->getOperationString()}",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 29234,
+            "file": "components\/ILIAS\/OrgUnit\/classes\/Positions\/class.ilOrgUnitPositionGUI.php",
+            "line": 217,
+            "code": "$this->lng->txt($lang_code)",
+            "variable": "$lang_code",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 29244,
+            "file": "components\/ILIAS\/OrgUnit\/classes\/Positions\/class.ilOrgUnitPositionGUI.php",
+            "line": 268,
+            "code": "$this->lng->txt(self::CMD_CANCEL)",
+            "variable": "CMD_CANCEL",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 29246,
+            "file": "components\/ILIAS\/OrgUnit\/classes\/Positions\/class.ilOrgUnitPositionGUI.php",
+            "line": 269,
+            "code": "$this->lng->txt(self::CMD_DELETE)",
+            "variable": "CMD_DELETE",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 29264,
+            "file": "components\/ILIAS\/OrgUnit\/classes\/Positions\/class.ilOrgUnitPositionGUI.php",
+            "line": 403,
+            "code": "$lang->txt($key)",
+            "variable": "$key",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 29296,
+            "file": "components\/ILIAS\/OrgUnit\/classes\/Settings\/class.ilOrgUnitGlobalSettingsGUI.php",
+            "line": 158,
+            "code": "$this->lng->txt($lang_prefix . $object_type)",
+            "variable": "$lang_prefix . $object_type",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 29334,
+            "file": "components\/ILIAS\/OrgUnit\/classes\/SimpleImport\/class.ilOrgUnitSimpleImportGUI.php",
+            "line": 198,
+            "code": "$this->lng->txt($warning[\"lang_var\"])",
+            "variable": "_",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 29338,
+            "file": "components\/ILIAS\/OrgUnit\/classes\/SimpleImport\/class.ilOrgUnitSimpleImportGUI.php",
+            "line": 205,
+            "code": "$this->lng->txt($warning[\"lang_var\"])",
+            "variable": "_",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 29354,
+            "file": "components\/ILIAS\/OrgUnit\/classes\/SimpleUserImport\/class.ilOrgUnitSimpleUserImportGUI.php",
+            "line": 128,
+            "code": "$this->lng->txt($warning['lang_var'])",
+            "variable": "_",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 29358,
+            "file": "components\/ILIAS\/OrgUnit\/classes\/SimpleUserImport\/class.ilOrgUnitSimpleUserImportGUI.php",
+            "line": 135,
+            "code": "$this->lng->txt($warning['lang_var'])",
+            "variable": "_",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 29434,
+            "file": "components\/ILIAS\/OrgUnit\/classes\/Types\/class.ilOrgUnitTypeGUI.php",
+            "line": 515,
+            "code": "$this->lng->txt(\"meta_l_{$lang_code}\")",
+            "variable": "meta_l_{$lang_code}",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 29494,
+            "file": "components\/ILIAS\/OrgUnit\/classes\/class.ilObjOrgUnitGUI.php",
+            "line": 531,
+            "code": "$this->lng->txt(self::TAB_STAFF)",
+            "variable": "TAB_STAFF",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 29496,
+            "file": "components\/ILIAS\/OrgUnit\/classes\/class.ilObjOrgUnitGUI.php",
+            "line": 541,
+            "code": "$this->lng->txt(self::TAB_SETTINGS)",
+            "variable": "TAB_SETTINGS",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 29502,
+            "file": "components\/ILIAS\/OrgUnit\/classes\/class.ilObjOrgUnitGUI.php",
+            "line": 569,
+            "code": "$this->lng->txt(self::TAB_EXPORT)",
+            "variable": "TAB_EXPORT",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 29504,
+            "file": "components\/ILIAS\/OrgUnit\/classes\/class.ilObjOrgUnitGUI.php",
+            "line": 580,
+            "code": "$this->lng->txt(self::TAB_ORGU_TYPES)",
+            "variable": "TAB_ORGU_TYPES",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 29506,
+            "file": "components\/ILIAS\/OrgUnit\/classes\/class.ilObjOrgUnitGUI.php",
+            "line": 587,
+            "code": "$this->lng->txt(self::TAB_POSITIONS)",
+            "variable": "TAB_POSITIONS",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 29508,
+            "file": "components\/ILIAS\/OrgUnit\/classes\/class.ilObjOrgUnitGUI.php",
+            "line": 603,
+            "code": "$this->lng->txt(self::TAB_SETTINGS)",
+            "variable": "TAB_SETTINGS",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        }
+    ]
+}

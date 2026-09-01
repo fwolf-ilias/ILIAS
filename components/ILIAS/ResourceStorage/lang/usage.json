@@ -1,0 +1,778 @@
+[
+    {
+        "id": 31842,
+        "file": "components\/ILIAS\/ResourceStorage\/classes\/Collections\/View\/ActionBuilder.php",
+        "line": 119,
+        "code": "$this->language->txt(self::ACTION_DOWNLOAD)",
+        "has_variable": true,
+        "variable": "ACTION_DOWNLOAD"
+    },
+    {
+        "id": 31844,
+        "file": "components\/ILIAS\/ResourceStorage\/classes\/Collections\/View\/ActionBuilder.php",
+        "line": 127,
+        "code": "$this->language->txt(self::ACTION_REMOVE)",
+        "has_variable": true,
+        "variable": "ACTION_REMOVE"
+    },
+    {
+        "id": 31846,
+        "file": "components\/ILIAS\/ResourceStorage\/classes\/Collections\/View\/ActionBuilder.php",
+        "line": 134,
+        "code": "$this->language->txt(self::ACTION_UNZIP)",
+        "has_variable": true,
+        "variable": "ACTION_UNZIP"
+    },
+    {
+        "id": 31848,
+        "file": "components\/ILIAS\/ResourceStorage\/classes\/Collections\/View\/ActionBuilder.php",
+        "line": 141,
+        "code": "$this->language->txt(self::ACTION_EDIT)",
+        "has_variable": true,
+        "variable": "ACTION_EDIT"
+    },
+    {
+        "id": 31850,
+        "file": "components\/ILIAS\/ResourceStorage\/classes\/Collections\/View\/EditForm.php",
+        "line": 66,
+        "code": "$this->lng->txt('title')",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 31852,
+        "file": "components\/ILIAS\/ResourceStorage\/classes\/Collections\/View\/EditForm.php",
+        "line": 96,
+        "code": "$this->lng->txt('edit')",
+        "has_variable": false,
+        "variable": "edit"
+    },
+    {
+        "id": 31854,
+        "file": "components\/ILIAS\/ResourceStorage\/classes\/Collections\/View\/RequestToDataTable.php",
+        "line": 86,
+        "code": "$this->language->txt(self::F_TITLE)",
+        "has_variable": true,
+        "variable": "F_TITLE"
+    },
+    {
+        "id": 31856,
+        "file": "components\/ILIAS\/ResourceStorage\/classes\/Collections\/View\/RequestToDataTable.php",
+        "line": 89,
+        "code": "$this->language->txt(self::F_SIZE)",
+        "has_variable": true,
+        "variable": "F_SIZE"
+    },
+    {
+        "id": 31858,
+        "file": "components\/ILIAS\/ResourceStorage\/classes\/Collections\/View\/RequestToDataTable.php",
+        "line": 92,
+        "code": "$this->language->txt(self::F_CREATION_DATE)",
+        "has_variable": true,
+        "variable": "F_CREATION_DATE"
+    },
+    {
+        "id": 31860,
+        "file": "components\/ILIAS\/ResourceStorage\/classes\/Collections\/View\/RequestToDataTable.php",
+        "line": 96,
+        "code": "$this->language->txt(self::F_TYPE)",
+        "has_variable": true,
+        "variable": "F_TYPE"
+    },
+    {
+        "id": 31862,
+        "file": "components\/ILIAS\/ResourceStorage\/classes\/Collections\/View\/UploadBuilder.php",
+        "line": 44,
+        "code": "$this->language->txt('upload_modal_title')",
+        "has_variable": false,
+        "variable": "upload_modal_title"
+    },
+    {
+        "id": 31864,
+        "file": "components\/ILIAS\/ResourceStorage\/classes\/Collections\/View\/UploadBuilder.php",
+        "line": 45,
+        "code": "$this->language->txt('msg_upload')",
+        "has_variable": false,
+        "variable": "msg_upload"
+    },
+    {
+        "id": 31866,
+        "file": "components\/ILIAS\/ResourceStorage\/classes\/Collections\/View\/UploadBuilder.php",
+        "line": 52,
+        "code": "$this->language->txt('upload_field_title')",
+        "has_variable": false,
+        "variable": "upload_field_title"
+    },
+    {
+        "id": 31868,
+        "file": "components\/ILIAS\/ResourceStorage\/classes\/Collections\/View\/UploadBuilder.php",
+        "line": 56,
+        "code": "$this->language->txt('select_files_from_computer')",
+        "has_variable": false,
+        "variable": "select_files_from_computer"
+    },
+    {
+        "id": 31870,
+        "file": "components\/ILIAS\/ResourceStorage\/classes\/Collections\/View\/ViewControlBuilder.php",
+        "line": 62,
+        "code": "$this->language->txt(Request::BY_TITLE_ASC)",
+        "has_variable": true,
+        "variable": "R"
+    },
+    {
+        "id": 31872,
+        "file": "components\/ILIAS\/ResourceStorage\/classes\/Collections\/View\/ViewControlBuilder.php",
+        "line": 63,
+        "code": "$this->language->txt(Request::BY_TITLE_DESC)",
+        "has_variable": true,
+        "variable": "R"
+    },
+    {
+        "id": 31874,
+        "file": "components\/ILIAS\/ResourceStorage\/classes\/Collections\/View\/ViewControlBuilder.php",
+        "line": 64,
+        "code": "$this->language->txt(Request::BY_CREATION_DATE_ASC)",
+        "has_variable": true,
+        "variable": "R"
+    },
+    {
+        "id": 31876,
+        "file": "components\/ILIAS\/ResourceStorage\/classes\/Collections\/View\/ViewControlBuilder.php",
+        "line": 65,
+        "code": "$this->language->txt(Request::BY_CREATION_DATE_DESC)",
+        "has_variable": true,
+        "variable": "R"
+    },
+    {
+        "id": 31878,
+        "file": "components\/ILIAS\/ResourceStorage\/classes\/Collections\/View\/ViewControlBuilder.php",
+        "line": 66,
+        "code": "$this->language->txt(Request::BY_SIZE_ASC)",
+        "has_variable": true,
+        "variable": "R"
+    },
+    {
+        "id": 31880,
+        "file": "components\/ILIAS\/ResourceStorage\/classes\/Collections\/View\/ViewControlBuilder.php",
+        "line": 67,
+        "code": "$this->language->txt(Request::BY_SIZE_DESC)",
+        "has_variable": true,
+        "variable": "R"
+    },
+    {
+        "id": 31882,
+        "file": "components\/ILIAS\/ResourceStorage\/classes\/Collections\/class.ilResourceCollectionGUI.php",
+        "line": 155,
+        "code": "$this->language->txt('msg_no_perm_read')",
+        "has_variable": false,
+        "variable": "msg_no_perm_read"
+    },
+    {
+        "id": 31884,
+        "file": "components\/ILIAS\/ResourceStorage\/classes\/Collections\/class.ilResourceCollectionGUI.php",
+        "line": 270,
+        "code": "$this->language->txt('rids_appended')",
+        "has_variable": false,
+        "variable": "rids_appended"
+    },
+    {
+        "id": 31886,
+        "file": "components\/ILIAS\/ResourceStorage\/classes\/Collections\/class.ilResourceCollectionGUI.php",
+        "line": 297,
+        "code": "$this->language->txt('cannot_unzip_file')",
+        "has_variable": false,
+        "variable": "cannot_unzip_file"
+    },
+    {
+        "id": 31888,
+        "file": "components\/ILIAS\/ResourceStorage\/classes\/Collections\/class.ilResourceCollectionGUI.php",
+        "line": 342,
+        "code": "$this->language->txt('edit')",
+        "has_variable": false,
+        "variable": "edit"
+    },
+    {
+        "id": 31890,
+        "file": "components\/ILIAS\/ResourceStorage\/classes\/Collections\/class.ilResourceCollectionGUI.php",
+        "line": 377,
+        "code": "$this->language->txt('rids_updated')",
+        "has_variable": false,
+        "variable": "rids_updated"
+    },
+    {
+        "id": 31892,
+        "file": "components\/ILIAS\/ResourceStorage\/classes\/Collections\/class.ilResourceCollectionGUI.php",
+        "line": 391,
+        "code": "$this->language->txt('action_remove_resource')",
+        "has_variable": false,
+        "variable": "action_remove_resource"
+    },
+    {
+        "id": 31894,
+        "file": "components\/ILIAS\/ResourceStorage\/classes\/Collections\/class.ilResourceCollectionGUI.php",
+        "line": 392,
+        "code": "$this->language->txt('action_remove_resource_msg')",
+        "has_variable": false,
+        "variable": "action_remove_resource_msg"
+    },
+    {
+        "id": 31896,
+        "file": "components\/ILIAS\/ResourceStorage\/classes\/Collections\/class.ilResourceCollectionGUI.php",
+        "line": 419,
+        "code": "$this->language->txt('msg_no_perm_read')",
+        "has_variable": false,
+        "variable": "msg_no_perm_read"
+    },
+    {
+        "id": 31898,
+        "file": "components\/ILIAS\/ResourceStorage\/classes\/Collections\/class.ilResourceCollectionGUI.php",
+        "line": 425,
+        "code": "$this->language->txt('msg_no_perm_read')",
+        "has_variable": false,
+        "variable": "msg_no_perm_read"
+    },
+    {
+        "id": 31900,
+        "file": "components\/ILIAS\/ResourceStorage\/classes\/Collections\/class.ilResourceCollectionGUI.php",
+        "line": 435,
+        "code": "$this->language->txt('rids_deleted')",
+        "has_variable": false,
+        "variable": "rids_deleted"
+    },
+    {
+        "id": 31902,
+        "file": "components\/ILIAS\/ResourceStorage\/classes\/Container\/View\/ActionBuilder\/StandardActionProvider.php",
+        "line": 68,
+        "code": "$this->language->txt('create_directory')",
+        "has_variable": false,
+        "variable": "create_directory"
+    },
+    {
+        "id": 31904,
+        "file": "components\/ILIAS\/ResourceStorage\/classes\/Container\/View\/ActionBuilder\/StandardActionProvider.php",
+        "line": 72,
+        "code": "$this->language->txt('directory_name')",
+        "has_variable": false,
+        "variable": "directory_name"
+    },
+    {
+        "id": 31906,
+        "file": "components\/ILIAS\/ResourceStorage\/classes\/Container\/View\/ActionBuilder\/StandardActionProvider.php",
+        "line": 73,
+        "code": "$this->language->txt('directory_name_info')",
+        "has_variable": false,
+        "variable": "directory_name_info"
+    },
+    {
+        "id": 31908,
+        "file": "components\/ILIAS\/ResourceStorage\/classes\/Container\/View\/ActionBuilder\/StandardActionProvider.php",
+        "line": 104,
+        "code": "$this->language->txt('create_directory')",
+        "has_variable": false,
+        "variable": "create_directory"
+    },
+    {
+        "id": 31910,
+        "file": "components\/ILIAS\/ResourceStorage\/classes\/Container\/View\/ActionBuilder\/StandardActionProvider.php",
+        "line": 108,
+        "code": "$this->language->txt('download_zip')",
+        "has_variable": false,
+        "variable": "download_zip"
+    },
+    {
+        "id": 31912,
+        "file": "components\/ILIAS\/ResourceStorage\/classes\/Container\/View\/ActionBuilder\/StandardActionProvider.php",
+        "line": 118,
+        "code": "$this->language->txt(self::ACTION_DOWNLOAD)",
+        "has_variable": true,
+        "variable": "ACTION_DOWNLOAD"
+    },
+    {
+        "id": 31914,
+        "file": "components\/ILIAS\/ResourceStorage\/classes\/Container\/View\/ActionBuilder\/StandardActionProvider.php",
+        "line": 127,
+        "code": "$this->language->txt(self::ACTION_REMOVE)",
+        "has_variable": true,
+        "variable": "ACTION_REMOVE"
+    },
+    {
+        "id": 31916,
+        "file": "components\/ILIAS\/ResourceStorage\/classes\/Container\/View\/ActionBuilder\/StandardActionProvider.php",
+        "line": 135,
+        "code": "$this->language->txt(self::ACTION_UNZIP)",
+        "has_variable": true,
+        "variable": "ACTION_UNZIP"
+    },
+    {
+        "id": 31918,
+        "file": "components\/ILIAS\/ResourceStorage\/classes\/Container\/View\/RequestToDataTable.php",
+        "line": 120,
+        "code": "$this->language->txt('home_directory')",
+        "has_variable": false,
+        "variable": "home_directory"
+    },
+    {
+        "id": 31920,
+        "file": "components\/ILIAS\/ResourceStorage\/classes\/Container\/View\/RequestToDataTable.php",
+        "line": 153,
+        "code": "$this->language->txt('title_manage_container')",
+        "has_variable": false,
+        "variable": "title_manage_container"
+    },
+    {
+        "id": 31922,
+        "file": "components\/ILIAS\/ResourceStorage\/classes\/Container\/View\/RequestToDataTable.php",
+        "line": 168,
+        "code": "$this->language->txt(self::F_TITLE)",
+        "has_variable": true,
+        "variable": "F_TITLE"
+    },
+    {
+        "id": 31924,
+        "file": "components\/ILIAS\/ResourceStorage\/classes\/Container\/View\/RequestToDataTable.php",
+        "line": 173,
+        "code": "$this->language->txt(self::F_STATUS)",
+        "has_variable": true,
+        "variable": "F_STATUS"
+    },
+    {
+        "id": 31926,
+        "file": "components\/ILIAS\/ResourceStorage\/classes\/Container\/View\/RequestToDataTable.php",
+        "line": 178,
+        "code": "$this->language->txt(self::F_SIZE)",
+        "has_variable": true,
+        "variable": "F_SIZE"
+    },
+    {
+        "id": 31928,
+        "file": "components\/ILIAS\/ResourceStorage\/classes\/Container\/View\/RequestToDataTable.php",
+        "line": 182,
+        "code": "$this->language->txt(self::F_MODIFICATION_DATE)",
+        "has_variable": true,
+        "variable": "F_MODIFICATION_DATE"
+    },
+    {
+        "id": 31930,
+        "file": "components\/ILIAS\/ResourceStorage\/classes\/Container\/View\/RequestToDataTable.php",
+        "line": 187,
+        "code": "$this->language->txt(self::F_TYPE)",
+        "has_variable": true,
+        "variable": "F_TYPE"
+    },
+    {
+        "id": 31932,
+        "file": "components\/ILIAS\/ResourceStorage\/classes\/Container\/View\/UploadBuilder.php",
+        "line": 44,
+        "code": "$this->language->txt('upload_modal_title')",
+        "has_variable": false,
+        "variable": "upload_modal_title"
+    },
+    {
+        "id": 31934,
+        "file": "components\/ILIAS\/ResourceStorage\/classes\/Container\/View\/UploadBuilder.php",
+        "line": 45,
+        "code": "$this->language->txt('msg_upload')",
+        "has_variable": false,
+        "variable": "msg_upload"
+    },
+    {
+        "id": 31936,
+        "file": "components\/ILIAS\/ResourceStorage\/classes\/Container\/View\/UploadBuilder.php",
+        "line": 52,
+        "code": "$this->language->txt('upload_field_title')",
+        "has_variable": false,
+        "variable": "upload_field_title"
+    },
+    {
+        "id": 31938,
+        "file": "components\/ILIAS\/ResourceStorage\/classes\/Container\/View\/UploadBuilder.php",
+        "line": 56,
+        "code": "$this->language->txt('select_files_from_computer')",
+        "has_variable": false,
+        "variable": "select_files_from_computer"
+    },
+    {
+        "id": 31940,
+        "file": "components\/ILIAS\/ResourceStorage\/classes\/Container\/View\/ViewControlBuilder.php",
+        "line": 61,
+        "code": "$this->language->txt(Request::BY_TITLE_ASC)",
+        "has_variable": true,
+        "variable": "R"
+    },
+    {
+        "id": 31942,
+        "file": "components\/ILIAS\/ResourceStorage\/classes\/Container\/View\/ViewControlBuilder.php",
+        "line": 62,
+        "code": "$this->language->txt(Request::BY_TITLE_DESC)",
+        "has_variable": true,
+        "variable": "R"
+    },
+    {
+        "id": 31944,
+        "file": "components\/ILIAS\/ResourceStorage\/classes\/Container\/View\/ViewControlBuilder.php",
+        "line": 63,
+        "code": "$this->language->txt(Request::BY_CREATION_DATE_ASC)",
+        "has_variable": true,
+        "variable": "R"
+    },
+    {
+        "id": 31946,
+        "file": "components\/ILIAS\/ResourceStorage\/classes\/Container\/View\/ViewControlBuilder.php",
+        "line": 64,
+        "code": "$this->language->txt(Request::BY_CREATION_DATE_DESC)",
+        "has_variable": true,
+        "variable": "R"
+    },
+    {
+        "id": 31948,
+        "file": "components\/ILIAS\/ResourceStorage\/classes\/Container\/View\/ViewControlBuilder.php",
+        "line": 65,
+        "code": "$this->language->txt(Request::BY_SIZE_ASC)",
+        "has_variable": true,
+        "variable": "R"
+    },
+    {
+        "id": 31950,
+        "file": "components\/ILIAS\/ResourceStorage\/classes\/Container\/View\/ViewControlBuilder.php",
+        "line": 66,
+        "code": "$this->language->txt(Request::BY_SIZE_DESC)",
+        "has_variable": true,
+        "variable": "R"
+    },
+    {
+        "id": 31952,
+        "file": "components\/ILIAS\/ResourceStorage\/classes\/Container\/class.ilContainerResourceGUI.php",
+        "line": 188,
+        "code": "$this->language->txt('msg_no_perm_read')",
+        "has_variable": false,
+        "variable": "msg_no_perm_read"
+    },
+    {
+        "id": 31954,
+        "file": "components\/ILIAS\/ResourceStorage\/classes\/Container\/class.ilContainerResourceGUI.php",
+        "line": 276,
+        "code": "$this->language->txt('msg_error_adding_directory')",
+        "has_variable": false,
+        "variable": "msg_error_adding_directory"
+    },
+    {
+        "id": 31956,
+        "file": "components\/ILIAS\/ResourceStorage\/classes\/Container\/class.ilContainerResourceGUI.php",
+        "line": 288,
+        "code": "$this->language->txt('msg_error_adding_directory')",
+        "has_variable": false,
+        "variable": "msg_error_adding_directory"
+    },
+    {
+        "id": 31958,
+        "file": "components\/ILIAS\/ResourceStorage\/classes\/Container\/class.ilContainerResourceGUI.php",
+        "line": 293,
+        "code": "$this->language->txt('msg_success_adding_directory')",
+        "has_variable": false,
+        "variable": "msg_success_adding_directory"
+    },
+    {
+        "id": 31960,
+        "file": "components\/ILIAS\/ResourceStorage\/classes\/Container\/class.ilContainerResourceGUI.php",
+        "line": 341,
+        "code": "$this->language->txt('rids_appended_failed')",
+        "has_variable": false,
+        "variable": "rids_appended_failed"
+    },
+    {
+        "id": 31962,
+        "file": "components\/ILIAS\/ResourceStorage\/classes\/Container\/class.ilContainerResourceGUI.php",
+        "line": 343,
+        "code": "$this->language->txt('rids_appended')",
+        "has_variable": false,
+        "variable": "rids_appended"
+    },
+    {
+        "id": 31964,
+        "file": "components\/ILIAS\/ResourceStorage\/classes\/Container\/class.ilContainerResourceGUI.php",
+        "line": 407,
+        "code": "$this->language->txt($success ? 'rids_appended' : 'rids_appended_failed')",
+        "has_variable": true,
+        "variable": "_"
+    },
+    {
+        "id": 31966,
+        "file": "components\/ILIAS\/ResourceStorage\/classes\/Container\/class.ilContainerResourceGUI.php",
+        "line": 425,
+        "code": "$this->language->txt('action_remove_zip_path')",
+        "has_variable": false,
+        "variable": "action_remove_zip_path"
+    },
+    {
+        "id": 31968,
+        "file": "components\/ILIAS\/ResourceStorage\/classes\/Container\/class.ilContainerResourceGUI.php",
+        "line": 426,
+        "code": "$this->language->txt('action_remove_zip_path_msg')",
+        "has_variable": false,
+        "variable": "action_remove_zip_path_msg"
+    },
+    {
+        "id": 31970,
+        "file": "components\/ILIAS\/ResourceStorage\/classes\/Container\/class.ilContainerResourceGUI.php",
+        "line": 450,
+        "code": "$this->language->txt('msg_no_perm_read')",
+        "has_variable": false,
+        "variable": "msg_no_perm_read"
+    },
+    {
+        "id": 31972,
+        "file": "components\/ILIAS\/ResourceStorage\/classes\/Container\/class.ilContainerResourceGUI.php",
+        "line": 462,
+        "code": "$this->language->txt('msg_paths_deleted')",
+        "has_variable": false,
+        "variable": "msg_paths_deleted"
+    },
+    {
+        "id": 31974,
+        "file": "components\/ILIAS\/ResourceStorage\/classes\/Resources\/DataSource\/AllResourcesDataSource.php",
+        "line": 103,
+        "code": "$lng->txt('title')",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 31976,
+        "file": "components\/ILIAS\/ResourceStorage\/classes\/Resources\/DataSource\/AllResourcesDataSource.php",
+        "line": 106,
+        "code": "$lng->txt('file_size_bigger_than')",
+        "has_variable": false,
+        "variable": "file_size_bigger_than"
+    },
+    {
+        "id": 31978,
+        "file": "components\/ILIAS\/ResourceStorage\/classes\/Resources\/DataSource\/AllResourcesDataSource.php",
+        "line": 109,
+        "code": "$lng->txt('stakeholders')",
+        "has_variable": false,
+        "variable": "stakeholders"
+    },
+    {
+        "id": 31980,
+        "file": "components\/ILIAS\/ResourceStorage\/classes\/Resources\/DataSource\/AllResourcesDataSource.php",
+        "line": 113,
+        "code": "$lng->txt('revisions_more_than')",
+        "has_variable": false,
+        "variable": "revisions_more_than"
+    },
+    {
+        "id": 31982,
+        "file": "components\/ILIAS\/ResourceStorage\/classes\/Resources\/UI\/Actions\/OverviewActionGenerator.php",
+        "line": 60,
+        "code": "$this->language->txt('action_show_revisions')",
+        "has_variable": false,
+        "variable": "action_show_revisions"
+    },
+    {
+        "id": 31984,
+        "file": "components\/ILIAS\/ResourceStorage\/classes\/Resources\/UI\/Actions\/OverviewActionGenerator.php",
+        "line": 67,
+        "code": "$this->language->txt('action_goto')",
+        "has_variable": false,
+        "variable": "action_goto"
+    },
+    {
+        "id": 31986,
+        "file": "components\/ILIAS\/ResourceStorage\/classes\/Resources\/UI\/Actions\/OverviewActionGenerator.php",
+        "line": 74,
+        "code": "$this->language->txt('action_download')",
+        "has_variable": false,
+        "variable": "action_download"
+    },
+    {
+        "id": 31988,
+        "file": "components\/ILIAS\/ResourceStorage\/classes\/Resources\/UI\/Actions\/OverviewActionGenerator.php",
+        "line": 85,
+        "code": "$this->language->txt('action_remove_resource')",
+        "has_variable": false,
+        "variable": "action_remove_resource"
+    },
+    {
+        "id": 31990,
+        "file": "components\/ILIAS\/ResourceStorage\/classes\/Resources\/UI\/Actions\/OverviewActionGenerator.php",
+        "line": 107,
+        "code": "$this->language->txt(\\ilResourceOverviewGUI::CMD_REMOVE)",
+        "has_variable": true,
+        "variable": "R"
+    },
+    {
+        "id": 31992,
+        "file": "components\/ILIAS\/ResourceStorage\/classes\/Resources\/UI\/Actions\/OverviewActionGenerator.php",
+        "line": 108,
+        "code": "$this->language->txt('confirm_delete')",
+        "has_variable": false,
+        "variable": "confirm_delete"
+    },
+    {
+        "id": 31994,
+        "file": "components\/ILIAS\/ResourceStorage\/classes\/Resources\/UI\/ResourceListingUI.php",
+        "line": 145,
+        "code": "$this->language->txt('sorting_' . $sort_id)",
+        "has_variable": true,
+        "variable": "'sorting_' . $sort_id"
+    },
+    {
+        "id": 31996,
+        "file": "components\/ILIAS\/ResourceStorage\/classes\/Resources\/UI\/ResourceToComponent.php",
+        "line": 105,
+        "code": "$this->language->txt('stakeholders')",
+        "has_variable": false,
+        "variable": "stakeholders"
+    },
+    {
+        "id": 31998,
+        "file": "components\/ILIAS\/ResourceStorage\/classes\/Resources\/UI\/ResourceToComponent.php",
+        "line": 106,
+        "code": "$this->language->txt('full_size')",
+        "has_variable": false,
+        "variable": "full_size"
+    },
+    {
+        "id": 32000,
+        "file": "components\/ILIAS\/ResourceStorage\/classes\/Resources\/UI\/ResourceToComponent.php",
+        "line": 116,
+        "code": "$this->language->txt('revisions')",
+        "has_variable": false,
+        "variable": "revisions"
+    },
+    {
+        "id": 32002,
+        "file": "components\/ILIAS\/ResourceStorage\/classes\/Resources\/UI\/RevisionListingUI.php",
+        "line": 63,
+        "code": "$this->language->txt('revision')",
+        "has_variable": false,
+        "variable": "revision"
+    },
+    {
+        "id": 32004,
+        "file": "components\/ILIAS\/ResourceStorage\/classes\/Resources\/UI\/RevisionListingUI.php",
+        "line": 121,
+        "code": "$this->language->txt('revision')",
+        "has_variable": false,
+        "variable": "revision"
+    },
+    {
+        "id": 32006,
+        "file": "components\/ILIAS\/ResourceStorage\/classes\/Resources\/UI\/RevisionToComponent.php",
+        "line": 137,
+        "code": "$this->language->txt('file_size')",
+        "has_variable": false,
+        "variable": "file_size"
+    },
+    {
+        "id": 32008,
+        "file": "components\/ILIAS\/ResourceStorage\/classes\/Resources\/UI\/RevisionToComponent.php",
+        "line": 138,
+        "code": "$this->language->txt('type')",
+        "has_variable": false,
+        "variable": "type"
+    },
+    {
+        "id": 32010,
+        "file": "components\/ILIAS\/ResourceStorage\/classes\/Resources\/UI\/RevisionToComponent.php",
+        "line": 146,
+        "code": "$this->language->txt('create_date')",
+        "has_variable": false,
+        "variable": "create_date"
+    },
+    {
+        "id": 32012,
+        "file": "components\/ILIAS\/ResourceStorage\/classes\/Resources\/UI\/RevisionToComponent.php",
+        "line": 147,
+        "code": "$this->language->txt('revision_status')",
+        "has_variable": false,
+        "variable": "revision_status"
+    },
+    {
+        "id": 32014,
+        "file": "components\/ILIAS\/ResourceStorage\/classes\/Resources\/UI\/RevisionToComponent.php",
+        "line": 147,
+        "code": "$this->language->txt(\n                'revision_status_' . $this->revision->getStatus()->value\n            )",
+        "has_variable": true,
+        "variable": "'revision_status_' . $this->revision->getStatus()->value"
+    },
+    {
+        "id": 32016,
+        "file": "components\/ILIAS\/ResourceStorage\/classes\/Resources\/class.ilResourceOverviewGUI.php",
+        "line": 92,
+        "code": "$this->language->txt('back')",
+        "has_variable": false,
+        "variable": "back"
+    },
+    {
+        "id": 32018,
+        "file": "components\/ILIAS\/ResourceStorage\/classes\/Resources\/class.ilResourceOverviewGUI.php",
+        "line": 121,
+        "code": "$this->language->txt('resource_overview')",
+        "has_variable": false,
+        "variable": "resource_overview"
+    },
+    {
+        "id": 32020,
+        "file": "components\/ILIAS\/ResourceStorage\/classes\/Resources\/class.ilResourceOverviewGUI.php",
+        "line": 150,
+        "code": "$this->language->txt('resource_no_stakeholder_uri')",
+        "has_variable": false,
+        "variable": "resource_no_stakeholder_uri"
+    },
+    {
+        "id": 32022,
+        "file": "components\/ILIAS\/ResourceStorage\/classes\/Resources\/class.ilResourceOverviewGUI.php",
+        "line": 168,
+        "code": "$this->language->txt('resource_overview')",
+        "has_variable": false,
+        "variable": "resource_overview"
+    },
+    {
+        "id": 32024,
+        "file": "components\/ILIAS\/ResourceStorage\/classes\/Resources\/class.ilResourceOverviewGUI.php",
+        "line": 187,
+        "code": "$this->language->txt('msg_no_perm_read')",
+        "has_variable": false,
+        "variable": "msg_no_perm_read"
+    },
+    {
+        "id": 32026,
+        "file": "components\/ILIAS\/ResourceStorage\/classes\/class.ilResourceStorageInfoGUI.php",
+        "line": 61,
+        "code": "$this->language->txt(\"storage_info\")",
+        "has_variable": false,
+        "variable": "storage_info"
+    },
+    {
+        "id": 32028,
+        "file": "components\/ILIAS\/ResourceStorage\/classes\/class.ilResourceStorageInfoGUI.php",
+        "line": 62,
+        "code": "$this->language->txt(\"resource_id\")",
+        "has_variable": false,
+        "variable": "resource_id"
+    },
+    {
+        "id": 32030,
+        "file": "components\/ILIAS\/ResourceStorage\/classes\/class.ilResourceStorageInfoGUI.php",
+        "line": 63,
+        "code": "$this->language->txt(\"storage_id\")",
+        "has_variable": false,
+        "variable": "storage_id"
+    },
+    {
+        "id": 32032,
+        "file": "components\/ILIAS\/ResourceStorage\/classes\/class.ilResourceStorageInfoGUI.php",
+        "line": 64,
+        "code": "$this->language->txt(\"max_revision\")",
+        "has_variable": false,
+        "variable": "max_revision"
+    },
+    {
+        "id": 32034,
+        "file": "components\/ILIAS\/ResourceStorage\/classes\/class.ilResourceStorageInfoGUI.php",
+        "line": 65,
+        "code": "$this->language->txt(\"stakeholders\")",
+        "has_variable": false,
+        "variable": "stakeholders"
+    }
+]

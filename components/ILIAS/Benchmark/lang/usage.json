@@ -1,0 +1,234 @@
+[
+    {
+        "id": 2994,
+        "file": "components\/ILIAS\/Benchmark\/classes\/class.ilBenchmarkTableGUI.php",
+        "line": 52,
+        "code": "$lng->txt(\"adm_db_bench_slowest_first\")",
+        "has_variable": false,
+        "variable": "adm_db_bench_slowest_first"
+    },
+    {
+        "id": 2996,
+        "file": "components\/ILIAS\/Benchmark\/classes\/class.ilBenchmarkTableGUI.php",
+        "line": 53,
+        "code": "$this->lng->txt(\"adm_time\")",
+        "has_variable": false,
+        "variable": "adm_time"
+    },
+    {
+        "id": 2998,
+        "file": "components\/ILIAS\/Benchmark\/classes\/class.ilBenchmarkTableGUI.php",
+        "line": 54,
+        "code": "$this->lng->txt(\"adm_sql\")",
+        "has_variable": false,
+        "variable": "adm_sql"
+    },
+    {
+        "id": 3000,
+        "file": "components\/ILIAS\/Benchmark\/classes\/class.ilBenchmarkTableGUI.php",
+        "line": 59,
+        "code": "$lng->txt(\"adm_db_bench_sorted_by_sql\")",
+        "has_variable": false,
+        "variable": "adm_db_bench_sorted_by_sql"
+    },
+    {
+        "id": 3002,
+        "file": "components\/ILIAS\/Benchmark\/classes\/class.ilBenchmarkTableGUI.php",
+        "line": 60,
+        "code": "$this->lng->txt(\"adm_time\")",
+        "has_variable": false,
+        "variable": "adm_time"
+    },
+    {
+        "id": 3004,
+        "file": "components\/ILIAS\/Benchmark\/classes\/class.ilBenchmarkTableGUI.php",
+        "line": 61,
+        "code": "$this->lng->txt(\"adm_sql\")",
+        "has_variable": false,
+        "variable": "adm_sql"
+    },
+    {
+        "id": 3006,
+        "file": "components\/ILIAS\/Benchmark\/classes\/class.ilBenchmarkTableGUI.php",
+        "line": 66,
+        "code": "$lng->txt(\"adm_db_bench_by_first_table\")",
+        "has_variable": false,
+        "variable": "adm_db_bench_by_first_table"
+    },
+    {
+        "id": 3008,
+        "file": "components\/ILIAS\/Benchmark\/classes\/class.ilBenchmarkTableGUI.php",
+        "line": 67,
+        "code": "$this->lng->txt(\"adm_time\")",
+        "has_variable": false,
+        "variable": "adm_time"
+    },
+    {
+        "id": 3010,
+        "file": "components\/ILIAS\/Benchmark\/classes\/class.ilBenchmarkTableGUI.php",
+        "line": 68,
+        "code": "$this->lng->txt(\"adm_nr_statements\")",
+        "has_variable": false,
+        "variable": "adm_nr_statements"
+    },
+    {
+        "id": 3012,
+        "file": "components\/ILIAS\/Benchmark\/classes\/class.ilBenchmarkTableGUI.php",
+        "line": 69,
+        "code": "$this->lng->txt(\"adm_table\")",
+        "has_variable": false,
+        "variable": "adm_table"
+    },
+    {
+        "id": 3014,
+        "file": "components\/ILIAS\/Benchmark\/classes\/class.ilBenchmarkTableGUI.php",
+        "line": 74,
+        "code": "$lng->txt(\"adm_db_bench_chronological\")",
+        "has_variable": false,
+        "variable": "adm_db_bench_chronological"
+    },
+    {
+        "id": 3016,
+        "file": "components\/ILIAS\/Benchmark\/classes\/class.ilBenchmarkTableGUI.php",
+        "line": 75,
+        "code": "$this->lng->txt(\"adm_time\")",
+        "has_variable": false,
+        "variable": "adm_time"
+    },
+    {
+        "id": 3018,
+        "file": "components\/ILIAS\/Benchmark\/classes\/class.ilBenchmarkTableGUI.php",
+        "line": 76,
+        "code": "$this->lng->txt(\"adm_sql\")",
+        "has_variable": false,
+        "variable": "adm_sql"
+    },
+    {
+        "id": 3020,
+        "file": "components\/ILIAS\/Benchmark\/classes\/class.ilBenchmarkTableGUI.php",
+        "line": 86,
+        "code": "$lng->txt(\"\")",
+        "has_variable": true,
+        "variable": ""
+    },
+    {
+        "id": 3022,
+        "file": "components\/ILIAS\/Benchmark\/classes\/class.ilBenchmarkTableGUI.php",
+        "line": 87,
+        "code": "$lng->txt(\"\")",
+        "has_variable": true,
+        "variable": ""
+    },
+    {
+        "id": 3024,
+        "file": "components\/ILIAS\/Benchmark\/classes\/class.ilObjBenchmarkGUI.php",
+        "line": 88,
+        "code": "$this->lng->txt('view')",
+        "has_variable": false,
+        "variable": "view"
+    },
+    {
+        "id": 3026,
+        "file": "components\/ILIAS\/Benchmark\/classes\/class.ilObjBenchmarkGUI.php",
+        "line": 95,
+        "code": "$this->lng->txt('settings')",
+        "has_variable": false,
+        "variable": "settings"
+    },
+    {
+        "id": 3028,
+        "file": "components\/ILIAS\/Benchmark\/classes\/class.ilObjBenchmarkGUI.php",
+        "line": 102,
+        "code": "$this->lng->txt('perm_settings')",
+        "has_variable": false,
+        "variable": "perm_settings"
+    },
+    {
+        "id": 3030,
+        "file": "components\/ILIAS\/Benchmark\/classes\/class.ilObjBenchmarkGUI.php",
+        "line": 112,
+        "code": "$this->lng->txt('adm_db_bench_chronological')",
+        "has_variable": false,
+        "variable": "adm_db_bench_chronological"
+    },
+    {
+        "id": 3032,
+        "file": "components\/ILIAS\/Benchmark\/classes\/class.ilObjBenchmarkGUI.php",
+        "line": 118,
+        "code": "$this->lng->txt('adm_db_bench_slowest_first')",
+        "has_variable": false,
+        "variable": "adm_db_bench_slowest_first"
+    },
+    {
+        "id": 3034,
+        "file": "components\/ILIAS\/Benchmark\/classes\/class.ilObjBenchmarkGUI.php",
+        "line": 124,
+        "code": "$this->lng->txt('adm_db_bench_sorted_by_sql')",
+        "has_variable": false,
+        "variable": "adm_db_bench_sorted_by_sql"
+    },
+    {
+        "id": 3036,
+        "file": "components\/ILIAS\/Benchmark\/classes\/class.ilObjBenchmarkGUI.php",
+        "line": 130,
+        "code": "$this->lng->txt('adm_db_bench_by_first_table')",
+        "has_variable": false,
+        "variable": "adm_db_bench_by_first_table"
+    },
+    {
+        "id": 3038,
+        "file": "components\/ILIAS\/Benchmark\/classes\/class.ilObjBenchmarkGUI.php",
+        "line": 140,
+        "code": "$this->lng->txt(\"adm_activate_db_benchmark\")",
+        "has_variable": false,
+        "variable": "adm_activate_db_benchmark"
+    },
+    {
+        "id": 3040,
+        "file": "components\/ILIAS\/Benchmark\/classes\/class.ilObjBenchmarkGUI.php",
+        "line": 142,
+        "code": "$this->lng->txt(\"adm_activate_db_benchmark_desc\")",
+        "has_variable": false,
+        "variable": "adm_activate_db_benchmark_desc"
+    },
+    {
+        "id": 3042,
+        "file": "components\/ILIAS\/Benchmark\/classes\/class.ilObjBenchmarkGUI.php",
+        "line": 146,
+        "code": "$this->lng->txt(\"adm_db_benchmark_user\")",
+        "has_variable": false,
+        "variable": "adm_db_benchmark_user"
+    },
+    {
+        "id": 3044,
+        "file": "components\/ILIAS\/Benchmark\/classes\/class.ilObjBenchmarkGUI.php",
+        "line": 149,
+        "code": "$this->lng->txt(\"adm_db_benchmark_user_desc\")",
+        "has_variable": false,
+        "variable": "adm_db_benchmark_user_desc"
+    },
+    {
+        "id": 3046,
+        "file": "components\/ILIAS\/Benchmark\/classes\/class.ilObjBenchmarkGUI.php",
+        "line": 152,
+        "code": "$this->lng->txt(\"adm_db_benchmark\")",
+        "has_variable": false,
+        "variable": "adm_db_benchmark"
+    },
+    {
+        "id": 3048,
+        "file": "components\/ILIAS\/Benchmark\/classes\/class.ilObjBenchmarkGUI.php",
+        "line": 154,
+        "code": "$this->lng->txt('save')",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 3050,
+        "file": "components\/ILIAS\/Benchmark\/classes\/class.ilObjBenchmarkGUI.php",
+        "line": 174,
+        "code": "$this->lng->txt(\"msg_obj_modified\")",
+        "has_variable": false,
+        "variable": "msg_obj_modified"
+    }
+]

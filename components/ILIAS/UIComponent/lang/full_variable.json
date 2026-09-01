@@ -1,0 +1,64 @@
+{
+    "metadata": {
+        "type": "full",
+        "count": 5,
+        "description": "Variable usages without detectable prefixes or suffixes (pure variable references without static strings)"
+    },
+    "matches": [
+        {
+            "id": 46596,
+            "file": "components\/ILIAS\/UIComponent\/Button\/classes\/class.ilButtonBase.php",
+            "line": 98,
+            "code": "$lng->txt($caption)",
+            "variable": "$caption",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 46600,
+            "file": "components\/ILIAS\/UIComponent\/Confirmation\/class.ilConfirmationTableGUI.php",
+            "line": 44,
+            "code": "$lng->txt(\"\")",
+            "variable": "",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 46616,
+            "file": "components\/ILIAS\/UIComponent\/Explorer\/classes\/class.ilExplorer.php",
+            "line": 748,
+            "code": "$lng->txt($a_option[\"desc\"])",
+            "variable": "_",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 46628,
+            "file": "components\/ILIAS\/UIComponent\/Tabs\/classes\/class.ilTabsGUI.php",
+            "line": 466,
+            "code": "$lng->txt($target[\"text\"])",
+            "variable": "\\$target",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 46638,
+            "file": "components\/ILIAS\/UIComponent\/Tabs\/classes\/class.ilTabsGUI.php",
+            "line": 542,
+            "code": "$this->lng->txt($target[\"text\"])",
+            "variable": "\\$target",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        }
+    ]
+}

@@ -1,0 +1,330 @@
+[
+    {
+        "id": 30598,
+        "file": "components\/ILIAS\/Rating\/classes\/RatingCategoryOrderingTable.php",
+        "line": 69,
+        "code": "$this->lng->txt('rating_categories')",
+        "has_variable": false,
+        "variable": "rating_categories"
+    },
+    {
+        "id": 30600,
+        "file": "components\/ILIAS\/Rating\/classes\/RatingCategoryOrderingTable.php",
+        "line": 92,
+        "code": "$this->lng->txt('edit')",
+        "has_variable": false,
+        "variable": "edit"
+    },
+    {
+        "id": 30602,
+        "file": "components\/ILIAS\/Rating\/classes\/RatingCategoryOrderingTable.php",
+        "line": 97,
+        "code": "$this->lng->txt('delete')",
+        "has_variable": false,
+        "variable": "delete"
+    },
+    {
+        "id": 30604,
+        "file": "components\/ILIAS\/Rating\/classes\/RatingCategoryOrderingTable.php",
+        "line": 130,
+        "code": "$this->lng->txt('title')",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 30606,
+        "file": "components\/ILIAS\/Rating\/classes\/RatingCategoryOrderingTable.php",
+        "line": 131,
+        "code": "$this->lng->txt('description')",
+        "has_variable": false,
+        "variable": "description"
+    },
+    {
+        "id": 30608,
+        "file": "components\/ILIAS\/Rating\/classes\/class.ilRatingCategoryGUI.php",
+        "line": 133,
+        "code": "$lng->txt(\"rating_add_category\")",
+        "has_variable": false,
+        "variable": "rating_add_category"
+    },
+    {
+        "id": 30610,
+        "file": "components\/ILIAS\/Rating\/classes\/class.ilRatingCategoryGUI.php",
+        "line": 140,
+        "code": "$lng->txt(\"export\")",
+        "has_variable": false,
+        "variable": "export"
+    },
+    {
+        "id": 30612,
+        "file": "components\/ILIAS\/Rating\/classes\/class.ilRatingCategoryGUI.php",
+        "line": 168,
+        "code": "$lng->txt(\"rating_category_\" . ($a_id ? \"edit\" : \"create\"))",
+        "has_variable": true,
+        "variable": "\"rating_category_\" . ($a_id ? \"edit\" : \"create\")"
+    },
+    {
+        "id": 30614,
+        "file": "components\/ILIAS\/Rating\/classes\/class.ilRatingCategoryGUI.php",
+        "line": 171,
+        "code": "$lng->txt(\"title\")",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 30616,
+        "file": "components\/ILIAS\/Rating\/classes\/class.ilRatingCategoryGUI.php",
+        "line": 178,
+        "code": "$lng->txt(\"description\")",
+        "has_variable": false,
+        "variable": "description"
+    },
+    {
+        "id": 30618,
+        "file": "components\/ILIAS\/Rating\/classes\/class.ilRatingCategoryGUI.php",
+        "line": 185,
+        "code": "$lng->txt(\"rating_category_add\")",
+        "has_variable": false,
+        "variable": "rating_category_add"
+    },
+    {
+        "id": 30620,
+        "file": "components\/ILIAS\/Rating\/classes\/class.ilRatingCategoryGUI.php",
+        "line": 191,
+        "code": "$lng->txt(\"rating_category_update\")",
+        "has_variable": false,
+        "variable": "rating_category_update"
+    },
+    {
+        "id": 30622,
+        "file": "components\/ILIAS\/Rating\/classes\/class.ilRatingCategoryGUI.php",
+        "line": 193,
+        "code": "$lng->txt(\"cancel\")",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 30624,
+        "file": "components\/ILIAS\/Rating\/classes\/class.ilRatingCategoryGUI.php",
+        "line": 222,
+        "code": "$lng->txt(\"rating_category_created\")",
+        "has_variable": false,
+        "variable": "rating_category_created"
+    },
+    {
+        "id": 30626,
+        "file": "components\/ILIAS\/Rating\/classes\/class.ilRatingCategoryGUI.php",
+        "line": 263,
+        "code": "$lng->txt(\"rating_category_updated\")",
+        "has_variable": false,
+        "variable": "rating_category_updated"
+    },
+    {
+        "id": 30628,
+        "file": "components\/ILIAS\/Rating\/classes\/class.ilRatingCategoryGUI.php",
+        "line": 289,
+        "code": "$lng->txt('settings_saved')",
+        "has_variable": false,
+        "variable": "settings_saved"
+    },
+    {
+        "id": 30630,
+        "file": "components\/ILIAS\/Rating\/classes\/class.ilRatingCategoryGUI.php",
+        "line": 313,
+        "code": "$lng->txt('rating_category_delete_sure')",
+        "has_variable": false,
+        "variable": "rating_category_delete_sure"
+    },
+    {
+        "id": 30632,
+        "file": "components\/ILIAS\/Rating\/classes\/class.ilRatingCategoryGUI.php",
+        "line": 314,
+        "code": "$lng->txt('info_delete_warning_no_trash')",
+        "has_variable": false,
+        "variable": "info_delete_warning_no_trash"
+    },
+    {
+        "id": 30634,
+        "file": "components\/ILIAS\/Rating\/classes\/class.ilRatingCategoryGUI.php",
+        "line": 317,
+        "code": "$lng->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 30636,
+        "file": "components\/ILIAS\/Rating\/classes\/class.ilRatingCategoryGUI.php",
+        "line": 318,
+        "code": "$lng->txt('confirm')",
+        "has_variable": false,
+        "variable": "confirm"
+    },
+    {
+        "id": 30638,
+        "file": "components\/ILIAS\/Rating\/classes\/class.ilRatingCategoryGUI.php",
+        "line": 333,
+        "code": "$lng->txt(\"rating_category_deleted\")",
+        "has_variable": false,
+        "variable": "rating_category_deleted"
+    },
+    {
+        "id": 30640,
+        "file": "components\/ILIAS\/Rating\/classes\/class.ilRatingCategoryGUI.php",
+        "line": 354,
+        "code": "$lng->txt(\"rating_categories\")",
+        "has_variable": false,
+        "variable": "rating_categories"
+    },
+    {
+        "id": 30642,
+        "file": "components\/ILIAS\/Rating\/classes\/class.ilRatingCategoryGUI.php",
+        "line": 364,
+        "code": "$lng->txt(\"id\")",
+        "has_variable": false,
+        "variable": "id"
+    },
+    {
+        "id": 30644,
+        "file": "components\/ILIAS\/Rating\/classes\/class.ilRatingCategoryGUI.php",
+        "line": 366,
+        "code": "$lng->txt(\"rating_export_category\")",
+        "has_variable": false,
+        "variable": "rating_export_category"
+    },
+    {
+        "id": 30646,
+        "file": "components\/ILIAS\/Rating\/classes\/class.ilRatingCategoryGUI.php",
+        "line": 366,
+        "code": "$lng->txt(\"id\")",
+        "has_variable": false,
+        "variable": "id"
+    },
+    {
+        "id": 30648,
+        "file": "components\/ILIAS\/Rating\/classes\/class.ilRatingCategoryGUI.php",
+        "line": 367,
+        "code": "$lng->txt(\"rating_export_category\")",
+        "has_variable": false,
+        "variable": "rating_export_category"
+    },
+    {
+        "id": 30650,
+        "file": "components\/ILIAS\/Rating\/classes\/class.ilRatingCategoryGUI.php",
+        "line": 368,
+        "code": "$lng->txt(\"rating_export_date\")",
+        "has_variable": false,
+        "variable": "rating_export_date"
+    },
+    {
+        "id": 30652,
+        "file": "components\/ILIAS\/Rating\/classes\/class.ilRatingCategoryGUI.php",
+        "line": 369,
+        "code": "$lng->txt(\"rating_export_rating\")",
+        "has_variable": false,
+        "variable": "rating_export_rating"
+    },
+    {
+        "id": 30654,
+        "file": "components\/ILIAS\/Rating\/classes\/class.ilRatingGUI.php",
+        "line": 194,
+        "code": "$lng->txt(\"rating_your_rating\")",
+        "has_variable": false,
+        "variable": "rating_your_rating"
+    },
+    {
+        "id": 30656,
+        "file": "components\/ILIAS\/Rating\/classes\/class.ilRatingGUI.php",
+        "line": 274,
+        "code": "$lng->txt(\"rating_rate_x_of_5\")",
+        "has_variable": false,
+        "variable": "rating_rate_x_of_5"
+    },
+    {
+        "id": 30658,
+        "file": "components\/ILIAS\/Rating\/classes\/class.ilRatingGUI.php",
+        "line": 297,
+        "code": "$lng->txt(\"rating_remove\")",
+        "has_variable": false,
+        "variable": "rating_remove"
+    },
+    {
+        "id": 30660,
+        "file": "components\/ILIAS\/Rating\/classes\/class.ilRatingGUI.php",
+        "line": 408,
+        "code": "$lng->txt(\"rating_rate_x_of_5\")",
+        "has_variable": false,
+        "variable": "rating_rate_x_of_5"
+    },
+    {
+        "id": 30662,
+        "file": "components\/ILIAS\/Rating\/classes\/class.ilRatingGUI.php",
+        "line": 457,
+        "code": "$lng->txt(\"rating_number_votes\")",
+        "has_variable": false,
+        "variable": "rating_number_votes"
+    },
+    {
+        "id": 30664,
+        "file": "components\/ILIAS\/Rating\/classes\/class.ilRatingGUI.php",
+        "line": 465,
+        "code": "$lng->txt(\"rating_remove\")",
+        "has_variable": false,
+        "variable": "rating_remove"
+    },
+    {
+        "id": 30666,
+        "file": "components\/ILIAS\/Rating\/classes\/class.ilRatingGUI.php",
+        "line": 484,
+        "code": "$lng->txt(\"rating_overlay_submit\")",
+        "has_variable": false,
+        "variable": "rating_overlay_submit"
+    },
+    {
+        "id": 30668,
+        "file": "components\/ILIAS\/Rating\/classes\/class.ilRatingGUI.php",
+        "line": 595,
+        "code": "$lng->txt(\"rating_open_dialog\")",
+        "has_variable": false,
+        "variable": "rating_open_dialog"
+    },
+    {
+        "id": 30670,
+        "file": "components\/ILIAS\/Rating\/classes\/class.ilRatingGUI.php",
+        "line": 660,
+        "code": "$lng->txt(\"rat_not_rated_yet\")",
+        "has_variable": false,
+        "variable": "rat_not_rated_yet"
+    },
+    {
+        "id": 30672,
+        "file": "components\/ILIAS\/Rating\/classes\/class.ilRatingGUI.php",
+        "line": 663,
+        "code": "$lng->txt(\"rat_one_rating\")",
+        "has_variable": false,
+        "variable": "rat_one_rating"
+    },
+    {
+        "id": 30674,
+        "file": "components\/ILIAS\/Rating\/classes\/class.ilRatingGUI.php",
+        "line": 665,
+        "code": "$lng->txt(\"rat_nr_ratings\")",
+        "has_variable": false,
+        "variable": "rat_nr_ratings"
+    },
+    {
+        "id": 30676,
+        "file": "components\/ILIAS\/Rating\/classes\/class.ilRatingGUI.php",
+        "line": 667,
+        "code": "$lng->txt(\"rating_avg_rating\")",
+        "has_variable": false,
+        "variable": "rating_avg_rating"
+    },
+    {
+        "id": 30678,
+        "file": "components\/ILIAS\/Rating\/classes\/class.ilRatingGUI.php",
+        "line": 671,
+        "code": "$lng->txt(\"rating_personal_rating\")",
+        "has_variable": false,
+        "variable": "rating_personal_rating"
+    }
+]

@@ -1,0 +1,201 @@
+{
+    "metadata": {
+        "type": "composed",
+        "count": 8,
+        "description": "Variable usages with detectable prefixes or suffixes"
+    },
+    "matches": [
+        {
+            "id": 9430,
+            "file": "components\/ILIAS\/Conditions\/classes\/class.ilConditionHandlerGUI.php",
+            "line": 188,
+            "code": "$lng->txt('condition_' . $a_operator)",
+            "variable": "'condition_' . $a_operator",
+            "has_variable": true,
+            "prefix": "condition_",
+            "suffix": "",
+            "matching_variables": [
+                "condition_accredited_or_passed",
+                "condition_already_assigned",
+                "condition_circle_created",
+                "condition_deleted",
+                "condition_finished",
+                "condition_not_finished",
+                "condition_passed",
+                "condition_select_object",
+                "condition_always",
+                "condition_failed",
+                "condition_learning_progress",
+                "condition_result_range_percentage"
+            ]
+        },
+        {
+            "id": 9432,
+            "file": "components\/ILIAS\/Conditions\/classes\/class.ilConditionHandlerGUI.php",
+            "line": 201,
+            "code": "$lng->txt('condition_' . $a_operator)",
+            "variable": "'condition_' . $a_operator",
+            "has_variable": true,
+            "prefix": "condition_",
+            "suffix": "",
+            "matching_variables": [
+                "condition_accredited_or_passed",
+                "condition_already_assigned",
+                "condition_circle_created",
+                "condition_deleted",
+                "condition_finished",
+                "condition_not_finished",
+                "condition_passed",
+                "condition_select_object",
+                "condition_always",
+                "condition_failed",
+                "condition_learning_progress",
+                "condition_result_range_percentage"
+            ]
+        },
+        {
+            "id": 9434,
+            "file": "components\/ILIAS\/Conditions\/classes\/class.ilConditionHandlerGUI.php",
+            "line": 205,
+            "code": "$lng->txt('condition_' . $a_operator)",
+            "variable": "'condition_' . $a_operator",
+            "has_variable": true,
+            "prefix": "condition_",
+            "suffix": "",
+            "matching_variables": [
+                "condition_accredited_or_passed",
+                "condition_already_assigned",
+                "condition_circle_created",
+                "condition_deleted",
+                "condition_finished",
+                "condition_not_finished",
+                "condition_passed",
+                "condition_select_object",
+                "condition_always",
+                "condition_failed",
+                "condition_learning_progress",
+                "condition_result_range_percentage"
+            ]
+        },
+        {
+            "id": 9480,
+            "file": "components\/ILIAS\/Conditions\/classes\/class.ilConditionHandlerGUI.php",
+            "line": 632,
+            "code": "$this->lng->txt('condition_' . $operator)",
+            "variable": "'condition_' . $operator",
+            "has_variable": true,
+            "prefix": "condition_",
+            "suffix": "",
+            "matching_variables": [
+                "condition_accredited_or_passed",
+                "condition_already_assigned",
+                "condition_circle_created",
+                "condition_deleted",
+                "condition_finished",
+                "condition_not_finished",
+                "condition_passed",
+                "condition_select_object",
+                "condition_always",
+                "condition_failed",
+                "condition_learning_progress",
+                "condition_result_range_percentage"
+            ]
+        },
+        {
+            "id": 9512,
+            "file": "components\/ILIAS\/Conditions\/classes\/class.ilConditionHandlerGUI.php",
+            "line": 838,
+            "code": "$this->lng->txt('condition_' . $condition['operator'])",
+            "variable": "'condition_' . $condition['operator']",
+            "has_variable": true,
+            "prefix": "condition_",
+            "suffix": "",
+            "matching_variables": [
+                "condition_accredited_or_passed",
+                "condition_already_assigned",
+                "condition_circle_created",
+                "condition_deleted",
+                "condition_finished",
+                "condition_not_finished",
+                "condition_passed",
+                "condition_select_object",
+                "condition_always",
+                "condition_failed",
+                "condition_learning_progress",
+                "condition_result_range_percentage"
+            ]
+        },
+        {
+            "id": 9552,
+            "file": "components\/ILIAS\/Conditions\/classes\/class.ilConditionHandlerGUI.php",
+            "line": 1118,
+            "code": "$this->lng->txt('condition_' . $operator)",
+            "variable": "'condition_' . $operator",
+            "has_variable": true,
+            "prefix": "condition_",
+            "suffix": "",
+            "matching_variables": [
+                "condition_accredited_or_passed",
+                "condition_already_assigned",
+                "condition_circle_created",
+                "condition_deleted",
+                "condition_finished",
+                "condition_not_finished",
+                "condition_passed",
+                "condition_select_object",
+                "condition_always",
+                "condition_failed",
+                "condition_learning_progress",
+                "condition_result_range_percentage"
+            ]
+        },
+        {
+            "id": 9554,
+            "file": "components\/ILIAS\/Conditions\/classes\/class.ilConditionHandlerGUI.php",
+            "line": 1126,
+            "code": "$this->lng->txt('condition_' . $operator)",
+            "variable": "'condition_' . $operator",
+            "has_variable": true,
+            "prefix": "condition_",
+            "suffix": "",
+            "matching_variables": [
+                "condition_accredited_or_passed",
+                "condition_already_assigned",
+                "condition_circle_created",
+                "condition_deleted",
+                "condition_finished",
+                "condition_not_finished",
+                "condition_passed",
+                "condition_select_object",
+                "condition_always",
+                "condition_failed",
+                "condition_learning_progress",
+                "condition_result_range_percentage"
+            ]
+        },
+        {
+            "id": 9556,
+            "file": "components\/ILIAS\/Conditions\/classes\/class.ilConditionHandlerGUI.php",
+            "line": 1134,
+            "code": "$this->lng->txt('condition_' . $operator)",
+            "variable": "'condition_' . $operator",
+            "has_variable": true,
+            "prefix": "condition_",
+            "suffix": "",
+            "matching_variables": [
+                "condition_accredited_or_passed",
+                "condition_already_assigned",
+                "condition_circle_created",
+                "condition_deleted",
+                "condition_finished",
+                "condition_not_finished",
+                "condition_passed",
+                "condition_select_object",
+                "condition_always",
+                "condition_failed",
+                "condition_learning_progress",
+                "condition_result_range_percentage"
+            ]
+        }
+    ]
+}

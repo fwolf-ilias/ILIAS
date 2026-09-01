@@ -1,0 +1,314 @@
+[
+    {
+        "id": 9336,
+        "file": "components\/ILIAS\/Component\/classes\/Settings\/class.ilObjComponentSettingsGUI.php",
+        "line": 109,
+        "code": "$this->lng->txt('no_permission')",
+        "has_variable": false,
+        "variable": "no_permission"
+    },
+    {
+        "id": 9338,
+        "file": "components\/ILIAS\/Component\/classes\/Settings\/class.ilObjComponentSettingsGUI.php",
+        "line": 177,
+        "code": "$this->lng->txt(\"cmps_plugin_updated\")",
+        "has_variable": false,
+        "variable": "cmps_plugin_updated"
+    },
+    {
+        "id": 9340,
+        "file": "components\/ILIAS\/Component\/classes\/Settings\/class.ilObjComponentSettingsGUI.php",
+        "line": 192,
+        "code": "$this->lng->txt(\"cmps_refresh_lng\")",
+        "has_variable": false,
+        "variable": "cmps_refresh_lng"
+    },
+    {
+        "id": 9342,
+        "file": "components\/ILIAS\/Component\/classes\/Settings\/class.ilObjComponentSettingsGUI.php",
+        "line": 205,
+        "code": "$this->lng->txt(\"cmps_plugin_activated\")",
+        "has_variable": false,
+        "variable": "cmps_plugin_activated"
+    },
+    {
+        "id": 9344,
+        "file": "components\/ILIAS\/Component\/classes\/Settings\/class.ilObjComponentSettingsGUI.php",
+        "line": 219,
+        "code": "$this->lng->txt(\"cmps_plugin_deactivated\")",
+        "has_variable": false,
+        "variable": "cmps_plugin_deactivated"
+    },
+    {
+        "id": 9346,
+        "file": "components\/ILIAS\/Component\/classes\/Settings\/class.ilObjComponentSettingsGUI.php",
+        "line": 243,
+        "code": "$this->lng->txt(\"cmps_uninstall_confirm\")",
+        "has_variable": false,
+        "variable": "cmps_uninstall_confirm"
+    },
+    {
+        "id": 9348,
+        "file": "components\/ILIAS\/Component\/classes\/Settings\/class.ilObjComponentSettingsGUI.php",
+        "line": 248,
+        "code": "$this->lng->txt(\"cmps_uninstall_inactive_confirm\")",
+        "has_variable": false,
+        "variable": "cmps_uninstall_inactive_confirm"
+    },
+    {
+        "id": 9350,
+        "file": "components\/ILIAS\/Component\/classes\/Settings\/class.ilObjComponentSettingsGUI.php",
+        "line": 257,
+        "code": "$this->lng->txt('confirm')",
+        "has_variable": false,
+        "variable": "confirm"
+    },
+    {
+        "id": 9352,
+        "file": "components\/ILIAS\/Component\/classes\/Settings\/class.ilObjComponentSettingsGUI.php",
+        "line": 261,
+        "code": "$this->lng->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 9354,
+        "file": "components\/ILIAS\/Component\/classes\/Settings\/class.ilObjComponentSettingsGUI.php",
+        "line": 275,
+        "code": "$this->lng->txt(\"cmps_plugin_deinstalled\")",
+        "has_variable": false,
+        "variable": "cmps_plugin_deinstalled"
+    },
+    {
+        "id": 9356,
+        "file": "components\/ILIAS\/Component\/classes\/Settings\/class.ilObjComponentSettingsGUI.php",
+        "line": 321,
+        "code": "$this->lng->txt(\"cmps_plugins\")",
+        "has_variable": false,
+        "variable": "cmps_plugins"
+    },
+    {
+        "id": 9358,
+        "file": "components\/ILIAS\/Component\/classes\/Settings\/class.ilObjComponentSettingsGUI.php",
+        "line": 329,
+        "code": "$this->lng->txt(\"perm_settings\")",
+        "has_variable": false,
+        "variable": "perm_settings"
+    },
+    {
+        "id": 9360,
+        "file": "components\/ILIAS\/Component\/classes\/Settings\/class.ilPluginsOverviewTable.php",
+        "line": 82,
+        "code": "$this->lng->txt(\"installed\")",
+        "has_variable": false,
+        "variable": "installed"
+    },
+    {
+        "id": 9362,
+        "file": "components\/ILIAS\/Component\/classes\/Settings\/class.ilPluginsOverviewTable.php",
+        "line": 84,
+        "code": "$this->lng->txt(\"not_installed\")",
+        "has_variable": false,
+        "variable": "not_installed"
+    },
+    {
+        "id": 9364,
+        "file": "components\/ILIAS\/Component\/classes\/Settings\/class.ilPluginsOverviewTable.php",
+        "line": 88,
+        "code": "$this->lng->txt(\"cmps_active\")",
+        "has_variable": false,
+        "variable": "cmps_active"
+    },
+    {
+        "id": 9366,
+        "file": "components\/ILIAS\/Component\/classes\/Settings\/class.ilPluginsOverviewTable.php",
+        "line": 90,
+        "code": "$this->lng->txt(\"inactive\")",
+        "has_variable": false,
+        "variable": "inactive"
+    },
+    {
+        "id": 9368,
+        "file": "components\/ILIAS\/Component\/classes\/Settings\/class.ilPluginsOverviewTable.php",
+        "line": 94,
+        "code": "$this->lng->txt(\"cmps_needs_update\")",
+        "has_variable": false,
+        "variable": "cmps_needs_update"
+    },
+    {
+        "id": 9370,
+        "file": "components\/ILIAS\/Component\/classes\/Settings\/class.ilPluginsOverviewTable.php",
+        "line": 103,
+        "code": "$this->lng->txt(\"cmps_is_installed\")",
+        "has_variable": false,
+        "variable": "cmps_is_installed"
+    },
+    {
+        "id": 9372,
+        "file": "components\/ILIAS\/Component\/classes\/Settings\/class.ilPluginsOverviewTable.php",
+        "line": 104,
+        "code": "$this->lng->txt(\"cmps_is_active\")",
+        "has_variable": false,
+        "variable": "cmps_is_active"
+    },
+    {
+        "id": 9374,
+        "file": "components\/ILIAS\/Component\/classes\/Settings\/class.ilPluginsOverviewTable.php",
+        "line": 105,
+        "code": "$this->lng->txt(\"cmps_needs_update\")",
+        "has_variable": false,
+        "variable": "cmps_needs_update"
+    },
+    {
+        "id": 9376,
+        "file": "components\/ILIAS\/Component\/classes\/Settings\/class.ilPluginsOverviewTable.php",
+        "line": 106,
+        "code": "$this->lng->txt(\"cmps_id\")",
+        "has_variable": false,
+        "variable": "cmps_id"
+    },
+    {
+        "id": 9378,
+        "file": "components\/ILIAS\/Component\/classes\/Settings\/class.ilPluginsOverviewTable.php",
+        "line": 107,
+        "code": "$this->lng->txt(\"cmps_plugin_slot\")",
+        "has_variable": false,
+        "variable": "cmps_plugin_slot"
+    },
+    {
+        "id": 9380,
+        "file": "components\/ILIAS\/Component\/classes\/Settings\/class.ilPluginsOverviewTable.php",
+        "line": 108,
+        "code": "$this->lng->txt(\"cmps_current_version\")",
+        "has_variable": false,
+        "variable": "cmps_current_version"
+    },
+    {
+        "id": 9382,
+        "file": "components\/ILIAS\/Component\/classes\/Settings\/class.ilPluginsOverviewTable.php",
+        "line": 109,
+        "code": "$this->lng->txt(\"cmps_available_version\")",
+        "has_variable": false,
+        "variable": "cmps_available_version"
+    },
+    {
+        "id": 9384,
+        "file": "components\/ILIAS\/Component\/classes\/Settings\/class.ilPluginsOverviewTable.php",
+        "line": 110,
+        "code": "$this->lng->txt(\"cmps_current_db_version\")",
+        "has_variable": false,
+        "variable": "cmps_current_db_version"
+    },
+    {
+        "id": 9386,
+        "file": "components\/ILIAS\/Component\/classes\/Settings\/class.ilPluginsOverviewTable.php",
+        "line": 111,
+        "code": "$this->lng->txt(\"cmps_ilias_min_version\")",
+        "has_variable": false,
+        "variable": "cmps_ilias_min_version"
+    },
+    {
+        "id": 9388,
+        "file": "components\/ILIAS\/Component\/classes\/Settings\/class.ilPluginsOverviewTable.php",
+        "line": 112,
+        "code": "$this->lng->txt(\"cmps_ilias_max_version\")",
+        "has_variable": false,
+        "variable": "cmps_ilias_max_version"
+    },
+    {
+        "id": 9390,
+        "file": "components\/ILIAS\/Component\/classes\/Settings\/class.ilPluginsOverviewTable.php",
+        "line": 113,
+        "code": "$this->lng->txt(\"cmps_responsible\")",
+        "has_variable": false,
+        "variable": "cmps_responsible"
+    },
+    {
+        "id": 9392,
+        "file": "components\/ILIAS\/Component\/classes\/Settings\/class.ilPluginsOverviewTable.php",
+        "line": 114,
+        "code": "$this->lng->txt(\"cmps_responsible_mail\")",
+        "has_variable": false,
+        "variable": "cmps_responsible_mail"
+    },
+    {
+        "id": 9394,
+        "file": "components\/ILIAS\/Component\/classes\/Settings\/class.ilPluginsOverviewTable.php",
+        "line": 115,
+        "code": "$this->lng->txt(\"cmps_supports_learning_progress\")",
+        "has_variable": false,
+        "variable": "cmps_supports_learning_progress"
+    },
+    {
+        "id": 9396,
+        "file": "components\/ILIAS\/Component\/classes\/Settings\/class.ilPluginsOverviewTable.php",
+        "line": 116,
+        "code": "$this->lng->txt(\"cmps_supports_export\")",
+        "has_variable": false,
+        "variable": "cmps_supports_export"
+    },
+    {
+        "id": 9398,
+        "file": "components\/ILIAS\/Component\/classes\/Settings\/class.ilPluginsOverviewTable.php",
+        "line": 117,
+        "code": "$this->lng->txt(\"cmps_supports_cli_setup\")",
+        "has_variable": false,
+        "variable": "cmps_supports_cli_setup"
+    },
+    {
+        "id": 9400,
+        "file": "components\/ILIAS\/Component\/classes\/Settings\/class.ilPluginsOverviewTable.php",
+        "line": 124,
+        "code": "$this->lng->txt(\"yes\")",
+        "has_variable": false,
+        "variable": "yes"
+    },
+    {
+        "id": 9402,
+        "file": "components\/ILIAS\/Component\/classes\/Settings\/class.ilPluginsOverviewTable.php",
+        "line": 126,
+        "code": "$this->lng->txt(\"no\")",
+        "has_variable": false,
+        "variable": "no"
+    },
+    {
+        "id": 9404,
+        "file": "components\/ILIAS\/Component\/classes\/Settings\/class.ilPluginsOverviewTable.php",
+        "line": 197,
+        "code": "$this->lng->txt(\"cmps_configure\")",
+        "has_variable": false,
+        "variable": "cmps_configure"
+    },
+    {
+        "id": 9406,
+        "file": "components\/ILIAS\/Component\/classes\/Settings\/class.ilPluginsOverviewTable.php",
+        "line": 248,
+        "code": "$this->lng->txt($caption)",
+        "has_variable": true,
+        "variable": "$caption"
+    },
+    {
+        "id": 9408,
+        "file": "components\/ILIAS\/Component\/classes\/class.ilPluginConfigGUI.php",
+        "line": 71,
+        "code": "$lng->txt(\"cmps_plugin\")",
+        "has_variable": false,
+        "variable": "cmps_plugin"
+    },
+    {
+        "id": 9410,
+        "file": "components\/ILIAS\/Component\/classes\/class.ilPluginConfigGUI.php",
+        "line": 78,
+        "code": "$lng->txt(\"cmps_plugin\")",
+        "has_variable": false,
+        "variable": "cmps_plugin"
+    },
+    {
+        "id": 9412,
+        "file": "components\/ILIAS\/Component\/classes\/class.ilPluginConfigGUI.php",
+        "line": 83,
+        "code": "$lng->txt(\"cmps_plugins\")",
+        "has_variable": false,
+        "variable": "cmps_plugins"
+    }
+]

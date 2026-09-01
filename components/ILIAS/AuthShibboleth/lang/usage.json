@@ -1,0 +1,682 @@
+[
+    {
+        "id": 1826,
+        "file": "components\/ILIAS\/AuthShibboleth\/classes\/Config\/class.ilShibbolethSettingsForm.php",
+        "line": 65,
+        "code": "$this->lng->txt($var)",
+        "has_variable": true,
+        "variable": "$var"
+    },
+    {
+        "id": 1828,
+        "file": "components\/ILIAS\/AuthShibboleth\/classes\/Config\/class.ilShibbolethSettingsForm.php",
+        "line": 70,
+        "code": "$this->txt($var . '_info')",
+        "has_variable": true,
+        "variable": "$var . '_info'"
+    },
+    {
+        "id": 1830,
+        "file": "components\/ILIAS\/AuthShibboleth\/classes\/Config\/class.ilShibbolethSettingsForm.php",
+        "line": 83,
+        "code": "$this->txt('shib_active')",
+        "has_variable": false,
+        "variable": "shib_active"
+    },
+    {
+        "id": 1832,
+        "file": "components\/ILIAS\/AuthShibboleth\/classes\/Config\/class.ilShibbolethSettingsForm.php",
+        "line": 83,
+        "code": "$this->lng->txt(\"auth_shib_instructions\")",
+        "has_variable": false,
+        "variable": "auth_shib_instructions"
+    },
+    {
+        "id": 1834,
+        "file": "components\/ILIAS\/AuthShibboleth\/classes\/Config\/class.ilShibbolethSettingsForm.php",
+        "line": 89,
+        "code": "$this->txt('auth_allow_local')",
+        "has_variable": false,
+        "variable": "auth_allow_local"
+    },
+    {
+        "id": 1836,
+        "file": "components\/ILIAS\/AuthShibboleth\/classes\/Config\/class.ilShibbolethSettingsForm.php",
+        "line": 99,
+        "code": "$this->lng->txt(\"shib_account_creation_enabled\")",
+        "has_variable": false,
+        "variable": "shib_account_creation_enabled"
+    },
+    {
+        "id": 1838,
+        "file": "components\/ILIAS\/AuthShibboleth\/classes\/Config\/class.ilShibbolethSettingsForm.php",
+        "line": 100,
+        "code": "$this->lng->txt(\"shib_account_creation_enabled_info\")",
+        "has_variable": false,
+        "variable": "shib_account_creation_enabled_info"
+    },
+    {
+        "id": 1840,
+        "file": "components\/ILIAS\/AuthShibboleth\/classes\/Config\/class.ilShibbolethSettingsForm.php",
+        "line": 104,
+        "code": "$this->lng->txt(\"shib_account_creation_with_approval\")",
+        "has_variable": false,
+        "variable": "shib_account_creation_with_approval"
+    },
+    {
+        "id": 1842,
+        "file": "components\/ILIAS\/AuthShibboleth\/classes\/Config\/class.ilShibbolethSettingsForm.php",
+        "line": 105,
+        "code": "$this->lng->txt(\"shib_account_creation_with_approval_info\")",
+        "has_variable": false,
+        "variable": "shib_account_creation_with_approval_info"
+    },
+    {
+        "id": 1844,
+        "file": "components\/ILIAS\/AuthShibboleth\/classes\/Config\/class.ilShibbolethSettingsForm.php",
+        "line": 109,
+        "code": "$this->lng->txt(\"shib_account_creation_disabled\")",
+        "has_variable": false,
+        "variable": "shib_account_creation_disabled"
+    },
+    {
+        "id": 1846,
+        "file": "components\/ILIAS\/AuthShibboleth\/classes\/Config\/class.ilShibbolethSettingsForm.php",
+        "line": 110,
+        "code": "$this->lng->txt(\"shib_account_creation_disabled_info\")",
+        "has_variable": false,
+        "variable": "shib_account_creation_disabled_info"
+    },
+    {
+        "id": 1848,
+        "file": "components\/ILIAS\/AuthShibboleth\/classes\/Config\/class.ilShibbolethSettingsForm.php",
+        "line": 113,
+        "code": "$this->lng->txt(\"shib_account_creation\")",
+        "has_variable": false,
+        "variable": "shib_account_creation"
+    },
+    {
+        "id": 1850,
+        "file": "components\/ILIAS\/AuthShibboleth\/classes\/Config\/class.ilShibbolethSettingsForm.php",
+        "line": 114,
+        "code": "$this->lng->txt(\"shib_account_creation_info\")",
+        "has_variable": false,
+        "variable": "shib_account_creation_info"
+    },
+    {
+        "id": 1852,
+        "file": "components\/ILIAS\/AuthShibboleth\/classes\/Config\/class.ilShibbolethSettingsForm.php",
+        "line": 123,
+        "code": "$this->txt('shib_user_default_role')",
+        "has_variable": false,
+        "variable": "shib_user_default_role"
+    },
+    {
+        "id": 1854,
+        "file": "components\/ILIAS\/AuthShibboleth\/classes\/Config\/class.ilShibbolethSettingsForm.php",
+        "line": 135,
+        "code": "$this->txt('shib')",
+        "has_variable": false,
+        "variable": "shib"
+    },
+    {
+        "id": 1856,
+        "file": "components\/ILIAS\/AuthShibboleth\/classes\/Config\/class.ilShibbolethSettingsForm.php",
+        "line": 138,
+        "code": "$this->txt('shib_federation_name')",
+        "has_variable": false,
+        "variable": "shib_federation_name"
+    },
+    {
+        "id": 1858,
+        "file": "components\/ILIAS\/AuthShibboleth\/classes\/Config\/class.ilShibbolethSettingsForm.php",
+        "line": 147,
+        "code": "$this->txt('shib_idp_list')",
+        "has_variable": false,
+        "variable": "shib_idp_list"
+    },
+    {
+        "id": 1860,
+        "file": "components\/ILIAS\/AuthShibboleth\/classes\/Config\/class.ilShibbolethSettingsForm.php",
+        "line": 152,
+        "code": "$this->txt('shib_login_internal_wayf')",
+        "has_variable": false,
+        "variable": "shib_login_internal_wayf"
+    },
+    {
+        "id": 1862,
+        "file": "components\/ILIAS\/AuthShibboleth\/classes\/Config\/class.ilShibbolethSettingsForm.php",
+        "line": 154,
+        "code": "$this->txt('shib_login_button')",
+        "has_variable": false,
+        "variable": "shib_login_button"
+    },
+    {
+        "id": 1864,
+        "file": "components\/ILIAS\/AuthShibboleth\/classes\/Config\/class.ilShibbolethSettingsForm.php",
+        "line": 159,
+        "code": "$this->txt('shib_login_external_wayf')",
+        "has_variable": false,
+        "variable": "shib_login_external_wayf"
+    },
+    {
+        "id": 1866,
+        "file": "components\/ILIAS\/AuthShibboleth\/classes\/Config\/class.ilShibbolethSettingsForm.php",
+        "line": 160,
+        "code": "$this->txt('shib_login_embedded_wayf')",
+        "has_variable": false,
+        "variable": "shib_login_embedded_wayf"
+    },
+    {
+        "id": 1868,
+        "file": "components\/ILIAS\/AuthShibboleth\/classes\/Config\/class.ilShibbolethSettingsForm.php",
+        "line": 161,
+        "code": "$this->txt('shib_login_embedded_wayf_description')",
+        "has_variable": false,
+        "variable": "shib_login_embedded_wayf_description"
+    },
+    {
+        "id": 1870,
+        "file": "components\/ILIAS\/AuthShibboleth\/classes\/Config\/class.ilShibbolethSettingsForm.php",
+        "line": 162,
+        "code": "$this->txt('shib_login_type')",
+        "has_variable": false,
+        "variable": "shib_login_type"
+    },
+    {
+        "id": 1872,
+        "file": "components\/ILIAS\/AuthShibboleth\/classes\/Config\/class.ilShibbolethSettingsForm.php",
+        "line": 169,
+        "code": "$this->txt('auth_login_instructions')",
+        "has_variable": false,
+        "variable": "auth_login_instructions"
+    },
+    {
+        "id": 1874,
+        "file": "components\/ILIAS\/AuthShibboleth\/classes\/Config\/class.ilShibbolethSettingsForm.php",
+        "line": 175,
+        "code": "$this->txt('shib_data_conv')",
+        "has_variable": false,
+        "variable": "shib_data_conv"
+    },
+    {
+        "id": 1876,
+        "file": "components\/ILIAS\/AuthShibboleth\/classes\/Config\/class.ilShibbolethSettingsForm.php",
+        "line": 190,
+        "code": "$this->txt('shib_login')",
+        "has_variable": false,
+        "variable": "shib_login"
+    },
+    {
+        "id": 1878,
+        "file": "components\/ILIAS\/AuthShibboleth\/classes\/Config\/class.ilShibbolethSettingsForm.php",
+        "line": 197,
+        "code": "$this->txt($field_name)",
+        "has_variable": true,
+        "variable": "$field_name"
+    },
+    {
+        "id": 1880,
+        "file": "components\/ILIAS\/AuthShibboleth\/classes\/Config\/class.ilShibbolethSettingsForm.php",
+        "line": 203,
+        "code": "$this->txt('shib_update')",
+        "has_variable": false,
+        "variable": "shib_update"
+    },
+    {
+        "id": 1882,
+        "file": "components\/ILIAS\/AuthShibboleth\/classes\/Config\/class.ilShibbolethSettingsForm.php",
+        "line": 233,
+        "code": "$this->lng->txt('refresh')",
+        "has_variable": false,
+        "variable": "refresh"
+    },
+    {
+        "id": 1884,
+        "file": "components\/ILIAS\/AuthShibboleth\/classes\/class.ilAuthShibbolethSettingsGUI.php",
+        "line": 86,
+        "code": "$this->lng->txt('msg_no_perm_write')",
+        "has_variable": false,
+        "variable": "msg_no_perm_write"
+    },
+    {
+        "id": 1886,
+        "file": "components\/ILIAS\/AuthShibboleth\/classes\/class.ilAuthShibbolethSettingsGUI.php",
+        "line": 127,
+        "code": "$this->lng->txt(\"shib_settings_saved\")",
+        "has_variable": false,
+        "variable": "shib_settings_saved"
+    },
+    {
+        "id": 1888,
+        "file": "components\/ILIAS\/AuthShibboleth\/classes\/class.ilAuthShibbolethSettingsGUI.php",
+        "line": 163,
+        "code": "$this->lng->txt('shib_rules_tables')",
+        "has_variable": false,
+        "variable": "shib_rules_tables"
+    },
+    {
+        "id": 1890,
+        "file": "components\/ILIAS\/AuthShibboleth\/classes\/class.ilAuthShibbolethSettingsGUI.php",
+        "line": 165,
+        "code": "$this->lng->txt(\"delete\")",
+        "has_variable": false,
+        "variable": "delete"
+    },
+    {
+        "id": 1892,
+        "file": "components\/ILIAS\/AuthShibboleth\/classes\/class.ilAuthShibbolethSettingsGUI.php",
+        "line": 177,
+        "code": "$this->lng->txt('select_one')",
+        "has_variable": false,
+        "variable": "select_one"
+    },
+    {
+        "id": 1894,
+        "file": "components\/ILIAS\/AuthShibboleth\/classes\/class.ilAuthShibbolethSettingsGUI.php",
+        "line": 186,
+        "code": "$this->lng->txt(\"shib_confirm_del_role_ass\")",
+        "has_variable": false,
+        "variable": "shib_confirm_del_role_ass"
+    },
+    {
+        "id": 1896,
+        "file": "components\/ILIAS\/AuthShibboleth\/classes\/class.ilAuthShibbolethSettingsGUI.php",
+        "line": 187,
+        "code": "$this->lng->txt(\"cancel\")",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 1898,
+        "file": "components\/ILIAS\/AuthShibboleth\/classes\/class.ilAuthShibbolethSettingsGUI.php",
+        "line": 188,
+        "code": "$this->lng->txt(\"confirm\")",
+        "has_variable": false,
+        "variable": "confirm"
+    },
+    {
+        "id": 1900,
+        "file": "components\/ILIAS\/AuthShibboleth\/classes\/class.ilAuthShibbolethSettingsGUI.php",
+        "line": 212,
+        "code": "$this->lng->txt('select_once')",
+        "has_variable": false,
+        "variable": "select_once"
+    },
+    {
+        "id": 1902,
+        "file": "components\/ILIAS\/AuthShibboleth\/classes\/class.ilAuthShibbolethSettingsGUI.php",
+        "line": 225,
+        "code": "$this->lng->txt('shib_deleted_rule')",
+        "has_variable": false,
+        "variable": "shib_deleted_rule"
+    },
+    {
+        "id": 1904,
+        "file": "components\/ILIAS\/AuthShibboleth\/classes\/class.ilAuthShibbolethSettingsGUI.php",
+        "line": 238,
+        "code": "$this->lng->txt('shib_role_ass_table')",
+        "has_variable": false,
+        "variable": "shib_role_ass_table"
+    },
+    {
+        "id": 1906,
+        "file": "components\/ILIAS\/AuthShibboleth\/classes\/class.ilAuthShibbolethSettingsGUI.php",
+        "line": 240,
+        "code": "$this->lng->txt('shib_role_ass_table')",
+        "has_variable": false,
+        "variable": "shib_role_ass_table"
+    },
+    {
+        "id": 1908,
+        "file": "components\/ILIAS\/AuthShibboleth\/classes\/class.ilAuthShibbolethSettingsGUI.php",
+        "line": 241,
+        "code": "$this->lng->txt('shib_new_rule')",
+        "has_variable": false,
+        "variable": "shib_new_rule"
+    },
+    {
+        "id": 1910,
+        "file": "components\/ILIAS\/AuthShibboleth\/classes\/class.ilAuthShibbolethSettingsGUI.php",
+        "line": 242,
+        "code": "$this->lng->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 1912,
+        "file": "components\/ILIAS\/AuthShibboleth\/classes\/class.ilAuthShibbolethSettingsGUI.php",
+        "line": 244,
+        "code": "$this->lng->txt('shib_update_role_ass_table')",
+        "has_variable": false,
+        "variable": "shib_update_role_ass_table"
+    },
+    {
+        "id": 1914,
+        "file": "components\/ILIAS\/AuthShibboleth\/classes\/class.ilAuthShibbolethSettingsGUI.php",
+        "line": 245,
+        "code": "$this->lng->txt('save')",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 1916,
+        "file": "components\/ILIAS\/AuthShibboleth\/classes\/class.ilAuthShibbolethSettingsGUI.php",
+        "line": 246,
+        "code": "$this->lng->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 1918,
+        "file": "components\/ILIAS\/AuthShibboleth\/classes\/class.ilAuthShibbolethSettingsGUI.php",
+        "line": 249,
+        "code": "$this->lng->txt('shib_role_name')",
+        "has_variable": false,
+        "variable": "shib_role_name"
+    },
+    {
+        "id": 1920,
+        "file": "components\/ILIAS\/AuthShibboleth\/classes\/class.ilAuthShibbolethSettingsGUI.php",
+        "line": 251,
+        "code": "$this->lng->txt('shib_global_role')",
+        "has_variable": false,
+        "variable": "shib_global_role"
+    },
+    {
+        "id": 1922,
+        "file": "components\/ILIAS\/AuthShibboleth\/classes\/class.ilAuthShibbolethSettingsGUI.php",
+        "line": 256,
+        "code": "$this->lng->txt('shib_local_role')",
+        "has_variable": false,
+        "variable": "shib_local_role"
+    },
+    {
+        "id": 1924,
+        "file": "components\/ILIAS\/AuthShibboleth\/classes\/class.ilAuthShibbolethSettingsGUI.php",
+        "line": 261,
+        "code": "$this->lng->txt('shib_role_name_info')",
+        "has_variable": false,
+        "variable": "shib_role_name_info"
+    },
+    {
+        "id": 1926,
+        "file": "components\/ILIAS\/AuthShibboleth\/classes\/class.ilAuthShibbolethSettingsGUI.php",
+        "line": 264,
+        "code": "$this->lng->txt('shib_update_roles')",
+        "has_variable": false,
+        "variable": "shib_update_roles"
+    },
+    {
+        "id": 1928,
+        "file": "components\/ILIAS\/AuthShibboleth\/classes\/class.ilAuthShibbolethSettingsGUI.php",
+        "line": 265,
+        "code": "$this->lng->txt('shib_check_role_assignment')",
+        "has_variable": false,
+        "variable": "shib_check_role_assignment"
+    },
+    {
+        "id": 1930,
+        "file": "components\/ILIAS\/AuthShibboleth\/classes\/class.ilAuthShibbolethSettingsGUI.php",
+        "line": 267,
+        "code": "$this->lng->txt('shib_add_missing')",
+        "has_variable": false,
+        "variable": "shib_add_missing"
+    },
+    {
+        "id": 1932,
+        "file": "components\/ILIAS\/AuthShibboleth\/classes\/class.ilAuthShibbolethSettingsGUI.php",
+        "line": 271,
+        "code": "$this->lng->txt('shib_remove_deprecated')",
+        "has_variable": false,
+        "variable": "shib_remove_deprecated"
+    },
+    {
+        "id": 1934,
+        "file": "components\/ILIAS\/AuthShibboleth\/classes\/class.ilAuthShibbolethSettingsGUI.php",
+        "line": 276,
+        "code": "$this->lng->txt('shib_assignment_type')",
+        "has_variable": false,
+        "variable": "shib_assignment_type"
+    },
+    {
+        "id": 1936,
+        "file": "components\/ILIAS\/AuthShibboleth\/classes\/class.ilAuthShibbolethSettingsGUI.php",
+        "line": 279,
+        "code": "$this->lng->txt('shib_attribute')",
+        "has_variable": false,
+        "variable": "shib_attribute"
+    },
+    {
+        "id": 1938,
+        "file": "components\/ILIAS\/AuthShibboleth\/classes\/class.ilAuthShibbolethSettingsGUI.php",
+        "line": 280,
+        "code": "$this->lng->txt('shib_attr_info')",
+        "has_variable": false,
+        "variable": "shib_attr_info"
+    },
+    {
+        "id": 1940,
+        "file": "components\/ILIAS\/AuthShibboleth\/classes\/class.ilAuthShibbolethSettingsGUI.php",
+        "line": 281,
+        "code": "$this->lng->txt('shib_attribute_name')",
+        "has_variable": false,
+        "variable": "shib_attribute_name"
+    },
+    {
+        "id": 1942,
+        "file": "components\/ILIAS\/AuthShibboleth\/classes\/class.ilAuthShibbolethSettingsGUI.php",
+        "line": 284,
+        "code": "$this->lng->txt('shib_attribute_value')",
+        "has_variable": false,
+        "variable": "shib_attribute_value"
+    },
+    {
+        "id": 1944,
+        "file": "components\/ILIAS\/AuthShibboleth\/classes\/class.ilAuthShibbolethSettingsGUI.php",
+        "line": 289,
+        "code": "$this->lng->txt('shib_plugin')",
+        "has_variable": false,
+        "variable": "shib_plugin"
+    },
+    {
+        "id": 1946,
+        "file": "components\/ILIAS\/AuthShibboleth\/classes\/class.ilAuthShibbolethSettingsGUI.php",
+        "line": 290,
+        "code": "$this->lng->txt('shib_plugin_info')",
+        "has_variable": false,
+        "variable": "shib_plugin_info"
+    },
+    {
+        "id": 1948,
+        "file": "components\/ILIAS\/AuthShibboleth\/classes\/class.ilAuthShibbolethSettingsGUI.php",
+        "line": 292,
+        "code": "$this->lng->txt('shib_plugin_id')",
+        "has_variable": false,
+        "variable": "shib_plugin_id"
+    },
+    {
+        "id": 1950,
+        "file": "components\/ILIAS\/AuthShibboleth\/classes\/class.ilAuthShibbolethSettingsGUI.php",
+        "line": 314,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 1952,
+        "file": "components\/ILIAS\/AuthShibboleth\/classes\/class.ilAuthShibbolethSettingsGUI.php",
+        "line": 322,
+        "code": "$this->lng->txt($err)",
+        "has_variable": true,
+        "variable": "$err"
+    },
+    {
+        "id": 1954,
+        "file": "components\/ILIAS\/AuthShibboleth\/classes\/class.ilAuthShibbolethSettingsGUI.php",
+        "line": 340,
+        "code": "$this->lng->txt('settings_saved')",
+        "has_variable": false,
+        "variable": "settings_saved"
+    },
+    {
+        "id": 1956,
+        "file": "components\/ILIAS\/AuthShibboleth\/classes\/class.ilAuthShibbolethSettingsGUI.php",
+        "line": 372,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 1958,
+        "file": "components\/ILIAS\/AuthShibboleth\/classes\/class.ilAuthShibbolethSettingsGUI.php",
+        "line": 383,
+        "code": "$this->lng->txt($err)",
+        "has_variable": true,
+        "variable": "$err"
+    },
+    {
+        "id": 1960,
+        "file": "components\/ILIAS\/AuthShibboleth\/classes\/class.ilAuthShibbolethSettingsGUI.php",
+        "line": 398,
+        "code": "$this->lng->txt('settings_saved')",
+        "has_variable": false,
+        "variable": "settings_saved"
+    },
+    {
+        "id": 1962,
+        "file": "components\/ILIAS\/AuthShibboleth\/classes\/class.ilAuthShibbolethSettingsGUI.php",
+        "line": 477,
+        "code": "$this->lng->txt('links_select_one')",
+        "has_variable": false,
+        "variable": "links_select_one"
+    },
+    {
+        "id": 1964,
+        "file": "components\/ILIAS\/AuthShibboleth\/classes\/class.ilShibbolethRoleAssignmentRule.php",
+        "line": 153,
+        "code": "$lng->txt('shib_plugin_id')",
+        "has_variable": false,
+        "variable": "shib_plugin_id"
+    },
+    {
+        "id": 1966,
+        "file": "components\/ILIAS\/AuthShibboleth\/classes\/class.ilShibbolethRoleAssignmentTableGUI.php",
+        "line": 41,
+        "code": "$this->lng->txt('shib_rule_type')",
+        "has_variable": false,
+        "variable": "shib_rule_type"
+    },
+    {
+        "id": 1968,
+        "file": "components\/ILIAS\/AuthShibboleth\/classes\/class.ilShibbolethRoleAssignmentTableGUI.php",
+        "line": 42,
+        "code": "$this->lng->txt('shib_ilias_role')",
+        "has_variable": false,
+        "variable": "shib_ilias_role"
+    },
+    {
+        "id": 1970,
+        "file": "components\/ILIAS\/AuthShibboleth\/classes\/class.ilShibbolethRoleAssignmentTableGUI.php",
+        "line": 43,
+        "code": "$this->lng->txt('shib_rule_condition')",
+        "has_variable": false,
+        "variable": "shib_rule_condition"
+    },
+    {
+        "id": 1972,
+        "file": "components\/ILIAS\/AuthShibboleth\/classes\/class.ilShibbolethRoleAssignmentTableGUI.php",
+        "line": 44,
+        "code": "$this->lng->txt('shib_add_remove')",
+        "has_variable": false,
+        "variable": "shib_add_remove"
+    },
+    {
+        "id": 1974,
+        "file": "components\/ILIAS\/AuthShibboleth\/classes\/class.ilShibbolethRoleAssignmentTableGUI.php",
+        "line": 61,
+        "code": "$this->lng->txt('edit')",
+        "has_variable": false,
+        "variable": "edit"
+    },
+    {
+        "id": 1976,
+        "file": "components\/ILIAS\/AuthShibboleth\/classes\/class.ilShibbolethRoleAssignmentTableGUI.php",
+        "line": 64,
+        "code": "$this->lng->txt('yes')",
+        "has_variable": false,
+        "variable": "yes"
+    },
+    {
+        "id": 1978,
+        "file": "components\/ILIAS\/AuthShibboleth\/classes\/class.ilShibbolethRoleAssignmentTableGUI.php",
+        "line": 67,
+        "code": "$this->lng->txt('no')",
+        "has_variable": false,
+        "variable": "no"
+    },
+    {
+        "id": 1980,
+        "file": "components\/ILIAS\/AuthShibboleth\/classes\/class.ilShibbolethRoleAssignmentTableGUI.php",
+        "line": 71,
+        "code": "$this->lng->txt('yes')",
+        "has_variable": false,
+        "variable": "yes"
+    },
+    {
+        "id": 1982,
+        "file": "components\/ILIAS\/AuthShibboleth\/classes\/class.ilShibbolethRoleAssignmentTableGUI.php",
+        "line": 74,
+        "code": "$this->lng->txt('no')",
+        "has_variable": false,
+        "variable": "no"
+    },
+    {
+        "id": 1984,
+        "file": "components\/ILIAS\/AuthShibboleth\/classes\/class.ilShibbolethRoleAssignmentTableGUI.php",
+        "line": 86,
+        "code": "$this->lng->txt('shib_role_by_plugin')",
+        "has_variable": false,
+        "variable": "shib_role_by_plugin"
+    },
+    {
+        "id": 1986,
+        "file": "components\/ILIAS\/AuthShibboleth\/classes\/class.ilShibbolethRoleAssignmentTableGUI.php",
+        "line": 86,
+        "code": "$this->lng->txt('shib_role_by_attribute')",
+        "has_variable": false,
+        "variable": "shib_role_by_attribute"
+    },
+    {
+        "id": 1988,
+        "file": "components\/ILIAS\/AuthShibboleth\/classes\/class.ilShibbolethWAYF.php",
+        "line": 102,
+        "code": "$this->lng->txt(\"shib_member_of\")",
+        "has_variable": false,
+        "variable": "shib_member_of"
+    },
+    {
+        "id": 1990,
+        "file": "components\/ILIAS\/AuthShibboleth\/classes\/class.ilShibbolethWAYF.php",
+        "line": 106,
+        "code": "$this->lng->txt(\"shib_member_of\")",
+        "has_variable": false,
+        "variable": "shib_member_of"
+    },
+    {
+        "id": 1992,
+        "file": "components\/ILIAS\/AuthShibboleth\/classes\/class.ilShibbolethWAYF.php",
+        "line": 163,
+        "code": "$this->lng->txt(\"shib_invalid_home_organization\")",
+        "has_variable": false,
+        "variable": "shib_invalid_home_organization"
+    },
+    {
+        "id": 1994,
+        "file": "components\/ILIAS\/AuthShibboleth\/src\/LoginPerformer.php",
+        "line": 86,
+        "code": "$this->lng->txt('err_wrong_login')",
+        "has_variable": false,
+        "variable": "err_wrong_login"
+    }
+]

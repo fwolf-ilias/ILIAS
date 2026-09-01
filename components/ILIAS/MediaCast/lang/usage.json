@@ -1,0 +1,1298 @@
+[
+    {
+        "id": 25944,
+        "file": "components\/ILIAS\/MediaCast\/Presentation\/class.McstImageGalleryGUI.php",
+        "line": 89,
+        "code": "$lng->txt(\"mcst_download_all\")",
+        "has_variable": false,
+        "variable": "mcst_download_all"
+    },
+    {
+        "id": 25946,
+        "file": "components\/ILIAS\/MediaCast\/Presentation\/class.McstImageGalleryGUI.php",
+        "line": 94,
+        "code": "$lng->txt(\"mcst_webfeed\")",
+        "has_variable": false,
+        "variable": "mcst_webfeed"
+    },
+    {
+        "id": 25948,
+        "file": "components\/ILIAS\/MediaCast\/Presentation\/class.McstImageGalleryGUI.php",
+        "line": 196,
+        "code": "$lng->txt(\"download\")",
+        "has_variable": false,
+        "variable": "download"
+    },
+    {
+        "id": 25950,
+        "file": "components\/ILIAS\/MediaCast\/Presentation\/class.McstImageGalleryGUI.php",
+        "line": 242,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 25952,
+        "file": "components\/ILIAS\/MediaCast\/Presentation\/class.McstImageGalleryGUI.php",
+        "line": 258,
+        "code": "$this->lng->txt('mcst_download_started_bg')",
+        "has_variable": false,
+        "variable": "mcst_download_started_bg"
+    },
+    {
+        "id": 25954,
+        "file": "components\/ILIAS\/MediaCast\/Presentation\/class.McstPodcastGUI.php",
+        "line": 106,
+        "code": "$this->lng->txt(\"mcst_duration\")",
+        "has_variable": false,
+        "variable": "mcst_duration"
+    },
+    {
+        "id": 25956,
+        "file": "components\/ILIAS\/MediaCast\/Presentation\/class.McstPodcastGUI.php",
+        "line": 114,
+        "code": "$this->lng->txt(\"comments\")",
+        "has_variable": false,
+        "variable": "comments"
+    },
+    {
+        "id": 25958,
+        "file": "components\/ILIAS\/MediaCast\/Presentation\/class.McstPodcastGUI.php",
+        "line": 133,
+        "code": "$lng->txt(\"download\")",
+        "has_variable": false,
+        "variable": "download"
+    },
+    {
+        "id": 25960,
+        "file": "components\/ILIAS\/MediaCast\/Presentation\/class.McstPodcastGUI.php",
+        "line": 146,
+        "code": "$this->lng->txt(\"mcst_audio_files\")",
+        "has_variable": false,
+        "variable": "mcst_audio_files"
+    },
+    {
+        "id": 25962,
+        "file": "components\/ILIAS\/MediaCast\/Presentation\/class.McstPodcastGUI.php",
+        "line": 155,
+        "code": "$lng->txt(\"mcst_webfeed\")",
+        "has_variable": false,
+        "variable": "mcst_webfeed"
+    },
+    {
+        "id": 25964,
+        "file": "components\/ILIAS\/MediaCast\/Presentation\/class.VideoViewGUI.php",
+        "line": 130,
+        "code": "$lng->txt(\"mcst_webfeed\")",
+        "has_variable": false,
+        "variable": "mcst_webfeed"
+    },
+    {
+        "id": 25966,
+        "file": "components\/ILIAS\/MediaCast\/Presentation\/class.VideoViewGUI.php",
+        "line": 242,
+        "code": "$lng->txt(\"mcst_prev_items\")",
+        "has_variable": false,
+        "variable": "mcst_prev_items"
+    },
+    {
+        "id": 25968,
+        "file": "components\/ILIAS\/MediaCast\/Presentation\/class.VideoViewGUI.php",
+        "line": 253,
+        "code": "$lng->txt(\"mcst_next_items\")",
+        "has_variable": false,
+        "variable": "mcst_next_items"
+    },
+    {
+        "id": 25970,
+        "file": "components\/ILIAS\/MediaCast\/Settings\/class.SettingsGUI.php",
+        "line": 70,
+        "code": "$lng->txt(\"mcst_settings\")",
+        "has_variable": false,
+        "variable": "mcst_settings"
+    },
+    {
+        "id": 25972,
+        "file": "components\/ILIAS\/MediaCast\/Settings\/class.SettingsGUI.php",
+        "line": 72,
+        "code": "$lng->txt(\"rep_activation_availability\")",
+        "has_variable": false,
+        "variable": "rep_activation_availability"
+    },
+    {
+        "id": 25974,
+        "file": "components\/ILIAS\/MediaCast\/Settings\/class.SettingsGUI.php",
+        "line": 74,
+        "code": "$lng->txt(\"obj_presentation\")",
+        "has_variable": false,
+        "variable": "obj_presentation"
+    },
+    {
+        "id": 25976,
+        "file": "components\/ILIAS\/MediaCast\/Settings\/class.SettingsGUI.php",
+        "line": 78,
+        "code": "$lng->txt(\"mcst_ordering\")",
+        "has_variable": false,
+        "variable": "mcst_ordering"
+    },
+    {
+        "id": 25978,
+        "file": "components\/ILIAS\/MediaCast\/Settings\/class.SettingsGUI.php",
+        "line": 82,
+        "code": "$lng->txt(\"mcst_ordering_title\")",
+        "has_variable": false,
+        "variable": "mcst_ordering_title"
+    },
+    {
+        "id": 25980,
+        "file": "components\/ILIAS\/MediaCast\/Settings\/class.SettingsGUI.php",
+        "line": 83,
+        "code": "$lng->txt(\"mcst_ordering_creation_date_asc\")",
+        "has_variable": false,
+        "variable": "mcst_ordering_creation_date_asc"
+    },
+    {
+        "id": 25982,
+        "file": "components\/ILIAS\/MediaCast\/Settings\/class.SettingsGUI.php",
+        "line": 84,
+        "code": "$lng->txt(\"mcst_ordering_creation_date_desc\")",
+        "has_variable": false,
+        "variable": "mcst_ordering_creation_date_desc"
+    },
+    {
+        "id": 25984,
+        "file": "components\/ILIAS\/MediaCast\/Settings\/class.SettingsGUI.php",
+        "line": 85,
+        "code": "$lng->txt(\"mcst_ordering_manual\")",
+        "has_variable": false,
+        "variable": "mcst_ordering_manual"
+    },
+    {
+        "id": 25986,
+        "file": "components\/ILIAS\/MediaCast\/Settings\/class.SettingsGUI.php",
+        "line": 89,
+        "code": "$lng->txt(\"mcst_viewmode\")",
+        "has_variable": false,
+        "variable": "mcst_viewmode"
+    },
+    {
+        "id": 25988,
+        "file": "components\/ILIAS\/MediaCast\/Settings\/class.SettingsGUI.php",
+        "line": 93,
+        "code": "$lng->txt(\"mcst_img_gallery\")",
+        "has_variable": false,
+        "variable": "mcst_img_gallery"
+    },
+    {
+        "id": 25990,
+        "file": "components\/ILIAS\/MediaCast\/Settings\/class.SettingsGUI.php",
+        "line": 94,
+        "code": "$lng->txt(\"mcst_podcast\")",
+        "has_variable": false,
+        "variable": "mcst_podcast"
+    },
+    {
+        "id": 25992,
+        "file": "components\/ILIAS\/MediaCast\/Settings\/class.SettingsGUI.php",
+        "line": 95,
+        "code": "$lng->txt(\"mcst_video_cast\")",
+        "has_variable": false,
+        "variable": "mcst_video_cast"
+    },
+    {
+        "id": 25994,
+        "file": "components\/ILIAS\/MediaCast\/Settings\/class.SettingsGUI.php",
+        "line": 98,
+        "code": "$lng->txt(\"mcst_nr_videos\")",
+        "has_variable": false,
+        "variable": "mcst_nr_videos"
+    },
+    {
+        "id": 25996,
+        "file": "components\/ILIAS\/MediaCast\/Settings\/class.SettingsGUI.php",
+        "line": 106,
+        "code": "$lng->txt(\"mcst_downloadable\")",
+        "has_variable": false,
+        "variable": "mcst_downloadable"
+    },
+    {
+        "id": 25998,
+        "file": "components\/ILIAS\/MediaCast\/Settings\/class.SettingsGUI.php",
+        "line": 107,
+        "code": "$lng->txt(\"mcst_downloadable_info\")",
+        "has_variable": false,
+        "variable": "mcst_downloadable_info"
+    },
+    {
+        "id": 26000,
+        "file": "components\/ILIAS\/MediaCast\/Settings\/class.SettingsGUI.php",
+        "line": 115,
+        "code": "$lng->txt(\"mcst_webfeed\")",
+        "has_variable": false,
+        "variable": "mcst_webfeed"
+    },
+    {
+        "id": 26002,
+        "file": "components\/ILIAS\/MediaCast\/Settings\/class.SettingsGUI.php",
+        "line": 118,
+        "code": "$lng->txt(\"news_default_visibility\")",
+        "has_variable": false,
+        "variable": "news_default_visibility"
+    },
+    {
+        "id": 26004,
+        "file": "components\/ILIAS\/MediaCast\/Settings\/class.SettingsGUI.php",
+        "line": 124,
+        "code": "$lng->txt(\"news_visibility_users\")",
+        "has_variable": false,
+        "variable": "news_visibility_users"
+    },
+    {
+        "id": 26006,
+        "file": "components\/ILIAS\/MediaCast\/Settings\/class.SettingsGUI.php",
+        "line": 125,
+        "code": "$lng->txt(\"news_news_item_def_visibility_users_info\")",
+        "has_variable": false,
+        "variable": "news_news_item_def_visibility_users_info"
+    },
+    {
+        "id": 26008,
+        "file": "components\/ILIAS\/MediaCast\/Settings\/class.SettingsGUI.php",
+        "line": 129,
+        "code": "$lng->txt(\"news_visibility_public\")",
+        "has_variable": false,
+        "variable": "news_visibility_public"
+    },
+    {
+        "id": 26010,
+        "file": "components\/ILIAS\/MediaCast\/Settings\/class.SettingsGUI.php",
+        "line": 130,
+        "code": "$lng->txt(\"news_news_item_def_visibility_public_info\")",
+        "has_variable": false,
+        "variable": "news_news_item_def_visibility_public_info"
+    },
+    {
+        "id": 26012,
+        "file": "components\/ILIAS\/MediaCast\/Settings\/class.SettingsGUI.php",
+        "line": 139,
+        "code": "$lng->txt(\"news_public_feed\")",
+        "has_variable": false,
+        "variable": "news_public_feed"
+    },
+    {
+        "id": 26014,
+        "file": "components\/ILIAS\/MediaCast\/Settings\/class.SettingsGUI.php",
+        "line": 140,
+        "code": "$lng->txt(\"news_public_feed_info\")",
+        "has_variable": false,
+        "variable": "news_public_feed_info"
+    },
+    {
+        "id": 26016,
+        "file": "components\/ILIAS\/MediaCast\/Settings\/class.SettingsGUI.php",
+        "line": 145,
+        "code": "$lng->txt(\"news_keep_minimal_x_items\")",
+        "has_variable": false,
+        "variable": "news_keep_minimal_x_items"
+    },
+    {
+        "id": 26018,
+        "file": "components\/ILIAS\/MediaCast\/Settings\/class.SettingsGUI.php",
+        "line": 146,
+        "code": "$lng->txt(\"news_keep_minimal_x_items_info\")",
+        "has_variable": false,
+        "variable": "news_keep_minimal_x_items_info"
+    },
+    {
+        "id": 26020,
+        "file": "components\/ILIAS\/MediaCast\/Settings\/class.SettingsGUI.php",
+        "line": 146,
+        "code": "$lng->txt(\\ilNewsItem::_lookupRSSPeriod() == 1 ? \"day\" : \"days\")",
+        "has_variable": true,
+        "variable": "N"
+    },
+    {
+        "id": 26022,
+        "file": "components\/ILIAS\/MediaCast\/Settings\/class.SettingsGUI.php",
+        "line": 160,
+        "code": "$lng->txt(\"mcst_incl_files_in_rss\")",
+        "has_variable": false,
+        "variable": "mcst_incl_files_in_rss"
+    },
+    {
+        "id": 26024,
+        "file": "components\/ILIAS\/MediaCast\/Settings\/class.SettingsGUI.php",
+        "line": 161,
+        "code": "$lng->txt(\"mcst_incl_files_in_rss_info\")",
+        "has_variable": false,
+        "variable": "mcst_incl_files_in_rss_info"
+    },
+    {
+        "id": 26026,
+        "file": "components\/ILIAS\/MediaCast\/Settings\/class.SettingsGUI.php",
+        "line": 168,
+        "code": "$lng->txt(\"learning_progress\")",
+        "has_variable": false,
+        "variable": "learning_progress"
+    },
+    {
+        "id": 26028,
+        "file": "components\/ILIAS\/MediaCast\/Settings\/class.SettingsGUI.php",
+        "line": 171,
+        "code": "$lng->txt(\"mcst_new_items_det_lp\")",
+        "has_variable": false,
+        "variable": "mcst_new_items_det_lp"
+    },
+    {
+        "id": 26030,
+        "file": "components\/ILIAS\/MediaCast\/Settings\/class.SettingsGUI.php",
+        "line": 172,
+        "code": "$lng->txt(\"mcst_new_items_det_lp_info\")",
+        "has_variable": false,
+        "variable": "mcst_new_items_det_lp_info"
+    },
+    {
+        "id": 26032,
+        "file": "components\/ILIAS\/MediaCast\/Settings\/class.SettingsGUI.php",
+        "line": 180,
+        "code": "$lng->txt('obj_features')",
+        "has_variable": false,
+        "variable": "obj_features"
+    },
+    {
+        "id": 26034,
+        "file": "components\/ILIAS\/MediaCast\/Settings\/class.SettingsGUI.php",
+        "line": 183,
+        "code": "$lng->txt(\"notes_comments\")",
+        "has_variable": false,
+        "variable": "notes_comments"
+    },
+    {
+        "id": 26036,
+        "file": "components\/ILIAS\/MediaCast\/Settings\/class.SettingsGUI.php",
+        "line": 246,
+        "code": "$lng->txt(\"msg_obj_modified\")",
+        "has_variable": false,
+        "variable": "msg_obj_modified"
+    },
+    {
+        "id": 26038,
+        "file": "components\/ILIAS\/MediaCast\/Video\/class.VideoPreviewGUI.php",
+        "line": 60,
+        "code": "$lng->txt(\"mcst_watched\")",
+        "has_variable": false,
+        "variable": "mcst_watched"
+    },
+    {
+        "id": 26040,
+        "file": "components\/ILIAS\/MediaCast\/Video\/class.VideoWidgetGUI.php",
+        "line": 100,
+        "code": "$this->lng->txt(\"download\")",
+        "has_variable": false,
+        "variable": "download"
+    },
+    {
+        "id": 26042,
+        "file": "components\/ILIAS\/MediaCast\/classes\/class.ilMediaCastManageTableGUI.php",
+        "line": 101,
+        "code": "$this->lng->txt(\"title\")",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 26044,
+        "file": "components\/ILIAS\/MediaCast\/classes\/class.ilMediaCastManageTableGUI.php",
+        "line": 102,
+        "code": "$this->lng->txt(\"type\")",
+        "has_variable": false,
+        "variable": "type"
+    },
+    {
+        "id": 26046,
+        "file": "components\/ILIAS\/MediaCast\/classes\/class.ilMediaCastManageTableGUI.php",
+        "line": 103,
+        "code": "$this->lng->txt(\"size\")",
+        "has_variable": false,
+        "variable": "size"
+    },
+    {
+        "id": 26048,
+        "file": "components\/ILIAS\/MediaCast\/classes\/class.ilMediaCastManageTableGUI.php",
+        "line": 106,
+        "code": "$this->lng->txt(\"mcst_play_time\")",
+        "has_variable": false,
+        "variable": "mcst_play_time"
+    },
+    {
+        "id": 26050,
+        "file": "components\/ILIAS\/MediaCast\/classes\/class.ilMediaCastManageTableGUI.php",
+        "line": 108,
+        "code": "$this->lng->txt(\"created\")",
+        "has_variable": false,
+        "variable": "created"
+    },
+    {
+        "id": 26052,
+        "file": "components\/ILIAS\/MediaCast\/classes\/class.ilMediaCastManageTableGUI.php",
+        "line": 109,
+        "code": "$this->lng->txt(\"last_update\")",
+        "has_variable": false,
+        "variable": "last_update"
+    },
+    {
+        "id": 26054,
+        "file": "components\/ILIAS\/MediaCast\/classes\/class.ilMediaCastManageTableGUI.php",
+        "line": 111,
+        "code": "$this->lng->txt(\"preview\")",
+        "has_variable": false,
+        "variable": "preview"
+    },
+    {
+        "id": 26056,
+        "file": "components\/ILIAS\/MediaCast\/classes\/class.ilMediaCastManageTableGUI.php",
+        "line": 210,
+        "code": "$this->lng->txt(\"edit\")",
+        "has_variable": false,
+        "variable": "edit"
+    },
+    {
+        "id": 26058,
+        "file": "components\/ILIAS\/MediaCast\/classes\/class.ilMediaCastManageTableGUI.php",
+        "line": 216,
+        "code": "$this->lng->txt(\"show\")",
+        "has_variable": false,
+        "variable": "show"
+    },
+    {
+        "id": 26060,
+        "file": "components\/ILIAS\/MediaCast\/classes\/class.ilMediaCastManageTableGUI.php",
+        "line": 223,
+        "code": "$this->lng->txt(\"mcst_det_playtime\")",
+        "has_variable": false,
+        "variable": "mcst_det_playtime"
+    },
+    {
+        "id": 26062,
+        "file": "components\/ILIAS\/MediaCast\/classes\/class.ilMediaCastManageTableGUI.php",
+        "line": 231,
+        "code": "$this->lng->txt(\"download\")",
+        "has_variable": false,
+        "variable": "download"
+    },
+    {
+        "id": 26064,
+        "file": "components\/ILIAS\/MediaCast\/classes\/class.ilMediaCastManageTableGUI.php",
+        "line": 238,
+        "code": "$this->lng->txt(\"delete\")",
+        "has_variable": false,
+        "variable": "delete"
+    },
+    {
+        "id": 26066,
+        "file": "components\/ILIAS\/MediaCast\/classes\/class.ilMediaCastManageTableGUI.php",
+        "line": 244,
+        "code": "$this->lng->txt(\"mcst_items\")",
+        "has_variable": false,
+        "variable": "mcst_items"
+    },
+    {
+        "id": 26068,
+        "file": "components\/ILIAS\/MediaCast\/classes\/class.ilMediaCastManageTableGUI.php",
+        "line": 268,
+        "code": "$lng->txt(\"news_news_item_visibility\")",
+        "has_variable": false,
+        "variable": "news_news_item_visibility"
+    },
+    {
+        "id": 26070,
+        "file": "components\/ILIAS\/MediaCast\/classes\/class.ilMediaCastManageTableGUI.php",
+        "line": 270,
+        "code": "$lng->txt(\"news_visibility_public\")",
+        "has_variable": false,
+        "variable": "news_visibility_public"
+    },
+    {
+        "id": 26072,
+        "file": "components\/ILIAS\/MediaCast\/classes\/class.ilMediaCastManageTableGUI.php",
+        "line": 272,
+        "code": "$lng->txt(\"news_visibility_users\")",
+        "has_variable": false,
+        "variable": "news_visibility_users"
+    },
+    {
+        "id": 26074,
+        "file": "components\/ILIAS\/MediaCast\/classes\/class.ilMediaCastManageTableGUI.php",
+        "line": 291,
+        "code": "$lng->txt(\"mcst_play_time\")",
+        "has_variable": false,
+        "variable": "mcst_play_time"
+    },
+    {
+        "id": 26076,
+        "file": "components\/ILIAS\/MediaCast\/classes\/class.ilMediaCastManageTableGUI.php",
+        "line": 307,
+        "code": "$lng->txt(\"mcst_download_\" . strtolower($a_mob->getPurpose()))",
+        "has_variable": true,
+        "variable": "\"mcst_download_\" . strtolower($a_mob->getPurpose())"
+    },
+    {
+        "id": 26078,
+        "file": "components\/ILIAS\/MediaCast\/classes\/class.ilMediaCastManageTableGUI.php",
+        "line": 343,
+        "code": "$lng->txt(\"mcst_det_playtime\")",
+        "has_variable": false,
+        "variable": "mcst_det_playtime"
+    },
+    {
+        "id": 26080,
+        "file": "components\/ILIAS\/MediaCast\/classes\/class.ilMediaCastManageTableGUI.php",
+        "line": 368,
+        "code": "$lng->txt(\"mcst_download_cnt\")",
+        "has_variable": false,
+        "variable": "mcst_download_cnt"
+    },
+    {
+        "id": 26082,
+        "file": "components\/ILIAS\/MediaCast\/classes\/class.ilMediaCastManageTableGUI.php",
+        "line": 374,
+        "code": "$lng->txt(\"mcst_play_cnt\")",
+        "has_variable": false,
+        "variable": "mcst_play_cnt"
+    },
+    {
+        "id": 26084,
+        "file": "components\/ILIAS\/MediaCast\/classes\/class.ilMediaCastTableGUI.php",
+        "line": 65,
+        "code": "$lng->txt(\"title\")",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 26086,
+        "file": "components\/ILIAS\/MediaCast\/classes\/class.ilMediaCastTableGUI.php",
+        "line": 66,
+        "code": "$lng->txt(\"properties\")",
+        "has_variable": false,
+        "variable": "properties"
+    },
+    {
+        "id": 26088,
+        "file": "components\/ILIAS\/MediaCast\/classes\/class.ilMediaCastTableGUI.php",
+        "line": 68,
+        "code": "$lng->txt(\"mcst_play\")",
+        "has_variable": false,
+        "variable": "mcst_play"
+    },
+    {
+        "id": 26090,
+        "file": "components\/ILIAS\/MediaCast\/classes\/class.ilMediaCastTableGUI.php",
+        "line": 100,
+        "code": "$lng->txt(\"news_news_item_visibility\")",
+        "has_variable": false,
+        "variable": "news_news_item_visibility"
+    },
+    {
+        "id": 26092,
+        "file": "components\/ILIAS\/MediaCast\/classes\/class.ilMediaCastTableGUI.php",
+        "line": 102,
+        "code": "$lng->txt(\"news_visibility_public\")",
+        "has_variable": false,
+        "variable": "news_visibility_public"
+    },
+    {
+        "id": 26094,
+        "file": "components\/ILIAS\/MediaCast\/classes\/class.ilMediaCastTableGUI.php",
+        "line": 104,
+        "code": "$lng->txt(\"news_visibility_users\")",
+        "has_variable": false,
+        "variable": "news_visibility_users"
+    },
+    {
+        "id": 26096,
+        "file": "components\/ILIAS\/MediaCast\/classes\/class.ilMediaCastTableGUI.php",
+        "line": 116,
+        "code": "$lng->txt(\"last_update\")",
+        "has_variable": false,
+        "variable": "last_update"
+    },
+    {
+        "id": 26098,
+        "file": "components\/ILIAS\/MediaCast\/classes\/class.ilMediaCastTableGUI.php",
+        "line": 138,
+        "code": "$lng->txt(\"created\")",
+        "has_variable": false,
+        "variable": "created"
+    },
+    {
+        "id": 26100,
+        "file": "components\/ILIAS\/MediaCast\/classes\/class.ilMediaCastTableGUI.php",
+        "line": 147,
+        "code": "$lng->txt(\"mcst_play_time\")",
+        "has_variable": false,
+        "variable": "mcst_play_time"
+    },
+    {
+        "id": 26102,
+        "file": "components\/ILIAS\/MediaCast\/classes\/class.ilMediaCastTableGUI.php",
+        "line": 177,
+        "code": "$lng->txt(\"mcst_download_\" . strtolower($a_mob->getPurpose()))",
+        "has_variable": true,
+        "variable": "\"mcst_download_\" . strtolower($a_mob->getPurpose())"
+    },
+    {
+        "id": 26104,
+        "file": "components\/ILIAS\/MediaCast\/classes\/class.ilMediaCastTableGUI.php",
+        "line": 213,
+        "code": "$lng->txt(\"edit\")",
+        "has_variable": false,
+        "variable": "edit"
+    },
+    {
+        "id": 26106,
+        "file": "components\/ILIAS\/MediaCast\/classes\/class.ilMediaCastTableGUI.php",
+        "line": 220,
+        "code": "$lng->txt(\"mcst_det_playtime\")",
+        "has_variable": false,
+        "variable": "mcst_det_playtime"
+    },
+    {
+        "id": 26108,
+        "file": "components\/ILIAS\/MediaCast\/classes\/class.ilMediaCastTableGUI.php",
+        "line": 245,
+        "code": "$lng->txt(\"mcst_download_cnt\")",
+        "has_variable": false,
+        "variable": "mcst_download_cnt"
+    },
+    {
+        "id": 26110,
+        "file": "components\/ILIAS\/MediaCast\/classes\/class.ilMediaCastTableGUI.php",
+        "line": 251,
+        "code": "$lng->txt(\"mcst_play_cnt\")",
+        "has_variable": false,
+        "variable": "mcst_play_cnt"
+    },
+    {
+        "id": 26112,
+        "file": "components\/ILIAS\/MediaCast\/classes\/class.ilObjMediaCastAccess.php",
+        "line": 67,
+        "code": "$lng->txt(\"offline\")",
+        "has_variable": false,
+        "variable": "offline"
+    },
+    {
+        "id": 26114,
+        "file": "components\/ILIAS\/MediaCast\/classes\/class.ilObjMediaCastAccess.php",
+        "line": 75,
+        "code": "$lng->txt(\"offline\")",
+        "has_variable": false,
+        "variable": "offline"
+    },
+    {
+        "id": 26116,
+        "file": "components\/ILIAS\/MediaCast\/classes\/class.ilObjMediaCastAccess.php",
+        "line": 77,
+        "code": "$lng->txt(\"online\")",
+        "has_variable": false,
+        "variable": "online"
+    },
+    {
+        "id": 26118,
+        "file": "components\/ILIAS\/MediaCast\/classes\/class.ilObjMediaCastAccess.php",
+        "line": 86,
+        "code": "$lng->txt(\"offline\")",
+        "has_variable": false,
+        "variable": "offline"
+    },
+    {
+        "id": 26120,
+        "file": "components\/ILIAS\/MediaCast\/classes\/class.ilObjMediaCastGUI.php",
+        "line": 240,
+        "code": "$this->lng->txt(\"msg_no_perm_write\")",
+        "has_variable": false,
+        "variable": "msg_no_perm_write"
+    },
+    {
+        "id": 26122,
+        "file": "components\/ILIAS\/MediaCast\/classes\/class.ilObjMediaCastGUI.php",
+        "line": 250,
+        "code": "$this->lng->txt(\"object_added\")",
+        "has_variable": false,
+        "variable": "object_added"
+    },
+    {
+        "id": 26124,
+        "file": "components\/ILIAS\/MediaCast\/classes\/class.ilObjMediaCastGUI.php",
+        "line": 264,
+        "code": "$this->lng->txt(\"mcst_view_abandoned\")",
+        "has_variable": false,
+        "variable": "mcst_view_abandoned"
+    },
+    {
+        "id": 26126,
+        "file": "components\/ILIAS\/MediaCast\/classes\/class.ilObjMediaCastGUI.php",
+        "line": 290,
+        "code": "$lng->txt(\"add\")",
+        "has_variable": false,
+        "variable": "add"
+    },
+    {
+        "id": 26128,
+        "file": "components\/ILIAS\/MediaCast\/classes\/class.ilObjMediaCastGUI.php",
+        "line": 292,
+        "code": "$lng->txt(\"add\")",
+        "has_variable": false,
+        "variable": "add"
+    },
+    {
+        "id": 26130,
+        "file": "components\/ILIAS\/MediaCast\/classes\/class.ilObjMediaCastGUI.php",
+        "line": 295,
+        "code": "$lng->txt(\"delete\")",
+        "has_variable": false,
+        "variable": "delete"
+    },
+    {
+        "id": 26132,
+        "file": "components\/ILIAS\/MediaCast\/classes\/class.ilObjMediaCastGUI.php",
+        "line": 428,
+        "code": "$lng->txt(\"title\")",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 26134,
+        "file": "components\/ILIAS\/MediaCast\/classes\/class.ilObjMediaCastGUI.php",
+        "line": 433,
+        "code": "$lng->txt(\"description\")",
+        "has_variable": false,
+        "variable": "description"
+    },
+    {
+        "id": 26136,
+        "file": "components\/ILIAS\/MediaCast\/classes\/class.ilObjMediaCastGUI.php",
+        "line": 439,
+        "code": "$lng->txt(\"access_scope\")",
+        "has_variable": false,
+        "variable": "access_scope"
+    },
+    {
+        "id": 26138,
+        "file": "components\/ILIAS\/MediaCast\/classes\/class.ilObjMediaCastGUI.php",
+        "line": 440,
+        "code": "$lng->txt(\"access_users\")",
+        "has_variable": false,
+        "variable": "access_users"
+    },
+    {
+        "id": 26140,
+        "file": "components\/ILIAS\/MediaCast\/classes\/class.ilObjMediaCastGUI.php",
+        "line": 442,
+        "code": "$lng->txt(\"access_public\")",
+        "has_variable": false,
+        "variable": "access_public"
+    },
+    {
+        "id": 26142,
+        "file": "components\/ILIAS\/MediaCast\/classes\/class.ilObjMediaCastGUI.php",
+        "line": 444,
+        "code": "$lng->txt(\"mcst_visibility_info\")",
+        "has_variable": false,
+        "variable": "mcst_visibility_info"
+    },
+    {
+        "id": 26144,
+        "file": "components\/ILIAS\/MediaCast\/classes\/class.ilObjMediaCastGUI.php",
+        "line": 452,
+        "code": "$lng->txt(\"mcst_duration\")",
+        "has_variable": false,
+        "variable": "mcst_duration"
+    },
+    {
+        "id": 26146,
+        "file": "components\/ILIAS\/MediaCast\/classes\/class.ilObjMediaCastGUI.php",
+        "line": 453,
+        "code": "$lng->txt(\"mcst_duration_info\")",
+        "has_variable": false,
+        "variable": "mcst_duration_info"
+    },
+    {
+        "id": 26148,
+        "file": "components\/ILIAS\/MediaCast\/classes\/class.ilObjMediaCastGUI.php",
+        "line": 467,
+        "code": "$lng->txt(\"mcst_\" . strtolower($purpose) . \"_title\")",
+        "has_variable": true,
+        "variable": "\"mcst_\" . strtolower($purpose) . \"_title\""
+    },
+    {
+        "id": 26150,
+        "file": "components\/ILIAS\/MediaCast\/classes\/class.ilObjMediaCastGUI.php",
+        "line": 471,
+        "code": "$lng->txt(\"value\")",
+        "has_variable": false,
+        "variable": "value"
+    },
+    {
+        "id": 26152,
+        "file": "components\/ILIAS\/MediaCast\/classes\/class.ilObjMediaCastGUI.php",
+        "line": 473,
+        "code": "$lng->txt(\"mcst_current_value_info\")",
+        "has_variable": false,
+        "variable": "mcst_current_value_info"
+    },
+    {
+        "id": 26154,
+        "file": "components\/ILIAS\/MediaCast\/classes\/class.ilObjMediaCastGUI.php",
+        "line": 477,
+        "code": "$lng->txt(\"file\")",
+        "has_variable": false,
+        "variable": "file"
+    },
+    {
+        "id": 26156,
+        "file": "components\/ILIAS\/MediaCast\/classes\/class.ilObjMediaCastGUI.php",
+        "line": 482,
+        "code": "$lng->txt(\"url\")",
+        "has_variable": false,
+        "variable": "url"
+    },
+    {
+        "id": 26158,
+        "file": "components\/ILIAS\/MediaCast\/classes\/class.ilObjMediaCastGUI.php",
+        "line": 484,
+        "code": "$lng->txt(\"mcst_reference_info\")",
+        "has_variable": false,
+        "variable": "mcst_reference_info"
+    },
+    {
+        "id": 26160,
+        "file": "components\/ILIAS\/MediaCast\/classes\/class.ilObjMediaCastGUI.php",
+        "line": 489,
+        "code": "$lng->txt(\"mcst_clear_purpose_title\")",
+        "has_variable": false,
+        "variable": "mcst_clear_purpose_title"
+    },
+    {
+        "id": 26162,
+        "file": "components\/ILIAS\/MediaCast\/classes\/class.ilObjMediaCastGUI.php",
+        "line": 493,
+        "code": "$lng->txt(\"mcst_mimetype\")",
+        "has_variable": false,
+        "variable": "mcst_mimetype"
+    },
+    {
+        "id": 26164,
+        "file": "components\/ILIAS\/MediaCast\/classes\/class.ilObjMediaCastGUI.php",
+        "line": 508,
+        "code": "$lng->txt(\"mcst_add_new_item\")",
+        "has_variable": false,
+        "variable": "mcst_add_new_item"
+    },
+    {
+        "id": 26166,
+        "file": "components\/ILIAS\/MediaCast\/classes\/class.ilObjMediaCastGUI.php",
+        "line": 509,
+        "code": "$lng->txt(\"save\")",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 26168,
+        "file": "components\/ILIAS\/MediaCast\/classes\/class.ilObjMediaCastGUI.php",
+        "line": 511,
+        "code": "$lng->txt(\"mcst_edit_item\")",
+        "has_variable": false,
+        "variable": "mcst_edit_item"
+    },
+    {
+        "id": 26170,
+        "file": "components\/ILIAS\/MediaCast\/classes\/class.ilObjMediaCastGUI.php",
+        "line": 512,
+        "code": "$lng->txt(\"save\")",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 26172,
+        "file": "components\/ILIAS\/MediaCast\/classes\/class.ilObjMediaCastGUI.php",
+        "line": 514,
+        "code": "$lng->txt(\"cancel\")",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 26174,
+        "file": "components\/ILIAS\/MediaCast\/classes\/class.ilObjMediaCastGUI.php",
+        "line": 553,
+        "code": "$lng->txt(\"none\")",
+        "has_variable": false,
+        "variable": "none"
+    },
+    {
+        "id": 26176,
+        "file": "components\/ILIAS\/MediaCast\/classes\/class.ilObjMediaCastGUI.php",
+        "line": 554,
+        "code": "$lng->txt(\"none\")",
+        "has_variable": false,
+        "variable": "none"
+    },
+    {
+        "id": 26178,
+        "file": "components\/ILIAS\/MediaCast\/classes\/class.ilObjMediaCastGUI.php",
+        "line": 576,
+        "code": "$lng->txt(\"mcst_input_either_file_or_url\")",
+        "has_variable": false,
+        "variable": "mcst_input_either_file_or_url"
+    },
+    {
+        "id": 26180,
+        "file": "components\/ILIAS\/MediaCast\/classes\/class.ilObjMediaCastGUI.php",
+        "line": 856,
+        "code": "$this->lng->txt(\"mcst_item_not_found\")",
+        "has_variable": false,
+        "variable": "mcst_item_not_found"
+    },
+    {
+        "id": 26182,
+        "file": "components\/ILIAS\/MediaCast\/classes\/class.ilObjMediaCastGUI.php",
+        "line": 859,
+        "code": "$this->lng->txt(\"mcst_preview\")",
+        "has_variable": false,
+        "variable": "mcst_preview"
+    },
+    {
+        "id": 26184,
+        "file": "components\/ILIAS\/MediaCast\/classes\/class.ilObjMediaCastGUI.php",
+        "line": 860,
+        "code": "$this->lng->txt(\"close\")",
+        "has_variable": false,
+        "variable": "close"
+    },
+    {
+        "id": 26186,
+        "file": "components\/ILIAS\/MediaCast\/classes\/class.ilObjMediaCastGUI.php",
+        "line": 881,
+        "code": "$this->lng->txt(\"mcst_confirm_deletion\")",
+        "has_variable": false,
+        "variable": "mcst_confirm_deletion"
+    },
+    {
+        "id": 26188,
+        "file": "components\/ILIAS\/MediaCast\/classes\/class.ilObjMediaCastGUI.php",
+        "line": 882,
+        "code": "$this->lng->txt(\"info_delete_sure\")",
+        "has_variable": false,
+        "variable": "info_delete_sure"
+    },
+    {
+        "id": 26190,
+        "file": "components\/ILIAS\/MediaCast\/classes\/class.ilObjMediaCastGUI.php",
+        "line": 908,
+        "code": "$lng->txt(\"info_delete_sure\")",
+        "has_variable": false,
+        "variable": "info_delete_sure"
+    },
+    {
+        "id": 26192,
+        "file": "components\/ILIAS\/MediaCast\/classes\/class.ilObjMediaCastGUI.php",
+        "line": 909,
+        "code": "$lng->txt(\"cancel\")",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 26194,
+        "file": "components\/ILIAS\/MediaCast\/classes\/class.ilObjMediaCastGUI.php",
+        "line": 910,
+        "code": "$lng->txt(\"confirm\")",
+        "has_variable": false,
+        "variable": "confirm"
+    },
+    {
+        "id": 26196,
+        "file": "components\/ILIAS\/MediaCast\/classes\/class.ilObjMediaCastGUI.php",
+        "line": 983,
+        "code": "$lng->txt(\"mcst_set_playtime\")",
+        "has_variable": false,
+        "variable": "mcst_set_playtime"
+    },
+    {
+        "id": 26198,
+        "file": "components\/ILIAS\/MediaCast\/classes\/class.ilObjMediaCastGUI.php",
+        "line": 987,
+        "code": "$lng->txt(\"mcst_unable_to_determin_playtime\")",
+        "has_variable": false,
+        "variable": "mcst_unable_to_determin_playtime"
+    },
+    {
+        "id": 26200,
+        "file": "components\/ILIAS\/MediaCast\/classes\/class.ilObjMediaCastGUI.php",
+        "line": 1023,
+        "code": "$this->lng->txt(\"meta_general\")",
+        "has_variable": false,
+        "variable": "meta_general"
+    },
+    {
+        "id": 26202,
+        "file": "components\/ILIAS\/MediaCast\/classes\/class.ilObjMediaCastGUI.php",
+        "line": 1025,
+        "code": "$this->lng->txt(\"mcst_nr_items\")",
+        "has_variable": false,
+        "variable": "mcst_nr_items"
+    },
+    {
+        "id": 26204,
+        "file": "components\/ILIAS\/MediaCast\/classes\/class.ilObjMediaCastGUI.php",
+        "line": 1036,
+        "code": "$this->lng->txt(\"mcst_last_submission\")",
+        "has_variable": false,
+        "variable": "mcst_last_submission"
+    },
+    {
+        "id": 26206,
+        "file": "components\/ILIAS\/MediaCast\/classes\/class.ilObjMediaCastGUI.php",
+        "line": 1055,
+        "code": "$lng->txt(\"content\")",
+        "has_variable": false,
+        "variable": "content"
+    },
+    {
+        "id": 26208,
+        "file": "components\/ILIAS\/MediaCast\/classes\/class.ilObjMediaCastGUI.php",
+        "line": 1065,
+        "code": "$lng->txt(\"info_short\")",
+        "has_variable": false,
+        "variable": "info_short"
+    },
+    {
+        "id": 26210,
+        "file": "components\/ILIAS\/MediaCast\/classes\/class.ilObjMediaCastGUI.php",
+        "line": 1074,
+        "code": "$lng->txt(\"settings\")",
+        "has_variable": false,
+        "variable": "settings"
+    },
+    {
+        "id": 26212,
+        "file": "components\/ILIAS\/MediaCast\/classes\/class.ilObjMediaCastGUI.php",
+        "line": 1082,
+        "code": "$lng->txt('learning_progress')",
+        "has_variable": false,
+        "variable": "learning_progress"
+    },
+    {
+        "id": 26214,
+        "file": "components\/ILIAS\/MediaCast\/classes\/class.ilObjMediaCastGUI.php",
+        "line": 1093,
+        "code": "$this->lng->txt(\"meta_data\")",
+        "has_variable": false,
+        "variable": "meta_data"
+    },
+    {
+        "id": 26216,
+        "file": "components\/ILIAS\/MediaCast\/classes\/class.ilObjMediaCastGUI.php",
+        "line": 1103,
+        "code": "$lng->txt(\"export\")",
+        "has_variable": false,
+        "variable": "export"
+    },
+    {
+        "id": 26218,
+        "file": "components\/ILIAS\/MediaCast\/classes\/class.ilObjMediaCastGUI.php",
+        "line": 1112,
+        "code": "$lng->txt(\"perm_settings\")",
+        "has_variable": false,
+        "variable": "perm_settings"
+    },
+    {
+        "id": 26220,
+        "file": "components\/ILIAS\/MediaCast\/classes\/class.ilObjMediaCastGUI.php",
+        "line": 1127,
+        "code": "$lng->txt(\"view\")",
+        "has_variable": false,
+        "variable": "view"
+    },
+    {
+        "id": 26222,
+        "file": "components\/ILIAS\/MediaCast\/classes\/class.ilObjMediaCastGUI.php",
+        "line": 1134,
+        "code": "$lng->txt(\"mcst_manage\")",
+        "has_variable": false,
+        "variable": "mcst_manage"
+    },
+    {
+        "id": 26224,
+        "file": "components\/ILIAS\/MediaCast\/classes\/class.ilObjMediaCastGUI.php",
+        "line": 1141,
+        "code": "$lng->txt(\"mcst_ordering\")",
+        "has_variable": false,
+        "variable": "mcst_ordering"
+    },
+    {
+        "id": 26226,
+        "file": "components\/ILIAS\/MediaCast\/classes\/class.ilObjMediaCastGUI.php",
+        "line": 1182,
+        "code": "$lng->txt(\"msg_no_perm_read_item\")",
+        "has_variable": false,
+        "variable": "msg_no_perm_read_item"
+    },
+    {
+        "id": 26228,
+        "file": "components\/ILIAS\/MediaCast\/classes\/class.ilObjMediaCastGUI.php",
+        "line": 1188,
+        "code": "$lng->txt(\"msg_no_perm_read\")",
+        "has_variable": false,
+        "variable": "msg_no_perm_read"
+    },
+    {
+        "id": 26230,
+        "file": "components\/ILIAS\/MediaCast\/classes\/class.ilObjMediaCastGUI.php",
+        "line": 1261,
+        "code": "$lng->txt(\"mcst_media_cast\")",
+        "has_variable": false,
+        "variable": "mcst_media_cast"
+    },
+    {
+        "id": 26232,
+        "file": "components\/ILIAS\/MediaCast\/classes\/class.ilObjMediaCastGUI.php",
+        "line": 1264,
+        "code": "$lng->txt(\"mcst_save_order\")",
+        "has_variable": false,
+        "variable": "mcst_save_order"
+    },
+    {
+        "id": 26234,
+        "file": "components\/ILIAS\/MediaCast\/classes\/class.ilObjMediaCastGUI.php",
+        "line": 1282,
+        "code": "$lng->txt(\"settings_saved\")",
+        "has_variable": false,
+        "variable": "settings_saved"
+    },
+    {
+        "id": 26236,
+        "file": "components\/ILIAS\/MediaCast\/classes\/class.ilObjMediaCastGUI.php",
+        "line": 1351,
+        "code": "$this->lng->txt(\"mcst_view_abandoned\")",
+        "has_variable": false,
+        "variable": "mcst_view_abandoned"
+    },
+    {
+        "id": 26238,
+        "file": "components\/ILIAS\/MediaCast\/classes\/class.ilObjMediaCastSettingsGUI.php",
+        "line": 64,
+        "code": "$this->lng->txt('no_permission')",
+        "has_variable": false,
+        "variable": "no_permission"
+    },
+    {
+        "id": 26240,
+        "file": "components\/ILIAS\/MediaCast\/classes\/class.ilObjMediaCastSettingsGUI.php",
+        "line": 133,
+        "code": "$this->lng->txt(\"settings_saved\")",
+        "has_variable": false,
+        "variable": "settings_saved"
+    },
+    {
+        "id": 26242,
+        "file": "components\/ILIAS\/MediaCast\/classes\/class.ilObjMediaCastSettingsGUI.php",
+        "line": 162,
+        "code": "$this->lng->txt('settings')",
+        "has_variable": false,
+        "variable": "settings"
+    },
+    {
+        "id": 26244,
+        "file": "components\/ILIAS\/MediaCast\/classes\/class.ilObjMediaCastSettingsGUI.php",
+        "line": 165,
+        "code": "$this->lng->txt('save')",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 26246,
+        "file": "components\/ILIAS\/MediaCast\/classes\/class.ilObjMediaCastSettingsGUI.php",
+        "line": 166,
+        "code": "$this->lng->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 26248,
+        "file": "components\/ILIAS\/MediaCast\/classes\/class.ilObjMediaCastSettingsGUI.php",
+        "line": 170,
+        "code": "$lng->txt(\"mcst_default_visibility\")",
+        "has_variable": false,
+        "variable": "mcst_default_visibility"
+    },
+    {
+        "id": 26250,
+        "file": "components\/ILIAS\/MediaCast\/classes\/class.ilObjMediaCastSettingsGUI.php",
+        "line": 171,
+        "code": "$lng->txt(\"mcst_visibility_users\")",
+        "has_variable": false,
+        "variable": "mcst_visibility_users"
+    },
+    {
+        "id": 26252,
+        "file": "components\/ILIAS\/MediaCast\/classes\/class.ilObjMediaCastSettingsGUI.php",
+        "line": 173,
+        "code": "$lng->txt(\"mcst_visibility_public\")",
+        "has_variable": false,
+        "variable": "mcst_visibility_public"
+    },
+    {
+        "id": 26254,
+        "file": "components\/ILIAS\/MediaCast\/classes\/class.ilObjMediaCastSettingsGUI.php",
+        "line": 175,
+        "code": "$lng->txt(\"mcst_news_item_visibility_info\")",
+        "has_variable": false,
+        "variable": "mcst_news_item_visibility_info"
+    },
+    {
+        "id": 26256,
+        "file": "components\/ILIAS\/MediaCast\/classes\/class.ilObjMediaCastSettingsGUI.php",
+        "line": 182,
+        "code": "$lng->txt(\"mcst_video_completion_threshold\")",
+        "has_variable": false,
+        "variable": "mcst_video_completion_threshold"
+    },
+    {
+        "id": 26258,
+        "file": "components\/ILIAS\/MediaCast\/classes\/class.ilObjMediaCastSettingsGUI.php",
+        "line": 188,
+        "code": "$lng->txt(\"mcst_video_completion_threshold_info\")",
+        "has_variable": false,
+        "variable": "mcst_video_completion_threshold_info"
+    },
+    {
+        "id": 26260,
+        "file": "components\/ILIAS\/MediaCast\/classes\/class.ilObjMediaCastSettingsGUI.php",
+        "line": 195,
+        "code": "$lng->txt(\"mcst_\" . strtolower($purpose) . \"_settings_title\")",
+        "has_variable": true,
+        "variable": "\"mcst_\" . strtolower($purpose) . \"_settings_title\""
+    },
+    {
+        "id": 26262,
+        "file": "components\/ILIAS\/MediaCast\/classes\/class.ilObjMediaCastSettingsGUI.php",
+        "line": 197,
+        "code": "$lng->txt(\"mcst_\" . strtolower($purpose) . \"_settings_info\")",
+        "has_variable": true,
+        "variable": "\"mcst_\" . strtolower($purpose) . \"_settings_info\""
+    },
+    {
+        "id": 26264,
+        "file": "components\/ILIAS\/MediaCast\/classes\/class.ilObjMediaCastSettingsGUI.php",
+        "line": 202,
+        "code": "$lng->txt(\"mcst_mimetypes\")",
+        "has_variable": false,
+        "variable": "mcst_mimetypes"
+    },
+    {
+        "id": 26266,
+        "file": "components\/ILIAS\/MediaCast\/classes\/class.ilObjMediaCastSettingsGUI.php",
+        "line": 203,
+        "code": "$lng->txt(\"mcst_mimetypes_info\")",
+        "has_variable": false,
+        "variable": "mcst_mimetypes_info"
+    }
+]

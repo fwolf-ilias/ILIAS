@@ -1,0 +1,2114 @@
+[
+    {
+        "id": 22782,
+        "file": "components\/ILIAS\/Language\/classes\/Setup\/class.ilSetupLanguage.php",
+        "line": 29,
+        "code": "$lng->txt(\"user_updated\")",
+        "has_variable": false,
+        "variable": "user_updated"
+    },
+    {
+        "id": 22784,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilLanguage.php",
+        "line": 31,
+        "code": "$lng->txt(\"user_updated\")",
+        "has_variable": false,
+        "variable": "user_updated"
+    },
+    {
+        "id": 22786,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilLanguage.php",
+        "line": 160,
+        "code": "$this->txt($a_topic)",
+        "has_variable": true,
+        "variable": "$a_topic"
+    },
+    {
+        "id": 22788,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilLanguage.php",
+        "line": 478,
+        "code": "$this->txt($lk)",
+        "has_variable": true,
+        "variable": "$lk"
+    },
+    {
+        "id": 22790,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilLanguageExtTableGUI.php",
+        "line": 49,
+        "code": "$lng->txt(\"language_default_entries\")",
+        "has_variable": false,
+        "variable": "language_default_entries"
+    },
+    {
+        "id": 22792,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilLanguageExtTableGUI.php",
+        "line": 52,
+        "code": "$lng->txt(\"module\")",
+        "has_variable": false,
+        "variable": "module"
+    },
+    {
+        "id": 22794,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilLanguageExtTableGUI.php",
+        "line": 53,
+        "code": "$lng->txt(\"identifier\")",
+        "has_variable": false,
+        "variable": "identifier"
+    },
+    {
+        "id": 22796,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilLanguageExtTableGUI.php",
+        "line": 54,
+        "code": "$lng->txt(\"meta_l_\" . $this->params['lang_key'])",
+        "has_variable": true,
+        "variable": "\"meta_l_\" . $this->params['lang_key']"
+    },
+    {
+        "id": 22798,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilLanguageExtTableGUI.php",
+        "line": 55,
+        "code": "$lng->txt(\"meta_l_\" . $compare)",
+        "has_variable": true,
+        "variable": "\"meta_l_\" . $compare"
+    },
+    {
+        "id": 22800,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilLanguageExtTableGUI.php",
+        "line": 56,
+        "code": "$lng->txt(\"save\")",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 22802,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilLanguageExtTableGUI.php",
+        "line": 88,
+        "code": "$lng->txt(\"comment\")",
+        "has_variable": false,
+        "variable": "comment"
+    },
+    {
+        "id": 22804,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilLanguageExtTableGUI.php",
+        "line": 123,
+        "code": "$lng->txt(\"search\")",
+        "has_variable": false,
+        "variable": "search"
+    },
+    {
+        "id": 22806,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilLanguageExtTableGUI.php",
+        "line": 131,
+        "code": "$lng->txt(\"language_all_modules\")",
+        "has_variable": false,
+        "variable": "language_all_modules"
+    },
+    {
+        "id": 22808,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilLanguageExtTableGUI.php",
+        "line": 137,
+        "code": "$lng->txt(\"module\")",
+        "has_variable": false,
+        "variable": "module"
+    },
+    {
+        "id": 22810,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilLanguageExtTableGUI.php",
+        "line": 146,
+        "code": "$lng->txt(\"identifier\")",
+        "has_variable": false,
+        "variable": "identifier"
+    },
+    {
+        "id": 22812,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilLanguageExtTableGUI.php",
+        "line": 154,
+        "code": "$lng->txt(\"language_scope_global\")",
+        "has_variable": false,
+        "variable": "language_scope_global"
+    },
+    {
+        "id": 22814,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilLanguageExtTableGUI.php",
+        "line": 155,
+        "code": "$lng->txt(\"language_scope_local\")",
+        "has_variable": false,
+        "variable": "language_scope_local"
+    },
+    {
+        "id": 22816,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilLanguageExtTableGUI.php",
+        "line": 157,
+        "code": "$lng->txt(\"language_scope_added\")",
+        "has_variable": false,
+        "variable": "language_scope_added"
+    },
+    {
+        "id": 22818,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilLanguageExtTableGUI.php",
+        "line": 159,
+        "code": "$lng->txt(\"language_scope_unchanged\")",
+        "has_variable": false,
+        "variable": "language_scope_unchanged"
+    },
+    {
+        "id": 22820,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilLanguageExtTableGUI.php",
+        "line": 160,
+        "code": "$lng->txt(\"language_scope_equal\")",
+        "has_variable": false,
+        "variable": "language_scope_equal"
+    },
+    {
+        "id": 22822,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilLanguageExtTableGUI.php",
+        "line": 161,
+        "code": "$lng->txt(\"language_scope_different\")",
+        "has_variable": false,
+        "variable": "language_scope_different"
+    },
+    {
+        "id": 22824,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilLanguageExtTableGUI.php",
+        "line": 162,
+        "code": "$lng->txt(\"language_scope_commented\")",
+        "has_variable": false,
+        "variable": "language_scope_commented"
+    },
+    {
+        "id": 22826,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilLanguageExtTableGUI.php",
+        "line": 164,
+        "code": "$lng->txt(\"language_scope_dbremarks\")",
+        "has_variable": false,
+        "variable": "language_scope_dbremarks"
+    },
+    {
+        "id": 22828,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilLanguageExtTableGUI.php",
+        "line": 166,
+        "code": "$lng->txt(\"language_scope_conflicts\")",
+        "has_variable": false,
+        "variable": "language_scope_conflicts"
+    },
+    {
+        "id": 22830,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilLanguageExtTableGUI.php",
+        "line": 168,
+        "code": "$lng->txt(\"filter\")",
+        "has_variable": false,
+        "variable": "filter"
+    },
+    {
+        "id": 22832,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilLanguageExtTableGUI.php",
+        "line": 181,
+        "code": "$lng->txt(\"meta_l_\" . $lang_key)",
+        "has_variable": true,
+        "variable": "\"meta_l_\" . $lang_key"
+    },
+    {
+        "id": 22834,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilLanguageExtTableGUI.php",
+        "line": 184,
+        "code": "$lng->txt(\"language_compare\")",
+        "has_variable": false,
+        "variable": "language_compare"
+    },
+    {
+        "id": 22836,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilLanguageFile.php",
+        "line": 145,
+        "code": "$lng->txt(\"file_not_valid\")",
+        "has_variable": false,
+        "variable": "file_not_valid"
+    },
+    {
+        "id": 22838,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilLanguageFile.php",
+        "line": 146,
+        "code": "$lng->txt(\"err_in_line\")",
+        "has_variable": false,
+        "variable": "err_in_line"
+    },
+    {
+        "id": 22840,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilLanguageFile.php",
+        "line": 147,
+        "code": "$lng->txt(\"err_count_param\")",
+        "has_variable": false,
+        "variable": "err_count_param"
+    },
+    {
+        "id": 22842,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilLanguageFile.php",
+        "line": 167,
+        "code": "$lng->txt(\"file_not_valid\")",
+        "has_variable": false,
+        "variable": "file_not_valid"
+    },
+    {
+        "id": 22844,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilLanguageFile.php",
+        "line": 167,
+        "code": "$lng->txt(\"err_wrong_header\")",
+        "has_variable": false,
+        "variable": "err_wrong_header"
+    },
+    {
+        "id": 22846,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilLanguageFolderTable.php",
+        "line": 85,
+        "code": "$this->lng->txt('yes')",
+        "has_variable": false,
+        "variable": "yes"
+    },
+    {
+        "id": 22848,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilLanguageFolderTable.php",
+        "line": 90,
+        "code": "$this->lng->txt('no')",
+        "has_variable": false,
+        "variable": "no"
+    },
+    {
+        "id": 22850,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilLanguageFolderTable.php",
+        "line": 94,
+        "code": "$this->lng->txt(\"language\")",
+        "has_variable": false,
+        "variable": "language"
+    },
+    {
+        "id": 22852,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilLanguageFolderTable.php",
+        "line": 95,
+        "code": "$this->lng->txt(\"status\")",
+        "has_variable": false,
+        "variable": "status"
+    },
+    {
+        "id": 22854,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilLanguageFolderTable.php",
+        "line": 96,
+        "code": "$this->lng->txt(\"users\")",
+        "has_variable": false,
+        "variable": "users"
+    },
+    {
+        "id": 22856,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilLanguageFolderTable.php",
+        "line": 97,
+        "code": "$this->lng->txt(\"language_translation\")",
+        "has_variable": false,
+        "variable": "language_translation"
+    },
+    {
+        "id": 22858,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilLanguageFolderTable.php",
+        "line": 98,
+        "code": "$this->lng->txt(\"last_refresh\")",
+        "has_variable": false,
+        "variable": "last_refresh"
+    },
+    {
+        "id": 22860,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilLanguageFolderTable.php",
+        "line": 99,
+        "code": "$this->lng->txt(\"last_change\")",
+        "has_variable": false,
+        "variable": "last_change"
+    },
+    {
+        "id": 22862,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilLanguageFolderTable.php",
+        "line": 121,
+        "code": "$this->lng->txt($act)",
+        "has_variable": true,
+        "variable": "$act"
+    },
+    {
+        "id": 22864,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilLanguageFolderTable.php",
+        "line": 171,
+        "code": "$this->lng->txt($record[\"status\"])",
+        "has_variable": true,
+        "variable": "\\$record"
+    },
+    {
+        "id": 22866,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilLanguageFolderTable.php",
+        "line": 181,
+        "code": "$this->lng->txt($record['desc'])",
+        "has_variable": true,
+        "variable": "\\$record"
+    },
+    {
+        "id": 22868,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilLanguageStatisticsTable.php",
+        "line": 55,
+        "code": "$this->lng->txt(\"module\")",
+        "has_variable": false,
+        "variable": "module"
+    },
+    {
+        "id": 22870,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilLanguageStatisticsTable.php",
+        "line": 56,
+        "code": "$this->lng->txt(\"language_scope_global\")",
+        "has_variable": false,
+        "variable": "language_scope_global"
+    },
+    {
+        "id": 22872,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilLanguageStatisticsTable.php",
+        "line": 57,
+        "code": "$this->lng->txt(\"language_scope_local\")",
+        "has_variable": false,
+        "variable": "language_scope_local"
+    },
+    {
+        "id": 22874,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilLanguageStatisticsTable.php",
+        "line": 58,
+        "code": "$this->lng->txt(\"language_scope_unchanged\")",
+        "has_variable": false,
+        "variable": "language_scope_unchanged"
+    },
+    {
+        "id": 22876,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilLanguageStatisticsTable.php",
+        "line": 79,
+        "code": "$this->lng->txt(\"language_all_modules\")",
+        "has_variable": false,
+        "variable": "language_all_modules"
+    },
+    {
+        "id": 22878,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageExt.php",
+        "line": 65,
+        "code": "$this->lng->txt($this->desc)",
+        "has_variable": true,
+        "variable": "$this->desc"
+    },
+    {
+        "id": 22880,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageExtGUI.php",
+        "line": 127,
+        "code": "$this->lng->txt(\"permission_denied\")",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 22882,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageExtGUI.php",
+        "line": 314,
+        "code": "$this->lng->txt(\"language_former_file_missing\")",
+        "has_variable": false,
+        "variable": "language_former_file_missing"
+    },
+    {
+        "id": 22884,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageExtGUI.php",
+        "line": 315,
+        "code": "$this->lng->txt(\"language_former_file_description\")",
+        "has_variable": false,
+        "variable": "language_former_file_description"
+    },
+    {
+        "id": 22886,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageExtGUI.php",
+        "line": 327,
+        "code": "$this->lng->txt(\"language_former_file_equal\")",
+        "has_variable": false,
+        "variable": "language_former_file_equal"
+    },
+    {
+        "id": 22888,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageExtGUI.php",
+        "line": 328,
+        "code": "$this->lng->txt(\"language_former_file_description\")",
+        "has_variable": false,
+        "variable": "language_former_file_description"
+    },
+    {
+        "id": 22890,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageExtGUI.php",
+        "line": 455,
+        "code": "$this->lng->txt(\"language_import_file\")",
+        "has_variable": false,
+        "variable": "language_import_file"
+    },
+    {
+        "id": 22892,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageExtGUI.php",
+        "line": 456,
+        "code": "$this->lng->txt(\"upload\")",
+        "has_variable": false,
+        "variable": "upload"
+    },
+    {
+        "id": 22894,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageExtGUI.php",
+        "line": 458,
+        "code": "$this->lng->txt(\"file\")",
+        "has_variable": false,
+        "variable": "file"
+    },
+    {
+        "id": 22896,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageExtGUI.php",
+        "line": 462,
+        "code": "$this->lng->txt(\"language_mode_existing\")",
+        "has_variable": false,
+        "variable": "language_mode_existing"
+    },
+    {
+        "id": 22898,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageExtGUI.php",
+        "line": 463,
+        "code": "$this->lng->txt(\"language_mode_existing_keepall\")",
+        "has_variable": false,
+        "variable": "language_mode_existing_keepall"
+    },
+    {
+        "id": 22900,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageExtGUI.php",
+        "line": 464,
+        "code": "$this->lng->txt(\"language_mode_existing_keepall_info\")",
+        "has_variable": false,
+        "variable": "language_mode_existing_keepall_info"
+    },
+    {
+        "id": 22902,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageExtGUI.php",
+        "line": 466,
+        "code": "$this->lng->txt(\"language_mode_existing_keepnew\")",
+        "has_variable": false,
+        "variable": "language_mode_existing_keepnew"
+    },
+    {
+        "id": 22904,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageExtGUI.php",
+        "line": 467,
+        "code": "$this->lng->txt(\"language_mode_existing_keepnew_info\")",
+        "has_variable": false,
+        "variable": "language_mode_existing_keepnew_info"
+    },
+    {
+        "id": 22906,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageExtGUI.php",
+        "line": 469,
+        "code": "$this->lng->txt(\"language_mode_existing_replace\")",
+        "has_variable": false,
+        "variable": "language_mode_existing_replace"
+    },
+    {
+        "id": 22908,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageExtGUI.php",
+        "line": 470,
+        "code": "$this->lng->txt(\"language_mode_existing_replace_info\")",
+        "has_variable": false,
+        "variable": "language_mode_existing_replace_info"
+    },
+    {
+        "id": 22910,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageExtGUI.php",
+        "line": 472,
+        "code": "$this->lng->txt(\"language_mode_existing_delete\")",
+        "has_variable": false,
+        "variable": "language_mode_existing_delete"
+    },
+    {
+        "id": 22912,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageExtGUI.php",
+        "line": 473,
+        "code": "$this->lng->txt(\"language_mode_existing_delete_info\")",
+        "has_variable": false,
+        "variable": "language_mode_existing_delete_info"
+    },
+    {
+        "id": 22914,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageExtGUI.php",
+        "line": 526,
+        "code": "$this->lng->txt(\"language_file_imported\")",
+        "has_variable": false,
+        "variable": "language_file_imported"
+    },
+    {
+        "id": 22916,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageExtGUI.php",
+        "line": 543,
+        "code": "$this->lng->txt(\"language_export_file\")",
+        "has_variable": false,
+        "variable": "language_export_file"
+    },
+    {
+        "id": 22918,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageExtGUI.php",
+        "line": 545,
+        "code": "$this->lng->txt(\"download\")",
+        "has_variable": false,
+        "variable": "download"
+    },
+    {
+        "id": 22920,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageExtGUI.php",
+        "line": 547,
+        "code": "$this->lng->txt(\"language_file_scope\")",
+        "has_variable": false,
+        "variable": "language_file_scope"
+    },
+    {
+        "id": 22922,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageExtGUI.php",
+        "line": 548,
+        "code": "$this->lng->txt(\"language_scope_global\")",
+        "has_variable": false,
+        "variable": "language_scope_global"
+    },
+    {
+        "id": 22924,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageExtGUI.php",
+        "line": 549,
+        "code": "$this->lng->txt(\"language_scope_global_info\")",
+        "has_variable": false,
+        "variable": "language_scope_global_info"
+    },
+    {
+        "id": 22926,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageExtGUI.php",
+        "line": 551,
+        "code": "$this->lng->txt(\"language_scope_local\")",
+        "has_variable": false,
+        "variable": "language_scope_local"
+    },
+    {
+        "id": 22928,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageExtGUI.php",
+        "line": 552,
+        "code": "$this->lng->txt(\"language_scope_local_info\")",
+        "has_variable": false,
+        "variable": "language_scope_local_info"
+    },
+    {
+        "id": 22930,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageExtGUI.php",
+        "line": 555,
+        "code": "$this->lng->txt(\"language_scope_added\")",
+        "has_variable": false,
+        "variable": "language_scope_added"
+    },
+    {
+        "id": 22932,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageExtGUI.php",
+        "line": 556,
+        "code": "$this->lng->txt(\"language_scope_added_info\")",
+        "has_variable": false,
+        "variable": "language_scope_added_info"
+    },
+    {
+        "id": 22934,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageExtGUI.php",
+        "line": 559,
+        "code": "$this->lng->txt(\"language_scope_unchanged\")",
+        "has_variable": false,
+        "variable": "language_scope_unchanged"
+    },
+    {
+        "id": 22936,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageExtGUI.php",
+        "line": 560,
+        "code": "$this->lng->txt(\"language_scope_unchanged_info\")",
+        "has_variable": false,
+        "variable": "language_scope_unchanged_info"
+    },
+    {
+        "id": 22938,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageExtGUI.php",
+        "line": 563,
+        "code": "$this->lng->txt(\"language_scope_merged\")",
+        "has_variable": false,
+        "variable": "language_scope_merged"
+    },
+    {
+        "id": 22940,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageExtGUI.php",
+        "line": 564,
+        "code": "$this->lng->txt(\"language_scope_merged_info\")",
+        "has_variable": false,
+        "variable": "language_scope_merged_info"
+    },
+    {
+        "id": 22942,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageExtGUI.php",
+        "line": 634,
+        "code": "$this->lng->txt(\"language_maintenance\")",
+        "has_variable": false,
+        "variable": "language_maintenance"
+    },
+    {
+        "id": 22944,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageExtGUI.php",
+        "line": 636,
+        "code": "$this->lng->txt(\"language_process_maintenance\")",
+        "has_variable": false,
+        "variable": "language_process_maintenance"
+    },
+    {
+        "id": 22946,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageExtGUI.php",
+        "line": 638,
+        "code": "$this->lng->txt(\"language_maintain_local_changes\")",
+        "has_variable": false,
+        "variable": "language_maintain_local_changes"
+    },
+    {
+        "id": 22948,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageExtGUI.php",
+        "line": 639,
+        "code": "$this->lng->txt(\"language_load_local_changes\")",
+        "has_variable": false,
+        "variable": "language_load_local_changes"
+    },
+    {
+        "id": 22950,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageExtGUI.php",
+        "line": 640,
+        "code": "$this->lng->txt(\"language_load_local_changes_info\")",
+        "has_variable": false,
+        "variable": "language_load_local_changes_info"
+    },
+    {
+        "id": 22952,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageExtGUI.php",
+        "line": 642,
+        "code": "$this->lng->txt(\"language_clear_local_changes\")",
+        "has_variable": false,
+        "variable": "language_clear_local_changes"
+    },
+    {
+        "id": 22954,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageExtGUI.php",
+        "line": 643,
+        "code": "$this->lng->txt(\"language_clear_local_changes_info\")",
+        "has_variable": false,
+        "variable": "language_clear_local_changes_info"
+    },
+    {
+        "id": 22956,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageExtGUI.php",
+        "line": 646,
+        "code": "$this->lng->txt(\"language_delete_local_additions\")",
+        "has_variable": false,
+        "variable": "language_delete_local_additions"
+    },
+    {
+        "id": 22958,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageExtGUI.php",
+        "line": 647,
+        "code": "$this->lng->txt(\"language_delete_local_additions_info\")",
+        "has_variable": false,
+        "variable": "language_delete_local_additions_info"
+    },
+    {
+        "id": 22960,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageExtGUI.php",
+        "line": 649,
+        "code": "$this->lng->txt(\"language_remove_local_file\")",
+        "has_variable": false,
+        "variable": "language_remove_local_file"
+    },
+    {
+        "id": 22962,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageExtGUI.php",
+        "line": 650,
+        "code": "$this->lng->txt(\"language_remove_local_file_info\")",
+        "has_variable": false,
+        "variable": "language_remove_local_file_info"
+    },
+    {
+        "id": 22964,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageExtGUI.php",
+        "line": 652,
+        "code": "$this->lng->txt(\"language_merge_local_changes\")",
+        "has_variable": false,
+        "variable": "language_merge_local_changes"
+    },
+    {
+        "id": 22966,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageExtGUI.php",
+        "line": 653,
+        "code": "$this->lng->txt(\"language_merge_local_changes_info\")",
+        "has_variable": false,
+        "variable": "language_merge_local_changes_info"
+    },
+    {
+        "id": 22968,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageExtGUI.php",
+        "line": 656,
+        "code": "$this->lng->txt(\"language_save_dist\")",
+        "has_variable": false,
+        "variable": "language_save_dist"
+    },
+    {
+        "id": 22970,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageExtGUI.php",
+        "line": 657,
+        "code": "$this->lng->txt(\"language_save_dist_info\")",
+        "has_variable": false,
+        "variable": "language_save_dist_info"
+    },
+    {
+        "id": 22972,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageExtGUI.php",
+        "line": 680,
+        "code": "$this->lng->txt(\"language_saved_dist\")",
+        "has_variable": false,
+        "variable": "language_saved_dist"
+    },
+    {
+        "id": 22974,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageExtGUI.php",
+        "line": 682,
+        "code": "$this->lng->txt(\"language_save_dist_failed\")",
+        "has_variable": false,
+        "variable": "language_save_dist_failed"
+    },
+    {
+        "id": 22976,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageExtGUI.php",
+        "line": 692,
+        "code": "$this->lng->txt(\"language_loaded_local\")",
+        "has_variable": false,
+        "variable": "language_loaded_local"
+    },
+    {
+        "id": 22978,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageExtGUI.php",
+        "line": 694,
+        "code": "$this->lng->txt(\"language_error_read_local\")",
+        "has_variable": false,
+        "variable": "language_error_read_local"
+    },
+    {
+        "id": 22980,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageExtGUI.php",
+        "line": 704,
+        "code": "$this->lng->txt(\"language_cleared_local\")",
+        "has_variable": false,
+        "variable": "language_cleared_local"
+    },
+    {
+        "id": 22982,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageExtGUI.php",
+        "line": 706,
+        "code": "$this->lng->txt(\"language_error_clear_local\")",
+        "has_variable": false,
+        "variable": "language_error_clear_local"
+    },
+    {
+        "id": 22984,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageExtGUI.php",
+        "line": 729,
+        "code": "$this->lng->txt(\"language_merged_global\")",
+        "has_variable": false,
+        "variable": "language_merged_global"
+    },
+    {
+        "id": 22986,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageExtGUI.php",
+        "line": 731,
+        "code": "$this->lng->txt(\"language_error_write_global\")",
+        "has_variable": false,
+        "variable": "language_error_write_global"
+    },
+    {
+        "id": 22988,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageExtGUI.php",
+        "line": 741,
+        "code": "$this->lng->txt(\"language_error_local_missed\")",
+        "has_variable": false,
+        "variable": "language_error_local_missed"
+    },
+    {
+        "id": 22990,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageExtGUI.php",
+        "line": 744,
+        "code": "$this->lng->txt(\"language_local_file_deleted\")",
+        "has_variable": false,
+        "variable": "language_local_file_deleted"
+    },
+    {
+        "id": 22992,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageExtGUI.php",
+        "line": 746,
+        "code": "$this->lng->txt(\"language_error_delete_local\")",
+        "has_variable": false,
+        "variable": "language_error_delete_local"
+    },
+    {
+        "id": 22994,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageExtGUI.php",
+        "line": 778,
+        "code": "$this->lng->txt(\"settings_saved\")",
+        "has_variable": false,
+        "variable": "settings_saved"
+    },
+    {
+        "id": 22996,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageExtGUI.php",
+        "line": 794,
+        "code": "$this->lng->txt(\"language_settings\")",
+        "has_variable": false,
+        "variable": "language_settings"
+    },
+    {
+        "id": 22998,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageExtGUI.php",
+        "line": 796,
+        "code": "$this->lng->txt(\"language_change_settings\")",
+        "has_variable": false,
+        "variable": "language_change_settings"
+    },
+    {
+        "id": 23000,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageExtGUI.php",
+        "line": 798,
+        "code": "$this->lng->txt(\"language_translation_enabled\")",
+        "has_variable": false,
+        "variable": "language_translation_enabled"
+    },
+    {
+        "id": 23002,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageExtGUI.php",
+        "line": 800,
+        "code": "$this->lng->txt(\"language_note_translation\")",
+        "has_variable": false,
+        "variable": "language_note_translation"
+    },
+    {
+        "id": 23004,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageExtGUI.php",
+        "line": 832,
+        "code": "$this->lng->txt(\"back\")",
+        "has_variable": false,
+        "variable": "back"
+    },
+    {
+        "id": 23006,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageExtGUI.php",
+        "line": 839,
+        "code": "$this->lng->txt(\"edit\")",
+        "has_variable": false,
+        "variable": "edit"
+    },
+    {
+        "id": 23008,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageExtGUI.php",
+        "line": 845,
+        "code": "$this->lng->txt('export')",
+        "has_variable": false,
+        "variable": "export"
+    },
+    {
+        "id": 23010,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageExtGUI.php",
+        "line": 851,
+        "code": "$this->lng->txt(\"import\")",
+        "has_variable": false,
+        "variable": "import"
+    },
+    {
+        "id": 23012,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageExtGUI.php",
+        "line": 857,
+        "code": "$this->lng->txt(\"language_maintain\")",
+        "has_variable": false,
+        "variable": "language_maintain"
+    },
+    {
+        "id": 23014,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageExtGUI.php",
+        "line": 863,
+        "code": "$this->lng->txt(\"settings\")",
+        "has_variable": false,
+        "variable": "settings"
+    },
+    {
+        "id": 23016,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageExtGUI.php",
+        "line": 869,
+        "code": "$this->lng->txt(\"language_statistics\")",
+        "has_variable": false,
+        "variable": "language_statistics"
+    },
+    {
+        "id": 23018,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageExtGUI.php",
+        "line": 900,
+        "code": "$this->lng->txt(\"languages\")",
+        "has_variable": false,
+        "variable": "languages"
+    },
+    {
+        "id": 23020,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageExtGUI.php",
+        "line": 905,
+        "code": "$this->lng->txt(\"meta_l_\" . $this->object->getTitle())",
+        "has_variable": true,
+        "variable": "\"meta_l_\" . $this->object->getTitle()"
+    },
+    {
+        "id": 23022,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageExtGUI.php",
+        "line": 918,
+        "code": "$this->lng->txt(\"translation\")",
+        "has_variable": false,
+        "variable": "translation"
+    },
+    {
+        "id": 23024,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageExtGUI.php",
+        "line": 919,
+        "code": "$this->lng->txt(\"translation\")",
+        "has_variable": false,
+        "variable": "translation"
+    },
+    {
+        "id": 23026,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageExtGUI.php",
+        "line": 919,
+        "code": "$this->lng->txt(\"meta_l_\" . $this->object->key)",
+        "has_variable": true,
+        "variable": "\"meta_l_\" . $this->object->key"
+    },
+    {
+        "id": 23028,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageExtGUI.php",
+        "line": 921,
+        "code": "$this->lng->txt(\"meta_l_\" . $this->object->key)",
+        "has_variable": true,
+        "variable": "\"meta_l_\" . $this->object->key"
+    },
+    {
+        "id": 23030,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageExtGUI.php",
+        "line": 923,
+        "code": "$this->lng->txt(\"obj_\" . $this->object->getType())",
+        "has_variable": true,
+        "variable": "\"obj_\" . $this->object->getType()"
+    },
+    {
+        "id": 23032,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageExtGUI.php",
+        "line": 940,
+        "code": "$this->lng->txt(\"adm_missing_entries\")",
+        "has_variable": false,
+        "variable": "adm_missing_entries"
+    },
+    {
+        "id": 23034,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageExtGUI.php",
+        "line": 946,
+        "code": "$this->lng->txt(\"adm_missing_entry_add_action\")",
+        "has_variable": false,
+        "variable": "adm_missing_entry_add_action"
+    },
+    {
+        "id": 23036,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageExtGUI.php",
+        "line": 987,
+        "code": "$this->lng->txt(\"adm_missing_entry_add\")",
+        "has_variable": false,
+        "variable": "adm_missing_entry_add"
+    },
+    {
+        "id": 23038,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageExtGUI.php",
+        "line": 992,
+        "code": "$this->lng->txt(\"module\")",
+        "has_variable": false,
+        "variable": "module"
+    },
+    {
+        "id": 23040,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageExtGUI.php",
+        "line": 993,
+        "code": "$this->lng->txt(\"please_select\")",
+        "has_variable": false,
+        "variable": "please_select"
+    },
+    {
+        "id": 23042,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageExtGUI.php",
+        "line": 997,
+        "code": "$this->lng->txt(\"identifier\")",
+        "has_variable": false,
+        "variable": "identifier"
+    },
+    {
+        "id": 23044,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageExtGUI.php",
+        "line": 1003,
+        "code": "$this->lng->txt(\"meta_l_\" . $lang_key)",
+        "has_variable": true,
+        "variable": "\"meta_l_\" . $lang_key"
+    },
+    {
+        "id": 23046,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageExtGUI.php",
+        "line": 1010,
+        "code": "$this->lng->txt(\"save\")",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 23048,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageExtGUI.php",
+        "line": 1011,
+        "code": "$this->lng->txt(\"cancel\")",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 23050,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageExtGUI.php",
+        "line": 1055,
+        "code": "$this->lng->txt(\"settings_saved\")",
+        "has_variable": false,
+        "variable": "settings_saved"
+    },
+    {
+        "id": 23052,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageExtGUI.php",
+        "line": 1072,
+        "code": "$this->lng->txt(\"language_variables_saved\")",
+        "has_variable": false,
+        "variable": "language_variables_saved"
+    },
+    {
+        "id": 23054,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageFolder.php",
+        "line": 162,
+        "code": "$this->lng->txt(\"meta_l_\" . $lang_key)",
+        "has_variable": true,
+        "variable": "\"meta_l_\" . $lang_key"
+    },
+    {
+        "id": 23056,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageFolder.php",
+        "line": 254,
+        "code": "$this->lng->txt(\"langfile_found\")",
+        "has_variable": false,
+        "variable": "langfile_found"
+    },
+    {
+        "id": 23058,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageFolder.php",
+        "line": 272,
+        "code": "$this->lng->txt(\"err_in_line\")",
+        "has_variable": false,
+        "variable": "err_in_line"
+    },
+    {
+        "id": 23060,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageFolder.php",
+        "line": 277,
+        "code": "$this->lng->txt(\"err_no_param\")",
+        "has_variable": false,
+        "variable": "err_no_param"
+    },
+    {
+        "id": 23062,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageFolder.php",
+        "line": 277,
+        "code": "$this->lng->txt(\"check_langfile\")",
+        "has_variable": false,
+        "variable": "check_langfile"
+    },
+    {
+        "id": 23064,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageFolder.php",
+        "line": 279,
+        "code": "$this->lng->txt(\"module\")",
+        "has_variable": false,
+        "variable": "module"
+    },
+    {
+        "id": 23066,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageFolder.php",
+        "line": 280,
+        "code": "$this->lng->txt(\"err_1_param\")",
+        "has_variable": false,
+        "variable": "err_1_param"
+    },
+    {
+        "id": 23068,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageFolder.php",
+        "line": 280,
+        "code": "$this->lng->txt(\"check_langfile\")",
+        "has_variable": false,
+        "variable": "check_langfile"
+    },
+    {
+        "id": 23070,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageFolder.php",
+        "line": 285,
+        "code": "$this->lng->txt(\"module\")",
+        "has_variable": false,
+        "variable": "module"
+    },
+    {
+        "id": 23072,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageFolder.php",
+        "line": 286,
+        "code": "$this->lng->txt(\"identifier\")",
+        "has_variable": false,
+        "variable": "identifier"
+    },
+    {
+        "id": 23074,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageFolder.php",
+        "line": 287,
+        "code": "$this->lng->txt(\"err_2_param\")",
+        "has_variable": false,
+        "variable": "err_2_param"
+    },
+    {
+        "id": 23076,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageFolder.php",
+        "line": 287,
+        "code": "$this->lng->txt(\"check_langfile\")",
+        "has_variable": false,
+        "variable": "check_langfile"
+    },
+    {
+        "id": 23078,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageFolder.php",
+        "line": 291,
+        "code": "$this->lng->txt(\"module\")",
+        "has_variable": false,
+        "variable": "module"
+    },
+    {
+        "id": 23080,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageFolder.php",
+        "line": 292,
+        "code": "$this->lng->txt(\"identifier\")",
+        "has_variable": false,
+        "variable": "identifier"
+    },
+    {
+        "id": 23082,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageFolder.php",
+        "line": 293,
+        "code": "$this->lng->txt(\"value\")",
+        "has_variable": false,
+        "variable": "value"
+    },
+    {
+        "id": 23084,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageFolder.php",
+        "line": 294,
+        "code": "$this->lng->txt(\"err_over_3_param\")",
+        "has_variable": false,
+        "variable": "err_over_3_param"
+    },
+    {
+        "id": 23086,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageFolder.php",
+        "line": 294,
+        "code": "$this->lng->txt(\"check_langfile\")",
+        "has_variable": false,
+        "variable": "check_langfile"
+    },
+    {
+        "id": 23088,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageFolder.php",
+        "line": 302,
+        "code": "$this->lng->txt(\"err_in_line\")",
+        "has_variable": false,
+        "variable": "err_in_line"
+    },
+    {
+        "id": 23090,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageFolder.php",
+        "line": 302,
+        "code": "$this->lng->txt(\"and\")",
+        "has_variable": false,
+        "variable": "and"
+    },
+    {
+        "id": 23092,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageFolder.php",
+        "line": 303,
+        "code": "$this->lng->txt(\"module\")",
+        "has_variable": false,
+        "variable": "module"
+    },
+    {
+        "id": 23094,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageFolder.php",
+        "line": 304,
+        "code": "$this->lng->txt(\"identifier\")",
+        "has_variable": false,
+        "variable": "identifier"
+    },
+    {
+        "id": 23096,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageFolder.php",
+        "line": 305,
+        "code": "$this->lng->txt(\"value\")",
+        "has_variable": false,
+        "variable": "value"
+    },
+    {
+        "id": 23098,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageFolder.php",
+        "line": 313,
+        "code": "$this->lng->txt(\"err_count_param\")",
+        "has_variable": false,
+        "variable": "err_count_param"
+    },
+    {
+        "id": 23100,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageFolder.php",
+        "line": 316,
+        "code": "$this->lng->txt(\"err_double_entries\")",
+        "has_variable": false,
+        "variable": "err_double_entries"
+    },
+    {
+        "id": 23102,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageFolder.php",
+        "line": 318,
+        "code": "$this->lng->txt(\"file_not_valid\")",
+        "has_variable": false,
+        "variable": "file_not_valid"
+    },
+    {
+        "id": 23104,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageFolder.php",
+        "line": 320,
+        "code": "$this->lng->txt(\"file_valid\")",
+        "has_variable": false,
+        "variable": "file_valid"
+    },
+    {
+        "id": 23106,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageFolder.php",
+        "line": 323,
+        "code": "$this->lng->txt(\"file_not_valid\")",
+        "has_variable": false,
+        "variable": "file_not_valid"
+    },
+    {
+        "id": 23108,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageFolder.php",
+        "line": 323,
+        "code": "$this->lng->txt(\"err_wrong_header\")",
+        "has_variable": false,
+        "variable": "err_wrong_header"
+    },
+    {
+        "id": 23110,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageFolder.php",
+        "line": 331,
+        "code": "$this->lng->txt(\"err_no_langfile_found\")",
+        "has_variable": false,
+        "variable": "err_no_langfile_found"
+    },
+    {
+        "id": 23112,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageFolderGUI.php",
+        "line": 91,
+        "code": "$this->lng->txt(\"refresh_languages\")",
+        "has_variable": false,
+        "variable": "refresh_languages"
+    },
+    {
+        "id": 23114,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageFolderGUI.php",
+        "line": 100,
+        "code": "$this->lng->txt(\"check_languages\")",
+        "has_variable": false,
+        "variable": "check_languages"
+    },
+    {
+        "id": 23116,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageFolderGUI.php",
+        "line": 109,
+        "code": "$this->lng->txt(\"lng_download_deprecated\")",
+        "has_variable": false,
+        "variable": "lng_download_deprecated"
+    },
+    {
+        "id": 23118,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageFolderGUI.php",
+        "line": 118,
+        "code": "$this->lng->txt(\"lng_enable_language_detection\")",
+        "has_variable": false,
+        "variable": "lng_enable_language_detection"
+    },
+    {
+        "id": 23120,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageFolderGUI.php",
+        "line": 121,
+        "code": "$this->lng->txt('ok')",
+        "has_variable": false,
+        "variable": "ok"
+    },
+    {
+        "id": 23122,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageFolderGUI.php",
+        "line": 124,
+        "code": "$this->lng->txt(\"lng_disable_language_detection\")",
+        "has_variable": false,
+        "variable": "lng_disable_language_detection"
+    },
+    {
+        "id": 23124,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageFolderGUI.php",
+        "line": 127,
+        "code": "$this->lng->txt('ok')",
+        "has_variable": false,
+        "variable": "ok"
+    },
+    {
+        "id": 23126,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageFolderGUI.php",
+        "line": 129,
+        "code": "$this->lng->txt(\"language_detection\")",
+        "has_variable": false,
+        "variable": "language_detection"
+    },
+    {
+        "id": 23128,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageFolderGUI.php",
+        "line": 134,
+        "code": "$this->lng->txt(\"lng_switch_language_detection\")",
+        "has_variable": false,
+        "variable": "lng_switch_language_detection"
+    },
+    {
+        "id": 23130,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageFolderGUI.php",
+        "line": 146,
+        "code": "$this->lng->txt($title)",
+        "has_variable": true,
+        "variable": "$title"
+    },
+    {
+        "id": 23132,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageFolderGUI.php",
+        "line": 150,
+        "code": "$this->lng->txt($text)",
+        "has_variable": true,
+        "variable": "$text"
+    },
+    {
+        "id": 23134,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageFolderGUI.php",
+        "line": 155,
+        "code": "$this->lng->txt(\"meta_l_\" . $lang_key)",
+        "has_variable": true,
+        "variable": "\"meta_l_\" . $lang_key"
+    },
+    {
+        "id": 23136,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageFolderGUI.php",
+        "line": 159,
+        "code": "$this->lng->txt(\"last_change\")",
+        "has_variable": false,
+        "variable": "last_change"
+    },
+    {
+        "id": 23138,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageFolderGUI.php",
+        "line": 171,
+        "code": "$this->lng->txt($add_text)",
+        "has_variable": true,
+        "variable": "$add_text"
+    },
+    {
+        "id": 23140,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageFolderGUI.php",
+        "line": 174,
+        "code": "$this->lng->txt(\"no_checkbox\")",
+        "has_variable": false,
+        "variable": "no_checkbox"
+    },
+    {
+        "id": 23142,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageFolderGUI.php",
+        "line": 186,
+        "code": "$this->lng->txt('ok')",
+        "has_variable": false,
+        "variable": "ok"
+    },
+    {
+        "id": 23144,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageFolderGUI.php",
+        "line": 212,
+        "code": "$this->lng->txt(\"meta_l_\" . $lang_installed[0])",
+        "has_variable": true,
+        "variable": "\"meta_l_\" . $lang_installed[0]"
+    },
+    {
+        "id": 23146,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageFolderGUI.php",
+        "line": 212,
+        "code": "$this->lng->txt(\"installed\")",
+        "has_variable": false,
+        "variable": "installed"
+    },
+    {
+        "id": 23148,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageFolderGUI.php",
+        "line": 216,
+        "code": "$this->lng->txt(\"meta_l_\" . $lang_key)",
+        "has_variable": true,
+        "variable": "\"meta_l_\" . $lang_key"
+    },
+    {
+        "id": 23150,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageFolderGUI.php",
+        "line": 218,
+        "code": "$this->lng->txt(\"installed\")",
+        "has_variable": false,
+        "variable": "installed"
+    },
+    {
+        "id": 23152,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageFolderGUI.php",
+        "line": 221,
+        "code": "$this->lng->txt(\"languages_already_installed\")",
+        "has_variable": false,
+        "variable": "languages_already_installed"
+    },
+    {
+        "id": 23154,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageFolderGUI.php",
+        "line": 258,
+        "code": "$this->lng->txt(\"meta_l_\" . $lang_installed[0])",
+        "has_variable": true,
+        "variable": "\"meta_l_\" . $lang_installed[0]"
+    },
+    {
+        "id": 23156,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageFolderGUI.php",
+        "line": 258,
+        "code": "$this->lng->txt(\"installed\")",
+        "has_variable": false,
+        "variable": "installed"
+    },
+    {
+        "id": 23158,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageFolderGUI.php",
+        "line": 262,
+        "code": "$this->lng->txt(\"meta_l_\" . $lang_key)",
+        "has_variable": true,
+        "variable": "\"meta_l_\" . $lang_key"
+    },
+    {
+        "id": 23160,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageFolderGUI.php",
+        "line": 264,
+        "code": "$this->lng->txt(\"installed\")",
+        "has_variable": false,
+        "variable": "installed"
+    },
+    {
+        "id": 23162,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageFolderGUI.php",
+        "line": 270,
+        "code": "$this->lng->txt(\"meta_l_\" . $local_installed[0])",
+        "has_variable": true,
+        "variable": "\"meta_l_\" . $local_installed[0]"
+    },
+    {
+        "id": 23164,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageFolderGUI.php",
+        "line": 270,
+        "code": "$this->lng->txt(\"local_language_file\")",
+        "has_variable": false,
+        "variable": "local_language_file"
+    },
+    {
+        "id": 23166,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageFolderGUI.php",
+        "line": 270,
+        "code": "$this->lng->txt(\"installed\")",
+        "has_variable": false,
+        "variable": "installed"
+    },
+    {
+        "id": 23168,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageFolderGUI.php",
+        "line": 274,
+        "code": "$this->lng->txt(\"meta_l_\" . $lang_key)",
+        "has_variable": true,
+        "variable": "\"meta_l_\" . $lang_key"
+    },
+    {
+        "id": 23170,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageFolderGUI.php",
+        "line": 276,
+        "code": "$this->lng->txt(\"local_language_files\")",
+        "has_variable": false,
+        "variable": "local_language_files"
+    },
+    {
+        "id": 23172,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageFolderGUI.php",
+        "line": 276,
+        "code": "$this->lng->txt(\"installed\")",
+        "has_variable": false,
+        "variable": "installed"
+    },
+    {
+        "id": 23174,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageFolderGUI.php",
+        "line": 279,
+        "code": "$this->lng->txt(\"local_languages_already_installed\")",
+        "has_variable": false,
+        "variable": "local_languages_already_installed"
+    },
+    {
+        "id": 23176,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageFolderGUI.php",
+        "line": 312,
+        "code": "$this->lng->txt(\"meta_l_\" . $lang_uninstalled[0])",
+        "has_variable": true,
+        "variable": "\"meta_l_\" . $lang_uninstalled[0]"
+    },
+    {
+        "id": 23178,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageFolderGUI.php",
+        "line": 312,
+        "code": "$this->lng->txt(\"uninstalled\")",
+        "has_variable": false,
+        "variable": "uninstalled"
+    },
+    {
+        "id": 23180,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageFolderGUI.php",
+        "line": 316,
+        "code": "$this->lng->txt(\"meta_l_\" . $lang_key)",
+        "has_variable": true,
+        "variable": "\"meta_l_\" . $lang_key"
+    },
+    {
+        "id": 23182,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageFolderGUI.php",
+        "line": 319,
+        "code": "$this->lng->txt(\"uninstalled\")",
+        "has_variable": false,
+        "variable": "uninstalled"
+    },
+    {
+        "id": 23184,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageFolderGUI.php",
+        "line": 322,
+        "code": "$this->lng->txt(\"cannot_uninstall_systemlanguage\")",
+        "has_variable": false,
+        "variable": "cannot_uninstall_systemlanguage"
+    },
+    {
+        "id": 23186,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageFolderGUI.php",
+        "line": 324,
+        "code": "$this->lng->txt(\"cannot_uninstall_language_in_use\")",
+        "has_variable": false,
+        "variable": "cannot_uninstall_language_in_use"
+    },
+    {
+        "id": 23188,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageFolderGUI.php",
+        "line": 326,
+        "code": "$this->lng->txt(\"languages_already_uninstalled\")",
+        "has_variable": false,
+        "variable": "languages_already_uninstalled"
+    },
+    {
+        "id": 23190,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageFolderGUI.php",
+        "line": 340,
+        "code": "$this->lng->txt(\"selected_languages_updated\")",
+        "has_variable": false,
+        "variable": "selected_languages_updated"
+    },
+    {
+        "id": 23192,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageFolderGUI.php",
+        "line": 356,
+        "code": "$this->lng->txt(\"meta_l_\" . $langObj->getKey())",
+        "has_variable": true,
+        "variable": "\"meta_l_\" . $langObj->getKey()"
+    },
+    {
+        "id": 23194,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageFolderGUI.php",
+        "line": 373,
+        "code": "$this->lng->txt(\"languages_updated\")",
+        "has_variable": false,
+        "variable": "languages_updated"
+    },
+    {
+        "id": 23196,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageFolderGUI.php",
+        "line": 383,
+        "code": "$this->lng->txt(\"selected_languages_updated\")",
+        "has_variable": false,
+        "variable": "selected_languages_updated"
+    },
+    {
+        "id": 23198,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageFolderGUI.php",
+        "line": 391,
+        "code": "$this->lng->txt(\"meta_l_\" . $langObj->getKey())",
+        "has_variable": true,
+        "variable": "\"meta_l_\" . $langObj->getKey()"
+    },
+    {
+        "id": 23200,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageFolderGUI.php",
+        "line": 415,
+        "code": "$this->lng->txt(\"choose_only_one_language\")",
+        "has_variable": false,
+        "variable": "choose_only_one_language"
+    },
+    {
+        "id": 23202,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageFolderGUI.php",
+        "line": 415,
+        "code": "$this->lng->txt(\"action_aborted\")",
+        "has_variable": false,
+        "variable": "action_aborted"
+    },
+    {
+        "id": 23204,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageFolderGUI.php",
+        "line": 424,
+        "code": "$this->lng->txt(\"meta_l_\" . $newUserLangObj->getKey())",
+        "has_variable": true,
+        "variable": "\"meta_l_\" . $newUserLangObj->getKey()"
+    },
+    {
+        "id": 23206,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageFolderGUI.php",
+        "line": 424,
+        "code": "$this->lng->txt(\"is_already_your\")",
+        "has_variable": false,
+        "variable": "is_already_your"
+    },
+    {
+        "id": 23208,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageFolderGUI.php",
+        "line": 424,
+        "code": "$this->lng->txt(\"user_language\")",
+        "has_variable": false,
+        "variable": "user_language"
+    },
+    {
+        "id": 23210,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageFolderGUI.php",
+        "line": 424,
+        "code": "$this->lng->txt(\"action_aborted\")",
+        "has_variable": false,
+        "variable": "action_aborted"
+    },
+    {
+        "id": 23212,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageFolderGUI.php",
+        "line": 429,
+        "code": "$this->lng->txt(\"meta_l_\" . $newUserLangObj->getKey())",
+        "has_variable": true,
+        "variable": "\"meta_l_\" . $newUserLangObj->getKey()"
+    },
+    {
+        "id": 23214,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageFolderGUI.php",
+        "line": 429,
+        "code": "$this->lng->txt(\"language_not_installed\")",
+        "has_variable": false,
+        "variable": "language_not_installed"
+    },
+    {
+        "id": 23216,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageFolderGUI.php",
+        "line": 429,
+        "code": "$this->lng->txt(\"action_aborted\")",
+        "has_variable": false,
+        "variable": "action_aborted"
+    },
+    {
+        "id": 23218,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageFolderGUI.php",
+        "line": 437,
+        "code": "$this->lng->txt(\"user_language\")",
+        "has_variable": false,
+        "variable": "user_language"
+    },
+    {
+        "id": 23220,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageFolderGUI.php",
+        "line": 437,
+        "code": "$this->lng->txt(\"changed_to\")",
+        "has_variable": false,
+        "variable": "changed_to"
+    },
+    {
+        "id": 23222,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageFolderGUI.php",
+        "line": 437,
+        "code": "$this->lng->txt(\"meta_l_\" . $newUserLangObj->getKey())",
+        "has_variable": true,
+        "variable": "\"meta_l_\" . $newUserLangObj->getKey()"
+    },
+    {
+        "id": 23224,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageFolderGUI.php",
+        "line": 453,
+        "code": "$this->lng->txt(\"choose_only_one_language\")",
+        "has_variable": false,
+        "variable": "choose_only_one_language"
+    },
+    {
+        "id": 23226,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageFolderGUI.php",
+        "line": 453,
+        "code": "$this->lng->txt(\"action_aborted\")",
+        "has_variable": false,
+        "variable": "action_aborted"
+    },
+    {
+        "id": 23228,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageFolderGUI.php",
+        "line": 462,
+        "code": "$this->lng->txt(\"meta_l_\" . $newSysLangObj->getKey())",
+        "has_variable": true,
+        "variable": "\"meta_l_\" . $newSysLangObj->getKey()"
+    },
+    {
+        "id": 23230,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageFolderGUI.php",
+        "line": 462,
+        "code": "$this->lng->txt(\"is_already_your\")",
+        "has_variable": false,
+        "variable": "is_already_your"
+    },
+    {
+        "id": 23232,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageFolderGUI.php",
+        "line": 462,
+        "code": "$this->lng->txt(\"system_language\")",
+        "has_variable": false,
+        "variable": "system_language"
+    },
+    {
+        "id": 23234,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageFolderGUI.php",
+        "line": 462,
+        "code": "$this->lng->txt(\"action_aborted\")",
+        "has_variable": false,
+        "variable": "action_aborted"
+    },
+    {
+        "id": 23236,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageFolderGUI.php",
+        "line": 467,
+        "code": "$this->lng->txt(\"meta_l_\" . $newSysLangObj->getKey())",
+        "has_variable": true,
+        "variable": "\"meta_l_\" . $newSysLangObj->getKey()"
+    },
+    {
+        "id": 23238,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageFolderGUI.php",
+        "line": 467,
+        "code": "$this->lng->txt(\"language_not_installed\")",
+        "has_variable": false,
+        "variable": "language_not_installed"
+    },
+    {
+        "id": 23240,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageFolderGUI.php",
+        "line": 467,
+        "code": "$this->lng->txt(\"action_aborted\")",
+        "has_variable": false,
+        "variable": "action_aborted"
+    },
+    {
+        "id": 23242,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageFolderGUI.php",
+        "line": 477,
+        "code": "$this->lng->txt(\"system_language\")",
+        "has_variable": false,
+        "variable": "system_language"
+    },
+    {
+        "id": 23244,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageFolderGUI.php",
+        "line": 477,
+        "code": "$this->lng->txt(\"changed_to\")",
+        "has_variable": false,
+        "variable": "changed_to"
+    },
+    {
+        "id": 23246,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageFolderGUI.php",
+        "line": 477,
+        "code": "$this->lng->txt(\"meta_l_\" . $newSysLangObj->getKey())",
+        "has_variable": true,
+        "variable": "\"meta_l_\" . $newSysLangObj->getKey()"
+    },
+    {
+        "id": 23248,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageFolderGUI.php",
+        "line": 509,
+        "code": "$this->lng->txt(\"settings\")",
+        "has_variable": false,
+        "variable": "settings"
+    },
+    {
+        "id": 23250,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageFolderGUI.php",
+        "line": 513,
+        "code": "$this->lng->txt(\"perm_settings\")",
+        "has_variable": false,
+        "variable": "perm_settings"
+    },
+    {
+        "id": 23252,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageFolderGUI.php",
+        "line": 708,
+        "code": "$this->lng->txt(\"lang_refresh_confirm\")",
+        "has_variable": false,
+        "variable": "lang_refresh_confirm"
+    },
+    {
+        "id": 23254,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageFolderGUI.php",
+        "line": 711,
+        "code": "$this->lng->txt(\"lang_refresh_confirm_selected\")",
+        "has_variable": false,
+        "variable": "lang_refresh_confirm_selected"
+    },
+    {
+        "id": 23256,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageFolderGUI.php",
+        "line": 713,
+        "code": "$this->lng->txt(\"no_checkbox\")",
+        "has_variable": false,
+        "variable": "no_checkbox"
+    },
+    {
+        "id": 23258,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageFolderGUI.php",
+        "line": 721,
+        "code": "$this->lng->txt(\"meta_l_\" . $lang_key)",
+        "has_variable": true,
+        "variable": "\"meta_l_\" . $lang_key"
+    },
+    {
+        "id": 23260,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageFolderGUI.php",
+        "line": 725,
+        "code": "$this->lng->txt(\"last_change\")",
+        "has_variable": false,
+        "variable": "last_change"
+    },
+    {
+        "id": 23262,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageFolderGUI.php",
+        "line": 733,
+        "code": "$this->lng->txt(\"lang_refresh_confirm_info\")",
+        "has_variable": false,
+        "variable": "lang_refresh_confirm_info"
+    },
+    {
+        "id": 23264,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageFolderGUI.php",
+        "line": 736,
+        "code": "$this->lng->txt(\"cancel\")",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 23266,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageFolderGUI.php",
+        "line": 737,
+        "code": "$this->lng->txt(\"ok\")",
+        "has_variable": false,
+        "variable": "ok"
+    },
+    {
+        "id": 23268,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageFolderGUI.php",
+        "line": 748,
+        "code": "$this->lng->txt(\"lang_uninstall_confirm\")",
+        "has_variable": false,
+        "variable": "lang_uninstall_confirm"
+    },
+    {
+        "id": 23270,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageFolderGUI.php",
+        "line": 751,
+        "code": "$this->lng->txt(\"meta_l_\" . $lang_title)",
+        "has_variable": true,
+        "variable": "\"meta_l_\" . $lang_title"
+    },
+    {
+        "id": 23272,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageFolderGUI.php",
+        "line": 753,
+        "code": "$this->lng->txt(\"cancel\")",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 23274,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageFolderGUI.php",
+        "line": 754,
+        "code": "$this->lng->txt(\"ok\")",
+        "has_variable": false,
+        "variable": "ok"
+    },
+    {
+        "id": 23276,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageFolderGUI.php",
+        "line": 765,
+        "code": "$this->lng->txt(\"lang_uninstall_changes_confirm\")",
+        "has_variable": false,
+        "variable": "lang_uninstall_changes_confirm"
+    },
+    {
+        "id": 23278,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageFolderGUI.php",
+        "line": 768,
+        "code": "$this->lng->txt(\"meta_l_\" . $lang_title)",
+        "has_variable": true,
+        "variable": "\"meta_l_\" . $lang_title"
+    },
+    {
+        "id": 23280,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageFolderGUI.php",
+        "line": 770,
+        "code": "$this->lng->txt(\"cancel\")",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 23282,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageFolderGUI.php",
+        "line": 771,
+        "code": "$this->lng->txt(\"ok\")",
+        "has_variable": false,
+        "variable": "ok"
+    },
+    {
+        "id": 23284,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageFolderGUI.php",
+        "line": 783,
+        "code": "$this->lng->txt(\"refresh\")",
+        "has_variable": false,
+        "variable": "refresh"
+    },
+    {
+        "id": 23286,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageFolderGUI.php",
+        "line": 788,
+        "code": "$this->lng->txt(\"install\")",
+        "has_variable": false,
+        "variable": "install"
+    },
+    {
+        "id": 23288,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageFolderGUI.php",
+        "line": 793,
+        "code": "$this->lng->txt(\"install_local\")",
+        "has_variable": false,
+        "variable": "install_local"
+    },
+    {
+        "id": 23290,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageFolderGUI.php",
+        "line": 798,
+        "code": "$this->lng->txt(\"uninstall\")",
+        "has_variable": false,
+        "variable": "uninstall"
+    },
+    {
+        "id": 23292,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageFolderGUI.php",
+        "line": 803,
+        "code": "$this->lng->txt(\"lang_uninstall_changes\")",
+        "has_variable": false,
+        "variable": "lang_uninstall_changes"
+    },
+    {
+        "id": 23294,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageFolderGUI.php",
+        "line": 808,
+        "code": "$this->lng->txt(\"setSystemLanguage\")",
+        "has_variable": false,
+        "variable": "setSystemLanguage"
+    },
+    {
+        "id": 23296,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageFolderGUI.php",
+        "line": 813,
+        "code": "$this->lng->txt(\"setUserLanguage\")",
+        "has_variable": false,
+        "variable": "setUserLanguage"
+    },
+    {
+        "id": 23298,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageFolderGUI.php",
+        "line": 818,
+        "code": "$this->lng->txt(\"edit\")",
+        "has_variable": false,
+        "variable": "edit"
+    },
+    {
+        "id": 23300,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageFolderGUI.php",
+        "line": 837,
+        "code": "$this->lng->txt(\"saved_successfully\")",
+        "has_variable": false,
+        "variable": "saved_successfully"
+    },
+    {
+        "id": 23302,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageFolderGUI.php",
+        "line": 847,
+        "code": "$this->lng->txt(\"saved_successfully\")",
+        "has_variable": false,
+        "variable": "saved_successfully"
+    },
+    {
+        "id": 23304,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageFolderGUI.php",
+        "line": 857,
+        "code": "$this->lng->txt(\"download\")",
+        "has_variable": false,
+        "variable": "download"
+    },
+    {
+        "id": 23306,
+        "file": "components\/ILIAS\/Language\/classes\/class.ilPluginLanguage.php",
+        "line": 179,
+        "code": "$lng->txt($this->getPrefix() . \"_\" . $a_var, $this->getPrefix())",
+        "has_variable": true,
+        "variable": "$this->getPrefix() . \"_\" . $a_var, $this->getPrefix()"
+    },
+    {
+        "id": 23308,
+        "file": "components\/ILIAS\/Language\/src\/UserSettings\/Language.php",
+        "line": 53,
+        "code": "$lng->txt($this->getIdentifier())",
+        "has_variable": true,
+        "variable": "$this->getIdentifier()"
+    }
+]

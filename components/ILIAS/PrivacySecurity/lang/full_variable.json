@@ -1,0 +1,31 @@
+{
+    "metadata": {
+        "type": "full",
+        "count": 2,
+        "description": "Variable usages without detectable prefixes or suffixes (pure variable references without static strings)"
+    },
+    "matches": [
+        {
+            "id": 30472,
+            "file": "components\/ILIAS\/PrivacySecurity\/classes\/class.ilExportFieldsInfo.php",
+            "line": 130,
+            "code": "$this->lng->txt($caption)",
+            "variable": "$caption",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 30478,
+            "file": "components\/ILIAS\/PrivacySecurity\/classes\/class.ilExportFieldsInfo.php",
+            "line": 175,
+            "code": "$this->lng->txt($field)",
+            "variable": "$field",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        }
+    ]
+}

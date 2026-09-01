@@ -1,0 +1,1866 @@
+[
+    {
+        "id": 9582,
+        "file": "components\/ILIAS\/Contact\/BuddySystem\/classes\/Tables\/RelationsTable.php",
+        "line": 134,
+        "code": "$this->lng->txt('buddy_tbl_title_relations')",
+        "has_variable": false,
+        "variable": "buddy_tbl_title_relations"
+    },
+    {
+        "id": 9584,
+        "file": "components\/ILIAS\/Contact\/BuddySystem\/classes\/Tables\/RelationsTable.php",
+        "line": 136,
+        "code": "$this->lng->txt('name')",
+        "has_variable": false,
+        "variable": "name"
+    },
+    {
+        "id": 9586,
+        "file": "components\/ILIAS\/Contact\/BuddySystem\/classes\/Tables\/RelationsTable.php",
+        "line": 137,
+        "code": "$this->lng->txt('login')",
+        "has_variable": false,
+        "variable": "login"
+    },
+    {
+        "id": 9588,
+        "file": "components\/ILIAS\/Contact\/BuddySystem\/classes\/Tables\/RelationsTable.php",
+        "line": 140,
+        "code": "$this->lng->txt('buddy_tbl_state_actions_col_label')",
+        "has_variable": false,
+        "variable": "buddy_tbl_state_actions_col_label"
+    },
+    {
+        "id": 9590,
+        "file": "components\/ILIAS\/Contact\/BuddySystem\/classes\/Tables\/RelationsTable.php",
+        "line": 213,
+        "code": "$this->lng->txt('buddy_tbl_filter_state')",
+        "has_variable": false,
+        "variable": "buddy_tbl_filter_state"
+    },
+    {
+        "id": 9592,
+        "file": "components\/ILIAS\/Contact\/BuddySystem\/classes\/Tables\/RelationsTable.php",
+        "line": 214,
+        "code": "$this->lng->txt('name')",
+        "has_variable": false,
+        "variable": "name"
+    },
+    {
+        "id": 9594,
+        "file": "components\/ILIAS\/Contact\/BuddySystem\/classes\/class.ilAwarenessUserProviderApprovedContacts.php",
+        "line": 54,
+        "code": "$this->lng->txt('contact_awrn_ap_contacts')",
+        "has_variable": false,
+        "variable": "contact_awrn_ap_contacts"
+    },
+    {
+        "id": 9596,
+        "file": "components\/ILIAS\/Contact\/BuddySystem\/classes\/class.ilAwarenessUserProviderApprovedContacts.php",
+        "line": 63,
+        "code": "$this->lng->txt('contact_awrn_ap_contacts_info')",
+        "has_variable": false,
+        "variable": "contact_awrn_ap_contacts_info"
+    },
+    {
+        "id": 9598,
+        "file": "components\/ILIAS\/Contact\/BuddySystem\/classes\/class.ilAwarenessUserProviderContactRequests.php",
+        "line": 54,
+        "code": "$this->lng->txt('contact_awrn_req_contacts')",
+        "has_variable": false,
+        "variable": "contact_awrn_req_contacts"
+    },
+    {
+        "id": 9600,
+        "file": "components\/ILIAS\/Contact\/BuddySystem\/classes\/class.ilAwarenessUserProviderContactRequests.php",
+        "line": 63,
+        "code": "$this->lng->txt('contact_awrn_req_contacts_info')",
+        "has_variable": false,
+        "variable": "contact_awrn_req_contacts_info"
+    },
+    {
+        "id": 9602,
+        "file": "components\/ILIAS\/Contact\/BuddySystem\/classes\/class.ilBuddySystemGUI.php",
+        "line": 111,
+        "code": "$this->lng->txt('confirmation')",
+        "has_variable": false,
+        "variable": "confirmation"
+    },
+    {
+        "id": 9604,
+        "file": "components\/ILIAS\/Contact\/BuddySystem\/classes\/class.ilBuddySystemGUI.php",
+        "line": 112,
+        "code": "$this->lng->txt('buddy_confirm_unlink')",
+        "has_variable": false,
+        "variable": "buddy_confirm_unlink"
+    },
+    {
+        "id": 9606,
+        "file": "components\/ILIAS\/Contact\/BuddySystem\/classes\/class.ilBuddySystemGUI.php",
+        "line": 115,
+        "code": "$this->lng->txt('confirm')",
+        "has_variable": false,
+        "variable": "confirm"
+    },
+    {
+        "id": 9608,
+        "file": "components\/ILIAS\/Contact\/BuddySystem\/classes\/class.ilBuddySystemGUI.php",
+        "line": 196,
+        "code": "$this->lng->txt('buddy_bs_action_not_possible')",
+        "has_variable": false,
+        "variable": "buddy_bs_action_not_possible"
+    },
+    {
+        "id": 9610,
+        "file": "components\/ILIAS\/Contact\/BuddySystem\/classes\/class.ilBuddySystemGUI.php",
+        "line": 209,
+        "code": "$this->lng->txt($positiveFeedbackLanguageId)",
+        "has_variable": true,
+        "variable": "$positiveFeedbackLanguageId"
+    },
+    {
+        "id": 9612,
+        "file": "components\/ILIAS\/Contact\/BuddySystem\/classes\/class.ilBuddySystemGUI.php",
+        "line": 212,
+        "code": "$this->lng->txt($e->getMessage())",
+        "has_variable": true,
+        "variable": "$e->getMessage()"
+    },
+    {
+        "id": 9614,
+        "file": "components\/ILIAS\/Contact\/BuddySystem\/classes\/class.ilBuddySystemGUI.php",
+        "line": 216,
+        "code": "$this->lng->txt('buddy_bs_action_not_possible')",
+        "has_variable": false,
+        "variable": "buddy_bs_action_not_possible"
+    },
+    {
+        "id": 9616,
+        "file": "components\/ILIAS\/Contact\/BuddySystem\/classes\/class.ilBuddySystemGUI.php",
+        "line": 275,
+        "code": "$this->lng->txt($e->getMessage())",
+        "has_variable": true,
+        "variable": "$e->getMessage()"
+    },
+    {
+        "id": 9618,
+        "file": "components\/ILIAS\/Contact\/BuddySystem\/classes\/class.ilBuddySystemGUI.php",
+        "line": 277,
+        "code": "$this->lng->txt('buddy_bs_action_not_possible')",
+        "has_variable": false,
+        "variable": "buddy_bs_action_not_possible"
+    },
+    {
+        "id": 9620,
+        "file": "components\/ILIAS\/Contact\/BuddySystem\/classes\/class.ilBuddySystemGUI.php",
+        "line": 286,
+        "code": "$this->lng->txt('buddy_bs_action_not_possible')",
+        "has_variable": false,
+        "variable": "buddy_bs_action_not_possible"
+    },
+    {
+        "id": 9622,
+        "file": "components\/ILIAS\/Contact\/BuddySystem\/classes\/class.ilBuddySystemNotification.php",
+        "line": 67,
+        "code": "$recipient_language->txt('buddy_noti_cr_profile_not_published')",
+        "has_variable": false,
+        "variable": "buddy_noti_cr_profile_not_published"
+    },
+    {
+        "id": 9624,
+        "file": "components\/ILIAS\/Contact\/BuddySystem\/classes\/class.ilBuddySystemNotification.php",
+        "line": 93,
+        "code": "$recipient_language->txt('buddy_notification_contact_request_link')",
+        "has_variable": false,
+        "variable": "buddy_notification_contact_request_link"
+    },
+    {
+        "id": 9626,
+        "file": "components\/ILIAS\/Contact\/BuddySystem\/classes\/class.ilBuddySystemNotification.php",
+        "line": 95,
+        "code": "$recipient_language->txt('buddy_notification_contact_request_ignore')",
+        "has_variable": false,
+        "variable": "buddy_notification_contact_request_ignore"
+    },
+    {
+        "id": 9628,
+        "file": "components\/ILIAS\/Contact\/BuddySystem\/classes\/class.ilContactUserActionProvider.php",
+        "line": 58,
+        "code": "$this->lng->txt('buddy_handle_contact_request')",
+        "has_variable": false,
+        "variable": "buddy_handle_contact_request"
+    },
+    {
+        "id": 9630,
+        "file": "components\/ILIAS\/Contact\/BuddySystem\/classes\/class.ilContactUserActionProvider.php",
+        "line": 87,
+        "code": "$this->lng->txt(\n                        'buddy_bs_act_btn_txt_requested_to_' .\n                        ilStr::convertUpperCamelCaseToUnderscoreCase($target_state->getName())\n                    )",
+        "has_variable": true,
+        "variable": "'buddy_bs_act_btn_txt_requested_to_' .\n                        ilStr::convertUpperCamelCaseToUnderscoreCase($target_state->getName())"
+    },
+    {
+        "id": 9632,
+        "file": "components\/ILIAS\/Contact\/BuddySystem\/classes\/states\/TableFilterMapper\/class.ilAbstractBuddySystemRelationStateTableFilterMapper.php",
+        "line": 30,
+        "code": "$this->lng->txt('buddy_bs_state_' . strtolower($this->state->getName()))",
+        "has_variable": true,
+        "variable": "'buddy_bs_state_' . strtolower($this->state->getName())"
+    },
+    {
+        "id": 9634,
+        "file": "components\/ILIAS\/Contact\/BuddySystem\/classes\/states\/TableFilterMapper\/class.ilBuddySystemRequestedRelationStateTableFilterMapper.php",
+        "line": 26,
+        "code": "$this->lng->txt(\n                'buddy_bs_state_' . strtolower($this->state->getName()) . '_filter_a'\n            )",
+        "has_variable": true,
+        "variable": "'buddy_bs_state_' . strtolower($this->state->getName()) . '_filter_a'"
+    },
+    {
+        "id": 9636,
+        "file": "components\/ILIAS\/Contact\/BuddySystem\/classes\/states\/TableFilterMapper\/class.ilBuddySystemRequestedRelationStateTableFilterMapper.php",
+        "line": 29,
+        "code": "$this->lng->txt(\n                'buddy_bs_state_' . strtolower($this->state->getName()) . '_filter_p'\n            )",
+        "has_variable": true,
+        "variable": "'buddy_bs_state_' . strtolower($this->state->getName()) . '_filter_p'"
+    },
+    {
+        "id": 9638,
+        "file": "components\/ILIAS\/Contact\/BuddySystem\/classes\/states\/renderer\/class.ilAbstractBuddySystemRelationStateButtonRenderer.php",
+        "line": 75,
+        "code": "$this->lng->txt(\n                'buddy_bs_btn_txt_' . $state_id . $this->getLanguageVariableSuffix()\n            )",
+        "has_variable": true,
+        "variable": "'buddy_bs_btn_txt_' . $state_id . $this->getLanguageVariableSuffix()"
+    },
+    {
+        "id": 9640,
+        "file": "components\/ILIAS\/Contact\/BuddySystem\/classes\/states\/renderer\/class.ilAbstractBuddySystemRelationStateButtonRenderer.php",
+        "line": 96,
+        "code": "$this->lng->txt(\n                'buddy_bs_act_btn_txt_' . $state_id . '_to_' . $target_state_id\n            )",
+        "has_variable": true,
+        "variable": "'buddy_bs_act_btn_txt_' . $state_id . '_to_' . $target_state_id"
+    },
+    {
+        "id": 9642,
+        "file": "components\/ILIAS\/Contact\/classes\/MailingLists\/MailingListsMembersTable.php",
+        "line": 61,
+        "code": "$this->lng->txt('mail_members_of_mailing_list')",
+        "has_variable": false,
+        "variable": "mail_members_of_mailing_list"
+    },
+    {
+        "id": 9644,
+        "file": "components\/ILIAS\/Contact\/classes\/MailingLists\/MailingListsMembersTable.php",
+        "line": 82,
+        "code": "$this->lng->txt('login')",
+        "has_variable": false,
+        "variable": "login"
+    },
+    {
+        "id": 9646,
+        "file": "components\/ILIAS\/Contact\/classes\/MailingLists\/MailingListsMembersTable.php",
+        "line": 114,
+        "code": "$this->lng->txt('remove')",
+        "has_variable": false,
+        "variable": "remove"
+    },
+    {
+        "id": 9648,
+        "file": "components\/ILIAS\/Contact\/classes\/MailingLists\/MailingListsTable.php",
+        "line": 71,
+        "code": "$this->lng->txt('mail_mailing_lists')",
+        "has_variable": false,
+        "variable": "mail_mailing_lists"
+    },
+    {
+        "id": 9650,
+        "file": "components\/ILIAS\/Contact\/classes\/MailingLists\/MailingListsTable.php",
+        "line": 90,
+        "code": "$this->lng->txt('title')",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 9652,
+        "file": "components\/ILIAS\/Contact\/classes\/MailingLists\/MailingListsTable.php",
+        "line": 95,
+        "code": "$this->lng->txt('description')",
+        "has_variable": false,
+        "variable": "description"
+    },
+    {
+        "id": 9654,
+        "file": "components\/ILIAS\/Contact\/classes\/MailingLists\/MailingListsTable.php",
+        "line": 100,
+        "code": "$this->lng->txt('members')",
+        "has_variable": false,
+        "variable": "members"
+    },
+    {
+        "id": 9656,
+        "file": "components\/ILIAS\/Contact\/classes\/MailingLists\/MailingListsTable.php",
+        "line": 132,
+        "code": "$this->lng->txt('delete')",
+        "has_variable": false,
+        "variable": "delete"
+    },
+    {
+        "id": 9658,
+        "file": "components\/ILIAS\/Contact\/classes\/MailingLists\/MailingListsTable.php",
+        "line": 137,
+        "code": "$this->lng->txt('edit')",
+        "has_variable": false,
+        "variable": "edit"
+    },
+    {
+        "id": 9660,
+        "file": "components\/ILIAS\/Contact\/classes\/MailingLists\/MailingListsTable.php",
+        "line": 142,
+        "code": "$this->lng->txt('members')",
+        "has_variable": false,
+        "variable": "members"
+    },
+    {
+        "id": 9662,
+        "file": "components\/ILIAS\/Contact\/classes\/MailingLists\/MailingListsTable.php",
+        "line": 150,
+        "code": "$this->lng->txt('send_mail_to')",
+        "has_variable": false,
+        "variable": "send_mail_to"
+    },
+    {
+        "id": 9664,
+        "file": "components\/ILIAS\/Contact\/classes\/MemberSearch\/MailMemberSearchTable.php",
+        "line": 60,
+        "code": "$this->lng->txt('members')",
+        "has_variable": false,
+        "variable": "members"
+    },
+    {
+        "id": 9666,
+        "file": "components\/ILIAS\/Contact\/classes\/MemberSearch\/MailMemberSearchTable.php",
+        "line": 79,
+        "code": "$this->lng->txt('login')",
+        "has_variable": false,
+        "variable": "login"
+    },
+    {
+        "id": 9668,
+        "file": "components\/ILIAS\/Contact\/classes\/MemberSearch\/MailMemberSearchTable.php",
+        "line": 84,
+        "code": "$this->lng->txt('name')",
+        "has_variable": false,
+        "variable": "name"
+    },
+    {
+        "id": 9670,
+        "file": "components\/ILIAS\/Contact\/classes\/MemberSearch\/MailMemberSearchTable.php",
+        "line": 89,
+        "code": "$this->lng->txt('role')",
+        "has_variable": false,
+        "variable": "role"
+    },
+    {
+        "id": 9672,
+        "file": "components\/ILIAS\/Contact\/classes\/MemberSearch\/MailMemberSearchTable.php",
+        "line": 121,
+        "code": "$this->lng->txt('mail_members')",
+        "has_variable": false,
+        "variable": "mail_members"
+    },
+    {
+        "id": 9674,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilContactGUI.php",
+        "line": 139,
+        "code": "$this->lng->txt('msg_no_perm_read')",
+        "has_variable": false,
+        "variable": "msg_no_perm_read"
+    },
+    {
+        "id": 9676,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilContactGUI.php",
+        "line": 182,
+        "code": "$this->lng->txt('my_contacts')",
+        "has_variable": false,
+        "variable": "my_contacts"
+    },
+    {
+        "id": 9678,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilContactGUI.php",
+        "line": 189,
+        "code": "$this->lng->txt($mode)",
+        "has_variable": true,
+        "variable": "$mode"
+    },
+    {
+        "id": 9680,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilContactGUI.php",
+        "line": 210,
+        "code": "$this->lng->txt($active_mode)",
+        "has_variable": true,
+        "variable": "$active_mode"
+    },
+    {
+        "id": 9682,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilContactGUI.php",
+        "line": 211,
+        "code": "$this->lng->txt($active_mode)",
+        "has_variable": true,
+        "variable": "$active_mode"
+    },
+    {
+        "id": 9684,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilContactGUI.php",
+        "line": 221,
+        "code": "$this->lng->txt('mail_my_mailing_lists')",
+        "has_variable": false,
+        "variable": "mail_my_mailing_lists"
+    },
+    {
+        "id": 9686,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilContactGUI.php",
+        "line": 229,
+        "code": "$this->lng->txt('mail_my_courses')",
+        "has_variable": false,
+        "variable": "mail_my_courses"
+    },
+    {
+        "id": 9688,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilContactGUI.php",
+        "line": 234,
+        "code": "$this->lng->txt('mail_my_groups')",
+        "has_variable": false,
+        "variable": "mail_my_groups"
+    },
+    {
+        "id": 9690,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilContactGUI.php",
+        "line": 246,
+        "code": "$this->lng->txt('my_contacts')",
+        "has_variable": false,
+        "variable": "my_contacts"
+    },
+    {
+        "id": 9692,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilContactGUI.php",
+        "line": 253,
+        "code": "$this->lng->txt('buddy_view_table')",
+        "has_variable": false,
+        "variable": "buddy_view_table"
+    },
+    {
+        "id": 9694,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilContactGUI.php",
+        "line": 258,
+        "code": "$this->lng->txt('buddy_view_gallery')",
+        "has_variable": false,
+        "variable": "buddy_view_gallery"
+    },
+    {
+        "id": 9696,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilContactGUI.php",
+        "line": 269,
+        "code": "$this->lng->txt('mail_my_mailing_lists')",
+        "has_variable": false,
+        "variable": "mail_my_mailing_lists"
+    },
+    {
+        "id": 9698,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilContactGUI.php",
+        "line": 277,
+        "code": "$this->lng->txt('mail_my_courses')",
+        "has_variable": false,
+        "variable": "mail_my_courses"
+    },
+    {
+        "id": 9700,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilContactGUI.php",
+        "line": 282,
+        "code": "$this->lng->txt('mail_my_groups')",
+        "has_variable": false,
+        "variable": "mail_my_groups"
+    },
+    {
+        "id": 9702,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilContactGUI.php",
+        "line": 303,
+        "code": "$this->lng->txt('msg_no_perm_read')",
+        "has_variable": false,
+        "variable": "msg_no_perm_read"
+    },
+    {
+        "id": 9704,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilContactGUI.php",
+        "line": 328,
+        "code": "$this->lng->txt('msg_no_perm_read')",
+        "has_variable": false,
+        "variable": "msg_no_perm_read"
+    },
+    {
+        "id": 9706,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilContactGUI.php",
+        "line": 369,
+        "code": "$this->lng->txt('select_one')",
+        "has_variable": false,
+        "variable": "select_one"
+    },
+    {
+        "id": 9708,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilContactGUI.php",
+        "line": 394,
+        "code": "$this->lng->txt('buddy_confirm_unlink')",
+        "has_variable": false,
+        "variable": "buddy_confirm_unlink"
+    },
+    {
+        "id": 9710,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilContactGUI.php",
+        "line": 396,
+        "code": "$this->lng->txt('confirm')",
+        "has_variable": false,
+        "variable": "confirm"
+    },
+    {
+        "id": 9712,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilContactGUI.php",
+        "line": 397,
+        "code": "$this->lng->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 9714,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilContactGUI.php",
+        "line": 436,
+        "code": "$this->lng->txt($e->getMessage())",
+        "has_variable": true,
+        "variable": "$e->getMessage()"
+    },
+    {
+        "id": 9716,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilContactGUI.php",
+        "line": 438,
+        "code": "$this->lng->txt('buddy_bs_action_not_possible')",
+        "has_variable": false,
+        "variable": "buddy_bs_action_not_possible"
+    },
+    {
+        "id": 9718,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilContactGUI.php",
+        "line": 450,
+        "code": "$this->lng->txt('msg_no_perm_read')",
+        "has_variable": false,
+        "variable": "msg_no_perm_read"
+    },
+    {
+        "id": 9720,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilContactGUI.php",
+        "line": 492,
+        "code": "$this->lng->txt('select_one')",
+        "has_variable": false,
+        "variable": "select_one"
+    },
+    {
+        "id": 9722,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilContactGUI.php",
+        "line": 499,
+        "code": "$this->lng->txt('select_one')",
+        "has_variable": false,
+        "variable": "select_one"
+    },
+    {
+        "id": 9724,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilContactGUI.php",
+        "line": 526,
+        "code": "$this->lng->txt('chat_users_without_permission')",
+        "has_variable": false,
+        "variable": "chat_users_without_permission"
+    },
+    {
+        "id": 9726,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilContactGUI.php",
+        "line": 527,
+        "code": "$this->lng->txt('chat_users_without_login')",
+        "has_variable": false,
+        "variable": "chat_users_without_login"
+    },
+    {
+        "id": 9728,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilContactGUI.php",
+        "line": 571,
+        "code": "$this->lng->txt('mail_invite_users_to_chat')",
+        "has_variable": false,
+        "variable": "mail_invite_users_to_chat"
+    },
+    {
+        "id": 9730,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilContactGUI.php",
+        "line": 604,
+        "code": "$this->lng->txt('mail_invite_users_to_chat')",
+        "has_variable": false,
+        "variable": "mail_invite_users_to_chat"
+    },
+    {
+        "id": 9732,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilContactGUI.php",
+        "line": 605,
+        "code": "$this->lng->txt('submit')",
+        "has_variable": false,
+        "variable": "submit"
+    },
+    {
+        "id": 9734,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilContactGUI.php",
+        "line": 606,
+        "code": "$this->lng->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 9736,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilContactGUI.php",
+        "line": 609,
+        "code": "$this->lng->txt('chat_select_room')",
+        "has_variable": false,
+        "variable": "chat_select_room"
+    },
+    {
+        "id": 9738,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilContactGUI.php",
+        "line": 650,
+        "code": "$this->lng->txt('chat_users_have_been_invited')",
+        "has_variable": false,
+        "variable": "chat_users_have_been_invited"
+    },
+    {
+        "id": 9740,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilContactGUI.php",
+        "line": 654,
+        "code": "$this->lng->txt('goto_invitation_chat')",
+        "has_variable": false,
+        "variable": "goto_invitation_chat"
+    },
+    {
+        "id": 9742,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilContactGUI.php",
+        "line": 668,
+        "code": "$this->lng->txt($lang_var)",
+        "has_variable": true,
+        "variable": "$lang_var"
+    },
+    {
+        "id": 9744,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilMailMemberCourseRoles.php",
+        "line": 41,
+        "code": "$this->lng->txt('mail_roles')",
+        "has_variable": false,
+        "variable": "mail_roles"
+    },
+    {
+        "id": 9746,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilMailMemberCourseRoles.php",
+        "line": 60,
+        "code": "$this->lng->txt('send_mail_admins')",
+        "has_variable": false,
+        "variable": "send_mail_admins"
+    },
+    {
+        "id": 9748,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilMailMemberCourseRoles.php",
+        "line": 66,
+        "code": "$this->lng->txt('send_mail_tutors')",
+        "has_variable": false,
+        "variable": "send_mail_tutors"
+    },
+    {
+        "id": 9750,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilMailMemberCourseRoles.php",
+        "line": 72,
+        "code": "$this->lng->txt('send_mail_members')",
+        "has_variable": false,
+        "variable": "send_mail_members"
+    },
+    {
+        "id": 9752,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilMailMemberGroupRoles.php",
+        "line": 41,
+        "code": "$this->lng->txt('mail_roles')",
+        "has_variable": false,
+        "variable": "mail_roles"
+    },
+    {
+        "id": 9754,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilMailMemberGroupRoles.php",
+        "line": 59,
+        "code": "$this->lng->txt('send_mail_admins')",
+        "has_variable": false,
+        "variable": "send_mail_admins"
+    },
+    {
+        "id": 9756,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilMailMemberGroupRoles.php",
+        "line": 65,
+        "code": "$this->lng->txt('send_mail_members')",
+        "has_variable": false,
+        "variable": "send_mail_members"
+    },
+    {
+        "id": 9758,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilMailMemberLearningSequenceRoles.php",
+        "line": 37,
+        "code": "$this->lng->txt('mail_roles')",
+        "has_variable": false,
+        "variable": "mail_roles"
+    },
+    {
+        "id": 9760,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilMailMemberLearningSequenceRoles.php",
+        "line": 55,
+        "code": "$this->lng->txt('send_mail_admins')",
+        "has_variable": false,
+        "variable": "send_mail_admins"
+    },
+    {
+        "id": 9762,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilMailMemberLearningSequenceRoles.php",
+        "line": 61,
+        "code": "$this->lng->txt('send_mail_members')",
+        "has_variable": false,
+        "variable": "send_mail_members"
+    },
+    {
+        "id": 9764,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilMailMemberSearchGUI.php",
+        "line": 191,
+        "code": "$this->lng->txt('no_checkbox')",
+        "has_variable": false,
+        "variable": "no_checkbox"
+    },
+    {
+        "id": 9766,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilMailMemberSearchGUI.php",
+        "line": 280,
+        "code": "$this->lng->txt('no_checkbox')",
+        "has_variable": false,
+        "variable": "no_checkbox"
+    },
+    {
+        "id": 9768,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilMailMemberSearchGUI.php",
+        "line": 359,
+        "code": "$this->lng->txt('mail_sel_users')",
+        "has_variable": false,
+        "variable": "mail_sel_users"
+    },
+    {
+        "id": 9770,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilMailMemberSearchGUI.php",
+        "line": 365,
+        "code": "$this->lng->txt('mail_sel_label')",
+        "has_variable": false,
+        "variable": "mail_sel_label"
+    },
+    {
+        "id": 9772,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilMailMemberSessionRoles.php",
+        "line": 41,
+        "code": "$this->lng->txt('mail_roles')",
+        "has_variable": false,
+        "variable": "mail_roles"
+    },
+    {
+        "id": 9774,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilMailMemberSessionRoles.php",
+        "line": 53,
+        "code": "$this->lng->txt('il_sess_participant')",
+        "has_variable": false,
+        "variable": "il_sess_participant"
+    },
+    {
+        "id": 9776,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilMailMemberSessionRoles.php",
+        "line": 60,
+        "code": "$this->lng->txt('send_mail_participants')",
+        "has_variable": false,
+        "variable": "send_mail_participants"
+    },
+    {
+        "id": 9778,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilMailSearchGUI.php",
+        "line": 149,
+        "code": "$this->lng->txt('mail_insert_query')",
+        "has_variable": false,
+        "variable": "mail_insert_query"
+    },
+    {
+        "id": 9780,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilMailSearchGUI.php",
+        "line": 152,
+        "code": "$this->lng->txt('search_minimum_three')",
+        "has_variable": false,
+        "variable": "search_minimum_three"
+    },
+    {
+        "id": 9782,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilMailSearchGUI.php",
+        "line": 164,
+        "code": "$this->lng->txt('search_recipients')",
+        "has_variable": false,
+        "variable": "search_recipients"
+    },
+    {
+        "id": 9784,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilMailSearchGUI.php",
+        "line": 167,
+        "code": "$this->lng->txt('wsp_share_search_users')",
+        "has_variable": false,
+        "variable": "wsp_share_search_users"
+    },
+    {
+        "id": 9786,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilMailSearchGUI.php",
+        "line": 175,
+        "code": "$this->lng->txt('search_for')",
+        "has_variable": false,
+        "variable": "search_for"
+    },
+    {
+        "id": 9788,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilMailSearchGUI.php",
+        "line": 191,
+        "code": "$this->lng->txt('search')",
+        "has_variable": false,
+        "variable": "search"
+    },
+    {
+        "id": 9790,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilMailSearchGUI.php",
+        "line": 192,
+        "code": "$this->lng->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 9792,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilMailSearchGUI.php",
+        "line": 255,
+        "code": "$this->lng->txt('mail_' . $recipient_type)",
+        "has_variable": true,
+        "variable": "'mail_' . $recipient_type"
+    },
+    {
+        "id": 9794,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilMailSearchGUI.php",
+        "line": 264,
+        "code": "$this->lng->txt('mail')",
+        "has_variable": false,
+        "variable": "mail"
+    },
+    {
+        "id": 9796,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilMailSearchGUI.php",
+        "line": 311,
+        "code": "$this->lng->txt('mail_addressbook')",
+        "has_variable": false,
+        "variable": "mail_addressbook"
+    },
+    {
+        "id": 9798,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilMailSearchGUI.php",
+        "line": 348,
+        "code": "$this->lng->txt('mail_to')",
+        "has_variable": false,
+        "variable": "mail_to"
+    },
+    {
+        "id": 9800,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilMailSearchGUI.php",
+        "line": 348,
+        "code": "$this->lng->txt('mail_cc')",
+        "has_variable": false,
+        "variable": "mail_cc"
+    },
+    {
+        "id": 9802,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilMailSearchGUI.php",
+        "line": 348,
+        "code": "$this->lng->txt('mail_bcc')",
+        "has_variable": false,
+        "variable": "mail_bcc"
+    },
+    {
+        "id": 9804,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilMailSearchGUI.php",
+        "line": 355,
+        "code": "$this->lng->txt('login')",
+        "has_variable": false,
+        "variable": "login"
+    },
+    {
+        "id": 9806,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilMailSearchGUI.php",
+        "line": 356,
+        "code": "$this->lng->txt('firstname')",
+        "has_variable": false,
+        "variable": "firstname"
+    },
+    {
+        "id": 9808,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilMailSearchGUI.php",
+        "line": 357,
+        "code": "$this->lng->txt('lastname')",
+        "has_variable": false,
+        "variable": "lastname"
+    },
+    {
+        "id": 9810,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilMailSearchGUI.php",
+        "line": 365,
+        "code": "$this->lng->txt('email')",
+        "has_variable": false,
+        "variable": "email"
+    },
+    {
+        "id": 9812,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilMailSearchGUI.php",
+        "line": 407,
+        "code": "$this->lng->txt('system')",
+        "has_variable": false,
+        "variable": "system"
+    },
+    {
+        "id": 9814,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilMailSearchGUI.php",
+        "line": 407,
+        "code": "$this->lng->txt('persons')",
+        "has_variable": false,
+        "variable": "persons"
+    },
+    {
+        "id": 9816,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilMailSearchGUI.php",
+        "line": 443,
+        "code": "$this->lng->txt('mail_to')",
+        "has_variable": false,
+        "variable": "mail_to"
+    },
+    {
+        "id": 9818,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilMailSearchGUI.php",
+        "line": 443,
+        "code": "$this->lng->txt('mail_cc')",
+        "has_variable": false,
+        "variable": "mail_cc"
+    },
+    {
+        "id": 9820,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilMailSearchGUI.php",
+        "line": 443,
+        "code": "$this->lng->txt('mail_bcc')",
+        "has_variable": false,
+        "variable": "mail_bcc"
+    },
+    {
+        "id": 9822,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilMailSearchGUI.php",
+        "line": 450,
+        "code": "$this->lng->txt('login')",
+        "has_variable": false,
+        "variable": "login"
+    },
+    {
+        "id": 9824,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilMailSearchGUI.php",
+        "line": 451,
+        "code": "$this->lng->txt('firstname')",
+        "has_variable": false,
+        "variable": "firstname"
+    },
+    {
+        "id": 9826,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilMailSearchGUI.php",
+        "line": 452,
+        "code": "$this->lng->txt('lastname')",
+        "has_variable": false,
+        "variable": "lastname"
+    },
+    {
+        "id": 9828,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilMailSearchGUI.php",
+        "line": 460,
+        "code": "$this->lng->txt('email')",
+        "has_variable": false,
+        "variable": "email"
+    },
+    {
+        "id": 9830,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilMailSearchGUI.php",
+        "line": 491,
+        "code": "$this->lng->txt('system')",
+        "has_variable": false,
+        "variable": "system"
+    },
+    {
+        "id": 9832,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilMailSearchGUI.php",
+        "line": 491,
+        "code": "$this->lng->txt('groups')",
+        "has_variable": false,
+        "variable": "groups"
+    },
+    {
+        "id": 9834,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilMailSearchGUI.php",
+        "line": 537,
+        "code": "$this->lng->txt('mail_to')",
+        "has_variable": false,
+        "variable": "mail_to"
+    },
+    {
+        "id": 9836,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilMailSearchGUI.php",
+        "line": 537,
+        "code": "$this->lng->txt('mail_cc')",
+        "has_variable": false,
+        "variable": "mail_cc"
+    },
+    {
+        "id": 9838,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilMailSearchGUI.php",
+        "line": 537,
+        "code": "$this->lng->txt('mail_bcc')",
+        "has_variable": false,
+        "variable": "mail_bcc"
+    },
+    {
+        "id": 9840,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilMailSearchGUI.php",
+        "line": 544,
+        "code": "$this->lng->txt('title')",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 9842,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilMailSearchGUI.php",
+        "line": 545,
+        "code": "$this->lng->txt('description')",
+        "has_variable": false,
+        "variable": "description"
+    },
+    {
+        "id": 9844,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilMailSearchGUI.php",
+        "line": 563,
+        "code": "$this->lng->txt('adopt')",
+        "has_variable": false,
+        "variable": "adopt"
+    },
+    {
+        "id": 9846,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilMailSearchGUI.php",
+        "line": 565,
+        "code": "$this->lng->txt('wsp_share_with_users')",
+        "has_variable": false,
+        "variable": "wsp_share_with_users"
+    },
+    {
+        "id": 9848,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilMailSearchGUI.php",
+        "line": 569,
+        "code": "$this->lng->txt('search_no_match')",
+        "has_variable": false,
+        "variable": "search_no_match"
+    },
+    {
+        "id": 9850,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilMailSearchGUI.php",
+        "line": 589,
+        "code": "$this->lng->txt('wsp_share_success')",
+        "has_variable": false,
+        "variable": "wsp_share_success"
+    },
+    {
+        "id": 9852,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilMailSearchObjectGUI.php",
+        "line": 134,
+        "code": "$this->lng->txt('wsp_share_success')",
+        "has_variable": false,
+        "variable": "wsp_share_success"
+    },
+    {
+        "id": 9854,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilMailSearchObjectGUI.php",
+        "line": 165,
+        "code": "$this->lng->txt('mail_select_' . $this->getObjectType())",
+        "has_variable": true,
+        "variable": "'mail_select_' . $this->getObjectType()"
+    },
+    {
+        "id": 9856,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilMailSearchObjectGUI.php",
+        "line": 187,
+        "code": "$this->lng->txt('mail_select_one_entry')",
+        "has_variable": false,
+        "variable": "mail_select_one_entry"
+    },
+    {
+        "id": 9858,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilMailSearchObjectGUI.php",
+        "line": 221,
+        "code": "$this->lng->txt('mail_select_' . $this->getObjectType())",
+        "has_variable": true,
+        "variable": "'mail_select_' . $this->getObjectType()"
+    },
+    {
+        "id": 9860,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilMailSearchObjectGUI.php",
+        "line": 243,
+        "code": "$this->lng->txt('mail_select_one_entry')",
+        "has_variable": false,
+        "variable": "mail_select_one_entry"
+    },
+    {
+        "id": 9862,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilMailSearchObjectGUI.php",
+        "line": 395,
+        "code": "$this->lng->txt('mail_select_' . $this->getObjectType())",
+        "has_variable": true,
+        "variable": "'mail_select_' . $this->getObjectType()"
+    },
+    {
+        "id": 9864,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilMailSearchObjectGUI.php",
+        "line": 409,
+        "code": "$this->lng->txt('mail_crs_list_members_not_available_for_at_least_one_crs')",
+        "has_variable": false,
+        "variable": "mail_crs_list_members_not_available_for_at_least_one_crs"
+    },
+    {
+        "id": 9866,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilMailSearchObjectGUI.php",
+        "line": 417,
+        "code": "$this->lng->txt('mail_addressbook')",
+        "has_variable": false,
+        "variable": "mail_addressbook"
+    },
+    {
+        "id": 9868,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilMailSearchObjectGUI.php",
+        "line": 463,
+        "code": "$this->lng->txt('buddy_bs_state_' . $state_name . '_a')",
+        "has_variable": true,
+        "variable": "'buddy_bs_state_' . $state_name . '_a'"
+    },
+    {
+        "id": 9870,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilMailSearchObjectGUI.php",
+        "line": 465,
+        "code": "$this->lng->txt('buddy_bs_state_' . $state_name . '_p')",
+        "has_variable": true,
+        "variable": "'buddy_bs_state_' . $state_name . '_p'"
+    },
+    {
+        "id": 9872,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilMailSearchObjectGUI.php",
+        "line": 476,
+        "code": "$this->lng->txt('marked_entries')",
+        "has_variable": false,
+        "variable": "marked_entries"
+    },
+    {
+        "id": 9874,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilMailSearchObjectGUI.php",
+        "line": 491,
+        "code": "$this->lng->txt('mail_addressbook')",
+        "has_variable": false,
+        "variable": "mail_addressbook"
+    },
+    {
+        "id": 9876,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilMailSearchObjectGUI.php",
+        "line": 560,
+        "code": "$this->lng->txt('mail_members')",
+        "has_variable": false,
+        "variable": "mail_members"
+    },
+    {
+        "id": 9878,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilMailSearchObjectGUI.php",
+        "line": 568,
+        "code": "$this->lng->txt('wsp_share_with_members')",
+        "has_variable": false,
+        "variable": "wsp_share_with_members"
+    },
+    {
+        "id": 9880,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilMailSearchObjectGUI.php",
+        "line": 577,
+        "code": "$this->lng->txt('mail_list_members')",
+        "has_variable": false,
+        "variable": "mail_list_members"
+    },
+    {
+        "id": 9882,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilMailSearchObjectGUI.php",
+        "line": 589,
+        "code": "$this->lng->txt('actions')",
+        "has_variable": false,
+        "variable": "actions"
+    },
+    {
+        "id": 9884,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilMailSearchObjectGUI.php",
+        "line": 607,
+        "code": "$this->lng->txt('mail_crs_list_members_not_available')",
+        "has_variable": false,
+        "variable": "mail_crs_list_members_not_available"
+    },
+    {
+        "id": 9886,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilMailSearchObjectGUI.php",
+        "line": 612,
+        "code": "$this->lng->txt('marked_entries')",
+        "has_variable": false,
+        "variable": "marked_entries"
+    },
+    {
+        "id": 9888,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilMailSearchObjectGUI.php",
+        "line": 629,
+        "code": "$this->lng->txt('msg_no_perm_read')",
+        "has_variable": false,
+        "variable": "msg_no_perm_read"
+    },
+    {
+        "id": 9890,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilMailSearchObjectMembershipsTableGUI.php",
+        "line": 79,
+        "code": "$this->lng->txt('course')",
+        "has_variable": false,
+        "variable": "course"
+    },
+    {
+        "id": 9892,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilMailSearchObjectMembershipsTableGUI.php",
+        "line": 85,
+        "code": "$this->lng->txt('group')",
+        "has_variable": false,
+        "variable": "group"
+    },
+    {
+        "id": 9894,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilMailSearchObjectMembershipsTableGUI.php",
+        "line": 89,
+        "code": "$this->lng->txt('members')",
+        "has_variable": false,
+        "variable": "members"
+    },
+    {
+        "id": 9896,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilMailSearchObjectMembershipsTableGUI.php",
+        "line": 125,
+        "code": "$this->lng->txt('login')",
+        "has_variable": false,
+        "variable": "login"
+    },
+    {
+        "id": 9898,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilMailSearchObjectMembershipsTableGUI.php",
+        "line": 126,
+        "code": "$this->lng->txt('name')",
+        "has_variable": false,
+        "variable": "name"
+    },
+    {
+        "id": 9900,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilMailSearchObjectMembershipsTableGUI.php",
+        "line": 127,
+        "code": "$this->lng->txt($mode['long'])",
+        "has_variable": true,
+        "variable": "\\$mode"
+    },
+    {
+        "id": 9902,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilMailSearchObjectMembershipsTableGUI.php",
+        "line": 129,
+        "code": "$this->lng->txt('buddy_tbl_filter_state')",
+        "has_variable": false,
+        "variable": "buddy_tbl_filter_state"
+    },
+    {
+        "id": 9904,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilMailSearchObjectMembershipsTableGUI.php",
+        "line": 131,
+        "code": "$this->lng->txt('actions')",
+        "has_variable": false,
+        "variable": "actions"
+    },
+    {
+        "id": 9906,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilMailSearchObjectMembershipsTableGUI.php",
+        "line": 136,
+        "code": "$this->lng->txt('mail_members')",
+        "has_variable": false,
+        "variable": "mail_members"
+    },
+    {
+        "id": 9908,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilMailSearchObjectMembershipsTableGUI.php",
+        "line": 141,
+        "code": "$this->lng->txt('wsp_share_with_members')",
+        "has_variable": false,
+        "variable": "wsp_share_with_members"
+    },
+    {
+        "id": 9910,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilMailSearchObjectMembershipsTableGUI.php",
+        "line": 144,
+        "code": "$this->lng->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 9912,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilMailSearchObjectMembershipsTableGUI.php",
+        "line": 198,
+        "code": "$this->lng->txt('mail_member')",
+        "has_variable": false,
+        "variable": "mail_member"
+    },
+    {
+        "id": 9914,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilMailSearchObjectMembershipsTableGUI.php",
+        "line": 206,
+        "code": "$this->lng->txt('wsp_share_with_members')",
+        "has_variable": false,
+        "variable": "wsp_share_with_members"
+    },
+    {
+        "id": 9916,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilMailSearchObjectMembershipsTableGUI.php",
+        "line": 222,
+        "code": "$this->lng->txt('buddy_bs_btn_txt_unlinked_a')",
+        "has_variable": false,
+        "variable": "buddy_bs_btn_txt_unlinked_a"
+    },
+    {
+        "id": 9918,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilMailSearchObjectMembershipsTableGUI.php",
+        "line": 232,
+        "code": "$this->lng->txt('actions')",
+        "has_variable": false,
+        "variable": "actions"
+    },
+    {
+        "id": 9920,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilMailSearchObjectsTableGUI.php",
+        "line": 55,
+        "code": "$this->lng->txt('mail_my_courses')",
+        "has_variable": false,
+        "variable": "mail_my_courses"
+    },
+    {
+        "id": 9922,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilMailSearchObjectsTableGUI.php",
+        "line": 63,
+        "code": "$this->lng->txt('mail_my_groups')",
+        "has_variable": false,
+        "variable": "mail_my_groups"
+    },
+    {
+        "id": 9924,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilMailSearchObjectsTableGUI.php",
+        "line": 122,
+        "code": "$this->lng->txt('path')",
+        "has_variable": false,
+        "variable": "path"
+    },
+    {
+        "id": 9926,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilMailSearchObjectsTableGUI.php",
+        "line": 123,
+        "code": "$this->lng->txt('obj_count_members')",
+        "has_variable": false,
+        "variable": "obj_count_members"
+    },
+    {
+        "id": 9928,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilMailSearchObjectsTableGUI.php",
+        "line": 124,
+        "code": "$this->lng->txt('actions')",
+        "has_variable": false,
+        "variable": "actions"
+    },
+    {
+        "id": 9930,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilMailSearchObjectsTableGUI.php",
+        "line": 128,
+        "code": "$this->lng->txt('mail_members')",
+        "has_variable": false,
+        "variable": "mail_members"
+    },
+    {
+        "id": 9932,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilMailSearchObjectsTableGUI.php",
+        "line": 132,
+        "code": "$this->lng->txt('wsp_share_with_members')",
+        "has_variable": false,
+        "variable": "wsp_share_with_members"
+    },
+    {
+        "id": 9934,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilMailSearchObjectsTableGUI.php",
+        "line": 134,
+        "code": "$this->lng->txt('mail_list_members')",
+        "has_variable": false,
+        "variable": "mail_list_members"
+    },
+    {
+        "id": 9936,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilMailSearchObjectsTableGUI.php",
+        "line": 140,
+        "code": "$this->lng->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 9938,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilMailingListsGUI.php",
+        "line": 114,
+        "code": "$this->lng->txt('msg_no_perm_read')",
+        "has_variable": false,
+        "variable": "msg_no_perm_read"
+    },
+    {
+        "id": 9940,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilMailingListsGUI.php",
+        "line": 194,
+        "code": "$this->lng->txt('mail_select_one_entry')",
+        "has_variable": false,
+        "variable": "mail_select_one_entry"
+    },
+    {
+        "id": 9942,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilMailingListsGUI.php",
+        "line": 210,
+        "code": "$this->lng->txt('mail_sure_delete_entry')",
+        "has_variable": false,
+        "variable": "mail_sure_delete_entry"
+    },
+    {
+        "id": 9944,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilMailingListsGUI.php",
+        "line": 211,
+        "code": "$this->lng->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 9946,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilMailingListsGUI.php",
+        "line": 212,
+        "code": "$this->lng->txt('confirm')",
+        "has_variable": false,
+        "variable": "confirm"
+    },
+    {
+        "id": 9948,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilMailingListsGUI.php",
+        "line": 218,
+        "code": "$this->lng->txt('mail_addressbook')",
+        "has_variable": false,
+        "variable": "mail_addressbook"
+    },
+    {
+        "id": 9950,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilMailingListsGUI.php",
+        "line": 246,
+        "code": "$this->lng->txt('mail_deleted_entry')",
+        "has_variable": false,
+        "variable": "mail_deleted_entry"
+    },
+    {
+        "id": 9952,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilMailingListsGUI.php",
+        "line": 253,
+        "code": "$this->lng->txt('mail_delete_error')",
+        "has_variable": false,
+        "variable": "mail_delete_error"
+    },
+    {
+        "id": 9954,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilMailingListsGUI.php",
+        "line": 268,
+        "code": "$this->lng->txt('no_permission')",
+        "has_variable": false,
+        "variable": "no_permission"
+    },
+    {
+        "id": 9956,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilMailingListsGUI.php",
+        "line": 274,
+        "code": "$this->lng->txt('mail_select_one_entry')",
+        "has_variable": false,
+        "variable": "mail_select_one_entry"
+    },
+    {
+        "id": 9958,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilMailingListsGUI.php",
+        "line": 323,
+        "code": "$this->lng->txt('create')",
+        "has_variable": false,
+        "variable": "create"
+    },
+    {
+        "id": 9960,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilMailingListsGUI.php",
+        "line": 337,
+        "code": "$this->lng->txt('mail_addressbook')",
+        "has_variable": false,
+        "variable": "mail_addressbook"
+    },
+    {
+        "id": 9962,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilMailingListsGUI.php",
+        "line": 356,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 9964,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilMailingListsGUI.php",
+        "line": 374,
+        "code": "$this->lng->txt('saved_successfully')",
+        "has_variable": false,
+        "variable": "saved_successfully"
+    },
+    {
+        "id": 9966,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilMailingListsGUI.php",
+        "line": 388,
+        "code": "$this->lng->txt('mail_addressbook')",
+        "has_variable": false,
+        "variable": "mail_addressbook"
+    },
+    {
+        "id": 9968,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilMailingListsGUI.php",
+        "line": 401,
+        "code": "$this->lng->txt('title')",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 9970,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilMailingListsGUI.php",
+        "line": 412,
+        "code": "$this->lng->txt('description')",
+        "has_variable": false,
+        "variable": "description"
+    },
+    {
+        "id": 9972,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilMailingListsGUI.php",
+        "line": 431,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 9974,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilMailingListsGUI.php",
+        "line": 438,
+        "code": "$this->lng->txt('mail_addressbook')",
+        "has_variable": false,
+        "variable": "mail_addressbook"
+    },
+    {
+        "id": 9976,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilMailingListsGUI.php",
+        "line": 454,
+        "code": "$this->lng->txt('back')",
+        "has_variable": false,
+        "variable": "back"
+    },
+    {
+        "id": 9978,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilMailingListsGUI.php",
+        "line": 478,
+        "code": "$this->lng->txt('add')",
+        "has_variable": false,
+        "variable": "add"
+    },
+    {
+        "id": 9980,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilMailingListsGUI.php",
+        "line": 492,
+        "code": "$this->lng->txt('mail_addressbook')",
+        "has_variable": false,
+        "variable": "mail_addressbook"
+    },
+    {
+        "id": 9982,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilMailingListsGUI.php",
+        "line": 508,
+        "code": "$this->lng->txt('mail_select_one_entry')",
+        "has_variable": false,
+        "variable": "mail_select_one_entry"
+    },
+    {
+        "id": 9984,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilMailingListsGUI.php",
+        "line": 526,
+        "code": "$this->lng->txt('mail_sure_remove_user')",
+        "has_variable": false,
+        "variable": "mail_sure_remove_user"
+    },
+    {
+        "id": 9986,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilMailingListsGUI.php",
+        "line": 527,
+        "code": "$this->lng->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 9988,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilMailingListsGUI.php",
+        "line": 528,
+        "code": "$this->lng->txt('confirm')",
+        "has_variable": false,
+        "variable": "confirm"
+    },
+    {
+        "id": 9990,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilMailingListsGUI.php",
+        "line": 540,
+        "code": "$this->lng->txt('mail_addressbook')",
+        "has_variable": false,
+        "variable": "mail_addressbook"
+    },
+    {
+        "id": 9992,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilMailingListsGUI.php",
+        "line": 548,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 9994,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilMailingListsGUI.php",
+        "line": 564,
+        "code": "$this->lng->txt('mail_success_removed_user')",
+        "has_variable": false,
+        "variable": "mail_success_removed_user"
+    },
+    {
+        "id": 9996,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilMailingListsGUI.php",
+        "line": 570,
+        "code": "$this->lng->txt('mail_delete_error')",
+        "has_variable": false,
+        "variable": "mail_delete_error"
+    },
+    {
+        "id": 9998,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilMailingListsGUI.php",
+        "line": 607,
+        "code": "$this->lng->txt('mail_entry_of_contacts')",
+        "has_variable": false,
+        "variable": "mail_entry_of_contacts"
+    },
+    {
+        "id": 10000,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilMailingListsGUI.php",
+        "line": 623,
+        "code": "$this->lng->txt('mail_mailing_lists_all_contact_entries_assigned')",
+        "has_variable": false,
+        "variable": "mail_mailing_lists_all_contact_entries_assigned"
+    },
+    {
+        "id": 10002,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilMailingListsGUI.php",
+        "line": 633,
+        "code": "$this->lng->txt('mail_mailing_lists_no_contact_entries')",
+        "has_variable": false,
+        "variable": "mail_mailing_lists_no_contact_entries"
+    },
+    {
+        "id": 10004,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilMailingListsGUI.php",
+        "line": 644,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 10006,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilMailingListsGUI.php",
+        "line": 670,
+        "code": "$this->lng->txt('saved_successfully')",
+        "has_variable": false,
+        "variable": "saved_successfully"
+    },
+    {
+        "id": 10008,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilMailingListsGUI.php",
+        "line": 689,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 10010,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilMailingListsGUI.php",
+        "line": 696,
+        "code": "$this->lng->txt('mail_addressbook')",
+        "has_variable": false,
+        "variable": "mail_addressbook"
+    },
+    {
+        "id": 10012,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilObjContactAdministrationGUI.php",
+        "line": 88,
+        "code": "$this->lng->txt('buddy_use_osd')",
+        "has_variable": false,
+        "variable": "buddy_use_osd"
+    },
+    {
+        "id": 10014,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilObjContactAdministrationGUI.php",
+        "line": 89,
+        "code": "$this->lng->txt('buddy_use_osd_info')",
+        "has_variable": false,
+        "variable": "buddy_use_osd_info"
+    },
+    {
+        "id": 10016,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilObjContactAdministrationGUI.php",
+        "line": 94,
+        "code": "$this->lng->txt('buddy_allow_to_contact_me')",
+        "has_variable": false,
+        "variable": "buddy_allow_to_contact_me"
+    },
+    {
+        "id": 10018,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilObjContactAdministrationGUI.php",
+        "line": 96,
+        "code": "$this->lng->txt('buddy_allow_to_contact_me_yes')",
+        "has_variable": false,
+        "variable": "buddy_allow_to_contact_me_yes"
+    },
+    {
+        "id": 10020,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilObjContactAdministrationGUI.php",
+        "line": 97,
+        "code": "$this->lng->txt('buddy_allow_to_contact_me_no')",
+        "has_variable": false,
+        "variable": "buddy_allow_to_contact_me_no"
+    },
+    {
+        "id": 10022,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilObjContactAdministrationGUI.php",
+        "line": 99,
+        "code": "$this->lng->txt('buddy_allow_to_contact_me_default_info')",
+        "has_variable": false,
+        "variable": "buddy_allow_to_contact_me_default_info"
+    },
+    {
+        "id": 10024,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilObjContactAdministrationGUI.php",
+        "line": 110,
+        "code": "$this->lng->txt('buddy_enable')",
+        "has_variable": false,
+        "variable": "buddy_enable"
+    },
+    {
+        "id": 10026,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilObjContactAdministrationGUI.php",
+        "line": 111,
+        "code": "$this->lng->txt('buddy_enable_info')",
+        "has_variable": false,
+        "variable": "buddy_enable_info"
+    },
+    {
+        "id": 10028,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilObjContactAdministrationGUI.php",
+        "line": 132,
+        "code": "$this->lng->txt('save')",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 10030,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilObjContactAdministrationGUI.php",
+        "line": 132,
+        "code": "$this->lng->txt('refresh')",
+        "has_variable": false,
+        "variable": "refresh"
+    },
+    {
+        "id": 10032,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilObjContactAdministrationGUI.php",
+        "line": 139,
+        "code": "$this->lng->txt('no_permission')",
+        "has_variable": false,
+        "variable": "no_permission"
+    },
+    {
+        "id": 10034,
+        "file": "components\/ILIAS\/Contact\/classes\/class.ilObjContactAdministrationGUI.php",
+        "line": 203,
+        "code": "$this->lng->txt('saved_successfully')",
+        "has_variable": false,
+        "variable": "saved_successfully"
+    },
+    {
+        "id": 10036,
+        "file": "components\/ILIAS\/Contact\/src\/UserSettings\/AllowContactRequest.php",
+        "line": 45,
+        "code": "$lng->txt('buddy_allow_to_contact_me')",
+        "has_variable": false,
+        "variable": "buddy_allow_to_contact_me"
+    },
+    {
+        "id": 10038,
+        "file": "components\/ILIAS\/Contact\/src\/UserSettings\/AllowContactRequest.php",
+        "line": 67,
+        "code": "$lng->txt('buddy_allow_to_contact_me')",
+        "has_variable": false,
+        "variable": "buddy_allow_to_contact_me"
+    },
+    {
+        "id": 10040,
+        "file": "components\/ILIAS\/Contact\/src\/UserSettings\/AllowContactRequest.php",
+        "line": 68,
+        "code": "$lng->txt('buddy_allow_to_contact_me_info')",
+        "has_variable": false,
+        "variable": "buddy_allow_to_contact_me_info"
+    },
+    {
+        "id": 10042,
+        "file": "components\/ILIAS\/Contact\/src\/UserSettings\/AllowContactRequest.php",
+        "line": 82,
+        "code": "$lng->txt('buddy_allow_to_contact_me')",
+        "has_variable": false,
+        "variable": "buddy_allow_to_contact_me"
+    },
+    {
+        "id": 10044,
+        "file": "components\/ILIAS\/Contact\/src\/UserSettings\/AllowContactRequest.php",
+        "line": 96,
+        "code": "$lng->txt('buddy_allow_to_contact_me_yes')",
+        "has_variable": false,
+        "variable": "buddy_allow_to_contact_me_yes"
+    },
+    {
+        "id": 10046,
+        "file": "components\/ILIAS\/Contact\/src\/UserSettings\/AllowContactRequest.php",
+        "line": 97,
+        "code": "$lng->txt('buddy_allow_to_contact_me_no')",
+        "has_variable": false,
+        "variable": "buddy_allow_to_contact_me_no"
+    }
+]

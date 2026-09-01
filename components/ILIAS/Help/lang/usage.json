@@ -1,0 +1,1122 @@
+[
+    {
+        "id": 19904,
+        "file": "components\/ILIAS\/Help\/Administration\/class.ilHelpModuleTableGUI.php",
+        "line": 52,
+        "code": "$lng->txt(\"help_modules\")",
+        "has_variable": false,
+        "variable": "help_modules"
+    },
+    {
+        "id": 19906,
+        "file": "components\/ILIAS\/Help\/Administration\/class.ilHelpModuleTableGUI.php",
+        "line": 55,
+        "code": "$this->lng->txt(\"help_order\")",
+        "has_variable": false,
+        "variable": "help_order"
+    },
+    {
+        "id": 19908,
+        "file": "components\/ILIAS\/Help\/Administration\/class.ilHelpModuleTableGUI.php",
+        "line": 56,
+        "code": "$this->lng->txt(\"title\")",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 19910,
+        "file": "components\/ILIAS\/Help\/Administration\/class.ilHelpModuleTableGUI.php",
+        "line": 57,
+        "code": "$this->lng->txt(\"help_imported_on\")",
+        "has_variable": false,
+        "variable": "help_imported_on"
+    },
+    {
+        "id": 19912,
+        "file": "components\/ILIAS\/Help\/Administration\/class.ilHelpModuleTableGUI.php",
+        "line": 58,
+        "code": "$this->lng->txt(\"active\")",
+        "has_variable": false,
+        "variable": "active"
+    },
+    {
+        "id": 19914,
+        "file": "components\/ILIAS\/Help\/Administration\/class.ilHelpModuleTableGUI.php",
+        "line": 59,
+        "code": "$this->lng->txt(\"actions\")",
+        "has_variable": false,
+        "variable": "actions"
+    },
+    {
+        "id": 19916,
+        "file": "components\/ILIAS\/Help\/Administration\/class.ilHelpModuleTableGUI.php",
+        "line": 64,
+        "code": "$lng->txt(\"sorting_save\")",
+        "has_variable": false,
+        "variable": "sorting_save"
+    },
+    {
+        "id": 19918,
+        "file": "components\/ILIAS\/Help\/Administration\/class.ilHelpModuleTableGUI.php",
+        "line": 65,
+        "code": "$lng->txt(\"delete\")",
+        "has_variable": false,
+        "variable": "delete"
+    },
+    {
+        "id": 19920,
+        "file": "components\/ILIAS\/Help\/Administration\/class.ilHelpModuleTableGUI.php",
+        "line": 83,
+        "code": "$lng->txt(\"deactivate\")",
+        "has_variable": false,
+        "variable": "deactivate"
+    },
+    {
+        "id": 19922,
+        "file": "components\/ILIAS\/Help\/Administration\/class.ilHelpModuleTableGUI.php",
+        "line": 89,
+        "code": "$lng->txt(\"activate\")",
+        "has_variable": false,
+        "variable": "activate"
+    },
+    {
+        "id": 19924,
+        "file": "components\/ILIAS\/Help\/Administration\/class.ilHelpModuleTableGUI.php",
+        "line": 103,
+        "code": "$this->lng->txt(\"yes\")",
+        "has_variable": false,
+        "variable": "yes"
+    },
+    {
+        "id": 19926,
+        "file": "components\/ILIAS\/Help\/Administration\/class.ilHelpModuleTableGUI.php",
+        "line": 105,
+        "code": "$this->lng->txt(\"no\")",
+        "has_variable": false,
+        "variable": "no"
+    },
+    {
+        "id": 19928,
+        "file": "components\/ILIAS\/Help\/Administration\/class.ilObjHelpSettingsGUI.php",
+        "line": 73,
+        "code": "$this->lng->txt('no_permission')",
+        "has_variable": false,
+        "variable": "no_permission"
+    },
+    {
+        "id": 19930,
+        "file": "components\/ILIAS\/Help\/Administration\/class.ilObjHelpSettingsGUI.php",
+        "line": 112,
+        "code": "$this->lng->txt(\"help_help_file\")",
+        "has_variable": false,
+        "variable": "help_help_file"
+    },
+    {
+        "id": 19932,
+        "file": "components\/ILIAS\/Help\/Administration\/class.ilObjHelpSettingsGUI.php",
+        "line": 115,
+        "code": "$this->lng->txt(\"upload\")",
+        "has_variable": false,
+        "variable": "upload"
+    },
+    {
+        "id": 19934,
+        "file": "components\/ILIAS\/Help\/Administration\/class.ilObjHelpSettingsGUI.php",
+        "line": 120,
+        "code": "$this->lng->txt(\"help_tooltips_and_help\")",
+        "has_variable": false,
+        "variable": "help_tooltips_and_help"
+    },
+    {
+        "id": 19936,
+        "file": "components\/ILIAS\/Help\/Administration\/class.ilObjHelpSettingsGUI.php",
+        "line": 121,
+        "code": "$this->lng->txt(\"help_help_only\")",
+        "has_variable": false,
+        "variable": "help_help_only"
+    },
+    {
+        "id": 19938,
+        "file": "components\/ILIAS\/Help\/Administration\/class.ilObjHelpSettingsGUI.php",
+        "line": 122,
+        "code": "$this->lng->txt(\"help_tooltips_only\")",
+        "has_variable": false,
+        "variable": "help_tooltips_only"
+    },
+    {
+        "id": 19940,
+        "file": "components\/ILIAS\/Help\/Administration\/class.ilObjHelpSettingsGUI.php",
+        "line": 124,
+        "code": "$this->lng->txt(\"help_mode\")",
+        "has_variable": false,
+        "variable": "help_mode"
+    },
+    {
+        "id": 19942,
+        "file": "components\/ILIAS\/Help\/Administration\/class.ilObjHelpSettingsGUI.php",
+        "line": 129,
+        "code": "$this->lng->txt(\"help_set_mode\")",
+        "has_variable": false,
+        "variable": "help_set_mode"
+    },
+    {
+        "id": 19944,
+        "file": "components\/ILIAS\/Help\/Administration\/class.ilObjHelpSettingsGUI.php",
+        "line": 143,
+        "code": "$this->lng->txt(\"settings\")",
+        "has_variable": false,
+        "variable": "settings"
+    },
+    {
+        "id": 19946,
+        "file": "components\/ILIAS\/Help\/Administration\/class.ilObjHelpSettingsGUI.php",
+        "line": 148,
+        "code": "$this->lng->txt(\"guided_tour\")",
+        "has_variable": false,
+        "variable": "guided_tour"
+    },
+    {
+        "id": 19948,
+        "file": "components\/ILIAS\/Help\/Administration\/class.ilObjHelpSettingsGUI.php",
+        "line": 156,
+        "code": "$this->lng->txt(\"perm_settings\")",
+        "has_variable": false,
+        "variable": "perm_settings"
+    },
+    {
+        "id": 19950,
+        "file": "components\/ILIAS\/Help\/Administration\/class.ilObjHelpSettingsGUI.php",
+        "line": 165,
+        "code": "$this->lng->txt(\"help_select_a_file\")",
+        "has_variable": false,
+        "variable": "help_select_a_file"
+    },
+    {
+        "id": 19952,
+        "file": "components\/ILIAS\/Help\/Administration\/class.ilObjHelpSettingsGUI.php",
+        "line": 170,
+        "code": "$this->lng->txt(\"help_module_uploaded\")",
+        "has_variable": false,
+        "variable": "help_module_uploaded"
+    },
+    {
+        "id": 19954,
+        "file": "components\/ILIAS\/Help\/Administration\/class.ilObjHelpSettingsGUI.php",
+        "line": 183,
+        "code": "$this->lng->txt(\"no_checkbox\")",
+        "has_variable": false,
+        "variable": "no_checkbox"
+    },
+    {
+        "id": 19956,
+        "file": "components\/ILIAS\/Help\/Administration\/class.ilObjHelpSettingsGUI.php",
+        "line": 188,
+        "code": "$this->lng->txt(\"help_sure_delete_help_modules\")",
+        "has_variable": false,
+        "variable": "help_sure_delete_help_modules"
+    },
+    {
+        "id": 19958,
+        "file": "components\/ILIAS\/Help\/Administration\/class.ilObjHelpSettingsGUI.php",
+        "line": 189,
+        "code": "$this->lng->txt(\"cancel\")",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 19960,
+        "file": "components\/ILIAS\/Help\/Administration\/class.ilObjHelpSettingsGUI.php",
+        "line": 190,
+        "code": "$this->lng->txt(\"delete\")",
+        "has_variable": false,
+        "variable": "delete"
+    },
+    {
+        "id": 19962,
+        "file": "components\/ILIAS\/Help\/Administration\/class.ilObjHelpSettingsGUI.php",
+        "line": 214,
+        "code": "$this->lng->txt(\"msg_obj_modified\")",
+        "has_variable": false,
+        "variable": "msg_obj_modified"
+    },
+    {
+        "id": 19964,
+        "file": "components\/ILIAS\/Help\/Administration\/class.ilObjHelpSettingsGUI.php",
+        "line": 222,
+        "code": "$this->lng->txt(\"msg_obj_modified\")",
+        "has_variable": false,
+        "variable": "msg_obj_modified"
+    },
+    {
+        "id": 19966,
+        "file": "components\/ILIAS\/Help\/Administration\/class.ilObjHelpSettingsGUI.php",
+        "line": 234,
+        "code": "$this->lng->txt(\"msg_obj_modified\")",
+        "has_variable": false,
+        "variable": "msg_obj_modified"
+    },
+    {
+        "id": 19968,
+        "file": "components\/ILIAS\/Help\/Administration\/class.ilObjHelpSettingsGUI.php",
+        "line": 244,
+        "code": "$this->lng->txt(\"msg_obj_modified\")",
+        "has_variable": false,
+        "variable": "msg_obj_modified"
+    },
+    {
+        "id": 19970,
+        "file": "components\/ILIAS\/Help\/GlobalScreen\/classes\/class.ilHelpGSToolProvider.php",
+        "line": 57,
+        "code": "$lng->txt(\"help\")",
+        "has_variable": false,
+        "variable": "help"
+    },
+    {
+        "id": 19972,
+        "file": "components\/ILIAS\/Help\/GuidedTour\/Admin\/class.ilGuidedTourAdminGUI.php",
+        "line": 73,
+        "code": "$lng->txt(\"gdtr_edit_page_info\")",
+        "has_variable": false,
+        "variable": "gdtr_edit_page_info"
+    },
+    {
+        "id": 19974,
+        "file": "components\/ILIAS\/Help\/GuidedTour\/Admin\/class.ilGuidedTourAdminGUI.php",
+        "line": 122,
+        "code": "$lng->txt(\"gdtr_guided_tours\")",
+        "has_variable": false,
+        "variable": "gdtr_guided_tours"
+    },
+    {
+        "id": 19976,
+        "file": "components\/ILIAS\/Help\/GuidedTour\/Admin\/class.ilGuidedTourAdminGUI.php",
+        "line": 128,
+        "code": "$lng->txt(\"gdtr_tour_steps\")",
+        "has_variable": false,
+        "variable": "gdtr_tour_steps"
+    },
+    {
+        "id": 19978,
+        "file": "components\/ILIAS\/Help\/GuidedTour\/Admin\/class.ilGuidedTourAdminGUI.php",
+        "line": 133,
+        "code": "$lng->txt(\"settings\")",
+        "has_variable": false,
+        "variable": "settings"
+    },
+    {
+        "id": 19980,
+        "file": "components\/ILIAS\/Help\/GuidedTour\/Admin\/class.ilGuidedTourAdminGUI.php",
+        "line": 138,
+        "code": "$lng->txt(\"export\")",
+        "has_variable": false,
+        "variable": "export"
+    },
+    {
+        "id": 19982,
+        "file": "components\/ILIAS\/Help\/GuidedTour\/Admin\/class.ilGuidedTourAdminGUI.php",
+        "line": 155,
+        "code": "$lng->txt(\"back\")",
+        "has_variable": false,
+        "variable": "back"
+    },
+    {
+        "id": 19984,
+        "file": "components\/ILIAS\/Help\/GuidedTour\/Admin\/class.ilGuidedTourAdminGUI.php",
+        "line": 195,
+        "code": "$lng->txt(\"gdtr_list_tours_mess\")",
+        "has_variable": false,
+        "variable": "gdtr_list_tours_mess"
+    },
+    {
+        "id": 19986,
+        "file": "components\/ILIAS\/Help\/GuidedTour\/Admin\/class.ilGuidedTourAdminGUI.php",
+        "line": 199,
+        "code": "$lng->txt(\"gdtr_add_tour\")",
+        "has_variable": false,
+        "variable": "gdtr_add_tour"
+    },
+    {
+        "id": 19988,
+        "file": "components\/ILIAS\/Help\/GuidedTour\/Admin\/class.ilGuidedTourAdminGUI.php",
+        "line": 204,
+        "code": "$lng->txt(\"gdtr_import_tour\")",
+        "has_variable": false,
+        "variable": "gdtr_import_tour"
+    },
+    {
+        "id": 19990,
+        "file": "components\/ILIAS\/Help\/GuidedTour\/Admin\/class.ilGuidedTourAdminGUI.php",
+        "line": 216,
+        "code": "$lng->txt(\"gdtr_edit_steps\")",
+        "has_variable": false,
+        "variable": "gdtr_edit_steps"
+    },
+    {
+        "id": 19992,
+        "file": "components\/ILIAS\/Help\/GuidedTour\/Admin\/class.ilGuidedTourAdminGUI.php",
+        "line": 220,
+        "code": "$lng->txt(\"gdtr_tour_settings\")",
+        "has_variable": false,
+        "variable": "gdtr_tour_settings"
+    },
+    {
+        "id": 19994,
+        "file": "components\/ILIAS\/Help\/GuidedTour\/Admin\/class.ilGuidedTourAdminGUI.php",
+        "line": 225,
+        "code": "$lng->txt(\"gdtr_reset_tour\")",
+        "has_variable": false,
+        "variable": "gdtr_reset_tour"
+    },
+    {
+        "id": 19996,
+        "file": "components\/ILIAS\/Help\/GuidedTour\/Admin\/class.ilGuidedTourAdminGUI.php",
+        "line": 231,
+        "code": "$lng->txt(\"gdtr_delete_tour\")",
+        "has_variable": false,
+        "variable": "gdtr_delete_tour"
+    },
+    {
+        "id": 19998,
+        "file": "components\/ILIAS\/Help\/GuidedTour\/Admin\/class.ilGuidedTourAdminGUI.php",
+        "line": 237,
+        "code": "$lng->txt(\"active\")",
+        "has_variable": false,
+        "variable": "active"
+    },
+    {
+        "id": 20000,
+        "file": "components\/ILIAS\/Help\/GuidedTour\/Admin\/class.ilGuidedTourAdminGUI.php",
+        "line": 238,
+        "code": "$lng->txt(\"yes\")",
+        "has_variable": false,
+        "variable": "yes"
+    },
+    {
+        "id": 20002,
+        "file": "components\/ILIAS\/Help\/GuidedTour\/Admin\/class.ilGuidedTourAdminGUI.php",
+        "line": 239,
+        "code": "$lng->txt(\"no\")",
+        "has_variable": false,
+        "variable": "no"
+    },
+    {
+        "id": 20004,
+        "file": "components\/ILIAS\/Help\/GuidedTour\/Admin\/class.ilGuidedTourAdminGUI.php",
+        "line": 250,
+        "code": "$lng->txt(\"gdtr_guided_tours\")",
+        "has_variable": false,
+        "variable": "gdtr_guided_tours"
+    },
+    {
+        "id": 20006,
+        "file": "components\/ILIAS\/Help\/GuidedTour\/Admin\/class.ilGuidedTourAdminGUI.php",
+        "line": 275,
+        "code": "$lng->txt(\"gdtr_reset_tour\")",
+        "has_variable": false,
+        "variable": "gdtr_reset_tour"
+    },
+    {
+        "id": 20008,
+        "file": "components\/ILIAS\/Help\/GuidedTour\/Admin\/class.ilGuidedTourAdminGUI.php",
+        "line": 276,
+        "code": "$lng->txt(\"gdtr_reset_tour_mess\")",
+        "has_variable": false,
+        "variable": "gdtr_reset_tour_mess"
+    },
+    {
+        "id": 20010,
+        "file": "components\/ILIAS\/Help\/GuidedTour\/Admin\/class.ilGuidedTourAdminGUI.php",
+        "line": 279,
+        "code": "$lng->txt(\"gdtr_reset_tour\")",
+        "has_variable": false,
+        "variable": "gdtr_reset_tour"
+    },
+    {
+        "id": 20012,
+        "file": "components\/ILIAS\/Help\/GuidedTour\/Admin\/class.ilGuidedTourAdminGUI.php",
+        "line": 292,
+        "code": "$lng->txt(\"gdtr_tour_has_been_reset\")",
+        "has_variable": false,
+        "variable": "gdtr_tour_has_been_reset"
+    },
+    {
+        "id": 20014,
+        "file": "components\/ILIAS\/Help\/GuidedTour\/Admin\/class.ilGuidedTourAdminGUI.php",
+        "line": 313,
+        "code": "$lng->txt(\"gdtr_delete_tour\")",
+        "has_variable": false,
+        "variable": "gdtr_delete_tour"
+    },
+    {
+        "id": 20016,
+        "file": "components\/ILIAS\/Help\/GuidedTour\/Admin\/class.ilGuidedTourAdminGUI.php",
+        "line": 314,
+        "code": "$lng->txt(\"gdtr_delete_tour_mess\")",
+        "has_variable": false,
+        "variable": "gdtr_delete_tour_mess"
+    },
+    {
+        "id": 20018,
+        "file": "components\/ILIAS\/Help\/GuidedTour\/Admin\/class.ilGuidedTourAdminGUI.php",
+        "line": 329,
+        "code": "$lng->txt(\"gdtr_deleted_tour\")",
+        "has_variable": false,
+        "variable": "gdtr_deleted_tour"
+    },
+    {
+        "id": 20020,
+        "file": "components\/ILIAS\/Help\/GuidedTour\/Admin\/class.ilGuidedTourAdminGUI.php",
+        "line": 337,
+        "code": "$lng->txt(\"gdtr_add_tour\")",
+        "has_variable": false,
+        "variable": "gdtr_add_tour"
+    },
+    {
+        "id": 20022,
+        "file": "components\/ILIAS\/Help\/GuidedTour\/Admin\/class.ilGuidedTourAdminGUI.php",
+        "line": 359,
+        "code": "$lng->txt(\"msg_obj_modified\")",
+        "has_variable": false,
+        "variable": "msg_obj_modified"
+    },
+    {
+        "id": 20024,
+        "file": "components\/ILIAS\/Help\/GuidedTour\/Admin\/class.ilGuidedTourAdminGUI.php",
+        "line": 391,
+        "code": "$lng->txt(\"settings\")",
+        "has_variable": false,
+        "variable": "settings"
+    },
+    {
+        "id": 20026,
+        "file": "components\/ILIAS\/Help\/GuidedTour\/Admin\/class.ilGuidedTourAdminGUI.php",
+        "line": 395,
+        "code": "$lng->txt(\"gdtr_active\")",
+        "has_variable": false,
+        "variable": "gdtr_active"
+    },
+    {
+        "id": 20028,
+        "file": "components\/ILIAS\/Help\/GuidedTour\/Admin\/class.ilGuidedTourAdminGUI.php",
+        "line": 399,
+        "code": "$lng->txt(\"gdtr_presentation_limitation\")",
+        "has_variable": false,
+        "variable": "gdtr_presentation_limitation"
+    },
+    {
+        "id": 20030,
+        "file": "components\/ILIAS\/Help\/GuidedTour\/Admin\/class.ilGuidedTourAdminGUI.php",
+        "line": 402,
+        "code": "$lng->txt(\"gdtr_screen_ids\")",
+        "has_variable": false,
+        "variable": "gdtr_screen_ids"
+    },
+    {
+        "id": 20032,
+        "file": "components\/ILIAS\/Help\/GuidedTour\/Admin\/class.ilGuidedTourAdminGUI.php",
+        "line": 403,
+        "code": "$lng->txt(\"gdtr_screen_ids_info\")",
+        "has_variable": false,
+        "variable": "gdtr_screen_ids_info"
+    },
+    {
+        "id": 20034,
+        "file": "components\/ILIAS\/Help\/GuidedTour\/Admin\/class.ilGuidedTourAdminGUI.php",
+        "line": 408,
+        "code": "$lng->txt(\"gdtr_permission\")",
+        "has_variable": false,
+        "variable": "gdtr_permission"
+    },
+    {
+        "id": 20036,
+        "file": "components\/ILIAS\/Help\/GuidedTour\/Admin\/class.ilGuidedTourAdminGUI.php",
+        "line": 410,
+        "code": "$lng->txt(\"read\")",
+        "has_variable": false,
+        "variable": "read"
+    },
+    {
+        "id": 20038,
+        "file": "components\/ILIAS\/Help\/GuidedTour\/Admin\/class.ilGuidedTourAdminGUI.php",
+        "line": 411,
+        "code": "$lng->txt(\"write\")",
+        "has_variable": false,
+        "variable": "write"
+    },
+    {
+        "id": 20040,
+        "file": "components\/ILIAS\/Help\/GuidedTour\/Admin\/class.ilGuidedTourAdminGUI.php",
+        "line": 412,
+        "code": "$lng->txt(\"create\")",
+        "has_variable": false,
+        "variable": "create"
+    },
+    {
+        "id": 20042,
+        "file": "components\/ILIAS\/Help\/GuidedTour\/Admin\/class.ilGuidedTourAdminGUI.php",
+        "line": 414,
+        "code": "$lng->txt(\"gdtr_permission_info\")",
+        "has_variable": false,
+        "variable": "gdtr_permission_info"
+    },
+    {
+        "id": 20044,
+        "file": "components\/ILIAS\/Help\/GuidedTour\/Admin\/class.ilGuidedTourAdminGUI.php",
+        "line": 419,
+        "code": "$lng->txt(\"gdtr_language\")",
+        "has_variable": false,
+        "variable": "gdtr_language"
+    },
+    {
+        "id": 20046,
+        "file": "components\/ILIAS\/Help\/GuidedTour\/Admin\/class.ilGuidedTourAdminGUI.php",
+        "line": 421,
+        "code": "$lng->txt(\"gdtr_language_info\")",
+        "has_variable": false,
+        "variable": "gdtr_language_info"
+    },
+    {
+        "id": 20048,
+        "file": "components\/ILIAS\/Help\/GuidedTour\/Admin\/class.ilGuidedTourAdminGUI.php",
+        "line": 448,
+        "code": "$lng->txt(\"msg_obj_modified\")",
+        "has_variable": false,
+        "variable": "msg_obj_modified"
+    },
+    {
+        "id": 20050,
+        "file": "components\/ILIAS\/Help\/GuidedTour\/Admin\/class.ilGuidedTourAdminGUI.php",
+        "line": 463,
+        "code": "$lng->txt(\"guided_tour\")",
+        "has_variable": false,
+        "variable": "guided_tour"
+    },
+    {
+        "id": 20052,
+        "file": "components\/ILIAS\/Help\/GuidedTour\/Admin\/class.ilGuidedTourAdminGUI.php",
+        "line": 467,
+        "code": "$lng->txt(\"back\")",
+        "has_variable": false,
+        "variable": "back"
+    },
+    {
+        "id": 20054,
+        "file": "components\/ILIAS\/Help\/GuidedTour\/Admin\/class.ilGuidedTourAdminGUI.php",
+        "line": 479,
+        "code": "$lng->txt(\"back\")",
+        "has_variable": false,
+        "variable": "back"
+    },
+    {
+        "id": 20056,
+        "file": "components\/ILIAS\/Help\/GuidedTour\/Admin\/class.ilGuidedTourAdminGUI.php",
+        "line": 500,
+        "code": "$lng->txt(\"gdtr_add_step\")",
+        "has_variable": false,
+        "variable": "gdtr_add_step"
+    },
+    {
+        "id": 20058,
+        "file": "components\/ILIAS\/Help\/GuidedTour\/Admin\/class.ilGuidedTourAdminGUI.php",
+        "line": 529,
+        "code": "$lng->txt(\"gdtr_edit_step_info\")",
+        "has_variable": false,
+        "variable": "gdtr_edit_step_info"
+    },
+    {
+        "id": 20060,
+        "file": "components\/ILIAS\/Help\/GuidedTour\/Admin\/class.ilGuidedTourAdminGUI.php",
+        "line": 547,
+        "code": "$lng->txt(\"gdtr_step\")",
+        "has_variable": false,
+        "variable": "gdtr_step"
+    },
+    {
+        "id": 20062,
+        "file": "components\/ILIAS\/Help\/GuidedTour\/Admin\/class.ilGuidedTourAdminGUI.php",
+        "line": 548,
+        "code": "$lng->txt(\"gdtr_step_type\")",
+        "has_variable": false,
+        "variable": "gdtr_step_type"
+    },
+    {
+        "id": 20064,
+        "file": "components\/ILIAS\/Help\/GuidedTour\/Admin\/class.ilGuidedTourAdminGUI.php",
+        "line": 549,
+        "code": "$lng->txt(\"gdtr_mainbar\")",
+        "has_variable": false,
+        "variable": "gdtr_mainbar"
+    },
+    {
+        "id": 20066,
+        "file": "components\/ILIAS\/Help\/GuidedTour\/Admin\/class.ilGuidedTourAdminGUI.php",
+        "line": 549,
+        "code": "$lng->txt(\"gdtr_mainbar_info\")",
+        "has_variable": false,
+        "variable": "gdtr_mainbar_info"
+    },
+    {
+        "id": 20068,
+        "file": "components\/ILIAS\/Help\/GuidedTour\/Admin\/class.ilGuidedTourAdminGUI.php",
+        "line": 550,
+        "code": "$lng->txt(\"gdtr_element_id\")",
+        "has_variable": false,
+        "variable": "gdtr_element_id"
+    },
+    {
+        "id": 20070,
+        "file": "components\/ILIAS\/Help\/GuidedTour\/Admin\/class.ilGuidedTourAdminGUI.php",
+        "line": 551,
+        "code": "$lng->txt(\"gdtr_metabar\")",
+        "has_variable": false,
+        "variable": "gdtr_metabar"
+    },
+    {
+        "id": 20072,
+        "file": "components\/ILIAS\/Help\/GuidedTour\/Admin\/class.ilGuidedTourAdminGUI.php",
+        "line": 551,
+        "code": "$lng->txt(\"gdtr_metabar_info\")",
+        "has_variable": false,
+        "variable": "gdtr_metabar_info"
+    },
+    {
+        "id": 20074,
+        "file": "components\/ILIAS\/Help\/GuidedTour\/Admin\/class.ilGuidedTourAdminGUI.php",
+        "line": 552,
+        "code": "$lng->txt(\"gdtr_element_id\")",
+        "has_variable": false,
+        "variable": "gdtr_element_id"
+    },
+    {
+        "id": 20076,
+        "file": "components\/ILIAS\/Help\/GuidedTour\/Admin\/class.ilGuidedTourAdminGUI.php",
+        "line": 553,
+        "code": "$lng->txt(\"gdtr_tabs\")",
+        "has_variable": false,
+        "variable": "gdtr_tabs"
+    },
+    {
+        "id": 20078,
+        "file": "components\/ILIAS\/Help\/GuidedTour\/Admin\/class.ilGuidedTourAdminGUI.php",
+        "line": 553,
+        "code": "$lng->txt(\"gdtr_tabs_info\")",
+        "has_variable": false,
+        "variable": "gdtr_tabs_info"
+    },
+    {
+        "id": 20080,
+        "file": "components\/ILIAS\/Help\/GuidedTour\/Admin\/class.ilGuidedTourAdminGUI.php",
+        "line": 554,
+        "code": "$lng->txt(\"gdtr_element_id\")",
+        "has_variable": false,
+        "variable": "gdtr_element_id"
+    },
+    {
+        "id": 20082,
+        "file": "components\/ILIAS\/Help\/GuidedTour\/Admin\/class.ilGuidedTourAdminGUI.php",
+        "line": 555,
+        "code": "$lng->txt(\"gdtr_form\")",
+        "has_variable": false,
+        "variable": "gdtr_form"
+    },
+    {
+        "id": 20084,
+        "file": "components\/ILIAS\/Help\/GuidedTour\/Admin\/class.ilGuidedTourAdminGUI.php",
+        "line": 555,
+        "code": "$lng->txt(\"gdtr_form_info\")",
+        "has_variable": false,
+        "variable": "gdtr_form_info"
+    },
+    {
+        "id": 20086,
+        "file": "components\/ILIAS\/Help\/GuidedTour\/Admin\/class.ilGuidedTourAdminGUI.php",
+        "line": 556,
+        "code": "$lng->txt(\"gdtr_table\")",
+        "has_variable": false,
+        "variable": "gdtr_table"
+    },
+    {
+        "id": 20088,
+        "file": "components\/ILIAS\/Help\/GuidedTour\/Admin\/class.ilGuidedTourAdminGUI.php",
+        "line": 556,
+        "code": "$lng->txt(\"gdtr_table_info\")",
+        "has_variable": false,
+        "variable": "gdtr_table_info"
+    },
+    {
+        "id": 20090,
+        "file": "components\/ILIAS\/Help\/GuidedTour\/Admin\/class.ilGuidedTourAdminGUI.php",
+        "line": 557,
+        "code": "$lng->txt(\"gdtr_toolbar\")",
+        "has_variable": false,
+        "variable": "gdtr_toolbar"
+    },
+    {
+        "id": 20092,
+        "file": "components\/ILIAS\/Help\/GuidedTour\/Admin\/class.ilGuidedTourAdminGUI.php",
+        "line": 557,
+        "code": "$lng->txt(\"gdtr_toolbar_info\")",
+        "has_variable": false,
+        "variable": "gdtr_toolbar_info"
+    },
+    {
+        "id": 20094,
+        "file": "components\/ILIAS\/Help\/GuidedTour\/Admin\/class.ilGuidedTourAdminGUI.php",
+        "line": 558,
+        "code": "$lng->txt(\"gdtr_primary_button\")",
+        "has_variable": false,
+        "variable": "gdtr_primary_button"
+    },
+    {
+        "id": 20096,
+        "file": "components\/ILIAS\/Help\/GuidedTour\/Admin\/class.ilGuidedTourAdminGUI.php",
+        "line": 558,
+        "code": "$lng->txt(\"gdtr_primary_button_info\")",
+        "has_variable": false,
+        "variable": "gdtr_primary_button_info"
+    },
+    {
+        "id": 20098,
+        "file": "components\/ILIAS\/Help\/GuidedTour\/Admin\/class.ilGuidedTourAdminGUI.php",
+        "line": 607,
+        "code": "$lng->txt(\"gdtr_edit_step_info\")",
+        "has_variable": false,
+        "variable": "gdtr_edit_step_info"
+    },
+    {
+        "id": 20100,
+        "file": "components\/ILIAS\/Help\/GuidedTour\/Admin\/class.ilGuidedTourAdminGUI.php",
+        "line": 632,
+        "code": "$lng->txt(\"gdtr_tours\")",
+        "has_variable": false,
+        "variable": "gdtr_tours"
+    },
+    {
+        "id": 20102,
+        "file": "components\/ILIAS\/Help\/GuidedTour\/Admin\/class.ilGuidedTourAdminGUI.php",
+        "line": 637,
+        "code": "$lng->txt(\"gdtr_id_settings\")",
+        "has_variable": false,
+        "variable": "gdtr_id_settings"
+    },
+    {
+        "id": 20104,
+        "file": "components\/ILIAS\/Help\/GuidedTour\/Admin\/class.ilGuidedTourAdminGUI.php",
+        "line": 657,
+        "code": "$lng->txt(\"gdtr_id_settings\")",
+        "has_variable": false,
+        "variable": "gdtr_id_settings"
+    },
+    {
+        "id": 20106,
+        "file": "components\/ILIAS\/Help\/GuidedTour\/Admin\/class.ilGuidedTourAdminGUI.php",
+        "line": 660,
+        "code": "$lng->txt(\"gdtr_id_pres_users\")",
+        "has_variable": false,
+        "variable": "gdtr_id_pres_users"
+    },
+    {
+        "id": 20108,
+        "file": "components\/ILIAS\/Help\/GuidedTour\/Admin\/class.ilGuidedTourAdminGUI.php",
+        "line": 661,
+        "code": "$lng->txt(\"gdtr_id_pres_users_info\")",
+        "has_variable": false,
+        "variable": "gdtr_id_pres_users_info"
+    },
+    {
+        "id": 20110,
+        "file": "components\/ILIAS\/Help\/GuidedTour\/Admin\/class.ilGuidedTourAdminGUI.php",
+        "line": 679,
+        "code": "$lng->txt(\"msg_obj_modified\")",
+        "has_variable": false,
+        "variable": "msg_obj_modified"
+    },
+    {
+        "id": 20112,
+        "file": "components\/ILIAS\/Help\/GuidedTour\/Admin\/class.ilGuidedTourAdminGUI.php",
+        "line": 701,
+        "code": "$lng->txt(\"msg_obj_modified\")",
+        "has_variable": false,
+        "variable": "msg_obj_modified"
+    },
+    {
+        "id": 20114,
+        "file": "components\/ILIAS\/Help\/GuidedTour\/Admin\/class.ilGuidedTourAdminGUI.php",
+        "line": 718,
+        "code": "$lng->txt(\"gdtr_delete_step\")",
+        "has_variable": false,
+        "variable": "gdtr_delete_step"
+    },
+    {
+        "id": 20116,
+        "file": "components\/ILIAS\/Help\/GuidedTour\/Admin\/class.ilGuidedTourAdminGUI.php",
+        "line": 719,
+        "code": "$lng->txt(\"gdtr_delete_step_mess\")",
+        "has_variable": false,
+        "variable": "gdtr_delete_step_mess"
+    },
+    {
+        "id": 20118,
+        "file": "components\/ILIAS\/Help\/GuidedTour\/Admin\/class.ilGuidedTourAdminGUI.php",
+        "line": 739,
+        "code": "$lng->txt(\"gdtr_deleted_step\")",
+        "has_variable": false,
+        "variable": "gdtr_deleted_step"
+    },
+    {
+        "id": 20120,
+        "file": "components\/ILIAS\/Help\/GuidedTour\/Admin\/class.ilGuidedTourAdminGUI.php",
+        "line": 753,
+        "code": "$lng->txt(\"gdtr_import_tour\")",
+        "has_variable": false,
+        "variable": "gdtr_import_tour"
+    },
+    {
+        "id": 20122,
+        "file": "components\/ILIAS\/Help\/GuidedTour\/Admin\/class.ilGuidedTourAdminGUI.php",
+        "line": 756,
+        "code": "$lng->txt(\"import_file\")",
+        "has_variable": false,
+        "variable": "import_file"
+    },
+    {
+        "id": 20124,
+        "file": "components\/ILIAS\/Help\/GuidedTour\/Page\/class.ilGuidedTourPageGUI.php",
+        "line": 73,
+        "code": "$lng->txt(\"gdtr_next_step\")",
+        "has_variable": false,
+        "variable": "gdtr_next_step"
+    },
+    {
+        "id": 20126,
+        "file": "components\/ILIAS\/Help\/GuidedTour\/Page\/class.ilGuidedTourPageGUI.php",
+        "line": 77,
+        "code": "$lng->txt(\"gdtr_close\")",
+        "has_variable": false,
+        "variable": "gdtr_close"
+    },
+    {
+        "id": 20128,
+        "file": "components\/ILIAS\/Help\/GuidedTour\/Step\/StepManager.php",
+        "line": 58,
+        "code": "$lng->txt(\"gdtr_mainbar\")",
+        "has_variable": false,
+        "variable": "gdtr_mainbar"
+    },
+    {
+        "id": 20130,
+        "file": "components\/ILIAS\/Help\/GuidedTour\/Step\/StepManager.php",
+        "line": 59,
+        "code": "$lng->txt(\"gdtr_metabar\")",
+        "has_variable": false,
+        "variable": "gdtr_metabar"
+    },
+    {
+        "id": 20132,
+        "file": "components\/ILIAS\/Help\/GuidedTour\/Step\/StepManager.php",
+        "line": 60,
+        "code": "$lng->txt(\"gdtr_tabs\")",
+        "has_variable": false,
+        "variable": "gdtr_tabs"
+    },
+    {
+        "id": 20134,
+        "file": "components\/ILIAS\/Help\/GuidedTour\/Step\/StepManager.php",
+        "line": 61,
+        "code": "$lng->txt(\"gdtr_form\")",
+        "has_variable": false,
+        "variable": "gdtr_form"
+    },
+    {
+        "id": 20136,
+        "file": "components\/ILIAS\/Help\/GuidedTour\/Step\/StepManager.php",
+        "line": 62,
+        "code": "$lng->txt(\"gdtr_table\")",
+        "has_variable": false,
+        "variable": "gdtr_table"
+    },
+    {
+        "id": 20138,
+        "file": "components\/ILIAS\/Help\/GuidedTour\/Step\/StepManager.php",
+        "line": 63,
+        "code": "$lng->txt(\"gdtr_primary_button\")",
+        "has_variable": false,
+        "variable": "gdtr_primary_button"
+    },
+    {
+        "id": 20140,
+        "file": "components\/ILIAS\/Help\/GuidedTour\/Step\/StepManager.php",
+        "line": 64,
+        "code": "$lng->txt(\"gdtr_toolbar\")",
+        "has_variable": false,
+        "variable": "gdtr_toolbar"
+    },
+    {
+        "id": 20142,
+        "file": "components\/ILIAS\/Help\/GuidedTour\/Step\/StepTableBuilder.php",
+        "line": 74,
+        "code": "$lng->txt(\"gdtr_type\")",
+        "has_variable": false,
+        "variable": "gdtr_type"
+    },
+    {
+        "id": 20144,
+        "file": "components\/ILIAS\/Help\/GuidedTour\/Step\/StepTableBuilder.php",
+        "line": 75,
+        "code": "$lng->txt(\"gdtr_element_id\")",
+        "has_variable": false,
+        "variable": "gdtr_element_id"
+    },
+    {
+        "id": 20146,
+        "file": "components\/ILIAS\/Help\/GuidedTour\/Step\/StepTableBuilder.php",
+        "line": 76,
+        "code": "$lng->txt(\"gdtr_edit_properties\")",
+        "has_variable": false,
+        "variable": "gdtr_edit_properties"
+    },
+    {
+        "id": 20148,
+        "file": "components\/ILIAS\/Help\/GuidedTour\/Step\/StepTableBuilder.php",
+        "line": 77,
+        "code": "$lng->txt(\"gdtr_edit_content\")",
+        "has_variable": false,
+        "variable": "gdtr_edit_content"
+    },
+    {
+        "id": 20150,
+        "file": "components\/ILIAS\/Help\/GuidedTour\/Step\/StepTableBuilder.php",
+        "line": 78,
+        "code": "$lng->txt(\"delete\")",
+        "has_variable": false,
+        "variable": "delete"
+    },
+    {
+        "id": 20152,
+        "file": "components\/ILIAS\/Help\/Tooltips\/TooltipsManager.php",
+        "line": 153,
+        "code": "$this->lng->txt(\"help_all\")",
+        "has_variable": false,
+        "variable": "help_all"
+    },
+    {
+        "id": 20154,
+        "file": "components\/ILIAS\/Help\/UserSettings\/Help.php",
+        "line": 53,
+        "code": "$lng->txt('help_toggle_tooltips')",
+        "has_variable": false,
+        "variable": "help_toggle_tooltips"
+    },
+    {
+        "id": 20156,
+        "file": "components\/ILIAS\/Help\/UserSettings\/Help.php",
+        "line": 75,
+        "code": "$lng->txt('help_toggle_tooltips')",
+        "has_variable": false,
+        "variable": "help_toggle_tooltips"
+    },
+    {
+        "id": 20158,
+        "file": "components\/ILIAS\/Help\/UserSettings\/Help.php",
+        "line": 76,
+        "code": "$lng->txt('help_toggle_tooltips_info')",
+        "has_variable": false,
+        "variable": "help_toggle_tooltips_info"
+    },
+    {
+        "id": 20160,
+        "file": "components\/ILIAS\/Help\/UserSettings\/Help.php",
+        "line": 90,
+        "code": "$lng->txt('help_toggle_tooltips')",
+        "has_variable": false,
+        "variable": "help_toggle_tooltips"
+    },
+    {
+        "id": 20162,
+        "file": "components\/ILIAS\/Help\/UserSettings\/Help.php",
+        "line": 91,
+        "code": "$lng->txt('help_toggle_tooltips_info')",
+        "has_variable": false,
+        "variable": "help_toggle_tooltips_info"
+    },
+    {
+        "id": 20164,
+        "file": "components\/ILIAS\/Help\/UserSettings\/Help.php",
+        "line": 104,
+        "code": "$lng->txt('inactive')",
+        "has_variable": false,
+        "variable": "inactive"
+    },
+    {
+        "id": 20166,
+        "file": "components\/ILIAS\/Help\/classes\/class.ilHelpGUI.php",
+        "line": 216,
+        "code": "$lng->txt(\"help\")",
+        "has_variable": false,
+        "variable": "help"
+    },
+    {
+        "id": 20168,
+        "file": "components\/ILIAS\/Help\/classes\/class.ilHelpGUI.php",
+        "line": 220,
+        "code": "$this->lng->txt(\"help_search_label\")",
+        "has_variable": false,
+        "variable": "help_search_label"
+    },
+    {
+        "id": 20170,
+        "file": "components\/ILIAS\/Help\/classes\/class.ilHelpGUI.php",
+        "line": 226,
+        "code": "$lng->txt(\"help_no_content\")",
+        "has_variable": false,
+        "variable": "help_no_content"
+    },
+    {
+        "id": 20172,
+        "file": "components\/ILIAS\/Help\/classes\/class.ilHelpGUI.php",
+        "line": 246,
+        "code": "$lng->txt(\"back\")",
+        "has_variable": false,
+        "variable": "back"
+    },
+    {
+        "id": 20174,
+        "file": "components\/ILIAS\/Help\/classes\/class.ilHelpGUI.php",
+        "line": 253,
+        "code": "$lng->txt(\"back\")",
+        "has_variable": false,
+        "variable": "back"
+    },
+    {
+        "id": 20176,
+        "file": "components\/ILIAS\/Help\/classes\/class.ilHelpGUI.php",
+        "line": 440,
+        "code": "$lng->txt(\"back\")",
+        "has_variable": false,
+        "variable": "back"
+    },
+    {
+        "id": 20178,
+        "file": "components\/ILIAS\/Help\/classes\/class.ilHelpGUI.php",
+        "line": 446,
+        "code": "$lng->txt(\"help\")",
+        "has_variable": false,
+        "variable": "help"
+    },
+    {
+        "id": 20180,
+        "file": "components\/ILIAS\/Help\/classes\/class.ilHelpGUI.php",
+        "line": 447,
+        "code": "$lng->txt(\"search_result\")",
+        "has_variable": false,
+        "variable": "search_result"
+    },
+    {
+        "id": 20182,
+        "file": "components\/ILIAS\/Help\/classes\/class.ilHelpGUI.php",
+        "line": 451,
+        "code": "$this->lng->txt(\"help_search_label\")",
+        "has_variable": false,
+        "variable": "help_search_label"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "id": 14252,
+        "file": "components\/ILIAS\/Excel\/classes\/class.ilExcel.php",
+        "line": 224,
+        "code": "$lng->txt('yes')",
+        "has_variable": false,
+        "variable": "yes"
+    },
+    {
+        "id": 14254,
+        "file": "components\/ILIAS\/Excel\/classes\/class.ilExcel.php",
+        "line": 224,
+        "code": "$lng->txt('no')",
+        "has_variable": false,
+        "variable": "no"
+    }
+]

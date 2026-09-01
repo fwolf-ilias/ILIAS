@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "type": "full",
+        "count": 8,
+        "description": "Variable usages without detectable prefixes or suffixes (pure variable references without static strings)"
+    },
+    "matches": [
+        {
+            "id": 27106,
+            "file": "components\/ILIAS\/Membership\/classes\/Export\/class.ilMemberExport.php",
+            "line": 265,
+            "code": "$this->lng->txt($field)",
+            "variable": "$field",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 27108,
+            "file": "components\/ILIAS\/Membership\/classes\/Export\/class.ilMemberExport.php",
+            "line": 266,
+            "code": "$this->lng->txt($field)",
+            "variable": "$field",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 27166,
+            "file": "components\/ILIAS\/Membership\/classes\/Export\/class.ilMemberExportGUI.php",
+            "line": 141,
+            "code": "$this->lng->txt($field)",
+            "variable": "$field",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 27196,
+            "file": "components\/ILIAS\/Membership\/classes\/Export\/class.ilMemberExportSettingsGUI.php",
+            "line": 115,
+            "code": "$this->lng->txt($field)",
+            "variable": "$field",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 27258,
+            "file": "components\/ILIAS\/Membership\/classes\/class.ilMemberAgreementGUI.php",
+            "line": 139,
+            "code": "$lng->txt($field)",
+            "variable": "$field",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 27540,
+            "file": "components\/ILIAS\/Membership\/classes\/class.ilMembershipRegistrationSettingsGUI.php",
+            "line": 179,
+            "code": "$this->txt(ilSessionConstants::NOTIFICATION_INHERIT_OPTION)",
+            "variable": "S",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 27544,
+            "file": "components\/ILIAS\/Membership\/classes\/class.ilMembershipRegistrationSettingsGUI.php",
+            "line": 186,
+            "code": "$this->txt(ilSessionConstants::NOTIFICATION_MANUAL_OPTION)",
+            "variable": "S",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 27548,
+            "file": "components\/ILIAS\/Membership\/classes\/class.ilMembershipRegistrationSettingsGUI.php",
+            "line": 204,
+            "code": "$this->lng->txt($prefix . '_' . $a_lang_key)",
+            "variable": "$prefix . '_' . $a_lang_key",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        }
+    ]
+}

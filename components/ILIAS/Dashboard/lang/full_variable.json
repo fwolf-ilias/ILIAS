@@ -1,0 +1,64 @@
+{
+    "metadata": {
+        "type": "full",
+        "count": 5,
+        "description": "Variable usages without detectable prefixes or suffixes (pure variable references without static strings)"
+    },
+    "matches": [
+        {
+            "id": 12816,
+            "file": "components\/ILIAS\/Dashboard\/Administration\/classes\/class.ilObjDashboardSettingsGUI.php",
+            "line": 177,
+            "code": "$this->lng->txt(self::DASH_SORT_PREFIX . $s)",
+            "variable": "self::DASH_SORT_PREFIX . $s",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 12860,
+            "file": "components\/ILIAS\/Dashboard\/Administration\/classes\/class.ilObjDashboardSettingsGUI.php",
+            "line": 425,
+            "code": "$this->lng->txt(self::DASH_SORT_PREFIX . $name)",
+            "variable": "self::DASH_SORT_PREFIX . $name",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 12862,
+            "file": "components\/ILIAS\/Dashboard\/Administration\/classes\/class.ilObjDashboardSettingsGUI.php",
+            "line": 435,
+            "code": "$this->lng->txt(self::DASH_SORT_PREFIX . $name)",
+            "variable": "self::DASH_SORT_PREFIX . $name",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 12876,
+            "file": "components\/ILIAS\/Dashboard\/Block\/classes\/class.ilDashboardBlockGUI.php",
+            "line": 384,
+            "code": "$this->lng->txt(ilObjDashboardSettingsGUI::DASH_SORT_PREFIX . $sorting)",
+            "variable": "ilObjDashboardSettingsGUI::DASH_SORT_PREFIX . $sorting",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 12908,
+            "file": "components\/ILIAS\/Dashboard\/ItemsBlock\/classes\/class.ilDashObjectsTableGUI.php",
+            "line": 36,
+            "code": "$this->lng->txt('')",
+            "variable": "",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        }
+    ]
+}

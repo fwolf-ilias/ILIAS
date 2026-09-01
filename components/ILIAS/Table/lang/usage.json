@@ -1,0 +1,458 @@
+[
+    {
+        "id": 39222,
+        "file": "components\/ILIAS\/Table\/classes\/class.ilTable2GUI.php",
+        "line": 528,
+        "code": "$lng->txt($id)",
+        "has_variable": true,
+        "variable": "$id"
+    },
+    {
+        "id": 39224,
+        "file": "components\/ILIAS\/Table\/classes\/class.ilTable2GUI.php",
+        "line": 554,
+        "code": "$lng->txt(\"trac_all\")",
+        "has_variable": false,
+        "variable": "trac_all"
+    },
+    {
+        "id": 39226,
+        "file": "components\/ILIAS\/Table\/classes\/class.ilTable2GUI.php",
+        "line": 556,
+        "code": "$lng->txt(\"meta_l_\" . $lang_key)",
+        "has_variable": true,
+        "variable": "\"meta_l_\" . $lang_key"
+    },
+    {
+        "id": 39228,
+        "file": "components\/ILIAS\/Table\/classes\/class.ilTable2GUI.php",
+        "line": 565,
+        "code": "$lng->txt(\"from\")",
+        "has_variable": false,
+        "variable": "from"
+    },
+    {
+        "id": 39230,
+        "file": "components\/ILIAS\/Table\/classes\/class.ilTable2GUI.php",
+        "line": 568,
+        "code": "$lng->txt(\"to\")",
+        "has_variable": false,
+        "variable": "to"
+    },
+    {
+        "id": 39232,
+        "file": "components\/ILIAS\/Table\/classes\/class.ilTable2GUI.php",
+        "line": 577,
+        "code": "$lng->txt(\"from\")",
+        "has_variable": false,
+        "variable": "from"
+    },
+    {
+        "id": 39234,
+        "file": "components\/ILIAS\/Table\/classes\/class.ilTable2GUI.php",
+        "line": 579,
+        "code": "$lng->txt(\"to\")",
+        "has_variable": false,
+        "variable": "to"
+    },
+    {
+        "id": 39236,
+        "file": "components\/ILIAS\/Table\/classes\/class.ilTable2GUI.php",
+        "line": 587,
+        "code": "$lng->txt(\"from\")",
+        "has_variable": false,
+        "variable": "from"
+    },
+    {
+        "id": 39238,
+        "file": "components\/ILIAS\/Table\/classes\/class.ilTable2GUI.php",
+        "line": 590,
+        "code": "$lng->txt(\"to\")",
+        "has_variable": false,
+        "variable": "to"
+    },
+    {
+        "id": 39240,
+        "file": "components\/ILIAS\/Table\/classes\/class.ilTable2GUI.php",
+        "line": 601,
+        "code": "$lng->txt(\"from\")",
+        "has_variable": false,
+        "variable": "from"
+    },
+    {
+        "id": 39242,
+        "file": "components\/ILIAS\/Table\/classes\/class.ilTable2GUI.php",
+        "line": 606,
+        "code": "$lng->txt(\"to\")",
+        "has_variable": false,
+        "variable": "to"
+    },
+    {
+        "id": 39244,
+        "file": "components\/ILIAS\/Table\/classes\/class.ilTable2GUI.php",
+        "line": 1046,
+        "code": "$lng->txt(\"select_all\")",
+        "has_variable": false,
+        "variable": "select_all"
+    },
+    {
+        "id": 39246,
+        "file": "components\/ILIAS\/Table\/classes\/class.ilTable2GUI.php",
+        "line": 1062,
+        "code": "$this->lng->txt(\"tbl_selection\")",
+        "has_variable": false,
+        "variable": "tbl_selection"
+    },
+    {
+        "id": 39248,
+        "file": "components\/ILIAS\/Table\/classes\/class.ilTable2GUI.php",
+        "line": 1090,
+        "code": "$lng->txt(\"action\")",
+        "has_variable": false,
+        "variable": "action"
+    },
+    {
+        "id": 39250,
+        "file": "components\/ILIAS\/Table\/classes\/class.ilTable2GUI.php",
+        "line": 1105,
+        "code": "$this->lng->txt(\"sorting_asc\")",
+        "has_variable": false,
+        "variable": "sorting_asc"
+    },
+    {
+        "id": 39252,
+        "file": "components\/ILIAS\/Table\/classes\/class.ilTable2GUI.php",
+        "line": 1108,
+        "code": "$this->lng->txt(\"sorting_desc\")",
+        "has_variable": false,
+        "variable": "sorting_desc"
+    },
+    {
+        "id": 39254,
+        "file": "components\/ILIAS\/Table\/classes\/class.ilTable2GUI.php",
+        "line": 1110,
+        "code": "$this->lng->txt(\"change_sort_direction\")",
+        "has_variable": false,
+        "variable": "change_sort_direction"
+    },
+    {
+        "id": 39256,
+        "file": "components\/ILIAS\/Table\/classes\/class.ilTable2GUI.php",
+        "line": 1129,
+        "code": "$this->lng->txt(\"sort_by_this_column\")",
+        "has_variable": false,
+        "variable": "sort_by_this_column"
+    },
+    {
+        "id": 39258,
+        "file": "components\/ILIAS\/Table\/classes\/class.ilTable2GUI.php",
+        "line": 1138,
+        "code": "$this->lng->txt(\"sort_ascending_long\")",
+        "has_variable": false,
+        "variable": "sort_ascending_long"
+    },
+    {
+        "id": 39260,
+        "file": "components\/ILIAS\/Table\/classes\/class.ilTable2GUI.php",
+        "line": 1140,
+        "code": "$this->lng->txt(\"sort_descending_long\")",
+        "has_variable": false,
+        "variable": "sort_descending_long"
+    },
+    {
+        "id": 39262,
+        "file": "components\/ILIAS\/Table\/classes\/class.ilTable2GUI.php",
+        "line": 1302,
+        "code": "$this->lng->txt(\"previous\")",
+        "has_variable": false,
+        "variable": "previous"
+    },
+    {
+        "id": 39264,
+        "file": "components\/ILIAS\/Table\/classes\/class.ilTable2GUI.php",
+        "line": 1302,
+        "code": "$this->lng->txt(\"next\")",
+        "has_variable": false,
+        "variable": "next"
+    },
+    {
+        "id": 39266,
+        "file": "components\/ILIAS\/Table\/classes\/class.ilTable2GUI.php",
+        "line": 1350,
+        "code": "$lng->txt(\"no_items\")",
+        "has_variable": false,
+        "variable": "no_items"
+    },
+    {
+        "id": 39268,
+        "file": "components\/ILIAS\/Table\/classes\/class.ilTable2GUI.php",
+        "line": 1458,
+        "code": "$lng->txt(\"close\")",
+        "has_variable": false,
+        "variable": "close"
+    },
+    {
+        "id": 39270,
+        "file": "components\/ILIAS\/Table\/classes\/class.ilTable2GUI.php",
+        "line": 1566,
+        "code": "$lng->txt(\"optional_filters\")",
+        "has_variable": false,
+        "variable": "optional_filters"
+    },
+    {
+        "id": 39272,
+        "file": "components\/ILIAS\/Table\/classes\/class.ilTable2GUI.php",
+        "line": 1585,
+        "code": "$lng->txt(\"filter\")",
+        "has_variable": false,
+        "variable": "filter"
+    },
+    {
+        "id": 39274,
+        "file": "components\/ILIAS\/Table\/classes\/class.ilTable2GUI.php",
+        "line": 1599,
+        "code": "$lng->txt(\"apply_filter\")",
+        "has_variable": false,
+        "variable": "apply_filter"
+    },
+    {
+        "id": 39276,
+        "file": "components\/ILIAS\/Table\/classes\/class.ilTable2GUI.php",
+        "line": 1602,
+        "code": "$lng->txt(\"reset_filter\")",
+        "has_variable": false,
+        "variable": "reset_filter"
+    },
+    {
+        "id": 39278,
+        "file": "components\/ILIAS\/Table\/classes\/class.ilTable2GUI.php",
+        "line": 1605,
+        "code": "$lng->txt('optional_filter_hint')",
+        "has_variable": false,
+        "variable": "optional_filter_hint"
+    },
+    {
+        "id": 39280,
+        "file": "components\/ILIAS\/Table\/classes\/class.ilTable2GUI.php",
+        "line": 1748,
+        "code": "$lng->txt(\"select_all\")",
+        "has_variable": false,
+        "variable": "select_all"
+    },
+    {
+        "id": 39282,
+        "file": "components\/ILIAS\/Table\/classes\/class.ilTable2GUI.php",
+        "line": 1769,
+        "code": "$this->lng->txt(\"of\")",
+        "has_variable": false,
+        "variable": "of"
+    },
+    {
+        "id": 39284,
+        "file": "components\/ILIAS\/Table\/classes\/class.ilTable2GUI.php",
+        "line": 1803,
+        "code": "$lng->txt(\"columns\")",
+        "has_variable": false,
+        "variable": "columns"
+    },
+    {
+        "id": 39286,
+        "file": "components\/ILIAS\/Table\/classes\/class.ilTable2GUI.php",
+        "line": 1828,
+        "code": "$lng->txt(\"show_filter\")",
+        "has_variable": false,
+        "variable": "show_filter"
+    },
+    {
+        "id": 39288,
+        "file": "components\/ILIAS\/Table\/classes\/class.ilTable2GUI.php",
+        "line": 1839,
+        "code": "$lng->txt(\"hide_filter\")",
+        "has_variable": false,
+        "variable": "hide_filter"
+    },
+    {
+        "id": 39290,
+        "file": "components\/ILIAS\/Table\/classes\/class.ilTable2GUI.php",
+        "line": 1883,
+        "code": "$lng->txt(\"rows\")",
+        "has_variable": false,
+        "variable": "rows"
+    },
+    {
+        "id": 39292,
+        "file": "components\/ILIAS\/Table\/classes\/class.ilTable2GUI.php",
+        "line": 1896,
+        "code": "$lng->txt($caption_lng_id)",
+        "has_variable": true,
+        "variable": "$caption_lng_id"
+    },
+    {
+        "id": 39294,
+        "file": "components\/ILIAS\/Table\/classes\/class.ilTable2GUI.php",
+        "line": 1900,
+        "code": "$lng->txt(\"export\")",
+        "has_variable": false,
+        "variable": "export"
+    },
+    {
+        "id": 39296,
+        "file": "components\/ILIAS\/Table\/classes\/class.ilTable2GUI.php",
+        "line": 1930,
+        "code": "$lng->txt(\"previous\")",
+        "has_variable": false,
+        "variable": "previous"
+    },
+    {
+        "id": 39298,
+        "file": "components\/ILIAS\/Table\/classes\/class.ilTable2GUI.php",
+        "line": 1931,
+        "code": "$lng->txt(\"next\")",
+        "has_variable": false,
+        "variable": "next"
+    },
+    {
+        "id": 39300,
+        "file": "components\/ILIAS\/Table\/classes\/class.ilTable2GUI.php",
+        "line": 1992,
+        "code": "$lng->txt(\"page\")",
+        "has_variable": false,
+        "variable": "page"
+    },
+    {
+        "id": 39302,
+        "file": "components\/ILIAS\/Table\/classes\/class.ilTable2GUI.php",
+        "line": 2172,
+        "code": "$lng->txt(\"all_objects\")",
+        "has_variable": false,
+        "variable": "all_objects"
+    },
+    {
+        "id": 39304,
+        "file": "components\/ILIAS\/Table\/classes\/class.ilTable2GUI.php",
+        "line": 2185,
+        "code": "$lng->txt(\"execute\")",
+        "has_variable": false,
+        "variable": "execute"
+    },
+    {
+        "id": 39306,
+        "file": "components\/ILIAS\/Table\/classes\/class.ilTable2GUI.php",
+        "line": 2193,
+        "code": "$lng->txt(\"all_objects\")",
+        "has_variable": false,
+        "variable": "all_objects"
+    },
+    {
+        "id": 39308,
+        "file": "components\/ILIAS\/Table\/classes\/class.ilTable2GUI.php",
+        "line": 2206,
+        "code": "$lng->txt(\"execute\")",
+        "has_variable": false,
+        "variable": "execute"
+    },
+    {
+        "id": 39310,
+        "file": "components\/ILIAS\/Table\/classes\/class.ilTable2GUI.php",
+        "line": 2236,
+        "code": "$lng->txt(\"action\")",
+        "has_variable": false,
+        "variable": "action"
+    },
+    {
+        "id": 39312,
+        "file": "components\/ILIAS\/Table\/classes\/class.ilTable2GUI.php",
+        "line": 2242,
+        "code": "$lng->txt(\"action\")",
+        "has_variable": false,
+        "variable": "action"
+    },
+    {
+        "id": 39314,
+        "file": "components\/ILIAS\/Table\/classes\/class.ilTable2GUI.php",
+        "line": 2464,
+        "code": "$this->lng->txt(\"export\")",
+        "has_variable": false,
+        "variable": "export"
+    },
+    {
+        "id": 39316,
+        "file": "components\/ILIAS\/Table\/classes\/class.ilTableGUI.php",
+        "line": 421,
+        "code": "$this->lng->txt(\"select_all\")",
+        "has_variable": false,
+        "variable": "select_all"
+    },
+    {
+        "id": 39318,
+        "file": "components\/ILIAS\/Table\/classes\/class.ilTableGUI.php",
+        "line": 440,
+        "code": "$this->lng->txt(\"dataset\")",
+        "has_variable": false,
+        "variable": "dataset"
+    },
+    {
+        "id": 39320,
+        "file": "components\/ILIAS\/Table\/classes\/class.ilTableGUI.php",
+        "line": 440,
+        "code": "$this->lng->txt(\"of\")",
+        "has_variable": false,
+        "variable": "of"
+    },
+    {
+        "id": 39322,
+        "file": "components\/ILIAS\/Table\/classes\/class.ilTableGUI.php",
+        "line": 445,
+        "code": "$this->lng->txt(\"no_datasets\")",
+        "has_variable": false,
+        "variable": "no_datasets"
+    },
+    {
+        "id": 39324,
+        "file": "components\/ILIAS\/Table\/classes\/class.ilTableGUI.php",
+        "line": 462,
+        "code": "$this->lng->txt(\"dataset\")",
+        "has_variable": false,
+        "variable": "dataset"
+    },
+    {
+        "id": 39326,
+        "file": "components\/ILIAS\/Table\/classes\/class.ilTableGUI.php",
+        "line": 462,
+        "code": "$this->lng->txt(\"of\")",
+        "has_variable": false,
+        "variable": "of"
+    },
+    {
+        "id": 39328,
+        "file": "components\/ILIAS\/Table\/classes\/class.ilTableGUI.php",
+        "line": 467,
+        "code": "$this->lng->txt(\"no_datasets\")",
+        "has_variable": false,
+        "variable": "no_datasets"
+    },
+    {
+        "id": 39330,
+        "file": "components\/ILIAS\/Table\/classes\/class.ilTableGUI.php",
+        "line": 515,
+        "code": "$this->lng->txt(\"arrow_downright.svg\")",
+        "has_variable": false,
+        "variable": "\"arrow_downright.svg\""
+    },
+    {
+        "id": 39332,
+        "file": "components\/ILIAS\/Table\/classes\/class.ilTableGUI.php",
+        "line": 652,
+        "code": "$this->lng->txt(\"sort_by_this_column\")",
+        "has_variable": false,
+        "variable": "sort_by_this_column"
+    },
+    {
+        "id": 39334,
+        "file": "components\/ILIAS\/Table\/classes\/class.ilTableGUI.php",
+        "line": 660,
+        "code": "$this->lng->txt(\"change_sort_direction\")",
+        "has_variable": false,
+        "variable": "change_sort_direction"
+    }
+]

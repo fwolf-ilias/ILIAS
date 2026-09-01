@@ -1,0 +1,108 @@
+{
+    "metadata": {
+        "type": "full",
+        "count": 9,
+        "description": "Variable usages without detectable prefixes or suffixes (pure variable references without static strings)"
+    },
+    "matches": [
+        {
+            "id": 9610,
+            "file": "components\/ILIAS\/Contact\/BuddySystem\/classes\/class.ilBuddySystemGUI.php",
+            "line": 209,
+            "code": "$this->lng->txt($positiveFeedbackLanguageId)",
+            "variable": "$positiveFeedbackLanguageId",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 9612,
+            "file": "components\/ILIAS\/Contact\/BuddySystem\/classes\/class.ilBuddySystemGUI.php",
+            "line": 212,
+            "code": "$this->lng->txt($e->getMessage())",
+            "variable": "$e->getMessage()",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 9616,
+            "file": "components\/ILIAS\/Contact\/BuddySystem\/classes\/class.ilBuddySystemGUI.php",
+            "line": 275,
+            "code": "$this->lng->txt($e->getMessage())",
+            "variable": "$e->getMessage()",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 9678,
+            "file": "components\/ILIAS\/Contact\/classes\/class.ilContactGUI.php",
+            "line": 189,
+            "code": "$this->lng->txt($mode)",
+            "variable": "$mode",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 9680,
+            "file": "components\/ILIAS\/Contact\/classes\/class.ilContactGUI.php",
+            "line": 210,
+            "code": "$this->lng->txt($active_mode)",
+            "variable": "$active_mode",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 9682,
+            "file": "components\/ILIAS\/Contact\/classes\/class.ilContactGUI.php",
+            "line": 211,
+            "code": "$this->lng->txt($active_mode)",
+            "variable": "$active_mode",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 9714,
+            "file": "components\/ILIAS\/Contact\/classes\/class.ilContactGUI.php",
+            "line": 436,
+            "code": "$this->lng->txt($e->getMessage())",
+            "variable": "$e->getMessage()",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 9742,
+            "file": "components\/ILIAS\/Contact\/classes\/class.ilContactGUI.php",
+            "line": 668,
+            "code": "$this->lng->txt($lang_var)",
+            "variable": "$lang_var",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 9900,
+            "file": "components\/ILIAS\/Contact\/classes\/class.ilMailSearchObjectMembershipsTableGUI.php",
+            "line": 127,
+            "code": "$this->lng->txt($mode['long'])",
+            "variable": "\\$mode",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        }
+    ]
+}

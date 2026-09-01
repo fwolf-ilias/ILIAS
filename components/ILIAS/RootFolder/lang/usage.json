@@ -1,0 +1,74 @@
+[
+    {
+        "id": 32036,
+        "file": "components\/ILIAS\/RootFolder\/classes\/class.ilObjRootFolderGUI.php",
+        "line": 77,
+        "code": "$lng->txt(\"content\")",
+        "has_variable": false,
+        "variable": "content"
+    },
+    {
+        "id": 32038,
+        "file": "components\/ILIAS\/RootFolder\/classes\/class.ilObjRootFolderGUI.php",
+        "line": 244,
+        "code": "$lng->txt(\"repository\")",
+        "has_variable": false,
+        "variable": "repository"
+    },
+    {
+        "id": 32040,
+        "file": "components\/ILIAS\/RootFolder\/classes\/class.ilObjRootFolderGUI.php",
+        "line": 256,
+        "code": "$this->lng->txt(\"settings\")",
+        "has_variable": false,
+        "variable": "settings"
+    },
+    {
+        "id": 32042,
+        "file": "components\/ILIAS\/RootFolder\/classes\/class.ilObjRootFolderGUI.php",
+        "line": 262,
+        "code": "$this->lng->txt(\"obj_multilinguality\")",
+        "has_variable": false,
+        "variable": "obj_multilinguality"
+    },
+    {
+        "id": 32044,
+        "file": "components\/ILIAS\/RootFolder\/classes\/class.ilObjRootFolderGUI.php",
+        "line": 278,
+        "code": "$this->lng->txt('obj_presentation')",
+        "has_variable": false,
+        "variable": "obj_presentation"
+    },
+    {
+        "id": 32046,
+        "file": "components\/ILIAS\/RootFolder\/classes\/class.ilObjRootFolderGUI.php",
+        "line": 297,
+        "code": "$this->lng->txt(\"save\")",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 32048,
+        "file": "components\/ILIAS\/RootFolder\/classes\/class.ilObjRootFolderGUI.php",
+        "line": 298,
+        "code": "$this->lng->txt(\"add_translation\")",
+        "has_variable": false,
+        "variable": "add_translation"
+    },
+    {
+        "id": 32050,
+        "file": "components\/ILIAS\/RootFolder\/classes\/class.ilObjRootFolderGUI.php",
+        "line": 316,
+        "code": "$this->lng->txt(\"msg_no_perm_write\")",
+        "has_variable": false,
+        "variable": "msg_no_perm_write"
+    },
+    {
+        "id": 32052,
+        "file": "components\/ILIAS\/RootFolder\/classes\/class.ilObjRootFolderGUI.php",
+        "line": 335,
+        "code": "$this->lng->txt(\"msg_obj_modified\")",
+        "has_variable": false,
+        "variable": "msg_obj_modified"
+    }
+]

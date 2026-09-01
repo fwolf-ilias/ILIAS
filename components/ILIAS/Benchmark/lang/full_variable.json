@@ -1,0 +1,31 @@
+{
+    "metadata": {
+        "type": "full",
+        "count": 2,
+        "description": "Variable usages without detectable prefixes or suffixes (pure variable references without static strings)"
+    },
+    "matches": [
+        {
+            "id": 3020,
+            "file": "components\/ILIAS\/Benchmark\/classes\/class.ilBenchmarkTableGUI.php",
+            "line": 86,
+            "code": "$lng->txt(\"\")",
+            "variable": "",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 3022,
+            "file": "components\/ILIAS\/Benchmark\/classes\/class.ilBenchmarkTableGUI.php",
+            "line": 87,
+            "code": "$lng->txt(\"\")",
+            "variable": "",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        }
+    ]
+}

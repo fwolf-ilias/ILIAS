@@ -1,0 +1,42 @@
+{
+    "metadata": {
+        "type": "full",
+        "count": 3,
+        "description": "Variable usages without detectable prefixes or suffixes (pure variable references without static strings)"
+    },
+    "matches": [
+        {
+            "id": 18738,
+            "file": "components\/ILIAS\/GlobalScreen\/src\/GUI\/I18n\/Translator.php",
+            "line": 71,
+            "code": "$this->lng->txt($key)",
+            "variable": "$key",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 18740,
+            "file": "components\/ILIAS\/GlobalScreen\/src\/GUI\/I18n\/Translator.php",
+            "line": 74,
+            "code": "$this->lng->txt($key)",
+            "variable": "$key",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 18752,
+            "file": "components\/ILIAS\/GlobalScreen\/src\/Scope\/MainMenu\/Collector\/Renderer\/TopParentItemDrilldownRenderer.php",
+            "line": 123,
+            "code": "$this->lng->txt($key)",
+            "variable": "$key",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        }
+    ]
+}

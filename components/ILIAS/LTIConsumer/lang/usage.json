@@ -1,0 +1,2354 @@
+[
+    {
+        "id": 22010,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/Certificate\/class.ilLTIConsumerPlaceholderDescription.php",
+        "line": 60,
+        "code": "$this->language->txt('lti_cert_ph_object_title')",
+        "has_variable": false,
+        "variable": "lti_cert_ph_object_title"
+    },
+    {
+        "id": 22012,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/Certificate\/class.ilLTIConsumerPlaceholderDescription.php",
+        "line": 63,
+        "code": "$this->language->txt('lti_cert_ph_object_description')",
+        "has_variable": false,
+        "variable": "lti_cert_ph_object_description"
+    },
+    {
+        "id": 22014,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/Certificate\/class.ilLTIConsumerPlaceholderDescription.php",
+        "line": 66,
+        "code": "$this->language->txt('lti_cert_ph_mastery_score')",
+        "has_variable": false,
+        "variable": "lti_cert_ph_mastery_score"
+    },
+    {
+        "id": 22016,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/Certificate\/class.ilLTIConsumerPlaceholderDescription.php",
+        "line": 69,
+        "code": "$this->language->txt('lti_cert_ph_reached_score')",
+        "has_variable": false,
+        "variable": "lti_cert_ph_reached_score"
+    },
+    {
+        "id": 22018,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/Certificate\/class.ilLTIConsumerPlaceholderDescription.php",
+        "line": 72,
+        "code": "$language->txt('certificate_ph_date_completed')",
+        "has_variable": false,
+        "variable": "certificate_ph_date_completed"
+    },
+    {
+        "id": 22020,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/Certificate\/class.ilLTIConsumerPlaceholderDescription.php",
+        "line": 75,
+        "code": "$language->txt('certificate_ph_datetime_completed')",
+        "has_variable": false,
+        "variable": "certificate_ph_datetime_completed"
+    },
+    {
+        "id": 22022,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/Certificate\/class.ilLTIConsumerPlaceholderDescription.php",
+        "line": 93,
+        "code": "$this->language->txt('certificate_ph_introduction')",
+        "has_variable": false,
+        "variable": "certificate_ph_introduction"
+    },
+    {
+        "id": 22024,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/Certificate\/class.ilLTIConsumerPlaceholderValues.php",
+        "line": 112,
+        "code": "$this->language->txt('lti_cert_ph_object_title')",
+        "has_variable": false,
+        "variable": "lti_cert_ph_object_title"
+    },
+    {
+        "id": 22026,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/Certificate\/class.ilLTIConsumerPlaceholderValues.php",
+        "line": 113,
+        "code": "$this->language->txt('lti_cert_ph_object_description')",
+        "has_variable": false,
+        "variable": "lti_cert_ph_object_description"
+    },
+    {
+        "id": 22028,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/Certificate\/class.ilLTIConsumerPlaceholderValues.php",
+        "line": 115,
+        "code": "$this->language->txt('lti_cert_ph_mastery_score')",
+        "has_variable": false,
+        "variable": "lti_cert_ph_mastery_score"
+    },
+    {
+        "id": 22030,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/Certificate\/class.ilLTIConsumerPlaceholderValues.php",
+        "line": 116,
+        "code": "$this->language->txt('lti_cert_ph_reached_score')",
+        "has_variable": false,
+        "variable": "lti_cert_ph_reached_score"
+    },
+    {
+        "id": 22032,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/Verification\/class.ilLTIConsumerVerificationTableGUI.php",
+        "line": 42,
+        "code": "$this->lng->txt(\"title\")",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 22034,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/Verification\/class.ilLTIConsumerVerificationTableGUI.php",
+        "line": 43,
+        "code": "$this->lng->txt(\"passed\")",
+        "has_variable": false,
+        "variable": "passed"
+    },
+    {
+        "id": 22036,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/Verification\/class.ilLTIConsumerVerificationTableGUI.php",
+        "line": 44,
+        "code": "$this->lng->txt(\"action\")",
+        "has_variable": false,
+        "variable": "action"
+    },
+    {
+        "id": 22038,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/Verification\/class.ilLTIConsumerVerificationTableGUI.php",
+        "line": 46,
+        "code": "$this->lng->txt(\"ltiv_create\")",
+        "has_variable": false,
+        "variable": "ltiv_create"
+    },
+    {
+        "id": 22040,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/Verification\/class.ilLTIConsumerVerificationTableGUI.php",
+        "line": 47,
+        "code": "$this->lng->txt(\"ltiv_create_info\")",
+        "has_variable": false,
+        "variable": "ltiv_create_info"
+    },
+    {
+        "id": 22042,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/Verification\/class.ilLTIConsumerVerificationTableGUI.php",
+        "line": 93,
+        "code": "$this->lng->txt(\"yes\")",
+        "has_variable": false,
+        "variable": "yes"
+    },
+    {
+        "id": 22044,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/Verification\/class.ilLTIConsumerVerificationTableGUI.php",
+        "line": 94,
+        "code": "$this->lng->txt(\"no\")",
+        "has_variable": false,
+        "variable": "no"
+    },
+    {
+        "id": 22046,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/Verification\/class.ilLTIConsumerVerificationTableGUI.php",
+        "line": 100,
+        "code": "$this->lng->txt(\"select\")",
+        "has_variable": false,
+        "variable": "select"
+    },
+    {
+        "id": 22048,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/Verification\/class.ilObjLTIConsumerVerificationGUI.php",
+        "line": 47,
+        "code": "$this->lng->txt(\"back\")",
+        "has_variable": false,
+        "variable": "back"
+    },
+    {
+        "id": 22050,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/Verification\/class.ilObjLTIConsumerVerificationGUI.php",
+        "line": 81,
+        "code": "$this->lng->txt('error_creating_certificate_pdf')",
+        "has_variable": false,
+        "variable": "error_creating_certificate_pdf"
+    },
+    {
+        "id": 22052,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/Verification\/class.ilObjLTIConsumerVerificationGUI.php",
+        "line": 93,
+        "code": "$this->lng->txt(\"msg_failed\")",
+        "has_variable": false,
+        "variable": "msg_failed"
+    },
+    {
+        "id": 22054,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/Verification\/class.ilObjLTIConsumerVerificationGUI.php",
+        "line": 96,
+        "code": "$this->lng->txt(\"select_one\")",
+        "has_variable": false,
+        "variable": "select_one"
+    },
+    {
+        "id": 22056,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/Verification\/class.ilObjLTIConsumerVerificationGUI.php",
+        "line": 158,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 22058,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 104,
+        "code": "$this->lng->txt('subtab_provider_settings')",
+        "has_variable": false,
+        "variable": "subtab_provider_settings"
+    },
+    {
+        "id": 22060,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 108,
+        "code": "$this->lng->txt('select')",
+        "has_variable": false,
+        "variable": "select"
+    },
+    {
+        "id": 22062,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 149,
+        "code": "$lng->txt('save')",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 22064,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 150,
+        "code": "$lng->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 22066,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 153,
+        "code": "$lng->txt('lti_form_provider_edit')",
+        "has_variable": false,
+        "variable": "lti_form_provider_edit"
+    },
+    {
+        "id": 22068,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 155,
+        "code": "$lng->txt('lti_form_provider_create')",
+        "has_variable": false,
+        "variable": "lti_form_provider_create"
+    },
+    {
+        "id": 22070,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 158,
+        "code": "$lng->txt('lti_con_prov_title')",
+        "has_variable": false,
+        "variable": "lti_con_prov_title"
+    },
+    {
+        "id": 22072,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 163,
+        "code": "$lng->txt('lti_con_prov_description')",
+        "has_variable": false,
+        "variable": "lti_con_prov_description"
+    },
+    {
+        "id": 22074,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 167,
+        "code": "$lng->txt('lti_con_prov_icon')",
+        "has_variable": false,
+        "variable": "lti_con_prov_icon"
+    },
+    {
+        "id": 22076,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 168,
+        "code": "$lng->txt('obj_tile_image_info')",
+        "has_variable": false,
+        "variable": "obj_tile_image_info"
+    },
+    {
+        "id": 22078,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 179,
+        "code": "$lng->txt('lti_con_prov_availability')",
+        "has_variable": false,
+        "variable": "lti_con_prov_availability"
+    },
+    {
+        "id": 22080,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 183,
+        "code": "$lng->txt('lti_con_prov_availability_create')",
+        "has_variable": false,
+        "variable": "lti_con_prov_availability_create"
+    },
+    {
+        "id": 22082,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 188,
+        "code": "$lng->txt('lti_con_prov_availability_existing')",
+        "has_variable": false,
+        "variable": "lti_con_prov_availability_existing"
+    },
+    {
+        "id": 22084,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 193,
+        "code": "$lng->txt('lti_con_prov_availability_non')",
+        "has_variable": false,
+        "variable": "lti_con_prov_availability_non"
+    },
+    {
+        "id": 22086,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 201,
+        "code": "$lng->txt('lti_con_prov_authentication')",
+        "has_variable": false,
+        "variable": "lti_con_prov_authentication"
+    },
+    {
+        "id": 22088,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 204,
+        "code": "$lng->txt('lti_con_version')",
+        "has_variable": false,
+        "variable": "lti_con_version"
+    },
+    {
+        "id": 22090,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 207,
+        "code": "$lng->txt('lti_con_version_1.3')",
+        "has_variable": false,
+        "variable": "'lti_con_version_1.3'"
+    },
+    {
+        "id": 22092,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 209,
+        "code": "$lng->txt('lti_con_version_1.3_before_id')",
+        "has_variable": false,
+        "variable": "'lti_con_version_1.3_before_id'"
+    },
+    {
+        "id": 22094,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 215,
+        "code": "$this->lng->txt('tab_content')",
+        "has_variable": false,
+        "variable": "tab_content"
+    },
+    {
+        "id": 22096,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 221,
+        "code": "$lng->txt('lti_con_tool_url')",
+        "has_variable": false,
+        "variable": "lti_con_tool_url"
+    },
+    {
+        "id": 22098,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 226,
+        "code": "$lng->txt('lti_con_initiate_login_url')",
+        "has_variable": false,
+        "variable": "lti_con_initiate_login_url"
+    },
+    {
+        "id": 22100,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 231,
+        "code": "$lng->txt('lti_con_redirection_uris')",
+        "has_variable": false,
+        "variable": "lti_con_redirection_uris"
+    },
+    {
+        "id": 22102,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 238,
+        "code": "$lng->txt('lti_con_key_type')",
+        "has_variable": false,
+        "variable": "lti_con_key_type"
+    },
+    {
+        "id": 22104,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 241,
+        "code": "$lng->txt('lti_con_key_type_rsa')",
+        "has_variable": false,
+        "variable": "lti_con_key_type_rsa"
+    },
+    {
+        "id": 22106,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 243,
+        "code": "$lng->txt('lti_con_key_type_rsa_public_key')",
+        "has_variable": false,
+        "variable": "lti_con_key_type_rsa_public_key"
+    },
+    {
+        "id": 22108,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 246,
+        "code": "$lng->txt('lti_con_key_type_rsa_public_key_info')",
+        "has_variable": false,
+        "variable": "lti_con_key_type_rsa_public_key_info"
+    },
+    {
+        "id": 22110,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 250,
+        "code": "$lng->txt('lti_con_key_type_jwk')",
+        "has_variable": false,
+        "variable": "lti_con_key_type_jwk"
+    },
+    {
+        "id": 22112,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 252,
+        "code": "$lng->txt('lti_con_key_type_jwk_url')",
+        "has_variable": false,
+        "variable": "lti_con_key_type_jwk_url"
+    },
+    {
+        "id": 22114,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 260,
+        "code": "$lng->txt('lti_con_content_item')",
+        "has_variable": false,
+        "variable": "lti_con_content_item"
+    },
+    {
+        "id": 22116,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 264,
+        "code": "$lng->txt('lti_con_content_item_url')",
+        "has_variable": false,
+        "variable": "lti_con_content_item_url"
+    },
+    {
+        "id": 22118,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 270,
+        "code": "$lng->txt('lti_con_grade_synchronization')",
+        "has_variable": false,
+        "variable": "lti_con_grade_synchronization"
+    },
+    {
+        "id": 22120,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 271,
+        "code": "$lng->txt('lti_con_grade_synchronization_info')",
+        "has_variable": false,
+        "variable": "lti_con_grade_synchronization_info"
+    },
+    {
+        "id": 22122,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 277,
+        "code": "$lng->txt('lti13_hints')",
+        "has_variable": false,
+        "variable": "lti13_hints"
+    },
+    {
+        "id": 22124,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 294,
+        "code": "$lng->txt('lti_con_version_1.1')",
+        "has_variable": false,
+        "variable": "'lti_con_version_1.1'"
+    },
+    {
+        "id": 22126,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 297,
+        "code": "$lng->txt('lti_con_prov_url')",
+        "has_variable": false,
+        "variable": "lti_con_prov_url"
+    },
+    {
+        "id": 22128,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 302,
+        "code": "$lng->txt('lti_con_prov_provider_key_global')",
+        "has_variable": false,
+        "variable": "lti_con_prov_provider_key_global"
+    },
+    {
+        "id": 22130,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 307,
+        "code": "$lng->txt('lti_con_prov_provider_key_global_info')",
+        "has_variable": false,
+        "variable": "lti_con_prov_provider_key_global_info"
+    },
+    {
+        "id": 22132,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 309,
+        "code": "$lng->txt('lti_con_prov_key')",
+        "has_variable": false,
+        "variable": "lti_con_prov_key"
+    },
+    {
+        "id": 22134,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 314,
+        "code": "$lng->txt('lti_con_prov_secret')",
+        "has_variable": false,
+        "variable": "lti_con_prov_secret"
+    },
+    {
+        "id": 22136,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 323,
+        "code": "$lng->txt('lti_con_prov_privacy_settings')",
+        "has_variable": false,
+        "variable": "lti_con_prov_privacy_settings"
+    },
+    {
+        "id": 22138,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 326,
+        "code": "$lng->txt('conf_privacy_ident')",
+        "has_variable": false,
+        "variable": "conf_privacy_ident"
+    },
+    {
+        "id": 22140,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 328,
+        "code": "$lng->txt('conf_privacy_ident_il_uuid_user_id')",
+        "has_variable": false,
+        "variable": "conf_privacy_ident_il_uuid_user_id"
+    },
+    {
+        "id": 22142,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 331,
+        "code": "$lng->txt('conf_privacy_ident_il_uuid_user_id_info')",
+        "has_variable": false,
+        "variable": "conf_privacy_ident_il_uuid_user_id_info"
+    },
+    {
+        "id": 22144,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 334,
+        "code": "$lng->txt('conf_privacy_ident_il_uuid_login')",
+        "has_variable": false,
+        "variable": "conf_privacy_ident_il_uuid_login"
+    },
+    {
+        "id": 22146,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 337,
+        "code": "$lng->txt('conf_privacy_ident_il_uuid_login_info')",
+        "has_variable": false,
+        "variable": "conf_privacy_ident_il_uuid_login_info"
+    },
+    {
+        "id": 22148,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 340,
+        "code": "$lng->txt('conf_privacy_ident_il_uuid_ext_account')",
+        "has_variable": false,
+        "variable": "conf_privacy_ident_il_uuid_ext_account"
+    },
+    {
+        "id": 22150,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 343,
+        "code": "$lng->txt('conf_privacy_ident_il_uuid_ext_account_info')",
+        "has_variable": false,
+        "variable": "conf_privacy_ident_il_uuid_ext_account_info"
+    },
+    {
+        "id": 22152,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 346,
+        "code": "$lng->txt('conf_privacy_ident_il_uuid_sha256')",
+        "has_variable": false,
+        "variable": "conf_privacy_ident_il_uuid_sha256"
+    },
+    {
+        "id": 22154,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 349,
+        "code": "$lng->txt('conf_privacy_ident_il_uuid_sha256_info')",
+        "has_variable": false,
+        "variable": "conf_privacy_ident_il_uuid_sha256_info"
+    },
+    {
+        "id": 22156,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 352,
+        "code": "$lng->txt('conf_privacy_ident_il_uuid_sha256url')",
+        "has_variable": false,
+        "variable": "conf_privacy_ident_il_uuid_sha256url"
+    },
+    {
+        "id": 22158,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 355,
+        "code": "$lng->txt('conf_privacy_ident_il_uuid_sha256url_info')",
+        "has_variable": false,
+        "variable": "conf_privacy_ident_il_uuid_sha256url_info"
+    },
+    {
+        "id": 22160,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 359,
+        "code": "$lng->txt('conf_privacy_ident_il_uuid_random')",
+        "has_variable": false,
+        "variable": "conf_privacy_ident_il_uuid_random"
+    },
+    {
+        "id": 22162,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 362,
+        "code": "$lng->txt('conf_privacy_ident_il_uuid_random_info')",
+        "has_variable": false,
+        "variable": "conf_privacy_ident_il_uuid_random_info"
+    },
+    {
+        "id": 22164,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 366,
+        "code": "$lng->txt('conf_privacy_ident_real_email')",
+        "has_variable": false,
+        "variable": "conf_privacy_ident_real_email"
+    },
+    {
+        "id": 22166,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 369,
+        "code": "$lng->txt('conf_privacy_ident_real_email_info')",
+        "has_variable": false,
+        "variable": "conf_privacy_ident_real_email_info"
+    },
+    {
+        "id": 22168,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 373,
+        "code": "$lng->txt('conf_privacy_ident_info')",
+        "has_variable": false,
+        "variable": "conf_privacy_ident_info"
+    },
+    {
+        "id": 22170,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 378,
+        "code": "$lng->txt('lti_con_prov_instructor_email')",
+        "has_variable": false,
+        "variable": "lti_con_prov_instructor_email"
+    },
+    {
+        "id": 22172,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 383,
+        "code": "$lng->txt('lti_con_prov_instructor_email_info')",
+        "has_variable": false,
+        "variable": "lti_con_prov_instructor_email_info"
+    },
+    {
+        "id": 22174,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 386,
+        "code": "$lng->txt('conf_privacy_name')",
+        "has_variable": false,
+        "variable": "conf_privacy_name"
+    },
+    {
+        "id": 22176,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 387,
+        "code": "$lng->txt('conf_privacy_name_none')",
+        "has_variable": false,
+        "variable": "conf_privacy_name_none"
+    },
+    {
+        "id": 22178,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 388,
+        "code": "$lng->txt('conf_privacy_name_none_info')",
+        "has_variable": false,
+        "variable": "conf_privacy_name_none_info"
+    },
+    {
+        "id": 22180,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 390,
+        "code": "$lng->txt('conf_privacy_name_firstname')",
+        "has_variable": false,
+        "variable": "conf_privacy_name_firstname"
+    },
+    {
+        "id": 22182,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 391,
+        "code": "$lng->txt('conf_privacy_name_firstname_info')",
+        "has_variable": false,
+        "variable": "conf_privacy_name_firstname_info"
+    },
+    {
+        "id": 22184,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 393,
+        "code": "$lng->txt('conf_privacy_name_lastname')",
+        "has_variable": false,
+        "variable": "conf_privacy_name_lastname"
+    },
+    {
+        "id": 22186,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 394,
+        "code": "$lng->txt('conf_privacy_name_lastname_info')",
+        "has_variable": false,
+        "variable": "conf_privacy_name_lastname_info"
+    },
+    {
+        "id": 22188,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 396,
+        "code": "$lng->txt('conf_privacy_name_fullname')",
+        "has_variable": false,
+        "variable": "conf_privacy_name_fullname"
+    },
+    {
+        "id": 22190,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 397,
+        "code": "$lng->txt('conf_privacy_name_fullname_info')",
+        "has_variable": false,
+        "variable": "conf_privacy_name_fullname_info"
+    },
+    {
+        "id": 22192,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 400,
+        "code": "$lng->txt('conf_privacy_name_info')",
+        "has_variable": false,
+        "variable": "conf_privacy_name_info"
+    },
+    {
+        "id": 22194,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 404,
+        "code": "$lng->txt('lti_con_prov_instructor_name')",
+        "has_variable": false,
+        "variable": "lti_con_prov_instructor_name"
+    },
+    {
+        "id": 22196,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 409,
+        "code": "$lng->txt('lti_con_prov_instructor_name_info')",
+        "has_variable": false,
+        "variable": "lti_con_prov_instructor_name_info"
+    },
+    {
+        "id": 22198,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 412,
+        "code": "$lng->txt('lti_con_prov_inc_usr_pic')",
+        "has_variable": false,
+        "variable": "lti_con_prov_inc_usr_pic"
+    },
+    {
+        "id": 22200,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 413,
+        "code": "$lng->txt('lti_con_prov_inc_usr_pic_info')",
+        "has_variable": false,
+        "variable": "lti_con_prov_inc_usr_pic_info"
+    },
+    {
+        "id": 22202,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 417,
+        "code": "$lng->txt('lti_con_prov_external_provider')",
+        "has_variable": false,
+        "variable": "lti_con_prov_external_provider"
+    },
+    {
+        "id": 22204,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 422,
+        "code": "$lng->txt('lti_con_prov_external_provider_info')",
+        "has_variable": false,
+        "variable": "lti_con_prov_external_provider_info"
+    },
+    {
+        "id": 22206,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 427,
+        "code": "$lng->txt('lti_con_prov_learning_progress_options')",
+        "has_variable": false,
+        "variable": "lti_con_prov_learning_progress_options"
+    },
+    {
+        "id": 22208,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 429,
+        "code": "$lng->txt('lti_con_prov_has_outcome_service')",
+        "has_variable": false,
+        "variable": "lti_con_prov_has_outcome_service"
+    },
+    {
+        "id": 22210,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 434,
+        "code": "$lng->txt('lti_con_prov_has_outcome_service_info')",
+        "has_variable": false,
+        "variable": "lti_con_prov_has_outcome_service_info"
+    },
+    {
+        "id": 22212,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 435,
+        "code": "$lng->txt('lti_con_prov_mastery_score_default')",
+        "has_variable": false,
+        "variable": "lti_con_prov_mastery_score_default"
+    },
+    {
+        "id": 22214,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 436,
+        "code": "$lng->txt('lti_con_prov_mastery_score_default_info')",
+        "has_variable": false,
+        "variable": "lti_con_prov_mastery_score_default_info"
+    },
+    {
+        "id": 22216,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 450,
+        "code": "$lng->txt('lti_con_prov_launch_options')",
+        "has_variable": false,
+        "variable": "lti_con_prov_launch_options"
+    },
+    {
+        "id": 22218,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 453,
+        "code": "$lng->txt('lti_con_prov_use_provider_id')",
+        "has_variable": false,
+        "variable": "lti_con_prov_use_provider_id"
+    },
+    {
+        "id": 22220,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 458,
+        "code": "$lng->txt('lti_con_prov_use_provider_id_info')",
+        "has_variable": false,
+        "variable": "lti_con_prov_use_provider_id_info"
+    },
+    {
+        "id": 22222,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 462,
+        "code": "$lng->txt('lti_con_prov_always_learner')",
+        "has_variable": false,
+        "variable": "lti_con_prov_always_learner"
+    },
+    {
+        "id": 22224,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 467,
+        "code": "$lng->txt('lti_con_prov_always_learner_info')",
+        "has_variable": false,
+        "variable": "lti_con_prov_always_learner_info"
+    },
+    {
+        "id": 22226,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 470,
+        "code": "$lng->txt('lti_con_prov_use_xapi')",
+        "has_variable": false,
+        "variable": "lti_con_prov_use_xapi"
+    },
+    {
+        "id": 22228,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 475,
+        "code": "$lng->txt('lti_con_prov_use_xapi_info')",
+        "has_variable": false,
+        "variable": "lti_con_prov_use_xapi_info"
+    },
+    {
+        "id": 22230,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 477,
+        "code": "$lng->txt('lti_con_prov_xapi_launch_url')",
+        "has_variable": false,
+        "variable": "lti_con_prov_xapi_launch_url"
+    },
+    {
+        "id": 22232,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 479,
+        "code": "$lng->txt('lti_con_prov_xapi_launch_url_info')",
+        "has_variable": false,
+        "variable": "lti_con_prov_xapi_launch_url_info"
+    },
+    {
+        "id": 22234,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 484,
+        "code": "$lng->txt('lti_con_prov_xapi_launch_key')",
+        "has_variable": false,
+        "variable": "lti_con_prov_xapi_launch_key"
+    },
+    {
+        "id": 22236,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 486,
+        "code": "$lng->txt('lti_con_prov_xapi_launch_key_info')",
+        "has_variable": false,
+        "variable": "lti_con_prov_xapi_launch_key_info"
+    },
+    {
+        "id": 22238,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 491,
+        "code": "$lng->txt('lti_con_prov_xapi_launch_secret')",
+        "has_variable": false,
+        "variable": "lti_con_prov_xapi_launch_secret"
+    },
+    {
+        "id": 22240,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 493,
+        "code": "$lng->txt('lti_con_prov_xapi_launch_secret_info')",
+        "has_variable": false,
+        "variable": "lti_con_prov_xapi_launch_secret_info"
+    },
+    {
+        "id": 22242,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 498,
+        "code": "$lng->txt('lti_con_prov_xapi_activity_id')",
+        "has_variable": false,
+        "variable": "lti_con_prov_xapi_activity_id"
+    },
+    {
+        "id": 22244,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 500,
+        "code": "$lng->txt('lti_con_prov_xapi_activity_id_info')",
+        "has_variable": false,
+        "variable": "lti_con_prov_xapi_activity_id_info"
+    },
+    {
+        "id": 22246,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 506,
+        "code": "$lng->txt('lti_con_prov_custom_params')",
+        "has_variable": false,
+        "variable": "lti_con_prov_custom_params"
+    },
+    {
+        "id": 22248,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 510,
+        "code": "$lng->txt('lti_con_prov_custom_params_info')",
+        "has_variable": false,
+        "variable": "lti_con_prov_custom_params_info"
+    },
+    {
+        "id": 22250,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 514,
+        "code": "$lng->txt('lti_con_prov_group_options')",
+        "has_variable": false,
+        "variable": "lti_con_prov_group_options"
+    },
+    {
+        "id": 22252,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 517,
+        "code": "$lng->txt('lti_con_prov_keywords')",
+        "has_variable": false,
+        "variable": "lti_con_prov_keywords"
+    },
+    {
+        "id": 22254,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 519,
+        "code": "$lng->txt('lti_con_prov_keywords_info')",
+        "has_variable": false,
+        "variable": "lti_con_prov_keywords_info"
+    },
+    {
+        "id": 22256,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 523,
+        "code": "$lng->txt('lti_con_prov_category')",
+        "has_variable": false,
+        "variable": "lti_con_prov_category"
+    },
+    {
+        "id": 22258,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 524,
+        "code": "$lng->txt('lti_con_prov_category_info')",
+        "has_variable": false,
+        "variable": "lti_con_prov_category_info"
+    },
+    {
+        "id": 22260,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 533,
+        "code": "$lng->txt('lti_con_prov_hints')",
+        "has_variable": false,
+        "variable": "lti_con_prov_hints"
+    },
+    {
+        "id": 22262,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 536,
+        "code": "$lng->txt('lti_con_prov_remarks')",
+        "has_variable": false,
+        "variable": "lti_con_prov_remarks"
+    },
+    {
+        "id": 22264,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 549,
+        "code": "$lng->txt('save')",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 22266,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 551,
+        "code": "$lng->txt('lti_form_provider_edit')",
+        "has_variable": false,
+        "variable": "lti_form_provider_edit"
+    },
+    {
+        "id": 22268,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 553,
+        "code": "$lng->txt('lti_con_prov_title')",
+        "has_variable": false,
+        "variable": "lti_con_prov_title"
+    },
+    {
+        "id": 22270,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 558,
+        "code": "$lng->txt('lti_con_prov_description')",
+        "has_variable": false,
+        "variable": "lti_con_prov_description"
+    },
+    {
+        "id": 22272,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 562,
+        "code": "$lng->txt('lti_con_prov_icon')",
+        "has_variable": false,
+        "variable": "lti_con_prov_icon"
+    },
+    {
+        "id": 22274,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 563,
+        "code": "$lng->txt('obj_tile_image_info')",
+        "has_variable": false,
+        "variable": "obj_tile_image_info"
+    },
+    {
+        "id": 22276,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 574,
+        "code": "$lng->txt('lti_con_prov_availability')",
+        "has_variable": false,
+        "variable": "lti_con_prov_availability"
+    },
+    {
+        "id": 22278,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 578,
+        "code": "$lng->txt('lti_con_prov_availability_create')",
+        "has_variable": false,
+        "variable": "lti_con_prov_availability_create"
+    },
+    {
+        "id": 22280,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 583,
+        "code": "$lng->txt('lti_con_prov_availability_existing')",
+        "has_variable": false,
+        "variable": "lti_con_prov_availability_existing"
+    },
+    {
+        "id": 22282,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 588,
+        "code": "$lng->txt('lti_con_prov_availability_non')",
+        "has_variable": false,
+        "variable": "lti_con_prov_availability_non"
+    },
+    {
+        "id": 22284,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 596,
+        "code": "$lng->txt('lti_con_prov_authentication')",
+        "has_variable": false,
+        "variable": "lti_con_prov_authentication"
+    },
+    {
+        "id": 22286,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 599,
+        "code": "$lng->txt('lti_con_version')",
+        "has_variable": false,
+        "variable": "lti_con_version"
+    },
+    {
+        "id": 22288,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 602,
+        "code": "$lng->txt('lti_con_version_1.3')",
+        "has_variable": false,
+        "variable": "'lti_con_version_1.3'"
+    },
+    {
+        "id": 22290,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 604,
+        "code": "$lng->txt('lti_con_version_1.3_before_id')",
+        "has_variable": false,
+        "variable": "'lti_con_version_1.3_before_id'"
+    },
+    {
+        "id": 22292,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 607,
+        "code": "$lng->txt('lti_con_tool_url')",
+        "has_variable": false,
+        "variable": "lti_con_tool_url"
+    },
+    {
+        "id": 22294,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 612,
+        "code": "$lng->txt('lti_con_initiate_login_url')",
+        "has_variable": false,
+        "variable": "lti_con_initiate_login_url"
+    },
+    {
+        "id": 22296,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 617,
+        "code": "$lng->txt('lti_con_redirection_uris')",
+        "has_variable": false,
+        "variable": "lti_con_redirection_uris"
+    },
+    {
+        "id": 22298,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 624,
+        "code": "$lng->txt('lti_con_key_type')",
+        "has_variable": false,
+        "variable": "lti_con_key_type"
+    },
+    {
+        "id": 22300,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 627,
+        "code": "$lng->txt('lti_con_key_type_rsa')",
+        "has_variable": false,
+        "variable": "lti_con_key_type_rsa"
+    },
+    {
+        "id": 22302,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 629,
+        "code": "$lng->txt('lti_con_key_type_rsa_public_key')",
+        "has_variable": false,
+        "variable": "lti_con_key_type_rsa_public_key"
+    },
+    {
+        "id": 22304,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 633,
+        "code": "$lng->txt('lti_con_key_type_rsa_public_key_info')",
+        "has_variable": false,
+        "variable": "lti_con_key_type_rsa_public_key_info"
+    },
+    {
+        "id": 22306,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 636,
+        "code": "$lng->txt('lti_con_key_type_jwk')",
+        "has_variable": false,
+        "variable": "lti_con_key_type_jwk"
+    },
+    {
+        "id": 22308,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 638,
+        "code": "$lng->txt('lti_con_key_type_jwk_url')",
+        "has_variable": false,
+        "variable": "lti_con_key_type_jwk_url"
+    },
+    {
+        "id": 22310,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 646,
+        "code": "$lng->txt('lti_con_content_item')",
+        "has_variable": false,
+        "variable": "lti_con_content_item"
+    },
+    {
+        "id": 22312,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 662,
+        "code": "$lng->txt('lti_con_content_item_url')",
+        "has_variable": false,
+        "variable": "lti_con_content_item_url"
+    },
+    {
+        "id": 22314,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 668,
+        "code": "$lng->txt('lti_con_grade_synchronization')",
+        "has_variable": false,
+        "variable": "lti_con_grade_synchronization"
+    },
+    {
+        "id": 22316,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 669,
+        "code": "$lng->txt('lti_con_grade_synchronization_info')",
+        "has_variable": false,
+        "variable": "lti_con_grade_synchronization_info"
+    },
+    {
+        "id": 22318,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 674,
+        "code": "$lng->txt('lti13_hints')",
+        "has_variable": false,
+        "variable": "lti13_hints"
+    },
+    {
+        "id": 22320,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 690,
+        "code": "$lng->txt('lti_con_version_1.1')",
+        "has_variable": false,
+        "variable": "'lti_con_version_1.1'"
+    },
+    {
+        "id": 22322,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 693,
+        "code": "$lng->txt('lti_con_prov_url')",
+        "has_variable": false,
+        "variable": "lti_con_prov_url"
+    },
+    {
+        "id": 22324,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 698,
+        "code": "$lng->txt('lti_con_prov_provider_key_global')",
+        "has_variable": false,
+        "variable": "lti_con_prov_provider_key_global"
+    },
+    {
+        "id": 22326,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 703,
+        "code": "$lng->txt('lti_con_prov_provider_key_global_info')",
+        "has_variable": false,
+        "variable": "lti_con_prov_provider_key_global_info"
+    },
+    {
+        "id": 22328,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 705,
+        "code": "$lng->txt('lti_con_prov_key')",
+        "has_variable": false,
+        "variable": "lti_con_prov_key"
+    },
+    {
+        "id": 22330,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 710,
+        "code": "$lng->txt('lti_con_prov_secret')",
+        "has_variable": false,
+        "variable": "lti_con_prov_secret"
+    },
+    {
+        "id": 22332,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 719,
+        "code": "$lng->txt('lti_con_prov_privacy_settings')",
+        "has_variable": false,
+        "variable": "lti_con_prov_privacy_settings"
+    },
+    {
+        "id": 22334,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 722,
+        "code": "$lng->txt('conf_privacy_ident')",
+        "has_variable": false,
+        "variable": "conf_privacy_ident"
+    },
+    {
+        "id": 22336,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 724,
+        "code": "$lng->txt('conf_privacy_ident_il_uuid_user_id')",
+        "has_variable": false,
+        "variable": "conf_privacy_ident_il_uuid_user_id"
+    },
+    {
+        "id": 22338,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 727,
+        "code": "$lng->txt('conf_privacy_ident_il_uuid_user_id_info')",
+        "has_variable": false,
+        "variable": "conf_privacy_ident_il_uuid_user_id_info"
+    },
+    {
+        "id": 22340,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 730,
+        "code": "$lng->txt('conf_privacy_ident_il_uuid_login')",
+        "has_variable": false,
+        "variable": "conf_privacy_ident_il_uuid_login"
+    },
+    {
+        "id": 22342,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 733,
+        "code": "$lng->txt('conf_privacy_ident_il_uuid_login_info')",
+        "has_variable": false,
+        "variable": "conf_privacy_ident_il_uuid_login_info"
+    },
+    {
+        "id": 22344,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 736,
+        "code": "$lng->txt('conf_privacy_ident_il_uuid_ext_account')",
+        "has_variable": false,
+        "variable": "conf_privacy_ident_il_uuid_ext_account"
+    },
+    {
+        "id": 22346,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 739,
+        "code": "$lng->txt('conf_privacy_ident_il_uuid_ext_account_info')",
+        "has_variable": false,
+        "variable": "conf_privacy_ident_il_uuid_ext_account_info"
+    },
+    {
+        "id": 22348,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 742,
+        "code": "$lng->txt('conf_privacy_ident_il_uuid_sha256')",
+        "has_variable": false,
+        "variable": "conf_privacy_ident_il_uuid_sha256"
+    },
+    {
+        "id": 22350,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 745,
+        "code": "$lng->txt('conf_privacy_ident_il_uuid_sha256_info')",
+        "has_variable": false,
+        "variable": "conf_privacy_ident_il_uuid_sha256_info"
+    },
+    {
+        "id": 22352,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 748,
+        "code": "$lng->txt('conf_privacy_ident_il_uuid_sha256url')",
+        "has_variable": false,
+        "variable": "conf_privacy_ident_il_uuid_sha256url"
+    },
+    {
+        "id": 22354,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 751,
+        "code": "$lng->txt('conf_privacy_ident_il_uuid_sha256url_info')",
+        "has_variable": false,
+        "variable": "conf_privacy_ident_il_uuid_sha256url_info"
+    },
+    {
+        "id": 22356,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 755,
+        "code": "$lng->txt('conf_privacy_ident_il_uuid_random')",
+        "has_variable": false,
+        "variable": "conf_privacy_ident_il_uuid_random"
+    },
+    {
+        "id": 22358,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 758,
+        "code": "$lng->txt('conf_privacy_ident_il_uuid_random_info')",
+        "has_variable": false,
+        "variable": "conf_privacy_ident_il_uuid_random_info"
+    },
+    {
+        "id": 22360,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 762,
+        "code": "$lng->txt('conf_privacy_ident_real_email')",
+        "has_variable": false,
+        "variable": "conf_privacy_ident_real_email"
+    },
+    {
+        "id": 22362,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 765,
+        "code": "$lng->txt('conf_privacy_ident_real_email_info')",
+        "has_variable": false,
+        "variable": "conf_privacy_ident_real_email_info"
+    },
+    {
+        "id": 22364,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 769,
+        "code": "$lng->txt('conf_privacy_ident_info')",
+        "has_variable": false,
+        "variable": "conf_privacy_ident_info"
+    },
+    {
+        "id": 22366,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 774,
+        "code": "$lng->txt('lti_con_prov_instructor_email')",
+        "has_variable": false,
+        "variable": "lti_con_prov_instructor_email"
+    },
+    {
+        "id": 22368,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 779,
+        "code": "$lng->txt('lti_con_prov_instructor_email_info')",
+        "has_variable": false,
+        "variable": "lti_con_prov_instructor_email_info"
+    },
+    {
+        "id": 22370,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 782,
+        "code": "$lng->txt('conf_privacy_name')",
+        "has_variable": false,
+        "variable": "conf_privacy_name"
+    },
+    {
+        "id": 22372,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 783,
+        "code": "$lng->txt('conf_privacy_name_none')",
+        "has_variable": false,
+        "variable": "conf_privacy_name_none"
+    },
+    {
+        "id": 22374,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 784,
+        "code": "$lng->txt('conf_privacy_name_none_info')",
+        "has_variable": false,
+        "variable": "conf_privacy_name_none_info"
+    },
+    {
+        "id": 22376,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 786,
+        "code": "$lng->txt('conf_privacy_name_firstname')",
+        "has_variable": false,
+        "variable": "conf_privacy_name_firstname"
+    },
+    {
+        "id": 22378,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 787,
+        "code": "$lng->txt('conf_privacy_name_firstname_info')",
+        "has_variable": false,
+        "variable": "conf_privacy_name_firstname_info"
+    },
+    {
+        "id": 22380,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 789,
+        "code": "$lng->txt('conf_privacy_name_lastname')",
+        "has_variable": false,
+        "variable": "conf_privacy_name_lastname"
+    },
+    {
+        "id": 22382,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 790,
+        "code": "$lng->txt('conf_privacy_name_lastname_info')",
+        "has_variable": false,
+        "variable": "conf_privacy_name_lastname_info"
+    },
+    {
+        "id": 22384,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 792,
+        "code": "$lng->txt('conf_privacy_name_fullname')",
+        "has_variable": false,
+        "variable": "conf_privacy_name_fullname"
+    },
+    {
+        "id": 22386,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 793,
+        "code": "$lng->txt('conf_privacy_name_fullname_info')",
+        "has_variable": false,
+        "variable": "conf_privacy_name_fullname_info"
+    },
+    {
+        "id": 22388,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 796,
+        "code": "$lng->txt('conf_privacy_name_info')",
+        "has_variable": false,
+        "variable": "conf_privacy_name_info"
+    },
+    {
+        "id": 22390,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 800,
+        "code": "$lng->txt('lti_con_prov_instructor_name')",
+        "has_variable": false,
+        "variable": "lti_con_prov_instructor_name"
+    },
+    {
+        "id": 22392,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 805,
+        "code": "$lng->txt('lti_con_prov_instructor_name_info')",
+        "has_variable": false,
+        "variable": "lti_con_prov_instructor_name_info"
+    },
+    {
+        "id": 22394,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 808,
+        "code": "$lng->txt('lti_con_prov_inc_usr_pic')",
+        "has_variable": false,
+        "variable": "lti_con_prov_inc_usr_pic"
+    },
+    {
+        "id": 22396,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 809,
+        "code": "$lng->txt('lti_con_prov_inc_usr_pic_info')",
+        "has_variable": false,
+        "variable": "lti_con_prov_inc_usr_pic_info"
+    },
+    {
+        "id": 22398,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 813,
+        "code": "$lng->txt('lti_con_prov_external_provider')",
+        "has_variable": false,
+        "variable": "lti_con_prov_external_provider"
+    },
+    {
+        "id": 22400,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 818,
+        "code": "$lng->txt('lti_con_prov_external_provider_info')",
+        "has_variable": false,
+        "variable": "lti_con_prov_external_provider_info"
+    },
+    {
+        "id": 22402,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 823,
+        "code": "$lng->txt('lti_con_prov_learning_progress_options')",
+        "has_variable": false,
+        "variable": "lti_con_prov_learning_progress_options"
+    },
+    {
+        "id": 22404,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 825,
+        "code": "$lng->txt('lti_con_prov_has_outcome_service')",
+        "has_variable": false,
+        "variable": "lti_con_prov_has_outcome_service"
+    },
+    {
+        "id": 22406,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 830,
+        "code": "$lng->txt('lti_con_prov_has_outcome_service_info')",
+        "has_variable": false,
+        "variable": "lti_con_prov_has_outcome_service_info"
+    },
+    {
+        "id": 22408,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 831,
+        "code": "$lng->txt('lti_con_prov_mastery_score_default')",
+        "has_variable": false,
+        "variable": "lti_con_prov_mastery_score_default"
+    },
+    {
+        "id": 22410,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 832,
+        "code": "$lng->txt('lti_con_prov_mastery_score_default_info')",
+        "has_variable": false,
+        "variable": "lti_con_prov_mastery_score_default_info"
+    },
+    {
+        "id": 22412,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 846,
+        "code": "$lng->txt('lti_con_prov_launch_options')",
+        "has_variable": false,
+        "variable": "lti_con_prov_launch_options"
+    },
+    {
+        "id": 22414,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 849,
+        "code": "$lng->txt('lti_con_prov_use_provider_id')",
+        "has_variable": false,
+        "variable": "lti_con_prov_use_provider_id"
+    },
+    {
+        "id": 22416,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 854,
+        "code": "$lng->txt('lti_con_prov_use_provider_id_info')",
+        "has_variable": false,
+        "variable": "lti_con_prov_use_provider_id_info"
+    },
+    {
+        "id": 22418,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 858,
+        "code": "$lng->txt('lti_con_prov_always_learner')",
+        "has_variable": false,
+        "variable": "lti_con_prov_always_learner"
+    },
+    {
+        "id": 22420,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 863,
+        "code": "$lng->txt('lti_con_prov_always_learner_info')",
+        "has_variable": false,
+        "variable": "lti_con_prov_always_learner_info"
+    },
+    {
+        "id": 22422,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 866,
+        "code": "$lng->txt('lti_con_prov_use_xapi')",
+        "has_variable": false,
+        "variable": "lti_con_prov_use_xapi"
+    },
+    {
+        "id": 22424,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 871,
+        "code": "$lng->txt('lti_con_prov_use_xapi_info')",
+        "has_variable": false,
+        "variable": "lti_con_prov_use_xapi_info"
+    },
+    {
+        "id": 22426,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 873,
+        "code": "$lng->txt('lti_con_prov_xapi_launch_url')",
+        "has_variable": false,
+        "variable": "lti_con_prov_xapi_launch_url"
+    },
+    {
+        "id": 22428,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 875,
+        "code": "$lng->txt('lti_con_prov_xapi_launch_url_info')",
+        "has_variable": false,
+        "variable": "lti_con_prov_xapi_launch_url_info"
+    },
+    {
+        "id": 22430,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 880,
+        "code": "$lng->txt('lti_con_prov_xapi_launch_key')",
+        "has_variable": false,
+        "variable": "lti_con_prov_xapi_launch_key"
+    },
+    {
+        "id": 22432,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 882,
+        "code": "$lng->txt('lti_con_prov_xapi_launch_key_info')",
+        "has_variable": false,
+        "variable": "lti_con_prov_xapi_launch_key_info"
+    },
+    {
+        "id": 22434,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 887,
+        "code": "$lng->txt('lti_con_prov_xapi_launch_secret')",
+        "has_variable": false,
+        "variable": "lti_con_prov_xapi_launch_secret"
+    },
+    {
+        "id": 22436,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 889,
+        "code": "$lng->txt('lti_con_prov_xapi_launch_secret_info')",
+        "has_variable": false,
+        "variable": "lti_con_prov_xapi_launch_secret_info"
+    },
+    {
+        "id": 22438,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 894,
+        "code": "$lng->txt('lti_con_prov_xapi_activity_id')",
+        "has_variable": false,
+        "variable": "lti_con_prov_xapi_activity_id"
+    },
+    {
+        "id": 22440,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 896,
+        "code": "$lng->txt('lti_con_prov_xapi_activity_id_info')",
+        "has_variable": false,
+        "variable": "lti_con_prov_xapi_activity_id_info"
+    },
+    {
+        "id": 22442,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 902,
+        "code": "$lng->txt('lti_con_prov_custom_params')",
+        "has_variable": false,
+        "variable": "lti_con_prov_custom_params"
+    },
+    {
+        "id": 22444,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 911,
+        "code": "$lng->txt('lti_con_prov_custom_params_info')",
+        "has_variable": false,
+        "variable": "lti_con_prov_custom_params_info"
+    },
+    {
+        "id": 22446,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 915,
+        "code": "$lng->txt('lti_con_prov_group_options')",
+        "has_variable": false,
+        "variable": "lti_con_prov_group_options"
+    },
+    {
+        "id": 22448,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 918,
+        "code": "$lng->txt('lti_con_prov_keywords')",
+        "has_variable": false,
+        "variable": "lti_con_prov_keywords"
+    },
+    {
+        "id": 22450,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 920,
+        "code": "$lng->txt('lti_con_prov_keywords_info')",
+        "has_variable": false,
+        "variable": "lti_con_prov_keywords_info"
+    },
+    {
+        "id": 22452,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 924,
+        "code": "$lng->txt('lti_con_prov_category')",
+        "has_variable": false,
+        "variable": "lti_con_prov_category"
+    },
+    {
+        "id": 22454,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 925,
+        "code": "$lng->txt('lti_con_prov_category_info')",
+        "has_variable": false,
+        "variable": "lti_con_prov_category_info"
+    },
+    {
+        "id": 22456,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 934,
+        "code": "$lng->txt('lti_con_prov_hints')",
+        "has_variable": false,
+        "variable": "lti_con_prov_hints"
+    },
+    {
+        "id": 22458,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 937,
+        "code": "$lng->txt('lti_con_prov_remarks')",
+        "has_variable": false,
+        "variable": "lti_con_prov_remarks"
+    },
+    {
+        "id": 22460,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 1032,
+        "code": "$lng->txt('lti_form_provider_create')",
+        "has_variable": false,
+        "variable": "lti_form_provider_create"
+    },
+    {
+        "id": 22462,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 1033,
+        "code": "$lng->txt('lti_con_prov_dyn_reg_url')",
+        "has_variable": false,
+        "variable": "lti_con_prov_dyn_reg_url"
+    },
+    {
+        "id": 22464,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 1034,
+        "code": "$lng->txt('lti_con_prov_dyn_reg_url_info')",
+        "has_variable": false,
+        "variable": "lti_con_prov_dyn_reg_url_info"
+    },
+    {
+        "id": 22466,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 1037,
+        "code": "$lng->txt('lti_con_prov_dyn_reg_params')",
+        "has_variable": false,
+        "variable": "lti_con_prov_dyn_reg_params"
+    },
+    {
+        "id": 22468,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 1038,
+        "code": "$lng->txt('lti_con_prov_dyn_reg_params_info')",
+        "has_variable": false,
+        "variable": "lti_con_prov_dyn_reg_params_info"
+    },
+    {
+        "id": 22470,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 1048,
+        "code": "$lng->txt('lti_form_provider_content_selection')",
+        "has_variable": false,
+        "variable": "lti_form_provider_content_selection"
+    },
+    {
+        "id": 22472,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 1050,
+        "code": "$lng->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 22474,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumeProviderFormGUI.php",
+        "line": 1079,
+        "code": "$lng->txt('lti_dyn_reg_redirect_after_10_secs')",
+        "has_variable": false,
+        "variable": "lti_dyn_reg_redirect_after_10_secs"
+    },
+    {
+        "id": 22476,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumerContentGUI.php",
+        "line": 205,
+        "code": "$this->lng->txt(\"show_content\")",
+        "has_variable": false,
+        "variable": "show_content"
+    },
+    {
+        "id": 22478,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumerContentGUI.php",
+        "line": 216,
+        "code": "$this->lng->txt(\"launched\")",
+        "has_variable": false,
+        "variable": "launched"
+    },
+    {
+        "id": 22480,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumerContentGUI.php",
+        "line": 254,
+        "code": "$this->lng->txt(\"show_content\")",
+        "has_variable": false,
+        "variable": "show_content"
+    },
+    {
+        "id": 22482,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumerContentGUI.php",
+        "line": 270,
+        "code": "$this->lng->txt(\"launched\")",
+        "has_variable": false,
+        "variable": "launched"
+    },
+    {
+        "id": 22484,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumerGradeSynchronizationTableGUI.php",
+        "line": 74,
+        "code": "$this->lng->txt('grade_activity_progress_' . strtolower($record['activity_progress']))",
+        "has_variable": true,
+        "variable": "'grade_activity_progress_' . strtolower($record['activity_progress'])"
+    },
+    {
+        "id": 22486,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumerGradeSynchronizationTableGUI.php",
+        "line": 75,
+        "code": "$this->lng->txt('grade_grading_progress_' . strtolower($record['grading_progress']))",
+        "has_variable": true,
+        "variable": "'grade_grading_progress_' . strtolower($record['grading_progress'])"
+    },
+    {
+        "id": 22488,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumerGradeSynchronizationTableGUI.php",
+        "line": 145,
+        "code": "$this->lng->txt('tbl_grade_date')",
+        "has_variable": false,
+        "variable": "tbl_grade_date"
+    },
+    {
+        "id": 22490,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumerGradeSynchronizationTableGUI.php",
+        "line": 146,
+        "code": "$this->lng->txt('tbl_grade_actor')",
+        "has_variable": false,
+        "variable": "tbl_grade_actor"
+    },
+    {
+        "id": 22492,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumerGradeSynchronizationTableGUI.php",
+        "line": 147,
+        "code": "$this->lng->txt('tbl_grade_score')",
+        "has_variable": false,
+        "variable": "tbl_grade_score"
+    },
+    {
+        "id": 22494,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumerGradeSynchronizationTableGUI.php",
+        "line": 148,
+        "code": "$this->lng->txt('tbl_grade_activity_progress')",
+        "has_variable": false,
+        "variable": "tbl_grade_activity_progress"
+    },
+    {
+        "id": 22496,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumerGradeSynchronizationTableGUI.php",
+        "line": 149,
+        "code": "$this->lng->txt('tbl_grade_grading_progress')",
+        "has_variable": false,
+        "variable": "tbl_grade_grading_progress"
+    },
+    {
+        "id": 22498,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumerGradeSynchronizationTableGUI.php",
+        "line": 150,
+        "code": "$this->lng->txt('tbl_grade_stored')",
+        "has_variable": false,
+        "variable": "tbl_grade_stored"
+    },
+    {
+        "id": 22500,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumerProviderTableGUI.php",
+        "line": 199,
+        "code": "$this->lng->txt('tbl_provider_header')",
+        "has_variable": false,
+        "variable": "tbl_provider_header"
+    },
+    {
+        "id": 22502,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumerProviderTableGUI.php",
+        "line": 214,
+        "code": "$this->lng->txt('icon')",
+        "has_variable": false,
+        "variable": "icon"
+    },
+    {
+        "id": 22504,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumerProviderTableGUI.php",
+        "line": 215,
+        "code": "$this->lng->txt('title')",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 22506,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumerProviderTableGUI.php",
+        "line": 216,
+        "code": "$this->lng->txt('tbl_lti_prov_description')",
+        "has_variable": false,
+        "variable": "tbl_lti_prov_description"
+    },
+    {
+        "id": 22508,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumerProviderTableGUI.php",
+        "line": 217,
+        "code": "$this->lng->txt('tbl_lti_prov_category')",
+        "has_variable": false,
+        "variable": "tbl_lti_prov_category"
+    },
+    {
+        "id": 22510,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumerProviderTableGUI.php",
+        "line": 218,
+        "code": "$this->lng->txt('tbl_lti_prov_keywords')",
+        "has_variable": false,
+        "variable": "tbl_lti_prov_keywords"
+    },
+    {
+        "id": 22512,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumerProviderTableGUI.php",
+        "line": 219,
+        "code": "$this->lng->txt('tbl_lti_prov_outcome')",
+        "has_variable": false,
+        "variable": "tbl_lti_prov_outcome"
+    },
+    {
+        "id": 22514,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumerProviderTableGUI.php",
+        "line": 220,
+        "code": "$this->lng->txt('tbl_lti_prov_internal')",
+        "has_variable": false,
+        "variable": "tbl_lti_prov_internal"
+    },
+    {
+        "id": 22516,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumerProviderTableGUI.php",
+        "line": 221,
+        "code": "$this->lng->txt('tbl_lti_prov_with_key')",
+        "has_variable": false,
+        "variable": "tbl_lti_prov_with_key"
+    },
+    {
+        "id": 22518,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumerProviderTableGUI.php",
+        "line": 222,
+        "code": "$this->lng->txt('tbl_lti_prov_availability')",
+        "has_variable": false,
+        "variable": "tbl_lti_prov_availability"
+    },
+    {
+        "id": 22520,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumerProviderTableGUI.php",
+        "line": 223,
+        "code": "$this->lng->txt('tbl_lti_prov_own_provider')",
+        "has_variable": false,
+        "variable": "tbl_lti_prov_own_provider"
+    },
+    {
+        "id": 22522,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumerProviderTableGUI.php",
+        "line": 224,
+        "code": "$this->lng->txt('tbl_lti_prov_provider_creator')",
+        "has_variable": false,
+        "variable": "tbl_lti_prov_provider_creator"
+    },
+    {
+        "id": 22524,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumerProviderTableGUI.php",
+        "line": 225,
+        "code": "$this->lng->txt('tbl_lti_prov_usages_untrashed')",
+        "has_variable": false,
+        "variable": "tbl_lti_prov_usages_untrashed"
+    },
+    {
+        "id": 22526,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumerProviderTableGUI.php",
+        "line": 226,
+        "code": "$this->lng->txt('tbl_lti_prov_usages_trashed')",
+        "has_variable": false,
+        "variable": "tbl_lti_prov_usages_trashed"
+    },
+    {
+        "id": 22528,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumerProviderTableGUI.php",
+        "line": 303,
+        "code": "$this->lng->txt('lti_action_edit_provider')",
+        "has_variable": false,
+        "variable": "lti_action_edit_provider"
+    },
+    {
+        "id": 22530,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumerProviderTableGUI.php",
+        "line": 311,
+        "code": "$this->lng->txt('lti_action_accept_provider_as_global')",
+        "has_variable": false,
+        "variable": "lti_action_accept_provider_as_global"
+    },
+    {
+        "id": 22532,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumerProviderTableGUI.php",
+        "line": 316,
+        "code": "$this->lng->txt('lti_delete_provider')",
+        "has_variable": false,
+        "variable": "lti_delete_provider"
+    },
+    {
+        "id": 22534,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumerProviderTableGUI.php",
+        "line": 324,
+        "code": "$this->lng->txt('lti_action_reset_provider_to_user_scope')",
+        "has_variable": false,
+        "variable": "lti_action_reset_provider_to_user_scope"
+    },
+    {
+        "id": 22536,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumerProviderTableGUI.php",
+        "line": 329,
+        "code": "$this->lng->txt('lti_delete_provider')",
+        "has_variable": false,
+        "variable": "lti_delete_provider"
+    },
+    {
+        "id": 22538,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumerProviderTableGUI.php",
+        "line": 416,
+        "code": "$this->lng->txt(\"title\")",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 22540,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumerProviderTableGUI.php",
+        "line": 417,
+        "code": "$this->lng->txt(\"tbl_lti_prov_keywords\")",
+        "has_variable": false,
+        "variable": "tbl_lti_prov_keywords"
+    },
+    {
+        "id": 22542,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumerProviderTableGUI.php",
+        "line": 418,
+        "code": "$this->lng->txt(\"tbl_lti_prov_outcome\")",
+        "has_variable": false,
+        "variable": "tbl_lti_prov_outcome"
+    },
+    {
+        "id": 22544,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumerProviderTableGUI.php",
+        "line": 419,
+        "code": "$this->lng->txt('yes')",
+        "has_variable": false,
+        "variable": "yes"
+    },
+    {
+        "id": 22546,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumerProviderTableGUI.php",
+        "line": 420,
+        "code": "$this->lng->txt('no')",
+        "has_variable": false,
+        "variable": "no"
+    },
+    {
+        "id": 22548,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumerProviderTableGUI.php",
+        "line": 422,
+        "code": "$this->lng->txt(\"tbl_lti_prov_internal\")",
+        "has_variable": false,
+        "variable": "tbl_lti_prov_internal"
+    },
+    {
+        "id": 22550,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumerProviderTableGUI.php",
+        "line": 423,
+        "code": "$this->lng->txt('yes')",
+        "has_variable": false,
+        "variable": "yes"
+    },
+    {
+        "id": 22552,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumerProviderTableGUI.php",
+        "line": 424,
+        "code": "$this->lng->txt('no')",
+        "has_variable": false,
+        "variable": "no"
+    },
+    {
+        "id": 22554,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumerProviderTableGUI.php",
+        "line": 426,
+        "code": "$this->lng->txt(\"tbl_lti_prov_with_key\")",
+        "has_variable": false,
+        "variable": "tbl_lti_prov_with_key"
+    },
+    {
+        "id": 22556,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumerProviderTableGUI.php",
+        "line": 427,
+        "code": "$this->lng->txt('yes')",
+        "has_variable": false,
+        "variable": "yes"
+    },
+    {
+        "id": 22558,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumerProviderTableGUI.php",
+        "line": 428,
+        "code": "$this->lng->txt('no')",
+        "has_variable": false,
+        "variable": "no"
+    },
+    {
+        "id": 22560,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumerProviderTableGUI.php",
+        "line": 430,
+        "code": "$this->lng->txt(\"tbl_lti_prov_category\")",
+        "has_variable": false,
+        "variable": "tbl_lti_prov_category"
+    },
+    {
+        "id": 22562,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumerProviderUsageTableGUI.php",
+        "line": 129,
+        "code": "$this->lng->txt('tbl_provider_usage_header')",
+        "has_variable": false,
+        "variable": "tbl_provider_usage_header"
+    },
+    {
+        "id": 22564,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumerProviderUsageTableGUI.php",
+        "line": 140,
+        "code": "$this->lng->txt('tbl_lti_prov_icon')",
+        "has_variable": false,
+        "variable": "tbl_lti_prov_icon"
+    },
+    {
+        "id": 22566,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumerProviderUsageTableGUI.php",
+        "line": 141,
+        "code": "$this->lng->txt('tbl_lti_prov_title')",
+        "has_variable": false,
+        "variable": "tbl_lti_prov_title"
+    },
+    {
+        "id": 22568,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumerProviderUsageTableGUI.php",
+        "line": 143,
+        "code": "$this->lng->txt('tbl_lti_prov_usages_trashed')",
+        "has_variable": false,
+        "variable": "tbl_lti_prov_usages_trashed"
+    },
+    {
+        "id": 22570,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumerProviderUsageTableGUI.php",
+        "line": 144,
+        "code": "$this->lng->txt('icon_ok')",
+        "has_variable": false,
+        "variable": "icon_ok"
+    },
+    {
+        "id": 22572,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumerProviderUsageTableGUI.php",
+        "line": 145,
+        "code": "$this->lng->txt('icon_not_ok')",
+        "has_variable": false,
+        "variable": "icon_not_ok"
+    },
+    {
+        "id": 22574,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilLTIConsumerProviderUsageTableGUI.php",
+        "line": 147,
+        "code": "$this->lng->txt('tbl_lti_prov_used_by')",
+        "has_variable": false,
+        "variable": "tbl_lti_prov_used_by"
+    },
+    {
+        "id": 22576,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilObjLTIConsumerGUI.php",
+        "line": 107,
+        "code": "$this->lng->txt(\"no_create_permission\")",
+        "has_variable": false,
+        "variable": "no_create_permission"
+    },
+    {
+        "id": 22578,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilObjLTIConsumerGUI.php",
+        "line": 192,
+        "code": "$this->lng->txt('save')",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 22580,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilObjLTIConsumerGUI.php",
+        "line": 193,
+        "code": "$this->lng->txt(\"cancel\")",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 22582,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilObjLTIConsumerGUI.php",
+        "line": 212,
+        "code": "$this->lng->txt($a_new_type . \"_add_own_provider\")",
+        "has_variable": true,
+        "variable": "$a_new_type . \"_add_own_provider\""
+    },
+    {
+        "id": 22584,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilObjLTIConsumerGUI.php",
+        "line": 213,
+        "code": "$this->lng->txt(\"cancel\")",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 22586,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilObjLTIConsumerGUI.php",
+        "line": 675,
+        "code": "$lng->txt('msg_no_perm_read')",
+        "has_variable": false,
+        "variable": "msg_no_perm_read"
+    },
+    {
+        "id": 22588,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilObjLTIConsumerListGUI.php",
+        "line": 79,
+        "code": "$this->lng->txt('collapse')",
+        "has_variable": false,
+        "variable": "collapse"
+    },
+    {
+        "id": 22590,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilObjLTIConsumerListGUI.php",
+        "line": 86,
+        "code": "$this->lng->txt('expand')",
+        "has_variable": false,
+        "variable": "expand"
+    },
+    {
+        "id": 22592,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilObjLTIConsumerListGUI.php",
+        "line": 117,
+        "code": "$lng->txt(\"icon\")",
+        "has_variable": false,
+        "variable": "icon"
+    },
+    {
+        "id": 22594,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilObjLTIConsumerListGUI.php",
+        "line": 117,
+        "code": "$lng->txt(\"obj_\" . $this->getIconImageType())",
+        "has_variable": true,
+        "variable": "\"obj_\" . $this->getIconImageType()"
+    },
+    {
+        "id": 22596,
+        "file": "components\/ILIAS\/LTIConsumer\/classes\/class.ilObjLTIConsumerListGUI.php",
+        "line": 119,
+        "code": "$lng->txt(\"icon\")",
+        "has_variable": false,
+        "variable": "icon"
+    }
+]

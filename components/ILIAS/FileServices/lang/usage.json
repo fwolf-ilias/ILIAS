@@ -1,0 +1,634 @@
+[
+    {
+        "id": 17062,
+        "file": "components\/ILIAS\/FileServices\/classes\/UploadService\/UploadLimits\/UploadPoliciesTableUI.php",
+        "line": 61,
+        "code": "$this->language->txt('upload_policies')",
+        "has_variable": false,
+        "variable": "upload_policies"
+    },
+    {
+        "id": 17064,
+        "file": "components\/ILIAS\/FileServices\/classes\/UploadService\/UploadLimits\/UploadPoliciesTableUI.php",
+        "line": 70,
+        "code": "$this->language->txt('yes')",
+        "has_variable": false,
+        "variable": "yes"
+    },
+    {
+        "id": 17066,
+        "file": "components\/ILIAS\/FileServices\/classes\/UploadService\/UploadLimits\/UploadPoliciesTableUI.php",
+        "line": 70,
+        "code": "$this->language->txt('no')",
+        "has_variable": false,
+        "variable": "no"
+    },
+    {
+        "id": 17068,
+        "file": "components\/ILIAS\/FileServices\/classes\/UploadService\/UploadLimits\/UploadPoliciesTableUI.php",
+        "line": 73,
+        "code": "$this->language->txt(\n                    \"policy_no_validity_limitation_set\"\n                )",
+        "has_variable": false,
+        "variable": "policy_no_validity_limitation_set"
+    },
+    {
+        "id": 17070,
+        "file": "components\/ILIAS\/FileServices\/classes\/UploadService\/UploadLimits\/UploadPoliciesTableUI.php",
+        "line": 82,
+        "code": "$this->language->txt('policy_upload_limit')",
+        "has_variable": false,
+        "variable": "policy_upload_limit"
+    },
+    {
+        "id": 17072,
+        "file": "components\/ILIAS\/FileServices\/classes\/UploadService\/UploadLimits\/UploadPoliciesTableUI.php",
+        "line": 83,
+        "code": "$this->language->txt('policy_audience')",
+        "has_variable": false,
+        "variable": "policy_audience"
+    },
+    {
+        "id": 17074,
+        "file": "components\/ILIAS\/FileServices\/classes\/UploadService\/UploadLimits\/UploadPoliciesTableUI.php",
+        "line": 84,
+        "code": "$this->language->txt('active')",
+        "has_variable": false,
+        "variable": "active"
+    },
+    {
+        "id": 17076,
+        "file": "components\/ILIAS\/FileServices\/classes\/UploadService\/UploadLimits\/UploadPoliciesTableUI.php",
+        "line": 90,
+        "code": "$this->language->txt('policy_upload_limit')",
+        "has_variable": false,
+        "variable": "policy_upload_limit"
+    },
+    {
+        "id": 17078,
+        "file": "components\/ILIAS\/FileServices\/classes\/UploadService\/UploadLimits\/UploadPoliciesTableUI.php",
+        "line": 91,
+        "code": "$this->language->txt('policy_audience')",
+        "has_variable": false,
+        "variable": "policy_audience"
+    },
+    {
+        "id": 17080,
+        "file": "components\/ILIAS\/FileServices\/classes\/UploadService\/UploadLimits\/UploadPoliciesTableUI.php",
+        "line": 92,
+        "code": "$this->language->txt('active')",
+        "has_variable": false,
+        "variable": "active"
+    },
+    {
+        "id": 17082,
+        "file": "components\/ILIAS\/FileServices\/classes\/UploadService\/UploadLimits\/UploadPoliciesTableUI.php",
+        "line": 93,
+        "code": "$this->language->txt('policy_scope')",
+        "has_variable": false,
+        "variable": "policy_scope"
+    },
+    {
+        "id": 17084,
+        "file": "components\/ILIAS\/FileServices\/classes\/UploadService\/UploadLimits\/UploadPoliciesTableUI.php",
+        "line": 94,
+        "code": "$this->language->txt('policy_valid_until')",
+        "has_variable": false,
+        "variable": "policy_valid_until"
+    },
+    {
+        "id": 17086,
+        "file": "components\/ILIAS\/FileServices\/classes\/UploadService\/UploadLimits\/UploadPoliciesTableUI.php",
+        "line": 140,
+        "code": "$this->language->txt('edit')",
+        "has_variable": false,
+        "variable": "edit"
+    },
+    {
+        "id": 17088,
+        "file": "components\/ILIAS\/FileServices\/classes\/UploadService\/UploadLimits\/UploadPoliciesTableUI.php",
+        "line": 147,
+        "code": "$this->language->txt('delete')",
+        "has_variable": false,
+        "variable": "delete"
+    },
+    {
+        "id": 17090,
+        "file": "components\/ILIAS\/FileServices\/classes\/UploadService\/UploadLimits\/UploadPoliciesTableUI.php",
+        "line": 189,
+        "code": "$this->language->txt('all_global_roles')",
+        "has_variable": false,
+        "variable": "all_global_roles"
+    },
+    {
+        "id": 17092,
+        "file": "components\/ILIAS\/FileServices\/classes\/UploadService\/UploadLimits\/UploadPoliciesTableUI.php",
+        "line": 205,
+        "code": "$this->language->txt('all_users')",
+        "has_variable": false,
+        "variable": "all_users"
+    },
+    {
+        "id": 17094,
+        "file": "components\/ILIAS\/FileServices\/classes\/UploadService\/UploadLimits\/UploadPoliciesTableUI.php",
+        "line": 229,
+        "code": "$this->language->txt(self::ACTIVE_FILTER_ALL)",
+        "has_variable": true,
+        "variable": "ACTIVE_FILTER_ALL"
+    },
+    {
+        "id": 17096,
+        "file": "components\/ILIAS\/FileServices\/classes\/UploadService\/UploadLimits\/UploadPoliciesTableUI.php",
+        "line": 230,
+        "code": "$this->language->txt(self::ACTIVE_FILTER_ACTIVE)",
+        "has_variable": true,
+        "variable": "ACTIVE_FILTER_ACTIVE"
+    },
+    {
+        "id": 17098,
+        "file": "components\/ILIAS\/FileServices\/classes\/UploadService\/UploadLimits\/UploadPoliciesTableUI.php",
+        "line": 231,
+        "code": "$this->language->txt(self::ACTIVE_FILTER_INACTIVE)",
+        "has_variable": true,
+        "variable": "ACTIVE_FILTER_INACTIVE"
+    },
+    {
+        "id": 17100,
+        "file": "components\/ILIAS\/FileServices\/classes\/UploadService\/UploadLimits\/UploadPoliciesTableUI.php",
+        "line": 235,
+        "code": "$this->language->txt($active_control_element)",
+        "has_variable": true,
+        "variable": "$active_control_element"
+    },
+    {
+        "id": 17102,
+        "file": "components\/ILIAS\/FileServices\/classes\/UploadService\/UploadLimits\/UploadPoliciesTableUI.php",
+        "line": 242,
+        "code": "$this->language->txt('yes')",
+        "has_variable": false,
+        "variable": "yes"
+    },
+    {
+        "id": 17104,
+        "file": "components\/ILIAS\/FileServices\/classes\/UploadService\/UploadLimits\/UploadPoliciesTableUI.php",
+        "line": 242,
+        "code": "$this->language->txt('no')",
+        "has_variable": false,
+        "variable": "no"
+    },
+    {
+        "id": 17106,
+        "file": "components\/ILIAS\/FileServices\/classes\/UploadService\/UploadLimits\/UploadPoliciesTableUI.php",
+        "line": 244,
+        "code": "$this->language->txt(\n            \"policy_no_validity_limitation_set\"\n        )",
+        "has_variable": false,
+        "variable": "policy_no_validity_limitation_set"
+    },
+    {
+        "id": 17108,
+        "file": "components\/ILIAS\/FileServices\/classes\/UploadService\/UploadLimits\/UploadPoliciesTableUI.php",
+        "line": 250,
+        "code": "$this->language->txt('title')",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 17110,
+        "file": "components\/ILIAS\/FileServices\/classes\/UploadService\/UploadLimits\/UploadPoliciesTableUI.php",
+        "line": 256,
+        "code": "$this->language->txt('policy_upload_limit')",
+        "has_variable": false,
+        "variable": "policy_upload_limit"
+    },
+    {
+        "id": 17112,
+        "file": "components\/ILIAS\/FileServices\/classes\/UploadService\/UploadLimits\/UploadPoliciesTableUI.php",
+        "line": 262,
+        "code": "$this->language->txt('policy_audience')",
+        "has_variable": false,
+        "variable": "policy_audience"
+    },
+    {
+        "id": 17114,
+        "file": "components\/ILIAS\/FileServices\/classes\/UploadService\/UploadLimits\/UploadPoliciesTableUI.php",
+        "line": 268,
+        "code": "$this->language->txt('active')",
+        "has_variable": false,
+        "variable": "active"
+    },
+    {
+        "id": 17116,
+        "file": "components\/ILIAS\/FileServices\/classes\/UploadService\/UploadLimits\/UploadPoliciesTableUI.php",
+        "line": 274,
+        "code": "$this->language->txt('policy_scope')",
+        "has_variable": false,
+        "variable": "policy_scope"
+    },
+    {
+        "id": 17118,
+        "file": "components\/ILIAS\/FileServices\/classes\/UploadService\/UploadLimits\/UploadPoliciesTableUI.php",
+        "line": 280,
+        "code": "$this->language->txt('policy_valid_until')",
+        "has_variable": false,
+        "variable": "policy_valid_until"
+    },
+    {
+        "id": 17120,
+        "file": "components\/ILIAS\/FileServices\/classes\/UploadService\/UploadLimits\/UploadPoliciesTableUI.php",
+        "line": 285,
+        "code": "$this->language->txt(\"delete\")",
+        "has_variable": false,
+        "variable": "delete"
+    },
+    {
+        "id": 17122,
+        "file": "components\/ILIAS\/FileServices\/classes\/UploadService\/UploadLimits\/UploadPoliciesTableUI.php",
+        "line": 286,
+        "code": "$this->language->txt('policy_confirm_deletion')",
+        "has_variable": false,
+        "variable": "policy_confirm_deletion"
+    },
+    {
+        "id": 17124,
+        "file": "components\/ILIAS\/FileServices\/classes\/UploadService\/UploadLimits\/UploadPoliciesTableUI.php",
+        "line": 293,
+        "code": "$this->language->txt('delete')",
+        "has_variable": false,
+        "variable": "delete"
+    },
+    {
+        "id": 17126,
+        "file": "components\/ILIAS\/FileServices\/classes\/UploadService\/UploadLimits\/UploadPolicyFormUI.php",
+        "line": 97,
+        "code": "$this->language->txt(self::LABEL_INPUT_FIELD_TITLE)",
+        "has_variable": true,
+        "variable": "LABEL_INPUT_FIELD_TITLE"
+    },
+    {
+        "id": 17128,
+        "file": "components\/ILIAS\/FileServices\/classes\/UploadService\/UploadLimits\/UploadPolicyFormUI.php",
+        "line": 98,
+        "code": "$this->language->txt(self::BYLINE_INPUT_FIELD_TITLE)",
+        "has_variable": true,
+        "variable": "BYLINE_INPUT_FIELD_TITLE"
+    },
+    {
+        "id": 17130,
+        "file": "components\/ILIAS\/FileServices\/classes\/UploadService\/UploadLimits\/UploadPolicyFormUI.php",
+        "line": 103,
+        "code": "$this->language->txt(self::LABEL_INPUT_FIELD_UPLOAD_LIMIT)",
+        "has_variable": true,
+        "variable": "LABEL_INPUT_FIELD_UPLOAD_LIMIT"
+    },
+    {
+        "id": 17132,
+        "file": "components\/ILIAS\/FileServices\/classes\/UploadService\/UploadLimits\/UploadPolicyFormUI.php",
+        "line": 104,
+        "code": "$this->language->txt(self::BYLINE_INPUT_FIELD_UPLOAD_LIMIT)",
+        "has_variable": true,
+        "variable": "BYLINE_INPUT_FIELD_UPLOAD_LIMIT"
+    },
+    {
+        "id": 17134,
+        "file": "components\/ILIAS\/FileServices\/classes\/UploadService\/UploadLimits\/UploadPolicyFormUI.php",
+        "line": 113,
+        "code": "$this->language->txt(self::LABEL_INPUT_SECTION_GENERAL)",
+        "has_variable": true,
+        "variable": "LABEL_INPUT_SECTION_GENERAL"
+    },
+    {
+        "id": 17136,
+        "file": "components\/ILIAS\/FileServices\/classes\/UploadService\/UploadLimits\/UploadPolicyFormUI.php",
+        "line": 119,
+        "code": "$this->language->txt(self::LABEL_INPUT_OPTION_ALL_USERS)",
+        "has_variable": true,
+        "variable": "LABEL_INPUT_OPTION_ALL_USERS"
+    },
+    {
+        "id": 17138,
+        "file": "components\/ILIAS\/FileServices\/classes\/UploadService\/UploadLimits\/UploadPolicyFormUI.php",
+        "line": 120,
+        "code": "$this->language->txt(self::BYLINE_INPUT_OPTION_ALL_USERS)",
+        "has_variable": true,
+        "variable": "BYLINE_INPUT_OPTION_ALL_USERS"
+    },
+    {
+        "id": 17140,
+        "file": "components\/ILIAS\/FileServices\/classes\/UploadService\/UploadLimits\/UploadPolicyFormUI.php",
+        "line": 123,
+        "code": "$this->language->txt(self::LABEL_INPUT_FIELD_GLOBAL_ROLES)",
+        "has_variable": true,
+        "variable": "LABEL_INPUT_FIELD_GLOBAL_ROLES"
+    },
+    {
+        "id": 17142,
+        "file": "components\/ILIAS\/FileServices\/classes\/UploadService\/UploadLimits\/UploadPolicyFormUI.php",
+        "line": 132,
+        "code": "$this->language->txt(self::LABEL_INPUT_OPTION_GLOBAL_ROLES)",
+        "has_variable": true,
+        "variable": "LABEL_INPUT_OPTION_GLOBAL_ROLES"
+    },
+    {
+        "id": 17144,
+        "file": "components\/ILIAS\/FileServices\/classes\/UploadService\/UploadLimits\/UploadPolicyFormUI.php",
+        "line": 133,
+        "code": "$this->language->txt(self::BYLINE_INPUT_OPTION_GLOBAL_ROLES)",
+        "has_variable": true,
+        "variable": "BYLINE_INPUT_OPTION_GLOBAL_ROLES"
+    },
+    {
+        "id": 17146,
+        "file": "components\/ILIAS\/FileServices\/classes\/UploadService\/UploadLimits\/UploadPolicyFormUI.php",
+        "line": 140,
+        "code": "$this->language->txt(self::LABEL_INPUT_FIELD_AUDIENCE)",
+        "has_variable": true,
+        "variable": "LABEL_INPUT_FIELD_AUDIENCE"
+    },
+    {
+        "id": 17148,
+        "file": "components\/ILIAS\/FileServices\/classes\/UploadService\/UploadLimits\/UploadPolicyFormUI.php",
+        "line": 148,
+        "code": "$this->language->txt(self::LABEL_INPUT_SECTION_AUDIENCE)",
+        "has_variable": true,
+        "variable": "LABEL_INPUT_SECTION_AUDIENCE"
+    },
+    {
+        "id": 17150,
+        "file": "components\/ILIAS\/FileServices\/classes\/UploadService\/UploadLimits\/UploadPolicyFormUI.php",
+        "line": 155,
+        "code": "$this->language->txt(self::LABEL_INPUT_FIELD_VALID_UNTIL)",
+        "has_variable": true,
+        "variable": "LABEL_INPUT_FIELD_VALID_UNTIL"
+    },
+    {
+        "id": 17152,
+        "file": "components\/ILIAS\/FileServices\/classes\/UploadService\/UploadLimits\/UploadPolicyFormUI.php",
+        "line": 156,
+        "code": "$this->language->txt(self::BYLINE_INPUT_FIELD_VALID_UNTIL)",
+        "has_variable": true,
+        "variable": "BYLINE_INPUT_FIELD_VALID_UNTIL"
+    },
+    {
+        "id": 17154,
+        "file": "components\/ILIAS\/FileServices\/classes\/UploadService\/UploadLimits\/UploadPolicyFormUI.php",
+        "line": 161,
+        "code": "$this->language->txt(self::LABEL_INPUT_FIELD_ACTIVE)",
+        "has_variable": true,
+        "variable": "LABEL_INPUT_FIELD_ACTIVE"
+    },
+    {
+        "id": 17156,
+        "file": "components\/ILIAS\/FileServices\/classes\/UploadService\/UploadLimits\/UploadPolicyFormUI.php",
+        "line": 170,
+        "code": "$this->language->txt(self::LABEL_INPUT_SECTION_VALIDITY)",
+        "has_variable": true,
+        "variable": "LABEL_INPUT_SECTION_VALIDITY"
+    },
+    {
+        "id": 17158,
+        "file": "components\/ILIAS\/FileServices\/classes\/UploadService\/UploadLimits\/class.ilUploadLimitsOverviewGUI.php",
+        "line": 107,
+        "code": "$this->language->txt(\"permission_denied\")",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 17160,
+        "file": "components\/ILIAS\/FileServices\/classes\/UploadService\/UploadLimits\/class.ilUploadLimitsOverviewGUI.php",
+        "line": 124,
+        "code": "$this->language->txt(\"add_upload_policy\")",
+        "has_variable": false,
+        "variable": "add_upload_policy"
+    },
+    {
+        "id": 17162,
+        "file": "components\/ILIAS\/FileServices\/classes\/UploadService\/UploadLimits\/class.ilUploadLimitsOverviewGUI.php",
+        "line": 151,
+        "code": "$this->language->txt('back')",
+        "has_variable": false,
+        "variable": "back"
+    },
+    {
+        "id": 17164,
+        "file": "components\/ILIAS\/FileServices\/classes\/UploadService\/UploadLimits\/class.ilUploadLimitsOverviewGUI.php",
+        "line": 166,
+        "code": "$this->language->txt('edit_upload_policy')",
+        "has_variable": false,
+        "variable": "edit_upload_policy"
+    },
+    {
+        "id": 17166,
+        "file": "components\/ILIAS\/FileServices\/classes\/UploadService\/UploadLimits\/class.ilUploadLimitsOverviewGUI.php",
+        "line": 167,
+        "code": "$this->language->txt('add_upload_policy')",
+        "has_variable": false,
+        "variable": "add_upload_policy"
+    },
+    {
+        "id": 17168,
+        "file": "components\/ILIAS\/FileServices\/classes\/UploadService\/UploadLimits\/class.ilUploadLimitsOverviewGUI.php",
+        "line": 242,
+        "code": "$this->language->txt('policy_deletion_successful')",
+        "has_variable": false,
+        "variable": "policy_deletion_successful"
+    },
+    {
+        "id": 17170,
+        "file": "components\/ILIAS\/FileServices\/classes\/UploadService\/UploadLimits\/class.ilUploadLimitsOverviewGUI.php",
+        "line": 248,
+        "code": "$this->language->txt('policy_deletion_failure_not_found')",
+        "has_variable": false,
+        "variable": "policy_deletion_failure_not_found"
+    },
+    {
+        "id": 17172,
+        "file": "components\/ILIAS\/FileServices\/classes\/class.ilFileUtils.php",
+        "line": 56,
+        "code": "$lng->txt(\"filenames_not_supported\")",
+        "has_variable": false,
+        "variable": "filenames_not_supported"
+    },
+    {
+        "id": 17174,
+        "file": "components\/ILIAS\/FileServices\/classes\/class.ilFileUtils.php",
+        "line": 656,
+        "code": "$lng->txt(\"file_notice\")",
+        "has_variable": false,
+        "variable": "file_notice"
+    },
+    {
+        "id": 17176,
+        "file": "components\/ILIAS\/FileServices\/classes\/class.ilObjFileServices.php",
+        "line": 43,
+        "code": "$this->lng->txt(\"file_services\")",
+        "has_variable": false,
+        "variable": "file_services"
+    },
+    {
+        "id": 17178,
+        "file": "components\/ILIAS\/FileServices\/classes\/class.ilObjFileServices.php",
+        "line": 49,
+        "code": "$this->lng->txt(\"file_services_description\")",
+        "has_variable": false,
+        "variable": "file_services_description"
+    },
+    {
+        "id": 17180,
+        "file": "components\/ILIAS\/FileServices\/classes\/class.ilObjFileServicesGUI.php",
+        "line": 83,
+        "code": "$this->lng->txt('no_permission')",
+        "has_variable": false,
+        "variable": "no_permission"
+    },
+    {
+        "id": 17182,
+        "file": "components\/ILIAS\/FileServices\/classes\/class.ilObjFileServicesGUI.php",
+        "line": 153,
+        "code": "$this->lng->txt(self::TAB_SETTINGS)",
+        "has_variable": true,
+        "variable": "TAB_SETTINGS"
+    },
+    {
+        "id": 17184,
+        "file": "components\/ILIAS\/FileServices\/classes\/class.ilObjFileServicesGUI.php",
+        "line": 165,
+        "code": "$this->lng->txt(self::TAB_OVERVIEW)",
+        "has_variable": true,
+        "variable": "TAB_OVERVIEW"
+    },
+    {
+        "id": 17186,
+        "file": "components\/ILIAS\/FileServices\/classes\/class.ilObjFileServicesGUI.php",
+        "line": 177,
+        "code": "$this->lng->txt(self::TAB_UPLOAD_LIMITS)",
+        "has_variable": true,
+        "variable": "TAB_UPLOAD_LIMITS"
+    },
+    {
+        "id": 17188,
+        "file": "components\/ILIAS\/FileServices\/classes\/class.ilObjFileServicesGUI.php",
+        "line": 189,
+        "code": "$this->lng->txt(self::TAB_WOPI)",
+        "has_variable": true,
+        "variable": "TAB_WOPI"
+    },
+    {
+        "id": 17190,
+        "file": "components\/ILIAS\/FileServices\/classes\/class.ilObjFileServicesGUI.php",
+        "line": 202,
+        "code": "$this->lng->txt(self::TAB_PERMISSIONS)",
+        "has_variable": true,
+        "variable": "TAB_PERMISSIONS"
+    },
+    {
+        "id": 17192,
+        "file": "components\/ILIAS\/FileServices\/classes\/class.ilObjFileServicesGUI.php",
+        "line": 221,
+        "code": "$this->lng->txt(self::TAB_SETTINGS)",
+        "has_variable": true,
+        "variable": "TAB_SETTINGS"
+    },
+    {
+        "id": 17194,
+        "file": "components\/ILIAS\/FileServices\/classes\/class.ilObjFileServicesGUI.php",
+        "line": 224,
+        "code": "$this->lng->txt(\"file_suffix_default_positive\")",
+        "has_variable": false,
+        "variable": "file_suffix_default_positive"
+    },
+    {
+        "id": 17196,
+        "file": "components\/ILIAS\/FileServices\/classes\/class.ilObjFileServicesGUI.php",
+        "line": 226,
+        "code": "$this->lng->txt(\"file_suffix_default_positive_info\")",
+        "has_variable": false,
+        "variable": "file_suffix_default_positive_info"
+    },
+    {
+        "id": 17198,
+        "file": "components\/ILIAS\/FileServices\/classes\/class.ilObjFileServicesGUI.php",
+        "line": 231,
+        "code": "$this->lng->txt(\n                \"file_suffix_custom_negative\"\n            )",
+        "has_variable": false,
+        "variable": "file_suffix_custom_negative"
+    },
+    {
+        "id": 17200,
+        "file": "components\/ILIAS\/FileServices\/classes\/class.ilObjFileServicesGUI.php",
+        "line": 236,
+        "code": "$this->lng->txt(\"file_suffix_custom_negative_info\")",
+        "has_variable": false,
+        "variable": "file_suffix_custom_negative_info"
+    },
+    {
+        "id": 17202,
+        "file": "components\/ILIAS\/FileServices\/classes\/class.ilObjFileServicesGUI.php",
+        "line": 243,
+        "code": "$this->lng->txt(\n                \"file_suffix_custom_positive\"\n            )",
+        "has_variable": false,
+        "variable": "file_suffix_custom_positive"
+    },
+    {
+        "id": 17204,
+        "file": "components\/ILIAS\/FileServices\/classes\/class.ilObjFileServicesGUI.php",
+        "line": 248,
+        "code": "$this->lng->txt(\"file_suffix_custom_positive_info\")",
+        "has_variable": false,
+        "variable": "file_suffix_custom_positive_info"
+    },
+    {
+        "id": 17206,
+        "file": "components\/ILIAS\/FileServices\/classes\/class.ilObjFileServicesGUI.php",
+        "line": 254,
+        "code": "$this->lng->txt(\"file_suffix_overall_positive\")",
+        "has_variable": false,
+        "variable": "file_suffix_overall_positive"
+    },
+    {
+        "id": 17208,
+        "file": "components\/ILIAS\/FileServices\/classes\/class.ilObjFileServicesGUI.php",
+        "line": 256,
+        "code": "$this->lng->txt(\"file_suffix_overall_positive_info\")",
+        "has_variable": false,
+        "variable": "file_suffix_overall_positive_info"
+    },
+    {
+        "id": 17210,
+        "file": "components\/ILIAS\/FileServices\/classes\/class.ilObjFileServicesGUI.php",
+        "line": 261,
+        "code": "$this->lng->txt(\"file_suffix_custom_expl_negative\")",
+        "has_variable": false,
+        "variable": "file_suffix_custom_expl_negative"
+    },
+    {
+        "id": 17212,
+        "file": "components\/ILIAS\/FileServices\/classes\/class.ilObjFileServicesGUI.php",
+        "line": 264,
+        "code": "$this->lng->txt(\"file_suffix_custom_expl_negative_info\")",
+        "has_variable": false,
+        "variable": "file_suffix_custom_expl_negative_info"
+    },
+    {
+        "id": 17214,
+        "file": "components\/ILIAS\/FileServices\/classes\/class.ilObjFileServicesGUI.php",
+        "line": 271,
+        "code": "$this->lng->txt('save')",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 17216,
+        "file": "components\/ILIAS\/FileServices\/classes\/class.ilObjFileServicesGUI.php",
+        "line": 272,
+        "code": "$this->lng->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 17218,
+        "file": "components\/ILIAS\/FileServices\/classes\/class.ilObjFileServicesGUI.php",
+        "line": 314,
+        "code": "$this->lng->txt('settings_saved')",
+        "has_variable": false,
+        "variable": "settings_saved"
+    }
+]

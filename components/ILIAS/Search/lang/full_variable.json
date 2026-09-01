@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "type": "full",
+        "count": 4,
+        "description": "Variable usages without detectable prefixes or suffixes (pure variable references without static strings)"
+    },
+    "matches": [
+        {
+            "id": 33488,
+            "file": "components\/ILIAS\/Search\/classes\/Form\/class.ilLuceneQueryInputGUI.php",
+            "line": 48,
+            "code": "$this->lng->txt($e->getMessage())",
+            "variable": "$e->getMessage()",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 33530,
+            "file": "components\/ILIAS\/Search\/classes\/ObjGUI\/class.ilObjSearchLuceneSettingsFormGUI.php",
+            "line": 173,
+            "code": "$this->lng->txt($def['trans'])",
+            "variable": "\\$def",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 33586,
+            "file": "components\/ILIAS\/Search\/classes\/ObjGUI\/class.ilObjSearchSettingsFormGUI.php",
+            "line": 218,
+            "code": "$this->lng->txt($def['trans'])",
+            "variable": "\\$def",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 33812,
+            "file": "components\/ILIAS\/Search\/classes\/class.ilUserSearchOptions.php",
+            "line": 87,
+            "code": "$lng->txt($field)",
+            "variable": "$field",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        }
+    ]
+}

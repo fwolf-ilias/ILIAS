@@ -1,0 +1,194 @@
+[
+    {
+        "id": 46596,
+        "file": "components\/ILIAS\/UIComponent\/Button\/classes\/class.ilButtonBase.php",
+        "line": 98,
+        "code": "$lng->txt($caption)",
+        "has_variable": true,
+        "variable": "$caption"
+    },
+    {
+        "id": 46598,
+        "file": "components\/ILIAS\/UIComponent\/CheckboxListOverlay\/classes\/class.ilCheckboxListOverlayGUI.php",
+        "line": 194,
+        "code": "$lng->txt(\"refresh\")",
+        "has_variable": false,
+        "variable": "refresh"
+    },
+    {
+        "id": 46600,
+        "file": "components\/ILIAS\/UIComponent\/Confirmation\/class.ilConfirmationTableGUI.php",
+        "line": 44,
+        "code": "$lng->txt(\"\")",
+        "has_variable": true,
+        "variable": ""
+    },
+    {
+        "id": 46602,
+        "file": "components\/ILIAS\/UIComponent\/Confirmation\/class.ilConfirmationTableGUI.php",
+        "line": 48,
+        "code": "$this->lng->txt(\"type\")",
+        "has_variable": false,
+        "variable": "type"
+    },
+    {
+        "id": 46604,
+        "file": "components\/ILIAS\/UIComponent\/Confirmation\/class.ilConfirmationTableGUI.php",
+        "line": 50,
+        "code": "$this->lng->txt(\"title\")",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 46606,
+        "file": "components\/ILIAS\/UIComponent\/Explorer\/classes\/class.ilExplorer.php",
+        "line": 609,
+        "code": "$lng->txt(\"refresh\")",
+        "has_variable": false,
+        "variable": "refresh"
+    },
+    {
+        "id": 46608,
+        "file": "components\/ILIAS\/UIComponent\/Explorer\/classes\/class.ilExplorer.php",
+        "line": 690,
+        "code": "$lng->txt(\"collapsed\")",
+        "has_variable": false,
+        "variable": "collapsed"
+    },
+    {
+        "id": 46610,
+        "file": "components\/ILIAS\/UIComponent\/Explorer\/classes\/class.ilExplorer.php",
+        "line": 707,
+        "code": "$lng->txt(\"expanded\")",
+        "has_variable": false,
+        "variable": "expanded"
+    },
+    {
+        "id": 46612,
+        "file": "components\/ILIAS\/UIComponent\/Explorer\/classes\/class.ilExplorer.php",
+        "line": 718,
+        "code": "$lng->txt(\"expanded\")",
+        "has_variable": false,
+        "variable": "expanded"
+    },
+    {
+        "id": 46614,
+        "file": "components\/ILIAS\/UIComponent\/Explorer\/classes\/class.ilExplorer.php",
+        "line": 748,
+        "code": "$lng->txt(\"icon\")",
+        "has_variable": false,
+        "variable": "icon"
+    },
+    {
+        "id": 46616,
+        "file": "components\/ILIAS\/UIComponent\/Explorer\/classes\/class.ilExplorer.php",
+        "line": 748,
+        "code": "$lng->txt($a_option[\"desc\"])",
+        "has_variable": true,
+        "variable": "_"
+    },
+    {
+        "id": 46618,
+        "file": "components\/ILIAS\/UIComponent\/Explorer2\/classes\/class.ilExplorerSelectInputGUI.php",
+        "line": 144,
+        "code": "$lng->txt(\"msg_input_is_required\")",
+        "has_variable": false,
+        "variable": "msg_input_is_required"
+    },
+    {
+        "id": 46620,
+        "file": "components\/ILIAS\/UIComponent\/Explorer2\/classes\/class.ilExplorerSelectInputGUI.php",
+        "line": 216,
+        "code": "$lng->txt(\"select\")",
+        "has_variable": false,
+        "variable": "select"
+    },
+    {
+        "id": 46622,
+        "file": "components\/ILIAS\/UIComponent\/Explorer2\/classes\/class.ilExplorerSelectInputGUI.php",
+        "line": 221,
+        "code": "$lng->txt(\"reset\")",
+        "has_variable": false,
+        "variable": "reset"
+    },
+    {
+        "id": 46624,
+        "file": "components\/ILIAS\/UIComponent\/Explorer2\/classes\/class.ilTreeExplorerGUI.php",
+        "line": 280,
+        "code": "$lng->txt(\"icon\")",
+        "has_variable": false,
+        "variable": "icon"
+    },
+    {
+        "id": 46626,
+        "file": "components\/ILIAS\/UIComponent\/Explorer2\/classes\/class.ilTreeExplorerGUI.php",
+        "line": 280,
+        "code": "$lng->txt(\"obj_\" . ($a_node[\"type\"] ?? ''))",
+        "has_variable": true,
+        "variable": "\"obj_\" . ($a_node[\"type\"] ?? '')"
+    },
+    {
+        "id": 46628,
+        "file": "components\/ILIAS\/UIComponent\/Tabs\/classes\/class.ilTabsGUI.php",
+        "line": 466,
+        "code": "$lng->txt($target[\"text\"])",
+        "has_variable": true,
+        "variable": "\\$target"
+    },
+    {
+        "id": 46630,
+        "file": "components\/ILIAS\/UIComponent\/Tabs\/classes\/class.ilTabsGUI.php",
+        "line": 470,
+        "code": "$lng->txt(\"selected\")",
+        "has_variable": false,
+        "variable": "selected"
+    },
+    {
+        "id": 46632,
+        "file": "components\/ILIAS\/UIComponent\/Tabs\/classes\/class.ilTabsGUI.php",
+        "line": 492,
+        "code": "$lng->txt(\"subtabs\")",
+        "has_variable": false,
+        "variable": "subtabs"
+    },
+    {
+        "id": 46634,
+        "file": "components\/ILIAS\/UIComponent\/Tabs\/classes\/class.ilTabsGUI.php",
+        "line": 494,
+        "code": "$lng->txt(\"tabs\")",
+        "has_variable": false,
+        "variable": "tabs"
+    },
+    {
+        "id": 46636,
+        "file": "components\/ILIAS\/UIComponent\/Tabs\/classes\/class.ilTabsGUI.php",
+        "line": 495,
+        "code": "$lng->txt(\"show_more\")",
+        "has_variable": false,
+        "variable": "show_more"
+    },
+    {
+        "id": 46638,
+        "file": "components\/ILIAS\/UIComponent\/Tabs\/classes\/class.ilTabsGUI.php",
+        "line": 542,
+        "code": "$this->lng->txt($target[\"text\"])",
+        "has_variable": true,
+        "variable": "\\$target"
+    },
+    {
+        "id": 46640,
+        "file": "components\/ILIAS\/UIComponent\/Toolbar\/classes\/class.ilToolbarGUI.php",
+        "line": 287,
+        "code": "$this->lng->txt('toolbar_more_actions')",
+        "has_variable": false,
+        "variable": "toolbar_more_actions"
+    },
+    {
+        "id": 46642,
+        "file": "components\/ILIAS\/UIComponent\/Toolbar\/classes\/class.ilToolbarGUI.php",
+        "line": 399,
+        "code": "$lng->txt(\"functions\")",
+        "has_variable": false,
+        "variable": "functions"
+    }
+]

@@ -1,0 +1,42 @@
+{
+    "metadata": {
+        "type": "full",
+        "count": 3,
+        "description": "Variable usages without detectable prefixes or suffixes (pure variable references without static strings)"
+    },
+    "matches": [
+        {
+            "id": 25880,
+            "file": "components\/ILIAS\/MainMenu\/classes\/Administration\/SubItems\/class.ilMMSubitemFormGUI.php",
+            "line": 73,
+            "code": "$this->lng->txt($id)",
+            "variable": "$id",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 25882,
+            "file": "components\/ILIAS\/MainMenu\/classes\/Administration\/TopItems\/class.ilMMTopItemFormGUI.php",
+            "line": 73,
+            "code": "$this->lng->txt($key)",
+            "variable": "$key",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 25884,
+            "file": "components\/ILIAS\/MainMenu\/classes\/Administration\/TopItems\/class.ilMMTopItemGUI.php",
+            "line": 173,
+            "code": "$this->lng->txt(self::CMD_FLUSH)",
+            "variable": "CMD_FLUSH",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        }
+    ]
+}

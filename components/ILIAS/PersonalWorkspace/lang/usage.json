@@ -1,0 +1,802 @@
+[
+    {
+        "id": 29542,
+        "file": "components\/ILIAS\/PersonalWorkspace\/Administration\/classes\/class.ilObjPersonalWorkspaceSettingsGUI.php",
+        "line": 76,
+        "code": "$this->lng->txt('no_permission')",
+        "has_variable": false,
+        "variable": "no_permission"
+    },
+    {
+        "id": 29544,
+        "file": "components\/ILIAS\/PersonalWorkspace\/Administration\/classes\/class.ilObjPersonalWorkspaceSettingsGUI.php",
+        "line": 109,
+        "code": "$lng->txt(\"settings\")",
+        "has_variable": false,
+        "variable": "settings"
+    },
+    {
+        "id": 29546,
+        "file": "components\/ILIAS\/PersonalWorkspace\/Administration\/classes\/class.ilObjPersonalWorkspaceSettingsGUI.php",
+        "line": 117,
+        "code": "$lng->txt(\"perm_settings\")",
+        "has_variable": false,
+        "variable": "perm_settings"
+    },
+    {
+        "id": 29548,
+        "file": "components\/ILIAS\/PersonalWorkspace\/Administration\/classes\/class.ilObjPersonalWorkspaceSettingsGUI.php",
+        "line": 140,
+        "code": "$lng->txt(\"obj_prss\")",
+        "has_variable": false,
+        "variable": "obj_prss"
+    },
+    {
+        "id": 29550,
+        "file": "components\/ILIAS\/PersonalWorkspace\/Administration\/classes\/class.ilObjPersonalWorkspaceSettingsGUI.php",
+        "line": 143,
+        "code": "$lng->txt('pwsp_enable_personal_resources')",
+        "has_variable": false,
+        "variable": "pwsp_enable_personal_resources"
+    },
+    {
+        "id": 29552,
+        "file": "components\/ILIAS\/PersonalWorkspace\/Administration\/classes\/class.ilObjPersonalWorkspaceSettingsGUI.php",
+        "line": 149,
+        "code": "$lng->txt('pwsp_enable_wsp_blogs')",
+        "has_variable": false,
+        "variable": "pwsp_enable_wsp_blogs"
+    },
+    {
+        "id": 29554,
+        "file": "components\/ILIAS\/PersonalWorkspace\/Administration\/classes\/class.ilObjPersonalWorkspaceSettingsGUI.php",
+        "line": 155,
+        "code": "$lng->txt('pwsp_enable_wsp_files')",
+        "has_variable": false,
+        "variable": "pwsp_enable_wsp_files"
+    },
+    {
+        "id": 29556,
+        "file": "components\/ILIAS\/PersonalWorkspace\/Administration\/classes\/class.ilObjPersonalWorkspaceSettingsGUI.php",
+        "line": 161,
+        "code": "$lng->txt('pwsp_enable_wsp_links')",
+        "has_variable": false,
+        "variable": "pwsp_enable_wsp_links"
+    },
+    {
+        "id": 29558,
+        "file": "components\/ILIAS\/PersonalWorkspace\/Administration\/classes\/class.ilObjPersonalWorkspaceSettingsGUI.php",
+        "line": 168,
+        "code": "$lng->txt(\"save\")",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 29560,
+        "file": "components\/ILIAS\/PersonalWorkspace\/Administration\/classes\/class.ilObjPersonalWorkspaceSettingsGUI.php",
+        "line": 169,
+        "code": "$lng->txt(\"cancel\")",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 29562,
+        "file": "components\/ILIAS\/PersonalWorkspace\/Administration\/classes\/class.ilObjPersonalWorkspaceSettingsGUI.php",
+        "line": 204,
+        "code": "$this->lng->txt(\"settings_saved\")",
+        "has_variable": false,
+        "variable": "settings_saved"
+    },
+    {
+        "id": 29564,
+        "file": "components\/ILIAS\/PersonalWorkspace\/classes\/class.ilPersonalWorkspaceGUI.php",
+        "line": 93,
+        "code": "$this->lng->txt(\"no_permission\")",
+        "has_variable": false,
+        "variable": "no_permission"
+    },
+    {
+        "id": 29566,
+        "file": "components\/ILIAS\/PersonalWorkspace\/classes\/class.ilPersonalWorkspaceGUI.php",
+        "line": 188,
+        "code": "$lng->txt(\"back\")",
+        "has_variable": false,
+        "variable": "back"
+    },
+    {
+        "id": 29568,
+        "file": "components\/ILIAS\/PersonalWorkspace\/classes\/class.ilPersonalWorkspaceGUI.php",
+        "line": 198,
+        "code": "$lng->txt(\"back\")",
+        "has_variable": false,
+        "variable": "back"
+    },
+    {
+        "id": 29570,
+        "file": "components\/ILIAS\/PersonalWorkspace\/classes\/class.ilPersonalWorkspaceGUI.php",
+        "line": 228,
+        "code": "$lng->txt(\"mm_personal_and_shared_r\")",
+        "has_variable": false,
+        "variable": "mm_personal_and_shared_r"
+    },
+    {
+        "id": 29572,
+        "file": "components\/ILIAS\/PersonalWorkspace\/classes\/class.ilSharedResourceGUI.php",
+        "line": 94,
+        "code": "$lng->txt(\"wsp_tab_shared\")",
+        "has_variable": false,
+        "variable": "wsp_tab_shared"
+    },
+    {
+        "id": 29574,
+        "file": "components\/ILIAS\/PersonalWorkspace\/classes\/class.ilSharedResourceGUI.php",
+        "line": 99,
+        "code": "$lng->txt(\"wsp_tab_personal\")",
+        "has_variable": false,
+        "variable": "wsp_tab_personal"
+    },
+    {
+        "id": 29576,
+        "file": "components\/ILIAS\/PersonalWorkspace\/classes\/class.ilSharedResourceGUI.php",
+        "line": 290,
+        "code": "$lng->txt(\"wsp_password_protected_resource\")",
+        "has_variable": false,
+        "variable": "wsp_password_protected_resource"
+    },
+    {
+        "id": 29578,
+        "file": "components\/ILIAS\/PersonalWorkspace\/classes\/class.ilSharedResourceGUI.php",
+        "line": 291,
+        "code": "$lng->txt(\"wsp_password_protected_resource_info\")",
+        "has_variable": false,
+        "variable": "wsp_password_protected_resource_info"
+    },
+    {
+        "id": 29580,
+        "file": "components\/ILIAS\/PersonalWorkspace\/classes\/class.ilSharedResourceGUI.php",
+        "line": 315,
+        "code": "$lng->txt(\"wsp_password_for\")",
+        "has_variable": false,
+        "variable": "wsp_password_for"
+    },
+    {
+        "id": 29582,
+        "file": "components\/ILIAS\/PersonalWorkspace\/classes\/class.ilSharedResourceGUI.php",
+        "line": 317,
+        "code": "$lng->txt(\"password\")",
+        "has_variable": false,
+        "variable": "password"
+    },
+    {
+        "id": 29584,
+        "file": "components\/ILIAS\/PersonalWorkspace\/classes\/class.ilSharedResourceGUI.php",
+        "line": 323,
+        "code": "$lng->txt(\"submit\")",
+        "has_variable": false,
+        "variable": "submit"
+    },
+    {
+        "id": 29586,
+        "file": "components\/ILIAS\/PersonalWorkspace\/classes\/class.ilSharedResourceGUI.php",
+        "line": 326,
+        "code": "$lng->txt(\"back\")",
+        "has_variable": false,
+        "variable": "back"
+    },
+    {
+        "id": 29588,
+        "file": "components\/ILIAS\/PersonalWorkspace\/classes\/class.ilSharedResourceGUI.php",
+        "line": 327,
+        "code": "$lng->txt(\"cancel\")",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 29590,
+        "file": "components\/ILIAS\/PersonalWorkspace\/classes\/class.ilSharedResourceGUI.php",
+        "line": 374,
+        "code": "$lng->txt(\"wsp_invalid_password\")",
+        "has_variable": false,
+        "variable": "wsp_invalid_password"
+    },
+    {
+        "id": 29592,
+        "file": "components\/ILIAS\/PersonalWorkspace\/classes\/class.ilSharedResourceGUI.php",
+        "line": 375,
+        "code": "$lng->txt(\"form_input_not_valid\")",
+        "has_variable": false,
+        "variable": "form_input_not_valid"
+    },
+    {
+        "id": 29594,
+        "file": "components\/ILIAS\/PersonalWorkspace\/classes\/class.ilSingleUserShareGUI.php",
+        "line": 71,
+        "code": "$this->lng->txt(\"share_content\")",
+        "has_variable": false,
+        "variable": "share_content"
+    },
+    {
+        "id": 29596,
+        "file": "components\/ILIAS\/PersonalWorkspace\/classes\/class.ilSingleUserShareGUI.php",
+        "line": 76,
+        "code": "$this->lng->txt(\"share_with\")",
+        "has_variable": false,
+        "variable": "share_with"
+    },
+    {
+        "id": 29598,
+        "file": "components\/ILIAS\/PersonalWorkspace\/classes\/class.ilSingleUserShareGUI.php",
+        "line": 80,
+        "code": "$this->lng->txt(\"share\")",
+        "has_variable": false,
+        "variable": "share"
+    },
+    {
+        "id": 29600,
+        "file": "components\/ILIAS\/PersonalWorkspace\/classes\/class.ilSingleUserShareGUI.php",
+        "line": 81,
+        "code": "$this->lng->txt(\"cancel\")",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 29602,
+        "file": "components\/ILIAS\/PersonalWorkspace\/classes\/class.ilSingleUserShareGUI.php",
+        "line": 96,
+        "code": "$this->lng->txt(\"element_shared\")",
+        "has_variable": false,
+        "variable": "element_shared"
+    },
+    {
+        "id": 29604,
+        "file": "components\/ILIAS\/PersonalWorkspace\/classes\/class.ilSingleUserShareGUI.php",
+        "line": 98,
+        "code": "$this->lng->txt(\"element_already_shared\")",
+        "has_variable": false,
+        "variable": "element_already_shared"
+    },
+    {
+        "id": 29606,
+        "file": "components\/ILIAS\/PersonalWorkspace\/classes\/class.ilSingleUserShareGUI.php",
+        "line": 102,
+        "code": "$this->lng->txt('wsp_search_no_match')",
+        "has_variable": false,
+        "variable": "wsp_search_no_match"
+    },
+    {
+        "id": 29608,
+        "file": "components\/ILIAS\/PersonalWorkspace\/classes\/class.ilWorkspaceAccessGUI.php",
+        "line": 100,
+        "code": "$this->lng->txt(\"back\")",
+        "has_variable": false,
+        "variable": "back"
+    },
+    {
+        "id": 29610,
+        "file": "components\/ILIAS\/PersonalWorkspace\/classes\/class.ilWorkspaceAccessGUI.php",
+        "line": 112,
+        "code": "$this->lng->txt(\"back\")",
+        "has_variable": false,
+        "variable": "back"
+    },
+    {
+        "id": 29612,
+        "file": "components\/ILIAS\/PersonalWorkspace\/classes\/class.ilWorkspaceAccessGUI.php",
+        "line": 124,
+        "code": "$this->lng->txt(\"back\")",
+        "has_variable": false,
+        "variable": "back"
+    },
+    {
+        "id": 29614,
+        "file": "components\/ILIAS\/PersonalWorkspace\/classes\/class.ilWorkspaceAccessGUI.php",
+        "line": 136,
+        "code": "$this->lng->txt(\"back\")",
+        "has_variable": false,
+        "variable": "back"
+    },
+    {
+        "id": 29616,
+        "file": "components\/ILIAS\/PersonalWorkspace\/classes\/class.ilWorkspaceAccessGUI.php",
+        "line": 149,
+        "code": "$this->lng->txt(\"back\")",
+        "has_variable": false,
+        "variable": "back"
+    },
+    {
+        "id": 29618,
+        "file": "components\/ILIAS\/PersonalWorkspace\/classes\/class.ilWorkspaceAccessGUI.php",
+        "line": 203,
+        "code": "$this->lng->txt(\"wsp_set_permission_single_user\")",
+        "has_variable": false,
+        "variable": "wsp_set_permission_single_user"
+    },
+    {
+        "id": 29620,
+        "file": "components\/ILIAS\/PersonalWorkspace\/classes\/class.ilWorkspaceAccessGUI.php",
+        "line": 207,
+        "code": "$this->lng->txt(\"wsp_set_permission_group\")",
+        "has_variable": false,
+        "variable": "wsp_set_permission_group"
+    },
+    {
+        "id": 29622,
+        "file": "components\/ILIAS\/PersonalWorkspace\/classes\/class.ilWorkspaceAccessGUI.php",
+        "line": 212,
+        "code": "$this->lng->txt(\"wsp_set_permission_course\")",
+        "has_variable": false,
+        "variable": "wsp_set_permission_course"
+    },
+    {
+        "id": 29624,
+        "file": "components\/ILIAS\/PersonalWorkspace\/classes\/class.ilWorkspaceAccessGUI.php",
+        "line": 216,
+        "code": "$this->lng->txt(\"wsp_set_permission_registered\")",
+        "has_variable": false,
+        "variable": "wsp_set_permission_registered"
+    },
+    {
+        "id": 29626,
+        "file": "components\/ILIAS\/PersonalWorkspace\/classes\/class.ilWorkspaceAccessGUI.php",
+        "line": 221,
+        "code": "$this->lng->txt(\"wsp_set_permission_all_password\")",
+        "has_variable": false,
+        "variable": "wsp_set_permission_all_password"
+    },
+    {
+        "id": 29628,
+        "file": "components\/ILIAS\/PersonalWorkspace\/classes\/class.ilWorkspaceAccessGUI.php",
+        "line": 225,
+        "code": "$this->lng->txt(\"wsp_set_permission_all\")",
+        "has_variable": false,
+        "variable": "wsp_set_permission_all"
+    },
+    {
+        "id": 29630,
+        "file": "components\/ILIAS\/PersonalWorkspace\/classes\/class.ilWorkspaceAccessGUI.php",
+        "line": 236,
+        "code": "$this->lng->txt(\"add\")",
+        "has_variable": false,
+        "variable": "add"
+    },
+    {
+        "id": 29632,
+        "file": "components\/ILIAS\/PersonalWorkspace\/classes\/class.ilWorkspaceAccessGUI.php",
+        "line": 269,
+        "code": "$this->lng->txt(\"wsp_share_success\")",
+        "has_variable": false,
+        "variable": "wsp_share_success"
+    },
+    {
+        "id": 29634,
+        "file": "components\/ILIAS\/PersonalWorkspace\/classes\/class.ilWorkspaceAccessGUI.php",
+        "line": 279,
+        "code": "$this->lng->txt(\"wsp_permission_all_info\")",
+        "has_variable": false,
+        "variable": "wsp_permission_all_info"
+    },
+    {
+        "id": 29636,
+        "file": "components\/ILIAS\/PersonalWorkspace\/classes\/class.ilWorkspaceAccessGUI.php",
+        "line": 289,
+        "code": "$this->lng->txt(\"wsp_permission_removed\")",
+        "has_variable": false,
+        "variable": "wsp_permission_removed"
+    },
+    {
+        "id": 29638,
+        "file": "components\/ILIAS\/PersonalWorkspace\/classes\/class.ilWorkspaceAccessGUI.php",
+        "line": 299,
+        "code": "$this->lng->txt(\"wsp_set_permission_all_password\")",
+        "has_variable": false,
+        "variable": "wsp_set_permission_all_password"
+    },
+    {
+        "id": 29640,
+        "file": "components\/ILIAS\/PersonalWorkspace\/classes\/class.ilWorkspaceAccessGUI.php",
+        "line": 301,
+        "code": "$this->lng->txt(\"password\")",
+        "has_variable": false,
+        "variable": "password"
+    },
+    {
+        "id": 29642,
+        "file": "components\/ILIAS\/PersonalWorkspace\/classes\/class.ilWorkspaceAccessGUI.php",
+        "line": 305,
+        "code": "$this->lng->txt(\"save\")",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 29644,
+        "file": "components\/ILIAS\/PersonalWorkspace\/classes\/class.ilWorkspaceAccessGUI.php",
+        "line": 306,
+        "code": "$this->lng->txt(\"cancel\")",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 29646,
+        "file": "components\/ILIAS\/PersonalWorkspace\/classes\/class.ilWorkspaceAccessGUI.php",
+        "line": 330,
+        "code": "$this->lng->txt(\"wsp_permission_all_pw_info\")",
+        "has_variable": false,
+        "variable": "wsp_permission_all_pw_info"
+    },
+    {
+        "id": 29648,
+        "file": "components\/ILIAS\/PersonalWorkspace\/classes\/class.ilWorkspaceAccessTableGUI.php",
+        "line": 57,
+        "code": "$lng->txt(\"wsp_shared_table_title\")",
+        "has_variable": false,
+        "variable": "wsp_shared_table_title"
+    },
+    {
+        "id": 29650,
+        "file": "components\/ILIAS\/PersonalWorkspace\/classes\/class.ilWorkspaceAccessTableGUI.php",
+        "line": 59,
+        "code": "$this->lng->txt(\"wsp_shared_with\")",
+        "has_variable": false,
+        "variable": "wsp_shared_with"
+    },
+    {
+        "id": 29652,
+        "file": "components\/ILIAS\/PersonalWorkspace\/classes\/class.ilWorkspaceAccessTableGUI.php",
+        "line": 60,
+        "code": "$this->lng->txt(\"details\")",
+        "has_variable": false,
+        "variable": "details"
+    },
+    {
+        "id": 29654,
+        "file": "components\/ILIAS\/PersonalWorkspace\/classes\/class.ilWorkspaceAccessTableGUI.php",
+        "line": 61,
+        "code": "$this->lng->txt(\"actions\")",
+        "has_variable": false,
+        "variable": "actions"
+    },
+    {
+        "id": 29656,
+        "file": "components\/ILIAS\/PersonalWorkspace\/classes\/class.ilWorkspaceAccessTableGUI.php",
+        "line": 87,
+        "code": "$this->lng->txt(\"wsp_set_permission_registered\")",
+        "has_variable": false,
+        "variable": "wsp_set_permission_registered"
+    },
+    {
+        "id": 29658,
+        "file": "components\/ILIAS\/PersonalWorkspace\/classes\/class.ilWorkspaceAccessTableGUI.php",
+        "line": 92,
+        "code": "$this->lng->txt(\"wsp_set_permission_all_password\")",
+        "has_variable": false,
+        "variable": "wsp_set_permission_all_password"
+    },
+    {
+        "id": 29660,
+        "file": "components\/ILIAS\/PersonalWorkspace\/classes\/class.ilWorkspaceAccessTableGUI.php",
+        "line": 97,
+        "code": "$this->lng->txt(\"wsp_set_permission_all\")",
+        "has_variable": false,
+        "variable": "wsp_set_permission_all"
+    },
+    {
+        "id": 29662,
+        "file": "components\/ILIAS\/PersonalWorkspace\/classes\/class.ilWorkspaceAccessTableGUI.php",
+        "line": 103,
+        "code": "$this->lng->txt(\"obj_\" . $type)",
+        "has_variable": true,
+        "variable": "\"obj_\" . $type"
+    },
+    {
+        "id": 29664,
+        "file": "components\/ILIAS\/PersonalWorkspace\/classes\/class.ilWorkspaceAccessTableGUI.php",
+        "line": 144,
+        "code": "$this->lng->txt(\"remove\")",
+        "has_variable": false,
+        "variable": "remove"
+    },
+    {
+        "id": 29666,
+        "file": "components\/ILIAS\/PersonalWorkspace\/classes\/class.ilWorkspaceExplorerGUI.php",
+        "line": 173,
+        "code": "$lng->txt(\"personal_resources\")",
+        "has_variable": false,
+        "variable": "personal_resources"
+    },
+    {
+        "id": 29668,
+        "file": "components\/ILIAS\/PersonalWorkspace\/classes\/class.ilWorkspaceShareTableGUI.php",
+        "line": 76,
+        "code": "$lng->txt(\"wsp_shared_resources\")",
+        "has_variable": false,
+        "variable": "wsp_shared_resources"
+    },
+    {
+        "id": 29670,
+        "file": "components\/ILIAS\/PersonalWorkspace\/classes\/class.ilWorkspaceShareTableGUI.php",
+        "line": 78,
+        "code": "$this->lng->txt(\"lastname\")",
+        "has_variable": false,
+        "variable": "lastname"
+    },
+    {
+        "id": 29672,
+        "file": "components\/ILIAS\/PersonalWorkspace\/classes\/class.ilWorkspaceShareTableGUI.php",
+        "line": 79,
+        "code": "$this->lng->txt(\"firstname\")",
+        "has_variable": false,
+        "variable": "firstname"
+    },
+    {
+        "id": 29674,
+        "file": "components\/ILIAS\/PersonalWorkspace\/classes\/class.ilWorkspaceShareTableGUI.php",
+        "line": 80,
+        "code": "$this->lng->txt(\"login\")",
+        "has_variable": false,
+        "variable": "login"
+    },
+    {
+        "id": 29676,
+        "file": "components\/ILIAS\/PersonalWorkspace\/classes\/class.ilWorkspaceShareTableGUI.php",
+        "line": 83,
+        "code": "$this->lng->txt(\"wsp_shared_object_type\")",
+        "has_variable": false,
+        "variable": "wsp_shared_object_type"
+    },
+    {
+        "id": 29678,
+        "file": "components\/ILIAS\/PersonalWorkspace\/classes\/class.ilWorkspaceShareTableGUI.php",
+        "line": 86,
+        "code": "$this->lng->txt(\"wsp_shared_date\")",
+        "has_variable": false,
+        "variable": "wsp_shared_date"
+    },
+    {
+        "id": 29680,
+        "file": "components\/ILIAS\/PersonalWorkspace\/classes\/class.ilWorkspaceShareTableGUI.php",
+        "line": 87,
+        "code": "$this->lng->txt(\"wsp_shared_title\")",
+        "has_variable": false,
+        "variable": "wsp_shared_title"
+    },
+    {
+        "id": 29682,
+        "file": "components\/ILIAS\/PersonalWorkspace\/classes\/class.ilWorkspaceShareTableGUI.php",
+        "line": 88,
+        "code": "$this->lng->txt(\"wsp_shared_type\")",
+        "has_variable": false,
+        "variable": "wsp_shared_type"
+    },
+    {
+        "id": 29684,
+        "file": "components\/ILIAS\/PersonalWorkspace\/classes\/class.ilWorkspaceShareTableGUI.php",
+        "line": 91,
+        "code": "$this->lng->txt(\"action\")",
+        "has_variable": false,
+        "variable": "action"
+    },
+    {
+        "id": 29686,
+        "file": "components\/ILIAS\/PersonalWorkspace\/classes\/class.ilWorkspaceShareTableGUI.php",
+        "line": 101,
+        "code": "$this->lng->txt(\"wsp_shared_filter_reset_button\")",
+        "has_variable": false,
+        "variable": "wsp_shared_filter_reset_button"
+    },
+    {
+        "id": 29688,
+        "file": "components\/ILIAS\/PersonalWorkspace\/classes\/class.ilWorkspaceShareTableGUI.php",
+        "line": 102,
+        "code": "$this->lng->txt(\"wsp_shared_filter_button\")",
+        "has_variable": false,
+        "variable": "wsp_shared_filter_button"
+    },
+    {
+        "id": 29690,
+        "file": "components\/ILIAS\/PersonalWorkspace\/classes\/class.ilWorkspaceShareTableGUI.php",
+        "line": 136,
+        "code": "$lng->txt(\"wsp_shared_mandatory_filter_info\")",
+        "has_variable": false,
+        "variable": "wsp_shared_mandatory_filter_info"
+    },
+    {
+        "id": 29692,
+        "file": "components\/ILIAS\/PersonalWorkspace\/classes\/class.ilWorkspaceShareTableGUI.php",
+        "line": 155,
+        "code": "$lng->txt(\"wsp_shared_user_filter\")",
+        "has_variable": false,
+        "variable": "wsp_shared_user_filter"
+    },
+    {
+        "id": 29694,
+        "file": "components\/ILIAS\/PersonalWorkspace\/classes\/class.ilWorkspaceShareTableGUI.php",
+        "line": 168,
+        "code": "$lng->txt(\"wsp_shared_title\")",
+        "has_variable": false,
+        "variable": "wsp_shared_title"
+    },
+    {
+        "id": 29696,
+        "file": "components\/ILIAS\/PersonalWorkspace\/classes\/class.ilWorkspaceShareTableGUI.php",
+        "line": 171,
+        "code": "$lng->txt(\"wsp_shared_date_filter\")",
+        "has_variable": false,
+        "variable": "wsp_shared_date_filter"
+    },
+    {
+        "id": 29698,
+        "file": "components\/ILIAS\/PersonalWorkspace\/classes\/class.ilWorkspaceShareTableGUI.php",
+        "line": 176,
+        "code": "$lng->txt(\"search_any\")",
+        "has_variable": false,
+        "variable": "search_any"
+    },
+    {
+        "id": 29700,
+        "file": "components\/ILIAS\/PersonalWorkspace\/classes\/class.ilWorkspaceShareTableGUI.php",
+        "line": 184,
+        "code": "$lng->txt(\"wsp_type_\" . $type)",
+        "has_variable": true,
+        "variable": "\"wsp_type_\" . $type"
+    },
+    {
+        "id": 29702,
+        "file": "components\/ILIAS\/PersonalWorkspace\/classes\/class.ilWorkspaceShareTableGUI.php",
+        "line": 187,
+        "code": "$lng->txt(\"obj_prtf\")",
+        "has_variable": false,
+        "variable": "obj_prtf"
+    },
+    {
+        "id": 29704,
+        "file": "components\/ILIAS\/PersonalWorkspace\/classes\/class.ilWorkspaceShareTableGUI.php",
+        "line": 191,
+        "code": "$lng->txt(\"wsp_shared_object_type\")",
+        "has_variable": false,
+        "variable": "wsp_shared_object_type"
+    },
+    {
+        "id": 29706,
+        "file": "components\/ILIAS\/PersonalWorkspace\/classes\/class.ilWorkspaceShareTableGUI.php",
+        "line": 198,
+        "code": "$lng->txt(\"wsp_set_permission_single_user\")",
+        "has_variable": false,
+        "variable": "wsp_set_permission_single_user"
+    },
+    {
+        "id": 29708,
+        "file": "components\/ILIAS\/PersonalWorkspace\/classes\/class.ilWorkspaceShareTableGUI.php",
+        "line": 201,
+        "code": "$lng->txt(\"wsp_set_permission_group\")",
+        "has_variable": false,
+        "variable": "wsp_set_permission_group"
+    },
+    {
+        "id": 29710,
+        "file": "components\/ILIAS\/PersonalWorkspace\/classes\/class.ilWorkspaceShareTableGUI.php",
+        "line": 205,
+        "code": "$lng->txt(\"wsp_set_permission_course\")",
+        "has_variable": false,
+        "variable": "wsp_set_permission_course"
+    },
+    {
+        "id": 29712,
+        "file": "components\/ILIAS\/PersonalWorkspace\/classes\/class.ilWorkspaceShareTableGUI.php",
+        "line": 209,
+        "code": "$lng->txt(\"wsp_set_permission_registered\")",
+        "has_variable": false,
+        "variable": "wsp_set_permission_registered"
+    },
+    {
+        "id": 29714,
+        "file": "components\/ILIAS\/PersonalWorkspace\/classes\/class.ilWorkspaceShareTableGUI.php",
+        "line": 214,
+        "code": "$this->lng->txt(\"wsp_set_permission_all_password\")",
+        "has_variable": false,
+        "variable": "wsp_set_permission_all_password"
+    },
+    {
+        "id": 29716,
+        "file": "components\/ILIAS\/PersonalWorkspace\/classes\/class.ilWorkspaceShareTableGUI.php",
+        "line": 218,
+        "code": "$this->lng->txt(\"wsp_set_permission_all\")",
+        "has_variable": false,
+        "variable": "wsp_set_permission_all"
+    },
+    {
+        "id": 29718,
+        "file": "components\/ILIAS\/PersonalWorkspace\/classes\/class.ilWorkspaceShareTableGUI.php",
+        "line": 223,
+        "code": "$lng->txt(\"wsp_shared_type\")",
+        "has_variable": false,
+        "variable": "wsp_shared_type"
+    },
+    {
+        "id": 29720,
+        "file": "components\/ILIAS\/PersonalWorkspace\/classes\/class.ilWorkspaceShareTableGUI.php",
+        "line": 224,
+        "code": "$lng->txt(\"search_any\")",
+        "has_variable": false,
+        "variable": "search_any"
+    },
+    {
+        "id": 29722,
+        "file": "components\/ILIAS\/PersonalWorkspace\/classes\/class.ilWorkspaceShareTableGUI.php",
+        "line": 231,
+        "code": "$lng->txt(\"obj_crs\")",
+        "has_variable": false,
+        "variable": "obj_crs"
+    },
+    {
+        "id": 29724,
+        "file": "components\/ILIAS\/PersonalWorkspace\/classes\/class.ilWorkspaceShareTableGUI.php",
+        "line": 234,
+        "code": "$lng->txt(\"obj_grp\")",
+        "has_variable": false,
+        "variable": "obj_grp"
+    },
+    {
+        "id": 29726,
+        "file": "components\/ILIAS\/PersonalWorkspace\/classes\/class.ilWorkspaceShareTableGUI.php",
+        "line": 237,
+        "code": "$lng->txt(\"wsp_shared_member_filter\")",
+        "has_variable": false,
+        "variable": "wsp_shared_member_filter"
+    },
+    {
+        "id": 29728,
+        "file": "components\/ILIAS\/PersonalWorkspace\/classes\/class.ilWorkspaceShareTableGUI.php",
+        "line": 238,
+        "code": "$lng->txt(\"search_any\")",
+        "has_variable": false,
+        "variable": "search_any"
+    },
+    {
+        "id": 29730,
+        "file": "components\/ILIAS\/PersonalWorkspace\/classes\/class.ilWorkspaceShareTableGUI.php",
+        "line": 266,
+        "code": "$lng->txt(\"wsp_type_\" . ($item[\"type\"] ?? \"\"))",
+        "has_variable": true,
+        "variable": "\"wsp_type_\" . ($item[\"type\"] ?? \"\")"
+    },
+    {
+        "id": 29732,
+        "file": "components\/ILIAS\/PersonalWorkspace\/classes\/class.ilWorkspaceShareTableGUI.php",
+        "line": 314,
+        "code": "$this->lng->txt(\"wsp_set_permission_registered\")",
+        "has_variable": false,
+        "variable": "wsp_set_permission_registered"
+    },
+    {
+        "id": 29734,
+        "file": "components\/ILIAS\/PersonalWorkspace\/classes\/class.ilWorkspaceShareTableGUI.php",
+        "line": 319,
+        "code": "$this->lng->txt(\"wsp_set_permission_all_password\")",
+        "has_variable": false,
+        "variable": "wsp_set_permission_all_password"
+    },
+    {
+        "id": 29736,
+        "file": "components\/ILIAS\/PersonalWorkspace\/classes\/class.ilWorkspaceShareTableGUI.php",
+        "line": 324,
+        "code": "$this->lng->txt(\"wsp_set_permission_all\")",
+        "has_variable": false,
+        "variable": "wsp_set_permission_all"
+    },
+    {
+        "id": 29738,
+        "file": "components\/ILIAS\/PersonalWorkspace\/classes\/class.ilWorkspaceShareTableGUI.php",
+        "line": 360,
+        "code": "$lng->txt(\"copy\")",
+        "has_variable": false,
+        "variable": "copy"
+    },
+    {
+        "id": 29740,
+        "file": "components\/ILIAS\/PersonalWorkspace\/classes\/class.ilWorkspaceShareTableGUI.php",
+        "line": 369,
+        "code": "$this->lng->txt(\"wsp_send_mail\")",
+        "has_variable": false,
+        "variable": "wsp_send_mail"
+    }
+]

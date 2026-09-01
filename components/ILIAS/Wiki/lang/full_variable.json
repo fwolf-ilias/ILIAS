@@ -1,0 +1,64 @@
+{
+    "metadata": {
+        "type": "full",
+        "count": 5,
+        "description": "Variable usages without detectable prefixes or suffixes (pure variable references without static strings)"
+    },
+    "matches": [
+        {
+            "id": 49778,
+            "file": "components\/ILIAS\/Wiki\/classes\/class.ilImportantPagesTableGUI.php",
+            "line": 54,
+            "code": "$this->lng->txt(\"\")",
+            "variable": "",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 49918,
+            "file": "components\/ILIAS\/Wiki\/classes\/class.ilObjWikiGUI.php",
+            "line": 1463,
+            "code": "$lng->txt(\"\")",
+            "variable": "",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 50030,
+            "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiExportOrderTableGUI.php",
+            "line": 46,
+            "code": "$lng->txt($title)",
+            "variable": "$title",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 50228,
+            "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiPageTemplatesTableGUI.php",
+            "line": 50,
+            "code": "$lng->txt(\"\")",
+            "variable": "",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 50230,
+            "file": "components\/ILIAS\/Wiki\/classes\/class.ilWikiPageTemplatesTableGUI.php",
+            "line": 52,
+            "code": "$this->lng->txt(\"\")",
+            "variable": "",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        }
+    ]
+}

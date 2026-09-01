@@ -1,0 +1,119 @@
+{
+    "metadata": {
+        "type": "full",
+        "count": 10,
+        "description": "Variable usages without detectable prefixes or suffixes (pure variable references without static strings)"
+    },
+    "matches": [
+        {
+            "id": 48922,
+            "file": "components\/ILIAS\/WebServices\/ECS\/classes\/Mapping\/class.ilECSMappingSettingsGUI.php",
+            "line": 552,
+            "code": "$this->lng->txt($info['lang'])",
+            "variable": "\\$info",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 48996,
+            "file": "components\/ILIAS\/WebServices\/ECS\/classes\/Mapping\/class.ilECSMappingSettingsGUI.php",
+            "line": 901,
+            "code": "$this->lng->txt('settings_saved', \"1\")",
+            "variable": "_",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 49032,
+            "file": "components\/ILIAS\/WebServices\/ECS\/classes\/Mapping\/class.ilECSNodeMappingCmsExplorer.php",
+            "line": 192,
+            "code": "$this->lng->txt($a_option[\"desc\"])",
+            "variable": "_",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 49038,
+            "file": "components\/ILIAS\/WebServices\/ECS\/classes\/Mapping\/class.ilECSNodeMappingLocalExplorer.php",
+            "line": 201,
+            "code": "$this->lng->txt($a_option[\"desc\"])",
+            "variable": "_",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 49270,
+            "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSParticipantSettingsGUI.php",
+            "line": 237,
+            "code": "$this->lng->txt(\"ecs_export_auth_type_{$auth_strategy->getName()}\")",
+            "variable": "ecs_export_auth_type_{$auth_strategy->getName()}",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 49296,
+            "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSParticipantSettingsGUI.php",
+            "line": 324,
+            "code": "$this->lng->txt(\"auth_{$auth_strategy->getName()}\")",
+            "variable": "auth_{$auth_strategy->getName()}",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 49426,
+            "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSSettingsGUI.php",
+            "line": 462,
+            "code": "$this->lng->txt($error)",
+            "variable": "$error",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 49432,
+            "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSSettingsGUI.php",
+            "line": 486,
+            "code": "$this->lng->txt($error)",
+            "variable": "$error",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 49488,
+            "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSSettingsGUI.php",
+            "line": 1036,
+            "code": "$this->lng->txt($err)",
+            "variable": "$err",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 49498,
+            "file": "components\/ILIAS\/WebServices\/ECS\/classes\/class.ilECSSettingsGUI.php",
+            "line": 1113,
+            "code": "$this->lng->txt($err)",
+            "variable": "$err",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        }
+    ]
+}

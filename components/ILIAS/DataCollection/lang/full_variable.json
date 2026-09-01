@@ -1,0 +1,86 @@
+{
+    "metadata": {
+        "type": "full",
+        "count": 7,
+        "description": "Variable usages without detectable prefixes or suffixes (pure variable references without static strings)"
+    },
+    "matches": [
+        {
+            "id": 12996,
+            "file": "components\/ILIAS\/DataCollection\/classes\/Content\/class.ilDclRecordListGUI.php",
+            "line": 178,
+            "code": "$this->lng->txt(\"dcl_import_records .xls\")",
+            "variable": "\"dcl_import_records .xls\"",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 13194,
+            "file": "components\/ILIAS\/DataCollection\/classes\/Fields\/Formula\/FormulaParser\/Result\/ResultFormatter.php",
+            "line": 65,
+            "code": "$this->lng->txt($unit)",
+            "variable": "$unit",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 13314,
+            "file": "components\/ILIAS\/DataCollection\/classes\/Fields\/Text\/class.ilDclTextRecordRepresentation.php",
+            "line": 80,
+            "code": "$this->lng->txt($key)",
+            "variable": "$key",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 13466,
+            "file": "components\/ILIAS\/DataCollection\/classes\/Table\/class.ilDclTableEditGUI.php",
+            "line": 271,
+            "code": "$this->lng->txt($message)",
+            "variable": "$message",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 13486,
+            "file": "components\/ILIAS\/DataCollection\/classes\/Table\/class.ilDclTableListGUI.php",
+            "line": 160,
+            "code": "$this->lng->txt($table->getIsVisible() ? 'yes' : 'no')",
+            "variable": "I",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 13490,
+            "file": "components\/ILIAS\/DataCollection\/classes\/Table\/class.ilDclTableListGUI.php",
+            "line": 161,
+            "code": "$this->lng->txt($table->getPublicCommentsEnabled() ? 'active' : 'inactive')",
+            "variable": "P",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 13674,
+            "file": "components\/ILIAS\/DataCollection\/classes\/class.ilObjDataCollectionGUI.php",
+            "line": 449,
+            "code": "$this->lng->txt($langKey)",
+            "variable": "$langKey",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "type": "composed",
+        "count": 3,
+        "description": "Variable usages with detectable prefixes or suffixes"
+    },
+    "matches": [
+        {
+            "id": 19346,
+            "file": "components\/ILIAS\/Group\/classes\/class.ilGroupMembershipGUI.php",
+            "line": 199,
+            "code": "$this->lng->txt($this->getParentObject()->getType() . '_header_edit_members')",
+            "variable": "$this->getParentObject()->getType() . '_header_edit_members'",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "_header_edit_members",
+            "matching_variables": [
+                "grp_header_edit_members",
+                "crs_header_edit_members",
+                "lso_header_edit_members"
+            ]
+        },
+        {
+            "id": 19374,
+            "file": "components\/ILIAS\/Group\/classes\/class.ilGroupParticipantsTableGUI.php",
+            "line": 144,
+            "code": "$this->lng->txt('gender_' . $a_set['gender'])",
+            "variable": "'gender_' . $a_set['gender']",
+            "has_variable": true,
+            "prefix": "gender_",
+            "suffix": "",
+            "matching_variables": [
+                "gender_f",
+                "gender_m",
+                "gender_n"
+            ]
+        },
+        {
+            "id": 19472,
+            "file": "components\/ILIAS\/Group\/classes\/class.ilGroupRegistrationGUI.php",
+            "line": 362,
+            "code": "$this->lng->txt($this->type . '_agreement_required')",
+            "variable": "$this->type . '_agreement_required'",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "_agreement_required",
+            "matching_variables": [
+                "crs_agreement_required",
+                "grp_agreement_required"
+            ]
+        }
+    ]
+}

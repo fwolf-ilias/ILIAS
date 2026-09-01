@@ -1,0 +1,10 @@
+[
+    {
+        "id": 1824,
+        "file": "components\/ILIAS\/AuthSOAP\/src\/class.ilAuthProviderSoap.php",
+        "line": 123,
+        "code": "$this->language->txt('err_valid_login_account_creation_disabled')",
+        "has_variable": false,
+        "variable": "err_valid_login_account_creation_disabled"
+    }
+]

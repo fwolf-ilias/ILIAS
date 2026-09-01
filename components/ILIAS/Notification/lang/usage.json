@@ -1,0 +1,66 @@
+[
+    {
+        "id": 28818,
+        "file": "components\/ILIAS\/Notification\/classes\/class.ilObjNotificationSettingsGUI.php",
+        "line": 76,
+        "code": "$lng->txt('obj_notification_settings')",
+        "has_variable": false,
+        "variable": "obj_notification_settings"
+    },
+    {
+        "id": 28820,
+        "file": "components\/ILIAS\/Notification\/classes\/class.ilObjNotificationSettingsGUI.php",
+        "line": 78,
+        "code": "$lng->txt(\"obj_activation\")",
+        "has_variable": false,
+        "variable": "obj_activation"
+    },
+    {
+        "id": 28822,
+        "file": "components\/ILIAS\/Notification\/classes\/class.ilObjNotificationSettingsGUI.php",
+        "line": 81,
+        "code": "$lng->txt(\"obj_user_decides_notification\")",
+        "has_variable": false,
+        "variable": "obj_user_decides_notification"
+    },
+    {
+        "id": 28824,
+        "file": "components\/ILIAS\/Notification\/classes\/class.ilObjNotificationSettingsGUI.php",
+        "line": 82,
+        "code": "$lng->txt(\"obj_settings_for_all_members\")",
+        "has_variable": false,
+        "variable": "obj_settings_for_all_members"
+    },
+    {
+        "id": 28826,
+        "file": "components\/ILIAS\/Notification\/classes\/class.ilObjNotificationSettingsGUI.php",
+        "line": 87,
+        "code": "$lng->txt('obj_user_not_disable_not')",
+        "has_variable": false,
+        "variable": "obj_user_not_disable_not"
+    },
+    {
+        "id": 28828,
+        "file": "components\/ILIAS\/Notification\/classes\/class.ilObjNotificationSettingsGUI.php",
+        "line": 101,
+        "code": "$lng->txt(\"save\")",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 28830,
+        "file": "components\/ILIAS\/Notification\/classes\/class.ilObjNotificationSettingsGUI.php",
+        "line": 103,
+        "code": "$this->lng->txt(\"notifications\")",
+        "has_variable": false,
+        "variable": "notifications"
+    },
+    {
+        "id": 28832,
+        "file": "components\/ILIAS\/Notification\/classes\/class.ilObjNotificationSettingsGUI.php",
+        "line": 123,
+        "code": "$this->lng->txt('saved_successfully')",
+        "has_variable": false,
+        "variable": "saved_successfully"
+    }
+]

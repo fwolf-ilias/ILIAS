@@ -1,0 +1,90 @@
+[
+    {
+        "id": 31140,
+        "file": "components\/ILIAS\/RemoteLearningModule\/classes\/class.ilObjRemoteLearningModuleAccess.php",
+        "line": 51,
+        "code": "$lng->txt(\"offline\")",
+        "has_variable": false,
+        "variable": "offline"
+    },
+    {
+        "id": 31142,
+        "file": "components\/ILIAS\/RemoteLearningModule\/classes\/class.ilObjRemoteLearningModuleAccess.php",
+        "line": 66,
+        "code": "$lng->txt(\"offline\")",
+        "has_variable": false,
+        "variable": "offline"
+    },
+    {
+        "id": 31144,
+        "file": "components\/ILIAS\/RemoteLearningModule\/classes\/class.ilObjRemoteLearningModuleGUI.php",
+        "line": 50,
+        "code": "$this->lng->txt('ecs_availability')",
+        "has_variable": false,
+        "variable": "ecs_availability"
+    },
+    {
+        "id": 31146,
+        "file": "components\/ILIAS\/RemoteLearningModule\/classes\/class.ilObjRemoteLearningModuleGUI.php",
+        "line": 57,
+        "code": "$this->lng->txt('offline')",
+        "has_variable": false,
+        "variable": "offline"
+    },
+    {
+        "id": 31148,
+        "file": "components\/ILIAS\/RemoteLearningModule\/classes\/class.ilObjRemoteLearningModuleGUI.php",
+        "line": 60,
+        "code": "$this->lng->txt('online')",
+        "has_variable": false,
+        "variable": "online"
+    },
+    {
+        "id": 31150,
+        "file": "components\/ILIAS\/RemoteLearningModule\/classes\/class.ilObjRemoteLearningModuleGUI.php",
+        "line": 67,
+        "code": "$this->lng->txt('ecs_availability')",
+        "has_variable": false,
+        "variable": "ecs_availability"
+    },
+    {
+        "id": 31152,
+        "file": "components\/ILIAS\/RemoteLearningModule\/classes\/class.ilObjRemoteLearningModuleGUI.php",
+        "line": 71,
+        "code": "$this->lng->txt('offline')",
+        "has_variable": false,
+        "variable": "offline"
+    },
+    {
+        "id": 31154,
+        "file": "components\/ILIAS\/RemoteLearningModule\/classes\/class.ilObjRemoteLearningModuleGUI.php",
+        "line": 74,
+        "code": "$this->lng->txt('online')",
+        "has_variable": false,
+        "variable": "online"
+    },
+    {
+        "id": 31156,
+        "file": "components\/ILIAS\/RemoteLearningModule\/classes\/class.ilObjRemoteLearningModuleListGUI.php",
+        "line": 79,
+        "code": "$this->lng->txt('organization')",
+        "has_variable": false,
+        "variable": "organization"
+    },
+    {
+        "id": 31158,
+        "file": "components\/ILIAS\/RemoteLearningModule\/classes\/class.ilObjRemoteLearningModuleListGUI.php",
+        "line": 82,
+        "code": "$this->lng->txt(\"status\")",
+        "has_variable": false,
+        "variable": "status"
+    },
+    {
+        "id": 31160,
+        "file": "components\/ILIAS\/RemoteLearningModule\/classes\/class.ilObjRemoteLearningModuleListGUI.php",
+        "line": 82,
+        "code": "$this->lng->txt(\"offline\")",
+        "has_variable": false,
+        "variable": "offline"
+    }
+]

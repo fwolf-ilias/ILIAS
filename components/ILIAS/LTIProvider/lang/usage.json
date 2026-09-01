@@ -1,0 +1,738 @@
+[
+    {
+        "id": 22598,
+        "file": "components\/ILIAS\/LTIProvider\/classes\/Consumer\/class.ilObjectConsumerTableGUI.php",
+        "line": 72,
+        "code": "$this->lng->txt('active')",
+        "has_variable": false,
+        "variable": "active"
+    },
+    {
+        "id": 22600,
+        "file": "components\/ILIAS\/LTIProvider\/classes\/Consumer\/class.ilObjectConsumerTableGUI.php",
+        "line": 73,
+        "code": "$this->lng->txt('title')",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 22602,
+        "file": "components\/ILIAS\/LTIProvider\/classes\/Consumer\/class.ilObjectConsumerTableGUI.php",
+        "line": 74,
+        "code": "$this->lng->txt('description')",
+        "has_variable": false,
+        "variable": "description"
+    },
+    {
+        "id": 22604,
+        "file": "components\/ILIAS\/LTIProvider\/classes\/Consumer\/class.ilObjectConsumerTableGUI.php",
+        "line": 75,
+        "code": "$this->lng->txt('prefix')",
+        "has_variable": false,
+        "variable": "prefix"
+    },
+    {
+        "id": 22606,
+        "file": "components\/ILIAS\/LTIProvider\/classes\/Consumer\/class.ilObjectConsumerTableGUI.php",
+        "line": 76,
+        "code": "$this->lng->txt('in_use')",
+        "has_variable": false,
+        "variable": "in_use"
+    },
+    {
+        "id": 22608,
+        "file": "components\/ILIAS\/LTIProvider\/classes\/Consumer\/class.ilObjectConsumerTableGUI.php",
+        "line": 77,
+        "code": "$this->lng->txt('objects')",
+        "has_variable": false,
+        "variable": "objects"
+    },
+    {
+        "id": 22610,
+        "file": "components\/ILIAS\/LTIProvider\/classes\/Consumer\/class.ilObjectConsumerTableGUI.php",
+        "line": 78,
+        "code": "$this->lng->txt('role')",
+        "has_variable": false,
+        "variable": "role"
+    },
+    {
+        "id": 22612,
+        "file": "components\/ILIAS\/LTIProvider\/classes\/Consumer\/class.ilObjectConsumerTableGUI.php",
+        "line": 149,
+        "code": "$this->lng->txt('edit')",
+        "has_variable": false,
+        "variable": "edit"
+    },
+    {
+        "id": 22614,
+        "file": "components\/ILIAS\/LTIProvider\/classes\/Consumer\/class.ilObjectConsumerTableGUI.php",
+        "line": 154,
+        "code": "$this->lng->txt('delete')",
+        "has_variable": false,
+        "variable": "delete"
+    },
+    {
+        "id": 22616,
+        "file": "components\/ILIAS\/LTIProvider\/classes\/Consumer\/class.ilObjectConsumerTableGUI.php",
+        "line": 159,
+        "code": "$this->lng->txt('activate')",
+        "has_variable": false,
+        "variable": "activate"
+    },
+    {
+        "id": 22618,
+        "file": "components\/ILIAS\/LTIProvider\/classes\/Consumer\/class.ilObjectConsumerTableGUI.php",
+        "line": 159,
+        "code": "$this->lng->txt('deactivate')",
+        "has_variable": false,
+        "variable": "deactivate"
+    },
+    {
+        "id": 22620,
+        "file": "components\/ILIAS\/LTIProvider\/classes\/Consumer\/class.ilObjectConsumerTableGUI.php",
+        "line": 185,
+        "code": "$this->lng->txt('active')",
+        "has_variable": false,
+        "variable": "active"
+    },
+    {
+        "id": 22622,
+        "file": "components\/ILIAS\/LTIProvider\/classes\/Consumer\/class.ilObjectConsumerTableGUI.php",
+        "line": 185,
+        "code": "$this->lng->txt('inactive')",
+        "has_variable": false,
+        "variable": "inactive"
+    },
+    {
+        "id": 22624,
+        "file": "components\/ILIAS\/LTIProvider\/classes\/Consumer\/class.ilObjectConsumerTableGUI.php",
+        "line": 222,
+        "code": "$this->lng->txt('lti_object_consumer')",
+        "has_variable": false,
+        "variable": "lti_object_consumer"
+    },
+    {
+        "id": 22626,
+        "file": "components\/ILIAS\/LTIProvider\/classes\/InternalProvider\/class.ilLTIProviderObjectSettingGUI.php",
+        "line": 135,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 22628,
+        "file": "components\/ILIAS\/LTIProvider\/classes\/InternalProvider\/class.ilLTIProviderObjectSettingGUI.php",
+        "line": 168,
+        "code": "$this->lng->txt('lti_object_release_settings_form')",
+        "has_variable": false,
+        "variable": "lti_object_release_settings_form"
+    },
+    {
+        "id": 22630,
+        "file": "components\/ILIAS\/LTIProvider\/classes\/InternalProvider\/class.ilLTIProviderObjectSettingGUI.php",
+        "line": 189,
+        "code": "$this->lng->txt('lti_obj_active')",
+        "has_variable": false,
+        "variable": "lti_obj_active"
+    },
+    {
+        "id": 22632,
+        "file": "components\/ILIAS\/LTIProvider\/classes\/InternalProvider\/class.ilLTIProviderObjectSettingGUI.php",
+        "line": 190,
+        "code": "$this->lng->txt('lti_obj_active_info')",
+        "has_variable": false,
+        "variable": "lti_obj_active_info"
+    },
+    {
+        "id": 22634,
+        "file": "components\/ILIAS\/LTIProvider\/classes\/InternalProvider\/class.ilLTIProviderObjectSettingGUI.php",
+        "line": 197,
+        "code": "$this->lng->txt('lti_admin')",
+        "has_variable": false,
+        "variable": "lti_admin"
+    },
+    {
+        "id": 22636,
+        "file": "components\/ILIAS\/LTIProvider\/classes\/InternalProvider\/class.ilLTIProviderObjectSettingGUI.php",
+        "line": 205,
+        "code": "$this->lng->txt('lti_tutor')",
+        "has_variable": false,
+        "variable": "lti_tutor"
+    },
+    {
+        "id": 22638,
+        "file": "components\/ILIAS\/LTIProvider\/classes\/InternalProvider\/class.ilLTIProviderObjectSettingGUI.php",
+        "line": 213,
+        "code": "$this->lng->txt('lti_member')",
+        "has_variable": false,
+        "variable": "lti_member"
+    },
+    {
+        "id": 22640,
+        "file": "components\/ILIAS\/LTIProvider\/classes\/InternalProvider\/class.ilLTIProviderObjectSettingGUI.php",
+        "line": 222,
+        "code": "$this->lng->txt('lti_obj_version')",
+        "has_variable": false,
+        "variable": "lti_obj_version"
+    },
+    {
+        "id": 22642,
+        "file": "components\/ILIAS\/LTIProvider\/classes\/InternalProvider\/class.ilLTIProviderObjectSettingGUI.php",
+        "line": 227,
+        "code": "$this->lng->txt('lti_obj_version_info')",
+        "has_variable": false,
+        "variable": "lti_obj_version_info"
+    },
+    {
+        "id": 22644,
+        "file": "components\/ILIAS\/LTIProvider\/classes\/InternalProvider\/class.ilLTIProviderObjectSettingGUI.php",
+        "line": 228,
+        "code": "$this->lng->txt(\"lti_obj_version_13\")",
+        "has_variable": false,
+        "variable": "lti_obj_version_13"
+    },
+    {
+        "id": 22646,
+        "file": "components\/ILIAS\/LTIProvider\/classes\/InternalProvider\/class.ilLTIProviderObjectSettingGUI.php",
+        "line": 229,
+        "code": "$this->lng->txt('lti_13_step1')",
+        "has_variable": false,
+        "variable": "lti_13_step1"
+    },
+    {
+        "id": 22648,
+        "file": "components\/ILIAS\/LTIProvider\/classes\/InternalProvider\/class.ilLTIProviderObjectSettingGUI.php",
+        "line": 230,
+        "code": "$this->lng->txt(\"lti_13_step1_info\")",
+        "has_variable": false,
+        "variable": "lti_13_step1_info"
+    },
+    {
+        "id": 22650,
+        "file": "components\/ILIAS\/LTIProvider\/classes\/InternalProvider\/class.ilLTIProviderObjectSettingGUI.php",
+        "line": 232,
+        "code": "$this->lng->txt('lti_launch_url')",
+        "has_variable": false,
+        "variable": "lti_launch_url"
+    },
+    {
+        "id": 22652,
+        "file": "components\/ILIAS\/LTIProvider\/classes\/InternalProvider\/class.ilLTIProviderObjectSettingGUI.php",
+        "line": 236,
+        "code": "$this->lng->txt('lti_con_key_type_jwk')",
+        "has_variable": false,
+        "variable": "lti_con_key_type_jwk"
+    },
+    {
+        "id": 22654,
+        "file": "components\/ILIAS\/LTIProvider\/classes\/InternalProvider\/class.ilLTIProviderObjectSettingGUI.php",
+        "line": 236,
+        "code": "$this->lng->txt('lti_con_key_type_jwk')",
+        "has_variable": false,
+        "variable": "lti_con_key_type_jwk"
+    },
+    {
+        "id": 22656,
+        "file": "components\/ILIAS\/LTIProvider\/classes\/InternalProvider\/class.ilLTIProviderObjectSettingGUI.php",
+        "line": 239,
+        "code": "$this->lng->txt('lti_13_initiate_url')",
+        "has_variable": false,
+        "variable": "lti_13_initiate_url"
+    },
+    {
+        "id": 22658,
+        "file": "components\/ILIAS\/LTIProvider\/classes\/InternalProvider\/class.ilLTIProviderObjectSettingGUI.php",
+        "line": 242,
+        "code": "$this->lng->txt('lti_13_redirection_url')",
+        "has_variable": false,
+        "variable": "lti_13_redirection_url"
+    },
+    {
+        "id": 22660,
+        "file": "components\/ILIAS\/LTIProvider\/classes\/InternalProvider\/class.ilLTIProviderObjectSettingGUI.php",
+        "line": 245,
+        "code": "$this->lng->txt('lti_13_step2')",
+        "has_variable": false,
+        "variable": "lti_13_step2"
+    },
+    {
+        "id": 22662,
+        "file": "components\/ILIAS\/LTIProvider\/classes\/InternalProvider\/class.ilLTIProviderObjectSettingGUI.php",
+        "line": 246,
+        "code": "$this->lng->txt(\"lti_13_step2_info\")",
+        "has_variable": false,
+        "variable": "lti_13_step2_info"
+    },
+    {
+        "id": 22664,
+        "file": "components\/ILIAS\/LTIProvider\/classes\/InternalProvider\/class.ilLTIProviderObjectSettingGUI.php",
+        "line": 248,
+        "code": "$this->lng->txt('lti_13_platform_id')",
+        "has_variable": false,
+        "variable": "lti_13_platform_id"
+    },
+    {
+        "id": 22666,
+        "file": "components\/ILIAS\/LTIProvider\/classes\/InternalProvider\/class.ilLTIProviderObjectSettingGUI.php",
+        "line": 251,
+        "code": "$this->lng->txt('lti_13_client_id')",
+        "has_variable": false,
+        "variable": "lti_13_client_id"
+    },
+    {
+        "id": 22668,
+        "file": "components\/ILIAS\/LTIProvider\/classes\/InternalProvider\/class.ilLTIProviderObjectSettingGUI.php",
+        "line": 254,
+        "code": "$this->lng->txt('lti_13_deployment_id')",
+        "has_variable": false,
+        "variable": "lti_13_deployment_id"
+    },
+    {
+        "id": 22670,
+        "file": "components\/ILIAS\/LTIProvider\/classes\/InternalProvider\/class.ilLTIProviderObjectSettingGUI.php",
+        "line": 257,
+        "code": "$this->lng->txt('lti_13_keyset_url')",
+        "has_variable": false,
+        "variable": "lti_13_keyset_url"
+    },
+    {
+        "id": 22672,
+        "file": "components\/ILIAS\/LTIProvider\/classes\/InternalProvider\/class.ilLTIProviderObjectSettingGUI.php",
+        "line": 260,
+        "code": "$this->lng->txt('lti_13_token_url')",
+        "has_variable": false,
+        "variable": "lti_13_token_url"
+    },
+    {
+        "id": 22674,
+        "file": "components\/ILIAS\/LTIProvider\/classes\/InternalProvider\/class.ilLTIProviderObjectSettingGUI.php",
+        "line": 263,
+        "code": "$this->lng->txt('lti_13_authentication_url')",
+        "has_variable": false,
+        "variable": "lti_13_authentication_url"
+    },
+    {
+        "id": 22676,
+        "file": "components\/ILIAS\/LTIProvider\/classes\/InternalProvider\/class.ilLTIProviderObjectSettingGUI.php",
+        "line": 268,
+        "code": "$this->lng->txt(\"lti_obj_version_11\")",
+        "has_variable": false,
+        "variable": "lti_obj_version_11"
+    },
+    {
+        "id": 22678,
+        "file": "components\/ILIAS\/LTIProvider\/classes\/InternalProvider\/class.ilLTIProviderObjectSettingGUI.php",
+        "line": 269,
+        "code": "$this->lng->txt('lti_launch_url')",
+        "has_variable": false,
+        "variable": "lti_launch_url"
+    },
+    {
+        "id": 22680,
+        "file": "components\/ILIAS\/LTIProvider\/classes\/InternalProvider\/class.ilLTIProviderObjectSettingGUI.php",
+        "line": 272,
+        "code": "$this->lng->txt('lti_consumer_key')",
+        "has_variable": false,
+        "variable": "lti_consumer_key"
+    },
+    {
+        "id": 22682,
+        "file": "components\/ILIAS\/LTIProvider\/classes\/InternalProvider\/class.ilLTIProviderObjectSettingGUI.php",
+        "line": 278,
+        "code": "$this->lng->txt('lti_consumer_secret')",
+        "has_variable": false,
+        "variable": "lti_consumer_secret"
+    },
+    {
+        "id": 22684,
+        "file": "components\/ILIAS\/LTIProvider\/classes\/InternalProvider\/class.ilLTIProviderObjectSettingGUI.php",
+        "line": 289,
+        "code": "$this->lng->txt('save')",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 22686,
+        "file": "components\/ILIAS\/LTIProvider\/classes\/InternalProvider\/class.ilLTIProviderObjectSettingGUI.php",
+        "line": 363,
+        "code": "$this->lng->txt('settings_saved')",
+        "has_variable": false,
+        "variable": "settings_saved"
+    },
+    {
+        "id": 22688,
+        "file": "components\/ILIAS\/LTIProvider\/classes\/InternalProvider\/class.ilLTIProviderObjectSettingGUI.php",
+        "line": 398,
+        "code": "$this->lng->txt('select_one')",
+        "has_variable": false,
+        "variable": "select_one"
+    },
+    {
+        "id": 22690,
+        "file": "components\/ILIAS\/LTIProvider\/classes\/InternalProvider\/class.ilLTIProviderReleasedObjectsTableGUI.php",
+        "line": 72,
+        "code": "$this->lng->txt('type')",
+        "has_variable": false,
+        "variable": "type"
+    },
+    {
+        "id": 22692,
+        "file": "components\/ILIAS\/LTIProvider\/classes\/InternalProvider\/class.ilLTIProviderReleasedObjectsTableGUI.php",
+        "line": 73,
+        "code": "$this->lng->txt('title')",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 22694,
+        "file": "components\/ILIAS\/LTIProvider\/classes\/InternalProvider\/class.ilLTIProviderReleasedObjectsTableGUI.php",
+        "line": 74,
+        "code": "$this->lng->txt('lti_consumer')",
+        "has_variable": false,
+        "variable": "lti_consumer"
+    },
+    {
+        "id": 22696,
+        "file": "components\/ILIAS\/LTIProvider\/classes\/InternalProvider\/class.ilLTIProviderReleasedObjectsTableGUI.php",
+        "line": 151,
+        "code": "$this->lng->txt('lti_released_objects')",
+        "has_variable": false,
+        "variable": "lti_released_objects"
+    },
+    {
+        "id": 22698,
+        "file": "components\/ILIAS\/LTIProvider\/classes\/class.ilLTICronOutcomeService.php",
+        "line": 72,
+        "code": "$this->lng->txt('lti_cron_title')",
+        "has_variable": false,
+        "variable": "lti_cron_title"
+    },
+    {
+        "id": 22700,
+        "file": "components\/ILIAS\/LTIProvider\/classes\/class.ilLTICronOutcomeService.php",
+        "line": 77,
+        "code": "$this->lng->txt('lti_cron_title_desc')",
+        "has_variable": false,
+        "variable": "lti_cron_title_desc"
+    },
+    {
+        "id": 22702,
+        "file": "components\/ILIAS\/LTIProvider\/classes\/class.ilLTIViewGUI.php",
+        "line": 246,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 22704,
+        "file": "components\/ILIAS\/LTIProvider\/classes\/class.ilLTIViewGUI.php",
+        "line": 311,
+        "code": "$this->lng->txt('lti_exited')",
+        "has_variable": false,
+        "variable": "lti_exited"
+    },
+    {
+        "id": 22706,
+        "file": "components\/ILIAS\/LTIProvider\/classes\/class.ilLTIViewGUI.php",
+        "line": 319,
+        "code": "$this->lng->txt('lti_mode')",
+        "has_variable": false,
+        "variable": "lti_mode"
+    },
+    {
+        "id": 22708,
+        "file": "components\/ILIAS\/LTIProvider\/classes\/class.ilLTIViewGUI.php",
+        "line": 354,
+        "code": "$this->lng->txt('lti_exited_info')",
+        "has_variable": false,
+        "variable": "lti_exited_info"
+    },
+    {
+        "id": 22710,
+        "file": "components\/ILIAS\/LTIProvider\/classes\/class.ilObjLTIAdministrationGUI.php",
+        "line": 92,
+        "code": "$this->lng->txt(\"lti_providing_tab\")",
+        "has_variable": false,
+        "variable": "lti_providing_tab"
+    },
+    {
+        "id": 22712,
+        "file": "components\/ILIAS\/LTIProvider\/classes\/class.ilObjLTIAdministrationGUI.php",
+        "line": 98,
+        "code": "$this->lng->txt(\"lti_consuming_tab\")",
+        "has_variable": false,
+        "variable": "lti_consuming_tab"
+    },
+    {
+        "id": 22714,
+        "file": "components\/ILIAS\/LTIProvider\/classes\/class.ilObjLTIAdministrationGUI.php",
+        "line": 110,
+        "code": "$this->lng->txt(\"perm_settings\")",
+        "has_variable": false,
+        "variable": "perm_settings"
+    },
+    {
+        "id": 22716,
+        "file": "components\/ILIAS\/LTIProvider\/classes\/class.ilObjLTIAdministrationGUI.php",
+        "line": 121,
+        "code": "$this->lng->txt(\"settings\")",
+        "has_variable": false,
+        "variable": "settings"
+    },
+    {
+        "id": 22718,
+        "file": "components\/ILIAS\/LTIProvider\/classes\/class.ilObjLTIAdministrationGUI.php",
+        "line": 126,
+        "code": "$this->lng->txt(\"consumers\")",
+        "has_variable": false,
+        "variable": "consumers"
+    },
+    {
+        "id": 22720,
+        "file": "components\/ILIAS\/LTIProvider\/classes\/class.ilObjLTIAdministrationGUI.php",
+        "line": 133,
+        "code": "$this->lng->txt(\"lti_released_objects\")",
+        "has_variable": false,
+        "variable": "lti_released_objects"
+    },
+    {
+        "id": 22722,
+        "file": "components\/ILIAS\/LTIProvider\/classes\/class.ilObjLTIAdministrationGUI.php",
+        "line": 154,
+        "code": "$this->lng->txt(\"lti_settings\")",
+        "has_variable": false,
+        "variable": "lti_settings"
+    },
+    {
+        "id": 22724,
+        "file": "components\/ILIAS\/LTIProvider\/classes\/class.ilObjLTIAdministrationGUI.php",
+        "line": 157,
+        "code": "$this->lng->txt(\"act_lti_for_obj_type\")",
+        "has_variable": false,
+        "variable": "act_lti_for_obj_type"
+    },
+    {
+        "id": 22726,
+        "file": "components\/ILIAS\/LTIProvider\/classes\/class.ilObjLTIAdministrationGUI.php",
+        "line": 174,
+        "code": "$this->lng->txt(\"gbl_roles_to_users\")",
+        "has_variable": false,
+        "variable": "gbl_roles_to_users"
+    },
+    {
+        "id": 22728,
+        "file": "components\/ILIAS\/LTIProvider\/classes\/class.ilObjLTIAdministrationGUI.php",
+        "line": 179,
+        "code": "$this->lng->txt(\"save\")",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 22730,
+        "file": "components\/ILIAS\/LTIProvider\/classes\/class.ilObjLTIAdministrationGUI.php",
+        "line": 200,
+        "code": "$this->lng->txt(\"settings_saved\")",
+        "has_variable": false,
+        "variable": "settings_saved"
+    },
+    {
+        "id": 22732,
+        "file": "components\/ILIAS\/LTIProvider\/classes\/class.ilObjLTIAdministrationGUI.php",
+        "line": 227,
+        "code": "$this->lng->txt(\"lti_user_role_created\")",
+        "has_variable": false,
+        "variable": "lti_user_role_created"
+    },
+    {
+        "id": 22734,
+        "file": "components\/ILIAS\/LTIProvider\/classes\/class.ilObjLTIAdministrationGUI.php",
+        "line": 248,
+        "code": "$this->lng->txt(\"title\")",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 22736,
+        "file": "components\/ILIAS\/LTIProvider\/classes\/class.ilObjLTIAdministrationGUI.php",
+        "line": 251,
+        "code": "$this->lng->txt(\"description\")",
+        "has_variable": false,
+        "variable": "description"
+    },
+    {
+        "id": 22738,
+        "file": "components\/ILIAS\/LTIProvider\/classes\/class.ilObjLTIAdministrationGUI.php",
+        "line": 253,
+        "code": "$this->lng->txt(\"prefix\")",
+        "has_variable": false,
+        "variable": "prefix"
+    },
+    {
+        "id": 22740,
+        "file": "components\/ILIAS\/LTIProvider\/classes\/class.ilObjLTIAdministrationGUI.php",
+        "line": 254,
+        "code": "$this->lng->txt(\"prefix_info\")",
+        "has_variable": false,
+        "variable": "prefix_info"
+    },
+    {
+        "id": 22742,
+        "file": "components\/ILIAS\/LTIProvider\/classes\/class.ilObjLTIAdministrationGUI.php",
+        "line": 257,
+        "code": "$this->lng->txt(\"lti_consumer_key\")",
+        "has_variable": false,
+        "variable": "lti_consumer_key"
+    },
+    {
+        "id": 22744,
+        "file": "components\/ILIAS\/LTIProvider\/classes\/class.ilObjLTIAdministrationGUI.php",
+        "line": 259,
+        "code": "$this->lng->txt(\"lti_consumer_secret\")",
+        "has_variable": false,
+        "variable": "lti_consumer_secret"
+    },
+    {
+        "id": 22746,
+        "file": "components\/ILIAS\/LTIProvider\/classes\/class.ilObjLTIAdministrationGUI.php",
+        "line": 269,
+        "code": "$this->lng->txt(\"language\")",
+        "has_variable": false,
+        "variable": "language"
+    },
+    {
+        "id": 22748,
+        "file": "components\/ILIAS\/LTIProvider\/classes\/class.ilObjLTIAdministrationGUI.php",
+        "line": 274,
+        "code": "$this->lng->txt(\"act_lti_for_obj_type\")",
+        "has_variable": false,
+        "variable": "act_lti_for_obj_type"
+    },
+    {
+        "id": 22750,
+        "file": "components\/ILIAS\/LTIProvider\/classes\/class.ilObjLTIAdministrationGUI.php",
+        "line": 278,
+        "code": "$this->lng->txt('objs_' . $obj_type)",
+        "has_variable": true,
+        "variable": "'objs_' . $obj_type"
+    },
+    {
+        "id": 22752,
+        "file": "components\/ILIAS\/LTIProvider\/classes\/class.ilObjLTIAdministrationGUI.php",
+        "line": 288,
+        "code": "$this->lng->txt(\"gbl_roles_to_users\")",
+        "has_variable": false,
+        "variable": "gbl_roles_to_users"
+    },
+    {
+        "id": 22754,
+        "file": "components\/ILIAS\/LTIProvider\/classes\/class.ilObjLTIAdministrationGUI.php",
+        "line": 292,
+        "code": "$this->lng->txt('active')",
+        "has_variable": false,
+        "variable": "active"
+    },
+    {
+        "id": 22756,
+        "file": "components\/ILIAS\/LTIProvider\/classes\/class.ilObjLTIAdministrationGUI.php",
+        "line": 297,
+        "code": "$this->lng->txt(\"lti_edit_consumer\")",
+        "has_variable": false,
+        "variable": "lti_edit_consumer"
+    },
+    {
+        "id": 22758,
+        "file": "components\/ILIAS\/LTIProvider\/classes\/class.ilObjLTIAdministrationGUI.php",
+        "line": 298,
+        "code": "$this->lng->txt(\"save\")",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 22760,
+        "file": "components\/ILIAS\/LTIProvider\/classes\/class.ilObjLTIAdministrationGUI.php",
+        "line": 301,
+        "code": "$this->lng->txt(\"lti_create_consumer\")",
+        "has_variable": false,
+        "variable": "lti_create_consumer"
+    },
+    {
+        "id": 22762,
+        "file": "components\/ILIAS\/LTIProvider\/classes\/class.ilObjLTIAdministrationGUI.php",
+        "line": 302,
+        "code": "$this->lng->txt(\"save\")",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 22764,
+        "file": "components\/ILIAS\/LTIProvider\/classes\/class.ilObjLTIAdministrationGUI.php",
+        "line": 303,
+        "code": "$this->lng->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 22766,
+        "file": "components\/ILIAS\/LTIProvider\/classes\/class.ilObjLTIAdministrationGUI.php",
+        "line": 360,
+        "code": "$this->lng->txt(\"lti_consumer_created\")",
+        "has_variable": false,
+        "variable": "lti_consumer_created"
+    },
+    {
+        "id": 22768,
+        "file": "components\/ILIAS\/LTIProvider\/classes\/class.ilObjLTIAdministrationGUI.php",
+        "line": 394,
+        "code": "$this->lng->txt(\"lti_consumer_updated\")",
+        "has_variable": false,
+        "variable": "lti_consumer_updated"
+    },
+    {
+        "id": 22770,
+        "file": "components\/ILIAS\/LTIProvider\/classes\/class.ilObjLTIAdministrationGUI.php",
+        "line": 414,
+        "code": "$this->lng->txt(\"lti_consumer_deleted\")",
+        "has_variable": false,
+        "variable": "lti_consumer_deleted"
+    },
+    {
+        "id": 22772,
+        "file": "components\/ILIAS\/LTIProvider\/classes\/class.ilObjLTIAdministrationGUI.php",
+        "line": 426,
+        "code": "$this->lng->txt('lti_create_consumer')",
+        "has_variable": false,
+        "variable": "lti_create_consumer"
+    },
+    {
+        "id": 22774,
+        "file": "components\/ILIAS\/LTIProvider\/classes\/class.ilObjLTIAdministrationGUI.php",
+        "line": 431,
+        "code": "$this->lng->txt('lti_create_lti_user_role')",
+        "has_variable": false,
+        "variable": "lti_create_lti_user_role"
+    },
+    {
+        "id": 22776,
+        "file": "components\/ILIAS\/LTIProvider\/classes\/class.ilObjLTIAdministrationGUI.php",
+        "line": 434,
+        "code": "$this->lng->txt('lti_user_role_info')",
+        "has_variable": false,
+        "variable": "lti_user_role_info"
+    },
+    {
+        "id": 22778,
+        "file": "components\/ILIAS\/LTIProvider\/classes\/class.ilObjLTIAdministrationGUI.php",
+        "line": 462,
+        "code": "$this->lng->txt($msg)",
+        "has_variable": true,
+        "variable": "$msg"
+    },
+    {
+        "id": 22780,
+        "file": "components\/ILIAS\/LTIProvider\/classes\/class.ilObjLTIAdministrationGUI.php",
+        "line": 266,
+        "code": "ilLanguage::_lookupEntry($lang_key, \"meta\", \"meta_l_\" . $lang_key)",
+        "has_variable": true,
+        "variable": "lang_key, \"meta\", \"meta_l_\" . $lang_key"
+    }
+]

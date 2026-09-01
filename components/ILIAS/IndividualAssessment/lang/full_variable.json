@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "type": "full",
+        "count": 4,
+        "description": "Variable usages without detectable prefixes or suffixes (pure variable references without static strings)"
+    },
+    "matches": [
+        {
+            "id": 20894,
+            "file": "components\/ILIAS\/IndividualAssessment\/classes\/Settings\/class.ilIndividualAssessmentCommonSettingsGUI.php",
+            "line": 132,
+            "code": "$this->lng->txt($code)",
+            "variable": "$code",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 21018,
+            "file": "components\/ILIAS\/IndividualAssessment\/classes\/class.ilIndividualAssessmentMembersGUI.php",
+            "line": 456,
+            "code": "$this->lng->txt($code)",
+            "variable": "$code",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 21068,
+            "file": "components\/ILIAS\/IndividualAssessment\/classes\/class.ilIndividualAssessmentMembersTableGUI.php",
+            "line": 527,
+            "code": "$this->lng->txt($code)",
+            "variable": "$code",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 21128,
+            "file": "components\/ILIAS\/IndividualAssessment\/classes\/class.ilObjIndividualAssessmentGUI.php",
+            "line": 452,
+            "code": "$this->lng->txt($code)",
+            "variable": "$code",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        }
+    ]
+}

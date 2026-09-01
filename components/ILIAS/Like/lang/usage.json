@@ -1,0 +1,122 @@
+[
+    {
+        "id": 24880,
+        "file": "components\/ILIAS\/Like\/classes\/class.ilLikeData.php",
+        "line": 68,
+        "code": "$this->lng->txt(\"like_like\")",
+        "has_variable": false,
+        "variable": "like_like"
+    },
+    {
+        "id": 24882,
+        "file": "components\/ILIAS\/Like\/classes\/class.ilLikeData.php",
+        "line": 69,
+        "code": "$this->lng->txt(\"like_dislike\")",
+        "has_variable": false,
+        "variable": "like_dislike"
+    },
+    {
+        "id": 24884,
+        "file": "components\/ILIAS\/Like\/classes\/class.ilLikeData.php",
+        "line": 70,
+        "code": "$this->lng->txt(\"like_love\")",
+        "has_variable": false,
+        "variable": "like_love"
+    },
+    {
+        "id": 24886,
+        "file": "components\/ILIAS\/Like\/classes\/class.ilLikeData.php",
+        "line": 71,
+        "code": "$this->lng->txt(\"like_laugh\")",
+        "has_variable": false,
+        "variable": "like_laugh"
+    },
+    {
+        "id": 24888,
+        "file": "components\/ILIAS\/Like\/classes\/class.ilLikeData.php",
+        "line": 72,
+        "code": "$this->lng->txt(\"like_astounded\")",
+        "has_variable": false,
+        "variable": "like_astounded"
+    },
+    {
+        "id": 24890,
+        "file": "components\/ILIAS\/Like\/classes\/class.ilLikeData.php",
+        "line": 73,
+        "code": "$this->lng->txt(\"like_sad\")",
+        "has_variable": false,
+        "variable": "like_sad"
+    },
+    {
+        "id": 24892,
+        "file": "components\/ILIAS\/Like\/classes\/class.ilLikeData.php",
+        "line": 74,
+        "code": "$this->lng->txt(\"like_angry\")",
+        "has_variable": false,
+        "variable": "like_angry"
+    },
+    {
+        "id": 24894,
+        "file": "components\/ILIAS\/Like\/classes\/class.ilLikeGUI.php",
+        "line": 140,
+        "code": "$lng->txt(\"like\")",
+        "has_variable": false,
+        "variable": "like"
+    },
+    {
+        "id": 24896,
+        "file": "components\/ILIAS\/Like\/classes\/class.ilLikeGUI.php",
+        "line": 373,
+        "code": "$lng->txt(\"like\")",
+        "has_variable": false,
+        "variable": "like"
+    },
+    {
+        "id": 24898,
+        "file": "components\/ILIAS\/Like\/classes\/class.ilLikeGUI.php",
+        "line": 374,
+        "code": "$lng->txt(\"dislike\")",
+        "has_variable": false,
+        "variable": "dislike"
+    },
+    {
+        "id": 24900,
+        "file": "components\/ILIAS\/Like\/classes\/class.ilLikeGUI.php",
+        "line": 375,
+        "code": "$lng->txt(\"love\")",
+        "has_variable": false,
+        "variable": "love"
+    },
+    {
+        "id": 24902,
+        "file": "components\/ILIAS\/Like\/classes\/class.ilLikeGUI.php",
+        "line": 376,
+        "code": "$lng->txt(\"laugh\")",
+        "has_variable": false,
+        "variable": "laugh"
+    },
+    {
+        "id": 24904,
+        "file": "components\/ILIAS\/Like\/classes\/class.ilLikeGUI.php",
+        "line": 377,
+        "code": "$lng->txt(\"astounded\")",
+        "has_variable": false,
+        "variable": "astounded"
+    },
+    {
+        "id": 24906,
+        "file": "components\/ILIAS\/Like\/classes\/class.ilLikeGUI.php",
+        "line": 378,
+        "code": "$lng->txt(\"sad\")",
+        "has_variable": false,
+        "variable": "sad"
+    },
+    {
+        "id": 24908,
+        "file": "components\/ILIAS\/Like\/classes\/class.ilLikeGUI.php",
+        "line": 379,
+        "code": "$lng->txt(\"angry\")",
+        "has_variable": false,
+        "variable": "angry"
+    }
+]

@@ -1,0 +1,2762 @@
+[
+    {
+        "id": 27062,
+        "file": "components\/ILIAS\/Membership\/classes\/Cron\/class.ilMembershipCronMinMembers.php",
+        "line": 48,
+        "code": "$this->lng->txt(\"mem_cron_min_members\")",
+        "has_variable": false,
+        "variable": "mem_cron_min_members"
+    },
+    {
+        "id": 27064,
+        "file": "components\/ILIAS\/Membership\/classes\/Cron\/class.ilMembershipCronMinMembers.php",
+        "line": 53,
+        "code": "$this->lng->txt(\"mem_cron_min_members_info\")",
+        "has_variable": false,
+        "variable": "mem_cron_min_members_info"
+    },
+    {
+        "id": 27066,
+        "file": "components\/ILIAS\/Membership\/classes\/Cron\/class.ilMembershipCronMinMembers.php",
+        "line": 163,
+        "code": "$lng->txt(\"mem_cron_min_members_subject\")",
+        "has_variable": false,
+        "variable": "mem_cron_min_members_subject"
+    },
+    {
+        "id": 27068,
+        "file": "components\/ILIAS\/Membership\/classes\/Cron\/class.ilMembershipCronNotifications.php",
+        "line": 58,
+        "code": "$this->lng->txt(\"enable_course_group_notifications\")",
+        "has_variable": false,
+        "variable": "enable_course_group_notifications"
+    },
+    {
+        "id": 27070,
+        "file": "components\/ILIAS\/Membership\/classes\/Cron\/class.ilMembershipCronNotifications.php",
+        "line": 63,
+        "code": "$this->lng->txt(\"enable_course_group_notifications_desc\")",
+        "has_variable": false,
+        "variable": "enable_course_group_notifications_desc"
+    },
+    {
+        "id": 27072,
+        "file": "components\/ILIAS\/Membership\/classes\/Cron\/class.ilMembershipCronNotifications.php",
+        "line": 239,
+        "code": "$lng->txt(\"obj_\" . $item_obj_type)",
+        "has_variable": true,
+        "variable": "\"obj_\" . $item_obj_type"
+    },
+    {
+        "id": 27074,
+        "file": "components\/ILIAS\/Membership\/classes\/Cron\/class.ilMembershipCronNotifications.php",
+        "line": 249,
+        "code": "$lng->txt(\"obj_\" . $item_obj_type)",
+        "has_variable": true,
+        "variable": "\"obj_\" . $item_obj_type"
+    },
+    {
+        "id": 27076,
+        "file": "components\/ILIAS\/Membership\/classes\/Cron\/class.ilMembershipCronNotifications.php",
+        "line": 265,
+        "code": "$lng->txt(\"obj_\" . $item_obj_type)",
+        "has_variable": true,
+        "variable": "\"obj_\" . $item_obj_type"
+    },
+    {
+        "id": 27078,
+        "file": "components\/ILIAS\/Membership\/classes\/Cron\/class.ilMembershipCronNotifications.php",
+        "line": 280,
+        "code": "$lng->txt(\"news_new_comments\")",
+        "has_variable": false,
+        "variable": "news_new_comments"
+    },
+    {
+        "id": 27080,
+        "file": "components\/ILIAS\/Membership\/classes\/Cron\/class.ilMembershipCronNotifications.php",
+        "line": 294,
+        "code": "$lng->txt(\"news_new_reactions\")",
+        "has_variable": false,
+        "variable": "news_new_reactions"
+    },
+    {
+        "id": 27082,
+        "file": "components\/ILIAS\/Membership\/classes\/Cron\/class.ilMembershipCronNotifications.php",
+        "line": 393,
+        "code": "$lng->txt(\"obj_\" . $parent_type)",
+        "has_variable": true,
+        "variable": "\"obj_\" . $parent_type"
+    },
+    {
+        "id": 27084,
+        "file": "components\/ILIAS\/Membership\/classes\/Cron\/class.ilMembershipCronNotifications.php",
+        "line": 394,
+        "code": "$lng->txt(\"crs_course_group_notification_link\")",
+        "has_variable": false,
+        "variable": "crs_course_group_notification_link"
+    },
+    {
+        "id": 27086,
+        "file": "components\/ILIAS\/Membership\/classes\/Cron\/class.ilMembershipCronNotifications.php",
+        "line": 445,
+        "code": "$lng->txt(\"crs_intro_course_group_notification_index\")",
+        "has_variable": false,
+        "variable": "crs_intro_course_group_notification_index"
+    },
+    {
+        "id": 27088,
+        "file": "components\/ILIAS\/Membership\/classes\/Cron\/class.ilMembershipCronNotifications.php",
+        "line": 465,
+        "code": "$lng->txt(\"crs_subject_course_group_notification\")",
+        "has_variable": false,
+        "variable": "crs_subject_course_group_notification"
+    },
+    {
+        "id": 27090,
+        "file": "components\/ILIAS\/Membership\/classes\/Cron\/class.ilMembershipCronNotifications.php",
+        "line": 488,
+        "code": "$this->lng->txt(\"enabled\")",
+        "has_variable": false,
+        "variable": "enabled"
+    },
+    {
+        "id": 27092,
+        "file": "components\/ILIAS\/Membership\/classes\/Cron\/class.ilMembershipCronNotifications.php",
+        "line": 489,
+        "code": "$this->lng->txt(\"disabled\")",
+        "has_variable": false,
+        "variable": "disabled"
+    },
+    {
+        "id": 27094,
+        "file": "components\/ILIAS\/Membership\/classes\/Export\/class.ilMemberExport.php",
+        "line": 155,
+        "code": "$this->lng->txt(\"members\")",
+        "has_variable": false,
+        "variable": "members"
+    },
+    {
+        "id": 27096,
+        "file": "components\/ILIAS\/Membership\/classes\/Export\/class.ilMemberExport.php",
+        "line": 238,
+        "code": "$this->lng->txt($this->getType() . '_role_status')",
+        "has_variable": true,
+        "variable": "$this->getType() . '_role_status'"
+    },
+    {
+        "id": 27098,
+        "file": "components\/ILIAS\/Membership\/classes\/Export\/class.ilMemberExport.php",
+        "line": 241,
+        "code": "$this->lng->txt('ps_agreement_accepted')",
+        "has_variable": false,
+        "variable": "ps_agreement_accepted"
+    },
+    {
+        "id": 27100,
+        "file": "components\/ILIAS\/Membership\/classes\/Export\/class.ilMemberExport.php",
+        "line": 245,
+        "code": "$this->lng->txt('cal_ch_field_ch')",
+        "has_variable": false,
+        "variable": "cal_ch_field_ch"
+    },
+    {
+        "id": 27102,
+        "file": "components\/ILIAS\/Membership\/classes\/Export\/class.ilMemberExport.php",
+        "line": 249,
+        "code": "$this->lng->txt('org_units')",
+        "has_variable": false,
+        "variable": "org_units"
+    },
+    {
+        "id": 27104,
+        "file": "components\/ILIAS\/Membership\/classes\/Export\/class.ilMemberExport.php",
+        "line": 263,
+        "code": "$this->lng->txt(\"login\")",
+        "has_variable": false,
+        "variable": "login"
+    },
+    {
+        "id": 27106,
+        "file": "components\/ILIAS\/Membership\/classes\/Export\/class.ilMemberExport.php",
+        "line": 265,
+        "code": "$this->lng->txt($field)",
+        "has_variable": true,
+        "variable": "$field"
+    },
+    {
+        "id": 27108,
+        "file": "components\/ILIAS\/Membership\/classes\/Export\/class.ilMemberExport.php",
+        "line": 266,
+        "code": "$this->lng->txt($field)",
+        "has_variable": true,
+        "variable": "$field"
+    },
+    {
+        "id": 27110,
+        "file": "components\/ILIAS\/Membership\/classes\/Export\/class.ilMemberExport.php",
+        "line": 295,
+        "code": "$this->lng->txt('crs_admin')",
+        "has_variable": false,
+        "variable": "crs_admin"
+    },
+    {
+        "id": 27112,
+        "file": "components\/ILIAS\/Membership\/classes\/Export\/class.ilMemberExport.php",
+        "line": 299,
+        "code": "$this->lng->txt('crs_tutor')",
+        "has_variable": false,
+        "variable": "crs_tutor"
+    },
+    {
+        "id": 27114,
+        "file": "components\/ILIAS\/Membership\/classes\/Export\/class.ilMemberExport.php",
+        "line": 303,
+        "code": "$this->lng->txt('crs_member')",
+        "has_variable": false,
+        "variable": "crs_member"
+    },
+    {
+        "id": 27116,
+        "file": "components\/ILIAS\/Membership\/classes\/Export\/class.ilMemberExport.php",
+        "line": 307,
+        "code": "$this->lng->txt('il_grp_admin')",
+        "has_variable": false,
+        "variable": "il_grp_admin"
+    },
+    {
+        "id": 27118,
+        "file": "components\/ILIAS\/Membership\/classes\/Export\/class.ilMemberExport.php",
+        "line": 311,
+        "code": "$this->lng->txt('il_grp_member')",
+        "has_variable": false,
+        "variable": "il_grp_member"
+    },
+    {
+        "id": 27120,
+        "file": "components\/ILIAS\/Membership\/classes\/Export\/class.ilMemberExport.php",
+        "line": 315,
+        "code": "$this->lng->txt($this->getType() . '_subscriber')",
+        "has_variable": true,
+        "variable": "$this->getType() . '_subscriber'"
+    },
+    {
+        "id": 27122,
+        "file": "components\/ILIAS\/Membership\/classes\/Export\/class.ilMemberExport.php",
+        "line": 319,
+        "code": "$this->lng->txt('crs_waiting_list')",
+        "has_variable": false,
+        "variable": "crs_waiting_list"
+    },
+    {
+        "id": 27124,
+        "file": "components\/ILIAS\/Membership\/classes\/Export\/class.ilMemberExport.php",
+        "line": 330,
+        "code": "$this->lng->txt('ps_not_accepted')",
+        "has_variable": false,
+        "variable": "ps_not_accepted"
+    },
+    {
+        "id": 27126,
+        "file": "components\/ILIAS\/Membership\/classes\/Export\/class.ilMemberExport.php",
+        "line": 333,
+        "code": "$this->lng->txt('ps_not_accepted')",
+        "has_variable": false,
+        "variable": "ps_not_accepted"
+    },
+    {
+        "id": 27128,
+        "file": "components\/ILIAS\/Membership\/classes\/Export\/class.ilMemberExportFileTableGUI.php",
+        "line": 33,
+        "code": "$this->lng->txt('ps_export_files')",
+        "has_variable": false,
+        "variable": "ps_export_files"
+    },
+    {
+        "id": 27130,
+        "file": "components\/ILIAS\/Membership\/classes\/Export\/class.ilMemberExportFileTableGUI.php",
+        "line": 35,
+        "code": "$this->lng->txt('type')",
+        "has_variable": false,
+        "variable": "type"
+    },
+    {
+        "id": 27132,
+        "file": "components\/ILIAS\/Membership\/classes\/Export\/class.ilMemberExportFileTableGUI.php",
+        "line": 36,
+        "code": "$this->lng->txt('ps_size')",
+        "has_variable": false,
+        "variable": "ps_size"
+    },
+    {
+        "id": 27134,
+        "file": "components\/ILIAS\/Membership\/classes\/Export\/class.ilMemberExportFileTableGUI.php",
+        "line": 37,
+        "code": "$this->lng->txt('date')",
+        "has_variable": false,
+        "variable": "date"
+    },
+    {
+        "id": 27136,
+        "file": "components\/ILIAS\/Membership\/classes\/Export\/class.ilMemberExportFileTableGUI.php",
+        "line": 38,
+        "code": "$this->lng->txt('action')",
+        "has_variable": false,
+        "variable": "action"
+    },
+    {
+        "id": 27138,
+        "file": "components\/ILIAS\/Membership\/classes\/Export\/class.ilMemberExportFileTableGUI.php",
+        "line": 45,
+        "code": "$this->lng->txt('delete')",
+        "has_variable": false,
+        "variable": "delete"
+    },
+    {
+        "id": 27140,
+        "file": "components\/ILIAS\/Membership\/classes\/Export\/class.ilMemberExportFileTableGUI.php",
+        "line": 89,
+        "code": "$this->lng->txt('download')",
+        "has_variable": false,
+        "variable": "download"
+    },
+    {
+        "id": 27142,
+        "file": "components\/ILIAS\/Membership\/classes\/Export\/class.ilMemberExportGUI.php",
+        "line": 79,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 27144,
+        "file": "components\/ILIAS\/Membership\/classes\/Export\/class.ilMemberExportGUI.php",
+        "line": 103,
+        "code": "$this->lng->txt('ps_export_settings')",
+        "has_variable": false,
+        "variable": "ps_export_settings"
+    },
+    {
+        "id": 27146,
+        "file": "components\/ILIAS\/Membership\/classes\/Export\/class.ilMemberExportGUI.php",
+        "line": 106,
+        "code": "$this->lng->txt('ps_export_excel')",
+        "has_variable": false,
+        "variable": "ps_export_excel"
+    },
+    {
+        "id": 27148,
+        "file": "components\/ILIAS\/Membership\/classes\/Export\/class.ilMemberExportGUI.php",
+        "line": 108,
+        "code": "$this->lng->txt('ps_perform_export')",
+        "has_variable": false,
+        "variable": "ps_perform_export"
+    },
+    {
+        "id": 27150,
+        "file": "components\/ILIAS\/Membership\/classes\/Export\/class.ilMemberExportGUI.php",
+        "line": 110,
+        "code": "$this->lng->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 27152,
+        "file": "components\/ILIAS\/Membership\/classes\/Export\/class.ilMemberExportGUI.php",
+        "line": 113,
+        "code": "$this->lng->txt('ps_user_selection')",
+        "has_variable": false,
+        "variable": "ps_user_selection"
+    },
+    {
+        "id": 27154,
+        "file": "components\/ILIAS\/Membership\/classes\/Export\/class.ilMemberExportGUI.php",
+        "line": 114,
+        "code": "$this->lng->txt('ps_export_admin')",
+        "has_variable": false,
+        "variable": "ps_export_admin"
+    },
+    {
+        "id": 27156,
+        "file": "components\/ILIAS\/Membership\/classes\/Export\/class.ilMemberExportGUI.php",
+        "line": 116,
+        "code": "$this->lng->txt('ps_export_tutor')",
+        "has_variable": false,
+        "variable": "ps_export_tutor"
+    },
+    {
+        "id": 27158,
+        "file": "components\/ILIAS\/Membership\/classes\/Export\/class.ilMemberExportGUI.php",
+        "line": 118,
+        "code": "$this->lng->txt('ps_export_member')",
+        "has_variable": false,
+        "variable": "ps_export_member"
+    },
+    {
+        "id": 27160,
+        "file": "components\/ILIAS\/Membership\/classes\/Export\/class.ilMemberExportGUI.php",
+        "line": 119,
+        "code": "$this->lng->txt('ps_export_sub')",
+        "has_variable": false,
+        "variable": "ps_export_sub"
+    },
+    {
+        "id": 27162,
+        "file": "components\/ILIAS\/Membership\/classes\/Export\/class.ilMemberExportGUI.php",
+        "line": 120,
+        "code": "$this->lng->txt('ps_export_wait')",
+        "has_variable": false,
+        "variable": "ps_export_wait"
+    },
+    {
+        "id": 27164,
+        "file": "components\/ILIAS\/Membership\/classes\/Export\/class.ilMemberExportGUI.php",
+        "line": 132,
+        "code": "$this->lng->txt('ps_export_user_data')",
+        "has_variable": false,
+        "variable": "ps_export_user_data"
+    },
+    {
+        "id": 27166,
+        "file": "components\/ILIAS\/Membership\/classes\/Export\/class.ilMemberExportGUI.php",
+        "line": 141,
+        "code": "$this->lng->txt($field)",
+        "has_variable": true,
+        "variable": "$field"
+    },
+    {
+        "id": 27168,
+        "file": "components\/ILIAS\/Membership\/classes\/Export\/class.ilMemberExportGUI.php",
+        "line": 161,
+        "code": "$this->lng->txt('ps_' . $this->type . '_user_fields')",
+        "has_variable": true,
+        "variable": "'ps_' . $this->type . '_user_fields'"
+    },
+    {
+        "id": 27170,
+        "file": "components\/ILIAS\/Membership\/classes\/Export\/class.ilMemberExportGUI.php",
+        "line": 179,
+        "code": "$this->lng->txt('cal_ch_field_ch')",
+        "has_variable": false,
+        "variable": "cal_ch_field_ch"
+    },
+    {
+        "id": 27172,
+        "file": "components\/ILIAS\/Membership\/classes\/Export\/class.ilMemberExportGUI.php",
+        "line": 185,
+        "code": "$this->lng->txt('crs_members_groups')",
+        "has_variable": false,
+        "variable": "crs_members_groups"
+    },
+    {
+        "id": 27174,
+        "file": "components\/ILIAS\/Membership\/classes\/Export\/class.ilMemberExportGUI.php",
+        "line": 211,
+        "code": "$this->lng->txt('ps_perform_export')",
+        "has_variable": false,
+        "variable": "ps_perform_export"
+    },
+    {
+        "id": 27176,
+        "file": "components\/ILIAS\/Membership\/classes\/Export\/class.ilMemberExportGUI.php",
+        "line": 215,
+        "code": "$this->lng->txt('ps_export_excel')",
+        "has_variable": false,
+        "variable": "ps_export_excel"
+    },
+    {
+        "id": 27178,
+        "file": "components\/ILIAS\/Membership\/classes\/Export\/class.ilMemberExportGUI.php",
+        "line": 390,
+        "code": "$this->lng->txt('ps_select_one')",
+        "has_variable": false,
+        "variable": "ps_select_one"
+    },
+    {
+        "id": 27180,
+        "file": "components\/ILIAS\/Membership\/classes\/Export\/class.ilMemberExportGUI.php",
+        "line": 395,
+        "code": "$this->lng->txt('info_delete_sure')",
+        "has_variable": false,
+        "variable": "info_delete_sure"
+    },
+    {
+        "id": 27182,
+        "file": "components\/ILIAS\/Membership\/classes\/Export\/class.ilMemberExportGUI.php",
+        "line": 395,
+        "code": "$this->lng->txt('ps_delete_export_files')",
+        "has_variable": false,
+        "variable": "ps_delete_export_files"
+    },
+    {
+        "id": 27184,
+        "file": "components\/ILIAS\/Membership\/classes\/Export\/class.ilMemberExportGUI.php",
+        "line": 396,
+        "code": "$this->lng->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 27186,
+        "file": "components\/ILIAS\/Membership\/classes\/Export\/class.ilMemberExportGUI.php",
+        "line": 397,
+        "code": "$this->lng->txt('delete')",
+        "has_variable": false,
+        "variable": "delete"
+    },
+    {
+        "id": 27188,
+        "file": "components\/ILIAS\/Membership\/classes\/Export\/class.ilMemberExportGUI.php",
+        "line": 443,
+        "code": "$this->lng->txt('ps_files_deleted')",
+        "has_variable": false,
+        "variable": "ps_files_deleted"
+    },
+    {
+        "id": 27190,
+        "file": "components\/ILIAS\/Membership\/classes\/Export\/class.ilMemberExportSettingsGUI.php",
+        "line": 98,
+        "code": "$this->lng->txt('name')",
+        "has_variable": false,
+        "variable": "name"
+    },
+    {
+        "id": 27192,
+        "file": "components\/ILIAS\/Membership\/classes\/Export\/class.ilMemberExportSettingsGUI.php",
+        "line": 99,
+        "code": "$this->lng->txt('login')",
+        "has_variable": false,
+        "variable": "login"
+    },
+    {
+        "id": 27194,
+        "file": "components\/ILIAS\/Membership\/classes\/Export\/class.ilMemberExportSettingsGUI.php",
+        "line": 100,
+        "code": "$this->lng->txt('email')",
+        "has_variable": false,
+        "variable": "email"
+    },
+    {
+        "id": 27196,
+        "file": "components\/ILIAS\/Membership\/classes\/Export\/class.ilMemberExportSettingsGUI.php",
+        "line": 115,
+        "code": "$this->lng->txt($field)",
+        "has_variable": true,
+        "variable": "$field"
+    },
+    {
+        "id": 27198,
+        "file": "components\/ILIAS\/Membership\/classes\/Export\/class.ilMemberExportSettingsGUI.php",
+        "line": 124,
+        "code": "$this->lng->txt('user_detail')",
+        "has_variable": false,
+        "variable": "user_detail"
+    },
+    {
+        "id": 27200,
+        "file": "components\/ILIAS\/Membership\/classes\/Export\/class.ilMemberExportSettingsGUI.php",
+        "line": 133,
+        "code": "$this->lng->txt('last_access')",
+        "has_variable": false,
+        "variable": "last_access"
+    },
+    {
+        "id": 27202,
+        "file": "components\/ILIAS\/Membership\/classes\/Export\/class.ilMemberExportSettingsGUI.php",
+        "line": 138,
+        "code": "$this->lng->txt('last_access')",
+        "has_variable": false,
+        "variable": "last_access"
+    },
+    {
+        "id": 27204,
+        "file": "components\/ILIAS\/Membership\/classes\/Export\/class.ilMemberExportSettingsGUI.php",
+        "line": 141,
+        "code": "$this->lng->txt('crs_status')",
+        "has_variable": false,
+        "variable": "crs_status"
+    },
+    {
+        "id": 27206,
+        "file": "components\/ILIAS\/Membership\/classes\/Export\/class.ilMemberExportSettingsGUI.php",
+        "line": 142,
+        "code": "$this->lng->txt('crs_passed')",
+        "has_variable": false,
+        "variable": "crs_passed"
+    },
+    {
+        "id": 27208,
+        "file": "components\/ILIAS\/Membership\/classes\/Export\/class.ilMemberExportSettingsGUI.php",
+        "line": 144,
+        "code": "$this->lng->txt('event_blank_columns')",
+        "has_variable": false,
+        "variable": "event_blank_columns"
+    },
+    {
+        "id": 27210,
+        "file": "components\/ILIAS\/Membership\/classes\/Export\/class.ilMemberExportSettingsGUI.php",
+        "line": 148,
+        "code": "$this->lng->txt('event_user_selection')",
+        "has_variable": false,
+        "variable": "event_user_selection"
+    },
+    {
+        "id": 27212,
+        "file": "components\/ILIAS\/Membership\/classes\/Export\/class.ilMemberExportSettingsGUI.php",
+        "line": 150,
+        "code": "$this->lng->txt('event_tbl_admin')",
+        "has_variable": false,
+        "variable": "event_tbl_admin"
+    },
+    {
+        "id": 27214,
+        "file": "components\/ILIAS\/Membership\/classes\/Export\/class.ilMemberExportSettingsGUI.php",
+        "line": 152,
+        "code": "$this->lng->txt('event_tbl_tutor')",
+        "has_variable": false,
+        "variable": "event_tbl_tutor"
+    },
+    {
+        "id": 27216,
+        "file": "components\/ILIAS\/Membership\/classes\/Export\/class.ilMemberExportSettingsGUI.php",
+        "line": 154,
+        "code": "$this->lng->txt('event_tbl_member')",
+        "has_variable": false,
+        "variable": "event_tbl_member"
+    },
+    {
+        "id": 27218,
+        "file": "components\/ILIAS\/Membership\/classes\/Export\/class.ilMemberExportSettingsGUI.php",
+        "line": 157,
+        "code": "$this->lng->txt('event_user_selection_include_requests')",
+        "has_variable": false,
+        "variable": "event_user_selection_include_requests"
+    },
+    {
+        "id": 27220,
+        "file": "components\/ILIAS\/Membership\/classes\/Export\/class.ilMemberExportSettingsGUI.php",
+        "line": 160,
+        "code": "$this->lng->txt('event_user_selection_include_waiting_list')",
+        "has_variable": false,
+        "variable": "event_user_selection_include_waiting_list"
+    },
+    {
+        "id": 27222,
+        "file": "components\/ILIAS\/Membership\/classes\/Export\/class.ilMemberExportSettingsGUI.php",
+        "line": 220,
+        "code": "$this->lng->txt('settings_saved')",
+        "has_variable": false,
+        "variable": "settings_saved"
+    },
+    {
+        "id": 27224,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilAttendanceList.php",
+        "line": 250,
+        "code": "$this->lng->txt('crs_subscriber')",
+        "has_variable": false,
+        "variable": "crs_subscriber"
+    },
+    {
+        "id": 27226,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilAttendanceList.php",
+        "line": 252,
+        "code": "$this->lng->txt('crs_waiting_list')",
+        "has_variable": false,
+        "variable": "crs_waiting_list"
+    },
+    {
+        "id": 27228,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilAttendanceList.php",
+        "line": 304,
+        "code": "$this->lng->txt('sess_gen_attendance_list')",
+        "has_variable": false,
+        "variable": "sess_gen_attendance_list"
+    },
+    {
+        "id": 27230,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilAttendanceList.php",
+        "line": 306,
+        "code": "$this->lng->txt('title')",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 27232,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilAttendanceList.php",
+        "line": 310,
+        "code": "$this->lng->txt('description')",
+        "has_variable": false,
+        "variable": "description"
+    },
+    {
+        "id": 27234,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilAttendanceList.php",
+        "line": 315,
+        "code": "$this->lng->txt('user_detail')",
+        "has_variable": false,
+        "variable": "user_detail"
+    },
+    {
+        "id": 27236,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilAttendanceList.php",
+        "line": 327,
+        "code": "$this->lng->txt('event_blank_columns')",
+        "has_variable": false,
+        "variable": "event_blank_columns"
+    },
+    {
+        "id": 27238,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilAttendanceList.php",
+        "line": 337,
+        "code": "$this->lng->txt('event_user_selection')",
+        "has_variable": false,
+        "variable": "event_user_selection"
+    },
+    {
+        "id": 27240,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilAttendanceList.php",
+        "line": 355,
+        "code": "$this->lng->txt('event_user_selection_include_role')",
+        "has_variable": false,
+        "variable": "event_user_selection_include_role"
+    },
+    {
+        "id": 27242,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilAttendanceList.php",
+        "line": 363,
+        "code": "$this->lng->txt('event_user_selection_include_requests')",
+        "has_variable": false,
+        "variable": "event_user_selection_include_requests"
+    },
+    {
+        "id": 27244,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilAttendanceList.php",
+        "line": 366,
+        "code": "$this->lng->txt('event_user_selection_include_waiting_list')",
+        "has_variable": false,
+        "variable": "event_user_selection_include_waiting_list"
+    },
+    {
+        "id": 27246,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilAttendanceList.php",
+        "line": 373,
+        "code": "$this->lng->txt('event_user_selection_include_filter')",
+        "has_variable": false,
+        "variable": "event_user_selection_include_filter"
+    },
+    {
+        "id": 27248,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilAttendanceList.php",
+        "line": 385,
+        "code": "$this->lng->txt('sess_print_attendance_list')",
+        "has_variable": false,
+        "variable": "sess_print_attendance_list"
+    },
+    {
+        "id": 27250,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilMemberAgreementGUI.php",
+        "line": 108,
+        "code": "$this->lng->txt($this->type . '_agreement_header')",
+        "has_variable": true,
+        "variable": "$this->type . '_agreement_header'"
+    },
+    {
+        "id": 27252,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilMemberAgreementGUI.php",
+        "line": 110,
+        "code": "$this->lng->txt('save')",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 27254,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilMemberAgreementGUI.php",
+        "line": 134,
+        "code": "$lng->txt($a_type . '_user_agreement')",
+        "has_variable": true,
+        "variable": "$a_type . '_user_agreement'"
+    },
+    {
+        "id": 27256,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilMemberAgreementGUI.php",
+        "line": 136,
+        "code": "$lng->txt($a_type . '_info_agreement')",
+        "has_variable": true,
+        "variable": "$a_type . '_info_agreement'"
+    },
+    {
+        "id": 27258,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilMemberAgreementGUI.php",
+        "line": 139,
+        "code": "$lng->txt($field)",
+        "has_variable": true,
+        "variable": "$field"
+    },
+    {
+        "id": 27260,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilMemberAgreementGUI.php",
+        "line": 161,
+        "code": "$lng->txt($a_type . '_agree')",
+        "has_variable": true,
+        "variable": "$a_type . '_agree'"
+    },
+    {
+        "id": 27262,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilMemberAgreementGUI.php",
+        "line": 163,
+        "code": "$lng->txt($a_type . '_info_agree')",
+        "has_variable": true,
+        "variable": "$a_type . '_info_agree'"
+    },
+    {
+        "id": 27264,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilMemberAgreementGUI.php",
+        "line": 185,
+        "code": "$lng->txt('ps_' . $a_type . '_user_fields')",
+        "has_variable": true,
+        "variable": "'ps_' . $a_type . '_user_fields'"
+    },
+    {
+        "id": 27266,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilMemberAgreementGUI.php",
+        "line": 186,
+        "code": "$lng->txt($a_type . '_ps_cdf_info')",
+        "has_variable": true,
+        "variable": "$a_type . '_ps_cdf_info'"
+    },
+    {
+        "id": 27268,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilMemberAgreementGUI.php",
+        "line": 208,
+        "code": "$lng->txt(\"form_open_answer\")",
+        "has_variable": false,
+        "variable": "form_open_answer"
+    },
+    {
+        "id": 27270,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilMemberAgreementGUI.php",
+        "line": 276,
+        "code": "$this->lng->txt($this->type . '_agreement_required')",
+        "has_variable": true,
+        "variable": "$this->type . '_agreement_required'"
+    },
+    {
+        "id": 27272,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilMemberAgreementGUI.php",
+        "line": 281,
+        "code": "$this->lng->txt('fill_out_all_required_fields')",
+        "has_variable": false,
+        "variable": "fill_out_all_required_fields"
+    },
+    {
+        "id": 27274,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilMemberAgreementGUI.php",
+        "line": 405,
+        "code": "$this->lng->txt($this->type . '_ps_agreement_req_info')",
+        "has_variable": true,
+        "variable": "$this->type . '_ps_agreement_req_info'"
+    },
+    {
+        "id": 27276,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilMemberAgreementGUI.php",
+        "line": 411,
+        "code": "$this->lng->txt($this->type . '_ps_required_info')",
+        "has_variable": true,
+        "variable": "$this->type . '_ps_required_info'"
+    },
+    {
+        "id": 27278,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilMembershipAdministrationGUI.php",
+        "line": 60,
+        "code": "$this->lng->txt(\"no_permission\")",
+        "has_variable": false,
+        "variable": "no_permission"
+    },
+    {
+        "id": 27280,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilMembershipAdministrationGUI.php",
+        "line": 141,
+        "code": "$this->lng->txt(\"settings_saved\")",
+        "has_variable": false,
+        "variable": "settings_saved"
+    },
+    {
+        "id": 27282,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilMembershipAdministrationGUI.php",
+        "line": 153,
+        "code": "$this->lng->txt(\"settings\")",
+        "has_variable": false,
+        "variable": "settings"
+    },
+    {
+        "id": 27284,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilMembershipAdministrationGUI.php",
+        "line": 166,
+        "code": "$this->lng->txt('mail_notification_membership_section')",
+        "has_variable": false,
+        "variable": "mail_notification_membership_section"
+    },
+    {
+        "id": 27286,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilMembershipAdministrationGUI.php",
+        "line": 171,
+        "code": "$this->lng->txt('mail_enable_' . $this->getParentObjType() . '_member_notification')",
+        "has_variable": true,
+        "variable": "'mail_enable_' . $this->getParentObjType() . '_member_notification'"
+    },
+    {
+        "id": 27288,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilMembershipAdministrationGUI.php",
+        "line": 174,
+        "code": "$this->lng->txt('mail_enable_' . $this->getParentObjType() . '_member_notification_info')",
+        "has_variable": true,
+        "variable": "'mail_enable_' . $this->getParentObjType() . '_member_notification_info'"
+    },
+    {
+        "id": 27290,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilMembershipAdministrationGUI.php",
+        "line": 180,
+        "code": "$this->lng->txt('mail_enable_' . $this->getParentObjType() . '_admin_notification')",
+        "has_variable": true,
+        "variable": "'mail_enable_' . $this->getParentObjType() . '_admin_notification'"
+    },
+    {
+        "id": 27292,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilMembershipAdministrationGUI.php",
+        "line": 183,
+        "code": "$this->lng->txt('mail_enable_' . $this->getParentObjType() . '_admin_notification_info')",
+        "has_variable": true,
+        "variable": "'mail_enable_' . $this->getParentObjType() . '_admin_notification_info'"
+    },
+    {
+        "id": 27294,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilMembershipAdministrationGUI.php",
+        "line": 188,
+        "code": "$this->lng->txt(\"save\")",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 27296,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilMembershipAdministrationGUI.php",
+        "line": 189,
+        "code": "$this->lng->txt(\"cancel\")",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 27298,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilMembershipAdministrationGUI.php",
+        "line": 235,
+        "code": "$this->lng->txt('mem_settings_tab_' . self::SUB_TAB_GENERAL_SETTINGS)",
+        "has_variable": true,
+        "variable": "'mem_settings_tab_' . self::SUB_TAB_GENERAL_SETTINGS"
+    },
+    {
+        "id": 27300,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilMembershipAdministrationGUI.php",
+        "line": 240,
+        "code": "$this->lng->txt('mem_settings_tab_' . self::SUB_TAB_PRINT_VIEW)",
+        "has_variable": true,
+        "variable": "'mem_settings_tab_' . self::SUB_TAB_PRINT_VIEW"
+    },
+    {
+        "id": 27302,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilMembershipAdministrationGUI.php",
+        "line": 245,
+        "code": "$this->lng->txt(\"mmbr_gallery_user_actions\")",
+        "has_variable": false,
+        "variable": "mmbr_gallery_user_actions"
+    },
+    {
+        "id": 27304,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilMembershipGUI.php",
+        "line": 200,
+        "code": "$this->lng->txt('no_permission')",
+        "has_variable": false,
+        "variable": "no_permission"
+    },
+    {
+        "id": 27306,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilMembershipGUI.php",
+        "line": 211,
+        "code": "$this->lng->txt('no_permission')",
+        "has_variable": false,
+        "variable": "no_permission"
+    },
+    {
+        "id": 27308,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilMembershipGUI.php",
+        "line": 276,
+        "code": "$this->lng->txt('btn_back')",
+        "has_variable": false,
+        "variable": "btn_back"
+    },
+    {
+        "id": 27310,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilMembershipGUI.php",
+        "line": 289,
+        "code": "$this->lng->txt(\"msg_no_perm_read\")",
+        "has_variable": false,
+        "variable": "msg_no_perm_read"
+    },
+    {
+        "id": 27312,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilMembershipGUI.php",
+        "line": 321,
+        "code": "$this->lng->txt('msg_no_perm_read')",
+        "has_variable": false,
+        "variable": "msg_no_perm_read"
+    },
+    {
+        "id": 27314,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilMembershipGUI.php",
+        "line": 428,
+        "code": "$this->lng->txt($this->getParentObject()->getType() . '_mem_tbl_header')",
+        "has_variable": true,
+        "variable": "$this->getParentObject()->getType() . '_mem_tbl_header'"
+    },
+    {
+        "id": 27316,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilMembershipGUI.php",
+        "line": 483,
+        "code": "$this->lng->txt('no_checkbox')",
+        "has_variable": false,
+        "variable": "no_checkbox"
+    },
+    {
+        "id": 27318,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilMembershipGUI.php",
+        "line": 497,
+        "code": "$this->lng->txt('no_checkbox')",
+        "has_variable": false,
+        "variable": "no_checkbox"
+    },
+    {
+        "id": 27320,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilMembershipGUI.php",
+        "line": 580,
+        "code": "$this->lng->txt('mmbr_role_error')",
+        "has_variable": false,
+        "variable": "mmbr_role_error"
+    },
+    {
+        "id": 27322,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilMembershipGUI.php",
+        "line": 587,
+        "code": "$this->lng->txt('msg_no_perm_perm')",
+        "has_variable": false,
+        "variable": "msg_no_perm_perm"
+    },
+    {
+        "id": 27324,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilMembershipGUI.php",
+        "line": 593,
+        "code": "$this->lng->txt('msg_no_perm_perm')",
+        "has_variable": false,
+        "variable": "msg_no_perm_perm"
+    },
+    {
+        "id": 27326,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilMembershipGUI.php",
+        "line": 622,
+        "code": "$this->lng->txt($this->getParentObject()->getType() . '_min_one_admin')",
+        "has_variable": true,
+        "variable": "$this->getParentObject()->getType() . '_min_one_admin'"
+    },
+    {
+        "id": 27328,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilMembershipGUI.php",
+        "line": 665,
+        "code": "$this->lng->txt(\"msg_obj_modified\")",
+        "has_variable": false,
+        "variable": "msg_obj_modified"
+    },
+    {
+        "id": 27330,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilMembershipGUI.php",
+        "line": 681,
+        "code": "$this->lng->txt('no_checkbox')",
+        "has_variable": false,
+        "variable": "no_checkbox"
+    },
+    {
+        "id": 27332,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilMembershipGUI.php",
+        "line": 687,
+        "code": "$this->lng->txt($this->getParentObject()->getType() . '_at_least_one_admin')",
+        "has_variable": true,
+        "variable": "$this->getParentObject()->getType() . '_at_least_one_admin'"
+    },
+    {
+        "id": 27334,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilMembershipGUI.php",
+        "line": 694,
+        "code": "$this->lng->txt('rbac_info_only_position_access')",
+        "has_variable": false,
+        "variable": "rbac_info_only_position_access"
+    },
+    {
+        "id": 27336,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilMembershipGUI.php",
+        "line": 708,
+        "code": "$this->lng->txt(\"msg_no_perm_perm\")",
+        "has_variable": false,
+        "variable": "msg_no_perm_perm"
+    },
+    {
+        "id": 27338,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilMembershipGUI.php",
+        "line": 724,
+        "code": "$this->lng->txt($this->getParentObject()->getType() . '_header_delete_members')",
+        "has_variable": true,
+        "variable": "$this->getParentObject()->getType() . '_header_delete_members'"
+    },
+    {
+        "id": 27340,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilMembershipGUI.php",
+        "line": 725,
+        "code": "$this->lng->txt('confirm')",
+        "has_variable": false,
+        "variable": "confirm"
+    },
+    {
+        "id": 27342,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilMembershipGUI.php",
+        "line": 726,
+        "code": "$this->lng->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 27344,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilMembershipGUI.php",
+        "line": 745,
+        "code": "$this->lng->txt(\"no_checkbox\")",
+        "has_variable": false,
+        "variable": "no_checkbox"
+    },
+    {
+        "id": 27346,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilMembershipGUI.php",
+        "line": 757,
+        "code": "$this->lng->txt('msg_no_perm_perm')",
+        "has_variable": false,
+        "variable": "msg_no_perm_perm"
+    },
+    {
+        "id": 27348,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilMembershipGUI.php",
+        "line": 784,
+        "code": "$this->lng->txt($this->getParentObject()->getType() . \"_members_deleted\")",
+        "has_variable": true,
+        "variable": "$this->getParentObject()->getType() . \"_members_deleted\""
+    },
+    {
+        "id": 27350,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilMembershipGUI.php",
+        "line": 801,
+        "code": "$this->lng->txt(\"no_checkbox\")",
+        "has_variable": false,
+        "variable": "no_checkbox"
+    },
+    {
+        "id": 27352,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilMembershipGUI.php",
+        "line": 876,
+        "code": "$this->lng->txt('user')",
+        "has_variable": false,
+        "variable": "user"
+    },
+    {
+        "id": 27354,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilMembershipGUI.php",
+        "line": 879,
+        "code": "$this->lng->txt('add')",
+        "has_variable": false,
+        "variable": "add"
+    },
+    {
+        "id": 27356,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilMembershipGUI.php",
+        "line": 888,
+        "code": "$this->lng->txt($this->getParentObject()->getType() . \"_search_users\")",
+        "has_variable": true,
+        "variable": "$this->getParentObject()->getType() . \"_search_users\""
+    },
+    {
+        "id": 27358,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilMembershipGUI.php",
+        "line": 901,
+        "code": "$this->lng->txt($this->getParentObject()->getType() . \"_print_list\")",
+        "has_variable": true,
+        "variable": "$this->getParentObject()->getType() . \"_print_list\""
+    },
+    {
+        "id": 27360,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilMembershipGUI.php",
+        "line": 923,
+        "code": "$this->lng->txt($this->getParentObject()->getType() . '_print_list')",
+        "has_variable": true,
+        "variable": "$this->getParentObject()->getType() . '_print_list'"
+    },
+    {
+        "id": 27362,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilMembershipGUI.php",
+        "line": 963,
+        "code": "$this->lng->txt(\"mail_members\")",
+        "has_variable": false,
+        "variable": "mail_members"
+    },
+    {
+        "id": 27364,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilMembershipGUI.php",
+        "line": 1034,
+        "code": "$this->lng->txt('members')",
+        "has_variable": false,
+        "variable": "members"
+    },
+    {
+        "id": 27366,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilMembershipGUI.php",
+        "line": 1149,
+        "code": "$this->lng->txt('group_new_registrations')",
+        "has_variable": false,
+        "variable": "group_new_registrations"
+    },
+    {
+        "id": 27368,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilMembershipGUI.php",
+        "line": 1160,
+        "code": "$this->lng->txt(\"crs_no_subscribers_selected\")",
+        "has_variable": false,
+        "variable": "crs_no_subscribers_selected"
+    },
+    {
+        "id": 27370,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilMembershipGUI.php",
+        "line": 1168,
+        "code": "$this->lng->txt(\"info_assign_sure\")",
+        "has_variable": false,
+        "variable": "info_assign_sure"
+    },
+    {
+        "id": 27372,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilMembershipGUI.php",
+        "line": 1169,
+        "code": "$this->lng->txt(\"cancel\")",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 27374,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilMembershipGUI.php",
+        "line": 1170,
+        "code": "$this->lng->txt(\"confirm\")",
+        "has_variable": false,
+        "variable": "confirm"
+    },
+    {
+        "id": 27376,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilMembershipGUI.php",
+        "line": 1192,
+        "code": "$this->lng->txt(\"crs_no_subscribers_selected\")",
+        "has_variable": false,
+        "variable": "crs_no_subscribers_selected"
+    },
+    {
+        "id": 27378,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilMembershipGUI.php",
+        "line": 1198,
+        "code": "$this->lng->txt(\"info_refuse_sure\")",
+        "has_variable": false,
+        "variable": "info_refuse_sure"
+    },
+    {
+        "id": 27380,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilMembershipGUI.php",
+        "line": 1199,
+        "code": "$this->lng->txt(\"cancel\")",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 27382,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilMembershipGUI.php",
+        "line": 1200,
+        "code": "$this->lng->txt(\"confirm\")",
+        "has_variable": false,
+        "variable": "confirm"
+    },
+    {
+        "id": 27384,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilMembershipGUI.php",
+        "line": 1220,
+        "code": "$this->lng->txt(\"crs_no_subscribers_selected\")",
+        "has_variable": false,
+        "variable": "crs_no_subscribers_selected"
+    },
+    {
+        "id": 27386,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilMembershipGUI.php",
+        "line": 1257,
+        "code": "$this->lng->txt(\"crs_subscribers_deleted\")",
+        "has_variable": false,
+        "variable": "crs_subscribers_deleted"
+    },
+    {
+        "id": 27388,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilMembershipGUI.php",
+        "line": 1268,
+        "code": "$this->lng->txt(\"crs_no_subscribers_selected\")",
+        "has_variable": false,
+        "variable": "crs_no_subscribers_selected"
+    },
+    {
+        "id": 27390,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilMembershipGUI.php",
+        "line": 1300,
+        "code": "$this->lng->txt(\"crs_subscribers_assigned\")",
+        "has_variable": false,
+        "variable": "crs_subscribers_assigned"
+    },
+    {
+        "id": 27392,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilMembershipGUI.php",
+        "line": 1321,
+        "code": "$this->lng->txt('crs_waiting_list')",
+        "has_variable": false,
+        "variable": "crs_waiting_list"
+    },
+    {
+        "id": 27394,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilMembershipGUI.php",
+        "line": 1333,
+        "code": "$this->lng->txt(\"crs_no_users_selected\")",
+        "has_variable": false,
+        "variable": "crs_no_users_selected"
+    },
+    {
+        "id": 27396,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilMembershipGUI.php",
+        "line": 1339,
+        "code": "$this->lng->txt(\"info_assign_sure\")",
+        "has_variable": false,
+        "variable": "info_assign_sure"
+    },
+    {
+        "id": 27398,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilMembershipGUI.php",
+        "line": 1340,
+        "code": "$this->lng->txt(\"cancel\")",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 27400,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilMembershipGUI.php",
+        "line": 1341,
+        "code": "$this->lng->txt(\"confirm\")",
+        "has_variable": false,
+        "variable": "confirm"
+    },
+    {
+        "id": 27402,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilMembershipGUI.php",
+        "line": 1364,
+        "code": "$this->lng->txt(\"crs_no_users_selected\")",
+        "has_variable": false,
+        "variable": "crs_no_users_selected"
+    },
+    {
+        "id": 27404,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilMembershipGUI.php",
+        "line": 1410,
+        "code": "$this->lng->txt(\"crs_users_added\")",
+        "has_variable": false,
+        "variable": "crs_users_added"
+    },
+    {
+        "id": 27406,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilMembershipGUI.php",
+        "line": 1412,
+        "code": "$this->lng->txt(\"crs_users_already_assigned\")",
+        "has_variable": false,
+        "variable": "crs_users_already_assigned"
+    },
+    {
+        "id": 27408,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilMembershipGUI.php",
+        "line": 1424,
+        "code": "$this->lng->txt(\"no_checkbox\")",
+        "has_variable": false,
+        "variable": "no_checkbox"
+    },
+    {
+        "id": 27410,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilMembershipGUI.php",
+        "line": 1431,
+        "code": "$this->lng->txt(\"info_refuse_sure\")",
+        "has_variable": false,
+        "variable": "info_refuse_sure"
+    },
+    {
+        "id": 27412,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilMembershipGUI.php",
+        "line": 1432,
+        "code": "$this->lng->txt(\"cancel\")",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 27414,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilMembershipGUI.php",
+        "line": 1433,
+        "code": "$this->lng->txt(\"confirm\")",
+        "has_variable": false,
+        "variable": "confirm"
+    },
+    {
+        "id": 27416,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilMembershipGUI.php",
+        "line": 1455,
+        "code": "$this->lng->txt('no_checkbox')",
+        "has_variable": false,
+        "variable": "no_checkbox"
+    },
+    {
+        "id": 27418,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilMembershipGUI.php",
+        "line": 1486,
+        "code": "$this->lng->txt('crs_users_removed_from_list')",
+        "has_variable": false,
+        "variable": "crs_users_removed_from_list"
+    },
+    {
+        "id": 27420,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilMembershipGUI.php",
+        "line": 1506,
+        "code": "$this->lng->txt('select_one')",
+        "has_variable": false,
+        "variable": "select_one"
+    },
+    {
+        "id": 27422,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilMembershipGUI.php",
+        "line": 1514,
+        "code": "$this->lng->txt('clipboard_user_added')",
+        "has_variable": false,
+        "variable": "clipboard_user_added"
+    },
+    {
+        "id": 27424,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilMembershipGUI.php",
+        "line": 1538,
+        "code": "$this->lng->txt('back')",
+        "has_variable": false,
+        "variable": "back"
+    },
+    {
+        "id": 27426,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilMembershipGUI.php",
+        "line": 1554,
+        "code": "$this->lng->txt('back')",
+        "has_variable": false,
+        "variable": "back"
+    },
+    {
+        "id": 27428,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilMembershipGUI.php",
+        "line": 1578,
+        "code": "$this->lng->txt('back')",
+        "has_variable": false,
+        "variable": "back"
+    },
+    {
+        "id": 27430,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilMembershipGUI.php",
+        "line": 1583,
+        "code": "$this->lng->txt('obj_' . $this->getParentObject()->getType())",
+        "has_variable": true,
+        "variable": "'obj_' . $this->getParentObject()->getType()"
+    },
+    {
+        "id": 27432,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilMembershipGUI.php",
+        "line": 1640,
+        "code": "$this->lng->txt($this->getParentObject()->getType() . '_members_print_title')",
+        "has_variable": true,
+        "variable": "$this->getParentObject()->getType() . '_members_print_title'"
+    },
+    {
+        "id": 27434,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilMembershipGUI.php",
+        "line": 1641,
+        "code": "$this->lng->txt('obj_' . $this->getParentObject()->getType())",
+        "has_variable": true,
+        "variable": "'obj_' . $this->getParentObject()->getType()"
+    },
+    {
+        "id": 27436,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilMembershipGUI.php",
+        "line": 1651,
+        "code": "$this->lng->txt('learning_progress')",
+        "has_variable": false,
+        "variable": "learning_progress"
+    },
+    {
+        "id": 27438,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilMembershipGUI.php",
+        "line": 1656,
+        "code": "$this->lng->txt('last_access')",
+        "has_variable": false,
+        "variable": "last_access"
+    },
+    {
+        "id": 27440,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilMembershipGUI.php",
+        "line": 1661,
+        "code": "$this->lng->txt('crs_status')",
+        "has_variable": false,
+        "variable": "crs_status"
+    },
+    {
+        "id": 27442,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilMembershipGUI.php",
+        "line": 1662,
+        "code": "$this->lng->txt('crs_passed')",
+        "has_variable": false,
+        "variable": "crs_passed"
+    },
+    {
+        "id": 27444,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilMembershipGUI.php",
+        "line": 1666,
+        "code": "$this->lng->txt('trac_mark')",
+        "has_variable": false,
+        "variable": "trac_mark"
+    },
+    {
+        "id": 27446,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilMembershipGUI.php",
+        "line": 1667,
+        "code": "$this->lng->txt('trac_comment')",
+        "has_variable": false,
+        "variable": "trac_comment"
+    },
+    {
+        "id": 27448,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilMembershipGUI.php",
+        "line": 1669,
+        "code": "$this->lng->txt('event_tbl_registered')",
+        "has_variable": false,
+        "variable": "event_tbl_registered"
+    },
+    {
+        "id": 27450,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilMembershipGUI.php",
+        "line": 1671,
+        "code": "$this->lng->txt('event_tbl_participated')",
+        "has_variable": false,
+        "variable": "event_tbl_participated"
+    },
+    {
+        "id": 27452,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilMembershipGUI.php",
+        "line": 1672,
+        "code": "$this->lng->txt('sess_signature')",
+        "has_variable": false,
+        "variable": "sess_signature"
+    },
+    {
+        "id": 27454,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilMembershipGUI.php",
+        "line": 1674,
+        "code": "$this->lng->txt('event_list_registered_only')",
+        "has_variable": false,
+        "variable": "event_list_registered_only"
+    },
+    {
+        "id": 27456,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilMembershipMailGUI.php",
+        "line": 108,
+        "code": "$this->lng->txt(\"no_checkbox\")",
+        "has_variable": false,
+        "variable": "no_checkbox"
+    },
+    {
+        "id": 27458,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilMembershipMailGUI.php",
+        "line": 135,
+        "code": "$this->lng->txt($this->getCurrentObject()->getObject()->getType() . '_mail_permanent_link')",
+        "has_variable": true,
+        "variable": "$this->getCurrentObject()->getObject()->getType() . '_mail_permanent_link'"
+    },
+    {
+        "id": 27460,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilMembershipNotifications.php",
+        "line": 425,
+        "code": "$lng->txt(\"mem_force_notification\")",
+        "has_variable": false,
+        "variable": "mem_force_notification"
+    },
+    {
+        "id": 27462,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilMembershipNotifications.php",
+        "line": 434,
+        "code": "$lng->txt(\"mem_force_notification_mode_self\")",
+        "has_variable": false,
+        "variable": "mem_force_notification_mode_self"
+    },
+    {
+        "id": 27464,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilMembershipNotifications.php",
+        "line": 439,
+        "code": "$lng->txt(\"mem_force_notification_mode_blocked\")",
+        "has_variable": false,
+        "variable": "mem_force_notification_mode_blocked"
+    },
+    {
+        "id": 27466,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilMembershipNotifications.php",
+        "line": 446,
+        "code": "$lng->txt(\"mem_force_notification_mode_all_sub_blocked\")",
+        "has_variable": false,
+        "variable": "mem_force_notification_mode_all_sub_blocked"
+    },
+    {
+        "id": 27468,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilMembershipOverviewGUI.php",
+        "line": 47,
+        "code": "$this->lng->txt(\"my_courses_groups\")",
+        "has_variable": false,
+        "variable": "my_courses_groups"
+    },
+    {
+        "id": 27470,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilMembershipOverviewGUI.php",
+        "line": 71,
+        "code": "$lng->txt(\"my_courses_groups\")",
+        "has_variable": false,
+        "variable": "my_courses_groups"
+    },
+    {
+        "id": 27472,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilMembershipRegistrationCodeUtils.php",
+        "line": 43,
+        "code": "$lng->txt($a_type . \"_admission_link_success_registration\")",
+        "has_variable": true,
+        "variable": "$a_type . \"_admission_link_success_registration\""
+    },
+    {
+        "id": 27474,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilMembershipRegistrationCodeUtils.php",
+        "line": 51,
+        "code": "$lng->txt($a_type . \"_admission_link_failure_membership_limited\")",
+        "has_variable": true,
+        "variable": "$a_type . \"_admission_link_failure_membership_limited\""
+    },
+    {
+        "id": 27476,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilMembershipRegistrationCodeUtils.php",
+        "line": 54,
+        "code": "$lng->txt($a_type . \"_admission_link_failure_registration_period\")",
+        "has_variable": true,
+        "variable": "$a_type . \"_admission_link_failure_registration_period\""
+    },
+    {
+        "id": 27478,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilMembershipRegistrationCodeUtils.php",
+        "line": 57,
+        "code": "$lng->txt($a_type . \"_admission_link_failure_invalid_code\")",
+        "has_variable": true,
+        "variable": "$a_type . \"_admission_link_failure_invalid_code\""
+    },
+    {
+        "id": 27480,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilMembershipRegistrationCodeUtils.php",
+        "line": 60,
+        "code": "$lng->txt($a_type . '_admission_link_failure_offline')",
+        "has_variable": true,
+        "variable": "$a_type . '_admission_link_failure_offline'"
+    },
+    {
+        "id": 27482,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilMembershipRegistrationCodeUtils.php",
+        "line": 63,
+        "code": "$lng->txt($a_type . '_admission_link_failure_availability')",
+        "has_variable": true,
+        "variable": "$a_type . '_admission_link_failure_availability'"
+    },
+    {
+        "id": 27484,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilMembershipRegistrationSettingsGUI.php",
+        "line": 67,
+        "code": "$this->txt('reg_type')",
+        "has_variable": false,
+        "variable": "reg_type"
+    },
+    {
+        "id": 27486,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilMembershipRegistrationSettingsGUI.php",
+        "line": 72,
+        "code": "$this->txt('reg_direct')",
+        "has_variable": false,
+        "variable": "reg_direct"
+    },
+    {
+        "id": 27488,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilMembershipRegistrationSettingsGUI.php",
+        "line": 75,
+        "code": "$this->txt('reg_direct_info')",
+        "has_variable": false,
+        "variable": "reg_direct_info"
+    },
+    {
+        "id": 27490,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilMembershipRegistrationSettingsGUI.php",
+        "line": 80,
+        "code": "$this->txt('reg_cannot_participate')",
+        "has_variable": false,
+        "variable": "reg_cannot_participate"
+    },
+    {
+        "id": 27492,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilMembershipRegistrationSettingsGUI.php",
+        "line": 83,
+        "code": "$this->txt('reg_cannot_participate_info')",
+        "has_variable": false,
+        "variable": "reg_cannot_participate_info"
+    },
+    {
+        "id": 27494,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilMembershipRegistrationSettingsGUI.php",
+        "line": 89,
+        "code": "$this->txt('reg_pass')",
+        "has_variable": false,
+        "variable": "reg_pass"
+    },
+    {
+        "id": 27496,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilMembershipRegistrationSettingsGUI.php",
+        "line": 93,
+        "code": "$this->txt('reg_password_info')",
+        "has_variable": false,
+        "variable": "reg_password_info"
+    },
+    {
+        "id": 27498,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilMembershipRegistrationSettingsGUI.php",
+        "line": 103,
+        "code": "$this->txt('reg_request')",
+        "has_variable": false,
+        "variable": "reg_request"
+    },
+    {
+        "id": 27500,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilMembershipRegistrationSettingsGUI.php",
+        "line": 105,
+        "code": "$this->txt('reg_request_info')",
+        "has_variable": false,
+        "variable": "reg_request_info"
+    },
+    {
+        "id": 27502,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilMembershipRegistrationSettingsGUI.php",
+        "line": 111,
+        "code": "$this->txt('reg_cannot_participate')",
+        "has_variable": false,
+        "variable": "reg_cannot_participate"
+    },
+    {
+        "id": 27504,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilMembershipRegistrationSettingsGUI.php",
+        "line": 114,
+        "code": "$this->txt('reg_cannot_participate_info')",
+        "has_variable": false,
+        "variable": "reg_cannot_participate_info"
+    },
+    {
+        "id": 27506,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilMembershipRegistrationSettingsGUI.php",
+        "line": 120,
+        "code": "$this->txt('reg_tutor')",
+        "has_variable": false,
+        "variable": "reg_tutor"
+    },
+    {
+        "id": 27508,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilMembershipRegistrationSettingsGUI.php",
+        "line": 122,
+        "code": "$this->txt('reg_tutor_info')",
+        "has_variable": false,
+        "variable": "reg_tutor_info"
+    },
+    {
+        "id": 27510,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilMembershipRegistrationSettingsGUI.php",
+        "line": 128,
+        "code": "$this->txt('reg_disabled')",
+        "has_variable": false,
+        "variable": "reg_disabled"
+    },
+    {
+        "id": 27512,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilMembershipRegistrationSettingsGUI.php",
+        "line": 130,
+        "code": "$this->txt('reg_disabled_info')",
+        "has_variable": false,
+        "variable": "reg_disabled_info"
+    },
+    {
+        "id": 27514,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilMembershipRegistrationSettingsGUI.php",
+        "line": 140,
+        "code": "$this->txt('reg_max_members_short')",
+        "has_variable": false,
+        "variable": "reg_max_members_short"
+    },
+    {
+        "id": 27516,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilMembershipRegistrationSettingsGUI.php",
+        "line": 143,
+        "code": "$this->txt('reg_max_members')",
+        "has_variable": false,
+        "variable": "reg_max_members"
+    },
+    {
+        "id": 27518,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilMembershipRegistrationSettingsGUI.php",
+        "line": 145,
+        "code": "$this->lng->txt('members')",
+        "has_variable": false,
+        "variable": "members"
+    },
+    {
+        "id": 27520,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilMembershipRegistrationSettingsGUI.php",
+        "line": 148,
+        "code": "$this->txt('reg_max_members_info')",
+        "has_variable": false,
+        "variable": "reg_max_members_info"
+    },
+    {
+        "id": 27522,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilMembershipRegistrationSettingsGUI.php",
+        "line": 151,
+        "code": "$this->txt('reg_waiting_list')",
+        "has_variable": false,
+        "variable": "reg_waiting_list"
+    },
+    {
+        "id": 27524,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilMembershipRegistrationSettingsGUI.php",
+        "line": 153,
+        "code": "$this->txt('reg_waiting_list_none')",
+        "has_variable": false,
+        "variable": "reg_waiting_list_none"
+    },
+    {
+        "id": 27526,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilMembershipRegistrationSettingsGUI.php",
+        "line": 156,
+        "code": "$this->txt('reg_waiting_list_no_autofill')",
+        "has_variable": false,
+        "variable": "reg_waiting_list_no_autofill"
+    },
+    {
+        "id": 27528,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilMembershipRegistrationSettingsGUI.php",
+        "line": 157,
+        "code": "$this->txt('reg_waiting_list_no_autofill_info')",
+        "has_variable": false,
+        "variable": "reg_waiting_list_no_autofill_info"
+    },
+    {
+        "id": 27530,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilMembershipRegistrationSettingsGUI.php",
+        "line": 160,
+        "code": "$this->txt('reg_waiting_list_autofill')",
+        "has_variable": false,
+        "variable": "reg_waiting_list_autofill"
+    },
+    {
+        "id": 27532,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilMembershipRegistrationSettingsGUI.php",
+        "line": 161,
+        "code": "$this->txt('reg_waiting_list_autofill_info')",
+        "has_variable": false,
+        "variable": "reg_waiting_list_autofill_info"
+    },
+    {
+        "id": 27534,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilMembershipRegistrationSettingsGUI.php",
+        "line": 170,
+        "code": "$this->txt('registration_notification')",
+        "has_variable": false,
+        "variable": "registration_notification"
+    },
+    {
+        "id": 27536,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilMembershipRegistrationSettingsGUI.php",
+        "line": 173,
+        "code": "$this->txt('registration_notification_info')",
+        "has_variable": false,
+        "variable": "registration_notification_info"
+    },
+    {
+        "id": 27538,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilMembershipRegistrationSettingsGUI.php",
+        "line": 175,
+        "code": "$this->txt('notification_option')",
+        "has_variable": false,
+        "variable": "notification_option"
+    },
+    {
+        "id": 27540,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilMembershipRegistrationSettingsGUI.php",
+        "line": 179,
+        "code": "$this->txt(ilSessionConstants::NOTIFICATION_INHERIT_OPTION)",
+        "has_variable": true,
+        "variable": "S"
+    },
+    {
+        "id": 27542,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilMembershipRegistrationSettingsGUI.php",
+        "line": 182,
+        "code": "$this->txt('notification_option_inherit_info')",
+        "has_variable": false,
+        "variable": "notification_option_inherit_info"
+    },
+    {
+        "id": 27544,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilMembershipRegistrationSettingsGUI.php",
+        "line": 186,
+        "code": "$this->txt(ilSessionConstants::NOTIFICATION_MANUAL_OPTION)",
+        "has_variable": true,
+        "variable": "S"
+    },
+    {
+        "id": 27546,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilMembershipRegistrationSettingsGUI.php",
+        "line": 189,
+        "code": "$this->txt('notification_option_manual_info')",
+        "has_variable": false,
+        "variable": "notification_option_manual_info"
+    },
+    {
+        "id": 27548,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilMembershipRegistrationSettingsGUI.php",
+        "line": 204,
+        "code": "$this->lng->txt($prefix . '_' . $a_lang_key)",
+        "has_variable": true,
+        "variable": "$prefix . '_' . $a_lang_key"
+    },
+    {
+        "id": 27550,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilObjectCustomUserFieldsGUI.php",
+        "line": 112,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 27552,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilObjectCustomUserFieldsGUI.php",
+        "line": 134,
+        "code": "$this->lng->txt('ps_cdf_warning_modify')",
+        "has_variable": false,
+        "variable": "ps_cdf_warning_modify"
+    },
+    {
+        "id": 27554,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilObjectCustomUserFieldsGUI.php",
+        "line": 142,
+        "code": "$this->lng->txt('ps_cdf_add_field')",
+        "has_variable": false,
+        "variable": "ps_cdf_add_field"
+    },
+    {
+        "id": 27556,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilObjectCustomUserFieldsGUI.php",
+        "line": 159,
+        "code": "$this->lng->txt('settings_saved')",
+        "has_variable": false,
+        "variable": "settings_saved"
+    },
+    {
+        "id": 27558,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilObjectCustomUserFieldsGUI.php",
+        "line": 176,
+        "code": "$this->lng->txt('ps_cdf_select_one')",
+        "has_variable": false,
+        "variable": "ps_cdf_select_one"
+    },
+    {
+        "id": 27560,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilObjectCustomUserFieldsGUI.php",
+        "line": 182,
+        "code": "$this->lng->txt('ps_cdf_delete_sure')",
+        "has_variable": false,
+        "variable": "ps_cdf_delete_sure"
+    },
+    {
+        "id": 27562,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilObjectCustomUserFieldsGUI.php",
+        "line": 190,
+        "code": "$this->lng->txt('delete')",
+        "has_variable": false,
+        "variable": "delete"
+    },
+    {
+        "id": 27564,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilObjectCustomUserFieldsGUI.php",
+        "line": 191,
+        "code": "$this->lng->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 27566,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilObjectCustomUserFieldsGUI.php",
+        "line": 214,
+        "code": "$this->lng->txt('ps_cdf_deleted')",
+        "has_variable": false,
+        "variable": "ps_cdf_deleted"
+    },
+    {
+        "id": 27568,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilObjectCustomUserFieldsGUI.php",
+        "line": 237,
+        "code": "$this->lng->txt('ps_cdf_added_field')",
+        "has_variable": false,
+        "variable": "ps_cdf_added_field"
+    },
+    {
+        "id": 27570,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilObjectCustomUserFieldsGUI.php",
+        "line": 244,
+        "code": "$this->lng->txt('err_check_input')",
+        "has_variable": false,
+        "variable": "err_check_input"
+    },
+    {
+        "id": 27572,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilObjectCustomUserFieldsGUI.php",
+        "line": 281,
+        "code": "$this->lng->txt('settings_saved')",
+        "has_variable": false,
+        "variable": "settings_saved"
+    },
+    {
+        "id": 27574,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilObjectCustomUserFieldsGUI.php",
+        "line": 286,
+        "code": "$this->lng->txt('err_check_input')",
+        "has_variable": false,
+        "variable": "err_check_input"
+    },
+    {
+        "id": 27576,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilObjectCustomUserFieldsGUI.php",
+        "line": 301,
+        "code": "$this->lng->txt('ps_cdf_add_field')",
+        "has_variable": false,
+        "variable": "ps_cdf_add_field"
+    },
+    {
+        "id": 27578,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilObjectCustomUserFieldsGUI.php",
+        "line": 302,
+        "code": "$this->lng->txt('save')",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 27580,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilObjectCustomUserFieldsGUI.php",
+        "line": 303,
+        "code": "$this->lng->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 27582,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilObjectCustomUserFieldsGUI.php",
+        "line": 309,
+        "code": "$this->lng->txt('ps_cdf_edit_field')",
+        "has_variable": false,
+        "variable": "ps_cdf_edit_field"
+    },
+    {
+        "id": 27584,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilObjectCustomUserFieldsGUI.php",
+        "line": 310,
+        "code": "$this->lng->txt('save')",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 27586,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilObjectCustomUserFieldsGUI.php",
+        "line": 311,
+        "code": "$this->lng->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 27588,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilObjectCustomUserFieldsGUI.php",
+        "line": 316,
+        "code": "$this->lng->txt('ps_cdf_name')",
+        "has_variable": false,
+        "variable": "ps_cdf_name"
+    },
+    {
+        "id": 27590,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilObjectCustomUserFieldsGUI.php",
+        "line": 323,
+        "code": "$this->lng->txt('ps_field_type')",
+        "has_variable": false,
+        "variable": "ps_field_type"
+    },
+    {
+        "id": 27592,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilObjectCustomUserFieldsGUI.php",
+        "line": 332,
+        "code": "$this->lng->txt('ps_type_txt_long')",
+        "has_variable": false,
+        "variable": "ps_type_txt_long"
+    },
+    {
+        "id": 27594,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilObjectCustomUserFieldsGUI.php",
+        "line": 336,
+        "code": "$this->lng->txt('ps_type_select_long')",
+        "has_variable": false,
+        "variable": "ps_type_select_long"
+    },
+    {
+        "id": 27596,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilObjectCustomUserFieldsGUI.php",
+        "line": 340,
+        "code": "$this->lng->txt('ps_cdf_value')",
+        "has_variable": false,
+        "variable": "ps_cdf_value"
+    },
+    {
+        "id": 27598,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilObjectCustomUserFieldsGUI.php",
+        "line": 348,
+        "code": "$this->lng->txt('ps_cdf_required')",
+        "has_variable": false,
+        "variable": "ps_cdf_required"
+    },
+    {
+        "id": 27600,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilObjectCustomUserFieldsGUI.php",
+        "line": 362,
+        "code": "$this->lng->txt('back')",
+        "has_variable": false,
+        "variable": "back"
+    },
+    {
+        "id": 27602,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilObjectCustomUserFieldsGUI.php",
+        "line": 388,
+        "code": "$this->lng->txt(ilObject::_lookupType($this->getObjId()) . '_cdf_edit_member')",
+        "has_variable": true,
+        "variable": "ilObject::_lookupType($this->getObjId()) . '_cdf_edit_member'"
+    },
+    {
+        "id": 27604,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilObjectCustomUserFieldsGUI.php",
+        "line": 399,
+        "code": "$this->lng->txt('save')",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 27606,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilObjectCustomUserFieldsGUI.php",
+        "line": 400,
+        "code": "$this->lng->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 27608,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilObjectCustomUserFieldsGUI.php",
+        "line": 418,
+        "code": "$this->lng->txt('settings_saved')",
+        "has_variable": false,
+        "variable": "settings_saved"
+    },
+    {
+        "id": 27610,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilObjectCustomUserFieldsGUI.php",
+        "line": 424,
+        "code": "$this->lng->txt('err_check_input')",
+        "has_variable": false,
+        "variable": "err_check_input"
+    },
+    {
+        "id": 27612,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilObjectCustomUserFieldsTableGUI.php",
+        "line": 35,
+        "code": "$this->lng->txt(\n            ilObject::_lookupType($this->getParentObject()->getObjId()) .\n            '_custom_user_fields_table_title'\n        )",
+        "has_variable": true,
+        "variable": "ilObject::_lookupType($this->getParentObject()->getObjId()) .\n            '_custom_user_fields_table_title'"
+    },
+    {
+        "id": 27614,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilObjectCustomUserFieldsTableGUI.php",
+        "line": 41,
+        "code": "$this->lng->txt('ps_cdf_name')",
+        "has_variable": false,
+        "variable": "ps_cdf_name"
+    },
+    {
+        "id": 27616,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilObjectCustomUserFieldsTableGUI.php",
+        "line": 42,
+        "code": "$this->lng->txt('ps_cdf_type')",
+        "has_variable": false,
+        "variable": "ps_cdf_type"
+    },
+    {
+        "id": 27618,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilObjectCustomUserFieldsTableGUI.php",
+        "line": 43,
+        "code": "$this->lng->txt('ps_cdf_required')",
+        "has_variable": false,
+        "variable": "ps_cdf_required"
+    },
+    {
+        "id": 27620,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilObjectCustomUserFieldsTableGUI.php",
+        "line": 49,
+        "code": "$this->lng->txt('delete')",
+        "has_variable": false,
+        "variable": "delete"
+    },
+    {
+        "id": 27622,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilObjectCustomUserFieldsTableGUI.php",
+        "line": 50,
+        "code": "$this->lng->txt('save')",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 27624,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilObjectCustomUserFieldsTableGUI.php",
+        "line": 74,
+        "code": "$this->lng->txt('edit')",
+        "has_variable": false,
+        "variable": "edit"
+    },
+    {
+        "id": 27626,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilObjectCustomUserFieldsTableGUI.php",
+        "line": 89,
+        "code": "$this->lng->txt('ps_type_select')",
+        "has_variable": false,
+        "variable": "ps_type_select"
+    },
+    {
+        "id": 27628,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilObjectCustomUserFieldsTableGUI.php",
+        "line": 93,
+        "code": "$this->lng->txt('ps_type_text')",
+        "has_variable": false,
+        "variable": "ps_type_text"
+    },
+    {
+        "id": 27630,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilParticipantTableGUI.php",
+        "line": 66,
+        "code": "$this->lng->txt('name')",
+        "has_variable": false,
+        "variable": "name"
+    },
+    {
+        "id": 27632,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilParticipantTableGUI.php",
+        "line": 75,
+        "code": "$this->lng->txt('objs_role')",
+        "has_variable": false,
+        "variable": "objs_role"
+    },
+    {
+        "id": 27634,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilParticipantTableGUI.php",
+        "line": 79,
+        "code": "$this->lng->txt('all_roles')",
+        "has_variable": false,
+        "variable": "all_roles"
+    },
+    {
+        "id": 27636,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilParticipantTableGUI.php",
+        "line": 87,
+        "code": "$this->lng->txt('select_one')",
+        "has_variable": false,
+        "variable": "select_one"
+    },
+    {
+        "id": 27638,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilParticipantTableGUI.php",
+        "line": 96,
+        "code": "$this->lng->txt('org_units')",
+        "has_variable": false,
+        "variable": "org_units"
+    },
+    {
+        "id": 27640,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilParticipantTableGUI.php",
+        "line": 119,
+        "code": "$this->lng->txt('obj_prtf')",
+        "has_variable": false,
+        "variable": "obj_prtf"
+    },
+    {
+        "id": 27642,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilParticipantTableGUI.php",
+        "line": 129,
+        "code": "$this->lng->txt('objs_role')",
+        "has_variable": false,
+        "variable": "objs_role"
+    },
+    {
+        "id": 27644,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilParticipantTableGUI.php",
+        "line": 187,
+        "code": "$this->lng->txt('edit')",
+        "has_variable": false,
+        "variable": "edit"
+    },
+    {
+        "id": 27646,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilParticipantTableGUI.php",
+        "line": 194,
+        "code": "$this->lng->txt($this->getRepositoryObject()->getType() . '_cdf_edit_member')",
+        "has_variable": true,
+        "variable": "$this->getRepositoryObject()->getType() . '_cdf_edit_member'"
+    },
+    {
+        "id": 27648,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilParticipantTableGUI.php",
+        "line": 202,
+        "code": "$this->lng->txt('crs_loc_mem_show_res')",
+        "has_variable": false,
+        "variable": "crs_loc_mem_show_res"
+    },
+    {
+        "id": 27650,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilParticipants.php",
+        "line": 1138,
+        "code": "$this->lng->txt(\"crs_user_notsubscribed\")",
+        "has_variable": false,
+        "variable": "crs_user_notsubscribed"
+    },
+    {
+        "id": 27652,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilParticipants.php",
+        "line": 1144,
+        "code": "$this->lng->txt(\"crs_user_already_assigned\")",
+        "has_variable": false,
+        "variable": "crs_user_already_assigned"
+    },
+    {
+        "id": 27654,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilParticipants.php",
+        "line": 1150,
+        "code": "$this->lng->txt(\"crs_user_not_exists\")",
+        "has_variable": false,
+        "variable": "crs_user_not_exists"
+    },
+    {
+        "id": 27656,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilParticipants.php",
+        "line": 1228,
+        "code": "$this->lng->txt(\"no_usr_ids_given\")",
+        "has_variable": false,
+        "variable": "no_usr_ids_given"
+    },
+    {
+        "id": 27658,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilRegistrationGUI.php",
+        "line": 132,
+        "code": "$this->lng->txt($this->container->getType() . '_removed_from_waiting_list')",
+        "has_variable": true,
+        "variable": "$this->container->getType() . '_removed_from_waiting_list'"
+    },
+    {
+        "id": 27660,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilRegistrationGUI.php",
+        "line": 173,
+        "code": "$this->lng->txt('groupings')",
+        "has_variable": false,
+        "variable": "groupings"
+    },
+    {
+        "id": 27662,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilRegistrationGUI.php",
+        "line": 175,
+        "code": "$this->lng->txt($this->type . '_grp_info_reg')",
+        "has_variable": true,
+        "variable": "$this->type . '_grp_info_reg'"
+    },
+    {
+        "id": 27664,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilRegistrationGUI.php",
+        "line": 202,
+        "code": "$this->lng->txt('obj_' . $type)",
+        "has_variable": true,
+        "variable": "'obj_' . $type"
+    },
+    {
+        "id": 27666,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilRegistrationGUI.php",
+        "line": 231,
+        "code": "$this->lng->txt($this->type . '_usr_agreement')",
+        "has_variable": true,
+        "variable": "$this->type . '_usr_agreement'"
+    },
+    {
+        "id": 27668,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilRegistrationGUI.php",
+        "line": 260,
+        "code": "$this->lng->txt('ps_crs_user_fields')",
+        "has_variable": false,
+        "variable": "ps_crs_user_fields"
+    },
+    {
+        "id": 27670,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilRegistrationGUI.php",
+        "line": 261,
+        "code": "$this->lng->txt($this->type . '_ps_cdf_info')",
+        "has_variable": true,
+        "variable": "$this->type . '_ps_cdf_info'"
+    },
+    {
+        "id": 27672,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilRegistrationGUI.php",
+        "line": 400,
+        "code": "$this->lng->txt(\"reg_goto_parent_membership_info\")",
+        "has_variable": false,
+        "variable": "reg_goto_parent_membership_info"
+    },
+    {
+        "id": 27674,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilRegistrationGUI.php",
+        "line": 413,
+        "code": "$this->lng->txt('err_check_input')",
+        "has_variable": false,
+        "variable": "err_check_input"
+    },
+    {
+        "id": 27676,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilRegistrationGUI.php",
+        "line": 467,
+        "code": "$this->lng->txt('mem_add_to_wl')",
+        "has_variable": false,
+        "variable": "mem_add_to_wl"
+    },
+    {
+        "id": 27678,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilRegistrationGUI.php",
+        "line": 468,
+        "code": "$this->lng->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 27680,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilRegistrationGUI.php",
+        "line": 470,
+        "code": "$this->lng->txt('join')",
+        "has_variable": false,
+        "variable": "join"
+    },
+    {
+        "id": 27682,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilRegistrationGUI.php",
+        "line": 471,
+        "code": "$this->lng->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 27684,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilRegistrationGUI.php",
+        "line": 475,
+        "code": "$this->lng->txt($this->container->getType() . '_cancel_waiting_list')",
+        "has_variable": true,
+        "variable": "$this->container->getType() . '_cancel_waiting_list'"
+    },
+    {
+        "id": 27686,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilRegistrationGUI.php",
+        "line": 478,
+        "code": "$this->lng->txt('leave_waiting_list')",
+        "has_variable": false,
+        "variable": "leave_waiting_list"
+    },
+    {
+        "id": 27688,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilRegistrationGUI.php",
+        "line": 479,
+        "code": "$this->lng->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 27690,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilRegistrationGUI.php",
+        "line": 494,
+        "code": "$this->lng->txt('sub_request_saved')",
+        "has_variable": false,
+        "variable": "sub_request_saved"
+    },
+    {
+        "id": 27692,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilRegistrationGUI.php",
+        "line": 506,
+        "code": "$this->lng->txt('sub_request_deleted')",
+        "has_variable": false,
+        "variable": "sub_request_deleted"
+    },
+    {
+        "id": 27694,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilSubscriberTableGUI.php",
+        "line": 65,
+        "code": "$this->lng->txt('name')",
+        "has_variable": false,
+        "variable": "name"
+    },
+    {
+        "id": 27696,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilSubscriberTableGUI.php",
+        "line": 76,
+        "code": "$this->lng->txt('application_date')",
+        "has_variable": false,
+        "variable": "application_date"
+    },
+    {
+        "id": 27698,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilSubscriberTableGUI.php",
+        "line": 77,
+        "code": "$this->lng->txt('message')",
+        "has_variable": false,
+        "variable": "message"
+    },
+    {
+        "id": 27700,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilSubscriberTableGUI.php",
+        "line": 79,
+        "code": "$this->lng->txt('application_date')",
+        "has_variable": false,
+        "variable": "application_date"
+    },
+    {
+        "id": 27702,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilSubscriberTableGUI.php",
+        "line": 83,
+        "code": "$this->lng->txt('sess_accept_request')",
+        "has_variable": false,
+        "variable": "sess_accept_request"
+    },
+    {
+        "id": 27704,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilSubscriberTableGUI.php",
+        "line": 85,
+        "code": "$this->lng->txt('assign')",
+        "has_variable": false,
+        "variable": "assign"
+    },
+    {
+        "id": 27706,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilSubscriberTableGUI.php",
+        "line": 87,
+        "code": "$this->lng->txt('refuse')",
+        "has_variable": false,
+        "variable": "refuse"
+    },
+    {
+        "id": 27708,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilSubscriberTableGUI.php",
+        "line": 88,
+        "code": "$this->lng->txt('crs_mem_send_mail')",
+        "has_variable": false,
+        "variable": "crs_mem_send_mail"
+    },
+    {
+        "id": 27710,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilSubscriberTableGUI.php",
+        "line": 92,
+        "code": "$this->lng->txt('clipboard_add_btn')",
+        "has_variable": false,
+        "variable": "clipboard_add_btn"
+    },
+    {
+        "id": 27712,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilSubscriberTableGUI.php",
+        "line": 128,
+        "code": "$this->lng->txt('login')",
+        "has_variable": false,
+        "variable": "login"
+    },
+    {
+        "id": 27714,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilSubscriberTableGUI.php",
+        "line": 154,
+        "code": "$this->lng->txt($prefix . '_lim_assigned')",
+        "has_variable": true,
+        "variable": "$prefix . '_lim_assigned'"
+    },
+    {
+        "id": 27716,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilSubscriberTableGUI.php",
+        "line": 165,
+        "code": "$this->lng->txt('gender_' . $a_set['gender'])",
+        "has_variable": true,
+        "variable": "'gender_' . $a_set['gender']"
+    },
+    {
+        "id": 27718,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilSubscriberTableGUI.php",
+        "line": 175,
+        "code": "$this->lng->txt('no_date')",
+        "has_variable": false,
+        "variable": "no_date"
+    },
+    {
+        "id": 27720,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilSubscriberTableGUI.php",
+        "line": 228,
+        "code": "$this->lng->txt($this->getRepositoryObject()->getType() . '_mem_send_mail')",
+        "has_variable": true,
+        "variable": "$this->getRepositoryObject()->getType() . '_mem_send_mail'"
+    },
+    {
+        "id": 27722,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilSubscriberTableGUI.php",
+        "line": 235,
+        "code": "$this->lng->txt($this->getRepositoryObject()->getType() . '_cdf_edit_member')",
+        "has_variable": true,
+        "variable": "$this->getRepositoryObject()->getType() . '_cdf_edit_member'"
+    },
+    {
+        "id": 27724,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilSubscriberTableGUI.php",
+        "line": 241,
+        "code": "$this->lng->txt('actions')",
+        "has_variable": false,
+        "variable": "actions"
+    },
+    {
+        "id": 27726,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilWaitingListTableGUI.php",
+        "line": 73,
+        "code": "$this->lng->txt('name')",
+        "has_variable": false,
+        "variable": "name"
+    },
+    {
+        "id": 27728,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilWaitingListTableGUI.php",
+        "line": 80,
+        "code": "$this->lng->txt('application_date')",
+        "has_variable": false,
+        "variable": "application_date"
+    },
+    {
+        "id": 27730,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilWaitingListTableGUI.php",
+        "line": 83,
+        "code": "$this->lng->txt('assign')",
+        "has_variable": false,
+        "variable": "assign"
+    },
+    {
+        "id": 27732,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilWaitingListTableGUI.php",
+        "line": 84,
+        "code": "$this->lng->txt('refuse')",
+        "has_variable": false,
+        "variable": "refuse"
+    },
+    {
+        "id": 27734,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilWaitingListTableGUI.php",
+        "line": 85,
+        "code": "$this->lng->txt('crs_mem_send_mail')",
+        "has_variable": false,
+        "variable": "crs_mem_send_mail"
+    },
+    {
+        "id": 27736,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilWaitingListTableGUI.php",
+        "line": 91,
+        "code": "$this->lng->txt('clipboard_add_btn')",
+        "has_variable": false,
+        "variable": "clipboard_add_btn"
+    },
+    {
+        "id": 27738,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilWaitingListTableGUI.php",
+        "line": 163,
+        "code": "$this->lng->txt('login')",
+        "has_variable": false,
+        "variable": "login"
+    },
+    {
+        "id": 27740,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilWaitingListTableGUI.php",
+        "line": 179,
+        "code": "$this->lng->txt($prefix . '_lim_assigned')",
+        "has_variable": true,
+        "variable": "$prefix . '_lim_assigned'"
+    },
+    {
+        "id": 27742,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilWaitingListTableGUI.php",
+        "line": 191,
+        "code": "$this->lng->txt('gender_' . $a_set['gender'])",
+        "has_variable": true,
+        "variable": "'gender_' . $a_set['gender']"
+    },
+    {
+        "id": 27744,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilWaitingListTableGUI.php",
+        "line": 201,
+        "code": "$this->lng->txt('no_date')",
+        "has_variable": false,
+        "variable": "no_date"
+    },
+    {
+        "id": 27746,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilWaitingListTableGUI.php",
+        "line": 392,
+        "code": "$this->lng->txt($this->getRepositoryObject()->getType() . '_mem_send_mail')",
+        "has_variable": true,
+        "variable": "$this->getRepositoryObject()->getType() . '_mem_send_mail'"
+    },
+    {
+        "id": 27748,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilWaitingListTableGUI.php",
+        "line": 398,
+        "code": "$this->lng->txt($this->getRepositoryObject()->getType() . '_cdf_edit_member')",
+        "has_variable": true,
+        "variable": "$this->getRepositoryObject()->getType() . '_cdf_edit_member'"
+    },
+    {
+        "id": 27750,
+        "file": "components\/ILIAS\/Membership\/classes\/class.ilWaitingListTableGUI.php",
+        "line": 404,
+        "code": "$this->lng->txt('actions')",
+        "has_variable": false,
+        "variable": "actions"
+    }
+]

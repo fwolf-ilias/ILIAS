@@ -1,0 +1,386 @@
+[
+    {
+        "id": 39126,
+        "file": "components\/ILIAS\/SystemCheck\/classes\/class.ilObjSystemCheckGUI.php",
+        "line": 121,
+        "code": "$this->lng->txt('back')",
+        "has_variable": false,
+        "variable": "back"
+    },
+    {
+        "id": 39128,
+        "file": "components\/ILIAS\/SystemCheck\/classes\/class.ilObjSystemCheckGUI.php",
+        "line": 133,
+        "code": "$this->lng->txt('overview')",
+        "has_variable": false,
+        "variable": "overview"
+    },
+    {
+        "id": 39130,
+        "file": "components\/ILIAS\/SystemCheck\/classes\/class.ilObjSystemCheckGUI.php",
+        "line": 140,
+        "code": "$this->lng->txt('perm_settings')",
+        "has_variable": false,
+        "variable": "perm_settings"
+    },
+    {
+        "id": 39132,
+        "file": "components\/ILIAS\/SystemCheck\/classes\/class.ilObjSystemCheckGUI.php",
+        "line": 192,
+        "code": "$this->lng->txt('sysc_administrate_deleted')",
+        "has_variable": false,
+        "variable": "sysc_administrate_deleted"
+    },
+    {
+        "id": 39134,
+        "file": "components\/ILIAS\/SystemCheck\/classes\/class.ilObjSystemCheckGUI.php",
+        "line": 194,
+        "code": "$this->lng->txt('sysc_trash_action')",
+        "has_variable": false,
+        "variable": "sysc_trash_action"
+    },
+    {
+        "id": 39136,
+        "file": "components\/ILIAS\/SystemCheck\/classes\/class.ilObjSystemCheckGUI.php",
+        "line": 198,
+        "code": "$this->lng->txt('sysc_trash_restore')",
+        "has_variable": false,
+        "variable": "sysc_trash_restore"
+    },
+    {
+        "id": 39138,
+        "file": "components\/ILIAS\/SystemCheck\/classes\/class.ilObjSystemCheckGUI.php",
+        "line": 199,
+        "code": "$this->lng->txt('sysc_trash_restore_info')",
+        "has_variable": false,
+        "variable": "sysc_trash_restore_info"
+    },
+    {
+        "id": 39140,
+        "file": "components\/ILIAS\/SystemCheck\/classes\/class.ilObjSystemCheckGUI.php",
+        "line": 203,
+        "code": "$this->lng->txt('sysc_trash_remove')",
+        "has_variable": false,
+        "variable": "sysc_trash_remove"
+    },
+    {
+        "id": 39142,
+        "file": "components\/ILIAS\/SystemCheck\/classes\/class.ilObjSystemCheckGUI.php",
+        "line": 204,
+        "code": "$this->lng->txt('sysc_trash_remove_info')",
+        "has_variable": false,
+        "variable": "sysc_trash_remove_info"
+    },
+    {
+        "id": 39144,
+        "file": "components\/ILIAS\/SystemCheck\/classes\/class.ilObjSystemCheckGUI.php",
+        "line": 208,
+        "code": "$this->lng->txt('sysc_trash_limit_num')",
+        "has_variable": false,
+        "variable": "sysc_trash_limit_num"
+    },
+    {
+        "id": 39146,
+        "file": "components\/ILIAS\/SystemCheck\/classes\/class.ilObjSystemCheckGUI.php",
+        "line": 209,
+        "code": "$this->lng->txt('purge_count_limit_desc')",
+        "has_variable": false,
+        "variable": "purge_count_limit_desc"
+    },
+    {
+        "id": 39148,
+        "file": "components\/ILIAS\/SystemCheck\/classes\/class.ilObjSystemCheckGUI.php",
+        "line": 214,
+        "code": "$this->lng->txt('sysc_trash_limit_age')",
+        "has_variable": false,
+        "variable": "sysc_trash_limit_age"
+    },
+    {
+        "id": 39150,
+        "file": "components\/ILIAS\/SystemCheck\/classes\/class.ilObjSystemCheckGUI.php",
+        "line": 215,
+        "code": "$this->lng->txt('purge_age_limit_desc')",
+        "has_variable": false,
+        "variable": "purge_age_limit_desc"
+    },
+    {
+        "id": 39152,
+        "file": "components\/ILIAS\/SystemCheck\/classes\/class.ilObjSystemCheckGUI.php",
+        "line": 220,
+        "code": "$this->lng->txt('sysc_trash_limit_type')",
+        "has_variable": false,
+        "variable": "sysc_trash_limit_type"
+    },
+    {
+        "id": 39154,
+        "file": "components\/ILIAS\/SystemCheck\/classes\/class.ilObjSystemCheckGUI.php",
+        "line": 230,
+        "code": "$this->lng->txt('obj_' . $obj_type)",
+        "has_variable": true,
+        "variable": "'obj_' . $obj_type"
+    },
+    {
+        "id": 39156,
+        "file": "components\/ILIAS\/SystemCheck\/classes\/class.ilObjSystemCheckGUI.php",
+        "line": 240,
+        "code": "$this->lng->txt('start_scan')",
+        "has_variable": false,
+        "variable": "start_scan"
+    },
+    {
+        "id": 39158,
+        "file": "components\/ILIAS\/SystemCheck\/classes\/class.ilObjSystemCheckGUI.php",
+        "line": 241,
+        "code": "$this->lng->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 39160,
+        "file": "components\/ILIAS\/SystemCheck\/classes\/class.ilObjSystemCheckGUI.php",
+        "line": 264,
+        "code": "$this->lng->txt('settings_saved')",
+        "has_variable": false,
+        "variable": "settings_saved"
+    },
+    {
+        "id": 39162,
+        "file": "components\/ILIAS\/SystemCheck\/classes\/class.ilObjSystemCheckGUI.php",
+        "line": 270,
+        "code": "$this->lng->txt('err_check_input')",
+        "has_variable": false,
+        "variable": "err_check_input"
+    },
+    {
+        "id": 39164,
+        "file": "components\/ILIAS\/SystemCheck\/classes\/class.ilObjSystemCheckGUI.php",
+        "line": 316,
+        "code": "$this->lng->txt('back')",
+        "has_variable": false,
+        "variable": "back"
+    },
+    {
+        "id": 39166,
+        "file": "components\/ILIAS\/SystemCheck\/classes\/class.ilSCComponentTaskGUI.php",
+        "line": 44,
+        "code": "$lng->txt('sysc_action_repair')",
+        "has_variable": false,
+        "variable": "sysc_action_repair"
+    },
+    {
+        "id": 39168,
+        "file": "components\/ILIAS\/SystemCheck\/classes\/class.ilSCComponentTaskGUI.php",
+        "line": 90,
+        "code": "$this->lng->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 39170,
+        "file": "components\/ILIAS\/SystemCheck\/classes\/class.ilSCCronTrash.php",
+        "line": 52,
+        "code": "$this->lng->txt('sysc_cron_empty_trash')",
+        "has_variable": false,
+        "variable": "sysc_cron_empty_trash"
+    },
+    {
+        "id": 39172,
+        "file": "components\/ILIAS\/SystemCheck\/classes\/class.ilSCCronTrash.php",
+        "line": 57,
+        "code": "$this->lng->txt('sysc_cron_empty_trash_desc')",
+        "has_variable": false,
+        "variable": "sysc_cron_empty_trash_desc"
+    },
+    {
+        "id": 39174,
+        "file": "components\/ILIAS\/SystemCheck\/classes\/class.ilSCCronTrash.php",
+        "line": 103,
+        "code": "$this->lng->txt('sysc_trash_limit_num')",
+        "has_variable": false,
+        "variable": "sysc_trash_limit_num"
+    },
+    {
+        "id": 39176,
+        "file": "components\/ILIAS\/SystemCheck\/classes\/class.ilSCCronTrash.php",
+        "line": 105,
+        "code": "$this->lng->txt('purge_count_limit_desc')",
+        "has_variable": false,
+        "variable": "purge_count_limit_desc"
+    },
+    {
+        "id": 39178,
+        "file": "components\/ILIAS\/SystemCheck\/classes\/class.ilSCCronTrash.php",
+        "line": 111,
+        "code": "$this->lng->txt('sysc_trash_limit_age')",
+        "has_variable": false,
+        "variable": "sysc_trash_limit_age"
+    },
+    {
+        "id": 39180,
+        "file": "components\/ILIAS\/SystemCheck\/classes\/class.ilSCCronTrash.php",
+        "line": 113,
+        "code": "$this->lng->txt('purge_age_limit_desc')",
+        "has_variable": false,
+        "variable": "purge_age_limit_desc"
+    },
+    {
+        "id": 39182,
+        "file": "components\/ILIAS\/SystemCheck\/classes\/class.ilSCCronTrash.php",
+        "line": 125,
+        "code": "$this->lng->txt('sysc_trash_limit_type')",
+        "has_variable": false,
+        "variable": "sysc_trash_limit_type"
+    },
+    {
+        "id": 39184,
+        "file": "components\/ILIAS\/SystemCheck\/classes\/class.ilSCCronTrash.php",
+        "line": 134,
+        "code": "$this->lng->txt('obj_' . $obj_type)",
+        "has_variable": true,
+        "variable": "'obj_' . $obj_type"
+    },
+    {
+        "id": 39186,
+        "file": "components\/ILIAS\/SystemCheck\/classes\/class.ilSCGroupTableGUI.php",
+        "line": 46,
+        "code": "$this->lng->txt('title')",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 39188,
+        "file": "components\/ILIAS\/SystemCheck\/classes\/class.ilSCGroupTableGUI.php",
+        "line": 47,
+        "code": "$this->lng->txt('last_update')",
+        "has_variable": false,
+        "variable": "last_update"
+    },
+    {
+        "id": 39190,
+        "file": "components\/ILIAS\/SystemCheck\/classes\/class.ilSCGroupTableGUI.php",
+        "line": 48,
+        "code": "$this->lng->txt('sysc_completed_num')",
+        "has_variable": false,
+        "variable": "sysc_completed_num"
+    },
+    {
+        "id": 39192,
+        "file": "components\/ILIAS\/SystemCheck\/classes\/class.ilSCGroupTableGUI.php",
+        "line": 49,
+        "code": "$this->lng->txt('sysc_failed_num')",
+        "has_variable": false,
+        "variable": "sysc_failed_num"
+    },
+    {
+        "id": 39194,
+        "file": "components\/ILIAS\/SystemCheck\/classes\/class.ilSCGroupTableGUI.php",
+        "line": 50,
+        "code": "$this->lng->txt('actions')",
+        "has_variable": false,
+        "variable": "actions"
+    },
+    {
+        "id": 39196,
+        "file": "components\/ILIAS\/SystemCheck\/classes\/class.ilSCGroupTableGUI.php",
+        "line": 52,
+        "code": "$this->lng->txt('sysc_overview')",
+        "has_variable": false,
+        "variable": "sysc_overview"
+    },
+    {
+        "id": 39198,
+        "file": "components\/ILIAS\/SystemCheck\/classes\/class.ilSCGroupTableGUI.php",
+        "line": 87,
+        "code": "$this->lng->txt('show')",
+        "has_variable": false,
+        "variable": "show"
+    },
+    {
+        "id": 39200,
+        "file": "components\/ILIAS\/SystemCheck\/classes\/class.ilSCGroupTableGUI.php",
+        "line": 92,
+        "code": "$this->lng->txt('actions')",
+        "has_variable": false,
+        "variable": "actions"
+    },
+    {
+        "id": 39202,
+        "file": "components\/ILIAS\/SystemCheck\/classes\/class.ilSCTaskTableGUI.php",
+        "line": 56,
+        "code": "$this->lng->txt('title')",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 39204,
+        "file": "components\/ILIAS\/SystemCheck\/classes\/class.ilSCTaskTableGUI.php",
+        "line": 57,
+        "code": "$this->lng->txt('last_update')",
+        "has_variable": false,
+        "variable": "last_update"
+    },
+    {
+        "id": 39206,
+        "file": "components\/ILIAS\/SystemCheck\/classes\/class.ilSCTaskTableGUI.php",
+        "line": 58,
+        "code": "$this->lng->txt('status')",
+        "has_variable": false,
+        "variable": "status"
+    },
+    {
+        "id": 39208,
+        "file": "components\/ILIAS\/SystemCheck\/classes\/class.ilSCTaskTableGUI.php",
+        "line": 59,
+        "code": "$this->lng->txt('actions')",
+        "has_variable": false,
+        "variable": "actions"
+    },
+    {
+        "id": 39210,
+        "file": "components\/ILIAS\/SystemCheck\/classes\/class.ilSCTaskTableGUI.php",
+        "line": 61,
+        "code": "$this->lng->txt('sysc_task_overview')",
+        "has_variable": false,
+        "variable": "sysc_task_overview"
+    },
+    {
+        "id": 39212,
+        "file": "components\/ILIAS\/SystemCheck\/classes\/class.ilSCTaskTableGUI.php",
+        "line": 111,
+        "code": "$this->lng->txt('actions')",
+        "has_variable": false,
+        "variable": "actions"
+    },
+    {
+        "id": 39214,
+        "file": "components\/ILIAS\/SystemCheck\/classes\/class.ilSCUtils.php",
+        "line": 34,
+        "code": "$lng->txt('sysc_status_na')",
+        "has_variable": false,
+        "variable": "sysc_status_na"
+    },
+    {
+        "id": 39216,
+        "file": "components\/ILIAS\/SystemCheck\/classes\/class.ilSCUtils.php",
+        "line": 37,
+        "code": "$lng->txt('sysc_status_running')",
+        "has_variable": false,
+        "variable": "sysc_status_running"
+    },
+    {
+        "id": 39218,
+        "file": "components\/ILIAS\/SystemCheck\/classes\/class.ilSCUtils.php",
+        "line": 40,
+        "code": "$lng->txt('sysc_status_failed')",
+        "has_variable": false,
+        "variable": "sysc_status_failed"
+    },
+    {
+        "id": 39220,
+        "file": "components\/ILIAS\/SystemCheck\/classes\/class.ilSCUtils.php",
+        "line": 43,
+        "code": "$lng->txt('sysc_status_completed')",
+        "has_variable": false,
+        "variable": "sysc_status_completed"
+    }
+]

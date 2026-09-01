@@ -1,0 +1,64 @@
+{
+    "metadata": {
+        "type": "full",
+        "count": 5,
+        "description": "Variable usages without detectable prefixes or suffixes (pure variable references without static strings)"
+    },
+    "matches": [
+        {
+            "id": 7568,
+            "file": "components\/ILIAS\/Calendar\/classes\/class.ilCalendarCategoryGUI.php",
+            "line": 744,
+            "code": "$this->lng->txt(\"\")",
+            "variable": "",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 7706,
+            "file": "components\/ILIAS\/Calendar\/classes\/class.ilCalendarEntry.php",
+            "line": 152,
+            "code": "$this->lng->txt($this->getSubtitle())",
+            "variable": "$this->getSubtitle()",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 7708,
+            "file": "components\/ILIAS\/Calendar\/classes\/class.ilCalendarEntry.php",
+            "line": 159,
+            "code": "$this->lng->txt($this->getTitle())",
+            "variable": "$this->getTitle()",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 7812,
+            "file": "components\/ILIAS\/Calendar\/classes\/class.ilCalendarPresentationGUI.php",
+            "line": 388,
+            "code": "$this->lng->txt($a_active)",
+            "variable": "$a_active",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 8152,
+            "file": "components\/ILIAS\/Calendar\/classes\/class.ilDatePresentation.php",
+            "line": 125,
+            "code": "$lng->txt(self::$weekdays[$date_info['wday']])",
+            "variable": "_",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        }
+    ]
+}

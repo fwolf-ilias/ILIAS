@@ -1,0 +1,106 @@
+[
+    {
+        "id": 17320,
+        "file": "components\/ILIAS\/Folder\/classes\/class.ilObjFolderGUI.php",
+        "line": 257,
+        "code": "$this->lng->txt($this->object->getType() . \"_edit\")",
+        "has_variable": true,
+        "variable": "$this->object->getType() . \"_edit\""
+    },
+    {
+        "id": 17322,
+        "file": "components\/ILIAS\/Folder\/classes\/class.ilObjFolderGUI.php",
+        "line": 260,
+        "code": "$this->lng->txt(\"title\")",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 17324,
+        "file": "components\/ILIAS\/Folder\/classes\/class.ilObjFolderGUI.php",
+        "line": 267,
+        "code": "$this->lng->txt(\"description\")",
+        "has_variable": false,
+        "variable": "description"
+    },
+    {
+        "id": 17326,
+        "file": "components\/ILIAS\/Folder\/classes\/class.ilObjFolderGUI.php",
+        "line": 276,
+        "code": "$this->lng->txt('fold_presentation')",
+        "has_variable": false,
+        "variable": "fold_presentation"
+    },
+    {
+        "id": 17328,
+        "file": "components\/ILIAS\/Folder\/classes\/class.ilObjFolderGUI.php",
+        "line": 304,
+        "code": "$this->lng->txt(\"save\")",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 17330,
+        "file": "components\/ILIAS\/Folder\/classes\/class.ilObjFolderGUI.php",
+        "line": 305,
+        "code": "$lng->txt(\"cancel\")",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 17332,
+        "file": "components\/ILIAS\/Folder\/classes\/class.ilObjFolderGUI.php",
+        "line": 357,
+        "code": "$this->lng->txt(\"fold_added\")",
+        "has_variable": false,
+        "variable": "fold_added"
+    },
+    {
+        "id": 17334,
+        "file": "components\/ILIAS\/Folder\/classes\/class.ilObjFolderGUI.php",
+        "line": 380,
+        "code": "$this->lng->txt(\"msg_no_perm_read\")",
+        "has_variable": false,
+        "variable": "msg_no_perm_read"
+    },
+    {
+        "id": 17336,
+        "file": "components\/ILIAS\/Folder\/classes\/class.ilObjFolderGUI.php",
+        "line": 429,
+        "code": "$lng->txt(\"content\")",
+        "has_variable": false,
+        "variable": "content"
+    },
+    {
+        "id": 17338,
+        "file": "components\/ILIAS\/Folder\/classes\/class.ilObjFolderGUI.php",
+        "line": 510,
+        "code": "$lng->txt(\"msg_no_perm_read\")",
+        "has_variable": false,
+        "variable": "msg_no_perm_read"
+    },
+    {
+        "id": 17340,
+        "file": "components\/ILIAS\/Folder\/classes\/class.ilObjFolderGUI.php",
+        "line": 575,
+        "code": "$this->lng->txt(\"msg_no_perm_write\")",
+        "has_variable": false,
+        "variable": "msg_no_perm_write"
+    },
+    {
+        "id": 17342,
+        "file": "components\/ILIAS\/Folder\/classes\/class.ilObjFolderGUI.php",
+        "line": 593,
+        "code": "$lng->txt(\"fold_settings\")",
+        "has_variable": false,
+        "variable": "fold_settings"
+    },
+    {
+        "id": 17344,
+        "file": "components\/ILIAS\/Folder\/classes\/class.ilObjFolderGUI.php",
+        "line": 599,
+        "code": "$this->lng->txt(\"obj_multilinguality\")",
+        "has_variable": false,
+        "variable": "obj_multilinguality"
+    }
+]

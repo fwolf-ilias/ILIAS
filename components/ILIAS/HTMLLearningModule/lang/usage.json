@@ -1,0 +1,426 @@
+[
+    {
+        "id": 19798,
+        "file": "components\/ILIAS\/HTMLLearningModule\/classes\/class.ilHTLMEditorGUI.php",
+        "line": 59,
+        "code": "$lng->txt(\"permission_denied\")",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 19800,
+        "file": "components\/ILIAS\/HTMLLearningModule\/classes\/class.ilHTLMExportOptionHTML.php",
+        "line": 63,
+        "code": "$this->lng->txt(\"exp_format_dropdown-html\")",
+        "has_variable": false,
+        "variable": "exp_format_dropdown-html"
+    },
+    {
+        "id": 19802,
+        "file": "components\/ILIAS\/HTMLLearningModule\/classes\/class.ilHTLMPresentationGUI.php",
+        "line": 55,
+        "code": "$lng->txt(\"permission_denied\")",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 19804,
+        "file": "components\/ILIAS\/HTMLLearningModule\/classes\/class.ilObjFileBasedLMAccess.php",
+        "line": 50,
+        "code": "$lng->txt(\"offline\")",
+        "has_variable": false,
+        "variable": "offline"
+    },
+    {
+        "id": 19806,
+        "file": "components\/ILIAS\/HTMLLearningModule\/classes\/class.ilObjFileBasedLMGUI.php",
+        "line": 112,
+        "code": "$this->lng->txt('files')",
+        "has_variable": false,
+        "variable": "files"
+    },
+    {
+        "id": 19808,
+        "file": "components\/ILIAS\/HTMLLearningModule\/classes\/class.ilObjFileBasedLMGUI.php",
+        "line": 115,
+        "code": "$this->lng->txt('start_file')",
+        "has_variable": false,
+        "variable": "start_file"
+    },
+    {
+        "id": 19810,
+        "file": "components\/ILIAS\/HTMLLearningModule\/classes\/class.ilObjFileBasedLMGUI.php",
+        "line": 120,
+        "code": "$this->lng->txt('cont_set_start_file')",
+        "has_variable": false,
+        "variable": "cont_set_start_file"
+    },
+    {
+        "id": 19812,
+        "file": "components\/ILIAS\/HTMLLearningModule\/classes\/class.ilObjFileBasedLMGUI.php",
+        "line": 135,
+        "code": "$this->lng->txt('import_from_upload_dir')",
+        "has_variable": false,
+        "variable": "import_from_upload_dir"
+    },
+    {
+        "id": 19814,
+        "file": "components\/ILIAS\/HTMLLearningModule\/classes\/class.ilObjFileBasedLMGUI.php",
+        "line": 139,
+        "code": "$this->lng->txt('import_from_upload_dir_file_name')",
+        "has_variable": false,
+        "variable": "import_from_upload_dir_file_name"
+    },
+    {
+        "id": 19816,
+        "file": "components\/ILIAS\/HTMLLearningModule\/classes\/class.ilObjFileBasedLMGUI.php",
+        "line": 141,
+        "code": "$this->lng->txt('import_from_upload_dir_info')",
+        "has_variable": false,
+        "variable": "import_from_upload_dir_info"
+    },
+    {
+        "id": 19818,
+        "file": "components\/ILIAS\/HTMLLearningModule\/classes\/class.ilObjFileBasedLMGUI.php",
+        "line": 151,
+        "code": "$this->lng->txt('import_from_upload_dir')",
+        "has_variable": false,
+        "variable": "import_from_upload_dir"
+    },
+    {
+        "id": 19820,
+        "file": "components\/ILIAS\/HTMLLearningModule\/classes\/class.ilObjFileBasedLMGUI.php",
+        "line": 232,
+        "code": "$this->lng->txt(\"permission_denied\")",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 19822,
+        "file": "components\/ILIAS\/HTMLLearningModule\/classes\/class.ilObjFileBasedLMGUI.php",
+        "line": 248,
+        "code": "$this->lng->txt(\"title\")",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 19824,
+        "file": "components\/ILIAS\/HTMLLearningModule\/classes\/class.ilObjFileBasedLMGUI.php",
+        "line": 255,
+        "code": "$this->lng->txt(\"description\")",
+        "has_variable": false,
+        "variable": "description"
+    },
+    {
+        "id": 19826,
+        "file": "components\/ILIAS\/HTMLLearningModule\/classes\/class.ilObjFileBasedLMGUI.php",
+        "line": 261,
+        "code": "$this->lng->txt(\"cont_online\")",
+        "has_variable": false,
+        "variable": "cont_online"
+    },
+    {
+        "id": 19828,
+        "file": "components\/ILIAS\/HTMLLearningModule\/classes\/class.ilObjFileBasedLMGUI.php",
+        "line": 262,
+        "code": "$this->lng->txt(\"\")",
+        "has_variable": true,
+        "variable": ""
+    },
+    {
+        "id": 19830,
+        "file": "components\/ILIAS\/HTMLLearningModule\/classes\/class.ilObjFileBasedLMGUI.php",
+        "line": 269,
+        "code": "$this->lng->txt(\"cont_startfile\")",
+        "has_variable": false,
+        "variable": "cont_startfile"
+    },
+    {
+        "id": 19832,
+        "file": "components\/ILIAS\/HTMLLearningModule\/classes\/class.ilObjFileBasedLMGUI.php",
+        "line": 273,
+        "code": "$this->lng->txt(\"no_start_file\")",
+        "has_variable": false,
+        "variable": "no_start_file"
+    },
+    {
+        "id": 19834,
+        "file": "components\/ILIAS\/HTMLLearningModule\/classes\/class.ilObjFileBasedLMGUI.php",
+        "line": 278,
+        "code": "$this->lng->txt('obj_presentation')",
+        "has_variable": false,
+        "variable": "obj_presentation"
+    },
+    {
+        "id": 19836,
+        "file": "components\/ILIAS\/HTMLLearningModule\/classes\/class.ilObjFileBasedLMGUI.php",
+        "line": 284,
+        "code": "$this->lng->txt(\"save\")",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 19838,
+        "file": "components\/ILIAS\/HTMLLearningModule\/classes\/class.ilObjFileBasedLMGUI.php",
+        "line": 285,
+        "code": "$this->lng->txt(\"cont_set_start_file\")",
+        "has_variable": false,
+        "variable": "cont_set_start_file"
+    },
+    {
+        "id": 19840,
+        "file": "components\/ILIAS\/HTMLLearningModule\/classes\/class.ilObjFileBasedLMGUI.php",
+        "line": 287,
+        "code": "$this->lng->txt(\"cont_lm_properties\")",
+        "has_variable": false,
+        "variable": "cont_lm_properties"
+    },
+    {
+        "id": 19842,
+        "file": "components\/ILIAS\/HTMLLearningModule\/classes\/class.ilObjFileBasedLMGUI.php",
+        "line": 292,
+        "code": "$this->lng->txt('obj_features')",
+        "has_variable": false,
+        "variable": "obj_features"
+    },
+    {
+        "id": 19844,
+        "file": "components\/ILIAS\/HTMLLearningModule\/classes\/class.ilObjFileBasedLMGUI.php",
+        "line": 313,
+        "code": "$this->lng->txt(\"no_start_file\")",
+        "has_variable": false,
+        "variable": "no_start_file"
+    },
+    {
+        "id": 19846,
+        "file": "components\/ILIAS\/HTMLLearningModule\/classes\/class.ilObjFileBasedLMGUI.php",
+        "line": 338,
+        "code": "$this->lng->txt(\"permission_denied\")",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 19848,
+        "file": "components\/ILIAS\/HTMLLearningModule\/classes\/class.ilObjFileBasedLMGUI.php",
+        "line": 363,
+        "code": "$this->lng->txt(\"msg_obj_modified\")",
+        "has_variable": false,
+        "variable": "msg_obj_modified"
+    },
+    {
+        "id": 19850,
+        "file": "components\/ILIAS\/HTMLLearningModule\/classes\/class.ilObjFileBasedLMGUI.php",
+        "line": 375,
+        "code": "$this->lng->txt(\"permission_denied\")",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 19852,
+        "file": "components\/ILIAS\/HTMLLearningModule\/classes\/class.ilObjFileBasedLMGUI.php",
+        "line": 397,
+        "code": "$this->lng->txt(\"object_added\")",
+        "has_variable": false,
+        "variable": "object_added"
+    },
+    {
+        "id": 19854,
+        "file": "components\/ILIAS\/HTMLLearningModule\/classes\/class.ilObjFileBasedLMGUI.php",
+        "line": 410,
+        "code": "$this->lng->txt(\"permission_denied\")",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 19856,
+        "file": "components\/ILIAS\/HTMLLearningModule\/classes\/class.ilObjFileBasedLMGUI.php",
+        "line": 429,
+        "code": "$this->lng->txt('cont_no_start_file')",
+        "has_variable": false,
+        "variable": "cont_no_start_file"
+    },
+    {
+        "id": 19858,
+        "file": "components\/ILIAS\/HTMLLearningModule\/classes\/class.ilObjFileBasedLMGUI.php",
+        "line": 433,
+        "code": "$this->lng->txt('cont_start_file_set_to')",
+        "has_variable": false,
+        "variable": "cont_start_file_set_to"
+    },
+    {
+        "id": 19860,
+        "file": "components\/ILIAS\/HTMLLearningModule\/classes\/class.ilObjFileBasedLMGUI.php",
+        "line": 509,
+        "code": "$this->lng->txt(\"view\")",
+        "has_variable": false,
+        "variable": "view"
+    },
+    {
+        "id": 19862,
+        "file": "components\/ILIAS\/HTMLLearningModule\/classes\/class.ilObjFileBasedLMGUI.php",
+        "line": 540,
+        "code": "$lng->txt(\"cont_list_files\")",
+        "has_variable": false,
+        "variable": "cont_list_files"
+    },
+    {
+        "id": 19864,
+        "file": "components\/ILIAS\/HTMLLearningModule\/classes\/class.ilObjFileBasedLMGUI.php",
+        "line": 548,
+        "code": "$lng->txt(\"info_short\")",
+        "has_variable": false,
+        "variable": "info_short"
+    },
+    {
+        "id": 19866,
+        "file": "components\/ILIAS\/HTMLLearningModule\/classes\/class.ilObjFileBasedLMGUI.php",
+        "line": 556,
+        "code": "$lng->txt(\"settings\")",
+        "has_variable": false,
+        "variable": "settings"
+    },
+    {
+        "id": 19868,
+        "file": "components\/ILIAS\/HTMLLearningModule\/classes\/class.ilObjFileBasedLMGUI.php",
+        "line": 564,
+        "code": "$lng->txt(\"learning_progress\")",
+        "has_variable": false,
+        "variable": "learning_progress"
+    },
+    {
+        "id": 19870,
+        "file": "components\/ILIAS\/HTMLLearningModule\/classes\/class.ilObjFileBasedLMGUI.php",
+        "line": 575,
+        "code": "$lng->txt(\"meta_data\")",
+        "has_variable": false,
+        "variable": "meta_data"
+    },
+    {
+        "id": 19872,
+        "file": "components\/ILIAS\/HTMLLearningModule\/classes\/class.ilObjFileBasedLMGUI.php",
+        "line": 585,
+        "code": "$lng->txt(\"export\")",
+        "has_variable": false,
+        "variable": "export"
+    },
+    {
+        "id": 19874,
+        "file": "components\/ILIAS\/HTMLLearningModule\/classes\/class.ilObjFileBasedLMGUI.php",
+        "line": 593,
+        "code": "$lng->txt(\"perm_settings\")",
+        "has_variable": false,
+        "variable": "perm_settings"
+    },
+    {
+        "id": 19876,
+        "file": "components\/ILIAS\/HTMLLearningModule\/classes\/class.ilObjFileBasedLMGUI.php",
+        "line": 602,
+        "code": "$this->lng->txt(\"glo_presentation_view\")",
+        "has_variable": false,
+        "variable": "glo_presentation_view"
+    },
+    {
+        "id": 19878,
+        "file": "components\/ILIAS\/HTMLLearningModule\/classes\/class.ilObjFileBasedLMGUI.php",
+        "line": 624,
+        "code": "$lng->txt(\"msg_no_perm_read_item\")",
+        "has_variable": false,
+        "variable": "msg_no_perm_read_item"
+    },
+    {
+        "id": 19880,
+        "file": "components\/ILIAS\/HTMLLearningModule\/classes\/class.ilObjFileBasedLMGUI.php",
+        "line": 632,
+        "code": "$lng->txt(\"msg_no_perm_read_lm\")",
+        "has_variable": false,
+        "variable": "msg_no_perm_read_lm"
+    },
+    {
+        "id": 19882,
+        "file": "components\/ILIAS\/HTMLLearningModule\/classes\/class.ilObjFileBasedLMGUI.php",
+        "line": 658,
+        "code": "$this->lng->txt(\"infobox_files_not_migrated\")",
+        "has_variable": false,
+        "variable": "infobox_files_not_migrated"
+    },
+    {
+        "id": 19884,
+        "file": "components\/ILIAS\/HTMLLearningModule\/classes\/class.ilObjFileBasedLMGUI.php",
+        "line": 679,
+        "code": "$this->lng->txt(\"object_added\")",
+        "has_variable": false,
+        "variable": "object_added"
+    },
+    {
+        "id": 19886,
+        "file": "components\/ILIAS\/HTMLLearningModule\/classes\/class.ilObjFileBasedLMGUI.php",
+        "line": 686,
+        "code": "$this->lng->txt(\"no_create_permission\")",
+        "has_variable": false,
+        "variable": "no_create_permission"
+    },
+    {
+        "id": 19888,
+        "file": "components\/ILIAS\/HTMLLearningModule\/classes\/class.ilObjFileBasedLMGUI.php",
+        "line": 765,
+        "code": "$this->lng->txt(\"msg_no_perm_write\")",
+        "has_variable": false,
+        "variable": "msg_no_perm_write"
+    },
+    {
+        "id": 19890,
+        "file": "components\/ILIAS\/HTMLLearningModule\/classes\/class.ilObjFileBasedLMGUI.php",
+        "line": 777,
+        "code": "$this->lng->txt('import_from_upload_dir_info')",
+        "has_variable": false,
+        "variable": "import_from_upload_dir_info"
+    },
+    {
+        "id": 19892,
+        "file": "components\/ILIAS\/HTMLLearningModule\/classes\/class.ilObjFileBasedLMGUI.php",
+        "line": 788,
+        "code": "$this->lng->txt('file_imported_from_upload_dir')",
+        "has_variable": false,
+        "variable": "file_imported_from_upload_dir"
+    },
+    {
+        "id": 19894,
+        "file": "components\/ILIAS\/HTMLLearningModule\/classes\/class.ilObjFileBasedLMGUI.php",
+        "line": 794,
+        "code": "$this->lng->txt('file_import_from_upload_dir_failed')",
+        "has_variable": false,
+        "variable": "file_import_from_upload_dir_failed"
+    },
+    {
+        "id": 19896,
+        "file": "components\/ILIAS\/HTMLLearningModule\/classes\/class.ilObjFileBasedLMListGUI.php",
+        "line": 94,
+        "code": "$lng->txt(\"status\")",
+        "has_variable": false,
+        "variable": "status"
+    },
+    {
+        "id": 19898,
+        "file": "components\/ILIAS\/HTMLLearningModule\/classes\/class.ilObjFileBasedLMListGUI.php",
+        "line": 95,
+        "code": "$lng->txt(\"no_start_file\")",
+        "has_variable": false,
+        "variable": "no_start_file"
+    },
+    {
+        "id": 19900,
+        "file": "components\/ILIAS\/HTMLLearningModule\/classes\/class.ilObjFileBasedLMListGUI.php",
+        "line": 99,
+        "code": "$lng->txt(\"type\")",
+        "has_variable": false,
+        "variable": "type"
+    },
+    {
+        "id": 19902,
+        "file": "components\/ILIAS\/HTMLLearningModule\/classes\/class.ilObjFileBasedLMListGUI.php",
+        "line": 100,
+        "code": "$lng->txt(\"htlm\")",
+        "has_variable": false,
+        "variable": "htlm"
+    }
+]

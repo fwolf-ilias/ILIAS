@@ -1,0 +1,2122 @@
+[
+    {
+        "id": 38596,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Categories\/class.ilCategoryWizardInputGUI.php",
+        "line": 50,
+        "code": "$lng->txt('answer')",
+        "has_variable": false,
+        "variable": "answer"
+    },
+    {
+        "id": 38598,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Categories\/class.ilCategoryWizardInputGUI.php",
+        "line": 209,
+        "code": "$lng->txt(\"msg_input_is_required\")",
+        "has_variable": false,
+        "variable": "msg_input_is_required"
+    },
+    {
+        "id": 38600,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Categories\/class.ilCategoryWizardInputGUI.php",
+        "line": 218,
+        "code": "$lng->txt(\"msg_input_is_required\")",
+        "has_variable": false,
+        "variable": "msg_input_is_required"
+    },
+    {
+        "id": 38602,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Categories\/class.ilCategoryWizardInputGUI.php",
+        "line": 227,
+        "code": "$lng->txt(\"msg_input_is_required\")",
+        "has_variable": false,
+        "variable": "msg_input_is_required"
+    },
+    {
+        "id": 38604,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Categories\/class.ilCategoryWizardInputGUI.php",
+        "line": 232,
+        "code": "$lng->txt(\"msg_input_only_positive_numbers\")",
+        "has_variable": false,
+        "variable": "msg_input_only_positive_numbers"
+    },
+    {
+        "id": 38606,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Categories\/class.ilCategoryWizardInputGUI.php",
+        "line": 238,
+        "code": "$lng->txt(\"msg_duplicate_scale\")",
+        "has_variable": false,
+        "variable": "msg_duplicate_scale"
+    },
+    {
+        "id": 38608,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Categories\/class.ilCategoryWizardInputGUI.php",
+        "line": 247,
+        "code": "$lng->txt(\"msg_duplicate_scale\")",
+        "has_variable": false,
+        "variable": "msg_duplicate_scale"
+    },
+    {
+        "id": 38610,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Categories\/class.ilCategoryWizardInputGUI.php",
+        "line": 253,
+        "code": "$lng->txt(\"msg_input_is_required\")",
+        "has_variable": false,
+        "variable": "msg_input_is_required"
+    },
+    {
+        "id": 38612,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Categories\/class.ilCategoryWizardInputGUI.php",
+        "line": 390,
+        "code": "$lng->txt('use_other_answer')",
+        "has_variable": false,
+        "variable": "use_other_answer"
+    },
+    {
+        "id": 38614,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Categories\/class.ilCategoryWizardInputGUI.php",
+        "line": 396,
+        "code": "$lng->txt('scale')",
+        "has_variable": false,
+        "variable": "scale"
+    },
+    {
+        "id": 38616,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Categories\/class.ilCategoryWizardInputGUI.php",
+        "line": 397,
+        "code": "$lng->txt('actions')",
+        "has_variable": false,
+        "variable": "actions"
+    },
+    {
+        "id": 38618,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Export\/class.ilSurveyQuestionPoolExportTableGUI.php",
+        "line": 45,
+        "code": "$this->lng->txt('svy_export_files')",
+        "has_variable": false,
+        "variable": "svy_export_files"
+    },
+    {
+        "id": 38620,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Export\/class.ilSurveyQuestionPoolExportTableGUI.php",
+        "line": 50,
+        "code": "$this->lng->txt(\"file\")",
+        "has_variable": false,
+        "variable": "file"
+    },
+    {
+        "id": 38622,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Export\/class.ilSurveyQuestionPoolExportTableGUI.php",
+        "line": 51,
+        "code": "$this->lng->txt(\"size\")",
+        "has_variable": false,
+        "variable": "size"
+    },
+    {
+        "id": 38624,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Export\/class.ilSurveyQuestionPoolExportTableGUI.php",
+        "line": 52,
+        "code": "$this->lng->txt(\"date\")",
+        "has_variable": false,
+        "variable": "date"
+    },
+    {
+        "id": 38626,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Export\/class.ilSurveyQuestionPoolExportTableGUI.php",
+        "line": 55,
+        "code": "$this->lng->txt('confirm')",
+        "has_variable": false,
+        "variable": "confirm"
+    },
+    {
+        "id": 38628,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Export\/class.ilSurveyQuestionPoolExportTableGUI.php",
+        "line": 56,
+        "code": "$this->lng->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 38630,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Export\/class.ilSurveyQuestionPoolExportTableGUI.php",
+        "line": 58,
+        "code": "$this->lng->txt('download')",
+        "has_variable": false,
+        "variable": "download"
+    },
+    {
+        "id": 38632,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Export\/class.ilSurveyQuestionPoolExportTableGUI.php",
+        "line": 59,
+        "code": "$this->lng->txt('delete')",
+        "has_variable": false,
+        "variable": "delete"
+    },
+    {
+        "id": 38634,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyMatrixQuestion.php",
+        "line": 673,
+        "code": "$this->lng->txt(\"question_mr_no_other_answer\")",
+        "has_variable": false,
+        "variable": "question_mr_no_other_answer"
+    },
+    {
+        "id": 38636,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyMatrixQuestion.php",
+        "line": 679,
+        "code": "$this->lng->txt(\"matrix_question_radio_button_not_checked\")",
+        "has_variable": false,
+        "variable": "matrix_question_radio_button_not_checked"
+    },
+    {
+        "id": 38638,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyMatrixQuestion.php",
+        "line": 687,
+        "code": "$this->lng->txt(\"question_mr_no_other_answer\")",
+        "has_variable": false,
+        "variable": "question_mr_no_other_answer"
+    },
+    {
+        "id": 38640,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyMatrixQuestion.php",
+        "line": 691,
+        "code": "$this->lng->txt(\"matrix_question_checkbox_not_checked\")",
+        "has_variable": false,
+        "variable": "matrix_question_checkbox_not_checked"
+    },
+    {
+        "id": 38642,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyMatrixQuestion.php",
+        "line": 696,
+        "code": "$this->lng->txt(\"matrix_question_checkbox_not_checked\")",
+        "has_variable": false,
+        "variable": "matrix_question_checkbox_not_checked"
+    },
+    {
+        "id": 38644,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyMatrixQuestionEvaluation.php",
+        "line": 325,
+        "code": "$lng->txt('other')",
+        "has_variable": false,
+        "variable": "other"
+    },
+    {
+        "id": 38646,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyMatrixQuestionEvaluation.php",
+        "line": 338,
+        "code": "$lng->txt('other')",
+        "has_variable": false,
+        "variable": "other"
+    },
+    {
+        "id": 38648,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyMatrixQuestionEvaluation.php",
+        "line": 351,
+        "code": "$lng->txt('other')",
+        "has_variable": false,
+        "variable": "other"
+    },
+    {
+        "id": 38650,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyMatrixQuestionGUI.php",
+        "line": 44,
+        "code": "$this->lng->txt(\"subtype\")",
+        "has_variable": false,
+        "variable": "subtype"
+    },
+    {
+        "id": 38652,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyMatrixQuestionGUI.php",
+        "line": 56,
+        "code": "$this->lng->txt($st)",
+        "has_variable": true,
+        "variable": "$st"
+    },
+    {
+        "id": 38654,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyMatrixQuestionGUI.php",
+        "line": 62,
+        "code": "$this->lng->txt(\"matrix_appearance\")",
+        "has_variable": false,
+        "variable": "matrix_appearance"
+    },
+    {
+        "id": 38656,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyMatrixQuestionGUI.php",
+        "line": 66,
+        "code": "$this->lng->txt(\"matrix_column_separators\")",
+        "has_variable": false,
+        "variable": "matrix_column_separators"
+    },
+    {
+        "id": 38658,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyMatrixQuestionGUI.php",
+        "line": 68,
+        "code": "$this->lng->txt(\"matrix_column_separators_description\")",
+        "has_variable": false,
+        "variable": "matrix_column_separators_description"
+    },
+    {
+        "id": 38660,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyMatrixQuestionGUI.php",
+        "line": 73,
+        "code": "$this->lng->txt(\"matrix_row_separators\")",
+        "has_variable": false,
+        "variable": "matrix_row_separators"
+    },
+    {
+        "id": 38662,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyMatrixQuestionGUI.php",
+        "line": 75,
+        "code": "$this->lng->txt(\"matrix_row_separators_description\")",
+        "has_variable": false,
+        "variable": "matrix_row_separators_description"
+    },
+    {
+        "id": 38664,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyMatrixQuestionGUI.php",
+        "line": 80,
+        "code": "$this->lng->txt(\"matrix_neutral_column_separator\")",
+        "has_variable": false,
+        "variable": "matrix_neutral_column_separator"
+    },
+    {
+        "id": 38666,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyMatrixQuestionGUI.php",
+        "line": 82,
+        "code": "$this->lng->txt(\"matrix_neutral_column_separator_description\")",
+        "has_variable": false,
+        "variable": "matrix_neutral_column_separator_description"
+    },
+    {
+        "id": 38668,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyMatrixQuestionGUI.php",
+        "line": 88,
+        "code": "$this->lng->txt(\"matrix_columns\")",
+        "has_variable": false,
+        "variable": "matrix_columns"
+    },
+    {
+        "id": 38670,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyMatrixQuestionGUI.php",
+        "line": 98,
+        "code": "$this->lng->txt('matrix_neutral_answer')",
+        "has_variable": false,
+        "variable": "matrix_neutral_answer"
+    },
+    {
+        "id": 38672,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyMatrixQuestionGUI.php",
+        "line": 99,
+        "code": "$this->lng->txt('matrix_standard_answers')",
+        "has_variable": false,
+        "variable": "matrix_standard_answers"
+    },
+    {
+        "id": 38674,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyMatrixQuestionGUI.php",
+        "line": 104,
+        "code": "$this->lng->txt(\"matrix_column_settings\")",
+        "has_variable": false,
+        "variable": "matrix_column_settings"
+    },
+    {
+        "id": 38676,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyMatrixQuestionGUI.php",
+        "line": 108,
+        "code": "$this->lng->txt(\"matrix_bipolar_adjectives\")",
+        "has_variable": false,
+        "variable": "matrix_bipolar_adjectives"
+    },
+    {
+        "id": 38678,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyMatrixQuestionGUI.php",
+        "line": 109,
+        "code": "$this->lng->txt(\"matrix_bipolar_adjectives_description\")",
+        "has_variable": false,
+        "variable": "matrix_bipolar_adjectives_description"
+    },
+    {
+        "id": 38680,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyMatrixQuestionGUI.php",
+        "line": 112,
+        "code": "$this->lng->txt(\"matrix_left_pole\")",
+        "has_variable": false,
+        "variable": "matrix_left_pole"
+    },
+    {
+        "id": 38682,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyMatrixQuestionGUI.php",
+        "line": 117,
+        "code": "$this->lng->txt(\"matrix_right_pole\")",
+        "has_variable": false,
+        "variable": "matrix_right_pole"
+    },
+    {
+        "id": 38684,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyMatrixQuestionGUI.php",
+        "line": 125,
+        "code": "$this->lng->txt(\"matrix_rows\")",
+        "has_variable": false,
+        "variable": "matrix_rows"
+    },
+    {
+        "id": 38686,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyMatrixQuestionGUI.php",
+        "line": 132,
+        "code": "$this->lng->txt('label')",
+        "has_variable": false,
+        "variable": "label"
+    },
+    {
+        "id": 38688,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyMatrixQuestionGUI.php",
+        "line": 377,
+        "code": "$this->lng->txt($col[\"checked\"])",
+        "has_variable": true,
+        "variable": "\\$col"
+    },
+    {
+        "id": 38690,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyMatrixQuestionGUI.php",
+        "line": 378,
+        "code": "$this->lng->txt($col[\"checked\"])",
+        "has_variable": true,
+        "variable": "\\$col"
+    },
+    {
+        "id": 38692,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyMatrixQuestionGUI.php",
+        "line": 388,
+        "code": "$this->lng->txt($col[\"checked\"])",
+        "has_variable": true,
+        "variable": "\\$col"
+    },
+    {
+        "id": 38694,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyMatrixQuestionGUI.php",
+        "line": 389,
+        "code": "$this->lng->txt($col[\"checked\"])",
+        "has_variable": true,
+        "variable": "\\$col"
+    },
+    {
+        "id": 38696,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyMatrixQuestionGUI.php",
+        "line": 480,
+        "code": "$this->lng->txt(\"save\")",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 38698,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyMatrixQuestionGUI.php",
+        "line": 506,
+        "code": "$this->lng->txt(\"settings_saved\")",
+        "has_variable": false,
+        "variable": "settings_saved"
+    },
+    {
+        "id": 38700,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyMatrixQuestionGUI.php",
+        "line": 508,
+        "code": "$this->lng->txt(\"svy_matrix_layout_percentages_sum_invalid\")",
+        "has_variable": false,
+        "variable": "svy_matrix_layout_percentages_sum_invalid"
+    },
+    {
+        "id": 38702,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyMetricQuestion.php",
+        "line": 324,
+        "code": "$this->lng->txt(\"survey_question_obligatory\")",
+        "has_variable": false,
+        "variable": "survey_question_obligatory"
+    },
+    {
+        "id": 38704,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyMetricQuestion.php",
+        "line": 328,
+        "code": "$this->lng->txt(\"metric_question_not_a_value\")",
+        "has_variable": false,
+        "variable": "metric_question_not_a_value"
+    },
+    {
+        "id": 38706,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyMetricQuestion.php",
+        "line": 333,
+        "code": "$this->lng->txt(\"metric_question_out_of_bounds\")",
+        "has_variable": false,
+        "variable": "metric_question_out_of_bounds"
+    },
+    {
+        "id": 38708,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyMetricQuestion.php",
+        "line": 341,
+        "code": "$this->lng->txt(\"metric_question_out_of_bounds\")",
+        "has_variable": false,
+        "variable": "metric_question_out_of_bounds"
+    },
+    {
+        "id": 38710,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyMetricQuestion.php",
+        "line": 346,
+        "code": "$this->lng->txt(\"metric_question_not_a_value\")",
+        "has_variable": false,
+        "variable": "metric_question_not_a_value"
+    },
+    {
+        "id": 38712,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyMetricQuestion.php",
+        "line": 350,
+        "code": "$this->lng->txt(\"metric_question_floating_point\")",
+        "has_variable": false,
+        "variable": "metric_question_floating_point"
+    },
+    {
+        "id": 38714,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyMetricQuestion.php",
+        "line": 439,
+        "code": "$this->lng->txt(\"to\")",
+        "has_variable": false,
+        "variable": "to"
+    },
+    {
+        "id": 38716,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyMetricQuestionEvaluation.php",
+        "line": 67,
+        "code": "$lng->txt(\"category_nr_selected\")",
+        "has_variable": false,
+        "variable": "category_nr_selected"
+    },
+    {
+        "id": 38718,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyMetricQuestionEvaluation.php",
+        "line": 68,
+        "code": "$lng->txt(\"svy_fraction_of_selections\")",
+        "has_variable": false,
+        "variable": "svy_fraction_of_selections"
+    },
+    {
+        "id": 38720,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyMetricQuestionEvaluation.php",
+        "line": 72,
+        "code": "$lng->txt(\"category_nr_selected\")",
+        "has_variable": false,
+        "variable": "category_nr_selected"
+    },
+    {
+        "id": 38722,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyMetricQuestionEvaluation.php",
+        "line": 76,
+        "code": "$lng->txt(\"svy_fraction_of_selections\")",
+        "has_variable": false,
+        "variable": "svy_fraction_of_selections"
+    },
+    {
+        "id": 38724,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyMetricQuestionEvaluation.php",
+        "line": 136,
+        "code": "$lng->txt(\"category_nr_selected\")",
+        "has_variable": false,
+        "variable": "category_nr_selected"
+    },
+    {
+        "id": 38726,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyMetricQuestionEvaluation.php",
+        "line": 179,
+        "code": "$lng->txt(\"value\")",
+        "has_variable": false,
+        "variable": "value"
+    },
+    {
+        "id": 38728,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyMetricQuestionEvaluation.php",
+        "line": 180,
+        "code": "$lng->txt(\"category_nr_selected\")",
+        "has_variable": false,
+        "variable": "category_nr_selected"
+    },
+    {
+        "id": 38730,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyMetricQuestionEvaluation.php",
+        "line": 181,
+        "code": "$lng->txt(\"svy_fraction_of_selections\")",
+        "has_variable": false,
+        "variable": "svy_fraction_of_selections"
+    },
+    {
+        "id": 38732,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyMetricQuestionGUI.php",
+        "line": 45,
+        "code": "$this->lng->txt(\"subtype\")",
+        "has_variable": false,
+        "variable": "subtype"
+    },
+    {
+        "id": 38734,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyMetricQuestionGUI.php",
+        "line": 50,
+        "code": "$this->lng->txt('non_ratio')",
+        "has_variable": false,
+        "variable": "non_ratio"
+    },
+    {
+        "id": 38736,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyMetricQuestionGUI.php",
+        "line": 50,
+        "code": "$this->lng->txt(\"metric_subtype_description_interval\")",
+        "has_variable": false,
+        "variable": "metric_subtype_description_interval"
+    },
+    {
+        "id": 38738,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyMetricQuestionGUI.php",
+        "line": 54,
+        "code": "$this->lng->txt(\"minimum\")",
+        "has_variable": false,
+        "variable": "minimum"
+    },
+    {
+        "id": 38740,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyMetricQuestionGUI.php",
+        "line": 60,
+        "code": "$this->lng->txt(\"maximum\")",
+        "has_variable": false,
+        "variable": "maximum"
+    },
+    {
+        "id": 38742,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyMetricQuestionGUI.php",
+        "line": 65,
+        "code": "$this->lng->txt('ratio_non_absolute')",
+        "has_variable": false,
+        "variable": "ratio_non_absolute"
+    },
+    {
+        "id": 38744,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyMetricQuestionGUI.php",
+        "line": 65,
+        "code": "$this->lng->txt(\"metric_subtype_description_rationonabsolute\")",
+        "has_variable": false,
+        "variable": "metric_subtype_description_rationonabsolute"
+    },
+    {
+        "id": 38746,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyMetricQuestionGUI.php",
+        "line": 69,
+        "code": "$this->lng->txt(\"minimum\")",
+        "has_variable": false,
+        "variable": "minimum"
+    },
+    {
+        "id": 38748,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyMetricQuestionGUI.php",
+        "line": 76,
+        "code": "$this->lng->txt(\"maximum\")",
+        "has_variable": false,
+        "variable": "maximum"
+    },
+    {
+        "id": 38750,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyMetricQuestionGUI.php",
+        "line": 81,
+        "code": "$this->lng->txt('ratio_absolute')",
+        "has_variable": false,
+        "variable": "ratio_absolute"
+    },
+    {
+        "id": 38752,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyMetricQuestionGUI.php",
+        "line": 81,
+        "code": "$this->lng->txt(\"metric_subtype_description_ratioabsolute\")",
+        "has_variable": false,
+        "variable": "metric_subtype_description_ratioabsolute"
+    },
+    {
+        "id": 38754,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyMetricQuestionGUI.php",
+        "line": 85,
+        "code": "$this->lng->txt(\"minimum\")",
+        "has_variable": false,
+        "variable": "minimum"
+    },
+    {
+        "id": 38756,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyMetricQuestionGUI.php",
+        "line": 93,
+        "code": "$this->lng->txt(\"maximum\")",
+        "has_variable": false,
+        "variable": "maximum"
+    },
+    {
+        "id": 38758,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyMetricQuestionGUI.php",
+        "line": 174,
+        "code": "$this->lng->txt(\"answer\")",
+        "has_variable": false,
+        "variable": "answer"
+    },
+    {
+        "id": 38760,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyMetricQuestionGUI.php",
+        "line": 209,
+        "code": "$this->lng->txt(\"answer\")",
+        "has_variable": false,
+        "variable": "answer"
+    },
+    {
+        "id": 38762,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyMultipleChoiceQuestion.php",
+        "line": 322,
+        "code": "$this->lng->txt(\"err_no_exact_answers\")",
+        "has_variable": false,
+        "variable": "err_no_exact_answers"
+    },
+    {
+        "id": 38764,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyMultipleChoiceQuestion.php",
+        "line": 325,
+        "code": "$this->lng->txt(\"err_no_min_answers\")",
+        "has_variable": false,
+        "variable": "err_no_min_answers"
+    },
+    {
+        "id": 38766,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyMultipleChoiceQuestion.php",
+        "line": 328,
+        "code": "$this->lng->txt(\"err_no_max_answers\")",
+        "has_variable": false,
+        "variable": "err_no_max_answers"
+    },
+    {
+        "id": 38768,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyMultipleChoiceQuestion.php",
+        "line": 331,
+        "code": "$this->lng->txt(\"question_mr_not_checked\")",
+        "has_variable": false,
+        "variable": "question_mr_not_checked"
+    },
+    {
+        "id": 38770,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyMultipleChoiceQuestion.php",
+        "line": 338,
+        "code": "$this->lng->txt(\"question_mr_no_other_answer\")",
+        "has_variable": false,
+        "variable": "question_mr_no_other_answer"
+    },
+    {
+        "id": 38772,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyMultipleChoiceQuestion.php",
+        "line": 341,
+        "code": "$this->lng->txt(\"question_mr_no_other_answer_checked\")",
+        "has_variable": false,
+        "variable": "question_mr_no_other_answer_checked"
+    },
+    {
+        "id": 38774,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyMultipleChoiceQuestion.php",
+        "line": 472,
+        "code": "$this->lng->txt('other_answer')",
+        "has_variable": false,
+        "variable": "other_answer"
+    },
+    {
+        "id": 38776,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyMultipleChoiceQuestionEvaluation.php",
+        "line": 47,
+        "code": "$lng->txt('other')",
+        "has_variable": false,
+        "variable": "other"
+    },
+    {
+        "id": 38778,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyMultipleChoiceQuestionGUI.php",
+        "line": 44,
+        "code": "$this->lng->txt(\"orientation\")",
+        "has_variable": false,
+        "variable": "orientation"
+    },
+    {
+        "id": 38780,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyMultipleChoiceQuestionGUI.php",
+        "line": 46,
+        "code": "$this->lng->txt('vertical')",
+        "has_variable": false,
+        "variable": "vertical"
+    },
+    {
+        "id": 38782,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyMultipleChoiceQuestionGUI.php",
+        "line": 47,
+        "code": "$this->lng->txt('horizontal')",
+        "has_variable": false,
+        "variable": "horizontal"
+    },
+    {
+        "id": 38784,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyMultipleChoiceQuestionGUI.php",
+        "line": 51,
+        "code": "$this->lng->txt(\"use_min_answers\")",
+        "has_variable": false,
+        "variable": "use_min_answers"
+    },
+    {
+        "id": 38786,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyMultipleChoiceQuestionGUI.php",
+        "line": 53,
+        "code": "$this->lng->txt(\"use_min_answers_option\")",
+        "has_variable": false,
+        "variable": "use_min_answers_option"
+    },
+    {
+        "id": 38788,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyMultipleChoiceQuestionGUI.php",
+        "line": 56,
+        "code": "$this->lng->txt(\"nr_min_answers\")",
+        "has_variable": false,
+        "variable": "nr_min_answers"
+    },
+    {
+        "id": 38790,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyMultipleChoiceQuestionGUI.php",
+        "line": 63,
+        "code": "$this->lng->txt(\"nr_max_answers\")",
+        "has_variable": false,
+        "variable": "nr_max_answers"
+    },
+    {
+        "id": 38792,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyMultipleChoiceQuestionGUI.php",
+        "line": 73,
+        "code": "$this->lng->txt(\"answers\")",
+        "has_variable": false,
+        "variable": "answers"
+    },
+    {
+        "id": 38794,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyMultipleChoiceQuestionGUI.php",
+        "line": 79,
+        "code": "$this->lng->txt('svy_neutral_answer')",
+        "has_variable": false,
+        "variable": "svy_neutral_answer"
+    },
+    {
+        "id": 38796,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyMultipleChoiceQuestionGUI.php",
+        "line": 119,
+        "code": "$this->lng->txt('err_minvalueganswers')",
+        "has_variable": false,
+        "variable": "err_minvalueganswers"
+    },
+    {
+        "id": 38798,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyMultipleChoiceQuestionGUI.php",
+        "line": 124,
+        "code": "$this->lng->txt('err_maxvaluegeminvalue')",
+        "has_variable": false,
+        "variable": "err_maxvaluegeminvalue"
+    },
+    {
+        "id": 38800,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyMultipleChoiceQuestionGUI.php",
+        "line": 129,
+        "code": "$this->lng->txt('form_input_not_valid')",
+        "has_variable": false,
+        "variable": "form_input_not_valid"
+    },
+    {
+        "id": 38802,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyMultipleChoiceQuestionGUI.php",
+        "line": 218,
+        "code": "$this->lng->txt($option[\"checked\"])",
+        "has_variable": true,
+        "variable": "\\$option"
+    },
+    {
+        "id": 38804,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyMultipleChoiceQuestionGUI.php",
+        "line": 219,
+        "code": "$this->lng->txt($option[\"checked\"])",
+        "has_variable": true,
+        "variable": "\\$option"
+    },
+    {
+        "id": 38806,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyMultipleChoiceQuestionGUI.php",
+        "line": 230,
+        "code": "$this->lng->txt($option[\"checked\"])",
+        "has_variable": true,
+        "variable": "\\$option"
+    },
+    {
+        "id": 38808,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyMultipleChoiceQuestionGUI.php",
+        "line": 231,
+        "code": "$this->lng->txt($option[\"checked\"])",
+        "has_variable": true,
+        "variable": "\\$option"
+    },
+    {
+        "id": 38810,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyMultipleChoiceQuestionGUI.php",
+        "line": 242,
+        "code": "$this->lng->txt($option[\"checked\"])",
+        "has_variable": true,
+        "variable": "\\$option"
+    },
+    {
+        "id": 38812,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyMultipleChoiceQuestionGUI.php",
+        "line": 243,
+        "code": "$this->lng->txt($option[\"checked\"])",
+        "has_variable": true,
+        "variable": "\\$option"
+    },
+    {
+        "id": 38814,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyMultipleChoiceQuestionGUI.php",
+        "line": 268,
+        "code": "$this->lng->txt('msg_min_max_nr_answers')",
+        "has_variable": false,
+        "variable": "msg_min_max_nr_answers"
+    },
+    {
+        "id": 38816,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyMultipleChoiceQuestionGUI.php",
+        "line": 270,
+        "code": "$this->lng->txt('msg_min_nr_answers')",
+        "has_variable": false,
+        "variable": "msg_min_nr_answers"
+    },
+    {
+        "id": 38818,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyMultipleChoiceQuestionGUI.php",
+        "line": 272,
+        "code": "$this->lng->txt('msg_max_nr_answers')",
+        "has_variable": false,
+        "variable": "msg_max_nr_answers"
+    },
+    {
+        "id": 38820,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyMultipleChoiceQuestionGUI.php",
+        "line": 421,
+        "code": "$this->lng->txt('msg_min_max_exact_answers')",
+        "has_variable": false,
+        "variable": "msg_min_max_exact_answers"
+    },
+    {
+        "id": 38822,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyMultipleChoiceQuestionGUI.php",
+        "line": 423,
+        "code": "$this->lng->txt('msg_min_max_nr_answers')",
+        "has_variable": false,
+        "variable": "msg_min_max_nr_answers"
+    },
+    {
+        "id": 38824,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyMultipleChoiceQuestionGUI.php",
+        "line": 426,
+        "code": "$this->lng->txt('msg_min_nr_answers')",
+        "has_variable": false,
+        "variable": "msg_min_nr_answers"
+    },
+    {
+        "id": 38826,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyMultipleChoiceQuestionGUI.php",
+        "line": 428,
+        "code": "$this->lng->txt('msg_max_nr_answers')",
+        "has_variable": false,
+        "variable": "msg_max_nr_answers"
+    },
+    {
+        "id": 38828,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyQuestion.php",
+        "line": 1072,
+        "code": "$lng->txt($type_tag)",
+        "has_variable": true,
+        "variable": "$type_tag"
+    },
+    {
+        "id": 38830,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyQuestionEvaluation.php",
+        "line": 289,
+        "code": "$lng->txt(\"category_nr_selected\")",
+        "has_variable": false,
+        "variable": "category_nr_selected"
+    },
+    {
+        "id": 38832,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyQuestionEvaluation.php",
+        "line": 290,
+        "code": "$lng->txt(\"svy_fraction_of_selections\")",
+        "has_variable": false,
+        "variable": "svy_fraction_of_selections"
+    },
+    {
+        "id": 38834,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyQuestionEvaluation.php",
+        "line": 294,
+        "code": "$lng->txt(\"category_nr_selected\")",
+        "has_variable": false,
+        "variable": "category_nr_selected"
+    },
+    {
+        "id": 38836,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyQuestionEvaluation.php",
+        "line": 298,
+        "code": "$lng->txt(\"svy_fraction_of_selections\")",
+        "has_variable": false,
+        "variable": "svy_fraction_of_selections"
+    },
+    {
+        "id": 38838,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyQuestionEvaluation.php",
+        "line": 539,
+        "code": "$lng->txt(\"title\")",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 38840,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyQuestionEvaluation.php",
+        "line": 540,
+        "code": "$lng->txt(\"value\")",
+        "has_variable": false,
+        "variable": "value"
+    },
+    {
+        "id": 38842,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyQuestionEvaluation.php",
+        "line": 541,
+        "code": "$lng->txt(\"category_nr_selected\")",
+        "has_variable": false,
+        "variable": "category_nr_selected"
+    },
+    {
+        "id": 38844,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyQuestionEvaluation.php",
+        "line": 542,
+        "code": "$lng->txt(\"svy_fraction_of_selections\")",
+        "has_variable": false,
+        "variable": "svy_fraction_of_selections"
+    },
+    {
+        "id": 38846,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyQuestionGUI.php",
+        "line": 186,
+        "code": "$this->lng->txt(\"menubacktosurvey\")",
+        "has_variable": false,
+        "variable": "menubacktosurvey"
+    },
+    {
+        "id": 38848,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyQuestionGUI.php",
+        "line": 188,
+        "code": "$this->lng->txt(\"spl\")",
+        "has_variable": false,
+        "variable": "spl"
+    },
+    {
+        "id": 38850,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyQuestionGUI.php",
+        "line": 193,
+        "code": "$this->lng->txt(\"preview\")",
+        "has_variable": false,
+        "variable": "preview"
+    },
+    {
+        "id": 38852,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyQuestionGUI.php",
+        "line": 201,
+        "code": "$this->lng->txt(\"properties\")",
+        "has_variable": false,
+        "variable": "properties"
+    },
+    {
+        "id": 38854,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyQuestionGUI.php",
+        "line": 208,
+        "code": "$this->lng->txt(\"layout\")",
+        "has_variable": false,
+        "variable": "layout"
+    },
+    {
+        "id": 38856,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyQuestionGUI.php",
+        "line": 215,
+        "code": "$this->lng->txt(\"edit\")",
+        "has_variable": false,
+        "variable": "edit"
+    },
+    {
+        "id": 38858,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyQuestionGUI.php",
+        "line": 217,
+        "code": "$this->lng->txt(\"create_new\")",
+        "has_variable": false,
+        "variable": "create_new"
+    },
+    {
+        "id": 38860,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyQuestionGUI.php",
+        "line": 217,
+        "code": "$this->lng->txt($this->getQuestionType())",
+        "has_variable": true,
+        "variable": "$this->getQuestionType()"
+    },
+    {
+        "id": 38862,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyQuestionGUI.php",
+        "line": 232,
+        "code": "$this->lng->txt($this->getQuestionType())",
+        "has_variable": true,
+        "variable": "$this->getQuestionType()"
+    },
+    {
+        "id": 38864,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyQuestionGUI.php",
+        "line": 238,
+        "code": "$this->lng->txt(\"title\")",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 38866,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyQuestionGUI.php",
+        "line": 244,
+        "code": "$this->lng->txt(\"label\")",
+        "has_variable": false,
+        "variable": "label"
+    },
+    {
+        "id": 38868,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyQuestionGUI.php",
+        "line": 245,
+        "code": "$this->lng->txt(\"label_info\")",
+        "has_variable": false,
+        "variable": "label_info"
+    },
+    {
+        "id": 38870,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyQuestionGUI.php",
+        "line": 251,
+        "code": "$this->lng->txt(\"author\")",
+        "has_variable": false,
+        "variable": "author"
+    },
+    {
+        "id": 38872,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyQuestionGUI.php",
+        "line": 257,
+        "code": "$this->lng->txt(\"description\")",
+        "has_variable": false,
+        "variable": "description"
+    },
+    {
+        "id": 38874,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyQuestionGUI.php",
+        "line": 263,
+        "code": "$this->lng->txt(\"question\")",
+        "has_variable": false,
+        "variable": "question"
+    },
+    {
+        "id": 38876,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyQuestionGUI.php",
+        "line": 276,
+        "code": "$this->lng->txt(\"obligatory\")",
+        "has_variable": false,
+        "variable": "obligatory"
+    },
+    {
+        "id": 38878,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyQuestionGUI.php",
+        "line": 298,
+        "code": "$this->lng->txt(\"save_return\")",
+        "has_variable": false,
+        "variable": "save_return"
+    },
+    {
+        "id": 38880,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyQuestionGUI.php",
+        "line": 299,
+        "code": "$this->lng->txt(\"save\")",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 38882,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyQuestionGUI.php",
+        "line": 303,
+        "code": "$this->lng->txt(\"svy_save_sync\")",
+        "has_variable": false,
+        "variable": "svy_save_sync"
+    },
+    {
+        "id": 38884,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyQuestionGUI.php",
+        "line": 367,
+        "code": "$this->lng->txt(\"survey_error_insert_incomplete_question\")",
+        "has_variable": false,
+        "variable": "survey_error_insert_incomplete_question"
+    },
+    {
+        "id": 38886,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyQuestionGUI.php",
+        "line": 380,
+        "code": "$this->lng->txt(\"msg_obj_modified\")",
+        "has_variable": false,
+        "variable": "msg_obj_modified"
+    },
+    {
+        "id": 38888,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyQuestionGUI.php",
+        "line": 400,
+        "code": "$this->lng->txt(\"msg_obj_modified\")",
+        "has_variable": false,
+        "variable": "msg_obj_modified"
+    },
+    {
+        "id": 38890,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyQuestionGUI.php",
+        "line": 423,
+        "code": "$lng->txt(\"select_one\")",
+        "has_variable": false,
+        "variable": "select_one"
+    },
+    {
+        "id": 38892,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyQuestionGUI.php",
+        "line": 458,
+        "code": "$lng->txt(\"survey_sync_success\")",
+        "has_variable": false,
+        "variable": "survey_sync_success"
+    },
+    {
+        "id": 38894,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyQuestionGUI.php",
+        "line": 471,
+        "code": "$this->lng->txt(\"confirm_sync_questions\")",
+        "has_variable": false,
+        "variable": "confirm_sync_questions"
+    },
+    {
+        "id": 38896,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyQuestionGUI.php",
+        "line": 474,
+        "code": "$this->lng->txt(\"no\")",
+        "has_variable": false,
+        "variable": "no"
+    },
+    {
+        "id": 38898,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyQuestionGUI.php",
+        "line": 475,
+        "code": "$this->lng->txt(\"yes\")",
+        "has_variable": false,
+        "variable": "yes"
+    },
+    {
+        "id": 38900,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyQuestionGUI.php",
+        "line": 487,
+        "code": "$this->lng->txt(\"msg_obj_modified\")",
+        "has_variable": false,
+        "variable": "msg_obj_modified"
+    },
+    {
+        "id": 38902,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyQuestionGUI.php",
+        "line": 493,
+        "code": "$this->lng->txt(\"question_changed_in_survey_only\")",
+        "has_variable": false,
+        "variable": "question_changed_in_survey_only"
+    },
+    {
+        "id": 38904,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyQuestionGUI.php",
+        "line": 621,
+        "code": "$this->lng->txt(\"required_field\")",
+        "has_variable": false,
+        "variable": "required_field"
+    },
+    {
+        "id": 38906,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveySingleChoiceQuestion.php",
+        "line": 340,
+        "code": "$this->lng->txt(\"question_not_checked\")",
+        "has_variable": false,
+        "variable": "question_not_checked"
+    },
+    {
+        "id": 38908,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveySingleChoiceQuestion.php",
+        "line": 348,
+        "code": "$this->lng->txt(\"question_mr_no_other_answer\")",
+        "has_variable": false,
+        "variable": "question_mr_no_other_answer"
+    },
+    {
+        "id": 38910,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveySingleChoiceQuestion.php",
+        "line": 351,
+        "code": "$this->lng->txt(\"question_sr_no_other_answer_checked\")",
+        "has_variable": false,
+        "variable": "question_sr_no_other_answer_checked"
+    },
+    {
+        "id": 38912,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveySingleChoiceQuestion.php",
+        "line": 460,
+        "code": "$this->lng->txt('other_answer')",
+        "has_variable": false,
+        "variable": "other_answer"
+    },
+    {
+        "id": 38914,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveySingleChoiceQuestionEvaluation.php",
+        "line": 47,
+        "code": "$lng->txt('other')",
+        "has_variable": false,
+        "variable": "other"
+    },
+    {
+        "id": 38916,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveySingleChoiceQuestionGUI.php",
+        "line": 46,
+        "code": "$this->lng->txt(\"orientation\")",
+        "has_variable": false,
+        "variable": "orientation"
+    },
+    {
+        "id": 38918,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveySingleChoiceQuestionGUI.php",
+        "line": 48,
+        "code": "$this->lng->txt('vertical')",
+        "has_variable": false,
+        "variable": "vertical"
+    },
+    {
+        "id": 38920,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveySingleChoiceQuestionGUI.php",
+        "line": 49,
+        "code": "$this->lng->txt('horizontal')",
+        "has_variable": false,
+        "variable": "horizontal"
+    },
+    {
+        "id": 38922,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveySingleChoiceQuestionGUI.php",
+        "line": 50,
+        "code": "$this->lng->txt('combobox')",
+        "has_variable": false,
+        "variable": "combobox"
+    },
+    {
+        "id": 38924,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveySingleChoiceQuestionGUI.php",
+        "line": 54,
+        "code": "$this->lng->txt(\"answers\")",
+        "has_variable": false,
+        "variable": "answers"
+    },
+    {
+        "id": 38926,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveySingleChoiceQuestionGUI.php",
+        "line": 60,
+        "code": "$this->lng->txt('svy_neutral_answer')",
+        "has_variable": false,
+        "variable": "svy_neutral_answer"
+    },
+    {
+        "id": 38928,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveySingleChoiceQuestionGUI.php",
+        "line": 158,
+        "code": "$this->lng->txt($option[\"checked\"])",
+        "has_variable": true,
+        "variable": "\\$option"
+    },
+    {
+        "id": 38930,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveySingleChoiceQuestionGUI.php",
+        "line": 159,
+        "code": "$this->lng->txt($option[\"checked\"])",
+        "has_variable": true,
+        "variable": "\\$option"
+    },
+    {
+        "id": 38932,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveySingleChoiceQuestionGUI.php",
+        "line": 170,
+        "code": "$this->lng->txt($option[\"checked\"])",
+        "has_variable": true,
+        "variable": "\\$option"
+    },
+    {
+        "id": 38934,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveySingleChoiceQuestionGUI.php",
+        "line": 171,
+        "code": "$this->lng->txt($option[\"checked\"])",
+        "has_variable": true,
+        "variable": "\\$option"
+    },
+    {
+        "id": 38936,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveySingleChoiceQuestionGUI.php",
+        "line": 182,
+        "code": "$this->lng->txt($option[\"checked\"])",
+        "has_variable": true,
+        "variable": "\\$option"
+    },
+    {
+        "id": 38938,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveySingleChoiceQuestionGUI.php",
+        "line": 183,
+        "code": "$this->lng->txt($option[\"checked\"])",
+        "has_variable": true,
+        "variable": "\\$option"
+    },
+    {
+        "id": 38940,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveySingleChoiceQuestionGUI.php",
+        "line": 215,
+        "code": "$this->lng->txt(\"select_option\")",
+        "has_variable": false,
+        "variable": "select_option"
+    },
+    {
+        "id": 38942,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveySingleChoiceQuestionGUI.php",
+        "line": 216,
+        "code": "$this->lng->txt(\"selection\")",
+        "has_variable": false,
+        "variable": "selection"
+    },
+    {
+        "id": 38944,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveySingleChoiceQuestionGUI.php",
+        "line": 392,
+        "code": "$this->lng->txt(\"select_option\")",
+        "has_variable": false,
+        "variable": "select_option"
+    },
+    {
+        "id": 38946,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveySingleChoiceQuestionGUI.php",
+        "line": 393,
+        "code": "$this->lng->txt(\"selection\")",
+        "has_variable": false,
+        "variable": "selection"
+    },
+    {
+        "id": 38948,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyTextQuestion.php",
+        "line": 236,
+        "code": "$this->lng->txt(\"text_question_not_filled_out\")",
+        "has_variable": false,
+        "variable": "text_question_not_filled_out"
+    },
+    {
+        "id": 38950,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyTextQuestion.php",
+        "line": 241,
+        "code": "$this->lng->txt(\"svy_answer_too_long\")",
+        "has_variable": false,
+        "variable": "svy_answer_too_long"
+    },
+    {
+        "id": 38952,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyTextQuestionGUI.php",
+        "line": 45,
+        "code": "$this->lng->txt(\"maxchars\")",
+        "has_variable": false,
+        "variable": "maxchars"
+    },
+    {
+        "id": 38954,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyTextQuestionGUI.php",
+        "line": 95,
+        "code": "$this->lng->txt(\"answer\")",
+        "has_variable": false,
+        "variable": "answer"
+    },
+    {
+        "id": 38956,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyTextQuestionGUI.php",
+        "line": 100,
+        "code": "$this->lng->txt(\"textbox\")",
+        "has_variable": false,
+        "variable": "textbox"
+    },
+    {
+        "id": 38958,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyTextQuestionGUI.php",
+        "line": 103,
+        "code": "$this->lng->txt(\"text_maximum_chars_allowed\")",
+        "has_variable": false,
+        "variable": "text_maximum_chars_allowed"
+    },
+    {
+        "id": 38960,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyTextQuestionGUI.php",
+        "line": 138,
+        "code": "$this->lng->txt(\"answer\")",
+        "has_variable": false,
+        "variable": "answer"
+    },
+    {
+        "id": 38962,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.SurveyTextQuestionGUI.php",
+        "line": 144,
+        "code": "$this->lng->txt(\"text_maximum_chars_allowed\")",
+        "has_variable": false,
+        "variable": "text_maximum_chars_allowed"
+    },
+    {
+        "id": 38964,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.ilSurveyQuestionsTableGUI.php",
+        "line": 68,
+        "code": "$this->lng->txt(\"title\")",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 38966,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.ilSurveyQuestionsTableGUI.php",
+        "line": 69,
+        "code": "$this->lng->txt(\"obligatory\")",
+        "has_variable": false,
+        "variable": "obligatory"
+    },
+    {
+        "id": 38968,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.ilSurveyQuestionsTableGUI.php",
+        "line": 73,
+        "code": "$this->lng->txt(\"description\")",
+        "has_variable": false,
+        "variable": "description"
+    },
+    {
+        "id": 38970,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.ilSurveyQuestionsTableGUI.php",
+        "line": 76,
+        "code": "$this->lng->txt(\"question_type\")",
+        "has_variable": false,
+        "variable": "question_type"
+    },
+    {
+        "id": 38972,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.ilSurveyQuestionsTableGUI.php",
+        "line": 79,
+        "code": "$this->lng->txt(\"author\")",
+        "has_variable": false,
+        "variable": "author"
+    },
+    {
+        "id": 38974,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.ilSurveyQuestionsTableGUI.php",
+        "line": 82,
+        "code": "$this->lng->txt(\"create_date\")",
+        "has_variable": false,
+        "variable": "create_date"
+    },
+    {
+        "id": 38976,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.ilSurveyQuestionsTableGUI.php",
+        "line": 85,
+        "code": "$this->lng->txt(\"last_update\")",
+        "has_variable": false,
+        "variable": "last_update"
+    },
+    {
+        "id": 38978,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.ilSurveyQuestionsTableGUI.php",
+        "line": 89,
+        "code": "$this->lng->txt(\"actions\")",
+        "has_variable": false,
+        "variable": "actions"
+    },
+    {
+        "id": 38980,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.ilSurveyQuestionsTableGUI.php",
+        "line": 95,
+        "code": "$this->lng->txt('copy')",
+        "has_variable": false,
+        "variable": "copy"
+    },
+    {
+        "id": 38982,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.ilSurveyQuestionsTableGUI.php",
+        "line": 96,
+        "code": "$this->lng->txt('move')",
+        "has_variable": false,
+        "variable": "move"
+    },
+    {
+        "id": 38984,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.ilSurveyQuestionsTableGUI.php",
+        "line": 97,
+        "code": "$this->lng->txt('export')",
+        "has_variable": false,
+        "variable": "export"
+    },
+    {
+        "id": 38986,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.ilSurveyQuestionsTableGUI.php",
+        "line": 98,
+        "code": "$this->lng->txt('delete')",
+        "has_variable": false,
+        "variable": "delete"
+    },
+    {
+        "id": 38988,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.ilSurveyQuestionsTableGUI.php",
+        "line": 101,
+        "code": "$this->lng->txt('paste')",
+        "has_variable": false,
+        "variable": "paste"
+    },
+    {
+        "id": 38990,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.ilSurveyQuestionsTableGUI.php",
+        "line": 104,
+        "code": "$this->lng->txt(\"spl_save_obligatory_state\")",
+        "has_variable": false,
+        "variable": "spl_save_obligatory_state"
+    },
+    {
+        "id": 38992,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.ilSurveyQuestionsTableGUI.php",
+        "line": 127,
+        "code": "$lng->txt(\"title\")",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 38994,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.ilSurveyQuestionsTableGUI.php",
+        "line": 136,
+        "code": "$lng->txt(\"description\")",
+        "has_variable": false,
+        "variable": "description"
+    },
+    {
+        "id": 38996,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.ilSurveyQuestionsTableGUI.php",
+        "line": 145,
+        "code": "$lng->txt(\"author\")",
+        "has_variable": false,
+        "variable": "author"
+    },
+    {
+        "id": 38998,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.ilSurveyQuestionsTableGUI.php",
+        "line": 156,
+        "code": "$lng->txt('filter_all_question_types')",
+        "has_variable": false,
+        "variable": "filter_all_question_types"
+    },
+    {
+        "id": 39000,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.ilSurveyQuestionsTableGUI.php",
+        "line": 161,
+        "code": "$this->lng->txt(\"question_type\")",
+        "has_variable": false,
+        "variable": "question_type"
+    },
+    {
+        "id": 39002,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.ilSurveyQuestionsTableGUI.php",
+        "line": 172,
+        "code": "$lng->txt(\"description\")",
+        "has_variable": false,
+        "variable": "description"
+    },
+    {
+        "id": 39004,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.ilSurveyQuestionsTableGUI.php",
+        "line": 176,
+        "code": "$lng->txt(\"question_type\")",
+        "has_variable": false,
+        "variable": "question_type"
+    },
+    {
+        "id": 39006,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.ilSurveyQuestionsTableGUI.php",
+        "line": 180,
+        "code": "$lng->txt(\"author\")",
+        "has_variable": false,
+        "variable": "author"
+    },
+    {
+        "id": 39008,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.ilSurveyQuestionsTableGUI.php",
+        "line": 184,
+        "code": "$lng->txt(\"create_date\")",
+        "has_variable": false,
+        "variable": "create_date"
+    },
+    {
+        "id": 39010,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.ilSurveyQuestionsTableGUI.php",
+        "line": 188,
+        "code": "$lng->txt(\"last_update\")",
+        "has_variable": false,
+        "variable": "last_update"
+    },
+    {
+        "id": 39012,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.ilSurveyQuestionsTableGUI.php",
+        "line": 216,
+        "code": "$this->lng->txt(\"warning_question_not_complete\")",
+        "has_variable": false,
+        "variable": "warning_question_not_complete"
+    },
+    {
+        "id": 39014,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.ilSurveyQuestionsTableGUI.php",
+        "line": 254,
+        "code": "$this->lng->txt(\"edit\")",
+        "has_variable": false,
+        "variable": "edit"
+    },
+    {
+        "id": 39016,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.ilSurveyQuestionsTableGUI.php",
+        "line": 259,
+        "code": "$this->lng->txt(\"preview\")",
+        "has_variable": false,
+        "variable": "preview"
+    },
+    {
+        "id": 39018,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Questions\/class.ilSurveyQuestionsTableGUI.php",
+        "line": 275,
+        "code": "$this->lng->txt(\"question_obligatory\")",
+        "has_variable": false,
+        "variable": "question_obligatory"
+    },
+    {
+        "id": 39020,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Settings\/class.SettingsGUI.php",
+        "line": 69,
+        "code": "$lng->txt(\"properties\")",
+        "has_variable": false,
+        "variable": "properties"
+    },
+    {
+        "id": 39022,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Settings\/class.SettingsGUI.php",
+        "line": 71,
+        "code": "$lng->txt(\"rep_activation_availability\")",
+        "has_variable": false,
+        "variable": "rep_activation_availability"
+    },
+    {
+        "id": 39024,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Settings\/class.SettingsGUI.php",
+        "line": 74,
+        "code": "$lng->txt(\"obj_presentation\")",
+        "has_variable": false,
+        "variable": "obj_presentation"
+    },
+    {
+        "id": 39026,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/Settings\/class.SettingsGUI.php",
+        "line": 98,
+        "code": "$lng->txt(\"msg_obj_modified\")",
+        "has_variable": false,
+        "variable": "msg_obj_modified"
+    },
+    {
+        "id": 39028,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/classes\/class.ilMatrixRowWizardInputGUI.php",
+        "line": 48,
+        "code": "$lng->txt('row_text')",
+        "has_variable": false,
+        "variable": "row_text"
+    },
+    {
+        "id": 39030,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/classes\/class.ilMatrixRowWizardInputGUI.php",
+        "line": 138,
+        "code": "$lng->txt(\"msg_input_is_required\")",
+        "has_variable": false,
+        "variable": "msg_input_is_required"
+    },
+    {
+        "id": 39032,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/classes\/class.ilMatrixRowWizardInputGUI.php",
+        "line": 144,
+        "code": "$lng->txt(\"msg_input_is_required\")",
+        "has_variable": false,
+        "variable": "msg_input_is_required"
+    },
+    {
+        "id": 39034,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/classes\/class.ilMatrixRowWizardInputGUI.php",
+        "line": 217,
+        "code": "$lng->txt('use_other_answer')",
+        "has_variable": false,
+        "variable": "use_other_answer"
+    },
+    {
+        "id": 39036,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/classes\/class.ilMatrixRowWizardInputGUI.php",
+        "line": 224,
+        "code": "$lng->txt('actions')",
+        "has_variable": false,
+        "variable": "actions"
+    },
+    {
+        "id": 39038,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/classes\/class.ilObjSurveyQuestionPool.php",
+        "line": 657,
+        "code": "$lng->txt($row[\"type_tag\"])",
+        "has_variable": true,
+        "variable": "_"
+    },
+    {
+        "id": 39040,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/classes\/class.ilObjSurveyQuestionPool.php",
+        "line": 728,
+        "code": "$lng->txt($row[\"type_tag\"])",
+        "has_variable": true,
+        "variable": "_"
+    },
+    {
+        "id": 39042,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/classes\/class.ilObjSurveyQuestionPool.php",
+        "line": 876,
+        "code": "$this->lng->txt(\"spl_move_same_pool\")",
+        "has_variable": false,
+        "variable": "spl_move_same_pool"
+    },
+    {
+        "id": 39044,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/classes\/class.ilObjSurveyQuestionPool.php",
+        "line": 885,
+        "code": "$this->lng->txt(\"spl_paste_success\")",
+        "has_variable": false,
+        "variable": "spl_paste_success"
+    },
+    {
+        "id": 39046,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/classes\/class.ilObjSurveyQuestionPoolGUI.php",
+        "line": 176,
+        "code": "$this->lng->txt(\"question\")",
+        "has_variable": false,
+        "variable": "question"
+    },
+    {
+        "id": 39048,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/classes\/class.ilObjSurveyQuestionPoolGUI.php",
+        "line": 205,
+        "code": "$this->lng->txt(\"spl_copy_insert_clipboard\")",
+        "has_variable": false,
+        "variable": "spl_copy_insert_clipboard"
+    },
+    {
+        "id": 39050,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/classes\/class.ilObjSurveyQuestionPoolGUI.php",
+        "line": 207,
+        "code": "$this->lng->txt(\"spl_copy_select_none\")",
+        "has_variable": false,
+        "variable": "spl_copy_select_none"
+    },
+    {
+        "id": 39052,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/classes\/class.ilObjSurveyQuestionPoolGUI.php",
+        "line": 222,
+        "code": "$this->lng->txt(\"spl_move_insert_clipboard\")",
+        "has_variable": false,
+        "variable": "spl_move_insert_clipboard"
+    },
+    {
+        "id": 39054,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/classes\/class.ilObjSurveyQuestionPoolGUI.php",
+        "line": 224,
+        "code": "$this->lng->txt(\"spl_move_select_none\")",
+        "has_variable": false,
+        "variable": "spl_move_select_none"
+    },
+    {
+        "id": 39056,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/classes\/class.ilObjSurveyQuestionPoolGUI.php",
+        "line": 238,
+        "code": "$this->lng->txt(\"qpl_export_select_none\")",
+        "has_variable": false,
+        "variable": "qpl_export_select_none"
+    },
+    {
+        "id": 39058,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/classes\/class.ilObjSurveyQuestionPoolGUI.php",
+        "line": 265,
+        "code": "$this->lng->txt(\"qpl_delete_select_none\")",
+        "has_variable": false,
+        "variable": "qpl_delete_select_none"
+    },
+    {
+        "id": 39060,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/classes\/class.ilObjSurveyQuestionPoolGUI.php",
+        "line": 271,
+        "code": "$this->lng->txt(\"qpl_confirm_delete_questions\")",
+        "has_variable": false,
+        "variable": "qpl_confirm_delete_questions"
+    },
+    {
+        "id": 39062,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/classes\/class.ilObjSurveyQuestionPoolGUI.php",
+        "line": 274,
+        "code": "$this->lng->txt(\"cancel\")",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 39064,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/classes\/class.ilObjSurveyQuestionPoolGUI.php",
+        "line": 275,
+        "code": "$this->lng->txt(\"confirm\")",
+        "has_variable": false,
+        "variable": "confirm"
+    },
+    {
+        "id": 39066,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/classes\/class.ilObjSurveyQuestionPoolGUI.php",
+        "line": 294,
+        "code": "$this->lng->txt(\"qpl_questions_deleted\")",
+        "has_variable": false,
+        "variable": "qpl_questions_deleted"
+    },
+    {
+        "id": 39068,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/classes\/class.ilObjSurveyQuestionPoolGUI.php",
+        "line": 317,
+        "code": "$this->lng->txt(\"spl_paste_no_objects\")",
+        "has_variable": false,
+        "variable": "spl_paste_no_objects"
+    },
+    {
+        "id": 39070,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/classes\/class.ilObjSurveyQuestionPoolGUI.php",
+        "line": 336,
+        "code": "$this->lng->txt(\"import_question\")",
+        "has_variable": false,
+        "variable": "import_question"
+    },
+    {
+        "id": 39072,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/classes\/class.ilObjSurveyQuestionPoolGUI.php",
+        "line": 338,
+        "code": "$this->lng->txt(\"select_file\")",
+        "has_variable": false,
+        "variable": "select_file"
+    },
+    {
+        "id": 39074,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/classes\/class.ilObjSurveyQuestionPoolGUI.php",
+        "line": 343,
+        "code": "$this->lng->txt(\"import\")",
+        "has_variable": false,
+        "variable": "import"
+    },
+    {
+        "id": 39076,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/classes\/class.ilObjSurveyQuestionPoolGUI.php",
+        "line": 344,
+        "code": "$this->lng->txt(\"cancel\")",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 39078,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/classes\/class.ilObjSurveyQuestionPoolGUI.php",
+        "line": 429,
+        "code": "$this->lng->txt(\"svy_create_question\")",
+        "has_variable": false,
+        "variable": "svy_create_question"
+    },
+    {
+        "id": 39080,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/classes\/class.ilObjSurveyQuestionPoolGUI.php",
+        "line": 436,
+        "code": "$this->lng->txt(\"import\")",
+        "has_variable": false,
+        "variable": "import"
+    },
+    {
+        "id": 39082,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/classes\/class.ilObjSurveyQuestionPoolGUI.php",
+        "line": 457,
+        "code": "$this->lng->txt(\"msg_obj_modified\")",
+        "has_variable": false,
+        "variable": "msg_obj_modified"
+    },
+    {
+        "id": 39084,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/classes\/class.ilObjSurveyQuestionPoolGUI.php",
+        "line": 463,
+        "code": "$this->lng->txt(\"object_added\")",
+        "has_variable": false,
+        "variable": "object_added"
+    },
+    {
+        "id": 39086,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/classes\/class.ilObjSurveyQuestionPoolGUI.php",
+        "line": 499,
+        "code": "$this->lng->txt(\"no_checkbox\")",
+        "has_variable": false,
+        "variable": "no_checkbox"
+    },
+    {
+        "id": 39088,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/classes\/class.ilObjSurveyQuestionPoolGUI.php",
+        "line": 504,
+        "code": "$this->lng->txt(\"select_max_one_item\")",
+        "has_variable": false,
+        "variable": "select_max_one_item"
+    },
+    {
+        "id": 39090,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/classes\/class.ilObjSurveyQuestionPoolGUI.php",
+        "line": 523,
+        "code": "$this->lng->txt(\"no_checkbox\")",
+        "has_variable": false,
+        "variable": "no_checkbox"
+    },
+    {
+        "id": 39092,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/classes\/class.ilObjSurveyQuestionPoolGUI.php",
+        "line": 527,
+        "code": "$this->lng->txt(\"info_delete_sure\")",
+        "has_variable": false,
+        "variable": "info_delete_sure"
+    },
+    {
+        "id": 39094,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/classes\/class.ilObjSurveyQuestionPoolGUI.php",
+        "line": 658,
+        "code": "$this->lng->txt(\"object_imported\")",
+        "has_variable": false,
+        "variable": "object_imported"
+    },
+    {
+        "id": 39096,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/classes\/class.ilObjSurveyQuestionPoolGUI.php",
+        "line": 698,
+        "code": "$this->lng->txt(\"survey_questions\")",
+        "has_variable": false,
+        "variable": "survey_questions"
+    },
+    {
+        "id": 39098,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/classes\/class.ilObjSurveyQuestionPoolGUI.php",
+        "line": 704,
+        "code": "$this->lng->txt(\"info_short\")",
+        "has_variable": false,
+        "variable": "info_short"
+    },
+    {
+        "id": 39100,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/classes\/class.ilObjSurveyQuestionPoolGUI.php",
+        "line": 712,
+        "code": "$this->lng->txt(\"settings\")",
+        "has_variable": false,
+        "variable": "settings"
+    },
+    {
+        "id": 39102,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/classes\/class.ilObjSurveyQuestionPoolGUI.php",
+        "line": 722,
+        "code": "$this->lng->txt(\"meta_data\")",
+        "has_variable": false,
+        "variable": "meta_data"
+    },
+    {
+        "id": 39104,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/classes\/class.ilObjSurveyQuestionPoolGUI.php",
+        "line": 730,
+        "code": "$this->lng->txt(\"export\")",
+        "has_variable": false,
+        "variable": "export"
+    },
+    {
+        "id": 39106,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/classes\/class.ilObjSurveyQuestionPoolGUI.php",
+        "line": 738,
+        "code": "$this->lng->txt(\"perm_settings\")",
+        "has_variable": false,
+        "variable": "perm_settings"
+    },
+    {
+        "id": 39108,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/classes\/class.ilObjSurveyQuestionPoolGUI.php",
+        "line": 752,
+        "code": "$this->lng->txt('msg_obj_modified')",
+        "has_variable": false,
+        "variable": "msg_obj_modified"
+    },
+    {
+        "id": 39110,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/classes\/class.ilObjSurveyQuestionPoolGUI.php",
+        "line": 774,
+        "code": "$lng->txt(\"msg_no_perm_read_item\")",
+        "has_variable": false,
+        "variable": "msg_no_perm_read_item"
+    },
+    {
+        "id": 39112,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/classes\/class.ilSurveySyncTableGUI.php",
+        "line": 50,
+        "code": "$lng->txt(\"survey_sync_question_copies_info\")",
+        "has_variable": false,
+        "variable": "survey_sync_question_copies_info"
+    },
+    {
+        "id": 39114,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/classes\/class.ilSurveySyncTableGUI.php",
+        "line": 52,
+        "code": "$lng->txt(\"survey_sync_question_copies\")",
+        "has_variable": false,
+        "variable": "survey_sync_question_copies"
+    },
+    {
+        "id": 39116,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/classes\/class.ilSurveySyncTableGUI.php",
+        "line": 53,
+        "code": "$lng->txt(\"cancel\")",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 39118,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/classes\/class.ilSurveySyncTableGUI.php",
+        "line": 57,
+        "code": "$lng->txt(\"title\")",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 39120,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/classes\/class.ilSurveySyncTableGUI.php",
+        "line": 96,
+        "code": "$lng->txt(\"survey_sync_insufficient_permissions\")",
+        "has_variable": false,
+        "variable": "survey_sync_insufficient_permissions"
+    },
+    {
+        "id": 39122,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/classes\/class.ilSurveySyncTableGUI.php",
+        "line": 99,
+        "code": "$lng->txt(\"survey_has_datasets_warning\")",
+        "has_variable": false,
+        "variable": "survey_has_datasets_warning"
+    },
+    {
+        "id": 39124,
+        "file": "components\/ILIAS\/SurveyQuestionPool\/classes\/class.ilSurveySyncTableGUI.php",
+        "line": 128,
+        "code": "$lng->txt(\"path\")",
+        "has_variable": false,
+        "variable": "path"
+    }
+]

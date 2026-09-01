@@ -1,0 +1,1098 @@
+[
+    {
+        "id": 13766,
+        "file": "components\/ILIAS\/DidacticTemplate\/classes\/Multilingualism\/class.ilMultilingualismGUI.php",
+        "line": 144,
+        "code": "$this->lng->txt(\"didactic_translation_add_languages\")",
+        "has_variable": false,
+        "variable": "didactic_translation_add_languages"
+    },
+    {
+        "id": 13768,
+        "file": "components\/ILIAS\/DidacticTemplate\/classes\/Multilingualism\/class.ilMultilingualismGUI.php",
+        "line": 159,
+        "code": "$this->lng->txt(\"msg_no_default_language\")",
+        "has_variable": false,
+        "variable": "msg_no_default_language"
+    },
+    {
+        "id": 13770,
+        "file": "components\/ILIAS\/DidacticTemplate\/classes\/Multilingualism\/class.ilMultilingualismGUI.php",
+        "line": 166,
+        "code": "$this->lng->txt(\"msg_no_language_selected\")",
+        "has_variable": false,
+        "variable": "msg_no_language_selected"
+    },
+    {
+        "id": 13772,
+        "file": "components\/ILIAS\/DidacticTemplate\/classes\/Multilingualism\/class.ilMultilingualismGUI.php",
+        "line": 173,
+        "code": "$this->lng->txt(\"msg_multi_language_selected\")",
+        "has_variable": false,
+        "variable": "msg_multi_language_selected"
+    },
+    {
+        "id": 13774,
+        "file": "components\/ILIAS\/DidacticTemplate\/classes\/Multilingualism\/class.ilMultilingualismGUI.php",
+        "line": 199,
+        "code": "$this->lng->txt(\"msg_obj_modified\")",
+        "has_variable": false,
+        "variable": "msg_obj_modified"
+    },
+    {
+        "id": 13776,
+        "file": "components\/ILIAS\/DidacticTemplate\/classes\/Multilingualism\/class.ilMultilingualismGUI.php",
+        "line": 216,
+        "code": "$this->lng->txt(\"msg_no_default_language\")",
+        "has_variable": false,
+        "variable": "msg_no_default_language"
+    },
+    {
+        "id": 13778,
+        "file": "components\/ILIAS\/DidacticTemplate\/classes\/Multilingualism\/class.ilMultilingualismGUI.php",
+        "line": 247,
+        "code": "$lng->txt(\"obj_base_lang\")",
+        "has_variable": false,
+        "variable": "obj_base_lang"
+    },
+    {
+        "id": 13780,
+        "file": "components\/ILIAS\/DidacticTemplate\/classes\/Multilingualism\/class.ilMultilingualismGUI.php",
+        "line": 255,
+        "code": "$lng->txt(\"please_select\")",
+        "has_variable": false,
+        "variable": "please_select"
+    },
+    {
+        "id": 13782,
+        "file": "components\/ILIAS\/DidacticTemplate\/classes\/Multilingualism\/class.ilMultilingualismGUI.php",
+        "line": 256,
+        "code": "$lng->txt(\"obj_additional_langs\")",
+        "has_variable": false,
+        "variable": "obj_additional_langs"
+    },
+    {
+        "id": 13784,
+        "file": "components\/ILIAS\/DidacticTemplate\/classes\/Multilingualism\/class.ilMultilingualismGUI.php",
+        "line": 263,
+        "code": "$lng->txt(\"didactic_translation_add_languages\")",
+        "has_variable": false,
+        "variable": "didactic_translation_add_languages"
+    },
+    {
+        "id": 13786,
+        "file": "components\/ILIAS\/DidacticTemplate\/classes\/Multilingualism\/class.ilMultilingualismGUI.php",
+        "line": 264,
+        "code": "$lng->txt(\"save\")",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 13788,
+        "file": "components\/ILIAS\/DidacticTemplate\/classes\/Multilingualism\/class.ilMultilingualismGUI.php",
+        "line": 267,
+        "code": "$lng->txt(\"obj_activate_content_lang\")",
+        "has_variable": false,
+        "variable": "obj_activate_content_lang"
+    },
+    {
+        "id": 13790,
+        "file": "components\/ILIAS\/DidacticTemplate\/classes\/Multilingualism\/class.ilMultilingualismGUI.php",
+        "line": 269,
+        "code": "$lng->txt(\"obj_activate_multilang\")",
+        "has_variable": false,
+        "variable": "obj_activate_multilang"
+    },
+    {
+        "id": 13792,
+        "file": "components\/ILIAS\/DidacticTemplate\/classes\/Multilingualism\/class.ilMultilingualismGUI.php",
+        "line": 271,
+        "code": "$lng->txt(\"save\")",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 13794,
+        "file": "components\/ILIAS\/DidacticTemplate\/classes\/Multilingualism\/class.ilMultilingualismGUI.php",
+        "line": 273,
+        "code": "$lng->txt(\"cancel\")",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 13796,
+        "file": "components\/ILIAS\/DidacticTemplate\/classes\/Multilingualism\/class.ilMultilingualismGUI.php",
+        "line": 291,
+        "code": "$lng->txt(\"obj_deactivate_content_transl_conf\")",
+        "has_variable": false,
+        "variable": "obj_deactivate_content_transl_conf"
+    },
+    {
+        "id": 13798,
+        "file": "components\/ILIAS\/DidacticTemplate\/classes\/Multilingualism\/class.ilMultilingualismGUI.php",
+        "line": 293,
+        "code": "$lng->txt(\"obj_deactivate_multilang_conf\")",
+        "has_variable": false,
+        "variable": "obj_deactivate_multilang_conf"
+    },
+    {
+        "id": 13800,
+        "file": "components\/ILIAS\/DidacticTemplate\/classes\/Multilingualism\/class.ilMultilingualismGUI.php",
+        "line": 296,
+        "code": "$lng->txt(\"cancel\")",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 13802,
+        "file": "components\/ILIAS\/DidacticTemplate\/classes\/Multilingualism\/class.ilMultilingualismGUI.php",
+        "line": 297,
+        "code": "$lng->txt(\"confirm\")",
+        "has_variable": false,
+        "variable": "confirm"
+    },
+    {
+        "id": 13804,
+        "file": "components\/ILIAS\/DidacticTemplate\/classes\/Multilingualism\/class.ilMultilingualismGUI.php",
+        "line": 342,
+        "code": "$lng->txt(\"msg_obj_modified\")",
+        "has_variable": false,
+        "variable": "msg_obj_modified"
+    },
+    {
+        "id": 13806,
+        "file": "components\/ILIAS\/DidacticTemplate\/classes\/Multilingualism\/class.ilMultilingualismGUI.php",
+        "line": 346,
+        "code": "$lng->txt('err_check_input')",
+        "has_variable": false,
+        "variable": "err_check_input"
+    },
+    {
+        "id": 13808,
+        "file": "components\/ILIAS\/DidacticTemplate\/classes\/Multilingualism\/class.ilMultilingualismGUI.php",
+        "line": 364,
+        "code": "$lng->txt(\"no_checkbox\")",
+        "has_variable": false,
+        "variable": "no_checkbox"
+    },
+    {
+        "id": 13810,
+        "file": "components\/ILIAS\/DidacticTemplate\/classes\/Multilingualism\/class.ilMultilingualismGUI.php",
+        "line": 369,
+        "code": "$lng->txt(\"obj_conf_delete_lang\")",
+        "has_variable": false,
+        "variable": "obj_conf_delete_lang"
+    },
+    {
+        "id": 13812,
+        "file": "components\/ILIAS\/DidacticTemplate\/classes\/Multilingualism\/class.ilMultilingualismGUI.php",
+        "line": 370,
+        "code": "$lng->txt(\"cancel\")",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 13814,
+        "file": "components\/ILIAS\/DidacticTemplate\/classes\/Multilingualism\/class.ilMultilingualismGUI.php",
+        "line": 371,
+        "code": "$lng->txt(\"remove\")",
+        "has_variable": false,
+        "variable": "remove"
+    },
+    {
+        "id": 13816,
+        "file": "components\/ILIAS\/DidacticTemplate\/classes\/Multilingualism\/class.ilMultilingualismGUI.php",
+        "line": 374,
+        "code": "$lng->txt(\"meta_l_\" . $i)",
+        "has_variable": true,
+        "variable": "\"meta_l_\" . $i"
+    },
+    {
+        "id": 13818,
+        "file": "components\/ILIAS\/DidacticTemplate\/classes\/Multilingualism\/class.ilMultilingualismGUI.php",
+        "line": 399,
+        "code": "$lng->txt(\"msg_obj_modified\")",
+        "has_variable": false,
+        "variable": "msg_obj_modified"
+    },
+    {
+        "id": 13820,
+        "file": "components\/ILIAS\/DidacticTemplate\/classes\/Multilingualism\/class.ilMultilingualismTableGUI.php",
+        "line": 58,
+        "code": "$this->lng->txt(\"language\")",
+        "has_variable": false,
+        "variable": "language"
+    },
+    {
+        "id": 13822,
+        "file": "components\/ILIAS\/DidacticTemplate\/classes\/Multilingualism\/class.ilMultilingualismTableGUI.php",
+        "line": 59,
+        "code": "$this->lng->txt(\"default\")",
+        "has_variable": false,
+        "variable": "default"
+    },
+    {
+        "id": 13824,
+        "file": "components\/ILIAS\/DidacticTemplate\/classes\/Multilingualism\/class.ilMultilingualismTableGUI.php",
+        "line": 60,
+        "code": "$this->lng->txt(\"title\")",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 13826,
+        "file": "components\/ILIAS\/DidacticTemplate\/classes\/Multilingualism\/class.ilMultilingualismTableGUI.php",
+        "line": 62,
+        "code": "$this->lng->txt(\"description\")",
+        "has_variable": false,
+        "variable": "description"
+    },
+    {
+        "id": 13828,
+        "file": "components\/ILIAS\/DidacticTemplate\/classes\/Multilingualism\/class.ilMultilingualismTableGUI.php",
+        "line": 64,
+        "code": "$this->lng->txt(\"actions\")",
+        "has_variable": false,
+        "variable": "actions"
+    },
+    {
+        "id": 13830,
+        "file": "components\/ILIAS\/DidacticTemplate\/classes\/Multilingualism\/class.ilMultilingualismTableGUI.php",
+        "line": 79,
+        "code": "$lng->txt(\"remove\")",
+        "has_variable": false,
+        "variable": "remove"
+    },
+    {
+        "id": 13832,
+        "file": "components\/ILIAS\/DidacticTemplate\/classes\/Multilingualism\/class.ilMultilingualismTableGUI.php",
+        "line": 81,
+        "code": "$lng->txt(\"save\")",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 13834,
+        "file": "components\/ILIAS\/DidacticTemplate\/classes\/Multilingualism\/class.ilMultilingualismTableGUI.php",
+        "line": 106,
+        "code": "$lng->txt(\"obj_base_lang\")",
+        "has_variable": false,
+        "variable": "obj_base_lang"
+    },
+    {
+        "id": 13836,
+        "file": "components\/ILIAS\/DidacticTemplate\/classes\/Setting\/class.ilDidacticTemplateSetting.php",
+        "line": 109,
+        "code": "$this->lng->txt($this->getTitle())",
+        "has_variable": true,
+        "variable": "$this->getTitle()"
+    },
+    {
+        "id": 13838,
+        "file": "components\/ILIAS\/DidacticTemplate\/classes\/Setting\/class.ilDidacticTemplateSetting.php",
+        "line": 124,
+        "code": "$this->lng->txt($this->getDescription())",
+        "has_variable": true,
+        "variable": "$this->getDescription()"
+    },
+    {
+        "id": 13840,
+        "file": "components\/ILIAS\/DidacticTemplate\/classes\/Setting\/class.ilDidacticTemplateSettingsGUI.php",
+        "line": 214,
+        "code": "$this->lng->txt('didactic_import_btn')",
+        "has_variable": false,
+        "variable": "didactic_import_btn"
+    },
+    {
+        "id": 13842,
+        "file": "components\/ILIAS\/DidacticTemplate\/classes\/Setting\/class.ilDidacticTemplateSettingsGUI.php",
+        "line": 254,
+        "code": "$this->lng->txt('didactic_back_to_overview')",
+        "has_variable": false,
+        "variable": "didactic_back_to_overview"
+    },
+    {
+        "id": 13844,
+        "file": "components\/ILIAS\/DidacticTemplate\/classes\/Setting\/class.ilDidacticTemplateSettingsGUI.php",
+        "line": 270,
+        "code": "$this->lng->txt('didactic_import_table_title')",
+        "has_variable": false,
+        "variable": "didactic_import_table_title"
+    },
+    {
+        "id": 13846,
+        "file": "components\/ILIAS\/DidacticTemplate\/classes\/Setting\/class.ilDidacticTemplateSettingsGUI.php",
+        "line": 271,
+        "code": "$this->lng->txt('import')",
+        "has_variable": false,
+        "variable": "import"
+    },
+    {
+        "id": 13848,
+        "file": "components\/ILIAS\/DidacticTemplate\/classes\/Setting\/class.ilDidacticTemplateSettingsGUI.php",
+        "line": 272,
+        "code": "$this->lng->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 13850,
+        "file": "components\/ILIAS\/DidacticTemplate\/classes\/Setting\/class.ilDidacticTemplateSettingsGUI.php",
+        "line": 274,
+        "code": "$this->lng->txt('import_file')",
+        "has_variable": false,
+        "variable": "import_file"
+    },
+    {
+        "id": 13852,
+        "file": "components\/ILIAS\/DidacticTemplate\/classes\/Setting\/class.ilDidacticTemplateSettingsGUI.php",
+        "line": 279,
+        "code": "$this->lng->txt('icon')",
+        "has_variable": false,
+        "variable": "icon"
+    },
+    {
+        "id": 13854,
+        "file": "components\/ILIAS\/DidacticTemplate\/classes\/Setting\/class.ilDidacticTemplateSettingsGUI.php",
+        "line": 282,
+        "code": "$this->lng->txt('didactic_icon_info')",
+        "has_variable": false,
+        "variable": "didactic_icon_info"
+    },
+    {
+        "id": 13856,
+        "file": "components\/ILIAS\/DidacticTemplate\/classes\/Setting\/class.ilDidacticTemplateSettingsGUI.php",
+        "line": 345,
+        "code": "$this->lng->txt('didactic_import_failed')",
+        "has_variable": false,
+        "variable": "didactic_import_failed"
+    },
+    {
+        "id": 13858,
+        "file": "components\/ILIAS\/DidacticTemplate\/classes\/Setting\/class.ilDidacticTemplateSettingsGUI.php",
+        "line": 366,
+        "code": "$this->lng->txt('didactic_import_failed')",
+        "has_variable": false,
+        "variable": "didactic_import_failed"
+    },
+    {
+        "id": 13860,
+        "file": "components\/ILIAS\/DidacticTemplate\/classes\/Setting\/class.ilDidacticTemplateSettingsGUI.php",
+        "line": 374,
+        "code": "$this->lng->txt('didactic_import_success')",
+        "has_variable": false,
+        "variable": "didactic_import_success"
+    },
+    {
+        "id": 13862,
+        "file": "components\/ILIAS\/DidacticTemplate\/classes\/Setting\/class.ilDidacticTemplateSettingsGUI.php",
+        "line": 395,
+        "code": "$this->lng->txt('select_one')",
+        "has_variable": false,
+        "variable": "select_one"
+    },
+    {
+        "id": 13864,
+        "file": "components\/ILIAS\/DidacticTemplate\/classes\/Setting\/class.ilDidacticTemplateSettingsGUI.php",
+        "line": 425,
+        "code": "$this->lng->txt('didactic_icon_error')",
+        "has_variable": false,
+        "variable": "didactic_icon_error"
+    },
+    {
+        "id": 13866,
+        "file": "components\/ILIAS\/DidacticTemplate\/classes\/Setting\/class.ilDidacticTemplateSettingsGUI.php",
+        "line": 463,
+        "code": "$this->lng->txt('settings_saved')",
+        "has_variable": false,
+        "variable": "settings_saved"
+    },
+    {
+        "id": 13868,
+        "file": "components\/ILIAS\/DidacticTemplate\/classes\/Setting\/class.ilDidacticTemplateSettingsGUI.php",
+        "line": 471,
+        "code": "$this->lng->txt('err_check_input')",
+        "has_variable": false,
+        "variable": "err_check_input"
+    },
+    {
+        "id": 13870,
+        "file": "components\/ILIAS\/DidacticTemplate\/classes\/Setting\/class.ilDidacticTemplateSettingsGUI.php",
+        "line": 481,
+        "code": "$this->lng->txt('didactic_edit_tpl')",
+        "has_variable": false,
+        "variable": "didactic_edit_tpl"
+    },
+    {
+        "id": 13872,
+        "file": "components\/ILIAS\/DidacticTemplate\/classes\/Setting\/class.ilDidacticTemplateSettingsGUI.php",
+        "line": 482,
+        "code": "$this->lng->txt('save')",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 13874,
+        "file": "components\/ILIAS\/DidacticTemplate\/classes\/Setting\/class.ilDidacticTemplateSettingsGUI.php",
+        "line": 483,
+        "code": "$this->lng->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 13876,
+        "file": "components\/ILIAS\/DidacticTemplate\/classes\/Setting\/class.ilDidacticTemplateSettingsGUI.php",
+        "line": 486,
+        "code": "$this->lng->txt('title')",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 13878,
+        "file": "components\/ILIAS\/DidacticTemplate\/classes\/Setting\/class.ilDidacticTemplateSettingsGUI.php",
+        "line": 505,
+        "code": "$this->lng->txt(\"language\")",
+        "has_variable": false,
+        "variable": "language"
+    },
+    {
+        "id": 13880,
+        "file": "components\/ILIAS\/DidacticTemplate\/classes\/Setting\/class.ilDidacticTemplateSettingsGUI.php",
+        "line": 507,
+        "code": "$this->lng->txt(\"more_translations\")",
+        "has_variable": false,
+        "variable": "more_translations"
+    },
+    {
+        "id": 13882,
+        "file": "components\/ILIAS\/DidacticTemplate\/classes\/Setting\/class.ilDidacticTemplateSettingsGUI.php",
+        "line": 520,
+        "code": "$this->lng->txt('description')",
+        "has_variable": false,
+        "variable": "description"
+    },
+    {
+        "id": 13884,
+        "file": "components\/ILIAS\/DidacticTemplate\/classes\/Setting\/class.ilDidacticTemplateSettingsGUI.php",
+        "line": 531,
+        "code": "$this->lng->txt('didactic_icon')",
+        "has_variable": false,
+        "variable": "didactic_icon"
+    },
+    {
+        "id": 13886,
+        "file": "components\/ILIAS\/DidacticTemplate\/classes\/Setting\/class.ilDidacticTemplateSettingsGUI.php",
+        "line": 533,
+        "code": "$this->lng->txt('didactic_icon_info')",
+        "has_variable": false,
+        "variable": "didactic_icon_info"
+    },
+    {
+        "id": 13888,
+        "file": "components\/ILIAS\/DidacticTemplate\/classes\/Setting\/class.ilDidacticTemplateSettingsGUI.php",
+        "line": 539,
+        "code": "$this->lng->txt('didactic_install_info')",
+        "has_variable": false,
+        "variable": "didactic_install_info"
+    },
+    {
+        "id": 13890,
+        "file": "components\/ILIAS\/DidacticTemplate\/classes\/Setting\/class.ilDidacticTemplateSettingsGUI.php",
+        "line": 545,
+        "code": "$this->lng->txt('active')",
+        "has_variable": false,
+        "variable": "active"
+    },
+    {
+        "id": 13892,
+        "file": "components\/ILIAS\/DidacticTemplate\/classes\/Setting\/class.ilDidacticTemplateSettingsGUI.php",
+        "line": 551,
+        "code": "$this->lng->txt('obj_type')",
+        "has_variable": false,
+        "variable": "obj_type"
+    },
+    {
+        "id": 13894,
+        "file": "components\/ILIAS\/DidacticTemplate\/classes\/Setting\/class.ilDidacticTemplateSettingsGUI.php",
+        "line": 553,
+        "code": "$this->lng->txt('dtpl_obj_type_info')",
+        "has_variable": false,
+        "variable": "dtpl_obj_type_info"
+    },
+    {
+        "id": 13896,
+        "file": "components\/ILIAS\/DidacticTemplate\/classes\/Setting\/class.ilDidacticTemplateSettingsGUI.php",
+        "line": 563,
+        "code": "$this->lng->txt('obj_' . $obj)",
+        "has_variable": true,
+        "variable": "'obj_' . $obj"
+    },
+    {
+        "id": 13898,
+        "file": "components\/ILIAS\/DidacticTemplate\/classes\/Setting\/class.ilDidacticTemplateSettingsGUI.php",
+        "line": 572,
+        "code": "$this->lng->txt(\"activate_local_didactic_template\")",
+        "has_variable": false,
+        "variable": "activate_local_didactic_template"
+    },
+    {
+        "id": 13900,
+        "file": "components\/ILIAS\/DidacticTemplate\/classes\/Setting\/class.ilDidacticTemplateSettingsGUI.php",
+        "line": 576,
+        "code": "$this->lng->txt(\"activate_local_didactic_template_info\")",
+        "has_variable": false,
+        "variable": "activate_local_didactic_template_info"
+    },
+    {
+        "id": 13902,
+        "file": "components\/ILIAS\/DidacticTemplate\/classes\/Setting\/class.ilDidacticTemplateSettingsGUI.php",
+        "line": 580,
+        "code": "$this->lng->txt(\"effective_form\")",
+        "has_variable": false,
+        "variable": "effective_form"
+    },
+    {
+        "id": 13904,
+        "file": "components\/ILIAS\/DidacticTemplate\/classes\/Setting\/class.ilDidacticTemplateSettingsGUI.php",
+        "line": 594,
+        "code": "$this->lng->txt(\"activate_exclusive_template\")",
+        "has_variable": false,
+        "variable": "activate_exclusive_template"
+    },
+    {
+        "id": 13906,
+        "file": "components\/ILIAS\/DidacticTemplate\/classes\/Setting\/class.ilDidacticTemplateSettingsGUI.php",
+        "line": 595,
+        "code": "$this->lng->txt(\"activate_exclusive_template_info\")",
+        "has_variable": false,
+        "variable": "activate_exclusive_template_info"
+    },
+    {
+        "id": 13908,
+        "file": "components\/ILIAS\/DidacticTemplate\/classes\/Setting\/class.ilDidacticTemplateSettingsGUI.php",
+        "line": 612,
+        "code": "$this->lng->txt('didactic_copy_suc_message')",
+        "has_variable": false,
+        "variable": "didactic_copy_suc_message"
+    },
+    {
+        "id": 13910,
+        "file": "components\/ILIAS\/DidacticTemplate\/classes\/Setting\/class.ilDidacticTemplateSettingsGUI.php",
+        "line": 653,
+        "code": "$this->lng->txt('delete')",
+        "has_variable": false,
+        "variable": "delete"
+    },
+    {
+        "id": 13912,
+        "file": "components\/ILIAS\/DidacticTemplate\/classes\/Setting\/class.ilDidacticTemplateSettingsGUI.php",
+        "line": 654,
+        "code": "$this->lng->txt('modal_confirm_deletion_text')",
+        "has_variable": false,
+        "variable": "modal_confirm_deletion_text"
+    },
+    {
+        "id": 13914,
+        "file": "components\/ILIAS\/DidacticTemplate\/classes\/Setting\/class.ilDidacticTemplateSettingsGUI.php",
+        "line": 673,
+        "code": "$this->lng->txt('select_one')",
+        "has_variable": false,
+        "variable": "select_one"
+    },
+    {
+        "id": 13916,
+        "file": "components\/ILIAS\/DidacticTemplate\/classes\/Setting\/class.ilDidacticTemplateSettingsGUI.php",
+        "line": 681,
+        "code": "$this->lng->txt('didactic_delete_msg')",
+        "has_variable": false,
+        "variable": "didactic_delete_msg"
+    },
+    {
+        "id": 13918,
+        "file": "components\/ILIAS\/DidacticTemplate\/classes\/Setting\/class.ilDidacticTemplateSettingsGUI.php",
+        "line": 694,
+        "code": "$this->lng->txt('select_one')",
+        "has_variable": false,
+        "variable": "select_one"
+    },
+    {
+        "id": 13920,
+        "file": "components\/ILIAS\/DidacticTemplate\/classes\/Setting\/class.ilDidacticTemplateSettingsGUI.php",
+        "line": 703,
+        "code": "$this->lng->txt('didactic_activated_msg')",
+        "has_variable": false,
+        "variable": "didactic_activated_msg"
+    },
+    {
+        "id": 13922,
+        "file": "components\/ILIAS\/DidacticTemplate\/classes\/Setting\/class.ilDidacticTemplateSettingsGUI.php",
+        "line": 716,
+        "code": "$this->lng->txt('select_one')",
+        "has_variable": false,
+        "variable": "select_one"
+    },
+    {
+        "id": 13924,
+        "file": "components\/ILIAS\/DidacticTemplate\/classes\/Setting\/class.ilDidacticTemplateSettingsGUI.php",
+        "line": 724,
+        "code": "$this->lng->txt('didactic_deactivated_msg')",
+        "has_variable": false,
+        "variable": "didactic_deactivated_msg"
+    },
+    {
+        "id": 13926,
+        "file": "components\/ILIAS\/DidacticTemplate\/classes\/Setting\/class.ilDidacticTemplateSettingsGUI.php",
+        "line": 733,
+        "code": "$this->lng->txt('didactic_back_to_overview')",
+        "has_variable": false,
+        "variable": "didactic_back_to_overview"
+    },
+    {
+        "id": 13928,
+        "file": "components\/ILIAS\/DidacticTemplate\/classes\/Setting\/class.ilDidacticTemplateSettingsGUI.php",
+        "line": 739,
+        "code": "$this->lng->txt('settings')",
+        "has_variable": false,
+        "variable": "settings"
+    },
+    {
+        "id": 13930,
+        "file": "components\/ILIAS\/DidacticTemplate\/classes\/Setting\/class.ilDidacticTemplateSettingsGUI.php",
+        "line": 742,
+        "code": "$this->lng->txt('import')",
+        "has_variable": false,
+        "variable": "import"
+    },
+    {
+        "id": 13932,
+        "file": "components\/ILIAS\/DidacticTemplate\/classes\/Setting\/class.ilDidacticTemplateSettingsGUI.php",
+        "line": 749,
+        "code": "$this->lng->txt('settings')",
+        "has_variable": false,
+        "variable": "settings"
+    },
+    {
+        "id": 13934,
+        "file": "components\/ILIAS\/DidacticTemplate\/classes\/Setting\/class.ilDidacticTemplateSettingsGUI.php",
+        "line": 754,
+        "code": "$this->lng->txt(\"obj_multilinguality\")",
+        "has_variable": false,
+        "variable": "obj_multilinguality"
+    },
+    {
+        "id": 13936,
+        "file": "components\/ILIAS\/DidacticTemplate\/classes\/Setting\/class.ilDidacticTemplateSettingsGUI.php",
+        "line": 780,
+        "code": "$this->lng->txt('didactic_import_table_title')",
+        "has_variable": false,
+        "variable": "didactic_import_table_title"
+    },
+    {
+        "id": 13938,
+        "file": "components\/ILIAS\/DidacticTemplate\/classes\/Setting\/class.ilDidacticTemplateSettingsGUI.php",
+        "line": 781,
+        "code": "$this->lng->txt('import')",
+        "has_variable": false,
+        "variable": "import"
+    },
+    {
+        "id": 13940,
+        "file": "components\/ILIAS\/DidacticTemplate\/classes\/Setting\/class.ilDidacticTemplateSettingsGUI.php",
+        "line": 782,
+        "code": "$this->lng->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 13942,
+        "file": "components\/ILIAS\/DidacticTemplate\/classes\/Setting\/class.ilDidacticTemplateSettingsGUI.php",
+        "line": 784,
+        "code": "$this->lng->txt('didactic_template_update_import')",
+        "has_variable": false,
+        "variable": "didactic_template_update_import"
+    },
+    {
+        "id": 13944,
+        "file": "components\/ILIAS\/DidacticTemplate\/classes\/Setting\/class.ilDidacticTemplateSettingsGUI.php",
+        "line": 787,
+        "code": "$this->lng->txt('didactic_template_update_import_info')",
+        "has_variable": false,
+        "variable": "didactic_template_update_import_info"
+    },
+    {
+        "id": 13946,
+        "file": "components\/ILIAS\/DidacticTemplate\/classes\/Setting\/class.ilDidacticTemplateSettingsTableDataRetrieval.php",
+        "line": 100,
+        "code": "$this->lng->txt('objs_' . $obj_type)",
+        "has_variable": true,
+        "variable": "'objs_' . $obj_type"
+    },
+    {
+        "id": 13948,
+        "file": "components\/ILIAS\/DidacticTemplate\/classes\/Setting\/class.ilDidacticTemplateSettingsTableDataRetrieval.php",
+        "line": 106,
+        "code": "$this->lng->txt(\"didactic_auto_generated\")",
+        "has_variable": false,
+        "variable": "didactic_auto_generated"
+    },
+    {
+        "id": 13950,
+        "file": "components\/ILIAS\/DidacticTemplate\/classes\/Setting\/class.ilDidacticTemplateSettingsTableDataRetrieval.php",
+        "line": 110,
+        "code": "$this->lng->txt('didactic_scope_list_header')",
+        "has_variable": false,
+        "variable": "didactic_scope_list_header"
+    },
+    {
+        "id": 13952,
+        "file": "components\/ILIAS\/DidacticTemplate\/classes\/Setting\/class.ilDidacticTemplateSettingsTableDataRetrieval.php",
+        "line": 123,
+        "code": "$this->lng->txt('meta_local')",
+        "has_variable": false,
+        "variable": "meta_local"
+    },
+    {
+        "id": 13954,
+        "file": "components\/ILIAS\/DidacticTemplate\/classes\/Setting\/class.ilDidacticTemplateSettingsTableDataRetrieval.php",
+        "line": 123,
+        "code": "$this->lng->txt('meta_global')",
+        "has_variable": false,
+        "variable": "meta_global"
+    },
+    {
+        "id": 13956,
+        "file": "components\/ILIAS\/DidacticTemplate\/classes\/Setting\/class.ilDidacticTemplateSettingsTableDataRetrieval.php",
+        "line": 130,
+        "code": "$this->lng->txt('objs_' . $obj_type)",
+        "has_variable": true,
+        "variable": "'objs_' . $obj_type"
+    },
+    {
+        "id": 13958,
+        "file": "components\/ILIAS\/DidacticTemplate\/classes\/Setting\/class.ilDidacticTemplateSettingsTableDataRetrieval.php",
+        "line": 142,
+        "code": "$this->lng->txt('active')",
+        "has_variable": false,
+        "variable": "active"
+    },
+    {
+        "id": 13960,
+        "file": "components\/ILIAS\/DidacticTemplate\/classes\/Setting\/class.ilDidacticTemplateSettingsTableDataRetrieval.php",
+        "line": 142,
+        "code": "$this->lng->txt('inactive')",
+        "has_variable": false,
+        "variable": "inactive"
+    },
+    {
+        "id": 13962,
+        "file": "components\/ILIAS\/DidacticTemplate\/classes\/Setting\/class.ilDidacticTemplateSettingsTableFilter.php",
+        "line": 77,
+        "code": "$this->lng->txt('icon')",
+        "has_variable": false,
+        "variable": "icon"
+    },
+    {
+        "id": 13964,
+        "file": "components\/ILIAS\/DidacticTemplate\/classes\/Setting\/class.ilDidacticTemplateSettingsTableFilter.php",
+        "line": 79,
+        "code": "$this->lng->txt('didactic_filter_with_icon')",
+        "has_variable": false,
+        "variable": "didactic_filter_with_icon"
+    },
+    {
+        "id": 13966,
+        "file": "components\/ILIAS\/DidacticTemplate\/classes\/Setting\/class.ilDidacticTemplateSettingsTableFilter.php",
+        "line": 80,
+        "code": "$this->lng->txt('didactic_filter_without_icon')",
+        "has_variable": false,
+        "variable": "didactic_filter_without_icon"
+    },
+    {
+        "id": 13968,
+        "file": "components\/ILIAS\/DidacticTemplate\/classes\/Setting\/class.ilDidacticTemplateSettingsTableFilter.php",
+        "line": 85,
+        "code": "$this->lng->txt('title')",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 13970,
+        "file": "components\/ILIAS\/DidacticTemplate\/classes\/Setting\/class.ilDidacticTemplateSettingsTableFilter.php",
+        "line": 90,
+        "code": "$this->lng->txt('objs_' . $type)",
+        "has_variable": true,
+        "variable": "'objs_' . $type"
+    },
+    {
+        "id": 13972,
+        "file": "components\/ILIAS\/DidacticTemplate\/classes\/Setting\/class.ilDidacticTemplateSettingsTableFilter.php",
+        "line": 94,
+        "code": "$this->lng->txt('type')",
+        "has_variable": false,
+        "variable": "type"
+    },
+    {
+        "id": 13974,
+        "file": "components\/ILIAS\/DidacticTemplate\/classes\/Setting\/class.ilDidacticTemplateSettingsTableFilter.php",
+        "line": 99,
+        "code": "$this->lng->txt('didactic_scope')",
+        "has_variable": false,
+        "variable": "didactic_scope"
+    },
+    {
+        "id": 13976,
+        "file": "components\/ILIAS\/DidacticTemplate\/classes\/Setting\/class.ilDidacticTemplateSettingsTableFilter.php",
+        "line": 101,
+        "code": "$this->lng->txt('didactic_global')",
+        "has_variable": false,
+        "variable": "didactic_global"
+    },
+    {
+        "id": 13978,
+        "file": "components\/ILIAS\/DidacticTemplate\/classes\/Setting\/class.ilDidacticTemplateSettingsTableFilter.php",
+        "line": 102,
+        "code": "$this->lng->txt('didactic_local')",
+        "has_variable": false,
+        "variable": "didactic_local"
+    },
+    {
+        "id": 13980,
+        "file": "components\/ILIAS\/DidacticTemplate\/classes\/Setting\/class.ilDidacticTemplateSettingsTableFilter.php",
+        "line": 107,
+        "code": "$this->lng->txt('status')",
+        "has_variable": false,
+        "variable": "status"
+    },
+    {
+        "id": 13982,
+        "file": "components\/ILIAS\/DidacticTemplate\/classes\/Setting\/class.ilDidacticTemplateSettingsTableFilter.php",
+        "line": 109,
+        "code": "$this->lng->txt('active')",
+        "has_variable": false,
+        "variable": "active"
+    },
+    {
+        "id": 13984,
+        "file": "components\/ILIAS\/DidacticTemplate\/classes\/Setting\/class.ilDidacticTemplateSettingsTableFilter.php",
+        "line": 110,
+        "code": "$this->lng->txt('inactive')",
+        "has_variable": false,
+        "variable": "inactive"
+    },
+    {
+        "id": 13986,
+        "file": "components\/ILIAS\/DidacticTemplate\/classes\/Setting\/class.ilDidacticTemplateSettingsTableGUI.php",
+        "line": 73,
+        "code": "$this->lng->txt('icon')",
+        "has_variable": false,
+        "variable": "icon"
+    },
+    {
+        "id": 13988,
+        "file": "components\/ILIAS\/DidacticTemplate\/classes\/Setting\/class.ilDidacticTemplateSettingsTableGUI.php",
+        "line": 76,
+        "code": "$this->lng->txt('search_title_description')",
+        "has_variable": false,
+        "variable": "search_title_description"
+    },
+    {
+        "id": 13990,
+        "file": "components\/ILIAS\/DidacticTemplate\/classes\/Setting\/class.ilDidacticTemplateSettingsTableGUI.php",
+        "line": 77,
+        "code": "$this->lng->txt('didactic_applicable_for')",
+        "has_variable": false,
+        "variable": "didactic_applicable_for"
+    },
+    {
+        "id": 13992,
+        "file": "components\/ILIAS\/DidacticTemplate\/classes\/Setting\/class.ilDidacticTemplateSettingsTableGUI.php",
+        "line": 78,
+        "code": "$this->lng->txt('didactic_scope')",
+        "has_variable": false,
+        "variable": "didactic_scope"
+    },
+    {
+        "id": 13994,
+        "file": "components\/ILIAS\/DidacticTemplate\/classes\/Setting\/class.ilDidacticTemplateSettingsTableGUI.php",
+        "line": 79,
+        "code": "$this->lng->txt('active')",
+        "has_variable": false,
+        "variable": "active"
+    },
+    {
+        "id": 13996,
+        "file": "components\/ILIAS\/DidacticTemplate\/classes\/Setting\/class.ilDidacticTemplateSettingsTableGUI.php",
+        "line": 106,
+        "code": "$this->lng->txt('settings')",
+        "has_variable": false,
+        "variable": "settings"
+    },
+    {
+        "id": 13998,
+        "file": "components\/ILIAS\/DidacticTemplate\/classes\/Setting\/class.ilDidacticTemplateSettingsTableGUI.php",
+        "line": 111,
+        "code": "$this->lng->txt('copy')",
+        "has_variable": false,
+        "variable": "copy"
+    },
+    {
+        "id": 14000,
+        "file": "components\/ILIAS\/DidacticTemplate\/classes\/Setting\/class.ilDidacticTemplateSettingsTableGUI.php",
+        "line": 116,
+        "code": "$this->lng->txt('didactic_do_export')",
+        "has_variable": false,
+        "variable": "didactic_do_export"
+    },
+    {
+        "id": 14002,
+        "file": "components\/ILIAS\/DidacticTemplate\/classes\/Setting\/class.ilDidacticTemplateSettingsTableGUI.php",
+        "line": 121,
+        "code": "$this->lng->txt('delete')",
+        "has_variable": false,
+        "variable": "delete"
+    },
+    {
+        "id": 14004,
+        "file": "components\/ILIAS\/DidacticTemplate\/classes\/Setting\/class.ilDidacticTemplateSettingsTableGUI.php",
+        "line": 127,
+        "code": "$this->lng->txt('activate')",
+        "has_variable": false,
+        "variable": "activate"
+    },
+    {
+        "id": 14006,
+        "file": "components\/ILIAS\/DidacticTemplate\/classes\/Setting\/class.ilDidacticTemplateSettingsTableGUI.php",
+        "line": 132,
+        "code": "$this->lng->txt('deactivate')",
+        "has_variable": false,
+        "variable": "deactivate"
+    },
+    {
+        "id": 14008,
+        "file": "components\/ILIAS\/DidacticTemplate\/classes\/Setting\/class.ilDidacticTemplateSettingsTableGUI.php",
+        "line": 141,
+        "code": "$this->lng->txt('didactic_available_templates')",
+        "has_variable": false,
+        "variable": "didactic_available_templates"
+    },
+    {
+        "id": 14010,
+        "file": "components\/ILIAS\/DidacticTemplate\/classes\/class.ilDidacticTemplateCopier.php",
+        "line": 53,
+        "code": "$lng->txt('copy_of_suffix')",
+        "has_variable": false,
+        "variable": "copy_of_suffix"
+    },
+    {
+        "id": 14012,
+        "file": "components\/ILIAS\/DidacticTemplate\/classes\/class.ilDidacticTemplateCopier.php",
+        "line": 55,
+        "code": "$lng->txt('copy_n_of_suffix')",
+        "has_variable": false,
+        "variable": "copy_n_of_suffix"
+    },
+    {
+        "id": 14014,
+        "file": "components\/ILIAS\/DidacticTemplate\/classes\/class.ilDidacticTemplateGUI.php",
+        "line": 102,
+        "code": "$this->lng->txt('didactic_selected_tpl_option')",
+        "has_variable": false,
+        "variable": "didactic_selected_tpl_option"
+    },
+    {
+        "id": 14016,
+        "file": "components\/ILIAS\/DidacticTemplate\/classes\/class.ilDidacticTemplateGUI.php",
+        "line": 105,
+        "code": "$this->lng->txt('didactic_default_type')",
+        "has_variable": false,
+        "variable": "didactic_default_type"
+    },
+    {
+        "id": 14018,
+        "file": "components\/ILIAS\/DidacticTemplate\/classes\/class.ilDidacticTemplateGUI.php",
+        "line": 125,
+        "code": "$this->lng->txt('not_available')",
+        "has_variable": false,
+        "variable": "not_available"
+    },
+    {
+        "id": 14020,
+        "file": "components\/ILIAS\/DidacticTemplate\/classes\/class.ilDidacticTemplateGUI.php",
+        "line": 133,
+        "code": "$this->lng->txt('didactic_selected_tpl_option')",
+        "has_variable": false,
+        "variable": "didactic_selected_tpl_option"
+    },
+    {
+        "id": 14022,
+        "file": "components\/ILIAS\/DidacticTemplate\/classes\/class.ilDidacticTemplateGUI.php",
+        "line": 141,
+        "code": "$this->lng->txt('change')",
+        "has_variable": false,
+        "variable": "change"
+    },
+    {
+        "id": 14024,
+        "file": "components\/ILIAS\/DidacticTemplate\/classes\/class.ilDidacticTemplateGUI.php",
+        "line": 154,
+        "code": "$this->lng->txt('didactic_not_changed')",
+        "has_variable": false,
+        "variable": "didactic_not_changed"
+    },
+    {
+        "id": 14026,
+        "file": "components\/ILIAS\/DidacticTemplate\/classes\/class.ilDidacticTemplateGUI.php",
+        "line": 163,
+        "code": "$this->lng->txt('didactic_confirm_apply_new_template')",
+        "has_variable": false,
+        "variable": "didactic_confirm_apply_new_template"
+    },
+    {
+        "id": 14028,
+        "file": "components\/ILIAS\/DidacticTemplate\/classes\/class.ilDidacticTemplateGUI.php",
+        "line": 164,
+        "code": "$this->lng->txt('apply')",
+        "has_variable": false,
+        "variable": "apply"
+    },
+    {
+        "id": 14030,
+        "file": "components\/ILIAS\/DidacticTemplate\/classes\/class.ilDidacticTemplateGUI.php",
+        "line": 165,
+        "code": "$this->lng->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 14032,
+        "file": "components\/ILIAS\/DidacticTemplate\/classes\/class.ilDidacticTemplateGUI.php",
+        "line": 182,
+        "code": "$this->lng->txt('default')",
+        "has_variable": false,
+        "variable": "default"
+    },
+    {
+        "id": 14034,
+        "file": "components\/ILIAS\/DidacticTemplate\/classes\/class.ilDidacticTemplateGUI.php",
+        "line": 185,
+        "code": "$this->lng->txt('didactic_default_type_info')",
+        "has_variable": false,
+        "variable": "didactic_default_type_info"
+    },
+    {
+        "id": 14036,
+        "file": "components\/ILIAS\/DidacticTemplate\/classes\/class.ilDidacticTemplateGUI.php",
+        "line": 186,
+        "code": "$this->lng->txt('objs_' . $this->getParentObject()->getObject()->getType())",
+        "has_variable": true,
+        "variable": "'objs_' . $this->getParentObject()->getObject()->getType()"
+    },
+    {
+        "id": 14038,
+        "file": "components\/ILIAS\/DidacticTemplate\/classes\/class.ilDidacticTemplateGUI.php",
+        "line": 206,
+        "code": "$this->lng->txt('didactic_template_applied')",
+        "has_variable": false,
+        "variable": "didactic_template_applied"
+    }
+]

@@ -1,0 +1,130 @@
+{
+    "metadata": {
+        "type": "full",
+        "count": 11,
+        "description": "Variable usages without detectable prefixes or suffixes (pure variable references without static strings)"
+    },
+    "matches": [
+        {
+            "id": 22786,
+            "file": "components\/ILIAS\/Language\/classes\/class.ilLanguage.php",
+            "line": 160,
+            "code": "$this->txt($a_topic)",
+            "variable": "$a_topic",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 22788,
+            "file": "components\/ILIAS\/Language\/classes\/class.ilLanguage.php",
+            "line": 478,
+            "code": "$this->txt($lk)",
+            "variable": "$lk",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 22862,
+            "file": "components\/ILIAS\/Language\/classes\/class.ilLanguageFolderTable.php",
+            "line": 121,
+            "code": "$this->lng->txt($act)",
+            "variable": "$act",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 22864,
+            "file": "components\/ILIAS\/Language\/classes\/class.ilLanguageFolderTable.php",
+            "line": 171,
+            "code": "$this->lng->txt($record[\"status\"])",
+            "variable": "\\$record",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 22866,
+            "file": "components\/ILIAS\/Language\/classes\/class.ilLanguageFolderTable.php",
+            "line": 181,
+            "code": "$this->lng->txt($record['desc'])",
+            "variable": "\\$record",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 22878,
+            "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageExt.php",
+            "line": 65,
+            "code": "$this->lng->txt($this->desc)",
+            "variable": "$this->desc",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 23130,
+            "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageFolderGUI.php",
+            "line": 146,
+            "code": "$this->lng->txt($title)",
+            "variable": "$title",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 23132,
+            "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageFolderGUI.php",
+            "line": 150,
+            "code": "$this->lng->txt($text)",
+            "variable": "$text",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 23138,
+            "file": "components\/ILIAS\/Language\/classes\/class.ilObjLanguageFolderGUI.php",
+            "line": 171,
+            "code": "$this->lng->txt($add_text)",
+            "variable": "$add_text",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 23306,
+            "file": "components\/ILIAS\/Language\/classes\/class.ilPluginLanguage.php",
+            "line": 179,
+            "code": "$lng->txt($this->getPrefix() . \"_\" . $a_var, $this->getPrefix())",
+            "variable": "$this->getPrefix() . \"_\" . $a_var, $this->getPrefix()",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 23308,
+            "file": "components\/ILIAS\/Language\/src\/UserSettings\/Language.php",
+            "line": 53,
+            "code": "$lng->txt($this->getIdentifier())",
+            "variable": "$this->getIdentifier()",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        }
+    ]
+}

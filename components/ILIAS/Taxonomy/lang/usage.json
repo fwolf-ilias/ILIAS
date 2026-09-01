@@ -1,0 +1,650 @@
+[
+    {
+        "id": 39444,
+        "file": "components\/ILIAS\/Taxonomy\/GlobalScreen\/classes\/class.ilTaxonomyGSToolProvider.php",
+        "line": 53,
+        "code": "$lng->txt(\"tax_taxonomy\")",
+        "has_variable": false,
+        "variable": "tax_taxonomy"
+    },
+    {
+        "id": 39446,
+        "file": "components\/ILIAS\/Taxonomy\/Settings\/Service\/class.GUIService.php",
+        "line": 64,
+        "code": "$lng->txt(\"tax_taxonomy\")",
+        "has_variable": false,
+        "variable": "tax_taxonomy"
+    },
+    {
+        "id": 39448,
+        "file": "components\/ILIAS\/Taxonomy\/Settings\/class.ilTaxonomySettingsGUI.php",
+        "line": 124,
+        "code": "$this->lng->txt(\"tax_add_taxonomy\")",
+        "has_variable": false,
+        "variable": "tax_add_taxonomy"
+    },
+    {
+        "id": 39450,
+        "file": "components\/ILIAS\/Taxonomy\/Settings\/class.ilTaxonomySettingsGUI.php",
+        "line": 128,
+        "code": "$this->lng->txt(\"tax_max_one_tax\")",
+        "has_variable": false,
+        "variable": "tax_max_one_tax"
+    },
+    {
+        "id": 39452,
+        "file": "components\/ILIAS\/Taxonomy\/Settings\/class.ilTaxonomySettingsGUI.php",
+        "line": 135,
+        "code": "$this->lng->txt(\"edit\")",
+        "has_variable": false,
+        "variable": "edit"
+    },
+    {
+        "id": 39454,
+        "file": "components\/ILIAS\/Taxonomy\/Settings\/class.ilTaxonomySettingsGUI.php",
+        "line": 139,
+        "code": "$this->lng->txt(\"delete\")",
+        "has_variable": false,
+        "variable": "delete"
+    },
+    {
+        "id": 39456,
+        "file": "components\/ILIAS\/Taxonomy\/Settings\/class.ilTaxonomySettingsGUI.php",
+        "line": 157,
+        "code": "$this->lng->txt(\"obj_taxf\")",
+        "has_variable": false,
+        "variable": "obj_taxf"
+    },
+    {
+        "id": 39458,
+        "file": "components\/ILIAS\/Taxonomy\/Settings\/class.ilTaxonomySettingsGUI.php",
+        "line": 158,
+        "code": "$this->lng->txt(\"obj_tax\")",
+        "has_variable": false,
+        "variable": "obj_tax"
+    },
+    {
+        "id": 39460,
+        "file": "components\/ILIAS\/Taxonomy\/classes\/class.ilObjTaxonomyAdministrationGUI.php",
+        "line": 74,
+        "code": "$this->lng->txt(\"tax_admin_settings_repository\")",
+        "has_variable": false,
+        "variable": "tax_admin_settings_repository"
+    },
+    {
+        "id": 39462,
+        "file": "components\/ILIAS\/Taxonomy\/classes\/class.ilObjTaxonomyAdministrationGUI.php",
+        "line": 82,
+        "code": "$this->lng->txt(\"perm_settings\")",
+        "has_variable": false,
+        "variable": "perm_settings"
+    },
+    {
+        "id": 39464,
+        "file": "components\/ILIAS\/Taxonomy\/classes\/class.ilObjTaxonomyGUI.php",
+        "line": 195,
+        "code": "$lng->txt(\"tax_create_node\")",
+        "has_variable": false,
+        "variable": "tax_create_node"
+    },
+    {
+        "id": 39466,
+        "file": "components\/ILIAS\/Taxonomy\/classes\/class.ilObjTaxonomyGUI.php",
+        "line": 280,
+        "code": "$lng->txt(\"tax_added\")",
+        "has_variable": false,
+        "variable": "tax_added"
+    },
+    {
+        "id": 39468,
+        "file": "components\/ILIAS\/Taxonomy\/classes\/class.ilObjTaxonomyGUI.php",
+        "line": 357,
+        "code": "$this->lng->txt(\"title\")",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 39470,
+        "file": "components\/ILIAS\/Taxonomy\/classes\/class.ilObjTaxonomyGUI.php",
+        "line": 364,
+        "code": "$this->lng->txt(\"tax_order_nr\")",
+        "has_variable": false,
+        "variable": "tax_order_nr"
+    },
+    {
+        "id": 39472,
+        "file": "components\/ILIAS\/Taxonomy\/classes\/class.ilObjTaxonomyGUI.php",
+        "line": 380,
+        "code": "$lng->txt(\"save\")",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 39474,
+        "file": "components\/ILIAS\/Taxonomy\/classes\/class.ilObjTaxonomyGUI.php",
+        "line": 381,
+        "code": "$lng->txt(\"cancel\")",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 39476,
+        "file": "components\/ILIAS\/Taxonomy\/classes\/class.ilObjTaxonomyGUI.php",
+        "line": 382,
+        "code": "$lng->txt(\"tax_new_tax_node\")",
+        "has_variable": false,
+        "variable": "tax_new_tax_node"
+    },
+    {
+        "id": 39478,
+        "file": "components\/ILIAS\/Taxonomy\/classes\/class.ilObjTaxonomyGUI.php",
+        "line": 384,
+        "code": "$lng->txt(\"save\")",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 39480,
+        "file": "components\/ILIAS\/Taxonomy\/classes\/class.ilObjTaxonomyGUI.php",
+        "line": 385,
+        "code": "$lng->txt(\"cancel\")",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 39482,
+        "file": "components\/ILIAS\/Taxonomy\/classes\/class.ilObjTaxonomyGUI.php",
+        "line": 386,
+        "code": "$lng->txt(\"tax_edit_tax_node\")",
+        "has_variable": false,
+        "variable": "tax_edit_tax_node"
+    },
+    {
+        "id": 39484,
+        "file": "components\/ILIAS\/Taxonomy\/classes\/class.ilObjTaxonomyGUI.php",
+        "line": 427,
+        "code": "$lng->txt(\"msg_obj_modified\")",
+        "has_variable": false,
+        "variable": "msg_obj_modified"
+    },
+    {
+        "id": 39486,
+        "file": "components\/ILIAS\/Taxonomy\/classes\/class.ilObjTaxonomyGUI.php",
+        "line": 457,
+        "code": "$lng->txt(\"msg_obj_modified\")",
+        "has_variable": false,
+        "variable": "msg_obj_modified"
+    },
+    {
+        "id": 39488,
+        "file": "components\/ILIAS\/Taxonomy\/classes\/class.ilObjTaxonomyGUI.php",
+        "line": 478,
+        "code": "$this->lng->txt(\"no_checkbox\")",
+        "has_variable": false,
+        "variable": "no_checkbox"
+    },
+    {
+        "id": 39490,
+        "file": "components\/ILIAS\/Taxonomy\/classes\/class.ilObjTaxonomyGUI.php",
+        "line": 490,
+        "code": "$this->lng->txt(\"info_delete_sure\")",
+        "has_variable": false,
+        "variable": "info_delete_sure"
+    },
+    {
+        "id": 39492,
+        "file": "components\/ILIAS\/Taxonomy\/classes\/class.ilObjTaxonomyGUI.php",
+        "line": 501,
+        "code": "$lng->txt(\"cancel\")",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 39494,
+        "file": "components\/ILIAS\/Taxonomy\/classes\/class.ilObjTaxonomyGUI.php",
+        "line": 502,
+        "code": "$lng->txt(\"confirm\")",
+        "has_variable": false,
+        "variable": "confirm"
+    },
+    {
+        "id": 39496,
+        "file": "components\/ILIAS\/Taxonomy\/classes\/class.ilObjTaxonomyGUI.php",
+        "line": 531,
+        "code": "$this->lng->txt(\"info_deleted\")",
+        "has_variable": false,
+        "variable": "info_deleted"
+    },
+    {
+        "id": 39498,
+        "file": "components\/ILIAS\/Taxonomy\/classes\/class.ilObjTaxonomyGUI.php",
+        "line": 562,
+        "code": "$lng->txt(\"msg_obj_modified\")",
+        "has_variable": false,
+        "variable": "msg_obj_modified"
+    },
+    {
+        "id": 39500,
+        "file": "components\/ILIAS\/Taxonomy\/classes\/class.ilObjTaxonomyGUI.php",
+        "line": 578,
+        "code": "$this->lng->txt(\"no_checkbox\")",
+        "has_variable": false,
+        "variable": "no_checkbox"
+    },
+    {
+        "id": 39502,
+        "file": "components\/ILIAS\/Taxonomy\/classes\/class.ilObjTaxonomyGUI.php",
+        "line": 586,
+        "code": "$lng->txt(\"cancel\")",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 39504,
+        "file": "components\/ILIAS\/Taxonomy\/classes\/class.ilObjTaxonomyGUI.php",
+        "line": 590,
+        "code": "$lng->txt(\"tax_please_select_target\")",
+        "has_variable": false,
+        "variable": "tax_please_select_target"
+    },
+    {
+        "id": 39506,
+        "file": "components\/ILIAS\/Taxonomy\/classes\/class.ilObjTaxonomyGUI.php",
+        "line": 633,
+        "code": "$lng->txt(\"tax_target_within_nodes\")",
+        "has_variable": false,
+        "variable": "tax_target_within_nodes"
+    },
+    {
+        "id": 39508,
+        "file": "components\/ILIAS\/Taxonomy\/classes\/class.ilObjTaxonomyGUI.php",
+        "line": 648,
+        "code": "$lng->txt(\"msg_obj_modified\")",
+        "has_variable": false,
+        "variable": "msg_obj_modified"
+    },
+    {
+        "id": 39510,
+        "file": "components\/ILIAS\/Taxonomy\/classes\/class.ilObjTaxonomyGUI.php",
+        "line": 665,
+        "code": "$lng->txt(\"tax_confirm_deletion\")",
+        "has_variable": false,
+        "variable": "tax_confirm_deletion"
+    },
+    {
+        "id": 39512,
+        "file": "components\/ILIAS\/Taxonomy\/classes\/class.ilObjTaxonomyGUI.php",
+        "line": 666,
+        "code": "$lng->txt(\"cancel\")",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 39514,
+        "file": "components\/ILIAS\/Taxonomy\/classes\/class.ilObjTaxonomyGUI.php",
+        "line": 667,
+        "code": "$lng->txt(\"delete\")",
+        "has_variable": false,
+        "variable": "delete"
+    },
+    {
+        "id": 39516,
+        "file": "components\/ILIAS\/Taxonomy\/classes\/class.ilObjTaxonomyGUI.php",
+        "line": 685,
+        "code": "$lng->txt(\"tax_tax_deleted\")",
+        "has_variable": false,
+        "variable": "tax_tax_deleted"
+    },
+    {
+        "id": 39518,
+        "file": "components\/ILIAS\/Taxonomy\/classes\/class.ilObjTaxonomyGUI.php",
+        "line": 702,
+        "code": "$lng->txt(\"tax_add_taxonomy\")",
+        "has_variable": false,
+        "variable": "tax_add_taxonomy"
+    },
+    {
+        "id": 39520,
+        "file": "components\/ILIAS\/Taxonomy\/classes\/class.ilObjTaxonomyGUI.php",
+        "line": 706,
+        "code": "$lng->txt(\"tax_max_one_tax\")",
+        "has_variable": false,
+        "variable": "tax_max_one_tax"
+    },
+    {
+        "id": 39522,
+        "file": "components\/ILIAS\/Taxonomy\/classes\/class.ilObjTaxonomyGUI.php",
+        "line": 749,
+        "code": "$lng->txt(\"back\")",
+        "has_variable": false,
+        "variable": "back"
+    },
+    {
+        "id": 39524,
+        "file": "components\/ILIAS\/Taxonomy\/classes\/class.ilObjTaxonomyGUI.php",
+        "line": 755,
+        "code": "$lng->txt(\"tax_nodes\")",
+        "has_variable": false,
+        "variable": "tax_nodes"
+    },
+    {
+        "id": 39526,
+        "file": "components\/ILIAS\/Taxonomy\/classes\/class.ilObjTaxonomyGUI.php",
+        "line": 761,
+        "code": "$lng->txt(\"tax_assigned_items\")",
+        "has_variable": false,
+        "variable": "tax_assigned_items"
+    },
+    {
+        "id": 39528,
+        "file": "components\/ILIAS\/Taxonomy\/classes\/class.ilObjTaxonomyGUI.php",
+        "line": 767,
+        "code": "$lng->txt(\"settings\")",
+        "has_variable": false,
+        "variable": "settings"
+    },
+    {
+        "id": 39530,
+        "file": "components\/ILIAS\/Taxonomy\/classes\/class.ilObjTaxonomyGUI.php",
+        "line": 798,
+        "code": "$lng->txt(\"title\")",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 39532,
+        "file": "components\/ILIAS\/Taxonomy\/classes\/class.ilObjTaxonomyGUI.php",
+        "line": 805,
+        "code": "$lng->txt(\"description\")",
+        "has_variable": false,
+        "variable": "description"
+    },
+    {
+        "id": 39534,
+        "file": "components\/ILIAS\/Taxonomy\/classes\/class.ilObjTaxonomyGUI.php",
+        "line": 813,
+        "code": "$lng->txt(\"tax_alphabetical\")",
+        "has_variable": false,
+        "variable": "tax_alphabetical"
+    },
+    {
+        "id": 39536,
+        "file": "components\/ILIAS\/Taxonomy\/classes\/class.ilObjTaxonomyGUI.php",
+        "line": 814,
+        "code": "$lng->txt(\"tax_manual\")",
+        "has_variable": false,
+        "variable": "tax_manual"
+    },
+    {
+        "id": 39538,
+        "file": "components\/ILIAS\/Taxonomy\/classes\/class.ilObjTaxonomyGUI.php",
+        "line": 816,
+        "code": "$lng->txt(\"tax_node_sorting\")",
+        "has_variable": false,
+        "variable": "tax_node_sorting"
+    },
+    {
+        "id": 39540,
+        "file": "components\/ILIAS\/Taxonomy\/classes\/class.ilObjTaxonomyGUI.php",
+        "line": 824,
+        "code": "$lng->txt(\"tax_item_sorting\")",
+        "has_variable": false,
+        "variable": "tax_item_sorting"
+    },
+    {
+        "id": 39542,
+        "file": "components\/ILIAS\/Taxonomy\/classes\/class.ilObjTaxonomyGUI.php",
+        "line": 829,
+        "code": "$lng->txt(\"save\")",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 39544,
+        "file": "components\/ILIAS\/Taxonomy\/classes\/class.ilObjTaxonomyGUI.php",
+        "line": 831,
+        "code": "$lng->txt(\"settings\")",
+        "has_variable": false,
+        "variable": "settings"
+    },
+    {
+        "id": 39546,
+        "file": "components\/ILIAS\/Taxonomy\/classes\/class.ilObjTaxonomyGUI.php",
+        "line": 855,
+        "code": "$lng->txt(\"msg_obj_modified\")",
+        "has_variable": false,
+        "variable": "msg_obj_modified"
+    },
+    {
+        "id": 39548,
+        "file": "components\/ILIAS\/Taxonomy\/classes\/class.ilObjTaxonomyGUI.php",
+        "line": 918,
+        "code": "$lng->txt(\"msg_obj_modified\")",
+        "has_variable": false,
+        "variable": "msg_obj_modified"
+    },
+    {
+        "id": 39550,
+        "file": "components\/ILIAS\/Taxonomy\/classes\/class.ilTaxAssignInputGUI.php",
+        "line": 45,
+        "code": "$lng->txt(\"tax_taxonomy\")",
+        "has_variable": false,
+        "variable": "tax_taxonomy"
+    },
+    {
+        "id": 39552,
+        "file": "components\/ILIAS\/Taxonomy\/classes\/class.ilTaxAssignInputGUI.php",
+        "line": 99,
+        "code": "$lng->txt(\"please_select\")",
+        "has_variable": false,
+        "variable": "please_select"
+    },
+    {
+        "id": 39554,
+        "file": "components\/ILIAS\/Taxonomy\/classes\/class.ilTaxAssignedItemsTableGUI.php",
+        "line": 68,
+        "code": "$lng->txt(\"tax_assigned_items\")",
+        "has_variable": false,
+        "variable": "tax_assigned_items"
+    },
+    {
+        "id": 39556,
+        "file": "components\/ILIAS\/Taxonomy\/classes\/class.ilTaxAssignedItemsTableGUI.php",
+        "line": 70,
+        "code": "$this->lng->txt(\"tax_order\")",
+        "has_variable": false,
+        "variable": "tax_order"
+    },
+    {
+        "id": 39558,
+        "file": "components\/ILIAS\/Taxonomy\/classes\/class.ilTaxAssignedItemsTableGUI.php",
+        "line": 74,
+        "code": "$this->lng->txt(\"title\")",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 39560,
+        "file": "components\/ILIAS\/Taxonomy\/classes\/class.ilTaxAssignedItemsTableGUI.php",
+        "line": 78,
+        "code": "$lng->txt(\"save\")",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 39562,
+        "file": "components\/ILIAS\/Taxonomy\/classes\/class.ilTaxMDGUI.php",
+        "line": 111,
+        "code": "$this->lng->txt(\"msg_obj_modified\")",
+        "has_variable": false,
+        "variable": "msg_obj_modified"
+    },
+    {
+        "id": 39564,
+        "file": "components\/ILIAS\/Taxonomy\/classes\/class.ilTaxMDGUI.php",
+        "line": 127,
+        "code": "$this->lng->txt(\"save\")",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 39566,
+        "file": "components\/ILIAS\/Taxonomy\/classes\/class.ilTaxMDGUI.php",
+        "line": 128,
+        "code": "$this->lng->txt(\"tax_tax_assignment\")",
+        "has_variable": false,
+        "variable": "tax_tax_assignment"
+    },
+    {
+        "id": 39568,
+        "file": "components\/ILIAS\/Taxonomy\/classes\/class.ilTaxMDGUI.php",
+        "line": 230,
+        "code": "$lng->txt(\"tax_tax_assignment\")",
+        "has_variable": false,
+        "variable": "tax_tax_assignment"
+    },
+    {
+        "id": 39570,
+        "file": "components\/ILIAS\/Taxonomy\/classes\/class.ilTaxonomyAdministrationRepositoryTableGUI.php",
+        "line": 43,
+        "code": "$this->lng->txt(\"obj_tax\")",
+        "has_variable": false,
+        "variable": "obj_tax"
+    },
+    {
+        "id": 39572,
+        "file": "components\/ILIAS\/Taxonomy\/classes\/class.ilTaxonomyAdministrationRepositoryTableGUI.php",
+        "line": 44,
+        "code": "$this->lng->txt(\"status\")",
+        "has_variable": false,
+        "variable": "status"
+    },
+    {
+        "id": 39574,
+        "file": "components\/ILIAS\/Taxonomy\/classes\/class.ilTaxonomyAdministrationRepositoryTableGUI.php",
+        "line": 45,
+        "code": "$this->lng->txt(\"object\")",
+        "has_variable": false,
+        "variable": "object"
+    },
+    {
+        "id": 39576,
+        "file": "components\/ILIAS\/Taxonomy\/classes\/class.ilTaxonomyAdministrationRepositoryTableGUI.php",
+        "line": 98,
+        "code": "$this->lng->txt(\"active\")",
+        "has_variable": false,
+        "variable": "active"
+    },
+    {
+        "id": 39578,
+        "file": "components\/ILIAS\/Taxonomy\/classes\/class.ilTaxonomyAdministrationRepositoryTableGUI.php",
+        "line": 101,
+        "code": "$this->lng->txt(\"inactive\")",
+        "has_variable": false,
+        "variable": "inactive"
+    },
+    {
+        "id": 39580,
+        "file": "components\/ILIAS\/Taxonomy\/classes\/class.ilTaxonomyListTableGUI.php",
+        "line": 46,
+        "code": "$lng->txt(\"obj_taxf\")",
+        "has_variable": false,
+        "variable": "obj_taxf"
+    },
+    {
+        "id": 39582,
+        "file": "components\/ILIAS\/Taxonomy\/classes\/class.ilTaxonomyListTableGUI.php",
+        "line": 49,
+        "code": "$this->lng->txt(\"title\")",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 39584,
+        "file": "components\/ILIAS\/Taxonomy\/classes\/class.ilTaxonomyListTableGUI.php",
+        "line": 50,
+        "code": "$this->lng->txt(\"description\")",
+        "has_variable": false,
+        "variable": "description"
+    },
+    {
+        "id": 39586,
+        "file": "components\/ILIAS\/Taxonomy\/classes\/class.ilTaxonomyListTableGUI.php",
+        "line": 51,
+        "code": "$this->lng->txt(\"actions\")",
+        "has_variable": false,
+        "variable": "actions"
+    },
+    {
+        "id": 39588,
+        "file": "components\/ILIAS\/Taxonomy\/classes\/class.ilTaxonomyListTableGUI.php",
+        "line": 76,
+        "code": "$lng->txt(\"edit\")",
+        "has_variable": false,
+        "variable": "edit"
+    },
+    {
+        "id": 39590,
+        "file": "components\/ILIAS\/Taxonomy\/classes\/class.ilTaxonomyListTableGUI.php",
+        "line": 80,
+        "code": "$lng->txt(\"delete\")",
+        "has_variable": false,
+        "variable": "delete"
+    },
+    {
+        "id": 39592,
+        "file": "components\/ILIAS\/Taxonomy\/classes\/class.ilTaxonomyTableGUI.php",
+        "line": 76,
+        "code": "$lng->txt(\"tax_nodes\")",
+        "has_variable": false,
+        "variable": "tax_nodes"
+    },
+    {
+        "id": 39594,
+        "file": "components\/ILIAS\/Taxonomy\/classes\/class.ilTaxonomyTableGUI.php",
+        "line": 78,
+        "code": "$this->lng->txt(\"\")",
+        "has_variable": true,
+        "variable": ""
+    },
+    {
+        "id": 39596,
+        "file": "components\/ILIAS\/Taxonomy\/classes\/class.ilTaxonomyTableGUI.php",
+        "line": 80,
+        "code": "$this->lng->txt(\"tax_order\")",
+        "has_variable": false,
+        "variable": "tax_order"
+    },
+    {
+        "id": 39598,
+        "file": "components\/ILIAS\/Taxonomy\/classes\/class.ilTaxonomyTableGUI.php",
+        "line": 84,
+        "code": "$this->lng->txt(\"title\")",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 39600,
+        "file": "components\/ILIAS\/Taxonomy\/classes\/class.ilTaxonomyTableGUI.php",
+        "line": 89,
+        "code": "$lng->txt(\"delete\")",
+        "has_variable": false,
+        "variable": "delete"
+    },
+    {
+        "id": 39602,
+        "file": "components\/ILIAS\/Taxonomy\/classes\/class.ilTaxonomyTableGUI.php",
+        "line": 90,
+        "code": "$lng->txt(\"move\")",
+        "has_variable": false,
+        "variable": "move"
+    },
+    {
+        "id": 39604,
+        "file": "components\/ILIAS\/Taxonomy\/classes\/class.ilTaxonomyTableGUI.php",
+        "line": 91,
+        "code": "$lng->txt(\"save\")",
+        "has_variable": false,
+        "variable": "save"
+    }
+]

@@ -1,0 +1,442 @@
+[
+    {
+        "id": 2440,
+        "file": "components\/ILIAS\/Awareness\/Administration\/class.ilObjAwarenessAdministrationGUI.php",
+        "line": 95,
+        "code": "$this->lng->txt(\"settings\")",
+        "has_variable": false,
+        "variable": "settings"
+    },
+    {
+        "id": 2442,
+        "file": "components\/ILIAS\/Awareness\/Administration\/class.ilObjAwarenessAdministrationGUI.php",
+        "line": 103,
+        "code": "$this->lng->txt(\"perm_settings\")",
+        "has_variable": false,
+        "variable": "perm_settings"
+    },
+    {
+        "id": 2444,
+        "file": "components\/ILIAS\/Awareness\/Administration\/class.ilObjAwarenessAdministrationGUI.php",
+        "line": 113,
+        "code": "$this->lng->txt(\"settings\")",
+        "has_variable": false,
+        "variable": "settings"
+    },
+    {
+        "id": 2446,
+        "file": "components\/ILIAS\/Awareness\/Administration\/class.ilObjAwarenessAdministrationGUI.php",
+        "line": 119,
+        "code": "$this->lng->txt(\"user_actions\")",
+        "has_variable": false,
+        "variable": "user_actions"
+    },
+    {
+        "id": 2448,
+        "file": "components\/ILIAS\/Awareness\/Administration\/class.ilObjAwarenessAdministrationGUI.php",
+        "line": 178,
+        "code": "$this->lng->txt(\"settings_saved\")",
+        "has_variable": false,
+        "variable": "settings_saved"
+    },
+    {
+        "id": 2450,
+        "file": "components\/ILIAS\/Awareness\/Administration\/class.ilObjAwarenessAdministrationGUI.php",
+        "line": 202,
+        "code": "$this->lng->txt('awareness_settings')",
+        "has_variable": false,
+        "variable": "awareness_settings"
+    },
+    {
+        "id": 2452,
+        "file": "components\/ILIAS\/Awareness\/Administration\/class.ilObjAwarenessAdministrationGUI.php",
+        "line": 205,
+        "code": "$this->lng->txt('save')",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 2454,
+        "file": "components\/ILIAS\/Awareness\/Administration\/class.ilObjAwarenessAdministrationGUI.php",
+        "line": 206,
+        "code": "$this->lng->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 2456,
+        "file": "components\/ILIAS\/Awareness\/Administration\/class.ilObjAwarenessAdministrationGUI.php",
+        "line": 209,
+        "code": "$lng->txt(\"awrn_enable\")",
+        "has_variable": false,
+        "variable": "awrn_enable"
+    },
+    {
+        "id": 2458,
+        "file": "components\/ILIAS\/Awareness\/Administration\/class.ilObjAwarenessAdministrationGUI.php",
+        "line": 216,
+        "code": "$this->lng->txt(\"awrn_caching_period\")",
+        "has_variable": false,
+        "variable": "awrn_caching_period"
+    },
+    {
+        "id": 2460,
+        "file": "components\/ILIAS\/Awareness\/Administration\/class.ilObjAwarenessAdministrationGUI.php",
+        "line": 217,
+        "code": "$this->lng->txt(\"awrn_caching_period_info\")",
+        "has_variable": false,
+        "variable": "awrn_caching_period_info"
+    },
+    {
+        "id": 2462,
+        "file": "components\/ILIAS\/Awareness\/Administration\/class.ilObjAwarenessAdministrationGUI.php",
+        "line": 218,
+        "code": "$this->lng->txt(\"awrn_seconds\")",
+        "has_variable": false,
+        "variable": "awrn_seconds"
+    },
+    {
+        "id": 2464,
+        "file": "components\/ILIAS\/Awareness\/Administration\/class.ilObjAwarenessAdministrationGUI.php",
+        "line": 225,
+        "code": "$this->lng->txt(\"awrn_max_nr_entries\")",
+        "has_variable": false,
+        "variable": "awrn_max_nr_entries"
+    },
+    {
+        "id": 2466,
+        "file": "components\/ILIAS\/Awareness\/Administration\/class.ilObjAwarenessAdministrationGUI.php",
+        "line": 226,
+        "code": "$this->lng->txt(\"awrn_max_nr_entries_info\")",
+        "has_variable": false,
+        "variable": "awrn_max_nr_entries_info"
+    },
+    {
+        "id": 2468,
+        "file": "components\/ILIAS\/Awareness\/Administration\/class.ilObjAwarenessAdministrationGUI.php",
+        "line": 237,
+        "code": "$lng->txt(\"awrn_max_inactivity\")",
+        "has_variable": false,
+        "variable": "awrn_max_inactivity"
+    },
+    {
+        "id": 2470,
+        "file": "components\/ILIAS\/Awareness\/Administration\/class.ilObjAwarenessAdministrationGUI.php",
+        "line": 240,
+        "code": "$this->lng->txt(\"awrn_minutes\")",
+        "has_variable": false,
+        "variable": "awrn_minutes"
+    },
+    {
+        "id": 2472,
+        "file": "components\/ILIAS\/Awareness\/Administration\/class.ilObjAwarenessAdministrationGUI.php",
+        "line": 244,
+        "code": "$lng->txt(\"awrn_max_inactivity_info\")",
+        "has_variable": false,
+        "variable": "awrn_max_inactivity_info"
+    },
+    {
+        "id": 2474,
+        "file": "components\/ILIAS\/Awareness\/Administration\/class.ilObjAwarenessAdministrationGUI.php",
+        "line": 250,
+        "code": "$this->lng->txt(\"awrn_use_osd\")",
+        "has_variable": false,
+        "variable": "awrn_use_osd"
+    },
+    {
+        "id": 2476,
+        "file": "components\/ILIAS\/Awareness\/Administration\/class.ilObjAwarenessAdministrationGUI.php",
+        "line": 251,
+        "code": "$this->lng->txt(\"awrn_use_osd_info\")",
+        "has_variable": false,
+        "variable": "awrn_use_osd_info"
+    },
+    {
+        "id": 2478,
+        "file": "components\/ILIAS\/Awareness\/Administration\/class.ilObjAwarenessAdministrationGUI.php",
+        "line": 255,
+        "code": "$this->lng->txt('awrn_user_show_default')",
+        "has_variable": false,
+        "variable": "awrn_user_show_default"
+    },
+    {
+        "id": 2480,
+        "file": "components\/ILIAS\/Awareness\/Administration\/class.ilObjAwarenessAdministrationGUI.php",
+        "line": 256,
+        "code": "$this->lng->txt('awrn_user_show_default_info')",
+        "has_variable": false,
+        "variable": "awrn_user_show_default_info"
+    },
+    {
+        "id": 2482,
+        "file": "components\/ILIAS\/Awareness\/Administration\/class.ilObjAwarenessAdministrationGUI.php",
+        "line": 258,
+        "code": "$this->lng->txt('user_awrn_show')",
+        "has_variable": false,
+        "variable": "user_awrn_show"
+    },
+    {
+        "id": 2484,
+        "file": "components\/ILIAS\/Awareness\/Administration\/class.ilObjAwarenessAdministrationGUI.php",
+        "line": 259,
+        "code": "$this->lng->txt('user_awrn_hide')",
+        "has_variable": false,
+        "variable": "user_awrn_hide"
+    },
+    {
+        "id": 2486,
+        "file": "components\/ILIAS\/Awareness\/User\/class.ProviderAllUsers.php",
+        "line": 50,
+        "code": "$this->lng->txt(\"user_awrn_all_users\")",
+        "has_variable": false,
+        "variable": "user_awrn_all_users"
+    },
+    {
+        "id": 2488,
+        "file": "components\/ILIAS\/Awareness\/User\/class.ProviderAllUsers.php",
+        "line": 60,
+        "code": "$this->lng->txt(\"user_awrn_all_users_info\")",
+        "has_variable": false,
+        "variable": "user_awrn_all_users_info"
+    },
+    {
+        "id": 2490,
+        "file": "components\/ILIAS\/Awareness\/User\/class.ProviderCourseContacts.php",
+        "line": 56,
+        "code": "$this->lng->txt(\"crs_awrn_support_contacts\")",
+        "has_variable": false,
+        "variable": "crs_awrn_support_contacts"
+    },
+    {
+        "id": 2492,
+        "file": "components\/ILIAS\/Awareness\/User\/class.ProviderCourseContacts.php",
+        "line": 66,
+        "code": "$this->lng->txt(\"crs_awrn_support_contacts_info\")",
+        "has_variable": false,
+        "variable": "crs_awrn_support_contacts_info"
+    },
+    {
+        "id": 2494,
+        "file": "components\/ILIAS\/Awareness\/User\/class.ProviderCurrentCourse.php",
+        "line": 66,
+        "code": "$this->lng->txt(\"crs_awrn_current_course\")",
+        "has_variable": false,
+        "variable": "crs_awrn_current_course"
+    },
+    {
+        "id": 2496,
+        "file": "components\/ILIAS\/Awareness\/User\/class.ProviderCurrentCourse.php",
+        "line": 76,
+        "code": "$this->lng->txt(\"crs_awrn_current_course_info\")",
+        "has_variable": false,
+        "variable": "crs_awrn_current_course_info"
+    },
+    {
+        "id": 2498,
+        "file": "components\/ILIAS\/Awareness\/User\/class.ProviderMemberships.php",
+        "line": 56,
+        "code": "$this->lng->txt(\"mmbr_awrn_my_groups_courses\")",
+        "has_variable": false,
+        "variable": "mmbr_awrn_my_groups_courses"
+    },
+    {
+        "id": 2500,
+        "file": "components\/ILIAS\/Awareness\/User\/class.ProviderMemberships.php",
+        "line": 66,
+        "code": "$this->lng->txt(\"mmbr_awrn_my_groups_courses_info\")",
+        "has_variable": false,
+        "variable": "mmbr_awrn_my_groups_courses_info"
+    },
+    {
+        "id": 2502,
+        "file": "components\/ILIAS\/Awareness\/User\/class.ProviderSystemContacts.php",
+        "line": 50,
+        "code": "$this->lng->txt(\"adm_support_contacts\")",
+        "has_variable": false,
+        "variable": "adm_support_contacts"
+    },
+    {
+        "id": 2504,
+        "file": "components\/ILIAS\/Awareness\/User\/class.ProviderSystemContacts.php",
+        "line": 60,
+        "code": "$this->lng->txt(\"adm_awrn_support_contacts_info\")",
+        "has_variable": false,
+        "variable": "adm_awrn_support_contacts_info"
+    },
+    {
+        "id": 2506,
+        "file": "components\/ILIAS\/Awareness\/UserSettings\/ShowStatusInWhoIsOnline.php",
+        "line": 45,
+        "code": "$lng->txt($this->getIdentifier())",
+        "has_variable": true,
+        "variable": "$this->getIdentifier()"
+    },
+    {
+        "id": 2508,
+        "file": "components\/ILIAS\/Awareness\/UserSettings\/ShowStatusInWhoIsOnline.php",
+        "line": 66,
+        "code": "$lng->txt('user_awrn_show')",
+        "has_variable": false,
+        "variable": "user_awrn_show"
+    },
+    {
+        "id": 2510,
+        "file": "components\/ILIAS\/Awareness\/UserSettings\/ShowStatusInWhoIsOnline.php",
+        "line": 67,
+        "code": "$lng->txt('user_awrn_hide')",
+        "has_variable": false,
+        "variable": "user_awrn_hide"
+    },
+    {
+        "id": 2512,
+        "file": "components\/ILIAS\/Awareness\/UserSettings\/ShowStatusInWhoIsOnline.php",
+        "line": 70,
+        "code": "$lng->txt('awrn_user_show')",
+        "has_variable": false,
+        "variable": "awrn_user_show"
+    },
+    {
+        "id": 2514,
+        "file": "components\/ILIAS\/Awareness\/UserSettings\/ShowStatusInWhoIsOnline.php",
+        "line": 72,
+        "code": "$lng->txt('user_awrn_default')",
+        "has_variable": false,
+        "variable": "user_awrn_default"
+    },
+    {
+        "id": 2516,
+        "file": "components\/ILIAS\/Awareness\/UserSettings\/ShowStatusInWhoIsOnline.php",
+        "line": 73,
+        "code": "$lng->txt('user_awrn_show')",
+        "has_variable": false,
+        "variable": "user_awrn_show"
+    },
+    {
+        "id": 2518,
+        "file": "components\/ILIAS\/Awareness\/UserSettings\/ShowStatusInWhoIsOnline.php",
+        "line": 74,
+        "code": "$lng->txt('user_awrn_hide')",
+        "has_variable": false,
+        "variable": "user_awrn_hide"
+    },
+    {
+        "id": 2520,
+        "file": "components\/ILIAS\/Awareness\/UserSettings\/ShowStatusInWhoIsOnline.php",
+        "line": 76,
+        "code": "$lng->txt('awrn_hide_from_awareness_info')",
+        "has_variable": false,
+        "variable": "awrn_hide_from_awareness_info"
+    },
+    {
+        "id": 2522,
+        "file": "components\/ILIAS\/Awareness\/UserSettings\/ShowStatusInWhoIsOnline.php",
+        "line": 89,
+        "code": "$lng->txt('user_awrn_show')",
+        "has_variable": false,
+        "variable": "user_awrn_show"
+    },
+    {
+        "id": 2524,
+        "file": "components\/ILIAS\/Awareness\/UserSettings\/ShowStatusInWhoIsOnline.php",
+        "line": 90,
+        "code": "$lng->txt('user_awrn_hide')",
+        "has_variable": false,
+        "variable": "user_awrn_hide"
+    },
+    {
+        "id": 2526,
+        "file": "components\/ILIAS\/Awareness\/UserSettings\/ShowStatusInWhoIsOnline.php",
+        "line": 92,
+        "code": "$lng->txt('awrn_user_show')",
+        "has_variable": false,
+        "variable": "awrn_user_show"
+    },
+    {
+        "id": 2528,
+        "file": "components\/ILIAS\/Awareness\/UserSettings\/ShowStatusInWhoIsOnline.php",
+        "line": 95,
+        "code": "$lng->txt('user_awrn_default')",
+        "has_variable": false,
+        "variable": "user_awrn_default"
+    },
+    {
+        "id": 2530,
+        "file": "components\/ILIAS\/Awareness\/UserSettings\/ShowStatusInWhoIsOnline.php",
+        "line": 96,
+        "code": "$lng->txt('user_awrn_show')",
+        "has_variable": false,
+        "variable": "user_awrn_show"
+    },
+    {
+        "id": 2532,
+        "file": "components\/ILIAS\/Awareness\/UserSettings\/ShowStatusInWhoIsOnline.php",
+        "line": 97,
+        "code": "$lng->txt('user_awrn_hide')",
+        "has_variable": false,
+        "variable": "user_awrn_hide"
+    },
+    {
+        "id": 2534,
+        "file": "components\/ILIAS\/Awareness\/UserSettings\/ShowStatusInWhoIsOnline.php",
+        "line": 101,
+        "code": "$lng->txt('awrn_hide_from_awareness_info')",
+        "has_variable": false,
+        "variable": "awrn_hide_from_awareness_info"
+    },
+    {
+        "id": 2536,
+        "file": "components\/ILIAS\/Awareness\/UserSettings\/ShowStatusInWhoIsOnline.php",
+        "line": 113,
+        "code": "$lng->txt('user_awrn_show')",
+        "has_variable": false,
+        "variable": "user_awrn_show"
+    },
+    {
+        "id": 2538,
+        "file": "components\/ILIAS\/Awareness\/UserSettings\/ShowStatusInWhoIsOnline.php",
+        "line": 114,
+        "code": "$lng->txt('user_awrn_hide')",
+        "has_variable": false,
+        "variable": "user_awrn_hide"
+    },
+    {
+        "id": 2540,
+        "file": "components\/ILIAS\/Awareness\/classes\/class.AdminManager.php",
+        "line": 90,
+        "code": "$this->lng->txt(\"awrn_inactive\")",
+        "has_variable": false,
+        "variable": "awrn_inactive"
+    },
+    {
+        "id": 2542,
+        "file": "components\/ILIAS\/Awareness\/classes\/class.AdminManager.php",
+        "line": 91,
+        "code": "$this->lng->txt(\"awrn_online_only\")",
+        "has_variable": false,
+        "variable": "awrn_online_only"
+    },
+    {
+        "id": 2544,
+        "file": "components\/ILIAS\/Awareness\/classes\/class.AdminManager.php",
+        "line": 92,
+        "code": "$this->lng->txt(\"awrn_incl_offline\")",
+        "has_variable": false,
+        "variable": "awrn_incl_offline"
+    },
+    {
+        "id": 2546,
+        "file": "components\/ILIAS\/Awareness\/classes\/class.ilAwarenessGUI.php",
+        "line": 171,
+        "code": "$this->lng->txt(\"awrn_online\")",
+        "has_variable": false,
+        "variable": "awrn_online"
+    },
+    {
+        "id": 2548,
+        "file": "components\/ILIAS\/Awareness\/classes\/class.ilAwarenessGUI.php",
+        "line": 192,
+        "code": "$this->lng->txt(\"awrn_filter\")",
+        "has_variable": false,
+        "variable": "awrn_filter"
+    }
+]

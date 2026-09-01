@@ -1,0 +1,152 @@
+{
+    "metadata": {
+        "type": "full",
+        "count": 13,
+        "description": "Variable usages without detectable prefixes or suffixes (pure variable references without static strings)"
+    },
+    "matches": [
+        {
+            "id": 33116,
+            "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSCORMLearningModule.php",
+            "line": 90,
+            "code": "$this->lng->txt(\"Manifestfile $manifest_file not found!\")",
+            "variable": "Manifestfile $manifest_file not found!",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 33120,
+            "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilObjSCORMLearningModule.php",
+            "line": 145,
+            "code": "$this->lng->txt(\"Not enough space left on device!\")",
+            "variable": "Not enough space left on device!",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 33386,
+            "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilSCORMTrackingItems.php",
+            "line": 45,
+            "code": "$lng->txt($a_cols[$i])",
+            "variable": "_",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 33388,
+            "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilSCORMTrackingItems.php",
+            "line": 88,
+            "code": "$lng->txt($a_cols[$i])",
+            "variable": "_",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 33390,
+            "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilSCORMTrackingItems.php",
+            "line": 113,
+            "code": "$lng->txt($a_cols[$i])",
+            "variable": "_",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 33392,
+            "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilSCORMTrackingItems.php",
+            "line": 138,
+            "code": "$lng->txt($a_cols[$i])",
+            "variable": "_",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 33394,
+            "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilSCORMTrackingItems.php",
+            "line": 163,
+            "code": "$lng->txt($a_cols[$i])",
+            "variable": "_",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 33406,
+            "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilSCORMTrackingItemsPerScoFilterGUI.php",
+            "line": 64,
+            "code": "$lng->txt(strtolower($value))",
+            "variable": "\\$value",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 33424,
+            "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilSCORMTrackingItemsPerUserFilterGUI.php",
+            "line": 79,
+            "code": "$lng->txt(strtolower($value))",
+            "variable": "\\$value",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 33446,
+            "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilSCORMTrackingItemsTableGUI.php",
+            "line": 80,
+            "code": "$this->lng->txt($l)",
+            "variable": "$l",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 33448,
+            "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilSCORMTrackingItemsTableGUI.php",
+            "line": 82,
+            "code": "$this->lng->txt(substr($l, 0, 14))",
+            "variable": "\\$l",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 33450,
+            "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilSCORMTrackingItemsTableGUI.php",
+            "line": 85,
+            "code": "$this->lng->txt(substr($l, 0, 17))",
+            "variable": "\\$l",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 33452,
+            "file": "components\/ILIAS\/ScormAicc\/classes\/class.ilSCORMTrackingItemsTableGUI.php",
+            "line": 88,
+            "code": "$this->lng->txt(substr($l, 0, 23))",
+            "variable": "\\$l",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        }
+    ]
+}

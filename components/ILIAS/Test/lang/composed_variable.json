@@ -1,0 +1,80 @@
+{
+    "metadata": {
+        "type": "composed",
+        "count": 5,
+        "description": "Variable usages with detectable prefixes or suffixes"
+    },
+    "matches": [
+        {
+            "id": 40096,
+            "file": "components\/ILIAS\/Test\/classes\/class.ilObjTestGUI.php",
+            "line": 2550,
+            "code": "$this->lng->txt('tst_qst_added_to_pool_' . (count($result->ids) > 1 ? 'p' : 's'))",
+            "variable": "'tst_qst_added_to_pool_' . (count($result->ids) > 1 ? 'p' : 's')",
+            "has_variable": true,
+            "prefix": "tst_qst_added_to_pool_",
+            "suffix": "",
+            "matching_variables": [
+                "tst_qst_added_to_pool_p",
+                "tst_qst_added_to_pool_s"
+            ]
+        },
+        {
+            "id": 40680,
+            "file": "components\/ILIAS\/Test\/classes\/class.ilTestToplistGUI.php",
+            "line": 110,
+            "code": "$this->lng->txt('toplist_by_' . $order_by->getLabel())",
+            "variable": "'toplist_by_' . $order_by->getLabel()",
+            "has_variable": true,
+            "prefix": "toplist_by_",
+            "suffix": "",
+            "matching_variables": [
+                "toplist_by_score",
+                "toplist_by_time"
+            ]
+        },
+        {
+            "id": 40682,
+            "file": "components\/ILIAS\/Test\/classes\/class.ilTestToplistGUI.php",
+            "line": 118,
+            "code": "$this->lng->txt('toplist_by_' . $order_by->getLabel())",
+            "variable": "'toplist_by_' . $order_by->getLabel()",
+            "has_variable": true,
+            "prefix": "toplist_by_",
+            "suffix": "",
+            "matching_variables": [
+                "toplist_by_score",
+                "toplist_by_time"
+            ]
+        },
+        {
+            "id": 40836,
+            "file": "components\/ILIAS\/Test\/src\/ExportImport\/ResultsExportExcel.php",
+            "line": 310,
+            "code": "$this->lng->txt('gender_' . $userfields['gender'])",
+            "variable": "'gender_' . $userfields['gender']",
+            "has_variable": true,
+            "prefix": "gender_",
+            "suffix": "",
+            "matching_variables": [
+                "gender_f",
+                "gender_m",
+                "gender_n"
+            ]
+        },
+        {
+            "id": 41520,
+            "file": "components\/ILIAS\/Test\/src\/Questions\/RandomQuestionSetNonAvailablePoolsTable.php",
+            "line": 62,
+            "code": "$this->lng->txt('tst_non_avail_pool_msg_status_' . $record['status'])",
+            "variable": "'tst_non_avail_pool_msg_status_' . $record['status']",
+            "has_variable": true,
+            "prefix": "tst_non_avail_pool_msg_status_",
+            "suffix": "",
+            "matching_variables": [
+                "tst_non_avail_pool_msg_status_lost",
+                "tst_non_avail_pool_msg_status_trashed"
+            ]
+        }
+    ]
+}

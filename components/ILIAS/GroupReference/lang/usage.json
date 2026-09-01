@@ -1,0 +1,18 @@
+[
+    {
+        "id": 19794,
+        "file": "components\/ILIAS\/GroupReference\/classes\/class.ilObjGroupReferenceListGUI.php",
+        "line": 145,
+        "code": "$lng->txt(\"status\")",
+        "has_variable": false,
+        "variable": "status"
+    },
+    {
+        "id": 19796,
+        "file": "components\/ILIAS\/GroupReference\/classes\/class.ilObjGroupReferenceListGUI.php",
+        "line": 146,
+        "code": "$lng->txt(\"reference_deleted\")",
+        "has_variable": false,
+        "variable": "reference_deleted"
+    }
+]

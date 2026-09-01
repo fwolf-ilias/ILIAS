@@ -1,0 +1,163 @@
+{
+    "metadata": {
+        "type": "full",
+        "count": 14,
+        "description": "Variable usages without detectable prefixes or suffixes (pure variable references without static strings)"
+    },
+    "matches": [
+        {
+            "id": 24502,
+            "file": "components\/ILIAS\/LearningSequence\/classes\/Members\/class.ilLearningSequenceMembershipGUI.php",
+            "line": 315,
+            "code": "$this->lng->txt($data['progress'])",
+            "variable": "\\$data",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 24524,
+            "file": "components\/ILIAS\/LearningSequence\/classes\/Members\/class.ilLearningSequenceParticipantsTableGUI.php",
+            "line": 103,
+            "code": "$this->lng->txt('')",
+            "variable": "",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 24546,
+            "file": "components\/ILIAS\/LearningSequence\/classes\/Player\/LSControlBuilder.php",
+            "line": 145,
+            "code": "$this->lng->txt($label)",
+            "variable": "$label",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 24564,
+            "file": "components\/ILIAS\/LearningSequence\/classes\/Player\/class.ilLSLaunchlinksBuilder.php",
+            "line": 99,
+            "code": "$this->lng->txt($label)",
+            "variable": "$label",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 24600,
+            "file": "components\/ILIAS\/LearningSequence\/classes\/Settings\/class.ilObjLearningSequenceSettingsGUI.php",
+            "line": 105,
+            "code": "$this->lng->txt($id)",
+            "variable": "$id",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 24652,
+            "file": "components\/ILIAS\/LearningSequence\/classes\/class.ilObjLearningSequenceGUI.php",
+            "line": 745,
+            "code": "$this->lng->txt(self::TAB_CONTENT_MAIN)",
+            "variable": "TAB_CONTENT_MAIN",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 24654,
+            "file": "components\/ILIAS\/LearningSequence\/classes\/class.ilObjLearningSequenceGUI.php",
+            "line": 753,
+            "code": "$this->lng->txt(self::TAB_INFO)",
+            "variable": "TAB_INFO",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 24656,
+            "file": "components\/ILIAS\/LearningSequence\/classes\/class.ilObjLearningSequenceGUI.php",
+            "line": 761,
+            "code": "$this->lng->txt(self::TAB_SETTINGS)",
+            "variable": "TAB_SETTINGS",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 24660,
+            "file": "components\/ILIAS\/LearningSequence\/classes\/class.ilObjLearningSequenceGUI.php",
+            "line": 791,
+            "code": "$this->lng->txt(self::TAB_MEMBERS)",
+            "variable": "TAB_MEMBERS",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 24662,
+            "file": "components\/ILIAS\/LearningSequence\/classes\/class.ilObjLearningSequenceGUI.php",
+            "line": 800,
+            "code": "$this->lng->txt(self::TAB_LP)",
+            "variable": "TAB_LP",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 24664,
+            "file": "components\/ILIAS\/LearningSequence\/classes\/class.ilObjLearningSequenceGUI.php",
+            "line": 808,
+            "code": "$this->lng->txt(self::TAB_EXPORT)",
+            "variable": "TAB_EXPORT",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 24666,
+            "file": "components\/ILIAS\/LearningSequence\/classes\/class.ilObjLearningSequenceGUI.php",
+            "line": 816,
+            "code": "$this->lng->txt(self::TAB_PERMISSIONS)",
+            "variable": "TAB_PERMISSIONS",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 24668,
+            "file": "components\/ILIAS\/LearningSequence\/classes\/class.ilObjLearningSequenceGUI.php",
+            "line": 826,
+            "code": "$this->lng->txt(self::TAB_VIEW_CONTENT)",
+            "variable": "TAB_VIEW_CONTENT",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 24670,
+            "file": "components\/ILIAS\/LearningSequence\/classes\/class.ilObjLearningSequenceGUI.php",
+            "line": 833,
+            "code": "$this->lng->txt(self::TAB_MANAGE)",
+            "variable": "TAB_MANAGE",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        }
+    ]
+}

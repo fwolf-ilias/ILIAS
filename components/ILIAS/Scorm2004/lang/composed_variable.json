@@ -1,0 +1,25 @@
+{
+    "metadata": {
+        "type": "composed",
+        "count": 1,
+        "description": "Variable usages with detectable prefixes or suffixes"
+    },
+    "matches": [
+        {
+            "id": 32190,
+            "file": "components\/ILIAS\/Scorm2004\/classes\/class.ilObjSCORM2004LearningModuleGUI.php",
+            "line": 152,
+            "code": "$this->lng->txt(\"lm_type_\" . ilObjSAHSLearningModule::_lookupSubType($this->object->getID()))",
+            "variable": "\"lm_type_\" . ilObjSAHSLearningModule::_lookupSubType($this->object->getID())",
+            "has_variable": true,
+            "prefix": "lm_type_",
+            "suffix": "",
+            "matching_variables": [
+                "lm_type_scorm",
+                "lm_type_scorm2004",
+                "lm_type_scorm2004_info",
+                "lm_type_scorm_info"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,898 @@
+[
+    {
+        "id": 1040,
+        "file": "components\/ILIAS\/Administration\/GlobalScreen\/classes\/AdministrationMainBarProvider.php",
+        "line": 169,
+        "code": "$lng->txt(\"objs_orgu\")",
+        "has_variable": false,
+        "variable": "objs_orgu"
+    },
+    {
+        "id": 1042,
+        "file": "components\/ILIAS\/Administration\/GlobalScreen\/classes\/AdministrationMainBarProvider.php",
+        "line": 177,
+        "code": "$lng->txt(\"repository_admin\")",
+        "has_variable": false,
+        "variable": "repository_admin"
+    },
+    {
+        "id": 1044,
+        "file": "components\/ILIAS\/Administration\/GlobalScreen\/classes\/AdministrationMainBarProvider.php",
+        "line": 184,
+        "code": "$lng->txt(\"repository_admin\")",
+        "has_variable": false,
+        "variable": "repository_admin"
+    },
+    {
+        "id": 1046,
+        "file": "components\/ILIAS\/Administration\/GlobalScreen\/classes\/AdministrationMainBarProvider.php",
+        "line": 185,
+        "code": "$lng->txt(\"repository_admin_desc\")",
+        "has_variable": false,
+        "variable": "repository_admin_desc"
+    },
+    {
+        "id": 1048,
+        "file": "components\/ILIAS\/Administration\/GlobalScreen\/classes\/AdministrationMainBarProvider.php",
+        "line": 186,
+        "code": "$lng->txt(\"repository_admin_desc\")",
+        "has_variable": false,
+        "variable": "repository_admin_desc"
+    },
+    {
+        "id": 1050,
+        "file": "components\/ILIAS\/Administration\/GlobalScreen\/classes\/AdministrationMainBarProvider.php",
+        "line": 190,
+        "code": "$lng->txt(\"general_settings\")",
+        "has_variable": false,
+        "variable": "general_settings"
+    },
+    {
+        "id": 1052,
+        "file": "components\/ILIAS\/Administration\/GlobalScreen\/classes\/AdministrationMainBarProvider.php",
+        "line": 197,
+        "code": "$lng->txt(\"general_settings\")",
+        "has_variable": false,
+        "variable": "general_settings"
+    },
+    {
+        "id": 1054,
+        "file": "components\/ILIAS\/Administration\/classes\/AccessibilitySupport\/class.ilAccessibilitySupportContactsGUI.php",
+        "line": 71,
+        "code": "$this->lng->txt(\"report_accessibility_link\")",
+        "has_variable": false,
+        "variable": "report_accessibility_link"
+    },
+    {
+        "id": 1056,
+        "file": "components\/ILIAS\/Administration\/classes\/AccessibilitySupport\/class.ilAccessibilitySupportContactsGUI.php",
+        "line": 118,
+        "code": "$lng->txt(\"report_accessibility_link_mailto\")",
+        "has_variable": false,
+        "variable": "report_accessibility_link_mailto"
+    },
+    {
+        "id": 1058,
+        "file": "components\/ILIAS\/Administration\/classes\/AccessibilitySupport\/class.ilAccessibilitySupportContactsGUI.php",
+        "line": 129,
+        "code": "$lng->txt(\"report_accessibility_issue\")",
+        "has_variable": false,
+        "variable": "report_accessibility_issue"
+    },
+    {
+        "id": 1060,
+        "file": "components\/ILIAS\/Administration\/classes\/AccessibilitySupport\/class.ilAccessibilitySupportFooterProvider.php",
+        "line": 41,
+        "code": "$this->lng->txt('accessibility')",
+        "has_variable": false,
+        "variable": "accessibility"
+    },
+    {
+        "id": 1062,
+        "file": "components\/ILIAS\/Administration\/classes\/ContactInformation\/ContactInformationGUI.php",
+        "line": 87,
+        "code": "$this->lng->txt(\"msg_obj_modified\")",
+        "has_variable": false,
+        "variable": "msg_obj_modified"
+    },
+    {
+        "id": 1064,
+        "file": "components\/ILIAS\/Administration\/classes\/ContactInformation\/ContactInformationGUI.php",
+        "line": 100,
+        "code": "$this->lng->txt(\"firstname\")",
+        "has_variable": false,
+        "variable": "firstname"
+    },
+    {
+        "id": 1066,
+        "file": "components\/ILIAS\/Administration\/classes\/ContactInformation\/ContactInformationGUI.php",
+        "line": 108,
+        "code": "$this->lng->txt(\"lastname\")",
+        "has_variable": false,
+        "variable": "lastname"
+    },
+    {
+        "id": 1068,
+        "file": "components\/ILIAS\/Administration\/classes\/ContactInformation\/ContactInformationGUI.php",
+        "line": 116,
+        "code": "$this->lng->txt(\"title\")",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 1070,
+        "file": "components\/ILIAS\/Administration\/classes\/ContactInformation\/ContactInformationGUI.php",
+        "line": 123,
+        "code": "$this->lng->txt(\"position\")",
+        "has_variable": false,
+        "variable": "position"
+    },
+    {
+        "id": 1072,
+        "file": "components\/ILIAS\/Administration\/classes\/ContactInformation\/ContactInformationGUI.php",
+        "line": 130,
+        "code": "$this->lng->txt(\"institution\")",
+        "has_variable": false,
+        "variable": "institution"
+    },
+    {
+        "id": 1074,
+        "file": "components\/ILIAS\/Administration\/classes\/ContactInformation\/ContactInformationGUI.php",
+        "line": 137,
+        "code": "$this->lng->txt(\"street\")",
+        "has_variable": false,
+        "variable": "street"
+    },
+    {
+        "id": 1076,
+        "file": "components\/ILIAS\/Administration\/classes\/ContactInformation\/ContactInformationGUI.php",
+        "line": 145,
+        "code": "$this->lng->txt(\"zipcode\")",
+        "has_variable": false,
+        "variable": "zipcode"
+    },
+    {
+        "id": 1078,
+        "file": "components\/ILIAS\/Administration\/classes\/ContactInformation\/ContactInformationGUI.php",
+        "line": 153,
+        "code": "$this->lng->txt(\"city\")",
+        "has_variable": false,
+        "variable": "city"
+    },
+    {
+        "id": 1080,
+        "file": "components\/ILIAS\/Administration\/classes\/ContactInformation\/ContactInformationGUI.php",
+        "line": 161,
+        "code": "$this->lng->txt(\"country\")",
+        "has_variable": false,
+        "variable": "country"
+    },
+    {
+        "id": 1082,
+        "file": "components\/ILIAS\/Administration\/classes\/ContactInformation\/ContactInformationGUI.php",
+        "line": 169,
+        "code": "$this->lng->txt(\"phone\")",
+        "has_variable": false,
+        "variable": "phone"
+    },
+    {
+        "id": 1084,
+        "file": "components\/ILIAS\/Administration\/classes\/ContactInformation\/ContactInformationGUI.php",
+        "line": 177,
+        "code": "$this->lng->txt(\"email\")",
+        "has_variable": false,
+        "variable": "email"
+    },
+    {
+        "id": 1086,
+        "file": "components\/ILIAS\/Administration\/classes\/ContactInformation\/ContactInformationGUI.php",
+        "line": 186,
+        "code": "$this->lng->txt(\"adm_support_contacts\")",
+        "has_variable": false,
+        "variable": "adm_support_contacts"
+    },
+    {
+        "id": 1088,
+        "file": "components\/ILIAS\/Administration\/classes\/ContactInformation\/ContactInformationGUI.php",
+        "line": 190,
+        "code": "$this->lng->txt(\"adm_support_contacts_info\")",
+        "has_variable": false,
+        "variable": "adm_support_contacts_info"
+    },
+    {
+        "id": 1090,
+        "file": "components\/ILIAS\/Administration\/classes\/ContactInformation\/ContactInformationGUI.php",
+        "line": 194,
+        "code": "$this->lng->txt(\"adm_accessibility_contacts\")",
+        "has_variable": false,
+        "variable": "adm_accessibility_contacts"
+    },
+    {
+        "id": 1092,
+        "file": "components\/ILIAS\/Administration\/classes\/ContactInformation\/ContactInformationGUI.php",
+        "line": 198,
+        "code": "$this->lng->txt(\"adm_accessibility_contacts_info\")",
+        "has_variable": false,
+        "variable": "adm_accessibility_contacts_info"
+    },
+    {
+        "id": 1094,
+        "file": "components\/ILIAS\/Administration\/classes\/ContactInformation\/ContactInformationGUI.php",
+        "line": 202,
+        "code": "$this->lng->txt(\"save\")",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 1096,
+        "file": "components\/ILIAS\/Administration\/classes\/ContactInformation\/ContactInformationGUI.php",
+        "line": 205,
+        "code": "$this->lng->txt(\"contact_data\")",
+        "has_variable": false,
+        "variable": "contact_data"
+    },
+    {
+        "id": 1098,
+        "file": "components\/ILIAS\/Administration\/classes\/GeneralSettings\/class.ilObjGeneralSettingsGUI.php",
+        "line": 104,
+        "code": "$this->lng->txt('basic_settings')",
+        "has_variable": false,
+        "variable": "basic_settings"
+    },
+    {
+        "id": 1100,
+        "file": "components\/ILIAS\/Administration\/classes\/GeneralSettings\/class.ilObjGeneralSettingsGUI.php",
+        "line": 110,
+        "code": "$this->lng->txt('header_title')",
+        "has_variable": false,
+        "variable": "header_title"
+    },
+    {
+        "id": 1102,
+        "file": "components\/ILIAS\/Administration\/classes\/GeneralSettings\/class.ilObjGeneralSettingsGUI.php",
+        "line": 116,
+        "code": "$this->lng->txt('contact_data')",
+        "has_variable": false,
+        "variable": "contact_data"
+    },
+    {
+        "id": 1104,
+        "file": "components\/ILIAS\/Administration\/classes\/GeneralSettings\/class.ilObjGeneralSettingsGUI.php",
+        "line": 123,
+        "code": "$this->lng->txt('perm_settings')",
+        "has_variable": false,
+        "variable": "perm_settings"
+    },
+    {
+        "id": 1106,
+        "file": "components\/ILIAS\/Administration\/classes\/GeneralSettings\/class.ilObjGeneralSettingsGUI.php",
+        "line": 164,
+        "code": "$this->lng->txt(\"msg_obj_modified\")",
+        "has_variable": false,
+        "variable": "msg_obj_modified"
+    },
+    {
+        "id": 1108,
+        "file": "components\/ILIAS\/Administration\/classes\/GeneralSettings\/class.ilObjGeneralSettingsGUI.php",
+        "line": 178,
+        "code": "$this->lng->txt(\"short_inst_name\")",
+        "has_variable": false,
+        "variable": "short_inst_name"
+    },
+    {
+        "id": 1110,
+        "file": "components\/ILIAS\/Administration\/classes\/GeneralSettings\/class.ilObjGeneralSettingsGUI.php",
+        "line": 182,
+        "code": "$this->lng->txt(\"short_inst_name_info\")",
+        "has_variable": false,
+        "variable": "short_inst_name_info"
+    },
+    {
+        "id": 1112,
+        "file": "components\/ILIAS\/Administration\/classes\/GeneralSettings\/class.ilObjGeneralSettingsGUI.php",
+        "line": 185,
+        "code": "$this->lng->txt(\"pub_section\")",
+        "has_variable": false,
+        "variable": "pub_section"
+    },
+    {
+        "id": 1114,
+        "file": "components\/ILIAS\/Administration\/classes\/GeneralSettings\/class.ilObjGeneralSettingsGUI.php",
+        "line": 186,
+        "code": "$this->lng->txt(\"pub_section_info\")",
+        "has_variable": false,
+        "variable": "pub_section_info"
+    },
+    {
+        "id": 1116,
+        "file": "components\/ILIAS\/Administration\/classes\/GeneralSettings\/class.ilObjGeneralSettingsGUI.php",
+        "line": 193,
+        "code": "$this->lng->txt('adm_pub_section_domain_filter')",
+        "has_variable": false,
+        "variable": "adm_pub_section_domain_filter"
+    },
+    {
+        "id": 1118,
+        "file": "components\/ILIAS\/Administration\/classes\/GeneralSettings\/class.ilObjGeneralSettingsGUI.php",
+        "line": 194,
+        "code": "$this->lng->txt('adm_pub_section_domain_filter_info')",
+        "has_variable": false,
+        "variable": "adm_pub_section_domain_filter_info"
+    },
+    {
+        "id": 1120,
+        "file": "components\/ILIAS\/Administration\/classes\/GeneralSettings\/class.ilObjGeneralSettingsGUI.php",
+        "line": 202,
+        "code": "$this->lng->txt('pd_enable_user_publish')",
+        "has_variable": false,
+        "variable": "pd_enable_user_publish"
+    },
+    {
+        "id": 1122,
+        "file": "components\/ILIAS\/Administration\/classes\/GeneralSettings\/class.ilObjGeneralSettingsGUI.php",
+        "line": 203,
+        "code": "$this->lng->txt('pd_enable_user_publish_info')",
+        "has_variable": false,
+        "variable": "pd_enable_user_publish_info"
+    },
+    {
+        "id": 1124,
+        "file": "components\/ILIAS\/Administration\/classes\/GeneralSettings\/class.ilObjGeneralSettingsGUI.php",
+        "line": 209,
+        "code": "$this->lng->txt(\"search_engine\")",
+        "has_variable": false,
+        "variable": "search_engine"
+    },
+    {
+        "id": 1126,
+        "file": "components\/ILIAS\/Administration\/classes\/GeneralSettings\/class.ilObjGeneralSettingsGUI.php",
+        "line": 210,
+        "code": "$this->lng->txt(\"enable_search_engine\")",
+        "has_variable": false,
+        "variable": "enable_search_engine"
+    },
+    {
+        "id": 1128,
+        "file": "components\/ILIAS\/Administration\/classes\/GeneralSettings\/class.ilObjGeneralSettingsGUI.php",
+        "line": 214,
+        "code": "$this->lng->txt(\"allow_override_alert\")",
+        "has_variable": false,
+        "variable": "allow_override_alert"
+    },
+    {
+        "id": 1130,
+        "file": "components\/ILIAS\/Administration\/classes\/GeneralSettings\/class.ilObjGeneralSettingsGUI.php",
+        "line": 222,
+        "code": "$this->lng->txt(\"adm_locale\")",
+        "has_variable": false,
+        "variable": "adm_locale"
+    },
+    {
+        "id": 1132,
+        "file": "components\/ILIAS\/Administration\/classes\/GeneralSettings\/class.ilObjGeneralSettingsGUI.php",
+        "line": 225,
+        "code": "$this->lng->txt(\"adm_locale_info\")",
+        "has_variable": false,
+        "variable": "adm_locale_info"
+    },
+    {
+        "id": 1134,
+        "file": "components\/ILIAS\/Administration\/classes\/GeneralSettings\/class.ilObjGeneralSettingsGUI.php",
+        "line": 231,
+        "code": "$this->lng->txt(\"save\")",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 1136,
+        "file": "components\/ILIAS\/Administration\/classes\/GeneralSettings\/class.ilObjGeneralSettingsGUI.php",
+        "line": 234,
+        "code": "$this->lng->txt(\"basic_settings\")",
+        "has_variable": false,
+        "variable": "basic_settings"
+    },
+    {
+        "id": 1138,
+        "file": "components\/ILIAS\/Administration\/classes\/HeaderTitle\/HeaderTitleGUI.php",
+        "line": 137,
+        "code": "$this->lng->txt(\"msg_no_default_language\")",
+        "has_variable": false,
+        "variable": "msg_no_default_language"
+    },
+    {
+        "id": 1140,
+        "file": "components\/ILIAS\/Administration\/classes\/HeaderTitle\/HeaderTitleGUI.php",
+        "line": 144,
+        "code": "$this->lng->txt(\"msg_no_language_selected\")",
+        "has_variable": false,
+        "variable": "msg_no_language_selected"
+    },
+    {
+        "id": 1142,
+        "file": "components\/ILIAS\/Administration\/classes\/HeaderTitle\/HeaderTitleGUI.php",
+        "line": 151,
+        "code": "$this->lng->txt(\"msg_multi_language_selected\")",
+        "has_variable": false,
+        "variable": "msg_multi_language_selected"
+    },
+    {
+        "id": 1144,
+        "file": "components\/ILIAS\/Administration\/classes\/HeaderTitle\/HeaderTitleGUI.php",
+        "line": 167,
+        "code": "$this->lng->txt(\"msg_obj_modified\")",
+        "has_variable": false,
+        "variable": "msg_obj_modified"
+    },
+    {
+        "id": 1146,
+        "file": "components\/ILIAS\/Administration\/classes\/HeaderTitle\/class.ilInstallationHeadingTableGUI.php",
+        "line": 53,
+        "code": "$this->lng->txt(\"language\")",
+        "has_variable": false,
+        "variable": "language"
+    },
+    {
+        "id": 1148,
+        "file": "components\/ILIAS\/Administration\/classes\/HeaderTitle\/class.ilInstallationHeadingTableGUI.php",
+        "line": 54,
+        "code": "$this->lng->txt(\"default\")",
+        "has_variable": false,
+        "variable": "default"
+    },
+    {
+        "id": 1150,
+        "file": "components\/ILIAS\/Administration\/classes\/HeaderTitle\/class.ilInstallationHeadingTableGUI.php",
+        "line": 55,
+        "code": "$this->lng->txt(\"title\")",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 1152,
+        "file": "components\/ILIAS\/Administration\/classes\/HeaderTitle\/class.ilInstallationHeadingTableGUI.php",
+        "line": 69,
+        "code": "$this->lng->txt(\"remove\")",
+        "has_variable": false,
+        "variable": "remove"
+    },
+    {
+        "id": 1154,
+        "file": "components\/ILIAS\/Administration\/classes\/HeaderTitle\/class.ilInstallationHeadingTableGUI.php",
+        "line": 71,
+        "code": "$this->lng->txt(\"save\")",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 1156,
+        "file": "components\/ILIAS\/Administration\/classes\/HeaderTitle\/class.ilInstallationHeadingTableGUI.php",
+        "line": 73,
+        "code": "$this->lng->txt(\"add\")",
+        "has_variable": false,
+        "variable": "add"
+    },
+    {
+        "id": 1158,
+        "file": "components\/ILIAS\/Administration\/classes\/JavaServer\/JavaServerGUI.php",
+        "line": 72,
+        "code": "$this->lng->txt(\"msg_obj_modified\")",
+        "has_variable": false,
+        "variable": "msg_obj_modified"
+    },
+    {
+        "id": 1160,
+        "file": "components\/ILIAS\/Administration\/classes\/JavaServer\/JavaServerGUI.php",
+        "line": 86,
+        "code": "$this->lng->txt('rpc_pdf_generation')",
+        "has_variable": false,
+        "variable": "rpc_pdf_generation"
+    },
+    {
+        "id": 1162,
+        "file": "components\/ILIAS\/Administration\/classes\/JavaServer\/JavaServerGUI.php",
+        "line": 89,
+        "code": "$this->lng->txt('rpc_pdf_font')",
+        "has_variable": false,
+        "variable": "rpc_pdf_font"
+    },
+    {
+        "id": 1164,
+        "file": "components\/ILIAS\/Administration\/classes\/JavaServer\/JavaServerGUI.php",
+        "line": 90,
+        "code": "$this->lng->txt('rpc_pdf_font_info')",
+        "has_variable": false,
+        "variable": "rpc_pdf_font_info"
+    },
+    {
+        "id": 1166,
+        "file": "components\/ILIAS\/Administration\/classes\/JavaServer\/JavaServerGUI.php",
+        "line": 98,
+        "code": "$this->lng->txt(\"save\")",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 1168,
+        "file": "components\/ILIAS\/Administration\/classes\/RecoveryFolder\/class.ilObjRecoveryFolderGUI.php",
+        "line": 56,
+        "code": "$this->lng->txt(\"object_added\")",
+        "has_variable": false,
+        "variable": "object_added"
+    },
+    {
+        "id": 1170,
+        "file": "components\/ILIAS\/Administration\/classes\/ServerInfo\/class.ilGitInformation.php",
+        "line": 87,
+        "code": "$lng->txt('git_revision')",
+        "has_variable": false,
+        "variable": "git_revision"
+    },
+    {
+        "id": 1172,
+        "file": "components\/ILIAS\/Administration\/classes\/ServerInfo\/class.ilGitInformation.php",
+        "line": 91,
+        "code": "$lng->txt('git_hash_short')",
+        "has_variable": false,
+        "variable": "git_hash_short"
+    },
+    {
+        "id": 1174,
+        "file": "components\/ILIAS\/Administration\/classes\/ServerInfo\/class.ilGitInformation.php",
+        "line": 95,
+        "code": "$lng->txt('git_last_commit')",
+        "has_variable": false,
+        "variable": "git_last_commit"
+    },
+    {
+        "id": 1176,
+        "file": "components\/ILIAS\/Administration\/classes\/ServerInfo\/class.ilObjServerInfoGUI.php",
+        "line": 100,
+        "code": "$this->lng->txt('installation_status')",
+        "has_variable": false,
+        "variable": "installation_status"
+    },
+    {
+        "id": 1178,
+        "file": "components\/ILIAS\/Administration\/classes\/ServerInfo\/class.ilObjServerInfoGUI.php",
+        "line": 106,
+        "code": "$this->lng->txt('server_data')",
+        "has_variable": false,
+        "variable": "server_data"
+    },
+    {
+        "id": 1180,
+        "file": "components\/ILIAS\/Administration\/classes\/ServerInfo\/class.ilObjServerInfoGUI.php",
+        "line": 112,
+        "code": "$this->lng->txt('java_server')",
+        "has_variable": false,
+        "variable": "java_server"
+    },
+    {
+        "id": 1182,
+        "file": "components\/ILIAS\/Administration\/classes\/ServerInfo\/class.ilObjServerInfoGUI.php",
+        "line": 119,
+        "code": "$this->lng->txt('perm_settings')",
+        "has_variable": false,
+        "variable": "perm_settings"
+    },
+    {
+        "id": 1184,
+        "file": "components\/ILIAS\/Administration\/classes\/ServerInfo\/class.ilObjServerInfoGUI.php",
+        "line": 129,
+        "code": "$this->lng->txt(\"vc_information\")",
+        "has_variable": false,
+        "variable": "vc_information"
+    },
+    {
+        "id": 1186,
+        "file": "components\/ILIAS\/Administration\/classes\/ServerInfo\/class.ilObjServerInfoGUI.php",
+        "line": 137,
+        "code": "$this->lng->txt(\"inst_name\")",
+        "has_variable": false,
+        "variable": "inst_name"
+    },
+    {
+        "id": 1188,
+        "file": "components\/ILIAS\/Administration\/classes\/ServerInfo\/class.ilObjServerInfoGUI.php",
+        "line": 143,
+        "code": "$this->lng->txt(\"client_id\")",
+        "has_variable": false,
+        "variable": "client_id"
+    },
+    {
+        "id": 1190,
+        "file": "components\/ILIAS\/Administration\/classes\/ServerInfo\/class.ilObjServerInfoGUI.php",
+        "line": 148,
+        "code": "$this->lng->txt(\"inst_id\")",
+        "has_variable": false,
+        "variable": "inst_id"
+    },
+    {
+        "id": 1192,
+        "file": "components\/ILIAS\/Administration\/classes\/ServerInfo\/class.ilObjServerInfoGUI.php",
+        "line": 153,
+        "code": "$this->lng->txt(\"db_version\")",
+        "has_variable": false,
+        "variable": "db_version"
+    },
+    {
+        "id": 1194,
+        "file": "components\/ILIAS\/Administration\/classes\/ServerInfo\/class.ilObjServerInfoGUI.php",
+        "line": 159,
+        "code": "$this->lng->txt(\"ilias_version\")",
+        "has_variable": false,
+        "variable": "ilias_version"
+    },
+    {
+        "id": 1196,
+        "file": "components\/ILIAS\/Administration\/classes\/ServerInfo\/class.ilObjServerInfoGUI.php",
+        "line": 164,
+        "code": "$this->lng->txt(\"host\")",
+        "has_variable": false,
+        "variable": "host"
+    },
+    {
+        "id": 1198,
+        "file": "components\/ILIAS\/Administration\/classes\/ServerInfo\/class.ilObjServerInfoGUI.php",
+        "line": 169,
+        "code": "$this->lng->txt(\"ip_address\")",
+        "has_variable": false,
+        "variable": "ip_address"
+    },
+    {
+        "id": 1200,
+        "file": "components\/ILIAS\/Administration\/classes\/ServerInfo\/class.ilObjServerInfoGUI.php",
+        "line": 169,
+        "code": "$this->lng->txt(\"port\")",
+        "has_variable": false,
+        "variable": "port"
+    },
+    {
+        "id": 1202,
+        "file": "components\/ILIAS\/Administration\/classes\/ServerInfo\/class.ilObjServerInfoGUI.php",
+        "line": 174,
+        "code": "$this->lng->txt(\"server_software\")",
+        "has_variable": false,
+        "variable": "server_software"
+    },
+    {
+        "id": 1204,
+        "file": "components\/ILIAS\/Administration\/classes\/ServerInfo\/class.ilObjServerInfoGUI.php",
+        "line": 179,
+        "code": "$this->lng->txt(\"http_path\")",
+        "has_variable": false,
+        "variable": "http_path"
+    },
+    {
+        "id": 1206,
+        "file": "components\/ILIAS\/Administration\/classes\/ServerInfo\/class.ilObjServerInfoGUI.php",
+        "line": 184,
+        "code": "$this->lng->txt(\"absolute_path\")",
+        "has_variable": false,
+        "variable": "absolute_path"
+    },
+    {
+        "id": 1208,
+        "file": "components\/ILIAS\/Administration\/classes\/ServerInfo\/class.ilObjServerInfoGUI.php",
+        "line": 188,
+        "code": "$this->lng->txt(\"path_not_set\")",
+        "has_variable": false,
+        "variable": "path_not_set"
+    },
+    {
+        "id": 1210,
+        "file": "components\/ILIAS\/Administration\/classes\/ServerInfo\/class.ilObjServerInfoGUI.php",
+        "line": 191,
+        "code": "$this->lng->txt(\"path_to_convert\")",
+        "has_variable": false,
+        "variable": "path_to_convert"
+    },
+    {
+        "id": 1212,
+        "file": "components\/ILIAS\/Administration\/classes\/ServerInfo\/class.ilObjServerInfoGUI.php",
+        "line": 196,
+        "code": "$this->lng->txt(\"path_to_zip\")",
+        "has_variable": false,
+        "variable": "path_to_zip"
+    },
+    {
+        "id": 1214,
+        "file": "components\/ILIAS\/Administration\/classes\/ServerInfo\/class.ilObjServerInfoGUI.php",
+        "line": 201,
+        "code": "$this->lng->txt(\"path_to_unzip\")",
+        "has_variable": false,
+        "variable": "path_to_unzip"
+    },
+    {
+        "id": 1216,
+        "file": "components\/ILIAS\/Administration\/classes\/ServerInfo\/class.ilObjServerInfoGUI.php",
+        "line": 206,
+        "code": "$this->lng->txt(\"path_to_java\")",
+        "has_variable": false,
+        "variable": "path_to_java"
+    },
+    {
+        "id": 1218,
+        "file": "components\/ILIAS\/Administration\/classes\/ServerInfo\/class.ilObjServerInfoGUI.php",
+        "line": 211,
+        "code": "$this->lng->txt(\"path_to_mkisofs\")",
+        "has_variable": false,
+        "variable": "path_to_mkisofs"
+    },
+    {
+        "id": 1220,
+        "file": "components\/ILIAS\/Administration\/classes\/ServerInfo\/class.ilObjServerInfoGUI.php",
+        "line": 215,
+        "code": "$this->lng->txt(\"server_data\")",
+        "has_variable": false,
+        "variable": "server_data"
+    },
+    {
+        "id": 1222,
+        "file": "components\/ILIAS\/Administration\/classes\/ServerInfo\/class.ilObjServerInfoGUI.php",
+        "line": 228,
+        "code": "$this->lng->txt(\"installation_status\")",
+        "has_variable": false,
+        "variable": "installation_status"
+    },
+    {
+        "id": 1224,
+        "file": "components\/ILIAS\/Administration\/classes\/ServerInfo\/class.ilObjServerInfoGUI.php",
+        "line": 240,
+        "code": "$this->lng->txt('vc_information_not_determined')",
+        "has_variable": false,
+        "variable": "vc_information_not_determined"
+    },
+    {
+        "id": 1226,
+        "file": "components\/ILIAS\/Administration\/classes\/SystemFolder\/class.ilObjSystemFolderGUI.php",
+        "line": 44,
+        "code": "$this->lng->txt('system_folder_info')",
+        "has_variable": false,
+        "variable": "system_folder_info"
+    },
+    {
+        "id": 1228,
+        "file": "components\/ILIAS\/Administration\/classes\/SystemSupport\/class.ilSystemSupportContactsGUI.php",
+        "line": 90,
+        "code": "$this->lng->txt(\"adm_support_contacts\")",
+        "has_variable": false,
+        "variable": "adm_support_contacts"
+    },
+    {
+        "id": 1230,
+        "file": "components\/ILIAS\/Administration\/classes\/SystemSupport\/class.ilSystemSupportContactsGUI.php",
+        "line": 113,
+        "code": "$this->lng->txt(\"adm_support_contacts\")",
+        "has_variable": false,
+        "variable": "adm_support_contacts"
+    },
+    {
+        "id": 1232,
+        "file": "components\/ILIAS\/Administration\/classes\/class.ilAdministrationCommandGUI.php",
+        "line": 79,
+        "code": "$this->lng->txt('no_checkbox')",
+        "has_variable": false,
+        "variable": "no_checkbox"
+    },
+    {
+        "id": 1234,
+        "file": "components\/ILIAS\/Administration\/classes\/class.ilAdministrationCommandGUI.php",
+        "line": 85,
+        "code": "$this->lng->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 1236,
+        "file": "components\/ILIAS\/Administration\/classes\/class.ilAdministrationCommandGUI.php",
+        "line": 86,
+        "code": "$this->lng->txt('delete')",
+        "has_variable": false,
+        "variable": "delete"
+    },
+    {
+        "id": 1238,
+        "file": "components\/ILIAS\/Administration\/classes\/class.ilAdministrationCommandGUI.php",
+        "line": 100,
+        "code": "$this->lng->txt(\"info_delete_sure\")",
+        "has_variable": false,
+        "variable": "info_delete_sure"
+    },
+    {
+        "id": 1240,
+        "file": "components\/ILIAS\/Administration\/classes\/class.ilAdministrationCommandGUI.php",
+        "line": 103,
+        "code": "$this->lng->txt(\"info_delete_warning_no_trash\")",
+        "has_variable": false,
+        "variable": "info_delete_warning_no_trash"
+    },
+    {
+        "id": 1242,
+        "file": "components\/ILIAS\/Administration\/classes\/class.ilAdministrationExplorerGUI.php",
+        "line": 96,
+        "code": "$lng->txt(\"repository\")",
+        "has_variable": false,
+        "variable": "repository"
+    },
+    {
+        "id": 1244,
+        "file": "components\/ILIAS\/Administration\/classes\/class.ilAdministrationExplorerGUI.php",
+        "line": 122,
+        "code": "$lng->txt(\"repository\")",
+        "has_variable": false,
+        "variable": "repository"
+    },
+    {
+        "id": 1246,
+        "file": "components\/ILIAS\/Administration\/classes\/class.ilAdministrationExplorerGUI.php",
+        "line": 124,
+        "code": "$lng->txt(\"icon\")",
+        "has_variable": false,
+        "variable": "icon"
+    },
+    {
+        "id": 1248,
+        "file": "components\/ILIAS\/Administration\/classes\/class.ilAdministrationGUI.php",
+        "line": 149,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 1250,
+        "file": "components\/ILIAS\/Administration\/classes\/class.ilAdministrationGUI.php",
+        "line": 150,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 1252,
+        "file": "components\/ILIAS\/Administration\/classes\/class.ilAdministrationSettingsFormHandler.php",
+        "line": 204,
+        "code": "$lng->txt(\"enabled\")",
+        "has_variable": false,
+        "variable": "enabled"
+    },
+    {
+        "id": 1254,
+        "file": "components\/ILIAS\/Administration\/classes\/class.ilAdministrationSettingsFormHandler.php",
+        "line": 205,
+        "code": "$lng->txt(\"disabled\")",
+        "has_variable": false,
+        "variable": "disabled"
+    },
+    {
+        "id": 1256,
+        "file": "components\/ILIAS\/Administration\/classes\/class.ilAdministrationSettingsFormHandler.php",
+        "line": 289,
+        "code": "$lng->txt($sub_caption_id)",
+        "has_variable": true,
+        "variable": "$sub_caption_id"
+    },
+    {
+        "id": 1258,
+        "file": "components\/ILIAS\/Administration\/classes\/class.ilAdministrationSettingsFormHandler.php",
+        "line": 296,
+        "code": "$lng->txt($field_caption_id)",
+        "has_variable": true,
+        "variable": "$field_caption_id"
+    },
+    {
+        "id": 1260,
+        "file": "components\/ILIAS\/Administration\/classes\/class.ilAdministrationSettingsFormHandler.php",
+        "line": 309,
+        "code": "$lng->txt(\"adm_external_setting_edit\")",
+        "has_variable": false,
+        "variable": "adm_external_setting_edit"
+    },
+    {
+        "id": 1262,
+        "file": "components\/ILIAS\/Administration\/classes\/class.ilAdministrationSettingsFormHandler.php",
+        "line": 313,
+        "code": "$lng->txt($area_caption)",
+        "has_variable": true,
+        "variable": "$area_caption"
+    }
+]

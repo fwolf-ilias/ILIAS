@@ -1,0 +1,114 @@
+[
+    {
+        "id": 2550,
+        "file": "components\/ILIAS\/BackgroundTasks_\/classes\/Provider\/BTNotificationProvider.php",
+        "line": 52,
+        "code": "$this->txt('background_tasks')",
+        "has_variable": false,
+        "variable": "background_tasks"
+    },
+    {
+        "id": 2552,
+        "file": "components\/ILIAS\/BackgroundTasks_\/classes\/StateTranslator.php",
+        "line": 33,
+        "code": "$lng->txt(\"observer_state_scheduled\")",
+        "has_variable": false,
+        "variable": "observer_state_scheduled"
+    },
+    {
+        "id": 2554,
+        "file": "components\/ILIAS\/BackgroundTasks_\/classes\/StateTranslator.php",
+        "line": 34,
+        "code": "$lng->txt(\"observer_state_running\")",
+        "has_variable": false,
+        "variable": "observer_state_running"
+    },
+    {
+        "id": 2556,
+        "file": "components\/ILIAS\/BackgroundTasks_\/classes\/StateTranslator.php",
+        "line": 35,
+        "code": "$lng->txt(\"observer_state_user_interaction\")",
+        "has_variable": false,
+        "variable": "observer_state_user_interaction"
+    },
+    {
+        "id": 2558,
+        "file": "components\/ILIAS\/BackgroundTasks_\/classes\/StateTranslator.php",
+        "line": 36,
+        "code": "$lng->txt(\"observer_state_finished\")",
+        "has_variable": false,
+        "variable": "observer_state_finished"
+    },
+    {
+        "id": 2560,
+        "file": "components\/ILIAS\/BackgroundTasks_\/classes\/StateTranslator.php",
+        "line": 37,
+        "code": "$lng->txt(\"observer_state_error\")",
+        "has_variable": false,
+        "variable": "observer_state_error"
+    },
+    {
+        "id": 2562,
+        "file": "components\/ILIAS\/BackgroundTasks_\/classes\/UserInteractions\/class.ilSumOfFileSizesTooLargeInteraction.php",
+        "line": 90,
+        "code": "$this->lng->txt('ui_msg_files_violate_maxsize')",
+        "has_variable": false,
+        "variable": "ui_msg_files_violate_maxsize"
+    },
+    {
+        "id": 2564,
+        "file": "components\/ILIAS\/BackgroundTasks_\/classes\/class.ilBTPopOverGUI.php",
+        "line": 55,
+        "code": "$this->txt('background_tasks')",
+        "has_variable": false,
+        "variable": "background_tasks"
+    },
+    {
+        "id": 2566,
+        "file": "components\/ILIAS\/BackgroundTasks_\/classes\/class.ilBTPopOverGUI.php",
+        "line": 56,
+        "code": "$this->txt('background_tasks')",
+        "has_variable": false,
+        "variable": "background_tasks"
+    },
+    {
+        "id": 2568,
+        "file": "components\/ILIAS\/BackgroundTasks_\/classes\/class.ilBTPopOverGUI.php",
+        "line": 61,
+        "code": "$this->txt('background_tasks')",
+        "has_variable": false,
+        "variable": "background_tasks"
+    },
+    {
+        "id": 2570,
+        "file": "components\/ILIAS\/BackgroundTasks_\/classes\/class.ilBTPopOverGUI.php",
+        "line": 91,
+        "code": "$this->txt(\"bg_task\")",
+        "has_variable": false,
+        "variable": "bg_task"
+    },
+    {
+        "id": 2572,
+        "file": "components\/ILIAS\/BackgroundTasks_\/classes\/class.ilBTPopOverGUI.php",
+        "line": 92,
+        "code": "$this->txt('scheduled')",
+        "has_variable": false,
+        "variable": "scheduled"
+    },
+    {
+        "id": 2574,
+        "file": "components\/ILIAS\/BackgroundTasks_\/classes\/class.ilBTPopOverGUI.php",
+        "line": 134,
+        "code": "$this->txt('task_might_be_failed')",
+        "has_variable": false,
+        "variable": "task_might_be_failed"
+    },
+    {
+        "id": 2576,
+        "file": "components\/ILIAS\/BackgroundTasks_\/classes\/class.ilBTPopOverGUI.php",
+        "line": 189,
+        "code": "$language->txt($option->getLangVar())",
+        "has_variable": true,
+        "variable": "$option->getLangVar()"
+    }
+]

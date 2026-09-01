@@ -1,0 +1,842 @@
+[
+    {
+        "id": 12560,
+        "file": "components\/ILIAS\/Cron\/src\/Job\/Manager\/UI\/JobTable.php",
+        "line": 201,
+        "code": "$this->lng->txt('cron_schedule_daily')",
+        "has_variable": false,
+        "variable": "cron_schedule_daily"
+    },
+    {
+        "id": 12562,
+        "file": "components\/ILIAS\/Cron\/src\/Job\/Manager\/UI\/JobTable.php",
+        "line": 202,
+        "code": "$this->lng->txt('cron_schedule_weekly')",
+        "has_variable": false,
+        "variable": "cron_schedule_weekly"
+    },
+    {
+        "id": 12564,
+        "file": "components\/ILIAS\/Cron\/src\/Job\/Manager\/UI\/JobTable.php",
+        "line": 203,
+        "code": "$this->lng->txt('cron_schedule_monthly')",
+        "has_variable": false,
+        "variable": "cron_schedule_monthly"
+    },
+    {
+        "id": 12566,
+        "file": "components\/ILIAS\/Cron\/src\/Job\/Manager\/UI\/JobTable.php",
+        "line": 204,
+        "code": "$this->lng->txt('cron_schedule_quarterly')",
+        "has_variable": false,
+        "variable": "cron_schedule_quarterly"
+    },
+    {
+        "id": 12568,
+        "file": "components\/ILIAS\/Cron\/src\/Job\/Manager\/UI\/JobTable.php",
+        "line": 205,
+        "code": "$this->lng->txt('cron_schedule_yearly')",
+        "has_variable": false,
+        "variable": "cron_schedule_yearly"
+    },
+    {
+        "id": 12570,
+        "file": "components\/ILIAS\/Cron\/src\/Job\/Manager\/UI\/JobTable.php",
+        "line": 207,
+        "code": "$this->lng->txt('cron_schedule_in_minutes')",
+        "has_variable": false,
+        "variable": "cron_schedule_in_minutes"
+    },
+    {
+        "id": 12572,
+        "file": "components\/ILIAS\/Cron\/src\/Job\/Manager\/UI\/JobTable.php",
+        "line": 211,
+        "code": "$this->lng->txt('cron_schedule_in_hours')",
+        "has_variable": false,
+        "variable": "cron_schedule_in_hours"
+    },
+    {
+        "id": 12574,
+        "file": "components\/ILIAS\/Cron\/src\/Job\/Manager\/UI\/JobTable.php",
+        "line": 215,
+        "code": "$this->lng->txt('cron_schedule_in_days')",
+        "has_variable": false,
+        "variable": "cron_schedule_in_days"
+    },
+    {
+        "id": 12576,
+        "file": "components\/ILIAS\/Cron\/src\/Job\/Manager\/UI\/JobTable.php",
+        "line": 227,
+        "code": "$this->lng->txt('cmps_plugin')",
+        "has_variable": false,
+        "variable": "cmps_plugin"
+    },
+    {
+        "id": 12578,
+        "file": "components\/ILIAS\/Cron\/src\/Job\/Manager\/UI\/JobTable.php",
+        "line": 245,
+        "code": "$this->lng->txt('cron_changed_by_crontab')",
+        "has_variable": false,
+        "variable": "cron_changed_by_crontab"
+    },
+    {
+        "id": 12580,
+        "file": "components\/ILIAS\/Cron\/src\/Job\/Manager\/UI\/JobTable.php",
+        "line": 257,
+        "code": "$this->lng->txt('cron_result_status_invalid_configuration')",
+        "has_variable": false,
+        "variable": "cron_result_status_invalid_configuration"
+    },
+    {
+        "id": 12582,
+        "file": "components\/ILIAS\/Cron\/src\/Job\/Manager\/UI\/JobTable.php",
+        "line": 261,
+        "code": "$this->lng->txt('cron_result_status_no_action')",
+        "has_variable": false,
+        "variable": "cron_result_status_no_action"
+    },
+    {
+        "id": 12584,
+        "file": "components\/ILIAS\/Cron\/src\/Job\/Manager\/UI\/JobTable.php",
+        "line": 265,
+        "code": "$this->lng->txt('cron_result_status_ok')",
+        "has_variable": false,
+        "variable": "cron_result_status_ok"
+    },
+    {
+        "id": 12586,
+        "file": "components\/ILIAS\/Cron\/src\/Job\/Manager\/UI\/JobTable.php",
+        "line": 269,
+        "code": "$this->lng->txt('cron_result_status_crashed')",
+        "has_variable": false,
+        "variable": "cron_result_status_crashed"
+    },
+    {
+        "id": 12588,
+        "file": "components\/ILIAS\/Cron\/src\/Job\/Manager\/UI\/JobTable.php",
+        "line": 273,
+        "code": "$this->lng->txt('cron_result_status_reset')",
+        "has_variable": false,
+        "variable": "cron_result_status_reset"
+    },
+    {
+        "id": 12590,
+        "file": "components\/ILIAS\/Cron\/src\/Job\/Manager\/UI\/JobTable.php",
+        "line": 277,
+        "code": "$this->lng->txt('cron_result_status_fail')",
+        "has_variable": false,
+        "variable": "cron_result_status_fail"
+    },
+    {
+        "id": 12592,
+        "file": "components\/ILIAS\/Cron\/src\/Job\/Manager\/UI\/JobTable.php",
+        "line": 295,
+        "code": "$this->lng->txt('cro_job_rc_' . $resultCode)",
+        "has_variable": true,
+        "variable": "'cro_job_rc_' . $resultCode"
+    },
+    {
+        "id": 12594,
+        "file": "components\/ILIAS\/Cron\/src\/Job\/Manager\/UI\/JobTable.php",
+        "line": 307,
+        "code": "$this->lng->txt('cron_changed_by_crontab')",
+        "has_variable": false,
+        "variable": "cron_changed_by_crontab"
+    },
+    {
+        "id": 12596,
+        "file": "components\/ILIAS\/Cron\/src\/Job\/Manager\/UI\/JobTable.php",
+        "line": 323,
+        "code": "$this->lng->txt('cron_running_since')",
+        "has_variable": false,
+        "variable": "cron_running_since"
+    },
+    {
+        "id": 12598,
+        "file": "components\/ILIAS\/Cron\/src\/Job\/Manager\/UI\/JobTable.php",
+        "line": 347,
+        "code": "$this->lng->txt('title')",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 12600,
+        "file": "components\/ILIAS\/Cron\/src\/Job\/Manager\/UI\/JobTable.php",
+        "line": 347,
+        "code": "$this->lng->txt('description')",
+        "has_variable": false,
+        "variable": "description"
+    },
+    {
+        "id": 12602,
+        "file": "components\/ILIAS\/Cron\/src\/Job\/Manager\/UI\/JobTable.php",
+        "line": 352,
+        "code": "$this->lng->txt('cron_component')",
+        "has_variable": false,
+        "variable": "cron_component"
+    },
+    {
+        "id": 12604,
+        "file": "components\/ILIAS\/Cron\/src\/Job\/Manager\/UI\/JobTable.php",
+        "line": 358,
+        "code": "$this->lng->txt('cron_schedule')",
+        "has_variable": false,
+        "variable": "cron_schedule"
+    },
+    {
+        "id": 12606,
+        "file": "components\/ILIAS\/Cron\/src\/Job\/Manager\/UI\/JobTable.php",
+        "line": 364,
+        "code": "$this->lng->txt('cron_status')",
+        "has_variable": false,
+        "variable": "cron_status"
+    },
+    {
+        "id": 12608,
+        "file": "components\/ILIAS\/Cron\/src\/Job\/Manager\/UI\/JobTable.php",
+        "line": 367,
+        "code": "$this->lng->txt('cron_status_active')",
+        "has_variable": false,
+        "variable": "cron_status_active"
+    },
+    {
+        "id": 12610,
+        "file": "components\/ILIAS\/Cron\/src\/Job\/Manager\/UI\/JobTable.php",
+        "line": 372,
+        "code": "$this->lng->txt('cron_status_inactive')",
+        "has_variable": false,
+        "variable": "cron_status_inactive"
+    },
+    {
+        "id": 12612,
+        "file": "components\/ILIAS\/Cron\/src\/Job\/Manager\/UI\/JobTable.php",
+        "line": 380,
+        "code": "$this->lng->txt('cron_status_info')",
+        "has_variable": false,
+        "variable": "cron_status_info"
+    },
+    {
+        "id": 12614,
+        "file": "components\/ILIAS\/Cron\/src\/Job\/Manager\/UI\/JobTable.php",
+        "line": 385,
+        "code": "$this->lng->txt('cron_result')",
+        "has_variable": false,
+        "variable": "cron_result"
+    },
+    {
+        "id": 12616,
+        "file": "components\/ILIAS\/Cron\/src\/Job\/Manager\/UI\/JobTable.php",
+        "line": 390,
+        "code": "$this->lng->txt('cron_result_info')",
+        "has_variable": false,
+        "variable": "cron_result_info"
+    },
+    {
+        "id": 12618,
+        "file": "components\/ILIAS\/Cron\/src\/Job\/Manager\/UI\/JobTable.php",
+        "line": 395,
+        "code": "$this->lng->txt('cron_last_run')",
+        "has_variable": false,
+        "variable": "cron_last_run"
+    },
+    {
+        "id": 12620,
+        "file": "components\/ILIAS\/Cron\/src\/Job\/Manager\/UI\/JobTable.php",
+        "line": 411,
+        "code": "$this->lng->txt('cron_action_run')",
+        "has_variable": false,
+        "variable": "cron_action_run"
+    },
+    {
+        "id": 12622,
+        "file": "components\/ILIAS\/Cron\/src\/Job\/Manager\/UI\/JobTable.php",
+        "line": 416,
+        "code": "$this->lng->txt('cron_action_activate')",
+        "has_variable": false,
+        "variable": "cron_action_activate"
+    },
+    {
+        "id": 12624,
+        "file": "components\/ILIAS\/Cron\/src\/Job\/Manager\/UI\/JobTable.php",
+        "line": 421,
+        "code": "$this->lng->txt('cron_action_deactivate')",
+        "has_variable": false,
+        "variable": "cron_action_deactivate"
+    },
+    {
+        "id": 12626,
+        "file": "components\/ILIAS\/Cron\/src\/Job\/Manager\/UI\/JobTable.php",
+        "line": 426,
+        "code": "$this->lng->txt('cron_action_reset')",
+        "has_variable": false,
+        "variable": "cron_action_reset"
+    },
+    {
+        "id": 12628,
+        "file": "components\/ILIAS\/Cron\/src\/Job\/Manager\/UI\/JobTable.php",
+        "line": 431,
+        "code": "$this->lng->txt('cron_action_edit')",
+        "has_variable": false,
+        "variable": "cron_action_edit"
+    },
+    {
+        "id": 12630,
+        "file": "components\/ILIAS\/Cron\/src\/Job\/Manager\/UI\/JobTable.php",
+        "line": 442,
+        "code": "$this->lng->txt('cron_jobs')",
+        "has_variable": false,
+        "variable": "cron_jobs"
+    },
+    {
+        "id": 12632,
+        "file": "components\/ILIAS\/Cron\/src\/Job\/Manager\/UI\/JobTableFilterMediator.php",
+        "line": 56,
+        "code": "$this->lng->txt('cmps_plugin')",
+        "has_variable": false,
+        "variable": "cmps_plugin"
+    },
+    {
+        "id": 12634,
+        "file": "components\/ILIAS\/Cron\/src\/Job\/Manager\/UI\/JobTableFilterMediator.php",
+        "line": 65,
+        "code": "$this->lng->txt('title')",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 12636,
+        "file": "components\/ILIAS\/Cron\/src\/Job\/Manager\/UI\/JobTableFilterMediator.php",
+        "line": 65,
+        "code": "$this->lng->txt('description')",
+        "has_variable": false,
+        "variable": "description"
+    },
+    {
+        "id": 12638,
+        "file": "components\/ILIAS\/Cron\/src\/Job\/Manager\/UI\/JobTableFilterMediator.php",
+        "line": 68,
+        "code": "$this->lng->txt('cron_component')",
+        "has_variable": false,
+        "variable": "cron_component"
+    },
+    {
+        "id": 12640,
+        "file": "components\/ILIAS\/Cron\/src\/Job\/Manager\/UI\/JobTableFilterMediator.php",
+        "line": 72,
+        "code": "$this->lng->txt('cron_schedule')",
+        "has_variable": false,
+        "variable": "cron_schedule"
+    },
+    {
+        "id": 12642,
+        "file": "components\/ILIAS\/Cron\/src\/Job\/Manager\/UI\/JobTableFilterMediator.php",
+        "line": 74,
+        "code": "$this->lng->txt('cron_schedule_daily')",
+        "has_variable": false,
+        "variable": "cron_schedule_daily"
+    },
+    {
+        "id": 12644,
+        "file": "components\/ILIAS\/Cron\/src\/Job\/Manager\/UI\/JobTableFilterMediator.php",
+        "line": 75,
+        "code": "$this->lng->txt('cron_schedule_weekly')",
+        "has_variable": false,
+        "variable": "cron_schedule_weekly"
+    },
+    {
+        "id": 12646,
+        "file": "components\/ILIAS\/Cron\/src\/Job\/Manager\/UI\/JobTableFilterMediator.php",
+        "line": 76,
+        "code": "$this->lng->txt('cron_schedule_monthly')",
+        "has_variable": false,
+        "variable": "cron_schedule_monthly"
+    },
+    {
+        "id": 12648,
+        "file": "components\/ILIAS\/Cron\/src\/Job\/Manager\/UI\/JobTableFilterMediator.php",
+        "line": 77,
+        "code": "$this->lng->txt('cron_schedule_quarterly')",
+        "has_variable": false,
+        "variable": "cron_schedule_quarterly"
+    },
+    {
+        "id": 12650,
+        "file": "components\/ILIAS\/Cron\/src\/Job\/Manager\/UI\/JobTableFilterMediator.php",
+        "line": 78,
+        "code": "$this->lng->txt('cron_schedule_yearly')",
+        "has_variable": false,
+        "variable": "cron_schedule_yearly"
+    },
+    {
+        "id": 12652,
+        "file": "components\/ILIAS\/Cron\/src\/Job\/Manager\/UI\/JobTableFilterMediator.php",
+        "line": 80,
+        "code": "$this->lng->txt('cron_schedule_in_minutes')",
+        "has_variable": false,
+        "variable": "cron_schedule_in_minutes"
+    },
+    {
+        "id": 12654,
+        "file": "components\/ILIAS\/Cron\/src\/Job\/Manager\/UI\/JobTableFilterMediator.php",
+        "line": 83,
+        "code": "$this->lng->txt('cron_schedule_in_hours')",
+        "has_variable": false,
+        "variable": "cron_schedule_in_hours"
+    },
+    {
+        "id": 12656,
+        "file": "components\/ILIAS\/Cron\/src\/Job\/Manager\/UI\/JobTableFilterMediator.php",
+        "line": 84,
+        "code": "$this->lng->txt('cron_schedule_in_days')",
+        "has_variable": false,
+        "variable": "cron_schedule_in_days"
+    },
+    {
+        "id": 12658,
+        "file": "components\/ILIAS\/Cron\/src\/Job\/Manager\/UI\/JobTableFilterMediator.php",
+        "line": 88,
+        "code": "$this->lng->txt('cron_status')",
+        "has_variable": false,
+        "variable": "cron_status"
+    },
+    {
+        "id": 12660,
+        "file": "components\/ILIAS\/Cron\/src\/Job\/Manager\/UI\/JobTableFilterMediator.php",
+        "line": 90,
+        "code": "$this->lng->txt('cron_status_active')",
+        "has_variable": false,
+        "variable": "cron_status_active"
+    },
+    {
+        "id": 12662,
+        "file": "components\/ILIAS\/Cron\/src\/Job\/Manager\/UI\/JobTableFilterMediator.php",
+        "line": 91,
+        "code": "$this->lng->txt('cron_status_inactive')",
+        "has_variable": false,
+        "variable": "cron_status_inactive"
+    },
+    {
+        "id": 12664,
+        "file": "components\/ILIAS\/Cron\/src\/Job\/Manager\/UI\/JobTableFilterMediator.php",
+        "line": 95,
+        "code": "$this->lng->txt('cron_result')",
+        "has_variable": false,
+        "variable": "cron_result"
+    },
+    {
+        "id": 12666,
+        "file": "components\/ILIAS\/Cron\/src\/Job\/Manager\/UI\/JobTableFilterMediator.php",
+        "line": 97,
+        "code": "$this->lng->txt(\n                    'cron_result_status_invalid_configuration'\n                )",
+        "has_variable": false,
+        "variable": "cron_result_status_invalid_configuration"
+    },
+    {
+        "id": 12668,
+        "file": "components\/ILIAS\/Cron\/src\/Job\/Manager\/UI\/JobTableFilterMediator.php",
+        "line": 100,
+        "code": "$this->lng->txt(\n                    'cron_result_status_no_action'\n                )",
+        "has_variable": false,
+        "variable": "cron_result_status_no_action"
+    },
+    {
+        "id": 12670,
+        "file": "components\/ILIAS\/Cron\/src\/Job\/Manager\/UI\/JobTableFilterMediator.php",
+        "line": 103,
+        "code": "$this->lng->txt(\n                    'cron_result_status_ok'\n                )",
+        "has_variable": false,
+        "variable": "cron_result_status_ok"
+    },
+    {
+        "id": 12672,
+        "file": "components\/ILIAS\/Cron\/src\/Job\/Manager\/UI\/JobTableFilterMediator.php",
+        "line": 106,
+        "code": "$this->lng->txt(\n                    'cron_result_status_crashed'\n                )",
+        "has_variable": false,
+        "variable": "cron_result_status_crashed"
+    },
+    {
+        "id": 12674,
+        "file": "components\/ILIAS\/Cron\/src\/Job\/Manager\/UI\/JobTableFilterMediator.php",
+        "line": 109,
+        "code": "$this->lng->txt(\n                    'cron_result_status_reset'\n                )",
+        "has_variable": false,
+        "variable": "cron_result_status_reset"
+    },
+    {
+        "id": 12676,
+        "file": "components\/ILIAS\/Cron\/src\/Job\/Manager\/UI\/JobTableFilterMediator.php",
+        "line": 112,
+        "code": "$this->lng->txt(\n                    'cron_result_status_fail'\n                )",
+        "has_variable": false,
+        "variable": "cron_result_status_fail"
+    },
+    {
+        "id": 12678,
+        "file": "components\/ILIAS\/Cron\/src\/Job\/Manager\/UI\/JobTableFilterMediator.php",
+        "line": 162,
+        "code": "$this->lng->txt('cmps_plugin')",
+        "has_variable": false,
+        "variable": "cmps_plugin"
+    },
+    {
+        "id": 12680,
+        "file": "components\/ILIAS\/Cron\/src\/class.ilObjCronGUI.php",
+        "line": 144,
+        "code": "$this->lng->txt('cron_jobs_with_required_intervention')",
+        "has_variable": false,
+        "variable": "cron_jobs_with_required_intervention"
+    },
+    {
+        "id": 12682,
+        "file": "components\/ILIAS\/Cron\/src\/class.ilObjCronGUI.php",
+        "line": 217,
+        "code": "$this->lng->txt('no_permission')",
+        "has_variable": false,
+        "variable": "no_permission"
+    },
+    {
+        "id": 12684,
+        "file": "components\/ILIAS\/Cron\/src\/class.ilObjCronGUI.php",
+        "line": 271,
+        "code": "$this->lng->txt('cronjob_last_start_unknown')",
+        "has_variable": false,
+        "variable": "cronjob_last_start_unknown"
+    },
+    {
+        "id": 12686,
+        "file": "components\/ILIAS\/Cron\/src\/class.ilObjCronGUI.php",
+        "line": 281,
+        "code": "$this->lng->txt('cronjob_last_start')",
+        "has_variable": false,
+        "variable": "cronjob_last_start"
+    },
+    {
+        "id": 12688,
+        "file": "components\/ILIAS\/Cron\/src\/class.ilObjCronGUI.php",
+        "line": 331,
+        "code": "$this->lng->txt('no_permission')",
+        "has_variable": false,
+        "variable": "no_permission"
+    },
+    {
+        "id": 12690,
+        "file": "components\/ILIAS\/Cron\/src\/class.ilObjCronGUI.php",
+        "line": 360,
+        "code": "$this->lng->txt('no_permission')",
+        "has_variable": false,
+        "variable": "no_permission"
+    },
+    {
+        "id": 12692,
+        "file": "components\/ILIAS\/Cron\/src\/class.ilObjCronGUI.php",
+        "line": 384,
+        "code": "$this->lng->txt('cron_schedule_daily')",
+        "has_variable": false,
+        "variable": "cron_schedule_daily"
+    },
+    {
+        "id": 12694,
+        "file": "components\/ILIAS\/Cron\/src\/class.ilObjCronGUI.php",
+        "line": 385,
+        "code": "$this->lng->txt('cron_schedule_weekly')",
+        "has_variable": false,
+        "variable": "cron_schedule_weekly"
+    },
+    {
+        "id": 12696,
+        "file": "components\/ILIAS\/Cron\/src\/class.ilObjCronGUI.php",
+        "line": 386,
+        "code": "$this->lng->txt('cron_schedule_monthly')",
+        "has_variable": false,
+        "variable": "cron_schedule_monthly"
+    },
+    {
+        "id": 12698,
+        "file": "components\/ILIAS\/Cron\/src\/class.ilObjCronGUI.php",
+        "line": 387,
+        "code": "$this->lng->txt('cron_schedule_quarterly')",
+        "has_variable": false,
+        "variable": "cron_schedule_quarterly"
+    },
+    {
+        "id": 12700,
+        "file": "components\/ILIAS\/Cron\/src\/class.ilObjCronGUI.php",
+        "line": 388,
+        "code": "$this->lng->txt('cron_schedule_yearly')",
+        "has_variable": false,
+        "variable": "cron_schedule_yearly"
+    },
+    {
+        "id": 12702,
+        "file": "components\/ILIAS\/Cron\/src\/class.ilObjCronGUI.php",
+        "line": 389,
+        "code": "$this->lng->txt('cron_schedule_in_minutes')",
+        "has_variable": false,
+        "variable": "cron_schedule_in_minutes"
+    },
+    {
+        "id": 12704,
+        "file": "components\/ILIAS\/Cron\/src\/class.ilObjCronGUI.php",
+        "line": 390,
+        "code": "$this->lng->txt('cron_schedule_in_hours')",
+        "has_variable": false,
+        "variable": "cron_schedule_in_hours"
+    },
+    {
+        "id": 12706,
+        "file": "components\/ILIAS\/Cron\/src\/class.ilObjCronGUI.php",
+        "line": 391,
+        "code": "$this->lng->txt('cron_schedule_in_days')",
+        "has_variable": false,
+        "variable": "cron_schedule_in_days"
+    },
+    {
+        "id": 12708,
+        "file": "components\/ILIAS\/Cron\/src\/class.ilObjCronGUI.php",
+        "line": 439,
+        "code": "$this->lng->txt('cron_schedule_value')",
+        "has_variable": false,
+        "variable": "cron_schedule_value"
+    },
+    {
+        "id": 12710,
+        "file": "components\/ILIAS\/Cron\/src\/class.ilObjCronGUI.php",
+        "line": 475,
+        "code": "$this->lng->txt('cron_schedule_type')",
+        "has_variable": false,
+        "variable": "cron_schedule_type"
+    },
+    {
+        "id": 12712,
+        "file": "components\/ILIAS\/Cron\/src\/class.ilObjCronGUI.php",
+        "line": 487,
+        "code": "$this->lng->txt('cron_action_edit')",
+        "has_variable": false,
+        "variable": "cron_action_edit"
+    },
+    {
+        "id": 12714,
+        "file": "components\/ILIAS\/Cron\/src\/class.ilObjCronGUI.php",
+        "line": 528,
+        "code": "$this->lng->txt('cron_action_edit')",
+        "has_variable": false,
+        "variable": "cron_action_edit"
+    },
+    {
+        "id": 12716,
+        "file": "components\/ILIAS\/Cron\/src\/class.ilObjCronGUI.php",
+        "line": 531,
+        "code": "$this->lng->txt('cron_schedule_type')",
+        "has_variable": false,
+        "variable": "cron_schedule_type"
+    },
+    {
+        "id": 12718,
+        "file": "components\/ILIAS\/Cron\/src\/class.ilObjCronGUI.php",
+        "line": 550,
+        "code": "$this->lng->txt('cron_schedule_value')",
+        "has_variable": false,
+        "variable": "cron_schedule_value"
+    },
+    {
+        "id": 12720,
+        "file": "components\/ILIAS\/Cron\/src\/class.ilObjCronGUI.php",
+        "line": 573,
+        "code": "$this->lng->txt('save')",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 12722,
+        "file": "components\/ILIAS\/Cron\/src\/class.ilObjCronGUI.php",
+        "line": 574,
+        "code": "$this->lng->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 12724,
+        "file": "components\/ILIAS\/Cron\/src\/class.ilObjCronGUI.php",
+        "line": 582,
+        "code": "$this->lng->txt('no_permission')",
+        "has_variable": false,
+        "variable": "no_permission"
+    },
+    {
+        "id": 12726,
+        "file": "components\/ILIAS\/Cron\/src\/class.ilObjCronGUI.php",
+        "line": 632,
+        "code": "$this->lng->txt('cron_action_edit_success')",
+        "has_variable": false,
+        "variable": "cron_action_edit_success"
+    },
+    {
+        "id": 12728,
+        "file": "components\/ILIAS\/Cron\/src\/class.ilObjCronGUI.php",
+        "line": 643,
+        "code": "$this->lng->txt('no_permission')",
+        "has_variable": false,
+        "variable": "no_permission"
+    },
+    {
+        "id": 12730,
+        "file": "components\/ILIAS\/Cron\/src\/class.ilObjCronGUI.php",
+        "line": 677,
+        "code": "$this->lng->txt('cron_action_edit_success')",
+        "has_variable": false,
+        "variable": "cron_action_edit_success"
+    },
+    {
+        "id": 12732,
+        "file": "components\/ILIAS\/Cron\/src\/class.ilObjCronGUI.php",
+        "line": 694,
+        "code": "$this->lng->txt('no_permission')",
+        "has_variable": false,
+        "variable": "no_permission"
+    },
+    {
+        "id": 12734,
+        "file": "components\/ILIAS\/Cron\/src\/class.ilObjCronGUI.php",
+        "line": 704,
+        "code": "$this->lng->txt('cron_action_run_success')",
+        "has_variable": false,
+        "variable": "cron_action_run_success"
+    },
+    {
+        "id": 12736,
+        "file": "components\/ILIAS\/Cron\/src\/class.ilObjCronGUI.php",
+        "line": 706,
+        "code": "$this->lng->txt('cron_action_run_fail')",
+        "has_variable": false,
+        "variable": "cron_action_run_fail"
+    },
+    {
+        "id": 12738,
+        "file": "components\/ILIAS\/Cron\/src\/class.ilObjCronGUI.php",
+        "line": 720,
+        "code": "$this->lng->txt('no_permission')",
+        "has_variable": false,
+        "variable": "no_permission"
+    },
+    {
+        "id": 12740,
+        "file": "components\/ILIAS\/Cron\/src\/class.ilObjCronGUI.php",
+        "line": 731,
+        "code": "$this->lng->txt('cron_action_activate_success')",
+        "has_variable": false,
+        "variable": "cron_action_activate_success"
+    },
+    {
+        "id": 12742,
+        "file": "components\/ILIAS\/Cron\/src\/class.ilObjCronGUI.php",
+        "line": 733,
+        "code": "$this->lng->txt('no_checkbox')",
+        "has_variable": false,
+        "variable": "no_checkbox"
+    },
+    {
+        "id": 12744,
+        "file": "components\/ILIAS\/Cron\/src\/class.ilObjCronGUI.php",
+        "line": 747,
+        "code": "$this->lng->txt('no_permission')",
+        "has_variable": false,
+        "variable": "no_permission"
+    },
+    {
+        "id": 12746,
+        "file": "components\/ILIAS\/Cron\/src\/class.ilObjCronGUI.php",
+        "line": 758,
+        "code": "$this->lng->txt('cron_action_deactivate_success')",
+        "has_variable": false,
+        "variable": "cron_action_deactivate_success"
+    },
+    {
+        "id": 12748,
+        "file": "components\/ILIAS\/Cron\/src\/class.ilObjCronGUI.php",
+        "line": 760,
+        "code": "$this->lng->txt('no_checkbox')",
+        "has_variable": false,
+        "variable": "no_checkbox"
+    },
+    {
+        "id": 12750,
+        "file": "components\/ILIAS\/Cron\/src\/class.ilObjCronGUI.php",
+        "line": 774,
+        "code": "$this->lng->txt('no_permission')",
+        "has_variable": false,
+        "variable": "no_permission"
+    },
+    {
+        "id": 12752,
+        "file": "components\/ILIAS\/Cron\/src\/class.ilObjCronGUI.php",
+        "line": 782,
+        "code": "$this->lng->txt('cron_action_reset_success')",
+        "has_variable": false,
+        "variable": "cron_action_reset_success"
+    },
+    {
+        "id": 12754,
+        "file": "components\/ILIAS\/Cron\/src\/class.ilObjCronGUI.php",
+        "line": 784,
+        "code": "$this->lng->txt('no_checkbox')",
+        "has_variable": false,
+        "variable": "no_checkbox"
+    },
+    {
+        "id": 12756,
+        "file": "components\/ILIAS\/Cron\/src\/class.ilObjCronGUI.php",
+        "line": 816,
+        "code": "$this->lng->txt('no_permission')",
+        "has_variable": false,
+        "variable": "no_permission"
+    },
+    {
+        "id": 12758,
+        "file": "components\/ILIAS\/Cron\/src\/class.ilObjCronGUI.php",
+        "line": 821,
+        "code": "$this->lng->txt('no_checkbox')",
+        "has_variable": false,
+        "variable": "no_checkbox"
+    },
+    {
+        "id": 12760,
+        "file": "components\/ILIAS\/Cron\/src\/class.ilObjCronGUI.php",
+        "line": 831,
+        "code": "$this->lng->txt('cron_no_executable_job_selected')",
+        "has_variable": false,
+        "variable": "cron_no_executable_job_selected"
+    },
+    {
+        "id": 12762,
+        "file": "components\/ILIAS\/Cron\/src\/class.ilObjCronGUI.php",
+        "line": 849,
+        "code": "$this->lng->txt('cron_action_' . $a_action . '_sure')",
+        "has_variable": true,
+        "variable": "'cron_action_' . $a_action . '_sure'"
+    },
+    {
+        "id": 12764,
+        "file": "components\/ILIAS\/Cron\/src\/class.ilObjCronGUI.php",
+        "line": 856,
+        "code": "$this->lng->txt('cron_action_' . $a_action . '_sure_multi')",
+        "has_variable": true,
+        "variable": "'cron_action_' . $a_action . '_sure_multi'"
+    },
+    {
+        "id": 12766,
+        "file": "components\/ILIAS\/Cron\/src\/class.ilObjCronGUI.php",
+        "line": 864,
+        "code": "$this->lng->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 12768,
+        "file": "components\/ILIAS\/Cron\/src\/class.ilObjCronGUI.php",
+        "line": 865,
+        "code": "$this->lng->txt('cron_action_' . $a_action)",
+        "has_variable": true,
+        "variable": "'cron_action_' . $a_action"
+    }
+]

@@ -1,0 +1,31 @@
+{
+    "metadata": {
+        "type": "full",
+        "count": 2,
+        "description": "Variable usages without detectable prefixes or suffixes (pure variable references without static strings)"
+    },
+    "matches": [
+        {
+            "id": 22778,
+            "file": "components\/ILIAS\/LTIProvider\/classes\/class.ilObjLTIAdministrationGUI.php",
+            "line": 462,
+            "code": "$this->lng->txt($msg)",
+            "variable": "$msg",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 22780,
+            "file": "components\/ILIAS\/LTIProvider\/classes\/class.ilObjLTIAdministrationGUI.php",
+            "line": 266,
+            "code": "ilLanguage::_lookupEntry($lang_key, \"meta\", \"meta_l_\" . $lang_key)",
+            "variable": "lang_key, \"meta\", \"meta_l_\" . $lang_key",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        }
+    ]
+}

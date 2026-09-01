@@ -1,0 +1,674 @@
+[
+    {
+        "id": 9414,
+        "file": "components\/ILIAS\/Conditions\/classes\/Configuration\/ConditionTriggerTableGUI.php",
+        "line": 107,
+        "code": "$this->lng->txt('rbac_precondition_source')",
+        "has_variable": false,
+        "variable": "rbac_precondition_source"
+    },
+    {
+        "id": 9416,
+        "file": "components\/ILIAS\/Conditions\/classes\/Configuration\/ConditionTriggerTableGUI.php",
+        "line": 111,
+        "code": "$this->lng->txt('rbac_precondition_condition')",
+        "has_variable": false,
+        "variable": "rbac_precondition_condition"
+    },
+    {
+        "id": 9418,
+        "file": "components\/ILIAS\/Conditions\/classes\/Configuration\/ConditionTriggerTableGUI.php",
+        "line": 116,
+        "code": "$this->lng->txt('precondition_obligatory')",
+        "has_variable": false,
+        "variable": "precondition_obligatory"
+    },
+    {
+        "id": 9420,
+        "file": "components\/ILIAS\/Conditions\/classes\/Configuration\/ConditionTriggerTableGUI.php",
+        "line": 144,
+        "code": "$this->lng->txt('edit')",
+        "has_variable": false,
+        "variable": "edit"
+    },
+    {
+        "id": 9422,
+        "file": "components\/ILIAS\/Conditions\/classes\/Configuration\/ConditionTriggerTableGUI.php",
+        "line": 150,
+        "code": "$this->lng->txt('rbac_precondition_save_obligatory')",
+        "has_variable": false,
+        "variable": "rbac_precondition_save_obligatory"
+    },
+    {
+        "id": 9424,
+        "file": "components\/ILIAS\/Conditions\/classes\/Configuration\/ConditionTriggerTableGUI.php",
+        "line": 156,
+        "code": "$this->lng->txt('delete')",
+        "has_variable": false,
+        "variable": "delete"
+    },
+    {
+        "id": 9426,
+        "file": "components\/ILIAS\/Conditions\/classes\/Configuration\/ConditionTriggerTableGUI.php",
+        "line": 170,
+        "code": "$this->lng->txt('active_preconditions')",
+        "has_variable": false,
+        "variable": "active_preconditions"
+    },
+    {
+        "id": 9428,
+        "file": "components\/ILIAS\/Conditions\/classes\/class.ilConditionHandler.php",
+        "line": 1054,
+        "code": "$this->lng->txt('condition_circle_created')",
+        "has_variable": false,
+        "variable": "condition_circle_created"
+    },
+    {
+        "id": 9430,
+        "file": "components\/ILIAS\/Conditions\/classes\/class.ilConditionHandlerGUI.php",
+        "line": 188,
+        "code": "$lng->txt('condition_' . $a_operator)",
+        "has_variable": true,
+        "variable": "'condition_' . $a_operator"
+    },
+    {
+        "id": 9432,
+        "file": "components\/ILIAS\/Conditions\/classes\/class.ilConditionHandlerGUI.php",
+        "line": 201,
+        "code": "$lng->txt('condition_' . $a_operator)",
+        "has_variable": true,
+        "variable": "'condition_' . $a_operator"
+    },
+    {
+        "id": 9434,
+        "file": "components\/ILIAS\/Conditions\/classes\/class.ilConditionHandlerGUI.php",
+        "line": 205,
+        "code": "$lng->txt('condition_' . $a_operator)",
+        "has_variable": true,
+        "variable": "'condition_' . $a_operator"
+    },
+    {
+        "id": 9436,
+        "file": "components\/ILIAS\/Conditions\/classes\/class.ilConditionHandlerGUI.php",
+        "line": 234,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 9438,
+        "file": "components\/ILIAS\/Conditions\/classes\/class.ilConditionHandlerGUI.php",
+        "line": 320,
+        "code": "$this->lng->txt('precondition_obligatory_settings')",
+        "has_variable": false,
+        "variable": "precondition_obligatory_settings"
+    },
+    {
+        "id": 9440,
+        "file": "components\/ILIAS\/Conditions\/classes\/class.ilConditionHandlerGUI.php",
+        "line": 321,
+        "code": "$this->lng->txt('save')",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 9442,
+        "file": "components\/ILIAS\/Conditions\/classes\/class.ilConditionHandlerGUI.php",
+        "line": 323,
+        "code": "$this->lng->txt('rbac_precondition_hide')",
+        "has_variable": false,
+        "variable": "rbac_precondition_hide"
+    },
+    {
+        "id": 9444,
+        "file": "components\/ILIAS\/Conditions\/classes\/class.ilConditionHandlerGUI.php",
+        "line": 326,
+        "code": "$this->lng->txt('rbac_precondition_hide_info')",
+        "has_variable": false,
+        "variable": "rbac_precondition_hide_info"
+    },
+    {
+        "id": 9446,
+        "file": "components\/ILIAS\/Conditions\/classes\/class.ilConditionHandlerGUI.php",
+        "line": 329,
+        "code": "$this->lng->txt(\"rbac_precondition_mode\")",
+        "has_variable": false,
+        "variable": "rbac_precondition_mode"
+    },
+    {
+        "id": 9448,
+        "file": "components\/ILIAS\/Conditions\/classes\/class.ilConditionHandlerGUI.php",
+        "line": 333,
+        "code": "$this->lng->txt(\"rbac_precondition_mode_all\")",
+        "has_variable": false,
+        "variable": "rbac_precondition_mode_all"
+    },
+    {
+        "id": 9450,
+        "file": "components\/ILIAS\/Conditions\/classes\/class.ilConditionHandlerGUI.php",
+        "line": 334,
+        "code": "$this->lng->txt(\"rbac_precondition_mode_all_info\")",
+        "has_variable": false,
+        "variable": "rbac_precondition_mode_all_info"
+    },
+    {
+        "id": 9452,
+        "file": "components\/ILIAS\/Conditions\/classes\/class.ilConditionHandlerGUI.php",
+        "line": 341,
+        "code": "$this->lng->txt(\"rbac_precondition_mode_subset\")",
+        "has_variable": false,
+        "variable": "rbac_precondition_mode_subset"
+    },
+    {
+        "id": 9454,
+        "file": "components\/ILIAS\/Conditions\/classes\/class.ilConditionHandlerGUI.php",
+        "line": 342,
+        "code": "$this->lng->txt(\"rbac_precondition_mode_subset_info\")",
+        "has_variable": false,
+        "variable": "rbac_precondition_mode_subset_info"
+    },
+    {
+        "id": 9456,
+        "file": "components\/ILIAS\/Conditions\/classes\/class.ilConditionHandlerGUI.php",
+        "line": 345,
+        "code": "$this->lng->txt('precondition_num_obligatory')",
+        "has_variable": false,
+        "variable": "precondition_num_obligatory"
+    },
+    {
+        "id": 9458,
+        "file": "components\/ILIAS\/Conditions\/classes\/class.ilConditionHandlerGUI.php",
+        "line": 346,
+        "code": "$this->lng->txt('precondition_num_optional_info')",
+        "has_variable": false,
+        "variable": "precondition_num_optional_info"
+    },
+    {
+        "id": 9460,
+        "file": "components\/ILIAS\/Conditions\/classes\/class.ilConditionHandlerGUI.php",
+        "line": 403,
+        "code": "$this->lng->txt('err_check_input')",
+        "has_variable": false,
+        "variable": "err_check_input"
+    },
+    {
+        "id": 9462,
+        "file": "components\/ILIAS\/Conditions\/classes\/class.ilConditionHandlerGUI.php",
+        "line": 436,
+        "code": "$this->lng->txt('settings_saved')",
+        "has_variable": false,
+        "variable": "settings_saved"
+    },
+    {
+        "id": 9464,
+        "file": "components\/ILIAS\/Conditions\/classes\/class.ilConditionHandlerGUI.php",
+        "line": 484,
+        "code": "$this->lng->txt(\"condition_select_object\")",
+        "has_variable": false,
+        "variable": "condition_select_object"
+    },
+    {
+        "id": 9466,
+        "file": "components\/ILIAS\/Conditions\/classes\/class.ilConditionHandlerGUI.php",
+        "line": 521,
+        "code": "$this->lng->txt('no_condition_selected')",
+        "has_variable": false,
+        "variable": "no_condition_selected"
+    },
+    {
+        "id": 9468,
+        "file": "components\/ILIAS\/Conditions\/classes\/class.ilConditionHandlerGUI.php",
+        "line": 528,
+        "code": "$this->lng->txt('err_check_input')",
+        "has_variable": false,
+        "variable": "err_check_input"
+    },
+    {
+        "id": 9470,
+        "file": "components\/ILIAS\/Conditions\/classes\/class.ilConditionHandlerGUI.php",
+        "line": 574,
+        "code": "$this->lng->txt('added_new_condition')",
+        "has_variable": false,
+        "variable": "added_new_condition"
+    },
+    {
+        "id": 9472,
+        "file": "components\/ILIAS\/Conditions\/classes\/class.ilConditionHandlerGUI.php",
+        "line": 609,
+        "code": "$this->lng->txt(\"rbac_precondition_source\")",
+        "has_variable": false,
+        "variable": "rbac_precondition_source"
+    },
+    {
+        "id": 9474,
+        "file": "components\/ILIAS\/Conditions\/classes\/class.ilConditionHandlerGUI.php",
+        "line": 613,
+        "code": "$this->lng->txt(\"rbac_precondition_target\")",
+        "has_variable": false,
+        "variable": "rbac_precondition_target"
+    },
+    {
+        "id": 9476,
+        "file": "components\/ILIAS\/Conditions\/classes\/class.ilConditionHandlerGUI.php",
+        "line": 625,
+        "code": "$this->lng->txt('condition')",
+        "has_variable": false,
+        "variable": "condition"
+    },
+    {
+        "id": 9478,
+        "file": "components\/ILIAS\/Conditions\/classes\/class.ilConditionHandlerGUI.php",
+        "line": 629,
+        "code": "$this->lng->txt('select_one')",
+        "has_variable": false,
+        "variable": "select_one"
+    },
+    {
+        "id": 9480,
+        "file": "components\/ILIAS\/Conditions\/classes\/class.ilConditionHandlerGUI.php",
+        "line": 632,
+        "code": "$this->lng->txt('condition_' . $operator)",
+        "has_variable": true,
+        "variable": "'condition_' . $operator"
+    },
+    {
+        "id": 9482,
+        "file": "components\/ILIAS\/Conditions\/classes\/class.ilConditionHandlerGUI.php",
+        "line": 640,
+        "code": "$this->lng->txt('cond_ref_handling')",
+        "has_variable": false,
+        "variable": "cond_ref_handling"
+    },
+    {
+        "id": 9484,
+        "file": "components\/ILIAS\/Conditions\/classes\/class.ilConditionHandlerGUI.php",
+        "line": 644,
+        "code": "$this->lng->txt('cond_ref_shared')",
+        "has_variable": false,
+        "variable": "cond_ref_shared"
+    },
+    {
+        "id": 9486,
+        "file": "components\/ILIAS\/Conditions\/classes\/class.ilConditionHandlerGUI.php",
+        "line": 650,
+        "code": "$this->lng->txt('cond_ref_unique')",
+        "has_variable": false,
+        "variable": "cond_ref_unique"
+    },
+    {
+        "id": 9488,
+        "file": "components\/ILIAS\/Conditions\/classes\/class.ilConditionHandlerGUI.php",
+        "line": 662,
+        "code": "$this->lng->txt('trac_sahs_relevant_items')",
+        "has_variable": false,
+        "variable": "trac_sahs_relevant_items"
+    },
+    {
+        "id": 9490,
+        "file": "components\/ILIAS\/Conditions\/classes\/class.ilConditionHandlerGUI.php",
+        "line": 663,
+        "code": "$this->lng->txt('trac_lp_determination_info_sco')",
+        "has_variable": false,
+        "variable": "trac_lp_determination_info_sco"
+    },
+    {
+        "id": 9492,
+        "file": "components\/ILIAS\/Conditions\/classes\/class.ilConditionHandlerGUI.php",
+        "line": 684,
+        "code": "$this->lng->txt('rbac_edit_condition')",
+        "has_variable": false,
+        "variable": "rbac_edit_condition"
+    },
+    {
+        "id": 9494,
+        "file": "components\/ILIAS\/Conditions\/classes\/class.ilConditionHandlerGUI.php",
+        "line": 685,
+        "code": "$this->lng->txt('save')",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 9496,
+        "file": "components\/ILIAS\/Conditions\/classes\/class.ilConditionHandlerGUI.php",
+        "line": 686,
+        "code": "$this->lng->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 9498,
+        "file": "components\/ILIAS\/Conditions\/classes\/class.ilConditionHandlerGUI.php",
+        "line": 691,
+        "code": "$this->lng->txt('add_condition')",
+        "has_variable": false,
+        "variable": "add_condition"
+    },
+    {
+        "id": 9500,
+        "file": "components\/ILIAS\/Conditions\/classes\/class.ilConditionHandlerGUI.php",
+        "line": 692,
+        "code": "$this->lng->txt('save')",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 9502,
+        "file": "components\/ILIAS\/Conditions\/classes\/class.ilConditionHandlerGUI.php",
+        "line": 693,
+        "code": "$this->lng->txt('back')",
+        "has_variable": false,
+        "variable": "back"
+    },
+    {
+        "id": 9504,
+        "file": "components\/ILIAS\/Conditions\/classes\/class.ilConditionHandlerGUI.php",
+        "line": 718,
+        "code": "$this->lng->txt('add_condition')",
+        "has_variable": false,
+        "variable": "add_condition"
+    },
+    {
+        "id": 9506,
+        "file": "components\/ILIAS\/Conditions\/classes\/class.ilConditionHandlerGUI.php",
+        "line": 773,
+        "code": "$this->lng->txt(\"rbac_precondition_minimum_optional\")",
+        "has_variable": false,
+        "variable": "rbac_precondition_minimum_optional"
+    },
+    {
+        "id": 9508,
+        "file": "components\/ILIAS\/Conditions\/classes\/class.ilConditionHandlerGUI.php",
+        "line": 793,
+        "code": "$this->lng->txt('settings_saved')",
+        "has_variable": false,
+        "variable": "settings_saved"
+    },
+    {
+        "id": 9510,
+        "file": "components\/ILIAS\/Conditions\/classes\/class.ilConditionHandlerGUI.php",
+        "line": 837,
+        "code": "$this->lng->txt('condition')",
+        "has_variable": false,
+        "variable": "condition"
+    },
+    {
+        "id": 9512,
+        "file": "components\/ILIAS\/Conditions\/classes\/class.ilConditionHandlerGUI.php",
+        "line": 838,
+        "code": "$this->lng->txt('condition_' . $condition['operator'])",
+        "has_variable": true,
+        "variable": "'condition_' . $condition['operator']"
+    },
+    {
+        "id": 9514,
+        "file": "components\/ILIAS\/Conditions\/classes\/class.ilConditionHandlerGUI.php",
+        "line": 845,
+        "code": "$this->lng->txt('confirm')",
+        "has_variable": false,
+        "variable": "confirm"
+    },
+    {
+        "id": 9516,
+        "file": "components\/ILIAS\/Conditions\/classes\/class.ilConditionHandlerGUI.php",
+        "line": 846,
+        "code": "$this->lng->txt('rbac_condition_delete_sure')",
+        "has_variable": false,
+        "variable": "rbac_condition_delete_sure"
+    },
+    {
+        "id": 9518,
+        "file": "components\/ILIAS\/Conditions\/classes\/class.ilConditionHandlerGUI.php",
+        "line": 871,
+        "code": "$this->lng->txt('no_condition_selected')",
+        "has_variable": false,
+        "variable": "no_condition_selected"
+    },
+    {
+        "id": 9520,
+        "file": "components\/ILIAS\/Conditions\/classes\/class.ilConditionHandlerGUI.php",
+        "line": 880,
+        "code": "$this->lng->txt('condition_deleted')",
+        "has_variable": false,
+        "variable": "condition_deleted"
+    },
+    {
+        "id": 9522,
+        "file": "components\/ILIAS\/Conditions\/classes\/class.ilConditionHandlerGUI.php",
+        "line": 903,
+        "code": "$this->lng->txt('rbac_precondition_hide')",
+        "has_variable": false,
+        "variable": "rbac_precondition_hide"
+    },
+    {
+        "id": 9524,
+        "file": "components\/ILIAS\/Conditions\/classes\/class.ilConditionHandlerGUI.php",
+        "line": 904,
+        "code": "$this->lng->txt('rbac_precondition_hide_info')",
+        "has_variable": false,
+        "variable": "rbac_precondition_hide_info"
+    },
+    {
+        "id": 9526,
+        "file": "components\/ILIAS\/Conditions\/classes\/class.ilConditionHandlerGUI.php",
+        "line": 909,
+        "code": "$this->lng->txt('rbac_precondition_mode_all')",
+        "has_variable": false,
+        "variable": "rbac_precondition_mode_all"
+    },
+    {
+        "id": 9528,
+        "file": "components\/ILIAS\/Conditions\/classes\/class.ilConditionHandlerGUI.php",
+        "line": 910,
+        "code": "$this->lng->txt('rbac_precondition_mode_all_info')",
+        "has_variable": false,
+        "variable": "rbac_precondition_mode_all_info"
+    },
+    {
+        "id": 9530,
+        "file": "components\/ILIAS\/Conditions\/classes\/class.ilConditionHandlerGUI.php",
+        "line": 931,
+        "code": "$this->lng->txt('precondition_num_obligatory')",
+        "has_variable": false,
+        "variable": "precondition_num_obligatory"
+    },
+    {
+        "id": 9532,
+        "file": "components\/ILIAS\/Conditions\/classes\/class.ilConditionHandlerGUI.php",
+        "line": 932,
+        "code": "$this->lng->txt('precondition_num_optional_info')",
+        "has_variable": false,
+        "variable": "precondition_num_optional_info"
+    },
+    {
+        "id": 9534,
+        "file": "components\/ILIAS\/Conditions\/classes\/class.ilConditionHandlerGUI.php",
+        "line": 938,
+        "code": "$this->lng->txt('precondition_number_of_required_materials_lower_than_one')",
+        "has_variable": false,
+        "variable": "precondition_number_of_required_materials_lower_than_one"
+    },
+    {
+        "id": 9536,
+        "file": "components\/ILIAS\/Conditions\/classes\/class.ilConditionHandlerGUI.php",
+        "line": 950,
+        "code": "$this->lng->txt('precondition_number_of_required_materials_lower_compulsory_items')",
+        "has_variable": false,
+        "variable": "precondition_number_of_required_materials_lower_compulsory_items"
+    },
+    {
+        "id": 9538,
+        "file": "components\/ILIAS\/Conditions\/classes\/class.ilConditionHandlerGUI.php",
+        "line": 956,
+        "code": "$this->lng->txt('precondition_number_of_required_materials_bigger_preconditions_number')",
+        "has_variable": false,
+        "variable": "precondition_number_of_required_materials_bigger_preconditions_number"
+    },
+    {
+        "id": 9540,
+        "file": "components\/ILIAS\/Conditions\/classes\/class.ilConditionHandlerGUI.php",
+        "line": 961,
+        "code": "$this->lng->txt('rbac_precondition_mode_subset')",
+        "has_variable": false,
+        "variable": "rbac_precondition_mode_subset"
+    },
+    {
+        "id": 9542,
+        "file": "components\/ILIAS\/Conditions\/classes\/class.ilConditionHandlerGUI.php",
+        "line": 962,
+        "code": "$this->lng->txt('rbac_precondition_mode_subset_info')",
+        "has_variable": false,
+        "variable": "rbac_precondition_mode_subset_info"
+    },
+    {
+        "id": 9544,
+        "file": "components\/ILIAS\/Conditions\/classes\/class.ilConditionHandlerGUI.php",
+        "line": 969,
+        "code": "$this->lng->txt('rbac_precondition_mode')",
+        "has_variable": false,
+        "variable": "rbac_precondition_mode"
+    },
+    {
+        "id": 9546,
+        "file": "components\/ILIAS\/Conditions\/classes\/class.ilConditionHandlerGUI.php",
+        "line": 984,
+        "code": "$this->lng->txt('precondition_obligatory_settings')",
+        "has_variable": false,
+        "variable": "precondition_obligatory_settings"
+    },
+    {
+        "id": 9548,
+        "file": "components\/ILIAS\/Conditions\/classes\/class.ilConditionHandlerGUI.php",
+        "line": 1003,
+        "code": "$this->lng->txt('err_check_input')",
+        "has_variable": false,
+        "variable": "err_check_input"
+    },
+    {
+        "id": 9550,
+        "file": "components\/ILIAS\/Conditions\/classes\/class.ilConditionHandlerGUI.php",
+        "line": 1045,
+        "code": "$this->lng->txt('settings_saved')",
+        "has_variable": false,
+        "variable": "settings_saved"
+    },
+    {
+        "id": 9552,
+        "file": "components\/ILIAS\/Conditions\/classes\/class.ilConditionHandlerGUI.php",
+        "line": 1118,
+        "code": "$this->lng->txt('condition_' . $operator)",
+        "has_variable": true,
+        "variable": "'condition_' . $operator"
+    },
+    {
+        "id": 9554,
+        "file": "components\/ILIAS\/Conditions\/classes\/class.ilConditionHandlerGUI.php",
+        "line": 1126,
+        "code": "$this->lng->txt('condition_' . $operator)",
+        "has_variable": true,
+        "variable": "'condition_' . $operator"
+    },
+    {
+        "id": 9556,
+        "file": "components\/ILIAS\/Conditions\/classes\/class.ilConditionHandlerGUI.php",
+        "line": 1134,
+        "code": "$this->lng->txt('condition_' . $operator)",
+        "has_variable": true,
+        "variable": "'condition_' . $operator"
+    },
+    {
+        "id": 9558,
+        "file": "components\/ILIAS\/Conditions\/classes\/class.ilConditionHandlerGUI.php",
+        "line": 1141,
+        "code": "$this->lng->txt('condition')",
+        "has_variable": false,
+        "variable": "condition"
+    },
+    {
+        "id": 9560,
+        "file": "components\/ILIAS\/Conditions\/classes\/class.ilConditionHandlerGUI.php",
+        "line": 1150,
+        "code": "$this->lng->txt('add_condition')",
+        "has_variable": false,
+        "variable": "add_condition"
+    },
+    {
+        "id": 9562,
+        "file": "components\/ILIAS\/Conditions\/classes\/class.ilConditionHandlerGUI.php",
+        "line": 1178,
+        "code": "$this->lng->txt('crs_objectives')",
+        "has_variable": false,
+        "variable": "crs_objectives"
+    },
+    {
+        "id": 9564,
+        "file": "components\/ILIAS\/Conditions\/classes\/class.ilConditionHandlerGUI.php",
+        "line": 1187,
+        "code": "$this->lng->txt('precondition_operator_range_min')",
+        "has_variable": false,
+        "variable": "precondition_operator_range_min"
+    },
+    {
+        "id": 9566,
+        "file": "components\/ILIAS\/Conditions\/classes\/class.ilConditionHandlerGUI.php",
+        "line": 1198,
+        "code": "$this->lng->txt('precondition_operator_range_max')",
+        "has_variable": false,
+        "variable": "precondition_operator_range_max"
+    },
+    {
+        "id": 9568,
+        "file": "components\/ILIAS\/Conditions\/classes\/class.ilConditionHandlerGUI.php",
+        "line": 1216,
+        "code": "$this->lng->txt('precondition_operator_range_err_min_max')",
+        "has_variable": false,
+        "variable": "precondition_operator_range_err_min_max"
+    },
+    {
+        "id": 9570,
+        "file": "components\/ILIAS\/Conditions\/classes\/class.ilConditionHandlerGUI.php",
+        "line": 1264,
+        "code": "$this->lng->txt('err_check_input')",
+        "has_variable": false,
+        "variable": "err_check_input"
+    },
+    {
+        "id": 9572,
+        "file": "components\/ILIAS\/Conditions\/classes\/class.ilConditionHandlerGUI.php",
+        "line": 1276,
+        "code": "$this->lng->txt('settings_saved')",
+        "has_variable": false,
+        "variable": "settings_saved"
+    },
+    {
+        "id": 9574,
+        "file": "components\/ILIAS\/Conditions\/classes\/class.ilConditionHandlerGUI.php",
+        "line": 1304,
+        "code": "$this->lng->txt('settings_saved')",
+        "has_variable": false,
+        "variable": "settings_saved"
+    },
+    {
+        "id": 9576,
+        "file": "components\/ILIAS\/Conditions\/classes\/class.ilConditionHandlerGUI.php",
+        "line": 1315,
+        "code": "$this->lng->txt('no_condition_selected')",
+        "has_variable": false,
+        "variable": "no_condition_selected"
+    },
+    {
+        "id": 9578,
+        "file": "components\/ILIAS\/Conditions\/classes\/class.ilConditionHandlerGUI.php",
+        "line": 1323,
+        "code": "$this->lng->txt('err_check_input')",
+        "has_variable": false,
+        "variable": "err_check_input"
+    },
+    {
+        "id": 9580,
+        "file": "components\/ILIAS\/Conditions\/classes\/class.ilConditionHandlerGUI.php",
+        "line": 1361,
+        "code": "$this->lng->txt('added_new_condition')",
+        "has_variable": false,
+        "variable": "added_new_condition"
+    }
+]

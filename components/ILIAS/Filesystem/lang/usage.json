@@ -1,0 +1,394 @@
+[
+    {
+        "id": 17222,
+        "file": "components\/ILIAS\/Filesystem\/classes\/class.ilFileSystemCleanTempDirCron.php",
+        "line": 70,
+        "code": "$this->language->txt('file_system_clean_temp_dir_cron')",
+        "has_variable": false,
+        "variable": "file_system_clean_temp_dir_cron"
+    },
+    {
+        "id": 17224,
+        "file": "components\/ILIAS\/Filesystem\/classes\/class.ilFileSystemCleanTempDirCron.php",
+        "line": 75,
+        "code": "$this->language->txt(\"file_system_clean_temp_dir_cron_info\")",
+        "has_variable": false,
+        "variable": "file_system_clean_temp_dir_cron_info"
+    },
+    {
+        "id": 17226,
+        "file": "components\/ILIAS\/Filesystem\/classes\/class.ilFileSystemGUI.php",
+        "line": 403,
+        "code": "$this->lng->txt(\"no_checkbox\")",
+        "has_variable": false,
+        "variable": "no_checkbox"
+    },
+    {
+        "id": 17228,
+        "file": "components\/ILIAS\/Filesystem\/classes\/class.ilFileSystemGUI.php",
+        "line": 409,
+        "code": "$this->lng->txt(\"cont_select_max_one_item\")",
+        "has_variable": false,
+        "variable": "cont_select_max_one_item"
+    },
+    {
+        "id": 17230,
+        "file": "components\/ILIAS\/Filesystem\/classes\/class.ilFileSystemGUI.php",
+        "line": 426,
+        "code": "$this->lng->txt(\"select_a_file\")",
+        "has_variable": false,
+        "variable": "select_a_file"
+    },
+    {
+        "id": 17232,
+        "file": "components\/ILIAS\/Filesystem\/classes\/class.ilFileSystemGUI.php",
+        "line": 481,
+        "code": "$this->lng->txt(\"cont_new_dir\")",
+        "has_variable": false,
+        "variable": "cont_new_dir"
+    },
+    {
+        "id": 17234,
+        "file": "components\/ILIAS\/Filesystem\/classes\/class.ilFileSystemGUI.php",
+        "line": 485,
+        "code": "$lng->txt(\"create\")",
+        "has_variable": false,
+        "variable": "create"
+    },
+    {
+        "id": 17236,
+        "file": "components\/ILIAS\/Filesystem\/classes\/class.ilFileSystemGUI.php",
+        "line": 490,
+        "code": "$this->lng->txt(\"cont_new_file\")",
+        "has_variable": false,
+        "variable": "cont_new_file"
+    },
+    {
+        "id": 17238,
+        "file": "components\/ILIAS\/Filesystem\/classes\/class.ilFileSystemGUI.php",
+        "line": 493,
+        "code": "$lng->txt(\"upload\")",
+        "has_variable": false,
+        "variable": "upload"
+    },
+    {
+        "id": 17240,
+        "file": "components\/ILIAS\/Filesystem\/classes\/class.ilFileSystemGUI.php",
+        "line": 498,
+        "code": "$lng->txt(\"cont_select_from_upload_dir\")",
+        "has_variable": false,
+        "variable": "cont_select_from_upload_dir"
+    },
+    {
+        "id": 17242,
+        "file": "components\/ILIAS\/Filesystem\/classes\/class.ilFileSystemGUI.php",
+        "line": 503,
+        "code": "$this->lng->txt(\"cont_uploaded_file\")",
+        "has_variable": false,
+        "variable": "cont_uploaded_file"
+    },
+    {
+        "id": 17244,
+        "file": "components\/ILIAS\/Filesystem\/classes\/class.ilFileSystemGUI.php",
+        "line": 506,
+        "code": "$lng->txt(\"copy\")",
+        "has_variable": false,
+        "variable": "copy"
+    },
+    {
+        "id": 17246,
+        "file": "components\/ILIAS\/Filesystem\/classes\/class.ilFileSystemGUI.php",
+        "line": 551,
+        "code": "$this->lng->txt(\"name\")",
+        "has_variable": false,
+        "variable": "name"
+    },
+    {
+        "id": 17248,
+        "file": "components\/ILIAS\/Filesystem\/classes\/class.ilFileSystemGUI.php",
+        "line": 558,
+        "code": "$this->lng->txt(\"rename\")",
+        "has_variable": false,
+        "variable": "rename"
+    },
+    {
+        "id": 17250,
+        "file": "components\/ILIAS\/Filesystem\/classes\/class.ilFileSystemGUI.php",
+        "line": 559,
+        "code": "$this->lng->txt(\"cancel\")",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 17252,
+        "file": "components\/ILIAS\/Filesystem\/classes\/class.ilFileSystemGUI.php",
+        "line": 563,
+        "code": "$this->lng->txt(\"cont_rename_dir\")",
+        "has_variable": false,
+        "variable": "cont_rename_dir"
+    },
+    {
+        "id": 17254,
+        "file": "components\/ILIAS\/Filesystem\/classes\/class.ilFileSystemGUI.php",
+        "line": 565,
+        "code": "$this->lng->txt(\"rename_file\")",
+        "has_variable": false,
+        "variable": "rename_file"
+    },
+    {
+        "id": 17256,
+        "file": "components\/ILIAS\/Filesystem\/classes\/class.ilFileSystemGUI.php",
+        "line": 580,
+        "code": "$this->lng->txt(\"enter_new_name\")",
+        "has_variable": false,
+        "variable": "enter_new_name"
+    },
+    {
+        "id": 17258,
+        "file": "components\/ILIAS\/Filesystem\/classes\/class.ilFileSystemGUI.php",
+        "line": 586,
+        "code": "$this->lng->txt(\"file_no_valid_file_type\")",
+        "has_variable": false,
+        "variable": "file_no_valid_file_type"
+    },
+    {
+        "id": 17260,
+        "file": "components\/ILIAS\/Filesystem\/classes\/class.ilFileSystemGUI.php",
+        "line": 603,
+        "code": "$this->lng->txt(\"no_permission\")",
+        "has_variable": false,
+        "variable": "no_permission"
+    },
+    {
+        "id": 17262,
+        "file": "components\/ILIAS\/Filesystem\/classes\/class.ilFileSystemGUI.php",
+        "line": 621,
+        "code": "$this->lng->txt(\"cont_dir_renamed\")",
+        "has_variable": false,
+        "variable": "cont_dir_renamed"
+    },
+    {
+        "id": 17264,
+        "file": "components\/ILIAS\/Filesystem\/classes\/class.ilFileSystemGUI.php",
+        "line": 630,
+        "code": "$this->lng->txt(\"cont_file_renamed\")",
+        "has_variable": false,
+        "variable": "cont_file_renamed"
+    },
+    {
+        "id": 17266,
+        "file": "components\/ILIAS\/Filesystem\/classes\/class.ilFileSystemGUI.php",
+        "line": 666,
+        "code": "$lng->txt(\"cont_dir_created\")",
+        "has_variable": false,
+        "variable": "cont_dir_created"
+    },
+    {
+        "id": 17268,
+        "file": "components\/ILIAS\/Filesystem\/classes\/class.ilFileSystemGUI.php",
+        "line": 670,
+        "code": "$lng->txt(\"cont_enter_a_dir_name\")",
+        "has_variable": false,
+        "variable": "cont_enter_a_dir_name"
+    },
+    {
+        "id": 17270,
+        "file": "components\/ILIAS\/Filesystem\/classes\/class.ilFileSystemGUI.php",
+        "line": 692,
+        "code": "$this->lng->txt(\"file_no_valid_file_type\")",
+        "has_variable": false,
+        "variable": "file_no_valid_file_type"
+    },
+    {
+        "id": 17272,
+        "file": "components\/ILIAS\/Filesystem\/classes\/class.ilFileSystemGUI.php",
+        "line": 748,
+        "code": "$lng->txt(\"cont_enter_a_file\")",
+        "has_variable": false,
+        "variable": "cont_enter_a_file"
+    },
+    {
+        "id": 17274,
+        "file": "components\/ILIAS\/Filesystem\/classes\/class.ilFileSystemGUI.php",
+        "line": 759,
+        "code": "$this->lng->txt(\"unzip\")",
+        "has_variable": false,
+        "variable": "unzip"
+    },
+    {
+        "id": 17276,
+        "file": "components\/ILIAS\/Filesystem\/classes\/class.ilFileSystemGUI.php",
+        "line": 766,
+        "code": "$lng->txt(\"cont_file_created\")",
+        "has_variable": false,
+        "variable": "cont_file_created"
+    },
+    {
+        "id": 17278,
+        "file": "components\/ILIAS\/Filesystem\/classes\/class.ilFileSystemGUI.php",
+        "line": 790,
+        "code": "$lng->txt(\"info_delete_sure\")",
+        "has_variable": false,
+        "variable": "info_delete_sure"
+    },
+    {
+        "id": 17280,
+        "file": "components\/ILIAS\/Filesystem\/classes\/class.ilFileSystemGUI.php",
+        "line": 791,
+        "code": "$lng->txt(\"cancel\")",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 17282,
+        "file": "components\/ILIAS\/Filesystem\/classes\/class.ilFileSystemGUI.php",
+        "line": 792,
+        "code": "$lng->txt(\"delete\")",
+        "has_variable": false,
+        "variable": "delete"
+    },
+    {
+        "id": 17284,
+        "file": "components\/ILIAS\/Filesystem\/classes\/class.ilFileSystemGUI.php",
+        "line": 804,
+        "code": "$this->lng->txt(\"no_checkbox\")",
+        "has_variable": false,
+        "variable": "no_checkbox"
+    },
+    {
+        "id": 17286,
+        "file": "components\/ILIAS\/Filesystem\/classes\/class.ilFileSystemGUI.php",
+        "line": 817,
+        "code": "$this->lng->txt(\"no_checkbox\")",
+        "has_variable": false,
+        "variable": "no_checkbox"
+    },
+    {
+        "id": 17288,
+        "file": "components\/ILIAS\/Filesystem\/classes\/class.ilFileSystemGUI.php",
+        "line": 840,
+        "code": "$this->lng->txt(\"cont_dir_deleted\")",
+        "has_variable": false,
+        "variable": "cont_dir_deleted"
+    },
+    {
+        "id": 17290,
+        "file": "components\/ILIAS\/Filesystem\/classes\/class.ilFileSystemGUI.php",
+        "line": 846,
+        "code": "$this->lng->txt(\"cont_file_deleted\")",
+        "has_variable": false,
+        "variable": "cont_file_deleted"
+    },
+    {
+        "id": 17292,
+        "file": "components\/ILIAS\/Filesystem\/classes\/class.ilFileSystemGUI.php",
+        "line": 893,
+        "code": "$this->lng->txt(\"file_some_invalid_file_types_removed\")",
+        "has_variable": false,
+        "variable": "file_some_invalid_file_types_removed"
+    },
+    {
+        "id": 17294,
+        "file": "components\/ILIAS\/Filesystem\/classes\/class.ilFileSystemGUI.php",
+        "line": 927,
+        "code": "$this->lng->txt(\"cont_file_unzipped\")",
+        "has_variable": false,
+        "variable": "cont_file_unzipped"
+    },
+    {
+        "id": 17296,
+        "file": "components\/ILIAS\/Filesystem\/classes\/class.ilFileSystemGUI.php",
+        "line": 957,
+        "code": "$this->lng->txt(\"download\")",
+        "has_variable": false,
+        "variable": "download"
+    },
+    {
+        "id": 17298,
+        "file": "components\/ILIAS\/Filesystem\/classes\/class.ilFileSystemGUI.php",
+        "line": 964,
+        "code": "$this->lng->txt(\"delete\")",
+        "has_variable": false,
+        "variable": "delete"
+    },
+    {
+        "id": 17300,
+        "file": "components\/ILIAS\/Filesystem\/classes\/class.ilFileSystemGUI.php",
+        "line": 971,
+        "code": "$this->lng->txt(\"unzip\")",
+        "has_variable": false,
+        "variable": "unzip"
+    },
+    {
+        "id": 17302,
+        "file": "components\/ILIAS\/Filesystem\/classes\/class.ilFileSystemGUI.php",
+        "line": 979,
+        "code": "$this->lng->txt(\"rename\")",
+        "has_variable": false,
+        "variable": "rename"
+    },
+    {
+        "id": 17304,
+        "file": "components\/ILIAS\/Filesystem\/classes\/class.ilFileSystemTableGUI.php",
+        "line": 77,
+        "code": "$this->lng->txt(\"cont_files\")",
+        "has_variable": false,
+        "variable": "cont_files"
+    },
+    {
+        "id": 17306,
+        "file": "components\/ILIAS\/Filesystem\/classes\/class.ilFileSystemTableGUI.php",
+        "line": 196,
+        "code": "$this->lng->txt(\"cont_dir_file\")",
+        "has_variable": false,
+        "variable": "cont_dir_file"
+    },
+    {
+        "id": 17308,
+        "file": "components\/ILIAS\/Filesystem\/classes\/class.ilFileSystemTableGUI.php",
+        "line": 197,
+        "code": "$this->lng->txt(\"cont_size\")",
+        "has_variable": false,
+        "variable": "cont_size"
+    },
+    {
+        "id": 17310,
+        "file": "components\/ILIAS\/Filesystem\/classes\/class.ilFileSystemTableGUI.php",
+        "line": 204,
+        "code": "$this->lng->txt(\"actions\")",
+        "has_variable": false,
+        "variable": "actions"
+    },
+    {
+        "id": 17312,
+        "file": "components\/ILIAS\/Filesystem\/classes\/class.ilUploadFiles.php",
+        "line": 90,
+        "code": "$lng->txt(\"upload_error_file_not_found\")",
+        "has_variable": false,
+        "variable": "upload_error_file_not_found"
+    },
+    {
+        "id": 17314,
+        "file": "components\/ILIAS\/Filesystem\/classes\/class.ilUploadFiles.php",
+        "line": 92,
+        "code": "$lng->txt(\"upload_error_file_not_found\")",
+        "has_variable": false,
+        "variable": "upload_error_file_not_found"
+    },
+    {
+        "id": 17316,
+        "file": "components\/ILIAS\/Filesystem\/classes\/class.ilUploadFiles.php",
+        "line": 102,
+        "code": "$lng->txt(\"file_is_infected\")",
+        "has_variable": false,
+        "variable": "file_is_infected"
+    },
+    {
+        "id": 17318,
+        "file": "components\/ILIAS\/Filesystem\/classes\/class.ilUploadFiles.php",
+        "line": 107,
+        "code": "$lng->txt(\"file_is_infected\")",
+        "has_variable": false,
+        "variable": "file_is_infected"
+    }
+]

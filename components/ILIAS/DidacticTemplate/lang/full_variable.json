@@ -1,0 +1,31 @@
+{
+    "metadata": {
+        "type": "full",
+        "count": 2,
+        "description": "Variable usages without detectable prefixes or suffixes (pure variable references without static strings)"
+    },
+    "matches": [
+        {
+            "id": 13836,
+            "file": "components\/ILIAS\/DidacticTemplate\/classes\/Setting\/class.ilDidacticTemplateSetting.php",
+            "line": 109,
+            "code": "$this->lng->txt($this->getTitle())",
+            "variable": "$this->getTitle()",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 13838,
+            "file": "components\/ILIAS\/DidacticTemplate\/classes\/Setting\/class.ilDidacticTemplateSetting.php",
+            "line": 124,
+            "code": "$this->lng->txt($this->getDescription())",
+            "variable": "$this->getDescription()",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        }
+    ]
+}

@@ -1,0 +1,106 @@
+[
+    {
+        "id": 48416,
+        "file": "components\/ILIAS\/VirusScanner\/classes\/class.ilVirusScanner.php",
+        "line": 87,
+        "code": "$lng->txt('cleaned_file')",
+        "has_variable": false,
+        "variable": "cleaned_file"
+    },
+    {
+        "id": 48418,
+        "file": "components\/ILIAS\/VirusScanner\/classes\/class.ilVirusScanner.php",
+        "line": 88,
+        "code": "$lng->txt('repeat_scan')",
+        "has_variable": false,
+        "variable": "repeat_scan"
+    },
+    {
+        "id": 48420,
+        "file": "components\/ILIAS\/VirusScanner\/classes\/class.ilVirusScanner.php",
+        "line": 92,
+        "code": "$lng->txt('repeat_scan_failed')",
+        "has_variable": false,
+        "variable": "repeat_scan_failed"
+    },
+    {
+        "id": 48422,
+        "file": "components\/ILIAS\/VirusScanner\/classes\/class.ilVirusScanner.php",
+        "line": 96,
+        "code": "$lng->txt('repeat_scan_succeded')",
+        "has_variable": false,
+        "variable": "repeat_scan_succeded"
+    },
+    {
+        "id": 48424,
+        "file": "components\/ILIAS\/VirusScanner\/classes\/class.ilVirusScanner.php",
+        "line": 99,
+        "code": "$lng->txt('cleaning_failed')",
+        "has_variable": false,
+        "variable": "cleaning_failed"
+    },
+    {
+        "id": 48426,
+        "file": "components\/ILIAS\/VirusScanner\/classes\/class.ilVirusScanner.php",
+        "line": 212,
+        "code": "$this->lng->txt('virus_infected')",
+        "has_variable": false,
+        "variable": "virus_infected"
+    },
+    {
+        "id": 48428,
+        "file": "components\/ILIAS\/VirusScanner\/classes\/class.ilVirusScanner.php",
+        "line": 214,
+        "code": "$this->lng->txt('virus_not_infected')",
+        "has_variable": false,
+        "variable": "virus_not_infected"
+    },
+    {
+        "id": 48430,
+        "file": "components\/ILIAS\/VirusScanner\/classes\/class.ilVirusScanner.php",
+        "line": 218,
+        "code": "$this->lng->txt('virus_scan_message')",
+        "has_variable": false,
+        "variable": "virus_scan_message"
+    },
+    {
+        "id": 48432,
+        "file": "components\/ILIAS\/VirusScanner\/classes\/class.ilVirusScanner.php",
+        "line": 232,
+        "code": "$this->lng->txt('virus_cleaned')",
+        "has_variable": false,
+        "variable": "virus_cleaned"
+    },
+    {
+        "id": 48434,
+        "file": "components\/ILIAS\/VirusScanner\/classes\/class.ilVirusScanner.php",
+        "line": 234,
+        "code": "$this->lng->txt('virus_not_cleaned')",
+        "has_variable": false,
+        "variable": "virus_not_cleaned"
+    },
+    {
+        "id": 48436,
+        "file": "components\/ILIAS\/VirusScanner\/classes\/class.ilVirusScanner.php",
+        "line": 238,
+        "code": "$this->lng->txt('virus_clean_message')",
+        "has_variable": false,
+        "variable": "virus_clean_message"
+    },
+    {
+        "id": 48438,
+        "file": "components\/ILIAS\/VirusScanner\/classes\/class.ilVirusScannerSophos.php",
+        "line": 86,
+        "code": "$this->lng->txt('virus_scan_error')",
+        "has_variable": false,
+        "variable": "virus_scan_error"
+    },
+    {
+        "id": 48440,
+        "file": "components\/ILIAS\/VirusScanner\/classes\/class.ilVirusScannerSophos.php",
+        "line": 87,
+        "code": "$this->lng->txt('virus_scan_message')",
+        "has_variable": false,
+        "variable": "virus_scan_message"
+    }
+]

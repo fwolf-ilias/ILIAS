@@ -1,0 +1,1666 @@
+[
+    {
+        "id": 2578,
+        "file": "components\/ILIAS\/Badge\/GlobalScreen\/BadgeNotificationProvider.php",
+        "line": 52,
+        "code": "$lng->txt(\"badge_badge\")",
+        "has_variable": false,
+        "variable": "badge_badge"
+    },
+    {
+        "id": 2580,
+        "file": "components\/ILIAS\/Badge\/GlobalScreen\/BadgeNotificationProvider.php",
+        "line": 54,
+        "code": "$lng->txt(\"mm_badges\")",
+        "has_variable": false,
+        "variable": "mm_badges"
+    },
+    {
+        "id": 2582,
+        "file": "components\/ILIAS\/Badge\/GlobalScreen\/BadgeNotificationProvider.php",
+        "line": 60,
+        "code": "$lng->txt(\"badge_new_badges\")",
+        "has_variable": false,
+        "variable": "badge_new_badges"
+    },
+    {
+        "id": 2584,
+        "file": "components\/ILIAS\/Badge\/GlobalScreen\/BadgeNotificationProvider.php",
+        "line": 61,
+        "code": "$lng->txt(\"time\")",
+        "has_variable": false,
+        "variable": "time"
+    },
+    {
+        "id": 2586,
+        "file": "components\/ILIAS\/Badge\/GlobalScreen\/BadgeNotificationProvider.php",
+        "line": 65,
+        "code": "$lng->txt('badge_badge')",
+        "has_variable": false,
+        "variable": "badge_badge"
+    },
+    {
+        "id": 2588,
+        "file": "components\/ILIAS\/Badge\/LearningHistory\/classes\/class.ilBadgeLearningHistoryProvider.php",
+        "line": 68,
+        "code": "$lng->txt('badge_lhist_badge_completed')",
+        "has_variable": false,
+        "variable": "badge_lhist_badge_completed"
+    },
+    {
+        "id": 2590,
+        "file": "components\/ILIAS\/Badge\/LearningHistory\/classes\/class.ilBadgeLearningHistoryProvider.php",
+        "line": 69,
+        "code": "$lng->txt('badge_lhist_badge_completed_in')",
+        "has_variable": false,
+        "variable": "badge_lhist_badge_completed_in"
+    },
+    {
+        "id": 2592,
+        "file": "components\/ILIAS\/Badge\/classes\/ModalBuilder.php",
+        "line": 115,
+        "code": "$this->lng->txt($lang_var)",
+        "has_variable": true,
+        "variable": "$lang_var"
+    },
+    {
+        "id": 2594,
+        "file": "components\/ILIAS\/Badge\/classes\/Tile.php",
+        "line": 169,
+        "code": "$this->txt('criteria')",
+        "has_variable": false,
+        "variable": "criteria"
+    },
+    {
+        "id": 2596,
+        "file": "components\/ILIAS\/Badge\/classes\/Tile.php",
+        "line": 170,
+        "code": "$this->txt('awarded_by')",
+        "has_variable": false,
+        "variable": "awarded_by"
+    },
+    {
+        "id": 2598,
+        "file": "components\/ILIAS\/Badge\/classes\/Tile.php",
+        "line": 171,
+        "code": "$this->txt('valid_until')",
+        "has_variable": false,
+        "variable": "valid_until"
+    },
+    {
+        "id": 2600,
+        "file": "components\/ILIAS\/Badge\/classes\/Tile.php",
+        "line": 183,
+        "code": "$this->txt('badge_issued_on')",
+        "has_variable": false,
+        "variable": "badge_issued_on"
+    },
+    {
+        "id": 2602,
+        "file": "components\/ILIAS\/Badge\/classes\/Tile.php",
+        "line": 195,
+        "code": "$this->txt('endless')",
+        "has_variable": false,
+        "variable": "endless"
+    },
+    {
+        "id": 2604,
+        "file": "components\/ILIAS\/Badge\/classes\/Tile.php",
+        "line": 219,
+        "code": "$this->txt($active ? 'badge_remove_from_profile' : 'badge_add_to_profile')",
+        "has_variable": true,
+        "variable": "_"
+    },
+    {
+        "id": 2606,
+        "file": "components\/ILIAS\/Badge\/classes\/class.PublicUserProfileBadgesRenderer.php",
+        "line": 100,
+        "code": "$this->lng->txt('badge_profile_more')",
+        "has_variable": false,
+        "variable": "badge_profile_more"
+    },
+    {
+        "id": 2608,
+        "file": "components\/ILIAS\/Badge\/classes\/class.PublicUserProfileBadgesRenderer.php",
+        "line": 101,
+        "code": "$this->lng->txt('badge_profile_less')",
+        "has_variable": false,
+        "variable": "badge_profile_less"
+    },
+    {
+        "id": 2610,
+        "file": "components\/ILIAS\/Badge\/classes\/class.PublicUserProfileBadgesRenderer.php",
+        "line": 105,
+        "code": "$this->lng->txt('obj_bdga')",
+        "has_variable": false,
+        "variable": "obj_bdga"
+    },
+    {
+        "id": 2612,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilBadge.php",
+        "line": 606,
+        "code": "$lng->txt(\"badge_subtype_auto\")",
+        "has_variable": false,
+        "variable": "badge_subtype_auto"
+    },
+    {
+        "id": 2614,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilBadge.php",
+        "line": 607,
+        "code": "$lng->txt(\"badge_subtype_manual\")",
+        "has_variable": false,
+        "variable": "badge_subtype_manual"
+    },
+    {
+        "id": 2616,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilBadgeHandler.php",
+        "line": 538,
+        "code": "$lng->txt('badge_notification_subject')",
+        "has_variable": false,
+        "variable": "badge_notification_subject"
+    },
+    {
+        "id": 2618,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilBadgeImageTemplateTableGUI.php",
+        "line": 173,
+        "code": "$this->lng->txt('image')",
+        "has_variable": false,
+        "variable": "image"
+    },
+    {
+        "id": 2620,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilBadgeImageTemplateTableGUI.php",
+        "line": 174,
+        "code": "$this->lng->txt('title')",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 2622,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilBadgeImageTemplateTableGUI.php",
+        "line": 188,
+        "code": "$this->lng->txt('edit')",
+        "has_variable": false,
+        "variable": "edit"
+    },
+    {
+        "id": 2624,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilBadgeImageTemplateTableGUI.php",
+        "line": 194,
+        "code": "$this->lng->txt('delete')",
+        "has_variable": false,
+        "variable": "delete"
+    },
+    {
+        "id": 2626,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilBadgeImageTemplateTableGUI.php",
+        "line": 217,
+        "code": "$this->lng->txt('badge_image_templates')",
+        "has_variable": false,
+        "variable": "badge_image_templates"
+    },
+    {
+        "id": 2628,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilBadgeImageTemplateTableGUI.php",
+        "line": 268,
+        "code": "$this->lng->txt('badge_deletion')",
+        "has_variable": false,
+        "variable": "badge_deletion"
+    },
+    {
+        "id": 2630,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilBadgeImageTemplateTableGUI.php",
+        "line": 269,
+        "code": "$this->lng->txt('badge_deletion_confirmation')",
+        "has_variable": false,
+        "variable": "badge_deletion_confirmation"
+    },
+    {
+        "id": 2632,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilBadgeManagementGUI.php",
+        "line": 232,
+        "code": "$this->lng->txt('obj_bdga')",
+        "has_variable": false,
+        "variable": "obj_bdga"
+    },
+    {
+        "id": 2634,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilBadgeManagementGUI.php",
+        "line": 238,
+        "code": "$this->lng->txt('users')",
+        "has_variable": false,
+        "variable": "users"
+    },
+    {
+        "id": 2636,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilBadgeManagementGUI.php",
+        "line": 272,
+        "code": "$this->lng->txt('badge_create')",
+        "has_variable": false,
+        "variable": "badge_create"
+    },
+    {
+        "id": 2638,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilBadgeManagementGUI.php",
+        "line": 277,
+        "code": "$this->lng->txt('badge_no_valid_types_for_obj')",
+        "has_variable": false,
+        "variable": "badge_no_valid_types_for_obj"
+    },
+    {
+        "id": 2640,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilBadgeManagementGUI.php",
+        "line": 295,
+        "code": "$this->lng->txt('cont_paste_from_clipboard')",
+        "has_variable": false,
+        "variable": "cont_paste_from_clipboard"
+    },
+    {
+        "id": 2642,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilBadgeManagementGUI.php",
+        "line": 304,
+        "code": "$this->lng->txt('clear_clipboard')",
+        "has_variable": false,
+        "variable": "clear_clipboard"
+    },
+    {
+        "id": 2644,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilBadgeManagementGUI.php",
+        "line": 348,
+        "code": "$this->lng->txt('badge_badge')",
+        "has_variable": false,
+        "variable": "badge_badge"
+    },
+    {
+        "id": 2646,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilBadgeManagementGUI.php",
+        "line": 350,
+        "code": "$this->lng->txt('active')",
+        "has_variable": false,
+        "variable": "active"
+    },
+    {
+        "id": 2648,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilBadgeManagementGUI.php",
+        "line": 353,
+        "code": "$this->lng->txt('title')",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 2650,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilBadgeManagementGUI.php",
+        "line": 358,
+        "code": "$this->lng->txt('description')",
+        "has_variable": false,
+        "variable": "description"
+    },
+    {
+        "id": 2652,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilBadgeManagementGUI.php",
+        "line": 363,
+        "code": "$this->lng->txt('badge_criteria')",
+        "has_variable": false,
+        "variable": "badge_criteria"
+    },
+    {
+        "id": 2654,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilBadgeManagementGUI.php",
+        "line": 371,
+        "code": "$this->lng->txt('image')",
+        "has_variable": false,
+        "variable": "image"
+    },
+    {
+        "id": 2656,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilBadgeManagementGUI.php",
+        "line": 376,
+        "code": "$this->lng->txt('badge_image_from_template')",
+        "has_variable": false,
+        "variable": "badge_image_from_template"
+    },
+    {
+        "id": 2658,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilBadgeManagementGUI.php",
+        "line": 379,
+        "code": "$this->lng->txt('badge_image_from_upload')",
+        "has_variable": false,
+        "variable": "badge_image_from_upload"
+    },
+    {
+        "id": 2660,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilBadgeManagementGUI.php",
+        "line": 382,
+        "code": "$this->lng->txt('file')",
+        "has_variable": false,
+        "variable": "file"
+    },
+    {
+        "id": 2662,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilBadgeManagementGUI.php",
+        "line": 392,
+        "code": "$this->lng->txt('please_select')",
+        "has_variable": false,
+        "variable": "please_select"
+    },
+    {
+        "id": 2664,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilBadgeManagementGUI.php",
+        "line": 397,
+        "code": "$this->lng->txt('badge_image_template_form')",
+        "has_variable": false,
+        "variable": "badge_image_template_form"
+    },
+    {
+        "id": 2666,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilBadgeManagementGUI.php",
+        "line": 407,
+        "code": "$this->lng->txt('image')",
+        "has_variable": false,
+        "variable": "image"
+    },
+    {
+        "id": 2668,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilBadgeManagementGUI.php",
+        "line": 414,
+        "code": "$this->lng->txt('badge_valid')",
+        "has_variable": false,
+        "variable": "badge_valid"
+    },
+    {
+        "id": 2670,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilBadgeManagementGUI.php",
+        "line": 426,
+        "code": "$this->lng->txt('save')",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 2672,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilBadgeManagementGUI.php",
+        "line": 428,
+        "code": "$this->lng->txt('save')",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 2674,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilBadgeManagementGUI.php",
+        "line": 430,
+        "code": "$this->lng->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 2676,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilBadgeManagementGUI.php",
+        "line": 482,
+        "code": "$this->lng->txt('settings_saved')",
+        "has_variable": false,
+        "variable": "settings_saved"
+    },
+    {
+        "id": 2678,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilBadgeManagementGUI.php",
+        "line": 510,
+        "code": "$this->lng->txt('badge_edit_with_published')",
+        "has_variable": false,
+        "variable": "badge_edit_with_published"
+    },
+    {
+        "id": 2680,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilBadgeManagementGUI.php",
+        "line": 595,
+        "code": "$this->lng->txt('settings_saved')",
+        "has_variable": false,
+        "variable": "settings_saved"
+    },
+    {
+        "id": 2682,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilBadgeManagementGUI.php",
+        "line": 599,
+        "code": "$this->lng->txt('form_input_not_valid')",
+        "has_variable": false,
+        "variable": "form_input_not_valid"
+    },
+    {
+        "id": 2684,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilBadgeManagementGUI.php",
+        "line": 616,
+        "code": "$this->lng->txt('back')",
+        "has_variable": false,
+        "variable": "back"
+    },
+    {
+        "id": 2686,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilBadgeManagementGUI.php",
+        "line": 622,
+        "code": "$this->lng->txt('badge_deletion_confirmation')",
+        "has_variable": false,
+        "variable": "badge_deletion_confirmation"
+    },
+    {
+        "id": 2688,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilBadgeManagementGUI.php",
+        "line": 623,
+        "code": "$this->lng->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 2690,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilBadgeManagementGUI.php",
+        "line": 624,
+        "code": "$this->lng->txt('delete')",
+        "has_variable": false,
+        "variable": "delete"
+    },
+    {
+        "id": 2692,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilBadgeManagementGUI.php",
+        "line": 648,
+        "code": "$this->lng->txt('settings_saved')",
+        "has_variable": false,
+        "variable": "settings_saved"
+    },
+    {
+        "id": 2694,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilBadgeManagementGUI.php",
+        "line": 650,
+        "code": "$this->lng->txt('badge_select_one')",
+        "has_variable": false,
+        "variable": "badge_select_one"
+    },
+    {
+        "id": 2696,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilBadgeManagementGUI.php",
+        "line": 719,
+        "code": "$this->lng->txt('copy_of_suffix')",
+        "has_variable": false,
+        "variable": "copy_of_suffix"
+    },
+    {
+        "id": 2698,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilBadgeManagementGUI.php",
+        "line": 745,
+        "code": "$this->lng->txt('settings_saved')",
+        "has_variable": false,
+        "variable": "settings_saved"
+    },
+    {
+        "id": 2700,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilBadgeManagementGUI.php",
+        "line": 750,
+        "code": "$this->lng->txt('badge_select_one')",
+        "has_variable": false,
+        "variable": "badge_select_one"
+    },
+    {
+        "id": 2702,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilBadgeManagementGUI.php",
+        "line": 780,
+        "code": "$this->lng->txt('badge_badge')",
+        "has_variable": false,
+        "variable": "badge_badge"
+    },
+    {
+        "id": 2704,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilBadgeManagementGUI.php",
+        "line": 788,
+        "code": "$this->lng->txt('badge_award_badge')",
+        "has_variable": false,
+        "variable": "badge_award_badge"
+    },
+    {
+        "id": 2706,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilBadgeManagementGUI.php",
+        "line": 844,
+        "code": "$this->lng->txt('back')",
+        "has_variable": false,
+        "variable": "back"
+    },
+    {
+        "id": 2708,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilBadgeManagementGUI.php",
+        "line": 880,
+        "code": "$this->lng->txt('settings_saved')",
+        "has_variable": false,
+        "variable": "settings_saved"
+    },
+    {
+        "id": 2710,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilBadgeManagementGUI.php",
+        "line": 897,
+        "code": "$this->lng->txt('back')",
+        "has_variable": false,
+        "variable": "back"
+    },
+    {
+        "id": 2712,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilBadgeManagementGUI.php",
+        "line": 908,
+        "code": "$this->lng->txt('badge_assignment_deletion_confirmation')",
+        "has_variable": false,
+        "variable": "badge_assignment_deletion_confirmation"
+    },
+    {
+        "id": 2714,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilBadgeManagementGUI.php",
+        "line": 910,
+        "code": "$this->lng->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 2716,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilBadgeManagementGUI.php",
+        "line": 911,
+        "code": "$this->lng->txt('badge_remove_badge')",
+        "has_variable": false,
+        "variable": "badge_remove_badge"
+    },
+    {
+        "id": 2718,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilBadgeManagementGUI.php",
+        "line": 949,
+        "code": "$this->lng->txt('settings_saved')",
+        "has_variable": false,
+        "variable": "settings_saved"
+    },
+    {
+        "id": 2720,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilBadgePersonalTableGUI.php",
+        "line": 318,
+        "code": "$this->lng->txt('image')",
+        "has_variable": false,
+        "variable": "image"
+    },
+    {
+        "id": 2722,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilBadgePersonalTableGUI.php",
+        "line": 319,
+        "code": "$this->lng->txt('title')",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 2724,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilBadgePersonalTableGUI.php",
+        "line": 320,
+        "code": "$this->lng->txt('awarded_by')",
+        "has_variable": false,
+        "variable": "awarded_by"
+    },
+    {
+        "id": 2726,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilBadgePersonalTableGUI.php",
+        "line": 322,
+        "code": "$this->lng->txt('badge_issued_on')",
+        "has_variable": false,
+        "variable": "badge_issued_on"
+    },
+    {
+        "id": 2728,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilBadgePersonalTableGUI.php",
+        "line": 326,
+        "code": "$this->lng->txt('badge_in_profile')",
+        "has_variable": false,
+        "variable": "badge_in_profile"
+    },
+    {
+        "id": 2730,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilBadgePersonalTableGUI.php",
+        "line": 327,
+        "code": "$this->lng->txt('yes')",
+        "has_variable": false,
+        "variable": "yes"
+    },
+    {
+        "id": 2732,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilBadgePersonalTableGUI.php",
+        "line": 328,
+        "code": "$this->lng->txt('no')",
+        "has_variable": false,
+        "variable": "no"
+    },
+    {
+        "id": 2734,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilBadgePersonalTableGUI.php",
+        "line": 330,
+        "code": "$this->lng->txt('badge_sort_added_to_profile_first')",
+        "has_variable": false,
+        "variable": "badge_sort_added_to_profile_first"
+    },
+    {
+        "id": 2736,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilBadgePersonalTableGUI.php",
+        "line": 331,
+        "code": "$this->lng->txt('badge_sort_excluded_from_profile_first')",
+        "has_variable": false,
+        "variable": "badge_sort_excluded_from_profile_first"
+    },
+    {
+        "id": 2738,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilBadgePersonalTableGUI.php",
+        "line": 346,
+        "code": "$this->lng->txt('badge_add_to_profile')",
+        "has_variable": false,
+        "variable": "badge_add_to_profile"
+    },
+    {
+        "id": 2740,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilBadgePersonalTableGUI.php",
+        "line": 352,
+        "code": "$this->lng->txt('badge_remove_from_profile')",
+        "has_variable": false,
+        "variable": "badge_remove_from_profile"
+    },
+    {
+        "id": 2742,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilBadgePersonalTableGUI.php",
+        "line": 377,
+        "code": "$this->lng->txt('badge_personal_badges')",
+        "has_variable": false,
+        "variable": "badge_personal_badges"
+    },
+    {
+        "id": 2744,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilBadgePersonalTableGUI.php",
+        "line": 387,
+        "code": "$this->lng->txt('table_view')",
+        "has_variable": false,
+        "variable": "table_view"
+    },
+    {
+        "id": 2746,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilBadgeProfileGUI.php",
+        "line": 172,
+        "code": "$this->lng->txt('select_one')",
+        "has_variable": false,
+        "variable": "select_one"
+    },
+    {
+        "id": 2748,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilBadgeProfileGUI.php",
+        "line": 186,
+        "code": "$this->lng->txt('position_updated')",
+        "has_variable": false,
+        "variable": "position_updated"
+    },
+    {
+        "id": 2750,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilBadgeProfileGUI.php",
+        "line": 200,
+        "code": "$this->lng->txt('position_updated')",
+        "has_variable": false,
+        "variable": "position_updated"
+    },
+    {
+        "id": 2752,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilBadgeProfileGUI.php",
+        "line": 214,
+        "code": "$this->lng->txt('position_updated')",
+        "has_variable": false,
+        "variable": "position_updated"
+    },
+    {
+        "id": 2754,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilBadgeProfileGUI.php",
+        "line": 228,
+        "code": "$this->lng->txt('position_updated')",
+        "has_variable": false,
+        "variable": "position_updated"
+    },
+    {
+        "id": 2756,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilBadgeProfileGUI.php",
+        "line": 236,
+        "code": "$this->lng->txt('obj_bdga')",
+        "has_variable": false,
+        "variable": "obj_bdga"
+    },
+    {
+        "id": 2758,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilBadgeProfileGUI.php",
+        "line": 242,
+        "code": "$this->lng->txt('settings')",
+        "has_variable": false,
+        "variable": "settings"
+    },
+    {
+        "id": 2760,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilBadgeProfileGUI.php",
+        "line": 254,
+        "code": "$this->lng->txt('badge_backpack_gallery_info')",
+        "has_variable": false,
+        "variable": "badge_backpack_gallery_info"
+    },
+    {
+        "id": 2762,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilBadgeProfileGUI.php",
+        "line": 260,
+        "code": "$this->lng->txt('badge_backpack_no_groups')",
+        "has_variable": false,
+        "variable": "badge_backpack_no_groups"
+    },
+    {
+        "id": 2764,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilBadgeProfileGUI.php",
+        "line": 266,
+        "code": "$this->lng->txt('badge_backpack_list')",
+        "has_variable": false,
+        "variable": "badge_backpack_list"
+    },
+    {
+        "id": 2766,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilBadgeProfileGUI.php",
+        "line": 312,
+        "code": "$this->lng->txt('settings')",
+        "has_variable": false,
+        "variable": "settings"
+    },
+    {
+        "id": 2768,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilBadgeProfileGUI.php",
+        "line": 314,
+        "code": "$this->lng->txt('badge_backpack_email')",
+        "has_variable": false,
+        "variable": "badge_backpack_email"
+    },
+    {
+        "id": 2770,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilBadgeProfileGUI.php",
+        "line": 315,
+        "code": "$this->lng->txt('badge_backpack_email_info')",
+        "has_variable": false,
+        "variable": "badge_backpack_email_info"
+    },
+    {
+        "id": 2772,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilBadgeProfileGUI.php",
+        "line": 319,
+        "code": "$this->lng->txt('save')",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 2774,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilBadgeProfileGUI.php",
+        "line": 343,
+        "code": "$this->lng->txt('settings_saved')",
+        "has_variable": false,
+        "variable": "settings_saved"
+    },
+    {
+        "id": 2776,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilBadgeTableGUI.php",
+        "line": 280,
+        "code": "$this->lng->txt('image')",
+        "has_variable": false,
+        "variable": "image"
+    },
+    {
+        "id": 2778,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilBadgeTableGUI.php",
+        "line": 281,
+        "code": "$this->lng->txt('title')",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 2780,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilBadgeTableGUI.php",
+        "line": 282,
+        "code": "$this->lng->txt('type')",
+        "has_variable": false,
+        "variable": "type"
+    },
+    {
+        "id": 2782,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilBadgeTableGUI.php",
+        "line": 284,
+        "code": "$this->lng->txt('active')",
+        "has_variable": false,
+        "variable": "active"
+    },
+    {
+        "id": 2784,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilBadgeTableGUI.php",
+        "line": 285,
+        "code": "$this->lng->txt('yes')",
+        "has_variable": false,
+        "variable": "yes"
+    },
+    {
+        "id": 2786,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilBadgeTableGUI.php",
+        "line": 286,
+        "code": "$this->lng->txt('no')",
+        "has_variable": false,
+        "variable": "no"
+    },
+    {
+        "id": 2788,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilBadgeTableGUI.php",
+        "line": 288,
+        "code": "$this->lng->txt('badge_sort_active_badges_first')",
+        "has_variable": false,
+        "variable": "badge_sort_active_badges_first"
+    },
+    {
+        "id": 2790,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilBadgeTableGUI.php",
+        "line": 289,
+        "code": "$this->lng->txt('badge_sort_active_badges_last')",
+        "has_variable": false,
+        "variable": "badge_sort_active_badges_last"
+    },
+    {
+        "id": 2792,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilBadgeTableGUI.php",
+        "line": 305,
+        "code": "$this->lng->txt('activate')",
+        "has_variable": false,
+        "variable": "activate"
+    },
+    {
+        "id": 2794,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilBadgeTableGUI.php",
+        "line": 311,
+        "code": "$this->lng->txt('deactivate')",
+        "has_variable": false,
+        "variable": "deactivate"
+    },
+    {
+        "id": 2796,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilBadgeTableGUI.php",
+        "line": 316,
+        "code": "$this->lng->txt('edit')",
+        "has_variable": false,
+        "variable": "edit"
+    },
+    {
+        "id": 2798,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilBadgeTableGUI.php",
+        "line": 322,
+        "code": "$this->lng->txt('delete')",
+        "has_variable": false,
+        "variable": "delete"
+    },
+    {
+        "id": 2800,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilBadgeTableGUI.php",
+        "line": 328,
+        "code": "$this->lng->txt('badge_award_revoke')",
+        "has_variable": false,
+        "variable": "badge_award_revoke"
+    },
+    {
+        "id": 2802,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilBadgeTableGUI.php",
+        "line": 351,
+        "code": "$this->lng->txt('obj_bdga')",
+        "has_variable": false,
+        "variable": "obj_bdga"
+    },
+    {
+        "id": 2804,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilBadgeTableGUI.php",
+        "line": 380,
+        "code": "$this->lng->txt('badge_deletion')",
+        "has_variable": false,
+        "variable": "badge_deletion"
+    },
+    {
+        "id": 2806,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilBadgeTableGUI.php",
+        "line": 381,
+        "code": "$this->lng->txt('badge_deletion_confirmation')",
+        "has_variable": false,
+        "variable": "badge_deletion_confirmation"
+    },
+    {
+        "id": 2808,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilBadgeTypesTableGUI.php",
+        "line": 165,
+        "code": "$this->lng->txt('name')",
+        "has_variable": false,
+        "variable": "name"
+    },
+    {
+        "id": 2810,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilBadgeTypesTableGUI.php",
+        "line": 166,
+        "code": "$this->lng->txt('cmps_component')",
+        "has_variable": false,
+        "variable": "cmps_component"
+    },
+    {
+        "id": 2812,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilBadgeTypesTableGUI.php",
+        "line": 168,
+        "code": "$this->lng->txt('badge_manual')",
+        "has_variable": false,
+        "variable": "badge_manual"
+    },
+    {
+        "id": 2814,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilBadgeTypesTableGUI.php",
+        "line": 169,
+        "code": "$this->lng->txt('yes')",
+        "has_variable": false,
+        "variable": "yes"
+    },
+    {
+        "id": 2816,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilBadgeTypesTableGUI.php",
+        "line": 170,
+        "code": "$this->lng->txt('no')",
+        "has_variable": false,
+        "variable": "no"
+    },
+    {
+        "id": 2818,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilBadgeTypesTableGUI.php",
+        "line": 172,
+        "code": "$this->lng->txt('badge_sort_manual_awarding_first')",
+        "has_variable": false,
+        "variable": "badge_sort_manual_awarding_first"
+    },
+    {
+        "id": 2820,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilBadgeTypesTableGUI.php",
+        "line": 173,
+        "code": "$this->lng->txt('badge_sort_manual_awarding_last')",
+        "has_variable": false,
+        "variable": "badge_sort_manual_awarding_last"
+    },
+    {
+        "id": 2822,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilBadgeTypesTableGUI.php",
+        "line": 176,
+        "code": "$this->lng->txt('badge_activity_badges')",
+        "has_variable": false,
+        "variable": "badge_activity_badges"
+    },
+    {
+        "id": 2824,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilBadgeTypesTableGUI.php",
+        "line": 177,
+        "code": "$this->lng->txt('yes')",
+        "has_variable": false,
+        "variable": "yes"
+    },
+    {
+        "id": 2826,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilBadgeTypesTableGUI.php",
+        "line": 178,
+        "code": "$this->lng->txt('no')",
+        "has_variable": false,
+        "variable": "no"
+    },
+    {
+        "id": 2828,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilBadgeTypesTableGUI.php",
+        "line": 180,
+        "code": "$this->lng->txt('badge_sort_activity_badges_first')",
+        "has_variable": false,
+        "variable": "badge_sort_activity_badges_first"
+    },
+    {
+        "id": 2830,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilBadgeTypesTableGUI.php",
+        "line": 181,
+        "code": "$this->lng->txt('badge_sort_activity_badges_last')",
+        "has_variable": false,
+        "variable": "badge_sort_activity_badges_last"
+    },
+    {
+        "id": 2832,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilBadgeTypesTableGUI.php",
+        "line": 184,
+        "code": "$this->lng->txt('active')",
+        "has_variable": false,
+        "variable": "active"
+    },
+    {
+        "id": 2834,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilBadgeTypesTableGUI.php",
+        "line": 185,
+        "code": "$this->lng->txt('yes')",
+        "has_variable": false,
+        "variable": "yes"
+    },
+    {
+        "id": 2836,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilBadgeTypesTableGUI.php",
+        "line": 186,
+        "code": "$this->lng->txt('no')",
+        "has_variable": false,
+        "variable": "no"
+    },
+    {
+        "id": 2838,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilBadgeTypesTableGUI.php",
+        "line": 188,
+        "code": "$this->lng->txt('badge_sort_active_badges_first')",
+        "has_variable": false,
+        "variable": "badge_sort_active_badges_first"
+    },
+    {
+        "id": 2840,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilBadgeTypesTableGUI.php",
+        "line": 189,
+        "code": "$this->lng->txt('badge_sort_active_badges_last')",
+        "has_variable": false,
+        "variable": "badge_sort_active_badges_last"
+    },
+    {
+        "id": 2842,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilBadgeTypesTableGUI.php",
+        "line": 204,
+        "code": "$this->lng->txt('activate')",
+        "has_variable": false,
+        "variable": "activate"
+    },
+    {
+        "id": 2844,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilBadgeTypesTableGUI.php",
+        "line": 210,
+        "code": "$this->lng->txt('deactivate')",
+        "has_variable": false,
+        "variable": "deactivate"
+    },
+    {
+        "id": 2846,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilBadgeTypesTableGUI.php",
+        "line": 233,
+        "code": "$this->lng->txt('badge_types')",
+        "has_variable": false,
+        "variable": "badge_types"
+    },
+    {
+        "id": 2848,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilBadgeUserTableGUI.php",
+        "line": 188,
+        "code": "$this->lng->txt('obj_' . $parent_metadata['type'])",
+        "has_variable": true,
+        "variable": "'obj_' . $parent_metadata['type']"
+    },
+    {
+        "id": 2850,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilBadgeUserTableGUI.php",
+        "line": 305,
+        "code": "$this->lng->txt('name')",
+        "has_variable": false,
+        "variable": "name"
+    },
+    {
+        "id": 2852,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilBadgeUserTableGUI.php",
+        "line": 306,
+        "code": "$this->lng->txt('login')",
+        "has_variable": false,
+        "variable": "login"
+    },
+    {
+        "id": 2854,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilBadgeUserTableGUI.php",
+        "line": 307,
+        "code": "$this->lng->txt('type')",
+        "has_variable": false,
+        "variable": "type"
+    },
+    {
+        "id": 2856,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilBadgeUserTableGUI.php",
+        "line": 308,
+        "code": "$this->lng->txt('title')",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 2858,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilBadgeUserTableGUI.php",
+        "line": 310,
+        "code": "$this->lng->txt('badge_issued_on')",
+        "has_variable": false,
+        "variable": "badge_issued_on"
+    },
+    {
+        "id": 2860,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilBadgeUserTableGUI.php",
+        "line": 314,
+        "code": "$this->lng->txt('object')",
+        "has_variable": false,
+        "variable": "object"
+    },
+    {
+        "id": 2862,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilBadgeUserTableGUI.php",
+        "line": 331,
+        "code": "$this->lng->txt('badge_award_badge')",
+        "has_variable": false,
+        "variable": "badge_award_badge"
+    },
+    {
+        "id": 2864,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilBadgeUserTableGUI.php",
+        "line": 337,
+        "code": "$this->lng->txt('badge_remove_badge')",
+        "has_variable": false,
+        "variable": "badge_remove_badge"
+    },
+    {
+        "id": 2866,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilBadgeUserTableGUI.php",
+        "line": 360,
+        "code": "$this->lng->txt('badge_award_badge')",
+        "has_variable": false,
+        "variable": "badge_award_badge"
+    },
+    {
+        "id": 2868,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilBadgeUserTableGUI.php",
+        "line": 379,
+        "code": "$this->lng->txt('users')",
+        "has_variable": false,
+        "variable": "users"
+    },
+    {
+        "id": 2870,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilObjBadgeAdministrationGUI.php",
+        "line": 115,
+        "code": "$this->lng->txt('settings')",
+        "has_variable": false,
+        "variable": "settings"
+    },
+    {
+        "id": 2872,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilObjBadgeAdministrationGUI.php",
+        "line": 122,
+        "code": "$this->lng->txt('badge_types')",
+        "has_variable": false,
+        "variable": "badge_types"
+    },
+    {
+        "id": 2874,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilObjBadgeAdministrationGUI.php",
+        "line": 128,
+        "code": "$this->lng->txt('badge_image_templates')",
+        "has_variable": false,
+        "variable": "badge_image_templates"
+    },
+    {
+        "id": 2876,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilObjBadgeAdministrationGUI.php",
+        "line": 134,
+        "code": "$this->lng->txt('badge_activity_badges')",
+        "has_variable": false,
+        "variable": "badge_activity_badges"
+    },
+    {
+        "id": 2878,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilObjBadgeAdministrationGUI.php",
+        "line": 140,
+        "code": "$this->lng->txt('badge_object_badges')",
+        "has_variable": false,
+        "variable": "badge_object_badges"
+    },
+    {
+        "id": 2880,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilObjBadgeAdministrationGUI.php",
+        "line": 149,
+        "code": "$this->lng->txt('perm_settings')",
+        "has_variable": false,
+        "variable": "perm_settings"
+    },
+    {
+        "id": 2882,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilObjBadgeAdministrationGUI.php",
+        "line": 222,
+        "code": "$this->lng->txt('settings_saved')",
+        "has_variable": false,
+        "variable": "settings_saved"
+    },
+    {
+        "id": 2884,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilObjBadgeAdministrationGUI.php",
+        "line": 234,
+        "code": "$this->lng->txt('badge_settings')",
+        "has_variable": false,
+        "variable": "badge_settings"
+    },
+    {
+        "id": 2886,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilObjBadgeAdministrationGUI.php",
+        "line": 237,
+        "code": "$this->lng->txt('save')",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 2888,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilObjBadgeAdministrationGUI.php",
+        "line": 238,
+        "code": "$this->lng->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 2890,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilObjBadgeAdministrationGUI.php",
+        "line": 241,
+        "code": "$this->lng->txt('badge_service_activate')",
+        "has_variable": false,
+        "variable": "badge_service_activate"
+    },
+    {
+        "id": 2892,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilObjBadgeAdministrationGUI.php",
+        "line": 242,
+        "code": "$this->lng->txt('badge_service_activate_info')",
+        "has_variable": false,
+        "variable": "badge_service_activate_info"
+    },
+    {
+        "id": 2894,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilObjBadgeAdministrationGUI.php",
+        "line": 284,
+        "code": "$this->lng->txt('settings_saved')",
+        "has_variable": false,
+        "variable": "settings_saved"
+    },
+    {
+        "id": 2896,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilObjBadgeAdministrationGUI.php",
+        "line": 317,
+        "code": "$this->lng->txt('settings_saved')",
+        "has_variable": false,
+        "variable": "settings_saved"
+    },
+    {
+        "id": 2898,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilObjBadgeAdministrationGUI.php",
+        "line": 334,
+        "code": "$this->lng->txt('badge_add_template')",
+        "has_variable": false,
+        "variable": "badge_add_template"
+    },
+    {
+        "id": 2900,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilObjBadgeAdministrationGUI.php",
+        "line": 369,
+        "code": "$this->lng->txt('badge_image_template_form')",
+        "has_variable": false,
+        "variable": "badge_image_template_form"
+    },
+    {
+        "id": 2902,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilObjBadgeAdministrationGUI.php",
+        "line": 371,
+        "code": "$this->lng->txt('title')",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 2904,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilObjBadgeAdministrationGUI.php",
+        "line": 376,
+        "code": "$this->lng->txt('image')",
+        "has_variable": false,
+        "variable": "image"
+    },
+    {
+        "id": 2906,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilObjBadgeAdministrationGUI.php",
+        "line": 385,
+        "code": "$this->lng->txt('badge_template_types')",
+        "has_variable": false,
+        "variable": "badge_template_types"
+    },
+    {
+        "id": 2908,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilObjBadgeAdministrationGUI.php",
+        "line": 390,
+        "code": "$this->lng->txt('badge_template_types_all')",
+        "has_variable": false,
+        "variable": "badge_template_types_all"
+    },
+    {
+        "id": 2910,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilObjBadgeAdministrationGUI.php",
+        "line": 393,
+        "code": "$this->lng->txt('badge_template_types_specific')",
+        "has_variable": false,
+        "variable": "badge_template_types_specific"
+    },
+    {
+        "id": 2912,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilObjBadgeAdministrationGUI.php",
+        "line": 396,
+        "code": "$this->lng->txt('badge_types')",
+        "has_variable": false,
+        "variable": "badge_types"
+    },
+    {
+        "id": 2914,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilObjBadgeAdministrationGUI.php",
+        "line": 405,
+        "code": "$this->lng->txt('save')",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 2916,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilObjBadgeAdministrationGUI.php",
+        "line": 407,
+        "code": "$this->lng->txt('save')",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 2918,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilObjBadgeAdministrationGUI.php",
+        "line": 409,
+        "code": "$this->lng->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 2920,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilObjBadgeAdministrationGUI.php",
+        "line": 427,
+        "code": "$this->lng->txt('settings_saved')",
+        "has_variable": false,
+        "variable": "settings_saved"
+    },
+    {
+        "id": 2922,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilObjBadgeAdministrationGUI.php",
+        "line": 515,
+        "code": "$this->lng->txt('settings_saved')",
+        "has_variable": false,
+        "variable": "settings_saved"
+    },
+    {
+        "id": 2924,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilObjBadgeAdministrationGUI.php",
+        "line": 542,
+        "code": "$this->lng->txt('back')",
+        "has_variable": false,
+        "variable": "back"
+    },
+    {
+        "id": 2926,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilObjBadgeAdministrationGUI.php",
+        "line": 548,
+        "code": "$this->lng->txt('badge_template_deletion_confirmation')",
+        "has_variable": false,
+        "variable": "badge_template_deletion_confirmation"
+    },
+    {
+        "id": 2928,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilObjBadgeAdministrationGUI.php",
+        "line": 549,
+        "code": "$this->lng->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 2930,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilObjBadgeAdministrationGUI.php",
+        "line": 550,
+        "code": "$this->lng->txt('delete')",
+        "has_variable": false,
+        "variable": "delete"
+    },
+    {
+        "id": 2932,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilObjBadgeAdministrationGUI.php",
+        "line": 575,
+        "code": "$this->lng->txt('badge_deletion')",
+        "has_variable": false,
+        "variable": "badge_deletion"
+    },
+    {
+        "id": 2934,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilObjBadgeAdministrationGUI.php",
+        "line": 577,
+        "code": "$this->lng->txt('badge_select_one')",
+        "has_variable": false,
+        "variable": "badge_select_one"
+    },
+    {
+        "id": 2936,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilObjBadgeAdministrationGUI.php",
+        "line": 603,
+        "code": "$this->lng->txt('back')",
+        "has_variable": false,
+        "variable": "back"
+    },
+    {
+        "id": 2938,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilObjBadgeAdministrationGUI.php",
+        "line": 654,
+        "code": "$this->lng->txt('settings_saved')",
+        "has_variable": false,
+        "variable": "settings_saved"
+    },
+    {
+        "id": 2940,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilObjBadgeAdministrationGUI.php",
+        "line": 674,
+        "code": "$this->lng->txt('back')",
+        "has_variable": false,
+        "variable": "back"
+    },
+    {
+        "id": 2942,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilObjBadgeAdministrationGUI.php",
+        "line": 680,
+        "code": "$this->lng->txt('badge_deletion_confirmation')",
+        "has_variable": false,
+        "variable": "badge_deletion_confirmation"
+    },
+    {
+        "id": 2944,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilObjBadgeAdministrationGUI.php",
+        "line": 681,
+        "code": "$this->lng->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 2946,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilObjBadgeAdministrationGUI.php",
+        "line": 682,
+        "code": "$this->lng->txt('delete')",
+        "has_variable": false,
+        "variable": "delete"
+    },
+    {
+        "id": 2948,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilObjBadgeAdministrationGUI.php",
+        "line": 703,
+        "code": "$this->lng->txt('deleted')",
+        "has_variable": false,
+        "variable": "deleted"
+    },
+    {
+        "id": 2950,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilObjBadgeAdministrationGUI.php",
+        "line": 727,
+        "code": "$this->lng->txt('settings_saved')",
+        "has_variable": false,
+        "variable": "settings_saved"
+    },
+    {
+        "id": 2952,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilObjectBadgeTableGUI.php",
+        "line": 161,
+        "code": "$this->lng->txt('deleted')",
+        "has_variable": false,
+        "variable": "deleted"
+    },
+    {
+        "id": 2954,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilObjectBadgeTableGUI.php",
+        "line": 254,
+        "code": "$this->lng->txt('obj_' . ($badge_item['parent_type'] ?? ''))",
+        "has_variable": true,
+        "variable": "'obj_' . ($badge_item['parent_type'] ?? '')"
+    },
+    {
+        "id": 2956,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilObjectBadgeTableGUI.php",
+        "line": 300,
+        "code": "$this->lng->txt('yes')",
+        "has_variable": false,
+        "variable": "yes"
+    },
+    {
+        "id": 2958,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilObjectBadgeTableGUI.php",
+        "line": 300,
+        "code": "$this->lng->txt('no')",
+        "has_variable": false,
+        "variable": "no"
+    },
+    {
+        "id": 2960,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilObjectBadgeTableGUI.php",
+        "line": 373,
+        "code": "$this->lng->txt('deleted')",
+        "has_variable": false,
+        "variable": "deleted"
+    },
+    {
+        "id": 2962,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilObjectBadgeTableGUI.php",
+        "line": 389,
+        "code": "$this->lng->txt('image')",
+        "has_variable": false,
+        "variable": "image"
+    },
+    {
+        "id": 2964,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilObjectBadgeTableGUI.php",
+        "line": 390,
+        "code": "$this->lng->txt('title')",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 2966,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilObjectBadgeTableGUI.php",
+        "line": 391,
+        "code": "$this->lng->txt('type')",
+        "has_variable": false,
+        "variable": "type"
+    },
+    {
+        "id": 2968,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilObjectBadgeTableGUI.php",
+        "line": 392,
+        "code": "$this->lng->txt('object')",
+        "has_variable": false,
+        "variable": "object"
+    },
+    {
+        "id": 2970,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilObjectBadgeTableGUI.php",
+        "line": 394,
+        "code": "$this->lng->txt('active')",
+        "has_variable": false,
+        "variable": "active"
+    },
+    {
+        "id": 2972,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilObjectBadgeTableGUI.php",
+        "line": 395,
+        "code": "$this->lng->txt('yes')",
+        "has_variable": false,
+        "variable": "yes"
+    },
+    {
+        "id": 2974,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilObjectBadgeTableGUI.php",
+        "line": 396,
+        "code": "$this->lng->txt('no')",
+        "has_variable": false,
+        "variable": "no"
+    },
+    {
+        "id": 2976,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilObjectBadgeTableGUI.php",
+        "line": 398,
+        "code": "$this->lng->txt('badge_sort_active_badges_first')",
+        "has_variable": false,
+        "variable": "badge_sort_active_badges_first"
+    },
+    {
+        "id": 2978,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilObjectBadgeTableGUI.php",
+        "line": 399,
+        "code": "$this->lng->txt('badge_sort_active_badges_last')",
+        "has_variable": false,
+        "variable": "badge_sort_active_badges_last"
+    },
+    {
+        "id": 2980,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilObjectBadgeTableGUI.php",
+        "line": 414,
+        "code": "$this->lng->txt('activate')",
+        "has_variable": false,
+        "variable": "activate"
+    },
+    {
+        "id": 2982,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilObjectBadgeTableGUI.php",
+        "line": 420,
+        "code": "$this->lng->txt('deactivate')",
+        "has_variable": false,
+        "variable": "deactivate"
+    },
+    {
+        "id": 2984,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilObjectBadgeTableGUI.php",
+        "line": 426,
+        "code": "$this->lng->txt('delete')",
+        "has_variable": false,
+        "variable": "delete"
+    },
+    {
+        "id": 2986,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilObjectBadgeTableGUI.php",
+        "line": 432,
+        "code": "$this->lng->txt('user')",
+        "has_variable": false,
+        "variable": "user"
+    },
+    {
+        "id": 2988,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilObjectBadgeTableGUI.php",
+        "line": 455,
+        "code": "$this->lng->txt('badge_object_badges')",
+        "has_variable": false,
+        "variable": "badge_object_badges"
+    },
+    {
+        "id": 2990,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilObjectBadgeTableGUI.php",
+        "line": 497,
+        "code": "$this->lng->txt('badge_deletion')",
+        "has_variable": false,
+        "variable": "badge_deletion"
+    },
+    {
+        "id": 2992,
+        "file": "components\/ILIAS\/Badge\/classes\/class.ilObjectBadgeTableGUI.php",
+        "line": 498,
+        "code": "$this->lng->txt('badge_deletion_confirmation')",
+        "has_variable": false,
+        "variable": "badge_deletion_confirmation"
+    }
+]

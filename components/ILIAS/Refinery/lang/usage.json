@@ -1,0 +1,10 @@
+[
+    {
+        "id": 30680,
+        "file": "components\/ILIAS\/Refinery\/src\/ProblemBuilder.php",
+        "line": 55,
+        "code": "$this->lng->txt($lang_var)",
+        "has_variable": true,
+        "variable": "$lang_var"
+    }
+]

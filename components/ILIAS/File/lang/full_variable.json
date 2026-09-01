@@ -1,0 +1,152 @@
+{
+    "metadata": {
+        "type": "full",
+        "count": 13,
+        "description": "Variable usages without detectable prefixes or suffixes (pure variable references without static strings)"
+    },
+    "matches": [
+        {
+            "id": 16694,
+            "file": "components\/ILIAS\/File\/classes\/ObjectProperties\/class.ilFileCommonSettingsGUI.php",
+            "line": 102,
+            "code": "$this->lng->txt($code)",
+            "variable": "$code",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 16752,
+            "file": "components\/ILIAS\/File\/classes\/Versions\/class.ilFileVersionFormGUI.php",
+            "line": 95,
+            "code": "$this->lng->txt(self::F_TITLE)",
+            "variable": "F_TITLE",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 16756,
+            "file": "components\/ILIAS\/File\/classes\/Versions\/class.ilFileVersionFormGUI.php",
+            "line": 102,
+            "code": "$this->lng->txt(self::F_DESCRIPTION)",
+            "variable": "F_DESCRIPTION",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 16758,
+            "file": "components\/ILIAS\/File\/classes\/Versions\/class.ilFileVersionFormGUI.php",
+            "line": 106,
+            "code": "$this->lng->txt(self::F_FILE)",
+            "variable": "F_FILE",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 16938,
+            "file": "components\/ILIAS\/File\/classes\/class.ilObjFileGUI.php",
+            "line": 1035,
+            "code": "$this->lng->txt(self::CMD_VERSIONS)",
+            "variable": "CMD_VERSIONS",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 16970,
+            "file": "components\/ILIAS\/File\/src\/Icon\/IconFormUI.php",
+            "line": 79,
+            "code": "$this->lng->txt(self::FORM_ICON_UPDATING)",
+            "variable": "FORM_ICON_UPDATING",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 16972,
+            "file": "components\/ILIAS\/File\/src\/Icon\/IconFormUI.php",
+            "line": 85,
+            "code": "$this->lng->txt(self::FORM_ICON_CREATION)",
+            "variable": "FORM_ICON_CREATION",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 16974,
+            "file": "components\/ILIAS\/File\/src\/Icon\/IconFormUI.php",
+            "line": 96,
+            "code": "$this->lng->txt(self::INPUT_ICON)",
+            "variable": "INPUT_ICON",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 16976,
+            "file": "components\/ILIAS\/File\/src\/Icon\/IconFormUI.php",
+            "line": 97,
+            "code": "$this->lng->txt(self::INPUT_DESC_ICON)",
+            "variable": "INPUT_DESC_ICON",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 16978,
+            "file": "components\/ILIAS\/File\/src\/Icon\/IconFormUI.php",
+            "line": 108,
+            "code": "$this->lng->txt(self::INPUT_ACTIVE)",
+            "variable": "INPUT_ACTIVE",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 16980,
+            "file": "components\/ILIAS\/File\/src\/Icon\/IconFormUI.php",
+            "line": 109,
+            "code": "$this->lng->txt(self::INPUT_DESC_ACTIVE)",
+            "variable": "INPUT_DESC_ACTIVE",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 16982,
+            "file": "components\/ILIAS\/File\/src\/Icon\/IconFormUI.php",
+            "line": 115,
+            "code": "$this->lng->txt(self::INPUT_SUFFIXES)",
+            "variable": "INPUT_SUFFIXES",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 16984,
+            "file": "components\/ILIAS\/File\/src\/Icon\/IconFormUI.php",
+            "line": 116,
+            "code": "$this->lng->txt(self::INPUT_DESC_SUFFIXES)",
+            "variable": "INPUT_DESC_SUFFIXES",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        }
+    ]
+}

@@ -1,0 +1,1594 @@
+[
+    {
+        "id": 27752,
+        "file": "components\/ILIAS\/MetaData\/classes\/Editor\/Presenter\/Data.php",
+        "line": 101,
+        "code": "$this->utilities->txt('years')",
+        "has_variable": false,
+        "variable": "years"
+    },
+    {
+        "id": 27754,
+        "file": "components\/ILIAS\/MetaData\/classes\/Editor\/Presenter\/Data.php",
+        "line": 102,
+        "code": "$this->utilities->txt('months')",
+        "has_variable": false,
+        "variable": "months"
+    },
+    {
+        "id": 27756,
+        "file": "components\/ILIAS\/MetaData\/classes\/Editor\/Presenter\/Data.php",
+        "line": 103,
+        "code": "$this->utilities->txt('days')",
+        "has_variable": false,
+        "variable": "days"
+    },
+    {
+        "id": 27758,
+        "file": "components\/ILIAS\/MetaData\/classes\/Editor\/Presenter\/Data.php",
+        "line": 104,
+        "code": "$this->utilities->txt('hours')",
+        "has_variable": false,
+        "variable": "hours"
+    },
+    {
+        "id": 27760,
+        "file": "components\/ILIAS\/MetaData\/classes\/Editor\/Presenter\/Data.php",
+        "line": 105,
+        "code": "$this->utilities->txt('minutes')",
+        "has_variable": false,
+        "variable": "minutes"
+    },
+    {
+        "id": 27762,
+        "file": "components\/ILIAS\/MetaData\/classes\/Editor\/Presenter\/Data.php",
+        "line": 106,
+        "code": "$this->utilities->txt('seconds')",
+        "has_variable": false,
+        "variable": "seconds"
+    },
+    {
+        "id": 27764,
+        "file": "components\/ILIAS\/MetaData\/classes\/Editor\/Presenter\/Utilities.php",
+        "line": 54,
+        "code": "$this->utilities->txt($key)",
+        "has_variable": true,
+        "variable": "$key"
+    },
+    {
+        "id": 27766,
+        "file": "components\/ILIAS\/MetaData\/classes\/Editor\/Tree\/MDEditorToolProvider.php",
+        "line": 93,
+        "code": "$lng->txt('meta_lom_short')",
+        "has_variable": false,
+        "variable": "meta_lom_short"
+    },
+    {
+        "id": 27768,
+        "file": "components\/ILIAS\/MetaData\/classes\/Editor\/Tree\/MDEditorToolProvider.php",
+        "line": 98,
+        "code": "$lng->txt('meta_lom_short')",
+        "has_variable": false,
+        "variable": "meta_lom_short"
+    },
+    {
+        "id": 27770,
+        "file": "components\/ILIAS\/MetaData\/classes\/OERHarvester\/ControlCenter\/ComponentFactory.php",
+        "line": 62,
+        "code": "$this->presentation_utilities->txt('md_publishing_control_center')",
+        "has_variable": false,
+        "variable": "md_publishing_control_center"
+    },
+    {
+        "id": 27772,
+        "file": "components\/ILIAS\/MetaData\/classes\/OERHarvester\/ControlCenter\/ComponentFactory.php",
+        "line": 68,
+        "code": "$this->presentation_utilities->txt('md_publishing_status_unpublished')",
+        "has_variable": false,
+        "variable": "md_publishing_status_unpublished"
+    },
+    {
+        "id": 27774,
+        "file": "components\/ILIAS\/MetaData\/classes\/OERHarvester\/ControlCenter\/ComponentFactory.php",
+        "line": 69,
+        "code": "$this->presentation_utilities->txt('md_publishing_status_blocked')",
+        "has_variable": false,
+        "variable": "md_publishing_status_blocked"
+    },
+    {
+        "id": 27776,
+        "file": "components\/ILIAS\/MetaData\/classes\/OERHarvester\/ControlCenter\/ComponentFactory.php",
+        "line": 70,
+        "code": "$this->presentation_utilities->txt('md_publishing_status_under_review')",
+        "has_variable": false,
+        "variable": "md_publishing_status_under_review"
+    },
+    {
+        "id": 27778,
+        "file": "components\/ILIAS\/MetaData\/classes\/OERHarvester\/ControlCenter\/ComponentFactory.php",
+        "line": 71,
+        "code": "$this->presentation_utilities->txt('md_publishing_status_published')",
+        "has_variable": false,
+        "variable": "md_publishing_status_published"
+    },
+    {
+        "id": 27780,
+        "file": "components\/ILIAS\/MetaData\/classes\/OERHarvester\/ControlCenter\/Content\/ContentFactory.php",
+        "line": 56,
+        "code": "$this->presentation_utilities->txt('md_publishing_center_title')",
+        "has_variable": false,
+        "variable": "md_publishing_center_title"
+    },
+    {
+        "id": 27782,
+        "file": "components\/ILIAS\/MetaData\/classes\/OERHarvester\/ControlCenter\/Content\/ContentFactory.php",
+        "line": 66,
+        "code": "$this->presentation_utilities->txt('md_publishing_status_unpublished')",
+        "has_variable": false,
+        "variable": "md_publishing_status_unpublished"
+    },
+    {
+        "id": 27784,
+        "file": "components\/ILIAS\/MetaData\/classes\/OERHarvester\/ControlCenter\/Content\/ContentFactory.php",
+        "line": 67,
+        "code": "$this->presentation_utilities->txt('md_publishing_status_blocked')",
+        "has_variable": false,
+        "variable": "md_publishing_status_blocked"
+    },
+    {
+        "id": 27786,
+        "file": "components\/ILIAS\/MetaData\/classes\/OERHarvester\/ControlCenter\/Content\/ContentFactory.php",
+        "line": 68,
+        "code": "$this->presentation_utilities->txt('md_publishing_status_under_review')",
+        "has_variable": false,
+        "variable": "md_publishing_status_under_review"
+    },
+    {
+        "id": 27788,
+        "file": "components\/ILIAS\/MetaData\/classes\/OERHarvester\/ControlCenter\/Content\/ContentFactory.php",
+        "line": 69,
+        "code": "$this->presentation_utilities->txt('md_publishing_status_published')",
+        "has_variable": false,
+        "variable": "md_publishing_status_published"
+    },
+    {
+        "id": 27790,
+        "file": "components\/ILIAS\/MetaData\/classes\/OERHarvester\/ControlCenter\/Content\/ContentFactory.php",
+        "line": 90,
+        "code": "$this->presentation_utilities->txt('md_publishing_info_unpublished')",
+        "has_variable": false,
+        "variable": "md_publishing_info_unpublished"
+    },
+    {
+        "id": 27792,
+        "file": "components\/ILIAS\/MetaData\/classes\/OERHarvester\/ControlCenter\/Content\/ContentFactory.php",
+        "line": 91,
+        "code": "$this->presentation_utilities->txt('md_publishing_info_blocked')",
+        "has_variable": false,
+        "variable": "md_publishing_info_blocked"
+    },
+    {
+        "id": 27794,
+        "file": "components\/ILIAS\/MetaData\/classes\/OERHarvester\/ControlCenter\/Content\/ContentFactory.php",
+        "line": 92,
+        "code": "$this->presentation_utilities->txt('md_publishing_info_under_review')",
+        "has_variable": false,
+        "variable": "md_publishing_info_under_review"
+    },
+    {
+        "id": 27796,
+        "file": "components\/ILIAS\/MetaData\/classes\/OERHarvester\/ControlCenter\/Content\/ContentFactory.php",
+        "line": 93,
+        "code": "$this->presentation_utilities->txt('md_publishing_info_published')",
+        "has_variable": false,
+        "variable": "md_publishing_info_published"
+    },
+    {
+        "id": 27798,
+        "file": "components\/ILIAS\/MetaData\/classes\/OERHarvester\/ControlCenter\/Content\/ContentFactory.php",
+        "line": 113,
+        "code": "$this->presentation_utilities->txt('md_publishing_action_block')",
+        "has_variable": false,
+        "variable": "md_publishing_action_block"
+    },
+    {
+        "id": 27800,
+        "file": "components\/ILIAS\/MetaData\/classes\/OERHarvester\/ControlCenter\/Content\/ContentFactory.php",
+        "line": 114,
+        "code": "$this->presentation_utilities->txt('md_publishing_action_unblock')",
+        "has_variable": false,
+        "variable": "md_publishing_action_unblock"
+    },
+    {
+        "id": 27802,
+        "file": "components\/ILIAS\/MetaData\/classes\/OERHarvester\/ControlCenter\/Content\/ContentFactory.php",
+        "line": 115,
+        "code": "$this->presentation_utilities->txt('md_publishing_action_publish')",
+        "has_variable": false,
+        "variable": "md_publishing_action_publish"
+    },
+    {
+        "id": 27804,
+        "file": "components\/ILIAS\/MetaData\/classes\/OERHarvester\/ControlCenter\/Content\/ContentFactory.php",
+        "line": 116,
+        "code": "$this->presentation_utilities->txt('md_publishing_action_withdraw')",
+        "has_variable": false,
+        "variable": "md_publishing_action_withdraw"
+    },
+    {
+        "id": 27806,
+        "file": "components\/ILIAS\/MetaData\/classes\/OERHarvester\/ControlCenter\/Content\/ContentFactory.php",
+        "line": 117,
+        "code": "$this->presentation_utilities->txt('md_publishing_action_submit')",
+        "has_variable": false,
+        "variable": "md_publishing_action_submit"
+    },
+    {
+        "id": 27808,
+        "file": "components\/ILIAS\/MetaData\/classes\/OERHarvester\/ControlCenter\/Content\/ContentFactory.php",
+        "line": 118,
+        "code": "$this->presentation_utilities->txt('md_publishing_action_accept')",
+        "has_variable": false,
+        "variable": "md_publishing_action_accept"
+    },
+    {
+        "id": 27810,
+        "file": "components\/ILIAS\/MetaData\/classes\/OERHarvester\/ControlCenter\/Content\/ContentFactory.php",
+        "line": 119,
+        "code": "$this->presentation_utilities->txt('md_publishing_action_reject')",
+        "has_variable": false,
+        "variable": "md_publishing_action_reject"
+    },
+    {
+        "id": 27812,
+        "file": "components\/ILIAS\/MetaData\/classes\/OERHarvester\/ControlCenter\/Content\/ContentFactory.php",
+        "line": 148,
+        "code": "$this->presentation_utilities->txt('md_publishing_confirmation_info_withdraw')",
+        "has_variable": false,
+        "variable": "md_publishing_confirmation_info_withdraw"
+    },
+    {
+        "id": 27814,
+        "file": "components\/ILIAS\/MetaData\/classes\/OERHarvester\/ControlCenter\/Content\/ContentFactory.php",
+        "line": 149,
+        "code": "$this->presentation_utilities->txt('md_publishing_confirmation_info_accept')",
+        "has_variable": false,
+        "variable": "md_publishing_confirmation_info_accept"
+    },
+    {
+        "id": 27816,
+        "file": "components\/ILIAS\/MetaData\/classes\/OERHarvester\/ControlCenter\/Content\/ContentFactory.php",
+        "line": 150,
+        "code": "$this->presentation_utilities->txt('md_publishing_confirmation_info_reject')",
+        "has_variable": false,
+        "variable": "md_publishing_confirmation_info_reject"
+    },
+    {
+        "id": 27818,
+        "file": "components\/ILIAS\/MetaData\/classes\/OERHarvester\/ControlCenter\/Content\/ContentFactory.php",
+        "line": 155,
+        "code": "$this->presentation_utilities->txt('md_publishing_confirmation_withdraw')",
+        "has_variable": false,
+        "variable": "md_publishing_confirmation_withdraw"
+    },
+    {
+        "id": 27820,
+        "file": "components\/ILIAS\/MetaData\/classes\/OERHarvester\/ControlCenter\/Content\/ContentFactory.php",
+        "line": 156,
+        "code": "$this->presentation_utilities->txt('md_publishing_confirmation_accept')",
+        "has_variable": false,
+        "variable": "md_publishing_confirmation_accept"
+    },
+    {
+        "id": 27822,
+        "file": "components\/ILIAS\/MetaData\/classes\/OERHarvester\/ControlCenter\/Content\/ContentFactory.php",
+        "line": 157,
+        "code": "$this->presentation_utilities->txt('md_publishing_confirmation_reject')",
+        "has_variable": false,
+        "variable": "md_publishing_confirmation_reject"
+    },
+    {
+        "id": 27824,
+        "file": "components\/ILIAS\/MetaData\/classes\/OERHarvester\/ControlCenter\/Content\/ContentFactory.php",
+        "line": 166,
+        "code": "$this->presentation_utilities->txt('md_publishing_last_reference_info')",
+        "has_variable": false,
+        "variable": "md_publishing_last_reference_info"
+    },
+    {
+        "id": 27826,
+        "file": "components\/ILIAS\/MetaData\/classes\/OERHarvester\/ControlCenter\/Content\/ContentFactory.php",
+        "line": 172,
+        "code": "$this->presentation_utilities->txt('confirm')",
+        "has_variable": false,
+        "variable": "confirm"
+    },
+    {
+        "id": 27828,
+        "file": "components\/ILIAS\/MetaData\/classes\/OERHarvester\/ControlCenter\/Content\/ContentFactory.php",
+        "line": 176,
+        "code": "$this->presentation_utilities->txt('confirm')",
+        "has_variable": false,
+        "variable": "confirm"
+    },
+    {
+        "id": 27830,
+        "file": "components\/ILIAS\/MetaData\/classes\/OERHarvester\/ControlCenter\/Content\/ContentFactory.php",
+        "line": 189,
+        "code": "$this->presentation_utilities->txt('md_publishing_success_block')",
+        "has_variable": false,
+        "variable": "md_publishing_success_block"
+    },
+    {
+        "id": 27832,
+        "file": "components\/ILIAS\/MetaData\/classes\/OERHarvester\/ControlCenter\/Content\/ContentFactory.php",
+        "line": 190,
+        "code": "$this->presentation_utilities->txt('md_publishing_success_unblock')",
+        "has_variable": false,
+        "variable": "md_publishing_success_unblock"
+    },
+    {
+        "id": 27834,
+        "file": "components\/ILIAS\/MetaData\/classes\/OERHarvester\/ControlCenter\/Content\/ContentFactory.php",
+        "line": 191,
+        "code": "$this->presentation_utilities->txt('md_publishing_success_publish')",
+        "has_variable": false,
+        "variable": "md_publishing_success_publish"
+    },
+    {
+        "id": 27836,
+        "file": "components\/ILIAS\/MetaData\/classes\/OERHarvester\/ControlCenter\/Content\/ContentFactory.php",
+        "line": 192,
+        "code": "$this->presentation_utilities->txt('md_publishing_success_withdraw')",
+        "has_variable": false,
+        "variable": "md_publishing_success_withdraw"
+    },
+    {
+        "id": 27838,
+        "file": "components\/ILIAS\/MetaData\/classes\/OERHarvester\/ControlCenter\/Content\/ContentFactory.php",
+        "line": 193,
+        "code": "$this->presentation_utilities->txt('md_publishing_success_submit')",
+        "has_variable": false,
+        "variable": "md_publishing_success_submit"
+    },
+    {
+        "id": 27840,
+        "file": "components\/ILIAS\/MetaData\/classes\/OERHarvester\/ControlCenter\/Content\/ContentFactory.php",
+        "line": 194,
+        "code": "$this->presentation_utilities->txt('md_publishing_success_accept')",
+        "has_variable": false,
+        "variable": "md_publishing_success_accept"
+    },
+    {
+        "id": 27842,
+        "file": "components\/ILIAS\/MetaData\/classes\/OERHarvester\/ControlCenter\/Content\/ContentFactory.php",
+        "line": 195,
+        "code": "$this->presentation_utilities->txt('md_publishing_success_reject')",
+        "has_variable": false,
+        "variable": "md_publishing_success_reject"
+    },
+    {
+        "id": 27844,
+        "file": "components\/ILIAS\/MetaData\/classes\/OERHarvester\/ControlCenter\/ControlCenterGUI.php",
+        "line": 85,
+        "code": "$this->presentation_utilities->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 27846,
+        "file": "components\/ILIAS\/MetaData\/classes\/Presentation\/Data.php",
+        "line": 80,
+        "code": "$this->utilities->txt('meta_l_' . $language)",
+        "has_variable": true,
+        "variable": "'meta_l_' . $language"
+    },
+    {
+        "id": 27848,
+        "file": "components\/ILIAS\/MetaData\/classes\/Presentation\/Data.php",
+        "line": 105,
+        "code": "$this->utilities->txt($labels[$key][1])",
+        "has_variable": true,
+        "variable": "\\$labels"
+    },
+    {
+        "id": 27850,
+        "file": "components\/ILIAS\/MetaData\/classes\/Presentation\/Data.php",
+        "line": 106,
+        "code": "$this->utilities->txt($labels[$key][0])",
+        "has_variable": true,
+        "variable": "\\$labels"
+    },
+    {
+        "id": 27852,
+        "file": "components\/ILIAS\/MetaData\/classes\/Presentation\/Elements.php",
+        "line": 57,
+        "code": "$this->utilities->txt($lang_key)",
+        "has_variable": true,
+        "variable": "$lang_key"
+    },
+    {
+        "id": 27854,
+        "file": "components\/ILIAS\/MetaData\/classes\/Presentation\/Utilities.php",
+        "line": 50,
+        "code": "$this->lng->txt($key)",
+        "has_variable": true,
+        "variable": "$key"
+    },
+    {
+        "id": 27856,
+        "file": "components\/ILIAS\/MetaData\/classes\/Presentation\/Utilities.php",
+        "line": 56,
+        "code": "$this->lng->txt($key)",
+        "has_variable": true,
+        "variable": "$key"
+    },
+    {
+        "id": 27858,
+        "file": "components\/ILIAS\/MetaData\/classes\/Settings\/Copyright\/Usage\/class.ilMDCopyrightUsageGUI.php",
+        "line": 95,
+        "code": "$this->lng->txt(\"meta_info_only_repository_objects\")",
+        "has_variable": false,
+        "variable": "meta_info_only_repository_objects"
+    },
+    {
+        "id": 27860,
+        "file": "components\/ILIAS\/MetaData\/classes\/Settings\/Copyright\/Usage\/class.ilMDCopyrightUsageGUI.php",
+        "line": 149,
+        "code": "$this->lng->txt('back')",
+        "has_variable": false,
+        "variable": "back"
+    },
+    {
+        "id": 27862,
+        "file": "components\/ILIAS\/MetaData\/classes\/Settings\/Copyright\/Usage\/class.ilMDCopyrightUsageTableGUI.php",
+        "line": 62,
+        "code": "$this->lng->txt('object')",
+        "has_variable": false,
+        "variable": "object"
+    },
+    {
+        "id": 27864,
+        "file": "components\/ILIAS\/MetaData\/classes\/Settings\/Copyright\/Usage\/class.ilMDCopyrightUsageTableGUI.php",
+        "line": 63,
+        "code": "$this->lng->txt('meta_references')",
+        "has_variable": false,
+        "variable": "meta_references"
+    },
+    {
+        "id": 27866,
+        "file": "components\/ILIAS\/MetaData\/classes\/Settings\/Copyright\/Usage\/class.ilMDCopyrightUsageTableGUI.php",
+        "line": 64,
+        "code": "$this->lng->txt('meta_copyright_sub_items')",
+        "has_variable": false,
+        "variable": "meta_copyright_sub_items"
+    },
+    {
+        "id": 27868,
+        "file": "components\/ILIAS\/MetaData\/classes\/Settings\/Copyright\/Usage\/class.ilMDCopyrightUsageTableGUI.php",
+        "line": 65,
+        "code": "$this->lng->txt('owner')",
+        "has_variable": false,
+        "variable": "owner"
+    },
+    {
+        "id": 27870,
+        "file": "components\/ILIAS\/MetaData\/classes\/Settings\/Copyright\/Usage\/class.ilMDCopyrightUsageTableGUI.php",
+        "line": 89,
+        "code": "$this->lng->txt(\"object\")",
+        "has_variable": false,
+        "variable": "object"
+    },
+    {
+        "id": 27872,
+        "file": "components\/ILIAS\/MetaData\/classes\/Settings\/Copyright\/Usage\/class.ilMDCopyrightUsageTableGUI.php",
+        "line": 89,
+        "code": "$this->lng->txt(\"title\")",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 27874,
+        "file": "components\/ILIAS\/MetaData\/classes\/Settings\/Copyright\/Usage\/class.ilMDCopyrightUsageTableGUI.php",
+        "line": 96,
+        "code": "$this->lng->txt(\"obj_\" . $item)",
+        "has_variable": true,
+        "variable": "\"obj_\" . $item"
+    },
+    {
+        "id": 27876,
+        "file": "components\/ILIAS\/MetaData\/classes\/Settings\/Copyright\/Usage\/class.ilMDCopyrightUsageTableGUI.php",
+        "line": 131,
+        "code": "$this->lng->txt($a_set['type'])",
+        "has_variable": true,
+        "variable": "_"
+    },
+    {
+        "id": 27878,
+        "file": "components\/ILIAS\/MetaData\/classes\/Settings\/Copyright\/class.ilMDCopyrightConfigurationGUI.php",
+        "line": 90,
+        "code": "$this->lng->txt('no_permission')",
+        "has_variable": false,
+        "variable": "no_permission"
+    },
+    {
+        "id": 27880,
+        "file": "components\/ILIAS\/MetaData\/classes\/Settings\/Copyright\/class.ilMDCopyrightConfigurationGUI.php",
+        "line": 132,
+        "code": "$this->lng->txt(\"md_copyright_selection\")",
+        "has_variable": false,
+        "variable": "md_copyright_selection"
+    },
+    {
+        "id": 27882,
+        "file": "components\/ILIAS\/MetaData\/classes\/Settings\/Copyright\/class.ilMDCopyrightConfigurationGUI.php",
+        "line": 152,
+        "code": "$this->lng->txt('md_copyright_add')",
+        "has_variable": false,
+        "variable": "md_copyright_add"
+    },
+    {
+        "id": 27884,
+        "file": "components\/ILIAS\/MetaData\/classes\/Settings\/Copyright\/class.ilMDCopyrightConfigurationGUI.php",
+        "line": 156,
+        "code": "$this->lng->txt(\"delete\")",
+        "has_variable": false,
+        "variable": "delete"
+    },
+    {
+        "id": 27886,
+        "file": "components\/ILIAS\/MetaData\/classes\/Settings\/Copyright\/class.ilMDCopyrightConfigurationGUI.php",
+        "line": 183,
+        "code": "$this->lng->txt('settings_saved')",
+        "has_variable": false,
+        "variable": "settings_saved"
+    },
+    {
+        "id": 27888,
+        "file": "components\/ILIAS\/MetaData\/classes\/Settings\/Copyright\/class.ilMDCopyrightConfigurationGUI.php",
+        "line": 194,
+        "code": "$this->lng->txt('select_one')",
+        "has_variable": false,
+        "variable": "select_one"
+    },
+    {
+        "id": 27890,
+        "file": "components\/ILIAS\/MetaData\/classes\/Settings\/Copyright\/class.ilMDCopyrightConfigurationGUI.php",
+        "line": 202,
+        "code": "$this->lng->txt(\"md_delete_cp_sure\")",
+        "has_variable": false,
+        "variable": "md_delete_cp_sure"
+    },
+    {
+        "id": 27892,
+        "file": "components\/ILIAS\/MetaData\/classes\/Settings\/Copyright\/class.ilMDCopyrightConfigurationGUI.php",
+        "line": 203,
+        "code": "$this->lng->txt(\"cancel\")",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 27894,
+        "file": "components\/ILIAS\/MetaData\/classes\/Settings\/Copyright\/class.ilMDCopyrightConfigurationGUI.php",
+        "line": 204,
+        "code": "$this->lng->txt(\"confirm\")",
+        "has_variable": false,
+        "variable": "confirm"
+    },
+    {
+        "id": 27896,
+        "file": "components\/ILIAS\/MetaData\/classes\/Settings\/Copyright\/class.ilMDCopyrightConfigurationGUI.php",
+        "line": 218,
+        "code": "$this->lng->txt('select_one')",
+        "has_variable": false,
+        "variable": "select_one"
+    },
+    {
+        "id": 27898,
+        "file": "components\/ILIAS\/MetaData\/classes\/Settings\/Copyright\/class.ilMDCopyrightConfigurationGUI.php",
+        "line": 228,
+        "code": "$this->lng->txt('md_copyrights_deleted')",
+        "has_variable": false,
+        "variable": "md_copyrights_deleted"
+    },
+    {
+        "id": 27900,
+        "file": "components\/ILIAS\/MetaData\/classes\/Settings\/Copyright\/class.ilMDCopyrightConfigurationGUI.php",
+        "line": 252,
+        "code": "$this->lng->txt('settings_saved')",
+        "has_variable": false,
+        "variable": "settings_saved"
+    },
+    {
+        "id": 27902,
+        "file": "components\/ILIAS\/MetaData\/classes\/Settings\/Copyright\/class.ilMDCopyrightConfigurationGUI.php",
+        "line": 267,
+        "code": "$this->lng->txt('title')",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 27904,
+        "file": "components\/ILIAS\/MetaData\/classes\/Settings\/Copyright\/class.ilMDCopyrightConfigurationGUI.php",
+        "line": 274,
+        "code": "$this->lng->txt('description')",
+        "has_variable": false,
+        "variable": "description"
+    },
+    {
+        "id": 27906,
+        "file": "components\/ILIAS\/MetaData\/classes\/Settings\/Copyright\/class.ilMDCopyrightConfigurationGUI.php",
+        "line": 279,
+        "code": "$this->lng->txt('meta_copyright_usage')",
+        "has_variable": false,
+        "variable": "meta_copyright_usage"
+    },
+    {
+        "id": 27908,
+        "file": "components\/ILIAS\/MetaData\/classes\/Settings\/Copyright\/class.ilMDCopyrightConfigurationGUI.php",
+        "line": 280,
+        "code": "$this->lng->txt('meta_copyright_in_use')",
+        "has_variable": false,
+        "variable": "meta_copyright_in_use"
+    },
+    {
+        "id": 27910,
+        "file": "components\/ILIAS\/MetaData\/classes\/Settings\/Copyright\/class.ilMDCopyrightConfigurationGUI.php",
+        "line": 281,
+        "code": "$this->lng->txt('meta_copyright_outdated')",
+        "has_variable": false,
+        "variable": "meta_copyright_outdated"
+    },
+    {
+        "id": 27912,
+        "file": "components\/ILIAS\/MetaData\/classes\/Settings\/Copyright\/class.ilMDCopyrightConfigurationGUI.php",
+        "line": 288,
+        "code": "$this->lng->txt('md_copyright_full_name')",
+        "has_variable": false,
+        "variable": "md_copyright_full_name"
+    },
+    {
+        "id": 27914,
+        "file": "components\/ILIAS\/MetaData\/classes\/Settings\/Copyright\/class.ilMDCopyrightConfigurationGUI.php",
+        "line": 293,
+        "code": "$this->lng->txt('md_copyright_link')",
+        "has_variable": false,
+        "variable": "md_copyright_link"
+    },
+    {
+        "id": 27916,
+        "file": "components\/ILIAS\/MetaData\/classes\/Settings\/Copyright\/class.ilMDCopyrightConfigurationGUI.php",
+        "line": 294,
+        "code": "$this->lng->txt('md_copyright_link_info')",
+        "has_variable": false,
+        "variable": "md_copyright_link_info"
+    },
+    {
+        "id": 27918,
+        "file": "components\/ILIAS\/MetaData\/classes\/Settings\/Copyright\/class.ilMDCopyrightConfigurationGUI.php",
+        "line": 302,
+        "code": "$this->lng->txt('md_copyright_image_link')",
+        "has_variable": false,
+        "variable": "md_copyright_image_link"
+    },
+    {
+        "id": 27920,
+        "file": "components\/ILIAS\/MetaData\/classes\/Settings\/Copyright\/class.ilMDCopyrightConfigurationGUI.php",
+        "line": 312,
+        "code": "$this->lng->txt('md_copyright_image_file')",
+        "has_variable": false,
+        "variable": "md_copyright_image_file"
+    },
+    {
+        "id": 27922,
+        "file": "components\/ILIAS\/MetaData\/classes\/Settings\/Copyright\/class.ilMDCopyrightConfigurationGUI.php",
+        "line": 329,
+        "code": "$this->lng->txt('md_copyright_image_is_link')",
+        "has_variable": false,
+        "variable": "md_copyright_image_is_link"
+    },
+    {
+        "id": 27924,
+        "file": "components\/ILIAS\/MetaData\/classes\/Settings\/Copyright\/class.ilMDCopyrightConfigurationGUI.php",
+        "line": 333,
+        "code": "$this->lng->txt('md_copyright_image_is_file')",
+        "has_variable": false,
+        "variable": "md_copyright_image_is_file"
+    },
+    {
+        "id": 27926,
+        "file": "components\/ILIAS\/MetaData\/classes\/Settings\/Copyright\/class.ilMDCopyrightConfigurationGUI.php",
+        "line": 336,
+        "code": "$this->lng->txt('md_copyright_image')",
+        "has_variable": false,
+        "variable": "md_copyright_image"
+    },
+    {
+        "id": 27928,
+        "file": "components\/ILIAS\/MetaData\/classes\/Settings\/Copyright\/class.ilMDCopyrightConfigurationGUI.php",
+        "line": 342,
+        "code": "$this->lng->txt('md_copyright_alt_text')",
+        "has_variable": false,
+        "variable": "md_copyright_alt_text"
+    },
+    {
+        "id": 27930,
+        "file": "components\/ILIAS\/MetaData\/classes\/Settings\/Copyright\/class.ilMDCopyrightConfigurationGUI.php",
+        "line": 343,
+        "code": "$this->lng->txt('md_copyright_alt_text_info')",
+        "has_variable": false,
+        "variable": "md_copyright_alt_text_info"
+    },
+    {
+        "id": 27932,
+        "file": "components\/ILIAS\/MetaData\/classes\/Settings\/Copyright\/class.ilMDCopyrightConfigurationGUI.php",
+        "line": 355,
+        "code": "$this->lng->txt('md_copyright_value')",
+        "has_variable": false,
+        "variable": "md_copyright_value"
+    },
+    {
+        "id": 27934,
+        "file": "components\/ILIAS\/MetaData\/classes\/Settings\/Copyright\/class.ilMDCopyrightConfigurationGUI.php",
+        "line": 360,
+        "code": "$this->lng->txt('md_copyright_add')",
+        "has_variable": false,
+        "variable": "md_copyright_add"
+    },
+    {
+        "id": 27936,
+        "file": "components\/ILIAS\/MetaData\/classes\/Settings\/Copyright\/class.ilMDCopyrightConfigurationGUI.php",
+        "line": 363,
+        "code": "$this->lng->txt('md_copyright_edit')",
+        "has_variable": false,
+        "variable": "md_copyright_edit"
+    },
+    {
+        "id": 27938,
+        "file": "components\/ILIAS\/MetaData\/classes\/Settings\/Copyright\/class.ilMDCopyrightConfigurationGUI.php",
+        "line": 384,
+        "code": "$this->lng->txt('err_select_one')",
+        "has_variable": false,
+        "variable": "err_select_one"
+    },
+    {
+        "id": 27940,
+        "file": "components\/ILIAS\/MetaData\/classes\/Settings\/Copyright\/class.ilMDCopyrightConfigurationGUI.php",
+        "line": 400,
+        "code": "$this->lng->txt('settings_saved')",
+        "has_variable": false,
+        "variable": "settings_saved"
+    },
+    {
+        "id": 27942,
+        "file": "components\/ILIAS\/MetaData\/classes\/Settings\/Copyright\/class.ilMDCopyrightTableGUI.php",
+        "line": 68,
+        "code": "$this->lng->txt(\"position\")",
+        "has_variable": false,
+        "variable": "position"
+    },
+    {
+        "id": 27944,
+        "file": "components\/ILIAS\/MetaData\/classes\/Settings\/Copyright\/class.ilMDCopyrightTableGUI.php",
+        "line": 69,
+        "code": "$this->lng->txt(\"meta_save_order\")",
+        "has_variable": false,
+        "variable": "meta_save_order"
+    },
+    {
+        "id": 27946,
+        "file": "components\/ILIAS\/MetaData\/classes\/Settings\/Copyright\/class.ilMDCopyrightTableGUI.php",
+        "line": 71,
+        "code": "$this->lng->txt('title')",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 27948,
+        "file": "components\/ILIAS\/MetaData\/classes\/Settings\/Copyright\/class.ilMDCopyrightTableGUI.php",
+        "line": 72,
+        "code": "$this->lng->txt('md_used')",
+        "has_variable": false,
+        "variable": "md_used"
+    },
+    {
+        "id": 27950,
+        "file": "components\/ILIAS\/MetaData\/classes\/Settings\/Copyright\/class.ilMDCopyrightTableGUI.php",
+        "line": 73,
+        "code": "$this->lng->txt('md_copyright_preview')",
+        "has_variable": false,
+        "variable": "md_copyright_preview"
+    },
+    {
+        "id": 27952,
+        "file": "components\/ILIAS\/MetaData\/classes\/Settings\/Copyright\/class.ilMDCopyrightTableGUI.php",
+        "line": 74,
+        "code": "$this->lng->txt('meta_copyright_status')",
+        "has_variable": false,
+        "variable": "meta_copyright_status"
+    },
+    {
+        "id": 27954,
+        "file": "components\/ILIAS\/MetaData\/classes\/Settings\/Copyright\/class.ilMDCopyrightTableGUI.php",
+        "line": 112,
+        "code": "$this->lng->txt('meta_copyright_outdated')",
+        "has_variable": false,
+        "variable": "meta_copyright_outdated"
+    },
+    {
+        "id": 27956,
+        "file": "components\/ILIAS\/MetaData\/classes\/Settings\/Copyright\/class.ilMDCopyrightTableGUI.php",
+        "line": 114,
+        "code": "$this->lng->txt('meta_copyright_in_use')",
+        "has_variable": false,
+        "variable": "meta_copyright_in_use"
+    },
+    {
+        "id": 27958,
+        "file": "components\/ILIAS\/MetaData\/classes\/Settings\/Copyright\/class.ilMDCopyrightTableGUI.php",
+        "line": 117,
+        "code": "$this->lng->txt('md_copyright_default')",
+        "has_variable": false,
+        "variable": "md_copyright_default"
+    },
+    {
+        "id": 27960,
+        "file": "components\/ILIAS\/MetaData\/classes\/Settings\/Copyright\/class.ilMDCopyrightTableGUI.php",
+        "line": 165,
+        "code": "$this->lng->txt('edit')",
+        "has_variable": false,
+        "variable": "edit"
+    },
+    {
+        "id": 27962,
+        "file": "components\/ILIAS\/MetaData\/classes\/Settings\/Copyright\/class.ilMDCopyrightTableGUI.php",
+        "line": 181,
+        "code": "$this->lng->txt('meta_copyright_show_usages')",
+        "has_variable": false,
+        "variable": "meta_copyright_show_usages"
+    },
+    {
+        "id": 27964,
+        "file": "components\/ILIAS\/MetaData\/classes\/Settings\/Copyright\/class.ilMDCopyrightTableGUI.php",
+        "line": 189,
+        "code": "$this->lng->txt('actions')",
+        "has_variable": false,
+        "variable": "actions"
+    },
+    {
+        "id": 27966,
+        "file": "components\/ILIAS\/MetaData\/classes\/Settings\/OER\/class.ilMDOERSettingsGUI.php",
+        "line": 54,
+        "code": "$this->lng->txt('no_permission')",
+        "has_variable": false,
+        "variable": "no_permission"
+    },
+    {
+        "id": 27968,
+        "file": "components\/ILIAS\/MetaData\/classes\/Settings\/OER\/class.ilMDOERSettingsGUI.php",
+        "line": 84,
+        "code": "$this->lng->txt('settings_saved')",
+        "has_variable": false,
+        "variable": "settings_saved"
+    },
+    {
+        "id": 27970,
+        "file": "components\/ILIAS\/MetaData\/classes\/Settings\/OER\/class.ilMDOERSettingsGUI.php",
+        "line": 87,
+        "code": "$this->lng->txt('err_check_input')",
+        "has_variable": false,
+        "variable": "err_check_input"
+    },
+    {
+        "id": 27972,
+        "file": "components\/ILIAS\/MetaData\/classes\/Settings\/OER\/class.ilMDOERSettingsGUI.php",
+        "line": 98,
+        "code": "$this->lng->txt('save')",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 27974,
+        "file": "components\/ILIAS\/MetaData\/classes\/Settings\/OER\/class.ilMDOERSettingsGUI.php",
+        "line": 102,
+        "code": "$this->lng->txt('md_settings_licence')",
+        "has_variable": false,
+        "variable": "md_settings_licence"
+    },
+    {
+        "id": 27976,
+        "file": "components\/ILIAS\/MetaData\/classes\/Settings\/OER\/class.ilMDOERSettingsGUI.php",
+        "line": 105,
+        "code": "$this->lng->txt('md_copyright_enabled')",
+        "has_variable": false,
+        "variable": "md_copyright_enabled"
+    },
+    {
+        "id": 27978,
+        "file": "components\/ILIAS\/MetaData\/classes\/Settings\/OER\/class.ilMDOERSettingsGUI.php",
+        "line": 108,
+        "code": "$this->lng->txt('md_copyright_enable_info')",
+        "has_variable": false,
+        "variable": "md_copyright_enable_info"
+    },
+    {
+        "id": 27980,
+        "file": "components\/ILIAS\/MetaData\/classes\/Settings\/Publishing\/class.ilMDPublishingSettingsGUI.php",
+        "line": 80,
+        "code": "$this->lng->txt('no_permission')",
+        "has_variable": false,
+        "variable": "no_permission"
+    },
+    {
+        "id": 27982,
+        "file": "components\/ILIAS\/MetaData\/classes\/Settings\/Publishing\/class.ilMDPublishingSettingsGUI.php",
+        "line": 103,
+        "code": "$this->lng->txt('no_permission')",
+        "has_variable": false,
+        "variable": "no_permission"
+    },
+    {
+        "id": 27984,
+        "file": "components\/ILIAS\/MetaData\/classes\/Settings\/Publishing\/class.ilMDPublishingSettingsGUI.php",
+        "line": 150,
+        "code": "$this->lng->txt('settings_saved')",
+        "has_variable": false,
+        "variable": "settings_saved"
+    },
+    {
+        "id": 27986,
+        "file": "components\/ILIAS\/MetaData\/classes\/Settings\/Publishing\/class.ilMDPublishingSettingsGUI.php",
+        "line": 153,
+        "code": "$this->lng->txt('err_check_input')",
+        "has_variable": false,
+        "variable": "err_check_input"
+    },
+    {
+        "id": 27988,
+        "file": "components\/ILIAS\/MetaData\/classes\/Settings\/Publishing\/class.ilMDPublishingSettingsGUI.php",
+        "line": 167,
+        "code": "$this->lng->txt('save')",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 27990,
+        "file": "components\/ILIAS\/MetaData\/classes\/Settings\/Publishing\/class.ilMDPublishingSettingsGUI.php",
+        "line": 185,
+        "code": "$this->lng->txt('md_publishing_workflow')",
+        "has_variable": false,
+        "variable": "md_publishing_workflow"
+    },
+    {
+        "id": 27992,
+        "file": "components\/ILIAS\/MetaData\/classes\/Settings\/Publishing\/class.ilMDPublishingSettingsGUI.php",
+        "line": 190,
+        "code": "$this->lng->txt('md_publishing_workflow_mode')",
+        "has_variable": false,
+        "variable": "md_publishing_workflow_mode"
+    },
+    {
+        "id": 27994,
+        "file": "components\/ILIAS\/MetaData\/classes\/Settings\/Publishing\/class.ilMDPublishingSettingsGUI.php",
+        "line": 193,
+        "code": "$this->lng->txt('md_publishing_workflow_mode_info')",
+        "has_variable": false,
+        "variable": "md_publishing_workflow_mode_info"
+    },
+    {
+        "id": 27996,
+        "file": "components\/ILIAS\/MetaData\/classes\/Settings\/Publishing\/class.ilMDPublishingSettingsGUI.php",
+        "line": 196,
+        "code": "$this->lng->txt('md_publishing_workflow_manual')",
+        "has_variable": false,
+        "variable": "md_publishing_workflow_manual"
+    },
+    {
+        "id": 27998,
+        "file": "components\/ILIAS\/MetaData\/classes\/Settings\/Publishing\/class.ilMDPublishingSettingsGUI.php",
+        "line": 198,
+        "code": "$this->lng->txt('md_publishing_workflow_manual_info')",
+        "has_variable": false,
+        "variable": "md_publishing_workflow_manual_info"
+    },
+    {
+        "id": 28000,
+        "file": "components\/ILIAS\/MetaData\/classes\/Settings\/Publishing\/class.ilMDPublishingSettingsGUI.php",
+        "line": 205,
+        "code": "$this->lng->txt('md_publishing_workflow_automatic')",
+        "has_variable": false,
+        "variable": "md_publishing_workflow_automatic"
+    },
+    {
+        "id": 28002,
+        "file": "components\/ILIAS\/MetaData\/classes\/Settings\/Publishing\/class.ilMDPublishingSettingsGUI.php",
+        "line": 207,
+        "code": "$this->lng->txt('md_publishing_workflow_automatic_info')",
+        "has_variable": false,
+        "variable": "md_publishing_workflow_automatic_info"
+    },
+    {
+        "id": 28004,
+        "file": "components\/ILIAS\/MetaData\/classes\/Settings\/Publishing\/class.ilMDPublishingSettingsGUI.php",
+        "line": 218,
+        "code": "$this->lng->txt('meta_oer_exposed_source')",
+        "has_variable": false,
+        "variable": "meta_oer_exposed_source"
+    },
+    {
+        "id": 28006,
+        "file": "components\/ILIAS\/MetaData\/classes\/Settings\/Publishing\/class.ilMDPublishingSettingsGUI.php",
+        "line": 239,
+        "code": "$this->lng->txt('meta_oer_editorial_step_toggle')",
+        "has_variable": false,
+        "variable": "meta_oer_editorial_step_toggle"
+    },
+    {
+        "id": 28008,
+        "file": "components\/ILIAS\/MetaData\/classes\/Settings\/Publishing\/class.ilMDPublishingSettingsGUI.php",
+        "line": 242,
+        "code": "$this->lng->txt('meta_oer_editorial_step_info')",
+        "has_variable": false,
+        "variable": "meta_oer_editorial_step_info"
+    },
+    {
+        "id": 28010,
+        "file": "components\/ILIAS\/MetaData\/classes\/Settings\/Publishing\/class.ilMDPublishingSettingsGUI.php",
+        "line": 247,
+        "code": "$this->lng->txt('meta_oer_editorial_category')",
+        "has_variable": false,
+        "variable": "meta_oer_editorial_category"
+    },
+    {
+        "id": 28012,
+        "file": "components\/ILIAS\/MetaData\/classes\/Settings\/Publishing\/class.ilMDPublishingSettingsGUI.php",
+        "line": 270,
+        "code": "$this->lng->txt('meta_oer_harvested_licences')",
+        "has_variable": false,
+        "variable": "meta_oer_harvested_licences"
+    },
+    {
+        "id": 28014,
+        "file": "components\/ILIAS\/MetaData\/classes\/Settings\/Publishing\/class.ilMDPublishingSettingsGUI.php",
+        "line": 274,
+        "code": "$this->lng->txt('meta_oer_copyright_selection')",
+        "has_variable": false,
+        "variable": "meta_oer_copyright_selection"
+    },
+    {
+        "id": 28016,
+        "file": "components\/ILIAS\/MetaData\/classes\/Settings\/Publishing\/class.ilMDPublishingSettingsGUI.php",
+        "line": 279,
+        "code": "$this->lng->txt('meta_oer_copyright_selection_info')",
+        "has_variable": false,
+        "variable": "meta_oer_copyright_selection_info"
+    },
+    {
+        "id": 28018,
+        "file": "components\/ILIAS\/MetaData\/classes\/Settings\/Publishing\/class.ilMDPublishingSettingsGUI.php",
+        "line": 300,
+        "code": "$this->lng->txt('meta_oer_harvested_types')",
+        "has_variable": false,
+        "variable": "meta_oer_harvested_types"
+    },
+    {
+        "id": 28020,
+        "file": "components\/ILIAS\/MetaData\/classes\/Settings\/Publishing\/class.ilMDPublishingSettingsGUI.php",
+        "line": 304,
+        "code": "$this->lng->txt('meta_oer_object_type_selection')",
+        "has_variable": false,
+        "variable": "meta_oer_object_type_selection"
+    },
+    {
+        "id": 28022,
+        "file": "components\/ILIAS\/MetaData\/classes\/Settings\/Publishing\/class.ilMDPublishingSettingsGUI.php",
+        "line": 312,
+        "code": "$this->lng->txt('objs_' . $type)",
+        "has_variable": true,
+        "variable": "'objs_' . $type"
+    },
+    {
+        "id": 28024,
+        "file": "components\/ILIAS\/MetaData\/classes\/Settings\/Publishing\/class.ilMDPublishingSettingsGUI.php",
+        "line": 323,
+        "code": "$this->lng->txt('md_settings_publishing')",
+        "has_variable": false,
+        "variable": "md_settings_publishing"
+    },
+    {
+        "id": 28026,
+        "file": "components\/ILIAS\/MetaData\/classes\/Settings\/Publishing\/class.ilMDPublishingSettingsGUI.php",
+        "line": 326,
+        "code": "$this->lng->txt('md_oai_pmh_enabled')",
+        "has_variable": false,
+        "variable": "md_oai_pmh_enabled"
+    },
+    {
+        "id": 28028,
+        "file": "components\/ILIAS\/MetaData\/classes\/Settings\/Publishing\/class.ilMDPublishingSettingsGUI.php",
+        "line": 329,
+        "code": "$this->lng->txt('md_oai_pmh_enabled_info')",
+        "has_variable": false,
+        "variable": "md_oai_pmh_enabled_info"
+    },
+    {
+        "id": 28030,
+        "file": "components\/ILIAS\/MetaData\/classes\/Settings\/Publishing\/class.ilMDPublishingSettingsGUI.php",
+        "line": 332,
+        "code": "$this->lng->txt('md_oai_repository_name')",
+        "has_variable": false,
+        "variable": "md_oai_repository_name"
+    },
+    {
+        "id": 28032,
+        "file": "components\/ILIAS\/MetaData\/classes\/Settings\/Publishing\/class.ilMDPublishingSettingsGUI.php",
+        "line": 334,
+        "code": "$this->lng->txt('md_oai_repository_name_info')",
+        "has_variable": false,
+        "variable": "md_oai_repository_name_info"
+    },
+    {
+        "id": 28034,
+        "file": "components\/ILIAS\/MetaData\/classes\/Settings\/Publishing\/class.ilMDPublishingSettingsGUI.php",
+        "line": 338,
+        "code": "$this->lng->txt('md_oai_identifier_prefix')",
+        "has_variable": false,
+        "variable": "md_oai_identifier_prefix"
+    },
+    {
+        "id": 28036,
+        "file": "components\/ILIAS\/MetaData\/classes\/Settings\/Publishing\/class.ilMDPublishingSettingsGUI.php",
+        "line": 340,
+        "code": "$this->lng->txt('md_oai_identifier_prefix_info')",
+        "has_variable": false,
+        "variable": "md_oai_identifier_prefix_info"
+    },
+    {
+        "id": 28038,
+        "file": "components\/ILIAS\/MetaData\/classes\/Settings\/Publishing\/class.ilMDPublishingSettingsGUI.php",
+        "line": 344,
+        "code": "$this->lng->txt('md_oai_contact_mail')",
+        "has_variable": false,
+        "variable": "md_oai_contact_mail"
+    },
+    {
+        "id": 28040,
+        "file": "components\/ILIAS\/MetaData\/classes\/Settings\/Publishing\/class.ilMDPublishingSettingsGUI.php",
+        "line": 352,
+        "code": "$this->lng->txt('meta_publishing_config_enabled')",
+        "has_variable": false,
+        "variable": "meta_publishing_config_enabled"
+    },
+    {
+        "id": 28042,
+        "file": "components\/ILIAS\/MetaData\/classes\/Settings\/Publishing\/class.ilMDPublishingSettingsGUI.php",
+        "line": 353,
+        "code": "$this->lng->txt('meta_publishing_config_disabled')",
+        "has_variable": false,
+        "variable": "meta_publishing_config_disabled"
+    },
+    {
+        "id": 28044,
+        "file": "components\/ILIAS\/MetaData\/classes\/Settings\/Publishing\/class.ilMDPublishingSettingsGUI.php",
+        "line": 355,
+        "code": "$this->lng->txt('meta_publishing_config_status')",
+        "has_variable": false,
+        "variable": "meta_publishing_config_status"
+    },
+    {
+        "id": 28046,
+        "file": "components\/ILIAS\/MetaData\/classes\/Settings\/Publishing\/class.ilMDPublishingSettingsGUI.php",
+        "line": 357,
+        "code": "$this->lng->txt('meta_publishing_config_cp')",
+        "has_variable": false,
+        "variable": "meta_publishing_config_cp"
+    },
+    {
+        "id": 28048,
+        "file": "components\/ILIAS\/MetaData\/classes\/Settings\/Publishing\/class.ilMDPublishingSettingsGUI.php",
+        "line": 361,
+        "code": "$this->lng->txt('meta_publishing_config_harvester')",
+        "has_variable": false,
+        "variable": "meta_publishing_config_harvester"
+    },
+    {
+        "id": 28050,
+        "file": "components\/ILIAS\/MetaData\/classes\/Settings\/Publishing\/class.ilMDPublishingSettingsGUI.php",
+        "line": 369,
+        "code": "$this->lng->txt('meta_publishing_config_cron_job_admin')",
+        "has_variable": false,
+        "variable": "meta_publishing_config_cron_job_admin"
+    },
+    {
+        "id": 28052,
+        "file": "components\/ILIAS\/MetaData\/classes\/Settings\/Vocabularies\/DataRetrieval.php",
+        "line": 65,
+        "code": "$this->presentation->txt('yes')",
+        "has_variable": false,
+        "variable": "yes"
+    },
+    {
+        "id": 28054,
+        "file": "components\/ILIAS\/MetaData\/classes\/Settings\/Vocabularies\/DataRetrieval.php",
+        "line": 70,
+        "code": "$this->presentation->txt('yes')",
+        "has_variable": false,
+        "variable": "yes"
+    },
+    {
+        "id": 28056,
+        "file": "components\/ILIAS\/MetaData\/classes\/Settings\/Vocabularies\/Presentation.php",
+        "line": 74,
+        "code": "$this->presentation_utils->txt($key)",
+        "has_variable": true,
+        "variable": "$key"
+    },
+    {
+        "id": 28058,
+        "file": "components\/ILIAS\/MetaData\/classes\/Settings\/Vocabularies\/Presentation.php",
+        "line": 85,
+        "code": "$this->presentation_utils->txt('md_vocab_type_standard')",
+        "has_variable": false,
+        "variable": "md_vocab_type_standard"
+    },
+    {
+        "id": 28060,
+        "file": "components\/ILIAS\/MetaData\/classes\/Settings\/Vocabularies\/Presentation.php",
+        "line": 86,
+        "code": "$this->presentation_utils->txt('md_vocab_type_controlled_string')",
+        "has_variable": false,
+        "variable": "md_vocab_type_controlled_string"
+    },
+    {
+        "id": 28062,
+        "file": "components\/ILIAS\/MetaData\/classes\/Settings\/Vocabularies\/Presentation.php",
+        "line": 87,
+        "code": "$this->presentation_utils->txt('md_vocab_type_controlled_vocab_value')",
+        "has_variable": false,
+        "variable": "md_vocab_type_controlled_vocab_value"
+    },
+    {
+        "id": 28064,
+        "file": "components\/ILIAS\/MetaData\/classes\/Settings\/Vocabularies\/Presentation.php",
+        "line": 88,
+        "code": "$this->presentation_utils->txt('md_vocab_type_copyright')",
+        "has_variable": false,
+        "variable": "md_vocab_type_copyright"
+    },
+    {
+        "id": 28066,
+        "file": "components\/ILIAS\/MetaData\/classes\/Settings\/Vocabularies\/class.ilMDVocabulariesGUI.php",
+        "line": 111,
+        "code": "$this->lng->txt('no_permission')",
+        "has_variable": false,
+        "variable": "no_permission"
+    },
+    {
+        "id": 28068,
+        "file": "components\/ILIAS\/MetaData\/classes\/Settings\/Vocabularies\/class.ilMDVocabulariesGUI.php",
+        "line": 194,
+        "code": "$this->lng->txt('md_vocab_import_upload_failed')",
+        "has_variable": false,
+        "variable": "md_vocab_import_upload_failed"
+    },
+    {
+        "id": 28070,
+        "file": "components\/ILIAS\/MetaData\/classes\/Settings\/Vocabularies\/class.ilMDVocabulariesGUI.php",
+        "line": 220,
+        "code": "$this->lng->txt('md_vocab_import_successful')",
+        "has_variable": false,
+        "variable": "md_vocab_import_successful"
+    },
+    {
+        "id": 28072,
+        "file": "components\/ILIAS\/MetaData\/classes\/Settings\/Vocabularies\/class.ilMDVocabulariesGUI.php",
+        "line": 224,
+        "code": "$this->lng->txt('md_vocab_import_invalid')",
+        "has_variable": false,
+        "variable": "md_vocab_import_invalid"
+    },
+    {
+        "id": 28074,
+        "file": "components\/ILIAS\/MetaData\/classes\/Settings\/Vocabularies\/class.ilMDVocabulariesGUI.php",
+        "line": 256,
+        "code": "$this->presentation->txt('md_vocab_delete_confirmation_title')",
+        "has_variable": false,
+        "variable": "md_vocab_delete_confirmation_title"
+    },
+    {
+        "id": 28076,
+        "file": "components\/ILIAS\/MetaData\/classes\/Settings\/Vocabularies\/class.ilMDVocabulariesGUI.php",
+        "line": 278,
+        "code": "$this->lng->txt('md_vocab_deletion_successful')",
+        "has_variable": false,
+        "variable": "md_vocab_deletion_successful"
+    },
+    {
+        "id": 28078,
+        "file": "components\/ILIAS\/MetaData\/classes\/Settings\/Vocabularies\/class.ilMDVocabulariesGUI.php",
+        "line": 291,
+        "code": "$this->lng->txt('md_vocab_update_successful')",
+        "has_variable": false,
+        "variable": "md_vocab_update_successful"
+    },
+    {
+        "id": 28080,
+        "file": "components\/ILIAS\/MetaData\/classes\/Settings\/Vocabularies\/class.ilMDVocabulariesGUI.php",
+        "line": 304,
+        "code": "$this->lng->txt('md_vocab_update_successful')",
+        "has_variable": false,
+        "variable": "md_vocab_update_successful"
+    },
+    {
+        "id": 28082,
+        "file": "components\/ILIAS\/MetaData\/classes\/Settings\/Vocabularies\/class.ilMDVocabulariesGUI.php",
+        "line": 317,
+        "code": "$this->lng->txt('md_vocab_update_successful')",
+        "has_variable": false,
+        "variable": "md_vocab_update_successful"
+    },
+    {
+        "id": 28084,
+        "file": "components\/ILIAS\/MetaData\/classes\/Settings\/Vocabularies\/class.ilMDVocabulariesGUI.php",
+        "line": 330,
+        "code": "$this->lng->txt('md_vocab_update_successful')",
+        "has_variable": false,
+        "variable": "md_vocab_update_successful"
+    },
+    {
+        "id": 28086,
+        "file": "components\/ILIAS\/MetaData\/classes\/Settings\/Vocabularies\/class.ilMDVocabulariesGUI.php",
+        "line": 358,
+        "code": "$this->lng->txt('md_vocab_element_column')",
+        "has_variable": false,
+        "variable": "md_vocab_element_column"
+    },
+    {
+        "id": 28088,
+        "file": "components\/ILIAS\/MetaData\/classes\/Settings\/Vocabularies\/class.ilMDVocabulariesGUI.php",
+        "line": 359,
+        "code": "$this->lng->txt('md_vocab_type_column')",
+        "has_variable": false,
+        "variable": "md_vocab_type_column"
+    },
+    {
+        "id": 28090,
+        "file": "components\/ILIAS\/MetaData\/classes\/Settings\/Vocabularies\/class.ilMDVocabulariesGUI.php",
+        "line": 360,
+        "code": "$this->lng->txt('md_vocab_source_column')",
+        "has_variable": false,
+        "variable": "md_vocab_source_column"
+    },
+    {
+        "id": 28092,
+        "file": "components\/ILIAS\/MetaData\/classes\/Settings\/Vocabularies\/class.ilMDVocabulariesGUI.php",
+        "line": 361,
+        "code": "$this->lng->txt('md_vocab_preview_column')",
+        "has_variable": false,
+        "variable": "md_vocab_preview_column"
+    },
+    {
+        "id": 28094,
+        "file": "components\/ILIAS\/MetaData\/classes\/Settings\/Vocabularies\/class.ilMDVocabulariesGUI.php",
+        "line": 362,
+        "code": "$this->lng->txt('md_vocab_active_column')",
+        "has_variable": false,
+        "variable": "md_vocab_active_column"
+    },
+    {
+        "id": 28096,
+        "file": "components\/ILIAS\/MetaData\/classes\/Settings\/Vocabularies\/class.ilMDVocabulariesGUI.php",
+        "line": 363,
+        "code": "$this->lng->txt('md_vocab_custom_input_column')",
+        "has_variable": false,
+        "variable": "md_vocab_custom_input_column"
+    },
+    {
+        "id": 28098,
+        "file": "components\/ILIAS\/MetaData\/classes\/Settings\/Vocabularies\/class.ilMDVocabulariesGUI.php",
+        "line": 372,
+        "code": "$this->lng->txt('md_vocab_delete_action')",
+        "has_variable": false,
+        "variable": "md_vocab_delete_action"
+    },
+    {
+        "id": 28100,
+        "file": "components\/ILIAS\/MetaData\/classes\/Settings\/Vocabularies\/class.ilMDVocabulariesGUI.php",
+        "line": 377,
+        "code": "$this->lng->txt('md_vocab_activate_action')",
+        "has_variable": false,
+        "variable": "md_vocab_activate_action"
+    },
+    {
+        "id": 28102,
+        "file": "components\/ILIAS\/MetaData\/classes\/Settings\/Vocabularies\/class.ilMDVocabulariesGUI.php",
+        "line": 382,
+        "code": "$this->lng->txt('md_vocab_deactivate_action')",
+        "has_variable": false,
+        "variable": "md_vocab_deactivate_action"
+    },
+    {
+        "id": 28104,
+        "file": "components\/ILIAS\/MetaData\/classes\/Settings\/Vocabularies\/class.ilMDVocabulariesGUI.php",
+        "line": 387,
+        "code": "$this->lng->txt('md_vocab_allow_custom_input_action')",
+        "has_variable": false,
+        "variable": "md_vocab_allow_custom_input_action"
+    },
+    {
+        "id": 28106,
+        "file": "components\/ILIAS\/MetaData\/classes\/Settings\/Vocabularies\/class.ilMDVocabulariesGUI.php",
+        "line": 392,
+        "code": "$this->lng->txt('md_vocab_disallow_custom_input_action')",
+        "has_variable": false,
+        "variable": "md_vocab_disallow_custom_input_action"
+    },
+    {
+        "id": 28108,
+        "file": "components\/ILIAS\/MetaData\/classes\/Settings\/Vocabularies\/class.ilMDVocabulariesGUI.php",
+        "line": 399,
+        "code": "$this->lng->txt('md_vocab_show_all_action')",
+        "has_variable": false,
+        "variable": "md_vocab_show_all_action"
+    },
+    {
+        "id": 28110,
+        "file": "components\/ILIAS\/MetaData\/classes\/Settings\/Vocabularies\/class.ilMDVocabulariesGUI.php",
+        "line": 410,
+        "code": "$this->lng->txt('md_vocab_table_title')",
+        "has_variable": false,
+        "variable": "md_vocab_table_title"
+    },
+    {
+        "id": 28112,
+        "file": "components\/ILIAS\/MetaData\/classes\/Settings\/Vocabularies\/class.ilMDVocabulariesGUI.php",
+        "line": 419,
+        "code": "$this->lng->txt('md_import_file_vocab')",
+        "has_variable": false,
+        "variable": "md_import_file_vocab"
+    },
+    {
+        "id": 28114,
+        "file": "components\/ILIAS\/MetaData\/classes\/Settings\/Vocabularies\/class.ilMDVocabulariesGUI.php",
+        "line": 423,
+        "code": "$this->lng->txt('md_import_vocab_modal')",
+        "has_variable": false,
+        "variable": "md_import_vocab_modal"
+    },
+    {
+        "id": 28116,
+        "file": "components\/ILIAS\/MetaData\/classes\/Settings\/Vocabularies\/class.ilMDVocabulariesGUI.php",
+        "line": 433,
+        "code": "$this->lng->txt('md_import_vocab')",
+        "has_variable": false,
+        "variable": "md_import_vocab"
+    },
+    {
+        "id": 28118,
+        "file": "components\/ILIAS\/MetaData\/classes\/Settings\/class.ilMDSettingsControllerGUI.php",
+        "line": 63,
+        "code": "$this->lng->txt('no_permission')",
+        "has_variable": false,
+        "variable": "no_permission"
+    },
+    {
+        "id": 28120,
+        "file": "components\/ILIAS\/MetaData\/classes\/Settings\/class.ilMDSettingsControllerGUI.php",
+        "line": 109,
+        "code": "$this->lng->txt('md_settings')",
+        "has_variable": false,
+        "variable": "md_settings"
+    },
+    {
+        "id": 28122,
+        "file": "components\/ILIAS\/MetaData\/classes\/Settings\/class.ilMDSettingsControllerGUI.php",
+        "line": 118,
+        "code": "$this->lng->txt('md_publishing')",
+        "has_variable": false,
+        "variable": "md_publishing"
+    },
+    {
+        "id": 28124,
+        "file": "components\/ILIAS\/MetaData\/classes\/Settings\/class.ilMDSettingsControllerGUI.php",
+        "line": 127,
+        "code": "$this->lng->txt('md_copyright_selection')",
+        "has_variable": false,
+        "variable": "md_copyright_selection"
+    },
+    {
+        "id": 28126,
+        "file": "components\/ILIAS\/MetaData\/classes\/Settings\/class.ilMDSettingsControllerGUI.php",
+        "line": 136,
+        "code": "$this->lng->txt('md_vocabularies_config')",
+        "has_variable": false,
+        "variable": "md_vocabularies_config"
+    },
+    {
+        "id": 28128,
+        "file": "components\/ILIAS\/MetaData\/classes\/Settings\/class.ilObjMDSettingsGUI.php",
+        "line": 58,
+        "code": "$this->lng->txt('no_permission')",
+        "has_variable": false,
+        "variable": "no_permission"
+    },
+    {
+        "id": 28130,
+        "file": "components\/ILIAS\/MetaData\/classes\/Settings\/class.ilObjMDSettingsGUI.php",
+        "line": 110,
+        "code": "$this->lng->txt('md_copyright_admin_tab')",
+        "has_variable": false,
+        "variable": "md_copyright_admin_tab"
+    },
+    {
+        "id": 28132,
+        "file": "components\/ILIAS\/MetaData\/classes\/Settings\/class.ilObjMDSettingsGUI.php",
+        "line": 116,
+        "code": "$this->lng->txt('md_advanced')",
+        "has_variable": false,
+        "variable": "md_advanced"
+    },
+    {
+        "id": 28134,
+        "file": "components\/ILIAS\/MetaData\/classes\/Settings\/class.ilObjMDSettingsGUI.php",
+        "line": 124,
+        "code": "$this->lng->txt('perm_settings')",
+        "has_variable": false,
+        "variable": "perm_settings"
+    },
+    {
+        "id": 28136,
+        "file": "components\/ILIAS\/MetaData\/classes\/Vocabularies\/Dispatch\/Presentation\/Presentation.php",
+        "line": 101,
+        "code": "$presentation_utilities->txt('md_unknown_vocabulary_flag')",
+        "has_variable": false,
+        "variable": "md_unknown_vocabulary_flag"
+    },
+    {
+        "id": 28138,
+        "file": "components\/ILIAS\/MetaData\/classes\/Vocabularies\/Standard\/Repository.php",
+        "line": 179,
+        "code": "$presentation_utilities->txt('meta_' . $this->fillSpaces($value))",
+        "has_variable": true,
+        "variable": "'meta_' . $this->fillSpaces($value)"
+    },
+    {
+        "id": 28140,
+        "file": "components\/ILIAS\/MetaData\/classes\/class.ilCronOerHarvester.php",
+        "line": 60,
+        "code": "$this->presentation_utilities->txt('meta_oer_harvester')",
+        "has_variable": false,
+        "variable": "meta_oer_harvester"
+    },
+    {
+        "id": 28142,
+        "file": "components\/ILIAS\/MetaData\/classes\/class.ilCronOerHarvester.php",
+        "line": 65,
+        "code": "$this->presentation_utilities->txt('meta_oer_harvester_desc')",
+        "has_variable": false,
+        "variable": "meta_oer_harvester_desc"
+    },
+    {
+        "id": 28144,
+        "file": "components\/ILIAS\/MetaData\/classes\/class.ilCronOerHarvester.php",
+        "line": 111,
+        "code": "$this->presentation_utilities->txt('enabled')",
+        "has_variable": false,
+        "variable": "enabled"
+    },
+    {
+        "id": 28146,
+        "file": "components\/ILIAS\/MetaData\/classes\/class.ilCronOerHarvester.php",
+        "line": 112,
+        "code": "$this->presentation_utilities->txt('disabled')",
+        "has_variable": false,
+        "variable": "disabled"
+    },
+    {
+        "id": 28148,
+        "file": "components\/ILIAS\/MetaData\/tests\/Presentation\/UtilitiesTest.php",
+        "line": 74,
+        "code": "$this->utilities->txt('key1')",
+        "has_variable": false,
+        "variable": "key1"
+    }
+]

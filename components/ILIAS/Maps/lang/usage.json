@@ -1,0 +1,146 @@
+[
+    {
+        "id": 25908,
+        "file": "components\/ILIAS\/Maps\/classes\/class.ilMapUtil.php",
+        "line": 173,
+        "code": "$lng->txt(\"maps_open_layers_maps\")",
+        "has_variable": false,
+        "variable": "maps_open_layers_maps"
+    },
+    {
+        "id": 25910,
+        "file": "components\/ILIAS\/Maps\/classes\/class.ilMapUtil.php",
+        "line": 174,
+        "code": "$lng->txt(\"maps_google_maps\")",
+        "has_variable": false,
+        "variable": "maps_google_maps"
+    },
+    {
+        "id": 25912,
+        "file": "components\/ILIAS\/Maps\/classes\/class.ilObjMapsGUI.php",
+        "line": 40,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 25914,
+        "file": "components\/ILIAS\/Maps\/classes\/class.ilObjMapsGUI.php",
+        "line": 46,
+        "code": "$this->lng->txt('obj_maps')",
+        "has_variable": false,
+        "variable": "obj_maps"
+    },
+    {
+        "id": 25916,
+        "file": "components\/ILIAS\/Maps\/classes\/class.ilObjMapsGUI.php",
+        "line": 73,
+        "code": "$this->lng->txt('view')",
+        "has_variable": false,
+        "variable": "view"
+    },
+    {
+        "id": 25918,
+        "file": "components\/ILIAS\/Maps\/classes\/class.ilObjMapsGUI.php",
+        "line": 79,
+        "code": "$this->lng->txt('perm_settings')",
+        "has_variable": false,
+        "variable": "perm_settings"
+    },
+    {
+        "id": 25920,
+        "file": "components\/ILIAS\/Maps\/classes\/class.ilObjMapsGUI.php",
+        "line": 94,
+        "code": "$lng->txt('maps_settings')",
+        "has_variable": false,
+        "variable": "maps_settings"
+    },
+    {
+        "id": 25922,
+        "file": "components\/ILIAS\/Maps\/classes\/class.ilObjMapsGUI.php",
+        "line": 97,
+        "code": "$lng->txt('maps_enable_maps')",
+        "has_variable": false,
+        "variable": "maps_enable_maps"
+    },
+    {
+        "id": 25924,
+        "file": "components\/ILIAS\/Maps\/classes\/class.ilObjMapsGUI.php",
+        "line": 99,
+        "code": "$lng->txt('maps_enable_maps_info')",
+        "has_variable": false,
+        "variable": "maps_enable_maps_info"
+    },
+    {
+        "id": 25926,
+        "file": "components\/ILIAS\/Maps\/classes\/class.ilObjMapsGUI.php",
+        "line": 103,
+        "code": "$lng->txt('maps_map_type')",
+        "has_variable": false,
+        "variable": "maps_map_type"
+    },
+    {
+        "id": 25928,
+        "file": "components\/ILIAS\/Maps\/classes\/class.ilObjMapsGUI.php",
+        "line": 110,
+        "code": "$lng->txt('maps_tile_server')",
+        "has_variable": false,
+        "variable": "maps_tile_server"
+    },
+    {
+        "id": 25930,
+        "file": "components\/ILIAS\/Maps\/classes\/class.ilObjMapsGUI.php",
+        "line": 112,
+        "code": "$lng->txt('maps_custom_tile_server_info')",
+        "has_variable": false,
+        "variable": "maps_custom_tile_server_info"
+    },
+    {
+        "id": 25932,
+        "file": "components\/ILIAS\/Maps\/classes\/class.ilObjMapsGUI.php",
+        "line": 113,
+        "code": "$lng->txt('maps_geolocation_server')",
+        "has_variable": false,
+        "variable": "maps_geolocation_server"
+    },
+    {
+        "id": 25934,
+        "file": "components\/ILIAS\/Maps\/classes\/class.ilObjMapsGUI.php",
+        "line": 115,
+        "code": "$lng->txt('maps_custom_geolocation_server_info')",
+        "has_variable": false,
+        "variable": "maps_custom_geolocation_server_info"
+    },
+    {
+        "id": 25936,
+        "file": "components\/ILIAS\/Maps\/classes\/class.ilObjMapsGUI.php",
+        "line": 129,
+        "code": "$lng->txt('maps_std_location')",
+        "has_variable": false,
+        "variable": "maps_std_location"
+    },
+    {
+        "id": 25938,
+        "file": "components\/ILIAS\/Maps\/classes\/class.ilObjMapsGUI.php",
+        "line": 139,
+        "code": "$lng->txt('save')",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 25940,
+        "file": "components\/ILIAS\/Maps\/classes\/class.ilObjMapsGUI.php",
+        "line": 140,
+        "code": "$lng->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 25942,
+        "file": "components\/ILIAS\/Maps\/classes\/class.ilOpenLayersMapGUI.php",
+        "line": 166,
+        "code": "$this->lng->txt(\"invalid_address\")",
+        "has_variable": false,
+        "variable": "invalid_address"
+    }
+]

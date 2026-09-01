@@ -1,0 +1,24 @@
+{
+    "metadata": {
+        "type": "composed",
+        "count": 1,
+        "description": "Variable usages with detectable prefixes or suffixes"
+    },
+    "matches": [
+        {
+            "id": 28166,
+            "file": "components\/ILIAS\/MyStaff\/classes\/ListUsers\/class.ilMStListUsersTableGUI.php",
+            "line": 245,
+            "code": "$this->language->txt('gender_' . $set->getGender())",
+            "variable": "'gender_' . $set->getGender()",
+            "has_variable": true,
+            "prefix": "gender_",
+            "suffix": "",
+            "matching_variables": [
+                "gender_f",
+                "gender_m",
+                "gender_n"
+            ]
+        }
+    ]
+}

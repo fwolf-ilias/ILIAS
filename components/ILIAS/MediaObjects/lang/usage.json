@@ -1,0 +1,1954 @@
+[
+    {
+        "id": 26268,
+        "file": "components\/ILIAS\/MediaObjects\/Creation\/class.ilMediaCreationGUI.php",
+        "line": 240,
+        "code": "$this->lng->txt(\"option\")",
+        "has_variable": false,
+        "variable": "option"
+    },
+    {
+        "id": 26270,
+        "file": "components\/ILIAS\/MediaObjects\/Creation\/class.ilMediaCreationGUI.php",
+        "line": 265,
+        "code": "$this->lng->txt('mob_upload_file')",
+        "has_variable": false,
+        "variable": "mob_upload_file"
+    },
+    {
+        "id": 26272,
+        "file": "components\/ILIAS\/MediaObjects\/Creation\/class.ilMediaCreationGUI.php",
+        "line": 268,
+        "code": "$this->lng->txt(\"files\")",
+        "has_variable": false,
+        "variable": "files"
+    },
+    {
+        "id": 26274,
+        "file": "components\/ILIAS\/MediaObjects\/Creation\/class.ilMediaCreationGUI.php",
+        "line": 288,
+        "code": "$lng->txt(\"mob_url\")",
+        "has_variable": false,
+        "variable": "mob_url"
+    },
+    {
+        "id": 26276,
+        "file": "components\/ILIAS\/MediaObjects\/Creation\/class.ilMediaCreationGUI.php",
+        "line": 289,
+        "code": "$lng->txt(\"mob_url_info1\")",
+        "has_variable": false,
+        "variable": "mob_url_info1"
+    },
+    {
+        "id": 26278,
+        "file": "components\/ILIAS\/MediaObjects\/Creation\/class.ilMediaCreationGUI.php",
+        "line": 291,
+        "code": "$lng->txt(\"mob_url_info_video\")",
+        "has_variable": false,
+        "variable": "mob_url_info_video"
+    },
+    {
+        "id": 26280,
+        "file": "components\/ILIAS\/MediaObjects\/Creation\/class.ilMediaCreationGUI.php",
+        "line": 297,
+        "code": "$lng->txt(\"save\")",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 26282,
+        "file": "components\/ILIAS\/MediaObjects\/Creation\/class.ilMediaCreationGUI.php",
+        "line": 298,
+        "code": "$lng->txt(\"cancel\")",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 26284,
+        "file": "components\/ILIAS\/MediaObjects\/Creation\/class.ilMediaCreationGUI.php",
+        "line": 300,
+        "code": "$lng->txt(\"mob_external_url\")",
+        "has_variable": false,
+        "variable": "mob_external_url"
+    },
+    {
+        "id": 26286,
+        "file": "components\/ILIAS\/MediaObjects\/Creation\/class.ilMediaCreationGUI.php",
+        "line": 314,
+        "code": "$lng->txt(\"obj_mep\")",
+        "has_variable": false,
+        "variable": "obj_mep"
+    },
+    {
+        "id": 26288,
+        "file": "components\/ILIAS\/MediaObjects\/Creation\/class.ilMediaCreationGUI.php",
+        "line": 325,
+        "code": "$lng->txt(\"continue\")",
+        "has_variable": false,
+        "variable": "continue"
+    },
+    {
+        "id": 26290,
+        "file": "components\/ILIAS\/MediaObjects\/Creation\/class.ilMediaCreationGUI.php",
+        "line": 326,
+        "code": "$lng->txt(\"cancel\")",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 26292,
+        "file": "components\/ILIAS\/MediaObjects\/Creation\/class.ilMediaCreationGUI.php",
+        "line": 328,
+        "code": "$lng->txt(\"mob_choose_from_pool\")",
+        "has_variable": false,
+        "variable": "mob_choose_from_pool"
+    },
+    {
+        "id": 26294,
+        "file": "components\/ILIAS\/MediaObjects\/Creation\/class.ilMediaCreationGUI.php",
+        "line": 487,
+        "code": "$lng->txt(\"save\")",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 26296,
+        "file": "components\/ILIAS\/MediaObjects\/Creation\/class.ilMediaCreationGUI.php",
+        "line": 528,
+        "code": "$lng->txt(\"title\")",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 26298,
+        "file": "components\/ILIAS\/MediaObjects\/Creation\/class.ilMediaCreationGUI.php",
+        "line": 533,
+        "code": "$lng->txt(\"description\")",
+        "has_variable": false,
+        "variable": "description"
+    },
+    {
+        "id": 26300,
+        "file": "components\/ILIAS\/MediaObjects\/Creation\/class.ilMediaCreationGUI.php",
+        "line": 559,
+        "code": "$lng->txt(\"msg_obj_modified\")",
+        "has_variable": false,
+        "variable": "msg_obj_modified"
+    },
+    {
+        "id": 26302,
+        "file": "components\/ILIAS\/MediaObjects\/Creation\/class.ilMediaCreationGUI.php",
+        "line": 612,
+        "code": "$this->lng->txt(\"mob_type_not_supported\")",
+        "has_variable": false,
+        "variable": "mob_type_not_supported"
+    },
+    {
+        "id": 26304,
+        "file": "components\/ILIAS\/MediaObjects\/Creation\/class.ilMediaCreationGUI.php",
+        "line": 664,
+        "code": "$this->lng->txt(\"mob_please_select_pool\")",
+        "has_variable": false,
+        "variable": "mob_please_select_pool"
+    },
+    {
+        "id": 26306,
+        "file": "components\/ILIAS\/MediaObjects\/Creation\/class.ilMediaCreationGUI.php",
+        "line": 677,
+        "code": "$lng->txt(\"cont_switch_to_media_pool\")",
+        "has_variable": false,
+        "variable": "cont_switch_to_media_pool"
+    },
+    {
+        "id": 26308,
+        "file": "components\/ILIAS\/MediaObjects\/Creation\/class.ilMediaCreationGUI.php",
+        "line": 685,
+        "code": "$lng->txt(\"folders\")",
+        "has_variable": false,
+        "variable": "folders"
+    },
+    {
+        "id": 26310,
+        "file": "components\/ILIAS\/MediaObjects\/Creation\/class.ilMediaCreationGUI.php",
+        "line": 687,
+        "code": "$lng->txt(\"mep_all_mobs\")",
+        "has_variable": false,
+        "variable": "mep_all_mobs"
+    },
+    {
+        "id": 26312,
+        "file": "components\/ILIAS\/MediaObjects\/Creation\/class.ilMediaCreationGUI.php",
+        "line": 689,
+        "code": "$lng->txt(\"cont_change_pool_view\")",
+        "has_variable": false,
+        "variable": "cont_change_pool_view"
+    },
+    {
+        "id": 26314,
+        "file": "components\/ILIAS\/MediaObjects\/Creation\/class.ilMediaCreationGUI.php",
+        "line": 691,
+        "code": "$lng->txt(\"folders\")",
+        "has_variable": false,
+        "variable": "folders"
+    },
+    {
+        "id": 26316,
+        "file": "components\/ILIAS\/MediaObjects\/Creation\/class.ilMediaCreationGUI.php",
+        "line": 691,
+        "code": "$lng->txt(\"mep_all_mobs\")",
+        "has_variable": false,
+        "variable": "mep_all_mobs"
+    },
+    {
+        "id": 26318,
+        "file": "components\/ILIAS\/MediaObjects\/Creation\/class.ilMediaCreationGUI.php",
+        "line": 774,
+        "code": "$this->lng->txt(\"select_one\")",
+        "has_variable": false,
+        "variable": "select_one"
+    },
+    {
+        "id": 26320,
+        "file": "components\/ILIAS\/MediaObjects\/Creation\/class.ilMediaCreationGUI.php",
+        "line": 783,
+        "code": "$this->lng->txt(\"mob_mime_type_not_allowed\")",
+        "has_variable": false,
+        "variable": "mob_mime_type_not_allowed"
+    },
+    {
+        "id": 26322,
+        "file": "components\/ILIAS\/MediaObjects\/ImageMap\/class.ilImageMapEditorGUI.php",
+        "line": 140,
+        "code": "$lng->txt(\"cont_WholePicture\")",
+        "has_variable": false,
+        "variable": "cont_WholePicture"
+    },
+    {
+        "id": 26324,
+        "file": "components\/ILIAS\/MediaObjects\/ImageMap\/class.ilImageMapEditorGUI.php",
+        "line": 141,
+        "code": "$lng->txt(\"cont_Rect\")",
+        "has_variable": false,
+        "variable": "cont_Rect"
+    },
+    {
+        "id": 26326,
+        "file": "components\/ILIAS\/MediaObjects\/ImageMap\/class.ilImageMapEditorGUI.php",
+        "line": 142,
+        "code": "$lng->txt(\"cont_Circle\")",
+        "has_variable": false,
+        "variable": "cont_Circle"
+    },
+    {
+        "id": 26328,
+        "file": "components\/ILIAS\/MediaObjects\/ImageMap\/class.ilImageMapEditorGUI.php",
+        "line": 143,
+        "code": "$lng->txt(\"cont_Poly\")",
+        "has_variable": false,
+        "variable": "cont_Poly"
+    },
+    {
+        "id": 26330,
+        "file": "components\/ILIAS\/MediaObjects\/ImageMap\/class.ilImageMapEditorGUI.php",
+        "line": 145,
+        "code": "$lng->txt(\"cont_shape\")",
+        "has_variable": false,
+        "variable": "cont_shape"
+    },
+    {
+        "id": 26332,
+        "file": "components\/ILIAS\/MediaObjects\/ImageMap\/class.ilImageMapEditorGUI.php",
+        "line": 148,
+        "code": "$lng->txt(\"cont_add_area\")",
+        "has_variable": false,
+        "variable": "cont_add_area"
+    },
+    {
+        "id": 26334,
+        "file": "components\/ILIAS\/MediaObjects\/ImageMap\/class.ilImageMapEditorGUI.php",
+        "line": 156,
+        "code": "$lng->txt(\"cont_imagemap\")",
+        "has_variable": false,
+        "variable": "cont_imagemap"
+    },
+    {
+        "id": 26336,
+        "file": "components\/ILIAS\/MediaObjects\/ImageMap\/class.ilImageMapEditorGUI.php",
+        "line": 223,
+        "code": "$lng->txt(\"cont_saved_map_data\")",
+        "has_variable": false,
+        "variable": "cont_saved_map_data"
+    },
+    {
+        "id": 26338,
+        "file": "components\/ILIAS\/MediaObjects\/ImageMap\/class.ilImageMapEditorGUI.php",
+        "line": 362,
+        "code": "$lng->txt(\"cont_click_tl_corner\")",
+        "has_variable": false,
+        "variable": "cont_click_tl_corner"
+    },
+    {
+        "id": 26340,
+        "file": "components\/ILIAS\/MediaObjects\/ImageMap\/class.ilImageMapEditorGUI.php",
+        "line": 365,
+        "code": "$lng->txt(\"cont_click_br_corner\")",
+        "has_variable": false,
+        "variable": "cont_click_br_corner"
+    },
+    {
+        "id": 26342,
+        "file": "components\/ILIAS\/MediaObjects\/ImageMap\/class.ilImageMapEditorGUI.php",
+        "line": 372,
+        "code": "$lng->txt(\"cont_click_center\")",
+        "has_variable": false,
+        "variable": "cont_click_center"
+    },
+    {
+        "id": 26344,
+        "file": "components\/ILIAS\/MediaObjects\/ImageMap\/class.ilImageMapEditorGUI.php",
+        "line": 375,
+        "code": "$lng->txt(\"cont_click_circle\")",
+        "has_variable": false,
+        "variable": "cont_click_circle"
+    },
+    {
+        "id": 26346,
+        "file": "components\/ILIAS\/MediaObjects\/ImageMap\/class.ilImageMapEditorGUI.php",
+        "line": 382,
+        "code": "$lng->txt(\"cont_click_starting_point\")",
+        "has_variable": false,
+        "variable": "cont_click_starting_point"
+    },
+    {
+        "id": 26348,
+        "file": "components\/ILIAS\/MediaObjects\/ImageMap\/class.ilImageMapEditorGUI.php",
+        "line": 384,
+        "code": "$lng->txt(\"cont_click_next_point\")",
+        "has_variable": false,
+        "variable": "cont_click_next_point"
+    },
+    {
+        "id": 26350,
+        "file": "components\/ILIAS\/MediaObjects\/ImageMap\/class.ilImageMapEditorGUI.php",
+        "line": 386,
+        "code": "$lng->txt(\"cont_click_next_or_save\")",
+        "has_variable": false,
+        "variable": "cont_click_next_or_save"
+    },
+    {
+        "id": 26352,
+        "file": "components\/ILIAS\/MediaObjects\/ImageMap\/class.ilImageMapEditorGUI.php",
+        "line": 444,
+        "code": "$lng->txt(\"cont_link\")",
+        "has_variable": false,
+        "variable": "cont_link"
+    },
+    {
+        "id": 26354,
+        "file": "components\/ILIAS\/MediaObjects\/ImageMap\/class.ilImageMapEditorGUI.php",
+        "line": 456,
+        "code": "$lng->txt(\"cont_link_ext\")",
+        "has_variable": false,
+        "variable": "cont_link_ext"
+    },
+    {
+        "id": 26356,
+        "file": "components\/ILIAS\/MediaObjects\/ImageMap\/class.ilImageMapEditorGUI.php",
+        "line": 470,
+        "code": "$lng->txt(\"cont_link_int\")",
+        "has_variable": false,
+        "variable": "cont_link_int"
+    },
+    {
+        "id": 26358,
+        "file": "components\/ILIAS\/MediaObjects\/ImageMap\/class.ilImageMapEditorGUI.php",
+        "line": 486,
+        "code": "$lng->txt(\"cont_get_link\")",
+        "has_variable": false,
+        "variable": "cont_get_link"
+    },
+    {
+        "id": 26360,
+        "file": "components\/ILIAS\/MediaObjects\/ImageMap\/class.ilImageMapEditorGUI.php",
+        "line": 492,
+        "code": "$lng->txt(\"cont_link_no\")",
+        "has_variable": false,
+        "variable": "cont_link_no"
+    },
+    {
+        "id": 26362,
+        "file": "components\/ILIAS\/MediaObjects\/ImageMap\/class.ilImageMapEditorGUI.php",
+        "line": 501,
+        "code": "$lng->txt(\"cont_name\")",
+        "has_variable": false,
+        "variable": "cont_name"
+    },
+    {
+        "id": 26364,
+        "file": "components\/ILIAS\/MediaObjects\/ImageMap\/class.ilImageMapEditorGUI.php",
+        "line": 508,
+        "code": "$lng->txt(\"cont_new_area\")",
+        "has_variable": false,
+        "variable": "cont_new_area"
+    },
+    {
+        "id": 26366,
+        "file": "components\/ILIAS\/MediaObjects\/ImageMap\/class.ilImageMapEditorGUI.php",
+        "line": 509,
+        "code": "$lng->txt(\"save\")",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 26368,
+        "file": "components\/ILIAS\/MediaObjects\/ImageMap\/class.ilImageMapEditorGUI.php",
+        "line": 625,
+        "code": "$lng->txt(\"chapter\")",
+        "has_variable": false,
+        "variable": "chapter"
+    },
+    {
+        "id": 26370,
+        "file": "components\/ILIAS\/MediaObjects\/ImageMap\/class.ilImageMapEditorGUI.php",
+        "line": 634,
+        "code": "$lng->txt(\"page\")",
+        "has_variable": false,
+        "variable": "page"
+    },
+    {
+        "id": 26372,
+        "file": "components\/ILIAS\/MediaObjects\/ImageMap\/class.ilImageMapEditorGUI.php",
+        "line": 643,
+        "code": "$lng->txt(\"term\")",
+        "has_variable": false,
+        "variable": "term"
+    },
+    {
+        "id": 26374,
+        "file": "components\/ILIAS\/MediaObjects\/ImageMap\/class.ilImageMapEditorGUI.php",
+        "line": 652,
+        "code": "$lng->txt(\"mob\")",
+        "has_variable": false,
+        "variable": "mob"
+    },
+    {
+        "id": 26376,
+        "file": "components\/ILIAS\/MediaObjects\/ImageMap\/class.ilImageMapEditorGUI.php",
+        "line": 665,
+        "code": "$lng->txt(\"obj_\" . $t_arr[count($t_arr) - 2])",
+        "has_variable": true,
+        "variable": "\"obj_\" . $t_arr[count($t_arr) - 2]"
+    },
+    {
+        "id": 26378,
+        "file": "components\/ILIAS\/MediaObjects\/ImageMap\/class.ilImageMapEditorGUI.php",
+        "line": 678,
+        "code": "$lng->txt(\"cont_wiki_page\")",
+        "has_variable": false,
+        "variable": "cont_wiki_page"
+    },
+    {
+        "id": 26380,
+        "file": "components\/ILIAS\/MediaObjects\/ImageMap\/class.ilImageMapEditorGUI.php",
+        "line": 807,
+        "code": "$lng->txt(\"cont_saved_map_area\")",
+        "has_variable": false,
+        "variable": "cont_saved_map_area"
+    },
+    {
+        "id": 26382,
+        "file": "components\/ILIAS\/MediaObjects\/ImageMap\/class.ilImageMapEditorGUI.php",
+        "line": 847,
+        "code": "$lng->txt(\"no_checkbox\")",
+        "has_variable": false,
+        "variable": "no_checkbox"
+    },
+    {
+        "id": 26384,
+        "file": "components\/ILIAS\/MediaObjects\/ImageMap\/class.ilImageMapEditorGUI.php",
+        "line": 852,
+        "code": "$lng->txt(\"cont_select_max_one_item\")",
+        "has_variable": false,
+        "variable": "cont_select_max_one_item"
+    },
+    {
+        "id": 26386,
+        "file": "components\/ILIAS\/MediaObjects\/ImageMap\/class.ilImageMapEditorGUI.php",
+        "line": 939,
+        "code": "$lng->txt(\"no_checkbox\")",
+        "has_variable": false,
+        "variable": "no_checkbox"
+    },
+    {
+        "id": 26388,
+        "file": "components\/ILIAS\/MediaObjects\/ImageMap\/class.ilImageMapEditorGUI.php",
+        "line": 955,
+        "code": "$lng->txt(\"cont_areas_deleted\")",
+        "has_variable": false,
+        "variable": "cont_areas_deleted"
+    },
+    {
+        "id": 26390,
+        "file": "components\/ILIAS\/MediaObjects\/ImageMap\/class.ilImageMapEditorGUI.php",
+        "line": 1030,
+        "code": "$lng->txt(\"no_checkbox\")",
+        "has_variable": false,
+        "variable": "no_checkbox"
+    },
+    {
+        "id": 26392,
+        "file": "components\/ILIAS\/MediaObjects\/ImageMap\/class.ilImageMapEditorGUI.php",
+        "line": 1035,
+        "code": "$lng->txt(\"cont_select_max_one_item\")",
+        "has_variable": false,
+        "variable": "cont_select_max_one_item"
+    },
+    {
+        "id": 26394,
+        "file": "components\/ILIAS\/MediaObjects\/ImageMap\/class.ilImageMapEditorGUI.php",
+        "line": 1110,
+        "code": "$lng->txt(\"msg_obj_modified\")",
+        "has_variable": false,
+        "variable": "msg_obj_modified"
+    },
+    {
+        "id": 26396,
+        "file": "components\/ILIAS\/MediaObjects\/ImageMap\/class.ilImageMapTableGUI.php",
+        "line": 66,
+        "code": "$this->lng->txt(\"cont_name\")",
+        "has_variable": false,
+        "variable": "cont_name"
+    },
+    {
+        "id": 26398,
+        "file": "components\/ILIAS\/MediaObjects\/ImageMap\/class.ilImageMapTableGUI.php",
+        "line": 67,
+        "code": "$this->lng->txt(\"cont_shape\")",
+        "has_variable": false,
+        "variable": "cont_shape"
+    },
+    {
+        "id": 26400,
+        "file": "components\/ILIAS\/MediaObjects\/ImageMap\/class.ilImageMapTableGUI.php",
+        "line": 68,
+        "code": "$this->lng->txt(\"cont_coords\")",
+        "has_variable": false,
+        "variable": "cont_coords"
+    },
+    {
+        "id": 26402,
+        "file": "components\/ILIAS\/MediaObjects\/ImageMap\/class.ilImageMapTableGUI.php",
+        "line": 69,
+        "code": "$this->lng->txt(\"cont_highlight_mode\")",
+        "has_variable": false,
+        "variable": "cont_highlight_mode"
+    },
+    {
+        "id": 26404,
+        "file": "components\/ILIAS\/MediaObjects\/ImageMap\/class.ilImageMapTableGUI.php",
+        "line": 70,
+        "code": "$this->lng->txt(\"cont_highlight_class\")",
+        "has_variable": false,
+        "variable": "cont_highlight_class"
+    },
+    {
+        "id": 26406,
+        "file": "components\/ILIAS\/MediaObjects\/ImageMap\/class.ilImageMapTableGUI.php",
+        "line": 71,
+        "code": "$this->lng->txt(\"cont_link\")",
+        "has_variable": false,
+        "variable": "cont_link"
+    },
+    {
+        "id": 26408,
+        "file": "components\/ILIAS\/MediaObjects\/ImageMap\/class.ilImageMapTableGUI.php",
+        "line": 79,
+        "code": "$lng->txt(\"delete\")",
+        "has_variable": false,
+        "variable": "delete"
+    },
+    {
+        "id": 26410,
+        "file": "components\/ILIAS\/MediaObjects\/ImageMap\/class.ilImageMapTableGUI.php",
+        "line": 80,
+        "code": "$lng->txt(\"cont_set_link\")",
+        "has_variable": false,
+        "variable": "cont_set_link"
+    },
+    {
+        "id": 26412,
+        "file": "components\/ILIAS\/MediaObjects\/ImageMap\/class.ilImageMapTableGUI.php",
+        "line": 81,
+        "code": "$lng->txt(\"cont_edit_shape_whole_picture\")",
+        "has_variable": false,
+        "variable": "cont_edit_shape_whole_picture"
+    },
+    {
+        "id": 26414,
+        "file": "components\/ILIAS\/MediaObjects\/ImageMap\/class.ilImageMapTableGUI.php",
+        "line": 82,
+        "code": "$lng->txt(\"cont_edit_shape_rectangle\")",
+        "has_variable": false,
+        "variable": "cont_edit_shape_rectangle"
+    },
+    {
+        "id": 26416,
+        "file": "components\/ILIAS\/MediaObjects\/ImageMap\/class.ilImageMapTableGUI.php",
+        "line": 83,
+        "code": "$lng->txt(\"cont_edit_shape_circle\")",
+        "has_variable": false,
+        "variable": "cont_edit_shape_circle"
+    },
+    {
+        "id": 26418,
+        "file": "components\/ILIAS\/MediaObjects\/ImageMap\/class.ilImageMapTableGUI.php",
+        "line": 84,
+        "code": "$lng->txt(\"cont_edit_shape_polygon\")",
+        "has_variable": false,
+        "variable": "cont_edit_shape_polygon"
+    },
+    {
+        "id": 26420,
+        "file": "components\/ILIAS\/MediaObjects\/ImageMap\/class.ilImageMapTableGUI.php",
+        "line": 88,
+        "code": "$lng->txt(\"save\")",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 26422,
+        "file": "components\/ILIAS\/MediaObjects\/ImageMap\/class.ilMapArea.php",
+        "line": 271,
+        "code": "$lng->txt(\"cont_none\")",
+        "has_variable": false,
+        "variable": "cont_none"
+    },
+    {
+        "id": 26424,
+        "file": "components\/ILIAS\/MediaObjects\/ImageMap\/class.ilMapArea.php",
+        "line": 272,
+        "code": "$lng->txt(\"cont_hover\")",
+        "has_variable": false,
+        "variable": "cont_hover"
+    },
+    {
+        "id": 26426,
+        "file": "components\/ILIAS\/MediaObjects\/ImageMap\/class.ilMapArea.php",
+        "line": 273,
+        "code": "$lng->txt(\"cont_always\")",
+        "has_variable": false,
+        "variable": "cont_always"
+    },
+    {
+        "id": 26428,
+        "file": "components\/ILIAS\/MediaObjects\/ImageMap\/class.ilMapArea.php",
+        "line": 295,
+        "code": "$lng->txt(\"cont_accented\")",
+        "has_variable": false,
+        "variable": "cont_accented"
+    },
+    {
+        "id": 26430,
+        "file": "components\/ILIAS\/MediaObjects\/ImageMap\/class.ilMapArea.php",
+        "line": 296,
+        "code": "$lng->txt(\"cont_light\")",
+        "has_variable": false,
+        "variable": "cont_light"
+    },
+    {
+        "id": 26432,
+        "file": "components\/ILIAS\/MediaObjects\/ImageMap\/class.ilMapArea.php",
+        "line": 297,
+        "code": "$lng->txt(\"cont_dark\")",
+        "has_variable": false,
+        "variable": "cont_dark"
+    },
+    {
+        "id": 26434,
+        "file": "components\/ILIAS\/MediaObjects\/MediaObject\/class.ilObjMediaObject.php",
+        "line": 1263,
+        "code": "$lng->txt(\"cont_could_not_determine_resource_size\")",
+        "has_variable": false,
+        "variable": "cont_could_not_determine_resource_size"
+    },
+    {
+        "id": 26436,
+        "file": "components\/ILIAS\/MediaObjects\/MediaObject\/class.ilObjMediaObject.php",
+        "line": 1748,
+        "code": "$lng->txt(\"mob_file_could_not_be_uploaded\")",
+        "has_variable": false,
+        "variable": "mob_file_could_not_be_uploaded"
+    },
+    {
+        "id": 26438,
+        "file": "components\/ILIAS\/MediaObjects\/MediaObject\/class.ilObjMediaObjectGUI.php",
+        "line": 235,
+        "code": "$this->lng->txt('files')",
+        "has_variable": false,
+        "variable": "files"
+    },
+    {
+        "id": 26440,
+        "file": "components\/ILIAS\/MediaObjects\/MediaObject\/class.ilObjMediaObjectGUI.php",
+        "line": 288,
+        "code": "$lng->txt(\"title\")",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 26442,
+        "file": "components\/ILIAS\/MediaObjects\/MediaObject\/class.ilObjMediaObjectGUI.php",
+        "line": 292,
+        "code": "$lng->txt(\"cont_resource\")",
+        "has_variable": false,
+        "variable": "cont_resource"
+    },
+    {
+        "id": 26444,
+        "file": "components\/ILIAS\/MediaObjects\/MediaObject\/class.ilObjMediaObjectGUI.php",
+        "line": 293,
+        "code": "$lng->txt(\"cont_file\")",
+        "has_variable": false,
+        "variable": "cont_file"
+    },
+    {
+        "id": 26446,
+        "file": "components\/ILIAS\/MediaObjects\/MediaObject\/class.ilObjMediaObjectGUI.php",
+        "line": 303,
+        "code": "$lng->txt(\"url\")",
+        "has_variable": false,
+        "variable": "url"
+    },
+    {
+        "id": 26448,
+        "file": "components\/ILIAS\/MediaObjects\/MediaObject\/class.ilObjMediaObjectGUI.php",
+        "line": 305,
+        "code": "$lng->txt(\"cont_ref_helptext\")",
+        "has_variable": false,
+        "variable": "cont_ref_helptext"
+    },
+    {
+        "id": 26450,
+        "file": "components\/ILIAS\/MediaObjects\/MediaObject\/class.ilObjMediaObjectGUI.php",
+        "line": 314,
+        "code": "$lng->txt(\"cont_format\")",
+        "has_variable": false,
+        "variable": "cont_format"
+    },
+    {
+        "id": 26452,
+        "file": "components\/ILIAS\/MediaObjects\/MediaObject\/class.ilObjMediaObjectGUI.php",
+        "line": 320,
+        "code": "$lng->txt(\"size\")",
+        "has_variable": false,
+        "variable": "size"
+    },
+    {
+        "id": 26454,
+        "file": "components\/ILIAS\/MediaObjects\/MediaObject\/class.ilObjMediaObjectGUI.php",
+        "line": 325,
+        "code": "$lng->txt(\"cont_resource_size\")",
+        "has_variable": false,
+        "variable": "cont_resource_size"
+    },
+    {
+        "id": 26456,
+        "file": "components\/ILIAS\/MediaObjects\/MediaObject\/class.ilObjMediaObjectGUI.php",
+        "line": 326,
+        "code": "$lng->txt(\"cont_resource_size_info\")",
+        "has_variable": false,
+        "variable": "cont_resource_size_info"
+    },
+    {
+        "id": 26458,
+        "file": "components\/ILIAS\/MediaObjects\/MediaObject\/class.ilObjMediaObjectGUI.php",
+        "line": 327,
+        "code": "$lng->txt(\"cont_custom_size\")",
+        "has_variable": false,
+        "variable": "cont_custom_size"
+    },
+    {
+        "id": 26460,
+        "file": "components\/ILIAS\/MediaObjects\/MediaObject\/class.ilObjMediaObjectGUI.php",
+        "line": 329,
+        "code": "$lng->txt(\"cont_orig_size\")",
+        "has_variable": false,
+        "variable": "cont_orig_size"
+    },
+    {
+        "id": 26462,
+        "file": "components\/ILIAS\/MediaObjects\/MediaObject\/class.ilObjMediaObjectGUI.php",
+        "line": 330,
+        "code": "$lng->txt(\"cont_resource_size_info\")",
+        "has_variable": false,
+        "variable": "cont_resource_size_info"
+    },
+    {
+        "id": 26464,
+        "file": "components\/ILIAS\/MediaObjects\/MediaObject\/class.ilObjMediaObjectGUI.php",
+        "line": 331,
+        "code": "$lng->txt(\"cont_adjust_size\")",
+        "has_variable": false,
+        "variable": "cont_adjust_size"
+    },
+    {
+        "id": 26466,
+        "file": "components\/ILIAS\/MediaObjects\/MediaObject\/class.ilObjMediaObjectGUI.php",
+        "line": 336,
+        "code": "$lng->txt(\"cont_width\")",
+        "has_variable": false,
+        "variable": "cont_width"
+    },
+    {
+        "id": 26468,
+        "file": "components\/ILIAS\/MediaObjects\/MediaObject\/class.ilObjMediaObjectGUI.php",
+        "line": 337,
+        "code": "$lng->txt(\"cont_height\")",
+        "has_variable": false,
+        "variable": "cont_height"
+    },
+    {
+        "id": 26470,
+        "file": "components\/ILIAS\/MediaObjects\/MediaObject\/class.ilObjMediaObjectGUI.php",
+        "line": 350,
+        "code": "$lng->txt(\"cont_resize_img\")",
+        "has_variable": false,
+        "variable": "cont_resize_img"
+    },
+    {
+        "id": 26472,
+        "file": "components\/ILIAS\/MediaObjects\/MediaObject\/class.ilObjMediaObjectGUI.php",
+        "line": 365,
+        "code": "$lng->txt(\"cont_caption\")",
+        "has_variable": false,
+        "variable": "cont_caption"
+    },
+    {
+        "id": 26474,
+        "file": "components\/ILIAS\/MediaObjects\/MediaObject\/class.ilObjMediaObjectGUI.php",
+        "line": 370,
+        "code": "$lng->txt(\"cont_caption\")",
+        "has_variable": false,
+        "variable": "cont_caption"
+    },
+    {
+        "id": 26476,
+        "file": "components\/ILIAS\/MediaObjects\/MediaObject\/class.ilObjMediaObjectGUI.php",
+        "line": 377,
+        "code": "$lng->txt(\"text_repr\")",
+        "has_variable": false,
+        "variable": "text_repr"
+    },
+    {
+        "id": 26478,
+        "file": "components\/ILIAS\/MediaObjects\/MediaObject\/class.ilObjMediaObjectGUI.php",
+        "line": 380,
+        "code": "$lng->txt(\"text_repr_info\")",
+        "has_variable": false,
+        "variable": "text_repr_info"
+    },
+    {
+        "id": 26480,
+        "file": "components\/ILIAS\/MediaObjects\/MediaObject\/class.ilObjMediaObjectGUI.php",
+        "line": 395,
+        "code": "$lng->txt(\"cont_autostart\")",
+        "has_variable": false,
+        "variable": "cont_autostart"
+    },
+    {
+        "id": 26482,
+        "file": "components\/ILIAS\/MediaObjects\/MediaObject\/class.ilObjMediaObjectGUI.php",
+        "line": 398,
+        "code": "$lng->txt(\"cont_parameter\")",
+        "has_variable": false,
+        "variable": "cont_parameter"
+    },
+    {
+        "id": 26484,
+        "file": "components\/ILIAS\/MediaObjects\/MediaObject\/class.ilObjMediaObjectGUI.php",
+        "line": 411,
+        "code": "$lng->txt(\"cont_fullscreen\")",
+        "has_variable": false,
+        "variable": "cont_fullscreen"
+    },
+    {
+        "id": 26486,
+        "file": "components\/ILIAS\/MediaObjects\/MediaObject\/class.ilObjMediaObjectGUI.php",
+        "line": 414,
+        "code": "$lng->txt(\"cont_resource\")",
+        "has_variable": false,
+        "variable": "cont_resource"
+    },
+    {
+        "id": 26488,
+        "file": "components\/ILIAS\/MediaObjects\/MediaObject\/class.ilObjMediaObjectGUI.php",
+        "line": 415,
+        "code": "$lng->txt(\"cont_none\")",
+        "has_variable": false,
+        "variable": "cont_none"
+    },
+    {
+        "id": 26490,
+        "file": "components\/ILIAS\/MediaObjects\/MediaObject\/class.ilObjMediaObjectGUI.php",
+        "line": 417,
+        "code": "$lng->txt(\"cont_use_same_resource_as_above\")",
+        "has_variable": false,
+        "variable": "cont_use_same_resource_as_above"
+    },
+    {
+        "id": 26492,
+        "file": "components\/ILIAS\/MediaObjects\/MediaObject\/class.ilObjMediaObjectGUI.php",
+        "line": 419,
+        "code": "$lng->txt(\"cont_file\")",
+        "has_variable": false,
+        "variable": "cont_file"
+    },
+    {
+        "id": 26494,
+        "file": "components\/ILIAS\/MediaObjects\/MediaObject\/class.ilObjMediaObjectGUI.php",
+        "line": 429,
+        "code": "$lng->txt(\"url\")",
+        "has_variable": false,
+        "variable": "url"
+    },
+    {
+        "id": 26496,
+        "file": "components\/ILIAS\/MediaObjects\/MediaObject\/class.ilObjMediaObjectGUI.php",
+        "line": 431,
+        "code": "$lng->txt(\"cont_ref_helptext\")",
+        "has_variable": false,
+        "variable": "cont_ref_helptext"
+    },
+    {
+        "id": 26498,
+        "file": "components\/ILIAS\/MediaObjects\/MediaObject\/class.ilObjMediaObjectGUI.php",
+        "line": 441,
+        "code": "$lng->txt(\"cont_format\")",
+        "has_variable": false,
+        "variable": "cont_format"
+    },
+    {
+        "id": 26500,
+        "file": "components\/ILIAS\/MediaObjects\/MediaObject\/class.ilObjMediaObjectGUI.php",
+        "line": 449,
+        "code": "$lng->txt(\"size\")",
+        "has_variable": false,
+        "variable": "size"
+    },
+    {
+        "id": 26502,
+        "file": "components\/ILIAS\/MediaObjects\/MediaObject\/class.ilObjMediaObjectGUI.php",
+        "line": 460,
+        "code": "$lng->txt(\"cont_resource_size\")",
+        "has_variable": false,
+        "variable": "cont_resource_size"
+    },
+    {
+        "id": 26504,
+        "file": "components\/ILIAS\/MediaObjects\/MediaObject\/class.ilObjMediaObjectGUI.php",
+        "line": 461,
+        "code": "$lng->txt(\"cont_resource_size_info\")",
+        "has_variable": false,
+        "variable": "cont_resource_size_info"
+    },
+    {
+        "id": 26506,
+        "file": "components\/ILIAS\/MediaObjects\/MediaObject\/class.ilObjMediaObjectGUI.php",
+        "line": 462,
+        "code": "$lng->txt(\"cont_custom_size\")",
+        "has_variable": false,
+        "variable": "cont_custom_size"
+    },
+    {
+        "id": 26508,
+        "file": "components\/ILIAS\/MediaObjects\/MediaObject\/class.ilObjMediaObjectGUI.php",
+        "line": 464,
+        "code": "$lng->txt(\"cont_orig_size\")",
+        "has_variable": false,
+        "variable": "cont_orig_size"
+    },
+    {
+        "id": 26510,
+        "file": "components\/ILIAS\/MediaObjects\/MediaObject\/class.ilObjMediaObjectGUI.php",
+        "line": 465,
+        "code": "$lng->txt(\"cont_resource_size_info\")",
+        "has_variable": false,
+        "variable": "cont_resource_size_info"
+    },
+    {
+        "id": 26512,
+        "file": "components\/ILIAS\/MediaObjects\/MediaObject\/class.ilObjMediaObjectGUI.php",
+        "line": 466,
+        "code": "$lng->txt(\"cont_adjust_size\")",
+        "has_variable": false,
+        "variable": "cont_adjust_size"
+    },
+    {
+        "id": 26514,
+        "file": "components\/ILIAS\/MediaObjects\/MediaObject\/class.ilObjMediaObjectGUI.php",
+        "line": 471,
+        "code": "$lng->txt(\"cont_width\")",
+        "has_variable": false,
+        "variable": "cont_width"
+    },
+    {
+        "id": 26516,
+        "file": "components\/ILIAS\/MediaObjects\/MediaObject\/class.ilObjMediaObjectGUI.php",
+        "line": 472,
+        "code": "$lng->txt(\"cont_height\")",
+        "has_variable": false,
+        "variable": "cont_height"
+    },
+    {
+        "id": 26518,
+        "file": "components\/ILIAS\/MediaObjects\/MediaObject\/class.ilObjMediaObjectGUI.php",
+        "line": 486,
+        "code": "$lng->txt(\"cont_resize_img\")",
+        "has_variable": false,
+        "variable": "cont_resize_img"
+    },
+    {
+        "id": 26520,
+        "file": "components\/ILIAS\/MediaObjects\/MediaObject\/class.ilObjMediaObjectGUI.php",
+        "line": 498,
+        "code": "$lng->txt(\"cont_caption\")",
+        "has_variable": false,
+        "variable": "cont_caption"
+    },
+    {
+        "id": 26522,
+        "file": "components\/ILIAS\/MediaObjects\/MediaObject\/class.ilObjMediaObjectGUI.php",
+        "line": 503,
+        "code": "$lng->txt(\"cont_caption\")",
+        "has_variable": false,
+        "variable": "cont_caption"
+    },
+    {
+        "id": 26524,
+        "file": "components\/ILIAS\/MediaObjects\/MediaObject\/class.ilObjMediaObjectGUI.php",
+        "line": 510,
+        "code": "$lng->txt(\"text_repr\")",
+        "has_variable": false,
+        "variable": "text_repr"
+    },
+    {
+        "id": 26526,
+        "file": "components\/ILIAS\/MediaObjects\/MediaObject\/class.ilObjMediaObjectGUI.php",
+        "line": 513,
+        "code": "$lng->txt(\"text_repr_info\")",
+        "has_variable": false,
+        "variable": "text_repr_info"
+    },
+    {
+        "id": 26528,
+        "file": "components\/ILIAS\/MediaObjects\/MediaObject\/class.ilObjMediaObjectGUI.php",
+        "line": 525,
+        "code": "$lng->txt(\"cont_autostart\")",
+        "has_variable": false,
+        "variable": "cont_autostart"
+    },
+    {
+        "id": 26530,
+        "file": "components\/ILIAS\/MediaObjects\/MediaObject\/class.ilObjMediaObjectGUI.php",
+        "line": 528,
+        "code": "$lng->txt(\"cont_parameter\")",
+        "has_variable": false,
+        "variable": "cont_parameter"
+    },
+    {
+        "id": 26532,
+        "file": "components\/ILIAS\/MediaObjects\/MediaObject\/class.ilObjMediaObjectGUI.php",
+        "line": 537,
+        "code": "$lng->txt(\"cont_edit_mob\")",
+        "has_variable": false,
+        "variable": "cont_edit_mob"
+    },
+    {
+        "id": 26534,
+        "file": "components\/ILIAS\/MediaObjects\/MediaObject\/class.ilObjMediaObjectGUI.php",
+        "line": 538,
+        "code": "$lng->txt(\"save\")",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 26536,
+        "file": "components\/ILIAS\/MediaObjects\/MediaObject\/class.ilObjMediaObjectGUI.php",
+        "line": 540,
+        "code": "$lng->txt(\"cont_insert_mob\")",
+        "has_variable": false,
+        "variable": "cont_insert_mob"
+    },
+    {
+        "id": 26538,
+        "file": "components\/ILIAS\/MediaObjects\/MediaObject\/class.ilObjMediaObjectGUI.php",
+        "line": 541,
+        "code": "$lng->txt(\"save\")",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 26540,
+        "file": "components\/ILIAS\/MediaObjects\/MediaObject\/class.ilObjMediaObjectGUI.php",
+        "line": 542,
+        "code": "$lng->txt(\"cancel\")",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 26542,
+        "file": "components\/ILIAS\/MediaObjects\/MediaObject\/class.ilObjMediaObjectGUI.php",
+        "line": 554,
+        "code": "$this->lng->txt(\"mob_no_fixed_size_map_editing\")",
+        "has_variable": false,
+        "variable": "mob_no_fixed_size_map_editing"
+    },
+    {
+        "id": 26544,
+        "file": "components\/ILIAS\/MediaObjects\/MediaObject\/class.ilObjMediaObjectGUI.php",
+        "line": 658,
+        "code": "$lng->txt(\"saved_media_object\")",
+        "has_variable": false,
+        "variable": "saved_media_object"
+    },
+    {
+        "id": 26546,
+        "file": "components\/ILIAS\/MediaObjects\/MediaObject\/class.ilObjMediaObjectGUI.php",
+        "line": 1200,
+        "code": "$lng->txt(\"msg_obj_modified\")",
+        "has_variable": false,
+        "variable": "msg_obj_modified"
+    },
+    {
+        "id": 26548,
+        "file": "components\/ILIAS\/MediaObjects\/MediaObject\/class.ilObjMediaObjectGUI.php",
+        "line": 1230,
+        "code": "$lng->txt(\"cont_current_usages\")",
+        "has_variable": false,
+        "variable": "cont_current_usages"
+    },
+    {
+        "id": 26550,
+        "file": "components\/ILIAS\/MediaObjects\/MediaObject\/class.ilObjMediaObjectGUI.php",
+        "line": 1236,
+        "code": "$lng->txt(\"cont_all_usages\")",
+        "has_variable": false,
+        "variable": "cont_all_usages"
+    },
+    {
+        "id": 26552,
+        "file": "components\/ILIAS\/MediaObjects\/MediaObject\/class.ilObjMediaObjectGUI.php",
+        "line": 1285,
+        "code": "$lng->txt(\"cont_std_view\")",
+        "has_variable": false,
+        "variable": "cont_std_view"
+    },
+    {
+        "id": 26554,
+        "file": "components\/ILIAS\/MediaObjects\/MediaObject\/class.ilObjMediaObjectGUI.php",
+        "line": 1287,
+        "code": "$lng->txt(\"cont_fullscreen\")",
+        "has_variable": false,
+        "variable": "cont_fullscreen"
+    },
+    {
+        "id": 26556,
+        "file": "components\/ILIAS\/MediaObjects\/MediaObject\/class.ilObjMediaObjectGUI.php",
+        "line": 1289,
+        "code": "$lng->txt(\"cont_\" . strtolower($med->getLocationType()))",
+        "has_variable": true,
+        "variable": "\"cont_\" . strtolower($med->getLocationType())"
+    },
+    {
+        "id": 26558,
+        "file": "components\/ILIAS\/MediaObjects\/MediaObject\/class.ilObjMediaObjectGUI.php",
+        "line": 1299,
+        "code": "$lng->txt(\"bytes\")",
+        "has_variable": false,
+        "variable": "bytes"
+    },
+    {
+        "id": 26560,
+        "file": "components\/ILIAS\/MediaObjects\/MediaObject\/class.ilObjMediaObjectGUI.php",
+        "line": 1301,
+        "code": "$lng->txt(\"cont_format\")",
+        "has_variable": false,
+        "variable": "cont_format"
+    },
+    {
+        "id": 26562,
+        "file": "components\/ILIAS\/MediaObjects\/MediaObject\/class.ilObjMediaObjectGUI.php",
+        "line": 1305,
+        "code": "$lng->txt(\"size\")",
+        "has_variable": false,
+        "variable": "size"
+    },
+    {
+        "id": 26564,
+        "file": "components\/ILIAS\/MediaObjects\/MediaObject\/class.ilObjMediaObjectGUI.php",
+        "line": 1315,
+        "code": "$lng->txt(\"cont_orig_size\")",
+        "has_variable": false,
+        "variable": "cont_orig_size"
+    },
+    {
+        "id": 26566,
+        "file": "components\/ILIAS\/MediaObjects\/MediaObject\/class.ilObjMediaObjectGUI.php",
+        "line": 1325,
+        "code": "$lng->txt('cont_caption')",
+        "has_variable": false,
+        "variable": "cont_caption"
+    },
+    {
+        "id": 26568,
+        "file": "components\/ILIAS\/MediaObjects\/MediaObject\/class.ilObjMediaObjectGUI.php",
+        "line": 1340,
+        "code": "$lng->txt('keywords')",
+        "has_variable": false,
+        "variable": "keywords"
+    },
+    {
+        "id": 26570,
+        "file": "components\/ILIAS\/MediaObjects\/MediaObject\/class.ilObjMediaObjectGUI.php",
+        "line": 1367,
+        "code": "$this->lng->txt(\"cont_create_mob\")",
+        "has_variable": false,
+        "variable": "cont_create_mob"
+    },
+    {
+        "id": 26572,
+        "file": "components\/ILIAS\/MediaObjects\/MediaObject\/class.ilObjMediaObjectGUI.php",
+        "line": 1485,
+        "code": "$lng->txt(\"mob_general\")",
+        "has_variable": false,
+        "variable": "mob_general"
+    },
+    {
+        "id": 26574,
+        "file": "components\/ILIAS\/MediaObjects\/MediaObject\/class.ilObjMediaObjectGUI.php",
+        "line": 1493,
+        "code": "$lng->txt(\"mob_subtitles\")",
+        "has_variable": false,
+        "variable": "mob_subtitles"
+    },
+    {
+        "id": 26576,
+        "file": "components\/ILIAS\/MediaObjects\/MediaObject\/class.ilObjMediaObjectGUI.php",
+        "line": 1513,
+        "code": "$lng->txt(\"mob_srt_not_allowed\")",
+        "has_variable": false,
+        "variable": "mob_srt_not_allowed"
+    },
+    {
+        "id": 26578,
+        "file": "components\/ILIAS\/MediaObjects\/MediaObject\/class.ilObjMediaObjectGUI.php",
+        "line": 1518,
+        "code": "$lng->txt(\"mob_subtitle_file\")",
+        "has_variable": false,
+        "variable": "mob_subtitle_file"
+    },
+    {
+        "id": 26580,
+        "file": "components\/ILIAS\/MediaObjects\/MediaObject\/class.ilObjMediaObjectGUI.php",
+        "line": 1524,
+        "code": "$this->lng->txt(\"mob_language\")",
+        "has_variable": false,
+        "variable": "mob_language"
+    },
+    {
+        "id": 26582,
+        "file": "components\/ILIAS\/MediaObjects\/MediaObject\/class.ilObjMediaObjectGUI.php",
+        "line": 1529,
+        "code": "$lng->txt(\"upload\")",
+        "has_variable": false,
+        "variable": "upload"
+    },
+    {
+        "id": 26584,
+        "file": "components\/ILIAS\/MediaObjects\/MediaObject\/class.ilObjMediaObjectGUI.php",
+        "line": 1532,
+        "code": "$lng->txt(\"mob_upload_multi_srt\")",
+        "has_variable": false,
+        "variable": "mob_upload_multi_srt"
+    },
+    {
+        "id": 26586,
+        "file": "components\/ILIAS\/MediaObjects\/MediaObject\/class.ilObjMediaObjectGUI.php",
+        "line": 1535,
+        "code": "$lng->txt(\"mob_generate_vtt\")",
+        "has_variable": false,
+        "variable": "mob_generate_vtt"
+    },
+    {
+        "id": 26588,
+        "file": "components\/ILIAS\/MediaObjects\/MediaObject\/class.ilObjMediaObjectGUI.php",
+        "line": 1554,
+        "code": "$lng->txt(\"msg_obj_modified\")",
+        "has_variable": false,
+        "variable": "msg_obj_modified"
+    },
+    {
+        "id": 26590,
+        "file": "components\/ILIAS\/MediaObjects\/MediaObject\/class.ilObjMediaObjectGUI.php",
+        "line": 1572,
+        "code": "$lng->txt(\"no_checkbox\")",
+        "has_variable": false,
+        "variable": "no_checkbox"
+    },
+    {
+        "id": 26592,
+        "file": "components\/ILIAS\/MediaObjects\/MediaObject\/class.ilObjMediaObjectGUI.php",
+        "line": 1577,
+        "code": "$lng->txt(\"mob_really_delete_srt\")",
+        "has_variable": false,
+        "variable": "mob_really_delete_srt"
+    },
+    {
+        "id": 26594,
+        "file": "components\/ILIAS\/MediaObjects\/MediaObject\/class.ilObjMediaObjectGUI.php",
+        "line": 1578,
+        "code": "$lng->txt(\"cancel\")",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 26596,
+        "file": "components\/ILIAS\/MediaObjects\/MediaObject\/class.ilObjMediaObjectGUI.php",
+        "line": 1579,
+        "code": "$lng->txt(\"delete\")",
+        "has_variable": false,
+        "variable": "delete"
+    },
+    {
+        "id": 26598,
+        "file": "components\/ILIAS\/MediaObjects\/MediaObject\/class.ilObjMediaObjectGUI.php",
+        "line": 1582,
+        "code": "$lng->txt(\"meta_l_\" . $p[0])",
+        "has_variable": true,
+        "variable": "\"meta_l_\" . $p[0]"
+    },
+    {
+        "id": 26600,
+        "file": "components\/ILIAS\/MediaObjects\/MediaObject\/class.ilObjMediaObjectGUI.php",
+        "line": 1607,
+        "code": "$lng->txt(\"mob_srt_files_deleted\")",
+        "has_variable": false,
+        "variable": "mob_srt_files_deleted"
+    },
+    {
+        "id": 26602,
+        "file": "components\/ILIAS\/MediaObjects\/MediaObject\/class.ilObjMediaObjectGUI.php",
+        "line": 1618,
+        "code": "$lng->txt(\"mob_upload_multi_srt_howto\")",
+        "has_variable": false,
+        "variable": "mob_upload_multi_srt_howto"
+    },
+    {
+        "id": 26604,
+        "file": "components\/ILIAS\/MediaObjects\/MediaObject\/class.ilObjMediaObjectGUI.php",
+        "line": 1624,
+        "code": "$lng->txt(\"mob_subtitle_file\")",
+        "has_variable": false,
+        "variable": "mob_subtitle_file"
+    },
+    {
+        "id": 26606,
+        "file": "components\/ILIAS\/MediaObjects\/MediaObject\/class.ilObjMediaObjectGUI.php",
+        "line": 1628,
+        "code": "$lng->txt(\"upload\")",
+        "has_variable": false,
+        "variable": "upload"
+    },
+    {
+        "id": 26608,
+        "file": "components\/ILIAS\/MediaObjects\/OverviewGUI\/Table\/Builder.php",
+        "line": 120,
+        "code": "$lng->txt('mob')",
+        "has_variable": false,
+        "variable": "mob"
+    },
+    {
+        "id": 26610,
+        "file": "components\/ILIAS\/MediaObjects\/OverviewGUI\/Table\/Builder.php",
+        "line": 121,
+        "code": "$lng->txt('mob_last_update')",
+        "has_variable": false,
+        "variable": "mob_last_update"
+    },
+    {
+        "id": 26612,
+        "file": "components\/ILIAS\/MediaObjects\/OverviewGUI\/Table\/Builder.php",
+        "line": 124,
+        "code": "$lng->txt('mob_copyright_icon')",
+        "has_variable": false,
+        "variable": "mob_copyright_icon"
+    },
+    {
+        "id": 26614,
+        "file": "components\/ILIAS\/MediaObjects\/OverviewGUI\/Table\/Builder.php",
+        "line": 125,
+        "code": "$lng->txt('mob_copyright')",
+        "has_variable": false,
+        "variable": "mob_copyright"
+    },
+    {
+        "id": 26616,
+        "file": "components\/ILIAS\/MediaObjects\/OverviewGUI\/Table\/Builder.php",
+        "line": 128,
+        "code": "$lng->txt('mob_internal_usages_in_object')",
+        "has_variable": false,
+        "variable": "mob_internal_usages_in_object"
+    },
+    {
+        "id": 26618,
+        "file": "components\/ILIAS\/MediaObjects\/OverviewGUI\/Table\/Builder.php",
+        "line": 129,
+        "code": "$lng->txt('mob_usages_in_media_pools')",
+        "has_variable": false,
+        "variable": "mob_usages_in_media_pools"
+    },
+    {
+        "id": 26620,
+        "file": "components\/ILIAS\/MediaObjects\/OverviewGUI\/Table\/Builder.php",
+        "line": 130,
+        "code": "$lng->txt('mob_usages_in_other_objects')",
+        "has_variable": false,
+        "variable": "mob_usages_in_other_objects"
+    },
+    {
+        "id": 26622,
+        "file": "components\/ILIAS\/MediaObjects\/OverviewGUI\/class.ilMediaObjectOverviewGUI.php",
+        "line": 78,
+        "code": "$lng->txt('mob')",
+        "has_variable": false,
+        "variable": "mob"
+    },
+    {
+        "id": 26624,
+        "file": "components\/ILIAS\/MediaObjects\/OverviewGUI\/class.ilMediaObjectOverviewGUI.php",
+        "line": 84,
+        "code": "$lng->txt('mob_copyright')",
+        "has_variable": false,
+        "variable": "mob_copyright"
+    },
+    {
+        "id": 26626,
+        "file": "components\/ILIAS\/MediaObjects\/OverviewGUI\/class.ilMediaObjectOverviewGUI.php",
+        "line": 86,
+        "code": "$lng->txt('mob_last_update')",
+        "has_variable": false,
+        "variable": "mob_last_update"
+    },
+    {
+        "id": 26628,
+        "file": "components\/ILIAS\/MediaObjects\/SubTitles\/class.ilMobMultiSrtConfirmationTable2GUI.php",
+        "line": 47,
+        "code": "$this->lng->txt(\"cont_multi_srt_files\")",
+        "has_variable": false,
+        "variable": "cont_multi_srt_files"
+    },
+    {
+        "id": 26630,
+        "file": "components\/ILIAS\/MediaObjects\/SubTitles\/class.ilMobMultiSrtConfirmationTable2GUI.php",
+        "line": 49,
+        "code": "$this->lng->txt(\"filename\")",
+        "has_variable": false,
+        "variable": "filename"
+    },
+    {
+        "id": 26632,
+        "file": "components\/ILIAS\/MediaObjects\/SubTitles\/class.ilMobMultiSrtConfirmationTable2GUI.php",
+        "line": 50,
+        "code": "$this->lng->txt(\"language\")",
+        "has_variable": false,
+        "variable": "language"
+    },
+    {
+        "id": 26634,
+        "file": "components\/ILIAS\/MediaObjects\/SubTitles\/class.ilMobMultiSrtConfirmationTable2GUI.php",
+        "line": 51,
+        "code": "$this->lng->txt(\"mob\")",
+        "has_variable": false,
+        "variable": "mob"
+    },
+    {
+        "id": 26636,
+        "file": "components\/ILIAS\/MediaObjects\/SubTitles\/class.ilMobMultiSrtConfirmationTable2GUI.php",
+        "line": 56,
+        "code": "$this->lng->txt(\"save\")",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 26638,
+        "file": "components\/ILIAS\/MediaObjects\/SubTitles\/class.ilMobMultiSrtConfirmationTable2GUI.php",
+        "line": 57,
+        "code": "$this->lng->txt(\"cancel\")",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 26640,
+        "file": "components\/ILIAS\/MediaObjects\/SubTitles\/class.ilMobMultiSrtConfirmationTable2GUI.php",
+        "line": 65,
+        "code": "$lng->txt(\"meta_l_\" . $a_set[\"lang\"])",
+        "has_variable": true,
+        "variable": "\"meta_l_\" . $a_set[\"lang\"]"
+    },
+    {
+        "id": 26642,
+        "file": "components\/ILIAS\/MediaObjects\/SubTitles\/class.ilMobMultiSrtUpload.php",
+        "line": 70,
+        "code": "$this->lng->txt(\"cont_srt_zip_file_could_not_be_uploaded\")",
+        "has_variable": false,
+        "variable": "cont_srt_zip_file_could_not_be_uploaded"
+    },
+    {
+        "id": 26644,
+        "file": "components\/ILIAS\/MediaObjects\/SubTitles\/class.ilMobMultiSrtUploadGUI.php",
+        "line": 59,
+        "code": "$this->lng->txt(\"cont_upload_multi_srt_howto\")",
+        "has_variable": false,
+        "variable": "cont_upload_multi_srt_howto"
+    },
+    {
+        "id": 26646,
+        "file": "components\/ILIAS\/MediaObjects\/SubTitles\/class.ilMobMultiSrtUploadGUI.php",
+        "line": 63,
+        "code": "$this->lng->txt(\"cont_subtitle_file\")",
+        "has_variable": false,
+        "variable": "cont_subtitle_file"
+    },
+    {
+        "id": 26648,
+        "file": "components\/ILIAS\/MediaObjects\/SubTitles\/class.ilMobMultiSrtUploadGUI.php",
+        "line": 67,
+        "code": "$this->lng->txt(\"upload\")",
+        "has_variable": false,
+        "variable": "upload"
+    },
+    {
+        "id": 26650,
+        "file": "components\/ILIAS\/MediaObjects\/SubTitles\/class.ilMobMultiSrtUploadGUI.php",
+        "line": 107,
+        "code": "$this->lng->txt(\"cont_moved_srt_files\")",
+        "has_variable": false,
+        "variable": "cont_moved_srt_files"
+    },
+    {
+        "id": 26652,
+        "file": "components\/ILIAS\/MediaObjects\/SubTitles\/class.ilMobSubtitleTableGUI.php",
+        "line": 43,
+        "code": "$lng->txt(\"mob_subtitle_files\")",
+        "has_variable": false,
+        "variable": "mob_subtitle_files"
+    },
+    {
+        "id": 26654,
+        "file": "components\/ILIAS\/MediaObjects\/SubTitles\/class.ilMobSubtitleTableGUI.php",
+        "line": 46,
+        "code": "$this->lng->txt(\"mob_file\")",
+        "has_variable": false,
+        "variable": "mob_file"
+    },
+    {
+        "id": 26656,
+        "file": "components\/ILIAS\/MediaObjects\/SubTitles\/class.ilMobSubtitleTableGUI.php",
+        "line": 47,
+        "code": "$this->lng->txt(\"mob_language\")",
+        "has_variable": false,
+        "variable": "mob_language"
+    },
+    {
+        "id": 26658,
+        "file": "components\/ILIAS\/MediaObjects\/SubTitles\/class.ilMobSubtitleTableGUI.php",
+        "line": 52,
+        "code": "$lng->txt(\"delete\")",
+        "has_variable": false,
+        "variable": "delete"
+    },
+    {
+        "id": 26660,
+        "file": "components\/ILIAS\/MediaObjects\/SubTitles\/class.ilMobSubtitleTableGUI.php",
+        "line": 60,
+        "code": "$lng->txt(\"meta_l_\" . $a_set[\"language\"])",
+        "has_variable": true,
+        "variable": "\"meta_l_\" . $a_set[\"language\"]"
+    },
+    {
+        "id": 26662,
+        "file": "components\/ILIAS\/MediaObjects\/SubTitles\/class.ilMultiSrtConfirmationTable2GUI.php",
+        "line": 50,
+        "code": "$lng->txt(\"mob_multi_srt_files\")",
+        "has_variable": false,
+        "variable": "mob_multi_srt_files"
+    },
+    {
+        "id": 26664,
+        "file": "components\/ILIAS\/MediaObjects\/SubTitles\/class.ilMultiSrtConfirmationTable2GUI.php",
+        "line": 54,
+        "code": "$this->lng->txt(\"filename\")",
+        "has_variable": false,
+        "variable": "filename"
+    },
+    {
+        "id": 26666,
+        "file": "components\/ILIAS\/MediaObjects\/SubTitles\/class.ilMultiSrtConfirmationTable2GUI.php",
+        "line": 55,
+        "code": "$this->lng->txt(\"language\")",
+        "has_variable": false,
+        "variable": "language"
+    },
+    {
+        "id": 26668,
+        "file": "components\/ILIAS\/MediaObjects\/SubTitles\/class.ilMultiSrtConfirmationTable2GUI.php",
+        "line": 60,
+        "code": "$lng->txt(\"save\")",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 26670,
+        "file": "components\/ILIAS\/MediaObjects\/SubTitles\/class.ilMultiSrtConfirmationTable2GUI.php",
+        "line": 61,
+        "code": "$lng->txt(\"cancel\")",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 26672,
+        "file": "components\/ILIAS\/MediaObjects\/SubTitles\/class.ilMultiSrtConfirmationTable2GUI.php",
+        "line": 70,
+        "code": "$lng->txt(\"meta_l_\" . $a_set[\"lang\"])",
+        "has_variable": true,
+        "variable": "\"meta_l_\" . $a_set[\"lang\"]"
+    },
+    {
+        "id": 26674,
+        "file": "components\/ILIAS\/MediaObjects\/Video\/Service\/class.GUIService.php",
+        "line": 63,
+        "code": "$lng->txt(\"mob_second\")",
+        "has_variable": false,
+        "variable": "mob_second"
+    },
+    {
+        "id": 26676,
+        "file": "components\/ILIAS\/MediaObjects\/Video\/Service\/class.GUIService.php",
+        "line": 69,
+        "code": "$lng->txt(\"mob_extract_preview_image\")",
+        "has_variable": false,
+        "variable": "mob_extract_preview_image"
+    },
+    {
+        "id": 26678,
+        "file": "components\/ILIAS\/MediaObjects\/Video\/Service\/class.GUIService.php",
+        "line": 90,
+        "code": "$lng->txt(\"mob_image_extracted\")",
+        "has_variable": false,
+        "variable": "mob_image_extracted"
+    },
+    {
+        "id": 26680,
+        "file": "components\/ILIAS\/MediaObjects\/Video\/Service\/class.GUIService.php",
+        "line": 92,
+        "code": "$lng->txt(\"mob_no_extraction_possible\")",
+        "has_variable": false,
+        "variable": "mob_no_extraction_possible"
+    },
+    {
+        "id": 26682,
+        "file": "components\/ILIAS\/MediaObjects\/Video\/Service\/class.GUIService.php",
+        "line": 126,
+        "code": "$lng->txt(\"mob_preview_picture\")",
+        "has_variable": false,
+        "variable": "mob_preview_picture"
+    },
+    {
+        "id": 26684,
+        "file": "components\/ILIAS\/MediaObjects\/classes\/class.ilMediaObjectUsagesTableGUI.php",
+        "line": 50,
+        "code": "$lng->txt(\"mob_object\")",
+        "has_variable": false,
+        "variable": "mob_object"
+    },
+    {
+        "id": 26686,
+        "file": "components\/ILIAS\/MediaObjects\/classes\/class.ilMediaObjectUsagesTableGUI.php",
+        "line": 51,
+        "code": "$this->lng->txt(\"type\")",
+        "has_variable": false,
+        "variable": "type"
+    },
+    {
+        "id": 26688,
+        "file": "components\/ILIAS\/MediaObjects\/classes\/class.ilMediaObjectUsagesTableGUI.php",
+        "line": 52,
+        "code": "$this->lng->txt(\"cont_versions\")",
+        "has_variable": false,
+        "variable": "cont_versions"
+    },
+    {
+        "id": 26690,
+        "file": "components\/ILIAS\/MediaObjects\/classes\/class.ilMediaObjectUsagesTableGUI.php",
+        "line": 56,
+        "code": "$lng->txt(\"cont_mob_usages\")",
+        "has_variable": false,
+        "variable": "cont_mob_usages"
+    },
+    {
+        "id": 26692,
+        "file": "components\/ILIAS\/MediaObjects\/classes\/class.ilMediaObjectUsagesTableGUI.php",
+        "line": 138,
+        "code": "$this->lng->txt(\"obj_\" . $cont_type)",
+        "has_variable": true,
+        "variable": "\"obj_\" . $cont_type"
+    },
+    {
+        "id": 26694,
+        "file": "components\/ILIAS\/MediaObjects\/classes\/class.ilMediaObjectUsagesTableGUI.php",
+        "line": 140,
+        "code": "$this->lng->txt(\"pg\")",
+        "has_variable": false,
+        "variable": "pg"
+    },
+    {
+        "id": 26696,
+        "file": "components\/ILIAS\/MediaObjects\/classes\/class.ilMediaObjectUsagesTableGUI.php",
+        "line": 150,
+        "code": "$this->lng->txt(\"obj_wiki\")",
+        "has_variable": false,
+        "variable": "obj_wiki"
+    },
+    {
+        "id": 26698,
+        "file": "components\/ILIAS\/MediaObjects\/classes\/class.ilMediaObjectUsagesTableGUI.php",
+        "line": 152,
+        "code": "$this->lng->txt(\"pg\")",
+        "has_variable": false,
+        "variable": "pg"
+    },
+    {
+        "id": 26700,
+        "file": "components\/ILIAS\/MediaObjects\/classes\/class.ilMediaObjectUsagesTableGUI.php",
+        "line": 163,
+        "code": "$this->lng->txt(\"obj_glo\")",
+        "has_variable": false,
+        "variable": "obj_glo"
+    },
+    {
+        "id": 26702,
+        "file": "components\/ILIAS\/MediaObjects\/classes\/class.ilMediaObjectUsagesTableGUI.php",
+        "line": 165,
+        "code": "$this->lng->txt(\"cont_term\")",
+        "has_variable": false,
+        "variable": "cont_term"
+    },
+    {
+        "id": 26704,
+        "file": "components\/ILIAS\/MediaObjects\/classes\/class.ilMediaObjectUsagesTableGUI.php",
+        "line": 175,
+        "code": "$this->lng->txt(\"obj_\" . $otype)",
+        "has_variable": true,
+        "variable": "\"obj_\" . $otype"
+    },
+    {
+        "id": 26706,
+        "file": "components\/ILIAS\/MediaObjects\/classes\/class.ilMediaObjectUsagesTableGUI.php",
+        "line": 184,
+        "code": "$this->lng->txt(\"mep_page_type_mep\")",
+        "has_variable": false,
+        "variable": "mep_page_type_mep"
+    },
+    {
+        "id": 26708,
+        "file": "components\/ILIAS\/MediaObjects\/classes\/class.ilMediaObjectUsagesTableGUI.php",
+        "line": 185,
+        "code": "$this->lng->txt(\"mep_page_type_mep\")",
+        "has_variable": false,
+        "variable": "mep_page_type_mep"
+    },
+    {
+        "id": 26710,
+        "file": "components\/ILIAS\/MediaObjects\/classes\/class.ilMediaObjectUsagesTableGUI.php",
+        "line": 204,
+        "code": "$this->lng->txt(\"obj_\" . $type)",
+        "has_variable": true,
+        "variable": "\"obj_\" . $type"
+    },
+    {
+        "id": 26712,
+        "file": "components\/ILIAS\/MediaObjects\/classes\/class.ilMediaObjectUsagesTableGUI.php",
+        "line": 215,
+        "code": "$lng->txt(\"trash\")",
+        "has_variable": false,
+        "variable": "trash"
+    },
+    {
+        "id": 26714,
+        "file": "components\/ILIAS\/MediaObjects\/classes\/class.ilMediaObjectUsagesTableGUI.php",
+        "line": 221,
+        "code": "$this->lng->txt(\"obj_mep\")",
+        "has_variable": false,
+        "variable": "obj_mep"
+    },
+    {
+        "id": 26716,
+        "file": "components\/ILIAS\/MediaObjects\/classes\/class.ilMediaObjectUsagesTableGUI.php",
+        "line": 230,
+        "code": "$this->lng->txt(\"obj_mob\")",
+        "has_variable": false,
+        "variable": "obj_mob"
+    },
+    {
+        "id": 26718,
+        "file": "components\/ILIAS\/MediaObjects\/classes\/class.ilMediaObjectUsagesTableGUI.php",
+        "line": 232,
+        "code": "$this->lng->txt(\"cont_link_area\")",
+        "has_variable": false,
+        "variable": "cont_link_area"
+    },
+    {
+        "id": 26720,
+        "file": "components\/ILIAS\/MediaObjects\/classes\/class.ilMediaObjectUsagesTableGUI.php",
+        "line": 238,
+        "code": "$this->lng->txt(\"obj_\" . $obj_type)",
+        "has_variable": true,
+        "variable": "\"obj_\" . $obj_type"
+    },
+    {
+        "id": 26722,
+        "file": "components\/ILIAS\/MediaObjects\/classes\/class.ilMediaObjectUsagesTableGUI.php",
+        "line": 240,
+        "code": "$this->lng->txt(\"news\")",
+        "has_variable": false,
+        "variable": "news"
+    },
+    {
+        "id": 26724,
+        "file": "components\/ILIAS\/MediaObjects\/classes\/class.ilMediaObjectUsagesTableGUI.php",
+        "line": 261,
+        "code": "$this->lng->txt(\"cont_current_version\")",
+        "has_variable": false,
+        "variable": "cont_current_version"
+    },
+    {
+        "id": 26726,
+        "file": "components\/ILIAS\/MediaObjects\/classes\/class.ilMediaObjectUsagesTableGUI.php",
+        "line": 301,
+        "code": "$this->lng->txt(\"cont_users_have_mob_in_clip1\")",
+        "has_variable": false,
+        "variable": "cont_users_have_mob_in_clip1"
+    },
+    {
+        "id": 26728,
+        "file": "components\/ILIAS\/MediaObjects\/classes\/class.ilMediaObjectUsagesTableGUI.php",
+        "line": 302,
+        "code": "$this->lng->txt(\"cont_users_have_mob_in_clip2\")",
+        "has_variable": false,
+        "variable": "cont_users_have_mob_in_clip2"
+    },
+    {
+        "id": 26730,
+        "file": "components\/ILIAS\/MediaObjects\/classes\/class.ilObjMediaObjectsSettingsGUI.php",
+        "line": 62,
+        "code": "$this->lng->txt('no_permission')",
+        "has_variable": false,
+        "variable": "no_permission"
+    },
+    {
+        "id": 26732,
+        "file": "components\/ILIAS\/MediaObjects\/classes\/class.ilObjMediaObjectsSettingsGUI.php",
+        "line": 131,
+        "code": "$lng->txt(\"msg_obj_modified\")",
+        "has_variable": false,
+        "variable": "msg_obj_modified"
+    },
+    {
+        "id": 26734,
+        "file": "components\/ILIAS\/MediaObjects\/classes\/class.ilObjMediaObjectsSettingsGUI.php",
+        "line": 152,
+        "code": "$lng->txt(\"mobs_activate_pages\")",
+        "has_variable": false,
+        "variable": "mobs_activate_pages"
+    },
+    {
+        "id": 26736,
+        "file": "components\/ILIAS\/MediaObjects\/classes\/class.ilObjMediaObjectsSettingsGUI.php",
+        "line": 153,
+        "code": "$lng->txt(\"mobs_activate_pages_info\")",
+        "has_variable": false,
+        "variable": "mobs_activate_pages_info"
+    },
+    {
+        "id": 26738,
+        "file": "components\/ILIAS\/MediaObjects\/classes\/class.ilObjMediaObjectsSettingsGUI.php",
+        "line": 157,
+        "code": "$lng->txt(\"mobs_always_show_file_manager\")",
+        "has_variable": false,
+        "variable": "mobs_always_show_file_manager"
+    },
+    {
+        "id": 26740,
+        "file": "components\/ILIAS\/MediaObjects\/classes\/class.ilObjMediaObjectsSettingsGUI.php",
+        "line": 158,
+        "code": "$lng->txt(\"mobs_always_show_file_manager_info\")",
+        "has_variable": false,
+        "variable": "mobs_always_show_file_manager_info"
+    },
+    {
+        "id": 26742,
+        "file": "components\/ILIAS\/MediaObjects\/classes\/class.ilObjMediaObjectsSettingsGUI.php",
+        "line": 163,
+        "code": "$this->lng->txt(\"mobs_restrict_file_types\")",
+        "has_variable": false,
+        "variable": "mobs_restrict_file_types"
+    },
+    {
+        "id": 26744,
+        "file": "components\/ILIAS\/MediaObjects\/classes\/class.ilObjMediaObjectsSettingsGUI.php",
+        "line": 166,
+        "code": "$this->lng->txt(\"mobs_restrict_file_types_info\")",
+        "has_variable": false,
+        "variable": "mobs_restrict_file_types_info"
+    },
+    {
+        "id": 26746,
+        "file": "components\/ILIAS\/MediaObjects\/classes\/class.ilObjMediaObjectsSettingsGUI.php",
+        "line": 170,
+        "code": "$this->lng->txt(\"mobs_black_list_file_types\")",
+        "has_variable": false,
+        "variable": "mobs_black_list_file_types"
+    },
+    {
+        "id": 26748,
+        "file": "components\/ILIAS\/MediaObjects\/classes\/class.ilObjMediaObjectsSettingsGUI.php",
+        "line": 172,
+        "code": "$this->lng->txt(\"mobs_black_list_file_types_and_allowed_info\")",
+        "has_variable": false,
+        "variable": "mobs_black_list_file_types_and_allowed_info"
+    },
+    {
+        "id": 26750,
+        "file": "components\/ILIAS\/MediaObjects\/classes\/class.ilObjMediaObjectsSettingsGUI.php",
+        "line": 178,
+        "code": "$lng->txt(\"save\")",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 26752,
+        "file": "components\/ILIAS\/MediaObjects\/classes\/class.ilObjMediaObjectsSettingsGUI.php",
+        "line": 181,
+        "code": "$lng->txt(\"settings\")",
+        "has_variable": false,
+        "variable": "settings"
+    },
+    {
+        "id": 26754,
+        "file": "components\/ILIAS\/MediaObjects\/classes\/class.ilWidthHeightInputGUI.php",
+        "line": 120,
+        "code": "$lng->txt(\"cont_constrain_proportions\")",
+        "has_variable": false,
+        "variable": "cont_constrain_proportions"
+    }
+]

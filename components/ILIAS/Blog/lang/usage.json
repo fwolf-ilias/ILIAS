@@ -1,0 +1,1410 @@
+[
+    {
+        "id": 3192,
+        "file": "components\/ILIAS\/Blog\/Administration\/class.ilObjBlogAdministrationGUI.php",
+        "line": 99,
+        "code": "$lng->txt(\"blog_admin_toggle_info\")",
+        "has_variable": false,
+        "variable": "blog_admin_toggle_info"
+    },
+    {
+        "id": 3194,
+        "file": "components\/ILIAS\/Blog\/Administration\/class.ilObjBlogAdministrationGUI.php",
+        "line": 101,
+        "code": "$lng->txt(\"blog_admin_inactive_info\")",
+        "has_variable": false,
+        "variable": "blog_admin_inactive_info"
+    },
+    {
+        "id": 3196,
+        "file": "components\/ILIAS\/Blog\/Administration\/class.ilObjBlogAdministrationGUI.php",
+        "line": 123,
+        "code": "$this->lng->txt(\"settings_saved\")",
+        "has_variable": false,
+        "variable": "settings_saved"
+    },
+    {
+        "id": 3198,
+        "file": "components\/ILIAS\/Blog\/Administration\/class.ilObjBlogAdministrationGUI.php",
+        "line": 144,
+        "code": "$this->lng->txt('blog_settings')",
+        "has_variable": false,
+        "variable": "blog_settings"
+    },
+    {
+        "id": 3200,
+        "file": "components\/ILIAS\/Blog\/Administration\/class.ilObjBlogAdministrationGUI.php",
+        "line": 147,
+        "code": "$this->lng->txt('save')",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 3202,
+        "file": "components\/ILIAS\/Blog\/Administration\/class.ilObjBlogAdministrationGUI.php",
+        "line": 148,
+        "code": "$this->lng->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 3204,
+        "file": "components\/ILIAS\/Blog\/Administration\/class.ilObjBlogAdministrationGUI.php",
+        "line": 154,
+        "code": "$lng->txt(\"blog_est_reading_time\")",
+        "has_variable": false,
+        "variable": "blog_est_reading_time"
+    },
+    {
+        "id": 3206,
+        "file": "components\/ILIAS\/Blog\/Administration\/class.ilObjBlogAdministrationGUI.php",
+        "line": 157,
+        "code": "$lng->txt(\"blog_est_reading_time_info\")",
+        "has_variable": false,
+        "variable": "blog_est_reading_time_info"
+    },
+    {
+        "id": 3208,
+        "file": "components\/ILIAS\/Blog\/Contributor\/ContributorGUI.php",
+        "line": 84,
+        "code": "$lng->txt('user')",
+        "has_variable": false,
+        "variable": "user"
+    },
+    {
+        "id": 3210,
+        "file": "components\/ILIAS\/Blog\/Contributor\/ContributorGUI.php",
+        "line": 85,
+        "code": "$lng->txt('add')",
+        "has_variable": false,
+        "variable": "add"
+    },
+    {
+        "id": 3212,
+        "file": "components\/ILIAS\/Blog\/Contributor\/ContributorGUI.php",
+        "line": 95,
+        "code": "$lng->txt(\"blog_contribute_other_roles\")",
+        "has_variable": false,
+        "variable": "blog_contribute_other_roles"
+    },
+    {
+        "id": 3214,
+        "file": "components\/ILIAS\/Blog\/Contributor\/ContributorGUI.php",
+        "line": 123,
+        "code": "$lng->txt('msg_no_search_string')",
+        "has_variable": false,
+        "variable": "msg_no_search_string"
+    },
+    {
+        "id": 3216,
+        "file": "components\/ILIAS\/Blog\/Contributor\/ContributorGUI.php",
+        "line": 134,
+        "code": "$lng->txt('user_not_known')",
+        "has_variable": false,
+        "variable": "user_not_known"
+    },
+    {
+        "id": 3218,
+        "file": "components\/ILIAS\/Blog\/Contributor\/ContributorGUI.php",
+        "line": 163,
+        "code": "$lng->txt(\"no_checkbox\")",
+        "has_variable": false,
+        "variable": "no_checkbox"
+    },
+    {
+        "id": 3220,
+        "file": "components\/ILIAS\/Blog\/Contributor\/ContributorGUI.php",
+        "line": 171,
+        "code": "$lng->txt(\"missing_perm\")",
+        "has_variable": false,
+        "variable": "missing_perm"
+    },
+    {
+        "id": 3222,
+        "file": "components\/ILIAS\/Blog\/Contributor\/ContributorGUI.php",
+        "line": 184,
+        "code": "$lng->txt(\"settings_saved\")",
+        "has_variable": false,
+        "variable": "settings_saved"
+    },
+    {
+        "id": 3224,
+        "file": "components\/ILIAS\/Blog\/Contributor\/ContributorGUI.php",
+        "line": 227,
+        "code": "$lng->txt(\"select_one\")",
+        "has_variable": false,
+        "variable": "select_one"
+    },
+    {
+        "id": 3226,
+        "file": "components\/ILIAS\/Blog\/Contributor\/ContributorGUI.php",
+        "line": 234,
+        "code": "$lng->txt(\"missing_perm\")",
+        "has_variable": false,
+        "variable": "missing_perm"
+    },
+    {
+        "id": 3228,
+        "file": "components\/ILIAS\/Blog\/Contributor\/ContributorGUI.php",
+        "line": 245,
+        "code": "$lng->txt(\"settings_saved\")",
+        "has_variable": false,
+        "variable": "settings_saved"
+    },
+    {
+        "id": 3230,
+        "file": "components\/ILIAS\/Blog\/Contributor\/ContributorTableBuilder.php",
+        "line": 81,
+        "code": "$lng->txt(\"name\")",
+        "has_variable": false,
+        "variable": "name"
+    },
+    {
+        "id": 3232,
+        "file": "components\/ILIAS\/Blog\/Contributor\/ContributorTableBuilder.php",
+        "line": 82,
+        "code": "$lng->txt(\"obj_role\")",
+        "has_variable": false,
+        "variable": "obj_role"
+    },
+    {
+        "id": 3234,
+        "file": "components\/ILIAS\/Blog\/Contributor\/ContributorTableBuilder.php",
+        "line": 87,
+        "code": "$lng->txt(\"add\")",
+        "has_variable": false,
+        "variable": "add"
+    },
+    {
+        "id": 3236,
+        "file": "components\/ILIAS\/Blog\/Contributor\/ContributorTableBuilder.php",
+        "line": 92,
+        "code": "$lng->txt(\"remove\")",
+        "has_variable": false,
+        "variable": "remove"
+    },
+    {
+        "id": 3238,
+        "file": "components\/ILIAS\/Blog\/Editing\/EditingGUI.php",
+        "line": 88,
+        "code": "$lng->txt(\"no_permission\")",
+        "has_variable": false,
+        "variable": "no_permission"
+    },
+    {
+        "id": 3240,
+        "file": "components\/ILIAS\/Blog\/Editing\/EditingGUI.php",
+        "line": 109,
+        "code": "$lng->txt(\"blog_preview\")",
+        "has_variable": false,
+        "variable": "blog_preview"
+    },
+    {
+        "id": 3242,
+        "file": "components\/ILIAS\/Blog\/Editing\/EditingGUI.php",
+        "line": 130,
+        "code": "$lng->txt(\"blog_draft_info_contributors\")",
+        "has_variable": false,
+        "variable": "blog_draft_info_contributors"
+    },
+    {
+        "id": 3244,
+        "file": "components\/ILIAS\/Blog\/Editing\/EditingGUI.php",
+        "line": 134,
+        "code": "$lng->txt(\"blog_new_posting_info\")",
+        "has_variable": false,
+        "variable": "blog_new_posting_info"
+    },
+    {
+        "id": 3246,
+        "file": "components\/ILIAS\/Blog\/Editing\/EditingGUI.php",
+        "line": 141,
+        "code": "$lng->txt(\"blog_posting_edit_approval_info\")",
+        "has_variable": false,
+        "variable": "blog_posting_edit_approval_info"
+    },
+    {
+        "id": 3248,
+        "file": "components\/ILIAS\/Blog\/Editing\/EditingGUI.php",
+        "line": 158,
+        "code": "$lng->txt(\"back\")",
+        "has_variable": false,
+        "variable": "back"
+    },
+    {
+        "id": 3250,
+        "file": "components\/ILIAS\/Blog\/Editing\/EditingGUI.php",
+        "line": 173,
+        "code": "$lng->txt(\"no_permission\")",
+        "has_variable": false,
+        "variable": "no_permission"
+    },
+    {
+        "id": 3252,
+        "file": "components\/ILIAS\/Blog\/Editing\/EditingGUI.php",
+        "line": 183,
+        "code": "$lng->txt(\"title\")",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 3254,
+        "file": "components\/ILIAS\/Blog\/Editing\/EditingGUI.php",
+        "line": 192,
+        "code": "$lng->txt(\"blog_add_posting\")",
+        "has_variable": false,
+        "variable": "blog_add_posting"
+    },
+    {
+        "id": 3256,
+        "file": "components\/ILIAS\/Blog\/Editing\/EditingGUI.php",
+        "line": 210,
+        "code": "$lng->txt(\"blog_show_latest\")",
+        "has_variable": false,
+        "variable": "blog_show_latest"
+    },
+    {
+        "id": 3258,
+        "file": "components\/ILIAS\/Blog\/Editing\/EditingGUI.php",
+        "line": 364,
+        "code": "$lng->txt(\"msg_no_title\")",
+        "has_variable": false,
+        "variable": "msg_no_title"
+    },
+    {
+        "id": 3260,
+        "file": "components\/ILIAS\/Blog\/Exercise\/class.ilBlogExerciseGUI.php",
+        "line": 130,
+        "code": "$lng->txt(\"blog_finalized\")",
+        "has_variable": false,
+        "variable": "blog_finalized"
+    },
+    {
+        "id": 3262,
+        "file": "components\/ILIAS\/Blog\/Exercise\/class.ilBlogExerciseGUI.php",
+        "line": 151,
+        "code": "$lng->txt(\"blog_finalize_blog\")",
+        "has_variable": false,
+        "variable": "blog_finalize_blog"
+    },
+    {
+        "id": 3264,
+        "file": "components\/ILIAS\/Blog\/Exercise\/class.ilBlogExerciseGUI.php",
+        "line": 176,
+        "code": "$lng->txt(\"blog_download_submission\")",
+        "has_variable": false,
+        "variable": "blog_download_submission"
+    },
+    {
+        "id": 3266,
+        "file": "components\/ILIAS\/Blog\/Export\/BlogHtmlExport.php",
+        "line": 421,
+        "code": "$this->lng->txt(\"back\")",
+        "has_variable": false,
+        "variable": "back"
+    },
+    {
+        "id": 3268,
+        "file": "components\/ILIAS\/Blog\/Export\/class.ilBlogExportOptionHTML.php",
+        "line": 59,
+        "code": "$this->lng->txt(\"exp_format_dropdown-html\")",
+        "has_variable": false,
+        "variable": "exp_format_dropdown-html"
+    },
+    {
+        "id": 3270,
+        "file": "components\/ILIAS\/Blog\/Export\/class.ilBlogExportOptionHTMLWithComments.php",
+        "line": 67,
+        "code": "$this->lng->txt(\"exp_format_dropdown-html\")",
+        "has_variable": false,
+        "variable": "exp_format_dropdown-html"
+    },
+    {
+        "id": 3272,
+        "file": "components\/ILIAS\/Blog\/Export\/class.ilBlogExportOptionHTMLWithComments.php",
+        "line": 67,
+        "code": "$this->lng->txt(\"blog_incl_comments\")",
+        "has_variable": false,
+        "variable": "blog_incl_comments"
+    },
+    {
+        "id": 3274,
+        "file": "components\/ILIAS\/Blog\/Navigation\/MonthBlockGUI.php",
+        "line": 103,
+        "code": "$lng->txt(\"blog_draft\")",
+        "has_variable": false,
+        "variable": "blog_draft"
+    },
+    {
+        "id": 3276,
+        "file": "components\/ILIAS\/Blog\/Navigation\/MonthBlockGUI.php",
+        "line": 105,
+        "code": "$lng->txt(\"blog_needs_approval\")",
+        "has_variable": false,
+        "variable": "blog_needs_approval"
+    },
+    {
+        "id": 3278,
+        "file": "components\/ILIAS\/Blog\/Navigation\/MonthBlockGUI.php",
+        "line": 140,
+        "code": "$lng->txt(\"blog_starting_page\")",
+        "has_variable": false,
+        "variable": "blog_starting_page"
+    },
+    {
+        "id": 3280,
+        "file": "components\/ILIAS\/Blog\/Navigation\/MonthBlockGUI.php",
+        "line": 169,
+        "code": "$lng->txt(\"blog_draft\")",
+        "has_variable": false,
+        "variable": "blog_draft"
+    },
+    {
+        "id": 3282,
+        "file": "components\/ILIAS\/Blog\/Navigation\/MonthBlockGUI.php",
+        "line": 171,
+        "code": "$lng->txt(\"blog_needs_approval\")",
+        "has_variable": false,
+        "variable": "blog_needs_approval"
+    },
+    {
+        "id": 3284,
+        "file": "components\/ILIAS\/Blog\/Navigation\/NavigationGUI.php",
+        "line": 59,
+        "code": "$lng->txt(\"content\")",
+        "has_variable": false,
+        "variable": "content"
+    },
+    {
+        "id": 3286,
+        "file": "components\/ILIAS\/Blog\/Navigation\/NavigationGUI.php",
+        "line": 66,
+        "code": "$lng->txt(\"info_short\")",
+        "has_variable": false,
+        "variable": "info_short"
+    },
+    {
+        "id": 3288,
+        "file": "components\/ILIAS\/Blog\/Navigation\/NavigationGUI.php",
+        "line": 77,
+        "code": "$lng->txt(\"settings\")",
+        "has_variable": false,
+        "variable": "settings"
+    },
+    {
+        "id": 3290,
+        "file": "components\/ILIAS\/Blog\/Navigation\/NavigationGUI.php",
+        "line": 84,
+        "code": "$lng->txt(\"blog_contributors\")",
+        "has_variable": false,
+        "variable": "blog_contributors"
+    },
+    {
+        "id": 3292,
+        "file": "components\/ILIAS\/Blog\/Navigation\/NavigationGUI.php",
+        "line": 100,
+        "code": "$lng->txt(\"meta_data\")",
+        "has_variable": false,
+        "variable": "meta_data"
+    },
+    {
+        "id": 3294,
+        "file": "components\/ILIAS\/Blog\/Navigation\/NavigationGUI.php",
+        "line": 107,
+        "code": "$lng->txt(\"export\")",
+        "has_variable": false,
+        "variable": "export"
+    },
+    {
+        "id": 3296,
+        "file": "components\/ILIAS\/Blog\/Navigation\/NavigationGUI.php",
+        "line": 116,
+        "code": "$lng->txt(\"blog_preview\")",
+        "has_variable": false,
+        "variable": "blog_preview"
+    },
+    {
+        "id": 3298,
+        "file": "components\/ILIAS\/Blog\/Navigation\/NavigationGUI.php",
+        "line": 136,
+        "code": "$lng->txt(\"general\")",
+        "has_variable": false,
+        "variable": "general"
+    },
+    {
+        "id": 3300,
+        "file": "components\/ILIAS\/Blog\/Navigation\/NavigationGUI.php",
+        "line": 141,
+        "code": "$lng->txt(\"blog_side_blocks\")",
+        "has_variable": false,
+        "variable": "blog_side_blocks"
+    },
+    {
+        "id": 3302,
+        "file": "components\/ILIAS\/Blog\/Navigation\/NavigationGUI.php",
+        "line": 149,
+        "code": "$lng->txt(\"obj_sty\")",
+        "has_variable": false,
+        "variable": "obj_sty"
+    },
+    {
+        "id": 3304,
+        "file": "components\/ILIAS\/Blog\/Navigation\/NavigationGUI.php",
+        "line": 161,
+        "code": "$lng->txt(\"notifications\")",
+        "has_variable": false,
+        "variable": "notifications"
+    },
+    {
+        "id": 3306,
+        "file": "components\/ILIAS\/Blog\/Navigation\/PresentationHeaderGUI.php",
+        "line": 99,
+        "code": "$lng->txt(\"blog_notification_activated\")",
+        "has_variable": false,
+        "variable": "blog_notification_activated"
+    },
+    {
+        "id": 3308,
+        "file": "components\/ILIAS\/Blog\/Navigation\/PresentationHeaderGUI.php",
+        "line": 110,
+        "code": "$lng->txt(\"blog_notification_deactivated\")",
+        "has_variable": false,
+        "variable": "blog_notification_deactivated"
+    },
+    {
+        "id": 3310,
+        "file": "components\/ILIAS\/Blog\/Navigation\/SideBarGUI.php",
+        "line": 99,
+        "code": "$lng->txt(\"blog_navigation\")",
+        "has_variable": false,
+        "variable": "blog_navigation"
+    },
+    {
+        "id": 3312,
+        "file": "components\/ILIAS\/Blog\/Navigation\/SideBarGUI.php",
+        "line": 125,
+        "code": "$lng->txt(\"blog_no_keywords\")",
+        "has_variable": false,
+        "variable": "blog_no_keywords"
+    },
+    {
+        "id": 3314,
+        "file": "components\/ILIAS\/Blog\/Navigation\/SideBarGUI.php",
+        "line": 129,
+        "code": "$lng->txt(\"blog_keywords\")",
+        "has_variable": false,
+        "variable": "blog_keywords"
+    },
+    {
+        "id": 3316,
+        "file": "components\/ILIAS\/Blog\/Navigation\/SideBarGUI.php",
+        "line": 132,
+        "code": "$lng->txt(\"blog_edit_keywords\")",
+        "has_variable": false,
+        "variable": "blog_edit_keywords"
+    },
+    {
+        "id": 3318,
+        "file": "components\/ILIAS\/Blog\/Navigation\/SideBarGUI.php",
+        "line": 147,
+        "code": "$lng->txt(\"blog_authors\")",
+        "has_variable": false,
+        "variable": "blog_authors"
+    },
+    {
+        "id": 3320,
+        "file": "components\/ILIAS\/Blog\/Navigation\/ToolbarNavigationRenderer.php",
+        "line": 125,
+        "code": "$lng->txt(\"blog_edit\")",
+        "has_variable": false,
+        "variable": "blog_edit"
+    },
+    {
+        "id": 3322,
+        "file": "components\/ILIAS\/Blog\/Navigation\/ToolbarNavigationRenderer.php",
+        "line": 133,
+        "code": "$lng->txt(\"blog_edit_posting\")",
+        "has_variable": false,
+        "variable": "blog_edit_posting"
+    },
+    {
+        "id": 3324,
+        "file": "components\/ILIAS\/Blog\/News\/class.NewsManager.php",
+        "line": 93,
+        "code": "$lng->txt($contentKey)",
+        "has_variable": true,
+        "variable": "$contentKey"
+    },
+    {
+        "id": 3326,
+        "file": "components\/ILIAS\/Blog\/News\/class.NewsManager.php",
+        "line": 109,
+        "code": "$lng->txt(\"blog_news_posting_authors\")",
+        "has_variable": false,
+        "variable": "blog_news_posting_authors"
+    },
+    {
+        "id": 3328,
+        "file": "components\/ILIAS\/Blog\/Posting\/PostingListGUI.php",
+        "line": 127,
+        "code": "$lng->txt(\"blog_keyword\")",
+        "has_variable": false,
+        "variable": "blog_keyword"
+    },
+    {
+        "id": 3330,
+        "file": "components\/ILIAS\/Blog\/Posting\/PostingListGUI.php",
+        "line": 129,
+        "code": "$lng->txt(\"blog_author\")",
+        "has_variable": false,
+        "variable": "blog_author"
+    },
+    {
+        "id": 3332,
+        "file": "components\/ILIAS\/Blog\/Posting\/PostingListGUI.php",
+        "line": 161,
+        "code": "$lng->txt(\"blog_approve\")",
+        "has_variable": false,
+        "variable": "blog_approve"
+    },
+    {
+        "id": 3334,
+        "file": "components\/ILIAS\/Blog\/Posting\/PostingListGUI.php",
+        "line": 167,
+        "code": "$lng->txt(\"blog_needs_approval\")",
+        "has_variable": false,
+        "variable": "blog_needs_approval"
+    },
+    {
+        "id": 3336,
+        "file": "components\/ILIAS\/Blog\/Posting\/PostingListGUI.php",
+        "line": 172,
+        "code": "$lng->txt(\"edit_content\")",
+        "has_variable": false,
+        "variable": "edit_content"
+    },
+    {
+        "id": 3338,
+        "file": "components\/ILIAS\/Blog\/Posting\/PostingListGUI.php",
+        "line": 180,
+        "code": "$lng->txt(\"blog_toggle_draft\")",
+        "has_variable": false,
+        "variable": "blog_toggle_draft"
+    },
+    {
+        "id": 3340,
+        "file": "components\/ILIAS\/Blog\/Posting\/PostingListGUI.php",
+        "line": 185,
+        "code": "$lng->txt(\"blog_toggle_final\")",
+        "has_variable": false,
+        "variable": "blog_toggle_final"
+    },
+    {
+        "id": 3342,
+        "file": "components\/ILIAS\/Blog\/Posting\/PostingListGUI.php",
+        "line": 191,
+        "code": "$lng->txt(\"rename\")",
+        "has_variable": false,
+        "variable": "rename"
+    },
+    {
+        "id": 3344,
+        "file": "components\/ILIAS\/Blog\/Posting\/PostingListGUI.php",
+        "line": 197,
+        "code": "$lng->txt(\"blog_edit_keywords\")",
+        "has_variable": false,
+        "variable": "blog_edit_keywords"
+    },
+    {
+        "id": 3346,
+        "file": "components\/ILIAS\/Blog\/Posting\/PostingListGUI.php",
+        "line": 203,
+        "code": "$lng->txt(\"blog_edit_date\")",
+        "has_variable": false,
+        "variable": "blog_edit_date"
+    },
+    {
+        "id": 3348,
+        "file": "components\/ILIAS\/Blog\/Posting\/PostingListGUI.php",
+        "line": 208,
+        "code": "$lng->txt(\"delete\")",
+        "has_variable": false,
+        "variable": "delete"
+    },
+    {
+        "id": 3350,
+        "file": "components\/ILIAS\/Blog\/Posting\/PostingListGUI.php",
+        "line": 216,
+        "code": "$lng->txt(\"blog_toggle_draft_admin\")",
+        "has_variable": false,
+        "variable": "blog_toggle_draft_admin"
+    },
+    {
+        "id": 3352,
+        "file": "components\/ILIAS\/Blog\/Posting\/PostingListGUI.php",
+        "line": 223,
+        "code": "$lng->txt(\"delete\")",
+        "has_variable": false,
+        "variable": "delete"
+    },
+    {
+        "id": 3354,
+        "file": "components\/ILIAS\/Blog\/Posting\/PostingListGUI.php",
+        "line": 228,
+        "code": "$lng->txt(\"actions\")",
+        "has_variable": false,
+        "variable": "actions"
+    },
+    {
+        "id": 3356,
+        "file": "components\/ILIAS\/Blog\/Posting\/PostingListGUI.php",
+        "line": 252,
+        "code": "$lng->txt(\"blog_comments\")",
+        "has_variable": false,
+        "variable": "blog_comments"
+    },
+    {
+        "id": 3358,
+        "file": "components\/ILIAS\/Blog\/Posting\/PostingListGUI.php",
+        "line": 269,
+        "code": "$lng->txt(\"blog_link\")",
+        "has_variable": false,
+        "variable": "blog_link"
+    },
+    {
+        "id": 3360,
+        "file": "components\/ILIAS\/Blog\/Posting\/PostingListGUI.php",
+        "line": 287,
+        "code": "$lng->txt(\"blog_list_more\")",
+        "has_variable": false,
+        "variable": "blog_list_more"
+    },
+    {
+        "id": 3362,
+        "file": "components\/ILIAS\/Blog\/Posting\/PostingListGUI.php",
+        "line": 293,
+        "code": "$lng->txt(\"blog_draft_text\")",
+        "has_variable": false,
+        "variable": "blog_draft_text"
+    },
+    {
+        "id": 3364,
+        "file": "components\/ILIAS\/Blog\/Posting\/PostingListGUI.php",
+        "line": 308,
+        "code": "$lng->txt(\"copg_est_reading_time\")",
+        "has_variable": false,
+        "variable": "copg_est_reading_time"
+    },
+    {
+        "id": 3366,
+        "file": "components\/ILIAS\/Blog\/Posting\/PostingListGUI.php",
+        "line": 309,
+        "code": "$lng->txt(\"copg_x_minutes\")",
+        "has_variable": false,
+        "variable": "copg_x_minutes"
+    },
+    {
+        "id": 3368,
+        "file": "components\/ILIAS\/Blog\/Posting\/PostingListGUI.php",
+        "line": 345,
+        "code": "$lng->txt(\"keywords\")",
+        "has_variable": false,
+        "variable": "keywords"
+    },
+    {
+        "id": 3370,
+        "file": "components\/ILIAS\/Blog\/Posting\/class.ilBlogPostingGUI.php",
+        "line": 140,
+        "code": "$this->lng->txt(\"blog_draft_info\")",
+        "has_variable": false,
+        "variable": "blog_draft_info"
+    },
+    {
+        "id": 3372,
+        "file": "components\/ILIAS\/Blog\/Posting\/class.ilBlogPostingGUI.php",
+        "line": 142,
+        "code": "$this->lng->txt(\"blog_new_posting_info\")",
+        "has_variable": false,
+        "variable": "blog_new_posting_info"
+    },
+    {
+        "id": 3374,
+        "file": "components\/ILIAS\/Blog\/Posting\/class.ilBlogPostingGUI.php",
+        "line": 150,
+        "code": "$this->lng->txt(\"obj_blog\")",
+        "has_variable": false,
+        "variable": "obj_blog"
+    },
+    {
+        "id": 3376,
+        "file": "components\/ILIAS\/Blog\/Posting\/class.ilBlogPostingGUI.php",
+        "line": 343,
+        "code": "$this->lng->txt(\"copg_est_reading_time\")",
+        "has_variable": false,
+        "variable": "copg_est_reading_time"
+    },
+    {
+        "id": 3378,
+        "file": "components\/ILIAS\/Blog\/Posting\/class.ilBlogPostingGUI.php",
+        "line": 344,
+        "code": "$this->lng->txt(\"copg_x_minutes\")",
+        "has_variable": false,
+        "variable": "copg_x_minutes"
+    },
+    {
+        "id": 3380,
+        "file": "components\/ILIAS\/Blog\/Posting\/class.ilBlogPostingGUI.php",
+        "line": 376,
+        "code": "$lng->txt(\"blog_posting_deletion_confirmation\")",
+        "has_variable": false,
+        "variable": "blog_posting_deletion_confirmation"
+    },
+    {
+        "id": 3382,
+        "file": "components\/ILIAS\/Blog\/Posting\/class.ilBlogPostingGUI.php",
+        "line": 377,
+        "code": "$lng->txt(\"cancel\")",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 3384,
+        "file": "components\/ILIAS\/Blog\/Posting\/class.ilBlogPostingGUI.php",
+        "line": 378,
+        "code": "$lng->txt(\"delete\")",
+        "has_variable": false,
+        "variable": "delete"
+    },
+    {
+        "id": 3386,
+        "file": "components\/ILIAS\/Blog\/Posting\/class.ilBlogPostingGUI.php",
+        "line": 397,
+        "code": "$lng->txt(\"blog_number_users_notes_or_comments\")",
+        "has_variable": false,
+        "variable": "blog_number_users_notes_or_comments"
+    },
+    {
+        "id": 3388,
+        "file": "components\/ILIAS\/Blog\/Posting\/class.ilBlogPostingGUI.php",
+        "line": 429,
+        "code": "$lng->txt(\"blog_posting_deleted\")",
+        "has_variable": false,
+        "variable": "blog_posting_deleted"
+    },
+    {
+        "id": 3390,
+        "file": "components\/ILIAS\/Blog\/Posting\/class.ilBlogPostingGUI.php",
+        "line": 442,
+        "code": "$this->lng->txt(\"back\")",
+        "has_variable": false,
+        "variable": "back"
+    },
+    {
+        "id": 3392,
+        "file": "components\/ILIAS\/Blog\/Posting\/class.ilBlogPostingGUI.php",
+        "line": 465,
+        "code": "$lng->txt(\"settings_saved\")",
+        "has_variable": false,
+        "variable": "settings_saved"
+    },
+    {
+        "id": 3394,
+        "file": "components\/ILIAS\/Blog\/Posting\/class.ilBlogPostingGUI.php",
+        "line": 482,
+        "code": "$lng->txt('blog_rename_posting')",
+        "has_variable": false,
+        "variable": "blog_rename_posting"
+    },
+    {
+        "id": 3396,
+        "file": "components\/ILIAS\/Blog\/Posting\/class.ilBlogPostingGUI.php",
+        "line": 484,
+        "code": "$lng->txt(\"title\")",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 3398,
+        "file": "components\/ILIAS\/Blog\/Posting\/class.ilBlogPostingGUI.php",
+        "line": 490,
+        "code": "$lng->txt('save')",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 3400,
+        "file": "components\/ILIAS\/Blog\/Posting\/class.ilBlogPostingGUI.php",
+        "line": 491,
+        "code": "$lng->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 3402,
+        "file": "components\/ILIAS\/Blog\/Posting\/class.ilBlogPostingGUI.php",
+        "line": 502,
+        "code": "$this->lng->txt(\"back\")",
+        "has_variable": false,
+        "variable": "back"
+    },
+    {
+        "id": 3404,
+        "file": "components\/ILIAS\/Blog\/Posting\/class.ilBlogPostingGUI.php",
+        "line": 527,
+        "code": "$lng->txt(\"settings_saved\")",
+        "has_variable": false,
+        "variable": "settings_saved"
+    },
+    {
+        "id": 3406,
+        "file": "components\/ILIAS\/Blog\/Posting\/class.ilBlogPostingGUI.php",
+        "line": 544,
+        "code": "$lng->txt('blog_edit_date')",
+        "has_variable": false,
+        "variable": "blog_edit_date"
+    },
+    {
+        "id": 3408,
+        "file": "components\/ILIAS\/Blog\/Posting\/class.ilBlogPostingGUI.php",
+        "line": 546,
+        "code": "$lng->txt(\"date\")",
+        "has_variable": false,
+        "variable": "date"
+    },
+    {
+        "id": 3410,
+        "file": "components\/ILIAS\/Blog\/Posting\/class.ilBlogPostingGUI.php",
+        "line": 549,
+        "code": "$lng->txt('blog_edit_date_info')",
+        "has_variable": false,
+        "variable": "blog_edit_date_info"
+    },
+    {
+        "id": 3412,
+        "file": "components\/ILIAS\/Blog\/Posting\/class.ilBlogPostingGUI.php",
+        "line": 554,
+        "code": "$lng->txt('save')",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 3414,
+        "file": "components\/ILIAS\/Blog\/Posting\/class.ilBlogPostingGUI.php",
+        "line": 555,
+        "code": "$lng->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 3416,
+        "file": "components\/ILIAS\/Blog\/Posting\/class.ilBlogPostingGUI.php",
+        "line": 582,
+        "code": "$lng->txt(\"blog_toggle_draft\")",
+        "has_variable": false,
+        "variable": "blog_toggle_draft"
+    },
+    {
+        "id": 3418,
+        "file": "components\/ILIAS\/Blog\/Posting\/class.ilBlogPostingGUI.php",
+        "line": 583,
+        "code": "$lng->txt(\"blog_toggle_final\")",
+        "has_variable": false,
+        "variable": "blog_toggle_final"
+    },
+    {
+        "id": 3420,
+        "file": "components\/ILIAS\/Blog\/Posting\/class.ilBlogPostingGUI.php",
+        "line": 650,
+        "code": "$this->lng->txt(\"back\")",
+        "has_variable": false,
+        "variable": "back"
+    },
+    {
+        "id": 3422,
+        "file": "components\/ILIAS\/Blog\/Posting\/class.ilBlogPostingGUI.php",
+        "line": 688,
+        "code": "$this->lng->txt(\"blog_keywords\")",
+        "has_variable": false,
+        "variable": "blog_keywords"
+    },
+    {
+        "id": 3424,
+        "file": "components\/ILIAS\/Blog\/Posting\/class.ilBlogPostingGUI.php",
+        "line": 688,
+        "code": "$this->lng->txt(\"blog_keyword_enter\")",
+        "has_variable": false,
+        "variable": "blog_keyword_enter"
+    },
+    {
+        "id": 3426,
+        "file": "components\/ILIAS\/Blog\/Posting\/class.ilBlogPostingGUI.php",
+        "line": 699,
+        "code": "$this->lng->txt(\"blog_edit_keywords\")",
+        "has_variable": false,
+        "variable": "blog_edit_keywords"
+    },
+    {
+        "id": 3428,
+        "file": "components\/ILIAS\/Blog\/Posting\/class.ilBlogPostingGUI.php",
+        "line": 861,
+        "code": "$this->lng->txt(\"blog_draft_text\")",
+        "has_variable": false,
+        "variable": "blog_draft_text"
+    },
+    {
+        "id": 3430,
+        "file": "components\/ILIAS\/Blog\/Presentation\/PresentationGUI.php",
+        "line": 165,
+        "code": "$lng->txt(\"no_permission\")",
+        "has_variable": false,
+        "variable": "no_permission"
+    },
+    {
+        "id": 3432,
+        "file": "components\/ILIAS\/Blog\/PrintView\/class.BlogPrintViewProviderGUI.php",
+        "line": 110,
+        "code": "$lng->txt(\"cont_selection\")",
+        "has_variable": false,
+        "variable": "cont_selection"
+    },
+    {
+        "id": 3434,
+        "file": "components\/ILIAS\/Blog\/PrintView\/class.BlogPrintViewProviderGUI.php",
+        "line": 112,
+        "code": "$lng->txt(\"blog_whole_blog\")",
+        "has_variable": false,
+        "variable": "blog_whole_blog"
+    },
+    {
+        "id": 3436,
+        "file": "components\/ILIAS\/Blog\/PrintView\/class.BlogPrintViewProviderGUI.php",
+        "line": 113,
+        "code": "$lng->txt(\"blog_postings\")",
+        "has_variable": false,
+        "variable": "blog_postings"
+    },
+    {
+        "id": 3438,
+        "file": "components\/ILIAS\/Blog\/PrintView\/class.BlogPrintViewProviderGUI.php",
+        "line": 115,
+        "code": "$lng->txt(\"blog_selected_pages\")",
+        "has_variable": false,
+        "variable": "blog_selected_pages"
+    },
+    {
+        "id": 3440,
+        "file": "components\/ILIAS\/Blog\/PrintView\/class.BlogPrintViewProviderGUI.php",
+        "line": 129,
+        "code": "$lng->txt(\"blog_posting\")",
+        "has_variable": false,
+        "variable": "blog_posting"
+    },
+    {
+        "id": 3442,
+        "file": "components\/ILIAS\/Blog\/PrintView\/class.BlogPrintViewProviderGUI.php",
+        "line": 135,
+        "code": "$lng->txt(\"blog_show_print_view\")",
+        "has_variable": false,
+        "variable": "blog_show_print_view"
+    },
+    {
+        "id": 3444,
+        "file": "components\/ILIAS\/Blog\/PrintView\/class.BlogPrintViewProviderGUI.php",
+        "line": 137,
+        "code": "$lng->txt(\"cont_print_selection\")",
+        "has_variable": false,
+        "variable": "cont_print_selection"
+    },
+    {
+        "id": 3446,
+        "file": "components\/ILIAS\/Blog\/ReadingTime\/class.BlogSettingsGUI.php",
+        "line": 46,
+        "code": "$this->lng->txt(\"blog_est_reading_time\")",
+        "has_variable": false,
+        "variable": "blog_est_reading_time"
+    },
+    {
+        "id": 3448,
+        "file": "components\/ILIAS\/Blog\/ReadingTime\/class.BlogSettingsGUI.php",
+        "line": 57,
+        "code": "$this->lng->txt(\"blog_est_reading_time\")",
+        "has_variable": false,
+        "variable": "blog_est_reading_time"
+    },
+    {
+        "id": 3450,
+        "file": "components\/ILIAS\/Blog\/Settings\/SettingsManager.php",
+        "line": 71,
+        "code": "$lng->txt(\"blog_\" . $item)",
+        "has_variable": true,
+        "variable": "\"blog_\" . $item"
+    },
+    {
+        "id": 3452,
+        "file": "components\/ILIAS\/Blog\/Settings\/SettingsManager.php",
+        "line": 76,
+        "code": "$lng->txt(\"blog_\" . $type)",
+        "has_variable": true,
+        "variable": "\"blog_\" . $type"
+    },
+    {
+        "id": 3454,
+        "file": "components\/ILIAS\/Blog\/Settings\/SettingsManager.php",
+        "line": 82,
+        "code": "$lng->txt(\"blog_\" . $type)",
+        "has_variable": true,
+        "variable": "\"blog_\" . $type"
+    },
+    {
+        "id": 3456,
+        "file": "components\/ILIAS\/Blog\/Settings\/SettingsManager.php",
+        "line": 88,
+        "code": "$lng->txt(\"blog_\" . $type)",
+        "has_variable": true,
+        "variable": "\"blog_\" . $type"
+    },
+    {
+        "id": 3458,
+        "file": "components\/ILIAS\/Blog\/Settings\/class.BlockSettingsGUI.php",
+        "line": 78,
+        "code": "$lng->txt(\"blog_side_blocks\")",
+        "has_variable": false,
+        "variable": "blog_side_blocks"
+    },
+    {
+        "id": 3460,
+        "file": "components\/ILIAS\/Blog\/Settings\/class.BlockSettingsGUI.php",
+        "line": 118,
+        "code": "$lng->txt(\"blog_nav_sortorder\")",
+        "has_variable": false,
+        "variable": "blog_nav_sortorder"
+    },
+    {
+        "id": 3462,
+        "file": "components\/ILIAS\/Blog\/Settings\/class.BlockSettingsGUI.php",
+        "line": 136,
+        "code": "$lng->txt(\"msg_obj_modified\")",
+        "has_variable": false,
+        "variable": "msg_obj_modified"
+    },
+    {
+        "id": 3464,
+        "file": "components\/ILIAS\/Blog\/Settings\/class.SettingsGUI.php",
+        "line": 73,
+        "code": "$lng->txt(\"blog_edit\")",
+        "has_variable": false,
+        "variable": "blog_edit"
+    },
+    {
+        "id": 3466,
+        "file": "components\/ILIAS\/Blog\/Settings\/class.SettingsGUI.php",
+        "line": 82,
+        "code": "$lng->txt(\"blog_enable_approval\")",
+        "has_variable": false,
+        "variable": "blog_enable_approval"
+    },
+    {
+        "id": 3468,
+        "file": "components\/ILIAS\/Blog\/Settings\/class.SettingsGUI.php",
+        "line": 83,
+        "code": "$lng->txt(\"blog_enable_approval_info\")",
+        "has_variable": false,
+        "variable": "blog_enable_approval_info"
+    },
+    {
+        "id": 3470,
+        "file": "components\/ILIAS\/Blog\/Settings\/class.SettingsGUI.php",
+        "line": 90,
+        "code": "$lng->txt(\"blog_enable_notes\")",
+        "has_variable": false,
+        "variable": "blog_enable_notes"
+    },
+    {
+        "id": 3472,
+        "file": "components\/ILIAS\/Blog\/Settings\/class.SettingsGUI.php",
+        "line": 98,
+        "code": "$lng->txt(\"blog_enable_rss\")",
+        "has_variable": false,
+        "variable": "blog_enable_rss"
+    },
+    {
+        "id": 3474,
+        "file": "components\/ILIAS\/Blog\/Settings\/class.SettingsGUI.php",
+        "line": 104,
+        "code": "$lng->txt(\"rep_activation_availability\")",
+        "has_variable": false,
+        "variable": "rep_activation_availability"
+    },
+    {
+        "id": 3476,
+        "file": "components\/ILIAS\/Blog\/Settings\/class.SettingsGUI.php",
+        "line": 107,
+        "code": "$lng->txt(\"blog_settings_navigation\")",
+        "has_variable": false,
+        "variable": "blog_settings_navigation"
+    },
+    {
+        "id": 3478,
+        "file": "components\/ILIAS\/Blog\/Settings\/class.SettingsGUI.php",
+        "line": 108,
+        "code": "$lng->txt(\"blog_nav_mode\")",
+        "has_variable": false,
+        "variable": "blog_nav_mode"
+    },
+    {
+        "id": 3480,
+        "file": "components\/ILIAS\/Blog\/Settings\/class.SettingsGUI.php",
+        "line": 111,
+        "code": "$lng->txt(\"blog_nav_mode_month_list\")",
+        "has_variable": false,
+        "variable": "blog_nav_mode_month_list"
+    },
+    {
+        "id": 3482,
+        "file": "components\/ILIAS\/Blog\/Settings\/class.SettingsGUI.php",
+        "line": 112,
+        "code": "$lng->txt(\"blog_nav_mode_month_list_info\")",
+        "has_variable": false,
+        "variable": "blog_nav_mode_month_list_info"
+    },
+    {
+        "id": 3484,
+        "file": "components\/ILIAS\/Blog\/Settings\/class.SettingsGUI.php",
+        "line": 116,
+        "code": "$lng->txt(\"blog_nav_mode_month_list_num_month\")",
+        "has_variable": false,
+        "variable": "blog_nav_mode_month_list_num_month"
+    },
+    {
+        "id": 3486,
+        "file": "components\/ILIAS\/Blog\/Settings\/class.SettingsGUI.php",
+        "line": 117,
+        "code": "$lng->txt(\"blog_nav_mode_month_list_num_month_info\")",
+        "has_variable": false,
+        "variable": "blog_nav_mode_month_list_num_month_info"
+    },
+    {
+        "id": 3488,
+        "file": "components\/ILIAS\/Blog\/Settings\/class.SettingsGUI.php",
+        "line": 123,
+        "code": "$lng->txt(\"blog_nav_mode_month_list_num_month_with_post\")",
+        "has_variable": false,
+        "variable": "blog_nav_mode_month_list_num_month_with_post"
+    },
+    {
+        "id": 3490,
+        "file": "components\/ILIAS\/Blog\/Settings\/class.SettingsGUI.php",
+        "line": 124,
+        "code": "$lng->txt(\"blog_nav_mode_month_list_num_month_with_post_info\")",
+        "has_variable": false,
+        "variable": "blog_nav_mode_month_list_num_month_with_post_info"
+    },
+    {
+        "id": 3492,
+        "file": "components\/ILIAS\/Blog\/Settings\/class.SettingsGUI.php",
+        "line": 129,
+        "code": "$lng->txt(\"blog_nav_mode_month_single\")",
+        "has_variable": false,
+        "variable": "blog_nav_mode_month_single"
+    },
+    {
+        "id": 3494,
+        "file": "components\/ILIAS\/Blog\/Settings\/class.SettingsGUI.php",
+        "line": 130,
+        "code": "$lng->txt(\"blog_nav_mode_month_single_info\")",
+        "has_variable": false,
+        "variable": "blog_nav_mode_month_single_info"
+    },
+    {
+        "id": 3496,
+        "file": "components\/ILIAS\/Blog\/Settings\/class.SettingsGUI.php",
+        "line": 137,
+        "code": "$lng->txt(\"blog_enable_nav_authors\")",
+        "has_variable": false,
+        "variable": "blog_enable_nav_authors"
+    },
+    {
+        "id": 3498,
+        "file": "components\/ILIAS\/Blog\/Settings\/class.SettingsGUI.php",
+        "line": 138,
+        "code": "$lng->txt(\"blog_enable_nav_authors_info\")",
+        "has_variable": false,
+        "variable": "blog_enable_nav_authors_info"
+    },
+    {
+        "id": 3500,
+        "file": "components\/ILIAS\/Blog\/Settings\/class.SettingsGUI.php",
+        "line": 146,
+        "code": "$lng->txt(\"blog_enable_keywords\")",
+        "has_variable": false,
+        "variable": "blog_enable_keywords"
+    },
+    {
+        "id": 3502,
+        "file": "components\/ILIAS\/Blog\/Settings\/class.SettingsGUI.php",
+        "line": 147,
+        "code": "$lng->txt(\"blog_enable_keywords_info\")",
+        "has_variable": false,
+        "variable": "blog_enable_keywords_info"
+    },
+    {
+        "id": 3504,
+        "file": "components\/ILIAS\/Blog\/Settings\/class.SettingsGUI.php",
+        "line": 150,
+        "code": "$lng->txt(\"blog_presentation_frame\")",
+        "has_variable": false,
+        "variable": "blog_presentation_frame"
+    },
+    {
+        "id": 3506,
+        "file": "components\/ILIAS\/Blog\/Settings\/class.SettingsGUI.php",
+        "line": 160,
+        "code": "$lng->txt(\"blog_profile_picture_repository_info\")",
+        "has_variable": false,
+        "variable": "blog_profile_picture_repository_info"
+    },
+    {
+        "id": 3508,
+        "file": "components\/ILIAS\/Blog\/Settings\/class.SettingsGUI.php",
+        "line": 165,
+        "code": "$lng->txt(\"blog_profile_picture\")",
+        "has_variable": false,
+        "variable": "blog_profile_picture"
+    },
+    {
+        "id": 3510,
+        "file": "components\/ILIAS\/Blog\/Settings\/class.SettingsGUI.php",
+        "line": 173,
+        "code": "$lng->txt(\"blog_presentation_overview\")",
+        "has_variable": false,
+        "variable": "blog_presentation_overview"
+    },
+    {
+        "id": 3512,
+        "file": "components\/ILIAS\/Blog\/Settings\/class.SettingsGUI.php",
+        "line": 176,
+        "code": "$lng->txt(\"blog_list_num_postings\")",
+        "has_variable": false,
+        "variable": "blog_list_num_postings"
+    },
+    {
+        "id": 3514,
+        "file": "components\/ILIAS\/Blog\/Settings\/class.SettingsGUI.php",
+        "line": 177,
+        "code": "$lng->txt(\"blog_list_num_postings_info\")",
+        "has_variable": false,
+        "variable": "blog_list_num_postings_info"
+    },
+    {
+        "id": 3516,
+        "file": "components\/ILIAS\/Blog\/Settings\/class.SettingsGUI.php",
+        "line": 182,
+        "code": "$lng->txt(\"blog_abstract_shorten\")",
+        "has_variable": false,
+        "variable": "blog_abstract_shorten"
+    },
+    {
+        "id": 3518,
+        "file": "components\/ILIAS\/Blog\/Settings\/class.SettingsGUI.php",
+        "line": 188,
+        "code": "$lng->txt(\"blog_abstract_shorten_length\")",
+        "has_variable": false,
+        "variable": "blog_abstract_shorten_length"
+    },
+    {
+        "id": 3520,
+        "file": "components\/ILIAS\/Blog\/Settings\/class.SettingsGUI.php",
+        "line": 189,
+        "code": "$lng->txt(\"blog_abstract_shorten_characters\")",
+        "has_variable": false,
+        "variable": "blog_abstract_shorten_characters"
+    },
+    {
+        "id": 3522,
+        "file": "components\/ILIAS\/Blog\/Settings\/class.SettingsGUI.php",
+        "line": 195,
+        "code": "$lng->txt(\"blog_abstract_image\")",
+        "has_variable": false,
+        "variable": "blog_abstract_image"
+    },
+    {
+        "id": 3524,
+        "file": "components\/ILIAS\/Blog\/Settings\/class.SettingsGUI.php",
+        "line": 196,
+        "code": "$lng->txt(\"blog_abstract_image_info\")",
+        "has_variable": false,
+        "variable": "blog_abstract_image_info"
+    },
+    {
+        "id": 3526,
+        "file": "components\/ILIAS\/Blog\/Settings\/class.SettingsGUI.php",
+        "line": 201,
+        "code": "$lng->txt(\"blog_abstract_image_width\")",
+        "has_variable": false,
+        "variable": "blog_abstract_image_width"
+    },
+    {
+        "id": 3528,
+        "file": "components\/ILIAS\/Blog\/Settings\/class.SettingsGUI.php",
+        "line": 202,
+        "code": "$lng->txt(\"blog_abstract_image_pixels\")",
+        "has_variable": false,
+        "variable": "blog_abstract_image_pixels"
+    },
+    {
+        "id": 3530,
+        "file": "components\/ILIAS\/Blog\/Settings\/class.SettingsGUI.php",
+        "line": 208,
+        "code": "$lng->txt(\"blog_abstract_image_height\")",
+        "has_variable": false,
+        "variable": "blog_abstract_image_height"
+    },
+    {
+        "id": 3532,
+        "file": "components\/ILIAS\/Blog\/Settings\/class.SettingsGUI.php",
+        "line": 209,
+        "code": "$lng->txt(\"blog_abstract_image_pixels\")",
+        "has_variable": false,
+        "variable": "blog_abstract_image_pixels"
+    },
+    {
+        "id": 3534,
+        "file": "components\/ILIAS\/Blog\/Settings\/class.SettingsGUI.php",
+        "line": 284,
+        "code": "$lng->txt(\"msg_obj_modified\")",
+        "has_variable": false,
+        "variable": "msg_obj_modified"
+    },
+    {
+        "id": 3536,
+        "file": "components\/ILIAS\/Blog\/Tasks\/classes\/class.ilBlogDraftsDerivedTaskProvider.php",
+        "line": 85,
+        "code": "$this->lng->txt('blog_task_publishing_draft_title')",
+        "has_variable": false,
+        "variable": "blog_task_publishing_draft_title"
+    },
+    {
+        "id": 3538,
+        "file": "components\/ILIAS\/Blog\/classes\/class.ilObjBlogAccess.php",
+        "line": 120,
+        "code": "$this->lng->txt(\"offline\")",
+        "has_variable": false,
+        "variable": "offline"
+    },
+    {
+        "id": 3540,
+        "file": "components\/ILIAS\/Blog\/classes\/class.ilObjBlogGUI.php",
+        "line": 147,
+        "code": "$this->lng->txt(\"object_added\")",
+        "has_variable": false,
+        "variable": "object_added"
+    },
+    {
+        "id": 3542,
+        "file": "components\/ILIAS\/Blog\/classes\/class.ilObjBlogListGUI.php",
+        "line": 138,
+        "code": "$this->lng->txt(\"note_html_export_include_comments\")",
+        "has_variable": false,
+        "variable": "note_html_export_include_comments"
+    }
+]

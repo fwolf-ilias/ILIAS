@@ -1,0 +1,946 @@
+[
+    {
+        "id": 24442,
+        "file": "components\/ILIAS\/LearningSequence\/classes\/Content\/class.ilObjLearningSequenceContentGUI.php",
+        "line": 55,
+        "code": "$this->lng->txt('msg_no_perm_read_item')",
+        "has_variable": false,
+        "variable": "msg_no_perm_read_item"
+    },
+    {
+        "id": 24444,
+        "file": "components\/ILIAS\/LearningSequence\/classes\/Content\/class.ilObjLearningSequenceContentGUI.php",
+        "line": 97,
+        "code": "$this->lng->txt(\"warning\")",
+        "has_variable": false,
+        "variable": "warning"
+    },
+    {
+        "id": 24446,
+        "file": "components\/ILIAS\/LearningSequence\/classes\/Content\/class.ilObjLearningSequenceContentGUI.php",
+        "line": 114,
+        "code": "$this->lng->txt(\"delete\")",
+        "has_variable": false,
+        "variable": "delete"
+    },
+    {
+        "id": 24448,
+        "file": "components\/ILIAS\/LearningSequence\/classes\/Content\/class.ilObjLearningSequenceContentGUI.php",
+        "line": 116,
+        "code": "$this->lng->txt(\"save\")",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 24450,
+        "file": "components\/ILIAS\/LearningSequence\/classes\/Content\/class.ilObjLearningSequenceContentGUI.php",
+        "line": 138,
+        "code": "$this->lng->txt('entries_deleted')",
+        "has_variable": false,
+        "variable": "entries_deleted"
+    },
+    {
+        "id": 24452,
+        "file": "components\/ILIAS\/LearningSequence\/classes\/Content\/class.ilObjLearningSequenceContentGUI.php",
+        "line": 188,
+        "code": "$this->lng->txt('entries_updated')",
+        "has_variable": false,
+        "variable": "entries_updated"
+    },
+    {
+        "id": 24454,
+        "file": "components\/ILIAS\/LearningSequence\/classes\/Content\/class.ilObjLearningSequenceContentTableGUI.php",
+        "line": 43,
+        "code": "$this->lng->txt(\"table_sequence_content\")",
+        "has_variable": false,
+        "variable": "table_sequence_content"
+    },
+    {
+        "id": 24456,
+        "file": "components\/ILIAS\/LearningSequence\/classes\/Content\/class.ilObjLearningSequenceContentTableGUI.php",
+        "line": 54,
+        "code": "$this->lng->txt(\"table_position\")",
+        "has_variable": false,
+        "variable": "table_position"
+    },
+    {
+        "id": 24458,
+        "file": "components\/ILIAS\/LearningSequence\/classes\/Content\/class.ilObjLearningSequenceContentTableGUI.php",
+        "line": 55,
+        "code": "$this->lng->txt(\"table_title\")",
+        "has_variable": false,
+        "variable": "table_title"
+    },
+    {
+        "id": 24460,
+        "file": "components\/ILIAS\/LearningSequence\/classes\/Content\/class.ilObjLearningSequenceContentTableGUI.php",
+        "line": 56,
+        "code": "$this->lng->txt(\"table_online\")",
+        "has_variable": false,
+        "variable": "table_online"
+    },
+    {
+        "id": 24462,
+        "file": "components\/ILIAS\/LearningSequence\/classes\/Content\/class.ilObjLearningSequenceContentTableGUI.php",
+        "line": 57,
+        "code": "$this->lng->txt(\"table_may_proceed\")",
+        "has_variable": false,
+        "variable": "table_may_proceed"
+    },
+    {
+        "id": 24464,
+        "file": "components\/ILIAS\/LearningSequence\/classes\/Content\/class.ilObjLearningSequenceContentTableGUI.php",
+        "line": 59,
+        "code": "$this->lng->txt(\"table_lp_settings\")",
+        "has_variable": false,
+        "variable": "table_lp_settings"
+    },
+    {
+        "id": 24466,
+        "file": "components\/ILIAS\/LearningSequence\/classes\/Content\/class.ilObjLearningSequenceContentTableGUI.php",
+        "line": 61,
+        "code": "$this->lng->txt(\"table_actions\")",
+        "has_variable": false,
+        "variable": "table_actions"
+    },
+    {
+        "id": 24468,
+        "file": "components\/ILIAS\/LearningSequence\/classes\/Content\/class.ilObjLearningSequenceContentTableGUI.php",
+        "line": 125,
+        "code": "$this->lng->txt(\"lp_not_relevant_post_cond\")",
+        "has_variable": false,
+        "variable": "lp_not_relevant_post_cond"
+    },
+    {
+        "id": 24470,
+        "file": "components\/ILIAS\/LearningSequence\/classes\/GlobalScreen\/class.ilLSCompletionNotificationProvider.php",
+        "line": 61,
+        "code": "$lng->txt('obj_lso')",
+        "has_variable": false,
+        "variable": "obj_lso"
+    },
+    {
+        "id": 24472,
+        "file": "components\/ILIAS\/LearningSequence\/classes\/GlobalScreen\/class.ilLSCompletionNotificationProvider.php",
+        "line": 65,
+        "code": "$lng->txt('notification_lso_completed_title')",
+        "has_variable": false,
+        "variable": "notification_lso_completed_title"
+    },
+    {
+        "id": 24474,
+        "file": "components\/ILIAS\/LearningSequence\/classes\/Members\/class.ilLearningSequenceEditParticipantsTableGUI.php",
+        "line": 45,
+        "code": "$this->lng->txt('name')",
+        "has_variable": false,
+        "variable": "name"
+    },
+    {
+        "id": 24476,
+        "file": "components\/ILIAS\/LearningSequence\/classes\/Members\/class.ilLearningSequenceEditParticipantsTableGUI.php",
+        "line": 46,
+        "code": "$this->lng->txt('login')",
+        "has_variable": false,
+        "variable": "login"
+    },
+    {
+        "id": 24478,
+        "file": "components\/ILIAS\/LearningSequence\/classes\/Members\/class.ilLearningSequenceEditParticipantsTableGUI.php",
+        "line": 47,
+        "code": "$this->lng->txt('lso_notification')",
+        "has_variable": false,
+        "variable": "lso_notification"
+    },
+    {
+        "id": 24480,
+        "file": "components\/ILIAS\/LearningSequence\/classes\/Members\/class.ilLearningSequenceEditParticipantsTableGUI.php",
+        "line": 48,
+        "code": "$this->lng->txt('objs_role')",
+        "has_variable": false,
+        "variable": "objs_role"
+    },
+    {
+        "id": 24482,
+        "file": "components\/ILIAS\/LearningSequence\/classes\/Members\/class.ilLearningSequenceEditParticipantsTableGUI.php",
+        "line": 51,
+        "code": "$this->lng->txt('last_access')",
+        "has_variable": false,
+        "variable": "last_access"
+    },
+    {
+        "id": 24484,
+        "file": "components\/ILIAS\/LearningSequence\/classes\/Members\/class.ilLearningSequenceEditParticipantsTableGUI.php",
+        "line": 54,
+        "code": "$this->lng->txt('save')",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 24486,
+        "file": "components\/ILIAS\/LearningSequence\/classes\/Members\/class.ilLearningSequenceEditParticipantsTableGUI.php",
+        "line": 55,
+        "code": "$this->lng->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 24488,
+        "file": "components\/ILIAS\/LearningSequence\/classes\/Members\/class.ilLearningSequenceMembershipGUI.php",
+        "line": 78,
+        "code": "$this->lng->txt('back')",
+        "has_variable": false,
+        "variable": "back"
+    },
+    {
+        "id": 24490,
+        "file": "components\/ILIAS\/LearningSequence\/classes\/Members\/class.ilLearningSequenceMembershipGUI.php",
+        "line": 118,
+        "code": "$this->lng->txt('search_err_user_not_exist')",
+        "has_variable": false,
+        "variable": "search_err_user_not_exist"
+    },
+    {
+        "id": 24492,
+        "file": "components\/ILIAS\/LearningSequence\/classes\/Members\/class.ilLearningSequenceMembershipGUI.php",
+        "line": 155,
+        "code": "$this->lng->txt(\"lso_cannot_find_role\")",
+        "has_variable": false,
+        "variable": "lso_cannot_find_role"
+    },
+    {
+        "id": 24494,
+        "file": "components\/ILIAS\/LearningSequence\/classes\/Members\/class.ilLearningSequenceMembershipGUI.php",
+        "line": 169,
+        "code": "$this->lng->txt(\"lso_msg_member_assigned\")",
+        "has_variable": false,
+        "variable": "lso_msg_member_assigned"
+    },
+    {
+        "id": 24496,
+        "file": "components\/ILIAS\/LearningSequence\/classes\/Members\/class.ilLearningSequenceMembershipGUI.php",
+        "line": 171,
+        "code": "$this->lng->txt('lso_users_already_assigned')",
+        "has_variable": false,
+        "variable": "lso_users_already_assigned"
+    },
+    {
+        "id": 24498,
+        "file": "components\/ILIAS\/LearningSequence\/classes\/Members\/class.ilLearningSequenceMembershipGUI.php",
+        "line": 212,
+        "code": "$this->lng->txt('settings_saved')",
+        "has_variable": false,
+        "variable": "settings_saved"
+    },
+    {
+        "id": 24500,
+        "file": "components\/ILIAS\/LearningSequence\/classes\/Members\/class.ilLearningSequenceMembershipGUI.php",
+        "line": 249,
+        "code": "$this->lng->txt($this->getParentObject()->getType() . '_header_edit_members')",
+        "has_variable": true,
+        "variable": "$this->getParentObject()->getType() . '_header_edit_members'"
+    },
+    {
+        "id": 24502,
+        "file": "components\/ILIAS\/LearningSequence\/classes\/Members\/class.ilLearningSequenceMembershipGUI.php",
+        "line": 315,
+        "code": "$this->lng->txt($data['progress'])",
+        "has_variable": true,
+        "variable": "\\$data"
+    },
+    {
+        "id": 24504,
+        "file": "components\/ILIAS\/LearningSequence\/classes\/Members\/class.ilLearningSequenceMembershipGUI.php",
+        "line": 362,
+        "code": "$this->lng->txt('user')",
+        "has_variable": false,
+        "variable": "user"
+    },
+    {
+        "id": 24506,
+        "file": "components\/ILIAS\/LearningSequence\/classes\/Members\/class.ilLearningSequenceMembershipGUI.php",
+        "line": 365,
+        "code": "$this->lng->txt('add')",
+        "has_variable": false,
+        "variable": "add"
+    },
+    {
+        "id": 24508,
+        "file": "components\/ILIAS\/LearningSequence\/classes\/Members\/class.ilLearningSequenceMembershipGUI.php",
+        "line": 389,
+        "code": "$this->lng->txt($this->getParentObject()->getType() . \"_print_list\")",
+        "has_variable": true,
+        "variable": "$this->getParentObject()->getType() . \"_print_list\""
+    },
+    {
+        "id": 24510,
+        "file": "components\/ILIAS\/LearningSequence\/classes\/Members\/class.ilLearningSequenceParticipantsTableGUI.php",
+        "line": 84,
+        "code": "$this->lng->txt('name')",
+        "has_variable": false,
+        "variable": "name"
+    },
+    {
+        "id": 24512,
+        "file": "components\/ILIAS\/LearningSequence\/classes\/Members\/class.ilLearningSequenceParticipantsTableGUI.php",
+        "line": 85,
+        "code": "$this->lng->txt('login')",
+        "has_variable": false,
+        "variable": "login"
+    },
+    {
+        "id": 24514,
+        "file": "components\/ILIAS\/LearningSequence\/classes\/Members\/class.ilLearningSequenceParticipantsTableGUI.php",
+        "line": 97,
+        "code": "$this->lng->txt('first_access')",
+        "has_variable": false,
+        "variable": "first_access"
+    },
+    {
+        "id": 24516,
+        "file": "components\/ILIAS\/LearningSequence\/classes\/Members\/class.ilLearningSequenceParticipantsTableGUI.php",
+        "line": 98,
+        "code": "$this->lng->txt('last_access')",
+        "has_variable": false,
+        "variable": "last_access"
+    },
+    {
+        "id": 24518,
+        "file": "components\/ILIAS\/LearningSequence\/classes\/Members\/class.ilLearningSequenceParticipantsTableGUI.php",
+        "line": 100,
+        "code": "$this->lng->txt('completed_steps')",
+        "has_variable": false,
+        "variable": "completed_steps"
+    },
+    {
+        "id": 24520,
+        "file": "components\/ILIAS\/LearningSequence\/classes\/Members\/class.ilLearningSequenceParticipantsTableGUI.php",
+        "line": 101,
+        "code": "$this->lng->txt('last_visited_step')",
+        "has_variable": false,
+        "variable": "last_visited_step"
+    },
+    {
+        "id": 24522,
+        "file": "components\/ILIAS\/LearningSequence\/classes\/Members\/class.ilLearningSequenceParticipantsTableGUI.php",
+        "line": 102,
+        "code": "$this->lng->txt('lso_notification')",
+        "has_variable": false,
+        "variable": "lso_notification"
+    },
+    {
+        "id": 24524,
+        "file": "components\/ILIAS\/LearningSequence\/classes\/Members\/class.ilLearningSequenceParticipantsTableGUI.php",
+        "line": 103,
+        "code": "$this->lng->txt('')",
+        "has_variable": true,
+        "variable": ""
+    },
+    {
+        "id": 24526,
+        "file": "components\/ILIAS\/LearningSequence\/classes\/Members\/class.ilLearningSequenceParticipantsTableGUI.php",
+        "line": 112,
+        "code": "$this->lng->txt('edit')",
+        "has_variable": false,
+        "variable": "edit"
+    },
+    {
+        "id": 24528,
+        "file": "components\/ILIAS\/LearningSequence\/classes\/Members\/class.ilLearningSequenceParticipantsTableGUI.php",
+        "line": 113,
+        "code": "$this->lng->txt('remove')",
+        "has_variable": false,
+        "variable": "remove"
+    },
+    {
+        "id": 24530,
+        "file": "components\/ILIAS\/LearningSequence\/classes\/Members\/class.ilLearningSequenceParticipantsTableGUI.php",
+        "line": 114,
+        "code": "$this->lng->txt('mmbr_btn_mail_selected_users')",
+        "has_variable": false,
+        "variable": "mmbr_btn_mail_selected_users"
+    },
+    {
+        "id": 24532,
+        "file": "components\/ILIAS\/LearningSequence\/classes\/Members\/class.ilLearningSequenceParticipantsTableGUI.php",
+        "line": 115,
+        "code": "$this->lng->txt('clipboard_add_btn')",
+        "has_variable": false,
+        "variable": "clipboard_add_btn"
+    },
+    {
+        "id": 24534,
+        "file": "components\/ILIAS\/LearningSequence\/classes\/Members\/class.ilLearningSequenceParticipantsTableGUI.php",
+        "line": 116,
+        "code": "$this->lng->txt('save')",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 24536,
+        "file": "components\/ILIAS\/LearningSequence\/classes\/Members\/class.ilLearningSequenceParticipantsTableGUI.php",
+        "line": 136,
+        "code": "$this->lng->txt('usr_account_inactive')",
+        "has_variable": false,
+        "variable": "usr_account_inactive"
+    },
+    {
+        "id": 24538,
+        "file": "components\/ILIAS\/LearningSequence\/classes\/Members\/class.ilLearningSequenceParticipantsTableGUI.php",
+        "line": 404,
+        "code": "$this->lng->txt('obj_prtf')",
+        "has_variable": false,
+        "variable": "obj_prtf"
+    },
+    {
+        "id": 24540,
+        "file": "components\/ILIAS\/LearningSequence\/classes\/Members\/class.ilLearningSequenceParticipantsTableGUI.php",
+        "line": 412,
+        "code": "$this->lng->txt('objs_role')",
+        "has_variable": false,
+        "variable": "objs_role"
+    },
+    {
+        "id": 24542,
+        "file": "components\/ILIAS\/LearningSequence\/classes\/Members\/class.ilLearningSequenceParticipantsTableGUI.php",
+        "line": 418,
+        "code": "$this->lng->txt(\"org_units\")",
+        "has_variable": false,
+        "variable": "org_units"
+    },
+    {
+        "id": 24544,
+        "file": "components\/ILIAS\/LearningSequence\/classes\/Members\/class.ilLearningSequenceRoles.php",
+        "line": 266,
+        "code": "$this->lng->txt('no_date')",
+        "has_variable": false,
+        "variable": "no_date"
+    },
+    {
+        "id": 24546,
+        "file": "components\/ILIAS\/LearningSequence\/classes\/Player\/LSControlBuilder.php",
+        "line": 145,
+        "code": "$this->lng->txt($label)",
+        "has_variable": true,
+        "variable": "$label"
+    },
+    {
+        "id": 24548,
+        "file": "components\/ILIAS\/LearningSequence\/classes\/Player\/LSControlBuilder.php",
+        "line": 158,
+        "code": "$this->lng->txt('lso_player_next')",
+        "has_variable": false,
+        "variable": "lso_player_next"
+    },
+    {
+        "id": 24550,
+        "file": "components\/ILIAS\/LearningSequence\/classes\/Player\/LSControlBuilder.php",
+        "line": 160,
+        "code": "$this->lng->txt('lso_player_finish')",
+        "has_variable": false,
+        "variable": "lso_player_finish"
+    },
+    {
+        "id": 24552,
+        "file": "components\/ILIAS\/LearningSequence\/classes\/Player\/LSControlBuilder.php",
+        "line": 176,
+        "code": "$this->lng->txt('lso_player_previous')",
+        "has_variable": false,
+        "variable": "lso_player_previous"
+    },
+    {
+        "id": 24554,
+        "file": "components\/ILIAS\/LearningSequence\/classes\/Player\/LSControlBuilder.php",
+        "line": 191,
+        "code": "$this->lng->txt('lso_player_done')",
+        "has_variable": false,
+        "variable": "lso_player_done"
+    },
+    {
+        "id": 24556,
+        "file": "components\/ILIAS\/LearningSequence\/classes\/Player\/class.ilKioskPageRenderer.php",
+        "line": 64,
+        "code": "$this->lng->txt('lso_mainbar_button_label_curriculum')",
+        "has_variable": false,
+        "variable": "lso_mainbar_button_label_curriculum"
+    },
+    {
+        "id": 24558,
+        "file": "components\/ILIAS\/LearningSequence\/classes\/Player\/class.ilKioskPageRenderer.php",
+        "line": 78,
+        "code": "$this->lng->txt('lso_mainbar_button_label_toc')",
+        "has_variable": false,
+        "variable": "lso_mainbar_button_label_toc"
+    },
+    {
+        "id": 24560,
+        "file": "components\/ILIAS\/LearningSequence\/classes\/Player\/class.ilLSCurriculumBuilder.php",
+        "line": 74,
+        "code": "$this->lng->txt('curriculum')",
+        "has_variable": false,
+        "variable": "curriculum"
+    },
+    {
+        "id": 24562,
+        "file": "components\/ILIAS\/LearningSequence\/classes\/Player\/class.ilLSLaunchlinksBuilder.php",
+        "line": 87,
+        "code": "$this->lng->txt(\"lso_player_start\")",
+        "has_variable": false,
+        "variable": "lso_player_start"
+    },
+    {
+        "id": 24564,
+        "file": "components\/ILIAS\/LearningSequence\/classes\/Player\/class.ilLSLaunchlinksBuilder.php",
+        "line": 99,
+        "code": "$this->lng->txt($label)",
+        "has_variable": true,
+        "variable": "$label"
+    },
+    {
+        "id": 24566,
+        "file": "components\/ILIAS\/LearningSequence\/classes\/Player\/class.ilLSLaunchlinksBuilder.php",
+        "line": 106,
+        "code": "$this->lng->txt(\"lso_player_review\")",
+        "has_variable": false,
+        "variable": "lso_player_review"
+    },
+    {
+        "id": 24568,
+        "file": "components\/ILIAS\/LearningSequence\/classes\/Player\/class.ilLSLaunchlinksBuilder.php",
+        "line": 114,
+        "code": "$this->lng->txt(\"lso_player_extro\")",
+        "has_variable": false,
+        "variable": "lso_player_extro"
+    },
+    {
+        "id": 24570,
+        "file": "components\/ILIAS\/LearningSequence\/classes\/Player\/class.ilLSLaunchlinksBuilder.php",
+        "line": 121,
+        "code": "$this->lng->txt(\"lso_player_abstract\")",
+        "has_variable": false,
+        "variable": "lso_player_abstract"
+    },
+    {
+        "id": 24572,
+        "file": "components\/ILIAS\/LearningSequence\/classes\/Player\/class.ilLSLaunchlinksBuilder.php",
+        "line": 130,
+        "code": "$this->lng->txt(\"unparticipate\")",
+        "has_variable": false,
+        "variable": "unparticipate"
+    },
+    {
+        "id": 24574,
+        "file": "components\/ILIAS\/LearningSequence\/classes\/Player\/class.ilLSPlayer.php",
+        "line": 176,
+        "code": "$this->lng->txt('rating_your_rating')",
+        "has_variable": false,
+        "variable": "rating_your_rating"
+    },
+    {
+        "id": 24576,
+        "file": "components\/ILIAS\/LearningSequence\/classes\/Player\/class.ilLegacyKioskModeView.php",
+        "line": 85,
+        "code": "$this->lng->txt('lso_start_item')",
+        "has_variable": false,
+        "variable": "lso_start_item"
+    },
+    {
+        "id": 24578,
+        "file": "components\/ILIAS\/LearningSequence\/classes\/Player\/class.ilLegacyKioskModeView.php",
+        "line": 135,
+        "code": "$this->lng->txt('obj_' . $obj_type)",
+        "has_variable": true,
+        "variable": "'obj_' . $obj_type"
+    },
+    {
+        "id": 24580,
+        "file": "components\/ILIAS\/LearningSequence\/classes\/Player\/class.ilLegacyKioskModeView.php",
+        "line": 139,
+        "code": "$this->lng->txt('obj_type')",
+        "has_variable": false,
+        "variable": "obj_type"
+    },
+    {
+        "id": 24582,
+        "file": "components\/ILIAS\/LearningSequence\/classes\/Player\/class.ilLegacyKioskModeView.php",
+        "line": 146,
+        "code": "$this->lng->txt('lso_legacy_info')",
+        "has_variable": false,
+        "variable": "lso_legacy_info"
+    },
+    {
+        "id": 24584,
+        "file": "components\/ILIAS\/LearningSequence\/classes\/Player\/class.ilLegacyKioskModeView.php",
+        "line": 177,
+        "code": "$this->lng->txt('language')",
+        "has_variable": false,
+        "variable": "language"
+    },
+    {
+        "id": 24586,
+        "file": "components\/ILIAS\/LearningSequence\/classes\/Player\/class.ilLegacyKioskModeView.php",
+        "line": 185,
+        "code": "$this->lng->txt('keywords')",
+        "has_variable": false,
+        "variable": "keywords"
+    },
+    {
+        "id": 24588,
+        "file": "components\/ILIAS\/LearningSequence\/classes\/Player\/class.ilLegacyKioskModeView.php",
+        "line": 193,
+        "code": "$this->lng->txt(\"obj_\" . $type)",
+        "has_variable": true,
+        "variable": "\"obj_\" . $type"
+    },
+    {
+        "id": 24590,
+        "file": "components\/ILIAS\/LearningSequence\/classes\/Player\/class.ilObjLearningSequenceLearnerGUI.php",
+        "line": 196,
+        "code": "$this->lng->txt('rating_your_rating')",
+        "has_variable": false,
+        "variable": "rating_your_rating"
+    },
+    {
+        "id": 24592,
+        "file": "components\/ILIAS\/LearningSequence\/classes\/Player\/class.ilObjLearningSequenceLearnerGUI.php",
+        "line": 246,
+        "code": "$this->lng->txt('obj_lso')",
+        "has_variable": false,
+        "variable": "obj_lso"
+    },
+    {
+        "id": 24594,
+        "file": "components\/ILIAS\/LearningSequence\/classes\/Player\/class.ilObjLearningSequenceLearnerGUI.php",
+        "line": 247,
+        "code": "$this->lng->txt(\"unparticipate\")",
+        "has_variable": false,
+        "variable": "unparticipate"
+    },
+    {
+        "id": 24596,
+        "file": "components\/ILIAS\/LearningSequence\/classes\/Player\/class.ilObjLearningSequenceLearnerGUI.php",
+        "line": 295,
+        "code": "$this->lng->txt(\"unparticipate\")",
+        "has_variable": false,
+        "variable": "unparticipate"
+    },
+    {
+        "id": 24598,
+        "file": "components\/ILIAS\/LearningSequence\/classes\/Player\/class.ilObjLearningSequenceLearnerGUI.php",
+        "line": 352,
+        "code": "$this->lng->txt('lso_player_noitems')",
+        "has_variable": false,
+        "variable": "lso_player_noitems"
+    },
+    {
+        "id": 24600,
+        "file": "components\/ILIAS\/LearningSequence\/classes\/Settings\/class.ilObjLearningSequenceSettingsGUI.php",
+        "line": 105,
+        "code": "$this->lng->txt($id)",
+        "has_variable": true,
+        "variable": "$id"
+    },
+    {
+        "id": 24602,
+        "file": "components\/ILIAS\/LearningSequence\/classes\/Settings\/class.ilObjLearningSequenceSettingsGUI.php",
+        "line": 160,
+        "code": "$this->lng->txt('obj_tool_setting_custom_metadata')",
+        "has_variable": false,
+        "variable": "obj_tool_setting_custom_metadata"
+    },
+    {
+        "id": 24604,
+        "file": "components\/ILIAS\/LearningSequence\/classes\/Settings\/class.ilObjLearningSequenceSettingsGUI.php",
+        "line": 224,
+        "code": "$this->lng->txt(\"msg_form_save_error\")",
+        "has_variable": false,
+        "variable": "msg_form_save_error"
+    },
+    {
+        "id": 24606,
+        "file": "components\/ILIAS\/LearningSequence\/classes\/Settings\/class.ilObjLearningSequenceSettingsGUI.php",
+        "line": 272,
+        "code": "$this->lng->txt(\"msg_obj_modified\")",
+        "has_variable": false,
+        "variable": "msg_obj_modified"
+    },
+    {
+        "id": 24608,
+        "file": "components\/ILIAS\/LearningSequence\/classes\/class.ilDashboardLearningSequenceGUI.php",
+        "line": 109,
+        "code": "$this->lng->txt('mmbr_unsubscribed_from_objs')",
+        "has_variable": false,
+        "variable": "mmbr_unsubscribed_from_objs"
+    },
+    {
+        "id": 24610,
+        "file": "components\/ILIAS\/LearningSequence\/classes\/class.ilLearningSequenceAppEventListener.php",
+        "line": 91,
+        "code": "$lng->txt('lso_toast_completed_title')",
+        "has_variable": false,
+        "variable": "lso_toast_completed_title"
+    },
+    {
+        "id": 24612,
+        "file": "components\/ILIAS\/LearningSequence\/classes\/class.ilLearningSequenceAppEventListener.php",
+        "line": 92,
+        "code": "$lng->txt('lso_toast_completed_desc')",
+        "has_variable": false,
+        "variable": "lso_toast_completed_desc"
+    },
+    {
+        "id": 24614,
+        "file": "components\/ILIAS\/LearningSequence\/classes\/class.ilLearningSequenceAppEventListener.php",
+        "line": 93,
+        "code": "$lng->txt('lso_toast_completed_desc')",
+        "has_variable": false,
+        "variable": "lso_toast_completed_desc"
+    },
+    {
+        "id": 24616,
+        "file": "components\/ILIAS\/LearningSequence\/classes\/class.ilObjLearningSequence.php",
+        "line": 395,
+        "code": "$this->lng->txt('condition_always')",
+        "has_variable": false,
+        "variable": "condition_always"
+    },
+    {
+        "id": 24618,
+        "file": "components\/ILIAS\/LearningSequence\/classes\/class.ilObjLearningSequence.php",
+        "line": 398,
+        "code": "$this->lng->txt('condition_' . $cond_type)",
+        "has_variable": true,
+        "variable": "'condition_' . $cond_type"
+    },
+    {
+        "id": 24620,
+        "file": "components\/ILIAS\/LearningSequence\/classes\/class.ilObjLearningSequence.php",
+        "line": 490,
+        "code": "$lng->txt(\"msg_no_perm_read_item\")",
+        "has_variable": false,
+        "variable": "msg_no_perm_read_item"
+    },
+    {
+        "id": 24622,
+        "file": "components\/ILIAS\/LearningSequence\/classes\/class.ilObjLearningSequence.php",
+        "line": 498,
+        "code": "$lng->txt(\"msg_no_perm_read\")",
+        "has_variable": false,
+        "variable": "msg_no_perm_read"
+    },
+    {
+        "id": 24624,
+        "file": "components\/ILIAS\/LearningSequence\/classes\/class.ilObjLearningSequenceAccess.php",
+        "line": 78,
+        "code": "$lng->txt(\"offline\")",
+        "has_variable": false,
+        "variable": "offline"
+    },
+    {
+        "id": 24626,
+        "file": "components\/ILIAS\/LearningSequence\/classes\/class.ilObjLearningSequenceAdminGUI.php",
+        "line": 99,
+        "code": "$this->lng->txt(\"lso_admin_interval_label\")",
+        "has_variable": false,
+        "variable": "lso_admin_interval_label"
+    },
+    {
+        "id": 24628,
+        "file": "components\/ILIAS\/LearningSequence\/classes\/class.ilObjLearningSequenceAdminGUI.php",
+        "line": 100,
+        "code": "$this->lng->txt(\"lso_admin_interval_byline\")",
+        "has_variable": false,
+        "variable": "lso_admin_interval_byline"
+    },
+    {
+        "id": 24630,
+        "file": "components\/ILIAS\/LearningSequence\/classes\/class.ilObjLearningSequenceAdminGUI.php",
+        "line": 120,
+        "code": "$this->lng->txt(\"lso_admin_form_title\")",
+        "has_variable": false,
+        "variable": "lso_admin_form_title"
+    },
+    {
+        "id": 24632,
+        "file": "components\/ILIAS\/LearningSequence\/classes\/class.ilObjLearningSequenceAdminGUI.php",
+        "line": 121,
+        "code": "$this->lng->txt(\"lso_admin_form_byline\")",
+        "has_variable": false,
+        "variable": "lso_admin_form_byline"
+    },
+    {
+        "id": 24634,
+        "file": "components\/ILIAS\/LearningSequence\/classes\/class.ilObjLearningSequenceAdminGUI.php",
+        "line": 152,
+        "code": "$this->lng->txt('no_permission')",
+        "has_variable": false,
+        "variable": "no_permission"
+    },
+    {
+        "id": 24636,
+        "file": "components\/ILIAS\/LearningSequence\/classes\/class.ilObjLearningSequenceAdminGUI.php",
+        "line": 162,
+        "code": "$this->lng->txt(\"settings_saved\")",
+        "has_variable": false,
+        "variable": "settings_saved"
+    },
+    {
+        "id": 24638,
+        "file": "components\/ILIAS\/LearningSequence\/classes\/class.ilObjLearningSequenceGUI.php",
+        "line": 140,
+        "code": "$lng->txt('msg_no_perm_read')",
+        "has_variable": false,
+        "variable": "msg_no_perm_read"
+    },
+    {
+        "id": 24640,
+        "file": "components\/ILIAS\/LearningSequence\/classes\/class.ilObjLearningSequenceGUI.php",
+        "line": 163,
+        "code": "$lng->txt('msg_no_perm_read_item')",
+        "has_variable": false,
+        "variable": "msg_no_perm_read_item"
+    },
+    {
+        "id": 24642,
+        "file": "components\/ILIAS\/LearningSequence\/classes\/class.ilObjLearningSequenceGUI.php",
+        "line": 288,
+        "code": "$this->lng->txt('msg_no_perm_read_item')",
+        "has_variable": false,
+        "variable": "msg_no_perm_read_item"
+    },
+    {
+        "id": 24644,
+        "file": "components\/ILIAS\/LearningSequence\/classes\/class.ilObjLearningSequenceGUI.php",
+        "line": 303,
+        "code": "$this->lng->txt('msg_no_perm_read_item')",
+        "has_variable": false,
+        "variable": "msg_no_perm_read_item"
+    },
+    {
+        "id": 24646,
+        "file": "components\/ILIAS\/LearningSequence\/classes\/class.ilObjLearningSequenceGUI.php",
+        "line": 484,
+        "code": "$this->lng->txt('lso_multidownload_not_available')",
+        "has_variable": false,
+        "variable": "lso_multidownload_not_available"
+    },
+    {
+        "id": 24648,
+        "file": "components\/ILIAS\/LearningSequence\/classes\/class.ilObjLearningSequenceGUI.php",
+        "line": 675,
+        "code": "$this->lng->txt('object_added')",
+        "has_variable": false,
+        "variable": "object_added"
+    },
+    {
+        "id": 24650,
+        "file": "components\/ILIAS\/LearningSequence\/classes\/class.ilObjLearningSequenceGUI.php",
+        "line": 731,
+        "code": "$this->lng->txt(\"general\")",
+        "has_variable": false,
+        "variable": "general"
+    },
+    {
+        "id": 24652,
+        "file": "components\/ILIAS\/LearningSequence\/classes\/class.ilObjLearningSequenceGUI.php",
+        "line": 745,
+        "code": "$this->lng->txt(self::TAB_CONTENT_MAIN)",
+        "has_variable": true,
+        "variable": "TAB_CONTENT_MAIN"
+    },
+    {
+        "id": 24654,
+        "file": "components\/ILIAS\/LearningSequence\/classes\/class.ilObjLearningSequenceGUI.php",
+        "line": 753,
+        "code": "$this->lng->txt(self::TAB_INFO)",
+        "has_variable": true,
+        "variable": "TAB_INFO"
+    },
+    {
+        "id": 24656,
+        "file": "components\/ILIAS\/LearningSequence\/classes\/class.ilObjLearningSequenceGUI.php",
+        "line": 761,
+        "code": "$this->lng->txt(self::TAB_SETTINGS)",
+        "has_variable": true,
+        "variable": "TAB_SETTINGS"
+    },
+    {
+        "id": 24658,
+        "file": "components\/ILIAS\/LearningSequence\/classes\/class.ilObjLearningSequenceGUI.php",
+        "line": 771,
+        "code": "$this->lng->txt(\"meta_data\")",
+        "has_variable": false,
+        "variable": "meta_data"
+    },
+    {
+        "id": 24660,
+        "file": "components\/ILIAS\/LearningSequence\/classes\/class.ilObjLearningSequenceGUI.php",
+        "line": 791,
+        "code": "$this->lng->txt(self::TAB_MEMBERS)",
+        "has_variable": true,
+        "variable": "TAB_MEMBERS"
+    },
+    {
+        "id": 24662,
+        "file": "components\/ILIAS\/LearningSequence\/classes\/class.ilObjLearningSequenceGUI.php",
+        "line": 800,
+        "code": "$this->lng->txt(self::TAB_LP)",
+        "has_variable": true,
+        "variable": "TAB_LP"
+    },
+    {
+        "id": 24664,
+        "file": "components\/ILIAS\/LearningSequence\/classes\/class.ilObjLearningSequenceGUI.php",
+        "line": 808,
+        "code": "$this->lng->txt(self::TAB_EXPORT)",
+        "has_variable": true,
+        "variable": "TAB_EXPORT"
+    },
+    {
+        "id": 24666,
+        "file": "components\/ILIAS\/LearningSequence\/classes\/class.ilObjLearningSequenceGUI.php",
+        "line": 816,
+        "code": "$this->lng->txt(self::TAB_PERMISSIONS)",
+        "has_variable": true,
+        "variable": "TAB_PERMISSIONS"
+    },
+    {
+        "id": 24668,
+        "file": "components\/ILIAS\/LearningSequence\/classes\/class.ilObjLearningSequenceGUI.php",
+        "line": 826,
+        "code": "$this->lng->txt(self::TAB_VIEW_CONTENT)",
+        "has_variable": true,
+        "variable": "TAB_VIEW_CONTENT"
+    },
+    {
+        "id": 24670,
+        "file": "components\/ILIAS\/LearningSequence\/classes\/class.ilObjLearningSequenceGUI.php",
+        "line": 833,
+        "code": "$this->lng->txt(self::TAB_MANAGE)",
+        "has_variable": true,
+        "variable": "TAB_MANAGE"
+    },
+    {
+        "id": 24672,
+        "file": "components\/ILIAS\/LearningSequence\/classes\/class.ilObjLearningSequenceGUI.php",
+        "line": 839,
+        "code": "$this->lng->txt(\"lso_settings_intro\")",
+        "has_variable": false,
+        "variable": "lso_settings_intro"
+    },
+    {
+        "id": 24674,
+        "file": "components\/ILIAS\/LearningSequence\/classes\/class.ilObjLearningSequenceGUI.php",
+        "line": 847,
+        "code": "$this->lng->txt(\"lso_settings_extro\")",
+        "has_variable": false,
+        "variable": "lso_settings_extro"
+    },
+    {
+        "id": 24676,
+        "file": "components\/ILIAS\/LearningSequence\/classes\/class.ilObjLearningSequenceGUI.php",
+        "line": 905,
+        "code": "$this->lng->txt('lso_mail_permanent_link')",
+        "has_variable": false,
+        "variable": "lso_mail_permanent_link"
+    }
+]

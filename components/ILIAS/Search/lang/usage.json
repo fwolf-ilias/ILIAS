@@ -1,0 +1,1386 @@
+[
+    {
+        "id": 33488,
+        "file": "components\/ILIAS\/Search\/classes\/Form\/class.ilLuceneQueryInputGUI.php",
+        "line": 48,
+        "code": "$this->lng->txt($e->getMessage())",
+        "has_variable": true,
+        "variable": "$e->getMessage()"
+    },
+    {
+        "id": 33490,
+        "file": "components\/ILIAS\/Search\/classes\/GUI\/Direct\/SearcherImpl.php",
+        "line": 145,
+        "code": "$this->lng->txt('search_no_match_hint')",
+        "has_variable": false,
+        "variable": "search_no_match_hint"
+    },
+    {
+        "id": 33492,
+        "file": "components\/ILIAS\/Search\/classes\/GUI\/Direct\/SearcherImpl.php",
+        "line": 152,
+        "code": "$this->lng->txt('search_no_match')",
+        "has_variable": false,
+        "variable": "search_no_match"
+    },
+    {
+        "id": 33494,
+        "file": "components\/ILIAS\/Search\/classes\/GUI\/Lucene\/SearcherImpl.php",
+        "line": 141,
+        "code": "$this->lng->txt('search_no_match')",
+        "has_variable": false,
+        "variable": "search_no_match"
+    },
+    {
+        "id": 33496,
+        "file": "components\/ILIAS\/Search\/classes\/GUI\/Lucene\/SearcherImpl.php",
+        "line": 184,
+        "code": "$this->lng->txt('search_no_match_hint')",
+        "has_variable": false,
+        "variable": "search_no_match_hint"
+    },
+    {
+        "id": 33498,
+        "file": "components\/ILIAS\/Search\/classes\/GUI\/Lucene\/SearcherImpl.php",
+        "line": 191,
+        "code": "$this->lng->txt('search_no_match')",
+        "has_variable": false,
+        "variable": "search_no_match"
+    },
+    {
+        "id": 33500,
+        "file": "components\/ILIAS\/Search\/classes\/GUI\/class.ilSearchGUI.php",
+        "line": 240,
+        "code": "$this->lng->txt(\"search_field\")",
+        "has_variable": false,
+        "variable": "search_field"
+    },
+    {
+        "id": 33502,
+        "file": "components\/ILIAS\/Search\/classes\/GUI\/class.ilSearchGUI.php",
+        "line": 264,
+        "code": "$this->lng->txt('search_tab_content')",
+        "has_variable": false,
+        "variable": "search_tab_content"
+    },
+    {
+        "id": 33504,
+        "file": "components\/ILIAS\/Search\/classes\/GUI\/class.ilSearchGUI.php",
+        "line": 288,
+        "code": "$this->lng->txt(\"search\")",
+        "has_variable": false,
+        "variable": "search"
+    },
+    {
+        "id": 33506,
+        "file": "components\/ILIAS\/Search\/classes\/Lucene\/class.ilLuceneIndexer.php",
+        "line": 40,
+        "code": "$this->lng->txt(\"cron_lucene_index\")",
+        "has_variable": false,
+        "variable": "cron_lucene_index"
+    },
+    {
+        "id": 33508,
+        "file": "components\/ILIAS\/Search\/classes\/Lucene\/class.ilLuceneIndexer.php",
+        "line": 45,
+        "code": "$this->lng->txt(\"cron_lucene_index_info\")",
+        "has_variable": false,
+        "variable": "cron_lucene_index_info"
+    },
+    {
+        "id": 33510,
+        "file": "components\/ILIAS\/Search\/classes\/Lucene\/class.ilLuceneUserSearchGUI.php",
+        "line": 106,
+        "code": "$this->lng->txt(\"search\")",
+        "has_variable": false,
+        "variable": "search"
+    },
+    {
+        "id": 33512,
+        "file": "components\/ILIAS\/Search\/classes\/Lucene\/class.ilLuceneUserSearchGUI.php",
+        "line": 218,
+        "code": "$this->lng->txt(\"search\")",
+        "has_variable": false,
+        "variable": "search"
+    },
+    {
+        "id": 33514,
+        "file": "components\/ILIAS\/Search\/classes\/ObjGUI\/Readme\/Helper.php",
+        "line": 42,
+        "code": "$this->lng->txt('search_server_further_information')",
+        "has_variable": false,
+        "variable": "search_server_further_information"
+    },
+    {
+        "id": 33516,
+        "file": "components\/ILIAS\/Search\/classes\/ObjGUI\/Readme\/Helper.php",
+        "line": 49,
+        "code": "$this->lng->txt('search_server_further_information')",
+        "has_variable": false,
+        "variable": "search_server_further_information"
+    },
+    {
+        "id": 33518,
+        "file": "components\/ILIAS\/Search\/classes\/ObjGUI\/Readme\/Helper.php",
+        "line": 60,
+        "code": "$this->lng->txt('search_readme_file')",
+        "has_variable": false,
+        "variable": "search_readme_file"
+    },
+    {
+        "id": 33520,
+        "file": "components\/ILIAS\/Search\/classes\/ObjGUI\/class.ilObjSearchLuceneSettingsFormGUI.php",
+        "line": 114,
+        "code": "$this->lng->txt('err_check_input')",
+        "has_variable": false,
+        "variable": "err_check_input"
+    },
+    {
+        "id": 33522,
+        "file": "components\/ILIAS\/Search\/classes\/ObjGUI\/class.ilObjSearchLuceneSettingsFormGUI.php",
+        "line": 143,
+        "code": "$this->lng->txt('settings_saved')",
+        "has_variable": false,
+        "variable": "settings_saved"
+    },
+    {
+        "id": 33524,
+        "file": "components\/ILIAS\/Search\/classes\/ObjGUI\/class.ilObjSearchLuceneSettingsFormGUI.php",
+        "line": 153,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 33526,
+        "file": "components\/ILIAS\/Search\/classes\/ObjGUI\/class.ilObjSearchLuceneSettingsFormGUI.php",
+        "line": 164,
+        "code": "$this->lng->txt('search_user_search_form')",
+        "has_variable": false,
+        "variable": "search_user_search_form"
+    },
+    {
+        "id": 33528,
+        "file": "components\/ILIAS\/Search\/classes\/ObjGUI\/class.ilObjSearchLuceneSettingsFormGUI.php",
+        "line": 165,
+        "code": "$this->lng->txt('search_user_search_info_form')",
+        "has_variable": false,
+        "variable": "search_user_search_info_form"
+    },
+    {
+        "id": 33530,
+        "file": "components\/ILIAS\/Search\/classes\/ObjGUI\/class.ilObjSearchLuceneSettingsFormGUI.php",
+        "line": 173,
+        "code": "$this->lng->txt($def['trans'])",
+        "has_variable": true,
+        "variable": "\\$def"
+    },
+    {
+        "id": 33532,
+        "file": "components\/ILIAS\/Search\/classes\/ObjGUI\/class.ilObjSearchLuceneSettingsFormGUI.php",
+        "line": 179,
+        "code": "$this->lng->txt('search_mime_filter_form')",
+        "has_variable": false,
+        "variable": "search_mime_filter_form"
+    },
+    {
+        "id": 33534,
+        "file": "components\/ILIAS\/Search\/classes\/ObjGUI\/class.ilObjSearchLuceneSettingsFormGUI.php",
+        "line": 180,
+        "code": "$this->lng->txt('search_mime_filter_form_info')",
+        "has_variable": false,
+        "variable": "search_mime_filter_form_info"
+    },
+    {
+        "id": 33536,
+        "file": "components\/ILIAS\/Search\/classes\/ObjGUI\/class.ilObjSearchLuceneSettingsFormGUI.php",
+        "line": 188,
+        "code": "$this->lng->txt('lucene_prefix_wildcard')",
+        "has_variable": false,
+        "variable": "lucene_prefix_wildcard"
+    },
+    {
+        "id": 33538,
+        "file": "components\/ILIAS\/Search\/classes\/ObjGUI\/class.ilObjSearchLuceneSettingsFormGUI.php",
+        "line": 189,
+        "code": "$this->lng->txt('lucene_prefix_wildcard_info')",
+        "has_variable": false,
+        "variable": "lucene_prefix_wildcard_info"
+    },
+    {
+        "id": 33540,
+        "file": "components\/ILIAS\/Search\/classes\/ObjGUI\/class.ilObjSearchLuceneSettingsFormGUI.php",
+        "line": 194,
+        "code": "$this->lng->txt('lucene_num_fragments')",
+        "has_variable": false,
+        "variable": "lucene_num_fragments"
+    },
+    {
+        "id": 33542,
+        "file": "components\/ILIAS\/Search\/classes\/ObjGUI\/class.ilObjSearchLuceneSettingsFormGUI.php",
+        "line": 195,
+        "code": "$this->lng->txt('lucene_num_frag_info')",
+        "has_variable": false,
+        "variable": "lucene_num_frag_info"
+    },
+    {
+        "id": 33544,
+        "file": "components\/ILIAS\/Search\/classes\/ObjGUI\/class.ilObjSearchLuceneSettingsFormGUI.php",
+        "line": 206,
+        "code": "$this->lng->txt('lucene_size_fragments')",
+        "has_variable": false,
+        "variable": "lucene_size_fragments"
+    },
+    {
+        "id": 33546,
+        "file": "components\/ILIAS\/Search\/classes\/ObjGUI\/class.ilObjSearchLuceneSettingsFormGUI.php",
+        "line": 207,
+        "code": "$this->lng->txt('lucene_size_frag_info')",
+        "has_variable": false,
+        "variable": "lucene_size_frag_info"
+    },
+    {
+        "id": 33548,
+        "file": "components\/ILIAS\/Search\/classes\/ObjGUI\/class.ilObjSearchLuceneSettingsFormGUI.php",
+        "line": 223,
+        "code": "$this->lng->txt('lucene_last_index_time')",
+        "has_variable": false,
+        "variable": "lucene_last_index_time"
+    },
+    {
+        "id": 33550,
+        "file": "components\/ILIAS\/Search\/classes\/ObjGUI\/class.ilObjSearchLuceneSettingsFormGUI.php",
+        "line": 224,
+        "code": "$this->lng->txt('lucene_last_index_time_info')",
+        "has_variable": false,
+        "variable": "lucene_last_index_time_info"
+    },
+    {
+        "id": 33552,
+        "file": "components\/ILIAS\/Search\/classes\/ObjGUI\/class.ilObjSearchLuceneSettingsFormGUI.php",
+        "line": 238,
+        "code": "$this->lng->txt('lucene_settings_title')",
+        "has_variable": false,
+        "variable": "lucene_settings_title"
+    },
+    {
+        "id": 33554,
+        "file": "components\/ILIAS\/Search\/classes\/ObjGUI\/class.ilObjSearchLuceneSettingsFormGUI.php",
+        "line": 246,
+        "code": "$this->lng->txt('lucene_settings_text_section')",
+        "has_variable": false,
+        "variable": "lucene_settings_text_section"
+    },
+    {
+        "id": 33556,
+        "file": "components\/ILIAS\/Search\/classes\/ObjGUI\/class.ilObjSearchLuceneSettingsFormGUI.php",
+        "line": 253,
+        "code": "$this->lng->txt('lucene_settings_index_section')",
+        "has_variable": false,
+        "variable": "lucene_settings_index_section"
+    },
+    {
+        "id": 33558,
+        "file": "components\/ILIAS\/Search\/classes\/ObjGUI\/class.ilObjSearchSettingsFormGUI.php",
+        "line": 114,
+        "code": "$this->lng->txt('err_check_input')",
+        "has_variable": false,
+        "variable": "err_check_input"
+    },
+    {
+        "id": 33560,
+        "file": "components\/ILIAS\/Search\/classes\/ObjGUI\/class.ilObjSearchSettingsFormGUI.php",
+        "line": 151,
+        "code": "$this->lng->txt('settings_saved')",
+        "has_variable": false,
+        "variable": "settings_saved"
+    },
+    {
+        "id": 33562,
+        "file": "components\/ILIAS\/Search\/classes\/ObjGUI\/class.ilObjSearchSettingsFormGUI.php",
+        "line": 160,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 33564,
+        "file": "components\/ILIAS\/Search\/classes\/ObjGUI\/class.ilObjSearchSettingsFormGUI.php",
+        "line": 175,
+        "code": "$this->lng->txt('seas_max_hits')",
+        "has_variable": false,
+        "variable": "seas_max_hits"
+    },
+    {
+        "id": 33566,
+        "file": "components\/ILIAS\/Search\/classes\/ObjGUI\/class.ilObjSearchSettingsFormGUI.php",
+        "line": 177,
+        "code": "$this->lng->txt('seas_max_hits_info')",
+        "has_variable": false,
+        "variable": "seas_max_hits_info"
+    },
+    {
+        "id": 33568,
+        "file": "components\/ILIAS\/Search\/classes\/ObjGUI\/class.ilObjSearchSettingsFormGUI.php",
+        "line": 183,
+        "code": "$this->lng->txt('seas_search_type')",
+        "has_variable": false,
+        "variable": "seas_search_type"
+    },
+    {
+        "id": 33570,
+        "file": "components\/ILIAS\/Search\/classes\/ObjGUI\/class.ilObjSearchSettingsFormGUI.php",
+        "line": 186,
+        "code": "$this->lng->txt('search_direct')",
+        "has_variable": false,
+        "variable": "search_direct"
+    },
+    {
+        "id": 33572,
+        "file": "components\/ILIAS\/Search\/classes\/ObjGUI\/class.ilObjSearchSettingsFormGUI.php",
+        "line": 187,
+        "code": "$this->lng->txt('search_like_info')",
+        "has_variable": false,
+        "variable": "search_like_info"
+    },
+    {
+        "id": 33574,
+        "file": "components\/ILIAS\/Search\/classes\/ObjGUI\/class.ilObjSearchSettingsFormGUI.php",
+        "line": 190,
+        "code": "$this->lng->txt('search_lucene')",
+        "has_variable": false,
+        "variable": "search_lucene"
+    },
+    {
+        "id": 33576,
+        "file": "components\/ILIAS\/Search\/classes\/ObjGUI\/class.ilObjSearchSettingsFormGUI.php",
+        "line": 191,
+        "code": "$this->lng->txt('java_server_info')",
+        "has_variable": false,
+        "variable": "java_server_info"
+    },
+    {
+        "id": 33578,
+        "file": "components\/ILIAS\/Search\/classes\/ObjGUI\/class.ilObjSearchSettingsFormGUI.php",
+        "line": 202,
+        "code": "$this->lng->txt('lucene_default_operator')",
+        "has_variable": false,
+        "variable": "lucene_default_operator"
+    },
+    {
+        "id": 33580,
+        "file": "components\/ILIAS\/Search\/classes\/ObjGUI\/class.ilObjSearchSettingsFormGUI.php",
+        "line": 203,
+        "code": "$this->lng->txt('lucene_default_operator_info')",
+        "has_variable": false,
+        "variable": "lucene_default_operator_info"
+    },
+    {
+        "id": 33582,
+        "file": "components\/ILIAS\/Search\/classes\/ObjGUI\/class.ilObjSearchSettingsFormGUI.php",
+        "line": 206,
+        "code": "$this->lng->txt('lucene_and')",
+        "has_variable": false,
+        "variable": "lucene_and"
+    },
+    {
+        "id": 33584,
+        "file": "components\/ILIAS\/Search\/classes\/ObjGUI\/class.ilObjSearchSettingsFormGUI.php",
+        "line": 209,
+        "code": "$this->lng->txt('lucene_or')",
+        "has_variable": false,
+        "variable": "lucene_or"
+    },
+    {
+        "id": 33586,
+        "file": "components\/ILIAS\/Search\/classes\/ObjGUI\/class.ilObjSearchSettingsFormGUI.php",
+        "line": 218,
+        "code": "$this->lng->txt($def['trans'])",
+        "has_variable": true,
+        "variable": "\\$def"
+    },
+    {
+        "id": 33588,
+        "file": "components\/ILIAS\/Search\/classes\/ObjGUI\/class.ilObjSearchSettingsFormGUI.php",
+        "line": 224,
+        "code": "$this->lng->txt('search_item_filter_form')",
+        "has_variable": false,
+        "variable": "search_item_filter_form"
+    },
+    {
+        "id": 33590,
+        "file": "components\/ILIAS\/Search\/classes\/ObjGUI\/class.ilObjSearchSettingsFormGUI.php",
+        "line": 225,
+        "code": "$this->lng->txt('search_item_filter_form_info')",
+        "has_variable": false,
+        "variable": "search_item_filter_form_info"
+    },
+    {
+        "id": 33592,
+        "file": "components\/ILIAS\/Search\/classes\/ObjGUI\/class.ilObjSearchSettingsFormGUI.php",
+        "line": 233,
+        "code": "$this->lng->txt('search_cdate_filter')",
+        "has_variable": false,
+        "variable": "search_cdate_filter"
+    },
+    {
+        "id": 33594,
+        "file": "components\/ILIAS\/Search\/classes\/ObjGUI\/class.ilObjSearchSettingsFormGUI.php",
+        "line": 234,
+        "code": "$this->lng->txt('search_cdate_filter_info')",
+        "has_variable": false,
+        "variable": "search_cdate_filter_info"
+    },
+    {
+        "id": 33596,
+        "file": "components\/ILIAS\/Search\/classes\/ObjGUI\/class.ilObjSearchSettingsFormGUI.php",
+        "line": 246,
+        "code": "$this->lng->txt('search_auto_complete_length')",
+        "has_variable": false,
+        "variable": "search_auto_complete_length"
+    },
+    {
+        "id": 33598,
+        "file": "components\/ILIAS\/Search\/classes\/ObjGUI\/class.ilObjSearchSettingsFormGUI.php",
+        "line": 248,
+        "code": "$this->lng->txt('search_auto_complete_length_info')",
+        "has_variable": false,
+        "variable": "search_auto_complete_length_info"
+    },
+    {
+        "id": 33600,
+        "file": "components\/ILIAS\/Search\/classes\/ObjGUI\/class.ilObjSearchSettingsFormGUI.php",
+        "line": 253,
+        "code": "$this->lng->txt('search_show_inactive_user')",
+        "has_variable": false,
+        "variable": "search_show_inactive_user"
+    },
+    {
+        "id": 33602,
+        "file": "components\/ILIAS\/Search\/classes\/ObjGUI\/class.ilObjSearchSettingsFormGUI.php",
+        "line": 254,
+        "code": "$this->lng->txt('search_show_inactive_user_info')",
+        "has_variable": false,
+        "variable": "search_show_inactive_user_info"
+    },
+    {
+        "id": 33604,
+        "file": "components\/ILIAS\/Search\/classes\/ObjGUI\/class.ilObjSearchSettingsFormGUI.php",
+        "line": 259,
+        "code": "$this->lng->txt('search_show_limited_user')",
+        "has_variable": false,
+        "variable": "search_show_limited_user"
+    },
+    {
+        "id": 33606,
+        "file": "components\/ILIAS\/Search\/classes\/ObjGUI\/class.ilObjSearchSettingsFormGUI.php",
+        "line": 260,
+        "code": "$this->lng->txt('search_show_limited_user_info')",
+        "has_variable": false,
+        "variable": "search_show_limited_user_info"
+    },
+    {
+        "id": 33608,
+        "file": "components\/ILIAS\/Search\/classes\/ObjGUI\/class.ilObjSearchSettingsFormGUI.php",
+        "line": 269,
+        "code": "$this->lng->txt('seas_settings')",
+        "has_variable": false,
+        "variable": "seas_settings"
+    },
+    {
+        "id": 33610,
+        "file": "components\/ILIAS\/Search\/classes\/ObjGUI\/class.ilObjSearchSettingsFormGUI.php",
+        "line": 277,
+        "code": "$this->lng->txt('search_filter_settings_section')",
+        "has_variable": false,
+        "variable": "search_filter_settings_section"
+    },
+    {
+        "id": 33612,
+        "file": "components\/ILIAS\/Search\/classes\/ObjGUI\/class.ilObjSearchSettingsFormGUI.php",
+        "line": 286,
+        "code": "$this->lng->txt('user_search_settings_section')",
+        "has_variable": false,
+        "variable": "user_search_settings_section"
+    },
+    {
+        "id": 33614,
+        "file": "components\/ILIAS\/Search\/classes\/ObjGUI\/class.ilObjSearchSettingsGUI.php",
+        "line": 136,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 33616,
+        "file": "components\/ILIAS\/Search\/classes\/ObjGUI\/class.ilObjSearchSettingsGUI.php",
+        "line": 157,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 33618,
+        "file": "components\/ILIAS\/Search\/classes\/ObjGUI\/class.ilObjSearchSettingsGUI.php",
+        "line": 185,
+        "code": "$this->lng->txt('settings')",
+        "has_variable": false,
+        "variable": "settings"
+    },
+    {
+        "id": 33620,
+        "file": "components\/ILIAS\/Search\/classes\/ObjGUI\/class.ilObjSearchSettingsGUI.php",
+        "line": 193,
+        "code": "$this->lng->txt('lucene_settings_tab')",
+        "has_variable": false,
+        "variable": "lucene_settings_tab"
+    },
+    {
+        "id": 33622,
+        "file": "components\/ILIAS\/Search\/classes\/ObjGUI\/class.ilObjSearchSettingsGUI.php",
+        "line": 201,
+        "code": "$this->lng->txt('perm_settings')",
+        "has_variable": false,
+        "variable": "perm_settings"
+    },
+    {
+        "id": 33624,
+        "file": "components\/ILIAS\/Search\/classes\/Presentation\/Result\/Object\/PropertiesAggregatorImpl.php",
+        "line": 83,
+        "code": "$this->lng->txt('obj_' . $type)",
+        "has_variable": true,
+        "variable": "'obj_' . $type"
+    },
+    {
+        "id": 33626,
+        "file": "components\/ILIAS\/Search\/classes\/Presentation\/Result\/UI\/ComponentFactoryImpl.php",
+        "line": 71,
+        "code": "$this->lng->txt(\"search_results\")",
+        "has_variable": false,
+        "variable": "search_results"
+    },
+    {
+        "id": 33628,
+        "file": "components\/ILIAS\/Search\/classes\/Presentation\/Result\/UI\/ComponentFactoryImpl.php",
+        "line": 97,
+        "code": "$this->lng->txt('search_sort_relevance')",
+        "has_variable": false,
+        "variable": "search_sort_relevance"
+    },
+    {
+        "id": 33630,
+        "file": "components\/ILIAS\/Search\/classes\/Presentation\/Result\/UI\/ComponentFactoryImpl.php",
+        "line": 98,
+        "code": "$this->lng->txt('search_sort_title_asc')",
+        "has_variable": false,
+        "variable": "search_sort_title_asc"
+    },
+    {
+        "id": 33632,
+        "file": "components\/ILIAS\/Search\/classes\/Presentation\/Result\/UI\/ComponentFactoryImpl.php",
+        "line": 99,
+        "code": "$this->lng->txt('search_sort_title_desc')",
+        "has_variable": false,
+        "variable": "search_sort_title_desc"
+    },
+    {
+        "id": 33634,
+        "file": "components\/ILIAS\/Search\/classes\/Presentation\/Result\/UI\/ComponentFactoryImpl.php",
+        "line": 100,
+        "code": "$this->lng->txt('search_sort_creation_date_desc')",
+        "has_variable": false,
+        "variable": "search_sort_creation_date_desc"
+    },
+    {
+        "id": 33636,
+        "file": "components\/ILIAS\/Search\/classes\/Presentation\/Result\/UI\/ComponentFactoryImpl.php",
+        "line": 101,
+        "code": "$this->lng->txt('search_sort_creation_date_asc')",
+        "has_variable": false,
+        "variable": "search_sort_creation_date_asc"
+    },
+    {
+        "id": 33638,
+        "file": "components\/ILIAS\/Search\/classes\/Presentation\/Result\/UI\/ComponentFactoryImpl.php",
+        "line": 106,
+        "code": "$this->lng->txt('search_sort_by')",
+        "has_variable": false,
+        "variable": "search_sort_by"
+    },
+    {
+        "id": 33640,
+        "file": "components\/ILIAS\/Search\/classes\/Presentation\/Result\/UI\/ComponentFactoryImpl.php",
+        "line": 121,
+        "code": "$this->lng->txt('search_results_too_many_subitems')",
+        "has_variable": false,
+        "variable": "search_results_too_many_subitems"
+    },
+    {
+        "id": 33642,
+        "file": "components\/ILIAS\/Search\/classes\/Presentation\/Result\/UI\/ComponentFactoryImpl.php",
+        "line": 125,
+        "code": "$this->lng->txt('search_detailed_results_title')",
+        "has_variable": false,
+        "variable": "search_detailed_results_title"
+    },
+    {
+        "id": 33644,
+        "file": "components\/ILIAS\/Search\/classes\/Presentation\/Result\/UI\/ComponentFactoryImpl.php",
+        "line": 160,
+        "code": "$this->lng->txt('path')",
+        "has_variable": false,
+        "variable": "path"
+    },
+    {
+        "id": 33646,
+        "file": "components\/ILIAS\/Search\/classes\/Presentation\/Result\/UI\/ComponentFactoryImpl.php",
+        "line": 161,
+        "code": "$this->lng->txt('create_date')",
+        "has_variable": false,
+        "variable": "create_date"
+    },
+    {
+        "id": 33648,
+        "file": "components\/ILIAS\/Search\/classes\/Presentation\/Result\/UI\/ComponentFactoryImpl.php",
+        "line": 164,
+        "code": "$this->lng->txt('search_copyright')",
+        "has_variable": false,
+        "variable": "search_copyright"
+    },
+    {
+        "id": 33650,
+        "file": "components\/ILIAS\/Search\/classes\/Presentation\/Result\/UI\/ComponentFactoryImpl.php",
+        "line": 170,
+        "code": "$this->lng->txt('description')",
+        "has_variable": false,
+        "variable": "description"
+    },
+    {
+        "id": 33652,
+        "file": "components\/ILIAS\/Search\/classes\/Presentation\/Result\/UI\/ComponentFactoryImpl.php",
+        "line": 177,
+        "code": "$this->lng->txt('search_results_show_subitems')",
+        "has_variable": false,
+        "variable": "search_results_show_subitems"
+    },
+    {
+        "id": 33654,
+        "file": "components\/ILIAS\/Search\/classes\/Presentation\/Result\/UI\/ComponentFactoryImpl.php",
+        "line": 208,
+        "code": "$this->lng->txt('type')",
+        "has_variable": false,
+        "variable": "type"
+    },
+    {
+        "id": 33656,
+        "file": "components\/ILIAS\/Search\/classes\/Presentation\/Result\/UI\/ComponentFactoryImpl.php",
+        "line": 210,
+        "code": "$this->lng->txt('search_copyright')",
+        "has_variable": false,
+        "variable": "search_copyright"
+    },
+    {
+        "id": 33658,
+        "file": "components\/ILIAS\/Search\/classes\/Presentation\/Result\/UI\/ComponentFactoryImpl.php",
+        "line": 219,
+        "code": "$this->lng->txt('search_no_further_match')",
+        "has_variable": false,
+        "variable": "search_no_further_match"
+    },
+    {
+        "id": 33660,
+        "file": "components\/ILIAS\/Search\/classes\/class.ilMainMenuSearchGUI.php",
+        "line": 84,
+        "code": "$this->lng->txt(\"label_search_options\")",
+        "has_variable": false,
+        "variable": "label_search_options"
+    },
+    {
+        "id": 33662,
+        "file": "components\/ILIAS\/Search\/classes\/class.ilMainMenuSearchGUI.php",
+        "line": 87,
+        "code": "$this->lng->txt(\"search_globally\")",
+        "has_variable": false,
+        "variable": "search_globally"
+    },
+    {
+        "id": 33664,
+        "file": "components\/ILIAS\/Search\/classes\/class.ilMainMenuSearchGUI.php",
+        "line": 97,
+        "code": "$this->lng->txt(\"search_at_current_position\")",
+        "has_variable": false,
+        "variable": "search_at_current_position"
+    },
+    {
+        "id": 33666,
+        "file": "components\/ILIAS\/Search\/classes\/class.ilMainMenuSearchGUI.php",
+        "line": 105,
+        "code": "$this->lng->txt('search_users')",
+        "has_variable": false,
+        "variable": "search_users"
+    },
+    {
+        "id": 33668,
+        "file": "components\/ILIAS\/Search\/classes\/class.ilMainMenuSearchGUI.php",
+        "line": 113,
+        "code": "$this->lng->txt('btn_search')",
+        "has_variable": false,
+        "variable": "btn_search"
+    },
+    {
+        "id": 33670,
+        "file": "components\/ILIAS\/Search\/classes\/class.ilMainMenuSearchGUI.php",
+        "line": 114,
+        "code": "$this->lng->txt('search_field')",
+        "has_variable": false,
+        "variable": "search_field"
+    },
+    {
+        "id": 33672,
+        "file": "components\/ILIAS\/Search\/classes\/class.ilMainMenuSearchGUI.php",
+        "line": 118,
+        "code": "$this->lng->txt(\"search\")",
+        "has_variable": false,
+        "variable": "search"
+    },
+    {
+        "id": 33674,
+        "file": "components\/ILIAS\/Search\/classes\/class.ilMainMenuSearchGUI.php",
+        "line": 126,
+        "code": "$this->lng->txt(\"last_search_result\")",
+        "has_variable": false,
+        "variable": "last_search_result"
+    },
+    {
+        "id": 33676,
+        "file": "components\/ILIAS\/Search\/classes\/class.ilQueryParser.php",
+        "line": 188,
+        "code": "$this->lng->txt('search_minimum_info')",
+        "has_variable": false,
+        "variable": "search_minimum_info"
+    },
+    {
+        "id": 33678,
+        "file": "components\/ILIAS\/Search\/classes\/class.ilQueryParser.php",
+        "line": 261,
+        "code": "$this->lng->txt('msg_no_search_string')",
+        "has_variable": false,
+        "variable": "msg_no_search_string"
+    },
+    {
+        "id": 33680,
+        "file": "components\/ILIAS\/Search\/classes\/class.ilQueryParser.php",
+        "line": 266,
+        "code": "$this->lng->txt('search_minimum_info')",
+        "has_variable": false,
+        "variable": "search_minimum_info"
+    },
+    {
+        "id": 33682,
+        "file": "components\/ILIAS\/Search\/classes\/class.ilRepositoryObjectResultTableGUI.php",
+        "line": 47,
+        "code": "$this->lng->txt(\"title\")",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 33684,
+        "file": "components\/ILIAS\/Search\/classes\/class.ilRepositoryObjectResultTableGUI.php",
+        "line": 48,
+        "code": "$this->lng->txt(\"members\")",
+        "has_variable": false,
+        "variable": "members"
+    },
+    {
+        "id": 33686,
+        "file": "components\/ILIAS\/Search\/classes\/class.ilRepositoryObjectResultTableGUI.php",
+        "line": 52,
+        "code": "$this->lng->txt('search_results')",
+        "has_variable": false,
+        "variable": "search_results"
+    },
+    {
+        "id": 33688,
+        "file": "components\/ILIAS\/Search\/classes\/class.ilRepositoryObjectResultTableGUI.php",
+        "line": 63,
+        "code": "$this->lng->txt('add_member_role')",
+        "has_variable": false,
+        "variable": "add_member_role"
+    },
+    {
+        "id": 33690,
+        "file": "components\/ILIAS\/Search\/classes\/class.ilRepositoryObjectResultTableGUI.php",
+        "line": 65,
+        "code": "$this->lng->txt('grp_list_members')",
+        "has_variable": false,
+        "variable": "grp_list_members"
+    },
+    {
+        "id": 33692,
+        "file": "components\/ILIAS\/Search\/classes\/class.ilRepositoryObjectResultTableGUI.php",
+        "line": 70,
+        "code": "$this->lng->txt('add_role')",
+        "has_variable": false,
+        "variable": "add_role"
+    },
+    {
+        "id": 33694,
+        "file": "components\/ILIAS\/Search\/classes\/class.ilRepositoryObjectResultTableGUI.php",
+        "line": 72,
+        "code": "$this->lng->txt('grp_list_users')",
+        "has_variable": false,
+        "variable": "grp_list_users"
+    },
+    {
+        "id": 33696,
+        "file": "components\/ILIAS\/Search\/classes\/class.ilRepositoryObjectResultTableGUI.php",
+        "line": 77,
+        "code": "$this->lng->txt('grp_select_object')",
+        "has_variable": false,
+        "variable": "grp_select_object"
+    },
+    {
+        "id": 33698,
+        "file": "components\/ILIAS\/Search\/classes\/class.ilRepositoryObjectSearchBlockGUI.php",
+        "line": 99,
+        "code": "$this->lng->txt('search_field')",
+        "has_variable": false,
+        "variable": "search_field"
+    },
+    {
+        "id": 33700,
+        "file": "components\/ILIAS\/Search\/classes\/class.ilRepositoryObjectSearchBlockGUI.php",
+        "line": 100,
+        "code": "$this->lng->txt('search_field_perform')",
+        "has_variable": false,
+        "variable": "search_field_perform"
+    },
+    {
+        "id": 33702,
+        "file": "components\/ILIAS\/Search\/classes\/class.ilRepositoryObjectSearchBlockGUI.php",
+        "line": 101,
+        "code": "$this->lng->txt('btn_search')",
+        "has_variable": false,
+        "variable": "btn_search"
+    },
+    {
+        "id": 33704,
+        "file": "components\/ILIAS\/Search\/classes\/class.ilRepositoryObjectSearchGUI.php",
+        "line": 88,
+        "code": "$this->lng->txt(\"permission_denied\")",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 33706,
+        "file": "components\/ILIAS\/Search\/classes\/class.ilRepositoryObjectSearchResultTableGUI.php",
+        "line": 73,
+        "code": "$this->lng->txt('search_results')",
+        "has_variable": false,
+        "variable": "search_results"
+    },
+    {
+        "id": 33708,
+        "file": "components\/ILIAS\/Search\/classes\/class.ilRepositoryObjectSearchResultTableGUI.php",
+        "line": 79,
+        "code": "$this->lng->txt(\"title\")",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 33710,
+        "file": "components\/ILIAS\/Search\/classes\/class.ilRepositorySearchGUI.php",
+        "line": 101,
+        "code": "$this->lng->txt('add_members_header')",
+        "has_variable": false,
+        "variable": "add_members_header"
+    },
+    {
+        "id": 33712,
+        "file": "components\/ILIAS\/Search\/classes\/class.ilRepositorySearchGUI.php",
+        "line": 189,
+        "code": "$lng->txt('user')",
+        "has_variable": false,
+        "variable": "user"
+    },
+    {
+        "id": 33714,
+        "file": "components\/ILIAS\/Search\/classes\/class.ilRepositorySearchGUI.php",
+        "line": 192,
+        "code": "$lng->txt('add')",
+        "has_variable": false,
+        "variable": "add"
+    },
+    {
+        "id": 33716,
+        "file": "components\/ILIAS\/Search\/classes\/class.ilRepositorySearchGUI.php",
+        "line": 217,
+        "code": "$lng->txt('obj_user')",
+        "has_variable": false,
+        "variable": "obj_user"
+    },
+    {
+        "id": 33718,
+        "file": "components\/ILIAS\/Search\/classes\/class.ilRepositorySearchGUI.php",
+        "line": 223,
+        "code": "$lng->txt('btn_add')",
+        "has_variable": false,
+        "variable": "btn_add"
+    },
+    {
+        "id": 33720,
+        "file": "components\/ILIAS\/Search\/classes\/class.ilRepositorySearchGUI.php",
+        "line": 280,
+        "code": "$lng->txt('clipboard_add_from_btn')",
+        "has_variable": false,
+        "variable": "clipboard_add_from_btn"
+    },
+    {
+        "id": 33722,
+        "file": "components\/ILIAS\/Search\/classes\/class.ilRepositorySearchGUI.php",
+        "line": 294,
+        "code": "$lng->txt('search_users')",
+        "has_variable": false,
+        "variable": "search_users"
+    },
+    {
+        "id": 33724,
+        "file": "components\/ILIAS\/Search\/classes\/class.ilRepositorySearchGUI.php",
+        "line": 316,
+        "code": "$lng->txt('search_add_members_from_container_' . $parent_container_type)",
+        "has_variable": true,
+        "variable": "'search_add_members_from_container_' . $parent_container_type"
+    },
+    {
+        "id": 33726,
+        "file": "components\/ILIAS\/Search\/classes\/class.ilRepositorySearchGUI.php",
+        "line": 531,
+        "code": "$this->lng->txt('back')",
+        "has_variable": false,
+        "variable": "back"
+    },
+    {
+        "id": 33728,
+        "file": "components\/ILIAS\/Search\/classes\/class.ilRepositorySearchGUI.php",
+        "line": 562,
+        "code": "$this->lng->txt('select_one')",
+        "has_variable": false,
+        "variable": "select_one"
+    },
+    {
+        "id": 33730,
+        "file": "components\/ILIAS\/Search\/classes\/class.ilRepositorySearchGUI.php",
+        "line": 587,
+        "code": "$this->lng->txt('select_one')",
+        "has_variable": false,
+        "variable": "select_one"
+    },
+    {
+        "id": 33732,
+        "file": "components\/ILIAS\/Search\/classes\/class.ilRepositorySearchGUI.php",
+        "line": 595,
+        "code": "$this->lng->txt('settings_saved')",
+        "has_variable": false,
+        "variable": "settings_saved"
+    },
+    {
+        "id": 33734,
+        "file": "components\/ILIAS\/Search\/classes\/class.ilRepositorySearchGUI.php",
+        "line": 606,
+        "code": "$this->lng->txt('settings_saved')",
+        "has_variable": false,
+        "variable": "settings_saved"
+    },
+    {
+        "id": 33736,
+        "file": "components\/ILIAS\/Search\/classes\/class.ilRepositorySearchGUI.php",
+        "line": 704,
+        "code": "$this->lng->txt('search')",
+        "has_variable": false,
+        "variable": "search"
+    },
+    {
+        "id": 33738,
+        "file": "components\/ILIAS\/Search\/classes\/class.ilRepositorySearchGUI.php",
+        "line": 705,
+        "code": "$this->lng->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 33740,
+        "file": "components\/ILIAS\/Search\/classes\/class.ilRepositorySearchGUI.php",
+        "line": 708,
+        "code": "$this->lng->txt('search_type')",
+        "has_variable": false,
+        "variable": "search_type"
+    },
+    {
+        "id": 33742,
+        "file": "components\/ILIAS\/Search\/classes\/class.ilRepositorySearchGUI.php",
+        "line": 713,
+        "code": "$this->lng->txt('search_for_users')",
+        "has_variable": false,
+        "variable": "search_for_users"
+    },
+    {
+        "id": 33744,
+        "file": "components\/ILIAS\/Search\/classes\/class.ilRepositorySearchGUI.php",
+        "line": 783,
+        "code": "$this->lng->txt('search_for_role_members')",
+        "has_variable": false,
+        "variable": "search_for_role_members"
+    },
+    {
+        "id": 33746,
+        "file": "components\/ILIAS\/Search\/classes\/class.ilRepositorySearchGUI.php",
+        "line": 784,
+        "code": "$this->lng->txt('search_role_title')",
+        "has_variable": false,
+        "variable": "search_role_title"
+    },
+    {
+        "id": 33748,
+        "file": "components\/ILIAS\/Search\/classes\/class.ilRepositorySearchGUI.php",
+        "line": 791,
+        "code": "$this->lng->txt('search_for_crs_members')",
+        "has_variable": false,
+        "variable": "search_for_crs_members"
+    },
+    {
+        "id": 33750,
+        "file": "components\/ILIAS\/Search\/classes\/class.ilRepositorySearchGUI.php",
+        "line": 792,
+        "code": "$this->lng->txt('search_crs_title')",
+        "has_variable": false,
+        "variable": "search_crs_title"
+    },
+    {
+        "id": 33752,
+        "file": "components\/ILIAS\/Search\/classes\/class.ilRepositorySearchGUI.php",
+        "line": 799,
+        "code": "$this->lng->txt('search_for_grp_members')",
+        "has_variable": false,
+        "variable": "search_for_grp_members"
+    },
+    {
+        "id": 33754,
+        "file": "components\/ILIAS\/Search\/classes\/class.ilRepositorySearchGUI.php",
+        "line": 800,
+        "code": "$this->lng->txt('search_grp_title')",
+        "has_variable": false,
+        "variable": "search_grp_title"
+    },
+    {
+        "id": 33756,
+        "file": "components\/ILIAS\/Search\/classes\/class.ilRepositorySearchGUI.php",
+        "line": 808,
+        "code": "$this->lng->txt('search_for_orgu_members')",
+        "has_variable": false,
+        "variable": "search_for_orgu_members"
+    },
+    {
+        "id": 33758,
+        "file": "components\/ILIAS\/Search\/classes\/class.ilRepositorySearchGUI.php",
+        "line": 810,
+        "code": "$this->lng->txt('select_orgu')",
+        "has_variable": false,
+        "variable": "select_orgu"
+    },
+    {
+        "id": 33760,
+        "file": "components\/ILIAS\/Search\/classes\/class.ilRepositorySearchGUI.php",
+        "line": 859,
+        "code": "$this->lng->txt('msg_no_search_string')",
+        "has_variable": false,
+        "variable": "msg_no_search_string"
+    },
+    {
+        "id": 33762,
+        "file": "components\/ILIAS\/Search\/classes\/class.ilRepositorySearchGUI.php",
+        "line": 924,
+        "code": "$this->lng->txt('search_no_match')",
+        "has_variable": false,
+        "variable": "search_no_match"
+    },
+    {
+        "id": 33764,
+        "file": "components\/ILIAS\/Search\/classes\/class.ilRepositorySearchGUI.php",
+        "line": 930,
+        "code": "$this->lng->txt('search_limit_reached')",
+        "has_variable": false,
+        "variable": "search_limit_reached"
+    },
+    {
+        "id": 33766,
+        "file": "components\/ILIAS\/Search\/classes\/class.ilRepositorySearchGUI.php",
+        "line": 1153,
+        "code": "$this->lng->txt('search_new')",
+        "has_variable": false,
+        "variable": "search_new"
+    },
+    {
+        "id": 33768,
+        "file": "components\/ILIAS\/Search\/classes\/class.ilRepositorySearchGUI.php",
+        "line": 1212,
+        "code": "$this->lng->txt('execute')",
+        "has_variable": false,
+        "variable": "execute"
+    },
+    {
+        "id": 33770,
+        "file": "components\/ILIAS\/Search\/classes\/class.ilRepositorySearchGUI.php",
+        "line": 1216,
+        "code": "$this->lng->txt('btn_add')",
+        "has_variable": false,
+        "variable": "btn_add"
+    },
+    {
+        "id": 33772,
+        "file": "components\/ILIAS\/Search\/classes\/class.ilRepositorySearchGUI.php",
+        "line": 1271,
+        "code": "$this->lng->txt('select_one')",
+        "has_variable": false,
+        "variable": "select_one"
+    },
+    {
+        "id": 33774,
+        "file": "components\/ILIAS\/Search\/classes\/class.ilRepositorySearchGUI.php",
+        "line": 1401,
+        "code": "$this->lng->txt('select_one')",
+        "has_variable": false,
+        "variable": "select_one"
+    },
+    {
+        "id": 33776,
+        "file": "components\/ILIAS\/Search\/classes\/class.ilRepositoryUserResultTableGUI.php",
+        "line": 77,
+        "code": "$this->lng->txt('search_results')",
+        "has_variable": false,
+        "variable": "search_results"
+    },
+    {
+        "id": 33778,
+        "file": "components\/ILIAS\/Search\/classes\/class.ilRepositoryUserResultTableGUI.php",
+        "line": 147,
+        "code": "$this->lng->txt('access_until')",
+        "has_variable": false,
+        "variable": "access_until"
+    },
+    {
+        "id": 33780,
+        "file": "components\/ILIAS\/Search\/classes\/class.ilRepositoryUserResultTableGUI.php",
+        "line": 148,
+        "code": "$this->lng->txt('last_login')",
+        "has_variable": false,
+        "variable": "last_login"
+    },
+    {
+        "id": 33782,
+        "file": "components\/ILIAS\/Search\/classes\/class.ilRepositoryUserResultTableGUI.php",
+        "line": 159,
+        "code": "$this->lng->txt('btn_add')",
+        "has_variable": false,
+        "variable": "btn_add"
+    },
+    {
+        "id": 33784,
+        "file": "components\/ILIAS\/Search\/classes\/class.ilRepositoryUserResultTableGUI.php",
+        "line": 162,
+        "code": "$this->lng->txt('btn_add')",
+        "has_variable": false,
+        "variable": "btn_add"
+    },
+    {
+        "id": 33786,
+        "file": "components\/ILIAS\/Search\/classes\/class.ilRepositoryUserResultTableGUI.php",
+        "line": 191,
+        "code": "$this->lng->txt('gender_' . $a_set['gender'])",
+        "has_variable": true,
+        "variable": "'gender_' . $a_set['gender']"
+    },
+    {
+        "id": 33788,
+        "file": "components\/ILIAS\/Search\/classes\/class.ilRepositoryUserResultTableGUI.php",
+        "line": 198,
+        "code": "$this->lng->txt('no_date')",
+        "has_variable": false,
+        "variable": "no_date"
+    },
+    {
+        "id": 33790,
+        "file": "components\/ILIAS\/Search\/classes\/class.ilRepositoryUserResultTableGUI.php",
+        "line": 212,
+        "code": "$this->lng->txt('no_date')",
+        "has_variable": false,
+        "variable": "no_date"
+    },
+    {
+        "id": 33792,
+        "file": "components\/ILIAS\/Search\/classes\/class.ilRepositoryUserResultTableGUI.php",
+        "line": 314,
+        "code": "$this->lng->txt(\"access_unlimited\")",
+        "has_variable": false,
+        "variable": "access_unlimited"
+    },
+    {
+        "id": 33794,
+        "file": "components\/ILIAS\/Search\/classes\/class.ilRepositoryUserResultTableGUI.php",
+        "line": 317,
+        "code": "$this->lng->txt(\"access_expired\")",
+        "has_variable": false,
+        "variable": "access_expired"
+    },
+    {
+        "id": 33796,
+        "file": "components\/ILIAS\/Search\/classes\/class.ilRepositoryUserResultTableGUI.php",
+        "line": 324,
+        "code": "$this->lng->txt(\"inactive\")",
+        "has_variable": false,
+        "variable": "inactive"
+    },
+    {
+        "id": 33798,
+        "file": "components\/ILIAS\/Search\/classes\/class.ilRepositoryUserResultTableGUI.php",
+        "line": 401,
+        "code": "$this->lng->txt('search_sort_relevance')",
+        "has_variable": false,
+        "variable": "search_sort_relevance"
+    },
+    {
+        "id": 33800,
+        "file": "components\/ILIAS\/Search\/classes\/class.ilRepositoryUserResultTableGUI.php",
+        "line": 405,
+        "code": "$this->lng->txt('search_sort_generic_asc')",
+        "has_variable": false,
+        "variable": "search_sort_generic_asc"
+    },
+    {
+        "id": 33802,
+        "file": "components\/ILIAS\/Search\/classes\/class.ilRepositoryUserResultTableGUI.php",
+        "line": 409,
+        "code": "$this->lng->txt('search_sort_generic_desc')",
+        "has_variable": false,
+        "variable": "search_sort_generic_desc"
+    },
+    {
+        "id": 33804,
+        "file": "components\/ILIAS\/Search\/classes\/class.ilSearchControllerGUI.php",
+        "line": 61,
+        "code": "$this->lng->txt(\"permission_denied\")",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 33806,
+        "file": "components\/ILIAS\/Search\/classes\/class.ilSearchControllerGUI.php",
+        "line": 67,
+        "code": "$this->lng->txt(\"permission_denied\")",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 33808,
+        "file": "components\/ILIAS\/Search\/classes\/class.ilSearchRootSelector.php",
+        "line": 159,
+        "code": "$lng->txt('repository')",
+        "has_variable": false,
+        "variable": "repository"
+    },
+    {
+        "id": 33810,
+        "file": "components\/ILIAS\/Search\/classes\/class.ilSearchRootSelector.php",
+        "line": 163,
+        "code": "$this->lng->txt(\"repository\")",
+        "has_variable": false,
+        "variable": "repository"
+    },
+    {
+        "id": 33812,
+        "file": "components\/ILIAS\/Search\/classes\/class.ilUserSearchOptions.php",
+        "line": 87,
+        "code": "$lng->txt($field)",
+        "has_variable": true,
+        "variable": "$field"
+    },
+    {
+        "id": 33814,
+        "file": "components\/ILIAS\/Search\/classes\/class.ilUserSearchOptions.php",
+        "line": 104,
+        "code": "$lng->txt('person_title')",
+        "has_variable": false,
+        "variable": "person_title"
+    },
+    {
+        "id": 33816,
+        "file": "components\/ILIAS\/Search\/classes\/class.ilUserSearchOptions.php",
+        "line": 112,
+        "code": "$lng->txt('please_choose')",
+        "has_variable": false,
+        "variable": "please_choose"
+    },
+    {
+        "id": 33818,
+        "file": "components\/ILIAS\/Search\/classes\/class.ilUserSearchOptions.php",
+        "line": 113,
+        "code": "$lng->txt('gender_n')",
+        "has_variable": false,
+        "variable": "gender_n"
+    },
+    {
+        "id": 33820,
+        "file": "components\/ILIAS\/Search\/classes\/class.ilUserSearchOptions.php",
+        "line": 114,
+        "code": "$lng->txt('gender_f')",
+        "has_variable": false,
+        "variable": "gender_f"
+    },
+    {
+        "id": 33822,
+        "file": "components\/ILIAS\/Search\/classes\/class.ilUserSearchOptions.php",
+        "line": 115,
+        "code": "$lng->txt('gender_m')",
+        "has_variable": false,
+        "variable": "gender_m"
+    },
+    {
+        "id": 33824,
+        "file": "components\/ILIAS\/Search\/classes\/class.ilUserSearchOptions.php",
+        "line": 125,
+        "code": "$lng->txt('meta_c_' . $c)",
+        "has_variable": true,
+        "variable": "'meta_c_' . $c"
+    },
+    {
+        "id": 33826,
+        "file": "components\/ILIAS\/Search\/classes\/class.ilUserSearchOptions.php",
+        "line": 128,
+        "code": "$lng->txt('please_choose')",
+        "has_variable": false,
+        "variable": "please_choose"
+    },
+    {
+        "id": 33828,
+        "file": "components\/ILIAS\/Search\/classes\/class.ilUserSearchOptions.php",
+        "line": 134,
+        "code": "$lng->txt('select_one')",
+        "has_variable": false,
+        "variable": "select_one"
+    },
+    {
+        "id": 33830,
+        "file": "components\/ILIAS\/Search\/classes\/class.ilUserSearchOptions.php",
+        "line": 255,
+        "code": "$lng->txt('please_choose')",
+        "has_variable": false,
+        "variable": "please_choose"
+    },
+    {
+        "id": 33832,
+        "file": "components\/ILIAS\/Search\/classes\/trait.ilSearchResultTableHelper.php",
+        "line": 60,
+        "code": "$this->lng->txt('search_sort_by')",
+        "has_variable": false,
+        "variable": "search_sort_by"
+    }
+]

@@ -1,0 +1,31 @@
+{
+    "metadata": {
+        "type": "full",
+        "count": 2,
+        "description": "Variable usages without detectable prefixes or suffixes (pure variable references without static strings)"
+    },
+    "matches": [
+        {
+            "id": 39222,
+            "file": "components\/ILIAS\/Table\/classes\/class.ilTable2GUI.php",
+            "line": 528,
+            "code": "$lng->txt($id)",
+            "variable": "$id",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 39292,
+            "file": "components\/ILIAS\/Table\/classes\/class.ilTable2GUI.php",
+            "line": 1896,
+            "code": "$lng->txt($caption_lng_id)",
+            "variable": "$caption_lng_id",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        }
+    ]
+}

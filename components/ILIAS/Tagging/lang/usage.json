@@ -1,0 +1,314 @@
+[
+    {
+        "id": 39336,
+        "file": "components\/ILIAS\/Tagging\/classes\/class.ilObjTaggingSettingsGUI.php",
+        "line": 71,
+        "code": "$this->lng->txt(\"permission_denied\")",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 39338,
+        "file": "components\/ILIAS\/Tagging\/classes\/class.ilObjTaggingSettingsGUI.php",
+        "line": 120,
+        "code": "$this->lng->txt(\"settings\")",
+        "has_variable": false,
+        "variable": "settings"
+    },
+    {
+        "id": 39340,
+        "file": "components\/ILIAS\/Tagging\/classes\/class.ilObjTaggingSettingsGUI.php",
+        "line": 127,
+        "code": "$this->lng->txt(\"tagging_forbidden_tags\")",
+        "has_variable": false,
+        "variable": "tagging_forbidden_tags"
+    },
+    {
+        "id": 39342,
+        "file": "components\/ILIAS\/Tagging\/classes\/class.ilObjTaggingSettingsGUI.php",
+        "line": 133,
+        "code": "$this->lng->txt(\"users\")",
+        "has_variable": false,
+        "variable": "users"
+    },
+    {
+        "id": 39344,
+        "file": "components\/ILIAS\/Tagging\/classes\/class.ilObjTaggingSettingsGUI.php",
+        "line": 165,
+        "code": "$this->lng->txt(\"settings_saved\")",
+        "has_variable": false,
+        "variable": "settings_saved"
+    },
+    {
+        "id": 39346,
+        "file": "components\/ILIAS\/Tagging\/classes\/class.ilObjTaggingSettingsGUI.php",
+        "line": 188,
+        "code": "$this->lng->txt('tagging_settings')",
+        "has_variable": false,
+        "variable": "tagging_settings"
+    },
+    {
+        "id": 39348,
+        "file": "components\/ILIAS\/Tagging\/classes\/class.ilObjTaggingSettingsGUI.php",
+        "line": 191,
+        "code": "$this->lng->txt('save')",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 39350,
+        "file": "components\/ILIAS\/Tagging\/classes\/class.ilObjTaggingSettingsGUI.php",
+        "line": 192,
+        "code": "$this->lng->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 39352,
+        "file": "components\/ILIAS\/Tagging\/classes\/class.ilObjTaggingSettingsGUI.php",
+        "line": 197,
+        "code": "$lng->txt(\"tagging_enable_tagging\")",
+        "has_variable": false,
+        "variable": "tagging_enable_tagging"
+    },
+    {
+        "id": 39354,
+        "file": "components\/ILIAS\/Tagging\/classes\/class.ilObjTaggingSettingsGUI.php",
+        "line": 205,
+        "code": "$lng->txt(\"tagging_enable_all_users\")",
+        "has_variable": false,
+        "variable": "tagging_enable_all_users"
+    },
+    {
+        "id": 39356,
+        "file": "components\/ILIAS\/Tagging\/classes\/class.ilObjTaggingSettingsGUI.php",
+        "line": 208,
+        "code": "$lng->txt(\"tagging_enable_all_users_info\")",
+        "has_variable": false,
+        "variable": "tagging_enable_all_users_info"
+    },
+    {
+        "id": 39358,
+        "file": "components\/ILIAS\/Tagging\/classes\/class.ilObjTaggingSettingsGUI.php",
+        "line": 262,
+        "code": "$this->lng->txt(\"tagging_tags\")",
+        "has_variable": false,
+        "variable": "tagging_tags"
+    },
+    {
+        "id": 39360,
+        "file": "components\/ILIAS\/Tagging\/classes\/class.ilObjTaggingSettingsGUI.php",
+        "line": 269,
+        "code": "$lng->txt(\"save\")",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 39362,
+        "file": "components\/ILIAS\/Tagging\/classes\/class.ilObjTaggingSettingsGUI.php",
+        "line": 272,
+        "code": "$lng->txt(\"tagging_forbidden_tags\")",
+        "has_variable": false,
+        "variable": "tagging_forbidden_tags"
+    },
+    {
+        "id": 39364,
+        "file": "components\/ILIAS\/Tagging\/classes\/class.ilObjTaggingSettingsGUI.php",
+        "line": 290,
+        "code": "$this->lng->txt('tagging_no_perm_write')",
+        "has_variable": false,
+        "variable": "tagging_no_perm_write"
+    },
+    {
+        "id": 39366,
+        "file": "components\/ILIAS\/Tagging\/classes\/class.ilObjTaggingSettingsGUI.php",
+        "line": 311,
+        "code": "$lng->txt(\"msg_obj_modified\")",
+        "has_variable": false,
+        "variable": "msg_obj_modified"
+    },
+    {
+        "id": 39368,
+        "file": "components\/ILIAS\/Tagging\/classes\/class.ilObjTaggingSettingsGUI.php",
+        "line": 339,
+        "code": "$lng->txt(\"tagging_tag\")",
+        "has_variable": false,
+        "variable": "tagging_tag"
+    },
+    {
+        "id": 39370,
+        "file": "components\/ILIAS\/Tagging\/classes\/class.ilObjTaggingSettingsGUI.php",
+        "line": 344,
+        "code": "$lng->txt(\"tagging_search_users\")",
+        "has_variable": false,
+        "variable": "tagging_search_users"
+    },
+    {
+        "id": 39372,
+        "file": "components\/ILIAS\/Tagging\/classes\/class.ilTaggingClassificationProvider.php",
+        "line": 113,
+        "code": "$lng->txt(\"tagging_my_tags\")",
+        "has_variable": false,
+        "variable": "tagging_my_tags"
+    },
+    {
+        "id": 39374,
+        "file": "components\/ILIAS\/Tagging\/classes\/class.ilTaggingClassificationProvider.php",
+        "line": 114,
+        "code": "$lng->txt(\"tagging_other_users\")",
+        "has_variable": false,
+        "variable": "tagging_other_users"
+    },
+    {
+        "id": 39376,
+        "file": "components\/ILIAS\/Tagging\/classes\/class.ilTaggingGUI.php",
+        "line": 163,
+        "code": "$lng->txt(\"tagging_my_tags\")",
+        "has_variable": false,
+        "variable": "tagging_my_tags"
+    },
+    {
+        "id": 39378,
+        "file": "components\/ILIAS\/Tagging\/classes\/class.ilTaggingGUI.php",
+        "line": 164,
+        "code": "$lng->txt(\"save\")",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 39380,
+        "file": "components\/ILIAS\/Tagging\/classes\/class.ilTaggingGUI.php",
+        "line": 165,
+        "code": "$lng->txt(\"comma_separated\")",
+        "has_variable": false,
+        "variable": "comma_separated"
+    },
+    {
+        "id": 39382,
+        "file": "components\/ILIAS\/Tagging\/classes\/class.ilTaggingGUI.php",
+        "line": 207,
+        "code": "$lng->txt('msg_obj_modified')",
+        "has_variable": false,
+        "variable": "msg_obj_modified"
+    },
+    {
+        "id": 39384,
+        "file": "components\/ILIAS\/Tagging\/classes\/class.ilTaggingGUI.php",
+        "line": 326,
+        "code": "$lng->txt(\"tagging_tags\")",
+        "has_variable": false,
+        "variable": "tagging_tags"
+    },
+    {
+        "id": 39386,
+        "file": "components\/ILIAS\/Tagging\/classes\/class.ilTaggingGUI.php",
+        "line": 337,
+        "code": "$lng->txt(\"msg_obj_modified\")",
+        "has_variable": false,
+        "variable": "msg_obj_modified"
+    },
+    {
+        "id": 39388,
+        "file": "components\/ILIAS\/Tagging\/classes\/class.ilTaggingGUI.php",
+        "line": 365,
+        "code": "$lng->txt(\"save\")",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 39390,
+        "file": "components\/ILIAS\/Tagging\/classes\/class.ilTaggingGUI.php",
+        "line": 366,
+        "code": "$lng->txt(\"comma_separated\")",
+        "has_variable": false,
+        "variable": "comma_separated"
+    },
+    {
+        "id": 39392,
+        "file": "components\/ILIAS\/Tagging\/classes\/class.ilTaggingGUI.php",
+        "line": 376,
+        "code": "$lng->txt(\"tagging_my_tags\")",
+        "has_variable": false,
+        "variable": "tagging_my_tags"
+    },
+    {
+        "id": 39394,
+        "file": "components\/ILIAS\/Tagging\/classes\/class.ilTaggingGUI.php",
+        "line": 382,
+        "code": "$lng->txt(\"tagging_other_users\")",
+        "has_variable": false,
+        "variable": "tagging_other_users"
+    },
+    {
+        "id": 39396,
+        "file": "components\/ILIAS\/Tagging\/classes\/class.ilTaggingSlateContentGUI.php",
+        "line": 163,
+        "code": "$lng->txt(\"back\")",
+        "has_variable": false,
+        "variable": "back"
+    },
+    {
+        "id": 39398,
+        "file": "components\/ILIAS\/Tagging\/classes\/class.ilTaggingSlateContentGUI.php",
+        "line": 196,
+        "code": "$lng->txt(\"tagging_resources_for_tag\")",
+        "has_variable": false,
+        "variable": "tagging_resources_for_tag"
+    },
+    {
+        "id": 39400,
+        "file": "components\/ILIAS\/Tagging\/classes\/class.ilTaggingSlateContentGUI.php",
+        "line": 204,
+        "code": "$lng->txt(\"tagging_no_obj_for_tag\")",
+        "has_variable": false,
+        "variable": "tagging_no_obj_for_tag"
+    },
+    {
+        "id": 39402,
+        "file": "components\/ILIAS\/Tagging\/classes\/class.ilTaggingSlateContentGUI.php",
+        "line": 279,
+        "code": "$this->lng->txt(\"no_tag_text_1\")",
+        "has_variable": false,
+        "variable": "no_tag_text_1"
+    },
+    {
+        "id": 39404,
+        "file": "components\/ILIAS\/Tagging\/classes\/class.ilTaggingSlateContentGUI.php",
+        "line": 281,
+        "code": "$this->lng->txt('no_tag_text_2')",
+        "has_variable": false,
+        "variable": "no_tag_text_2"
+    },
+    {
+        "id": 39406,
+        "file": "components\/ILIAS\/Tagging\/classes\/class.ilTaggingSlateContentGUI.php",
+        "line": 284,
+        "code": "$this->lng->txt(\"no_tag_text_3\")",
+        "has_variable": false,
+        "variable": "no_tag_text_3"
+    },
+    {
+        "id": 39408,
+        "file": "components\/ILIAS\/Tagging\/classes\/class.ilTaggingSlateContentGUI.php",
+        "line": 297,
+        "code": "$this->lng->txt('repository')",
+        "has_variable": false,
+        "variable": "repository"
+    },
+    {
+        "id": 39410,
+        "file": "components\/ILIAS\/Tagging\/classes\/class.ilUserForTagTableGUI.php",
+        "line": 42,
+        "code": "$this->lng->txt(\"tagging_users_using_tag\")",
+        "has_variable": false,
+        "variable": "tagging_users_using_tag"
+    },
+    {
+        "id": 39412,
+        "file": "components\/ILIAS\/Tagging\/classes\/class.ilUserForTagTableGUI.php",
+        "line": 44,
+        "code": "$this->lng->txt(\"user\")",
+        "has_variable": false,
+        "variable": "user"
+    }
+]

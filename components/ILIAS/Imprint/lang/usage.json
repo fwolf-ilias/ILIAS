@@ -1,0 +1,42 @@
+[
+    {
+        "id": 20874,
+        "file": "components\/ILIAS\/Imprint\/classes\/class.ilImprintGUI.php",
+        "line": 79,
+        "code": "$this->lng->txt('adm_imprint')",
+        "has_variable": false,
+        "variable": "adm_imprint"
+    },
+    {
+        "id": 20876,
+        "file": "components\/ILIAS\/Imprint\/classes\/class.ilImprintGUI.php",
+        "line": 95,
+        "code": "$lng->txt('adm_imprint_inactive')",
+        "has_variable": false,
+        "variable": "adm_imprint_inactive"
+    },
+    {
+        "id": 20878,
+        "file": "components\/ILIAS\/Imprint\/classes\/class.ilImprintGUI.php",
+        "line": 107,
+        "code": "$this->lng->txt('imprint')",
+        "has_variable": false,
+        "variable": "imprint"
+    },
+    {
+        "id": 20880,
+        "file": "components\/ILIAS\/Imprint\/classes\/class.ilImprintGUI.php",
+        "line": 124,
+        "code": "$lng->txt('edit_page')",
+        "has_variable": false,
+        "variable": "edit_page"
+    },
+    {
+        "id": 20882,
+        "file": "components\/ILIAS\/Imprint\/classes\/class.ilObjLegalNoticeGUI.php",
+        "line": 33,
+        "code": "$this->lng->txt('adm_imprint')",
+        "has_variable": false,
+        "variable": "adm_imprint"
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "id": 31082,
+        "file": "components\/ILIAS\/RemoteFile\/classes\/class.ilObjRemoteFileGUI.php",
+        "line": 50,
+        "code": "$this->lng->txt('version')",
+        "has_variable": false,
+        "variable": "version"
+    },
+    {
+        "id": 31084,
+        "file": "components\/ILIAS\/RemoteFile\/classes\/class.ilObjRemoteFileGUI.php",
+        "line": 52,
+        "code": "$this->lng->txt('rfil_version_tstamp')",
+        "has_variable": false,
+        "variable": "rfil_version_tstamp"
+    },
+    {
+        "id": 31086,
+        "file": "components\/ILIAS\/RemoteFile\/classes\/class.ilObjRemoteFileListGUI.php",
+        "line": 82,
+        "code": "$lng->txt('organization')",
+        "has_variable": false,
+        "variable": "organization"
+    },
+    {
+        "id": 31088,
+        "file": "components\/ILIAS\/RemoteFile\/classes\/class.ilObjRemoteFileListGUI.php",
+        "line": 87,
+        "code": "$lng->txt('version')",
+        "has_variable": false,
+        "variable": "version"
+    }
+]

@@ -1,0 +1,658 @@
+[
+    {
+        "id": 12770,
+        "file": "components\/ILIAS\/Dashboard\/Achievements\/classes\/class.ilAchievementsGUI.php",
+        "line": 56,
+        "code": "$lng->txt('lhist_learning_history')",
+        "has_variable": false,
+        "variable": "lhist_learning_history"
+    },
+    {
+        "id": 12772,
+        "file": "components\/ILIAS\/Dashboard\/Achievements\/classes\/class.ilAchievementsGUI.php",
+        "line": 65,
+        "code": "$lng->txt(\"personal_learning_progress_view_title\")",
+        "has_variable": false,
+        "variable": "personal_learning_progress_view_title"
+    },
+    {
+        "id": 12774,
+        "file": "components\/ILIAS\/Dashboard\/Achievements\/classes\/class.ilAchievementsGUI.php",
+        "line": 67,
+        "code": "$lng->txt(\"personal_learning_progress_view_description\")",
+        "has_variable": false,
+        "variable": "personal_learning_progress_view_description"
+    },
+    {
+        "id": 12776,
+        "file": "components\/ILIAS\/Dashboard\/Achievements\/classes\/class.ilAchievementsGUI.php",
+        "line": 74,
+        "code": "$lng->txt('skills')",
+        "has_variable": false,
+        "variable": "skills"
+    },
+    {
+        "id": 12778,
+        "file": "components\/ILIAS\/Dashboard\/Achievements\/classes\/class.ilAchievementsGUI.php",
+        "line": 82,
+        "code": "$lng->txt('obj_bdga')",
+        "has_variable": false,
+        "variable": "obj_bdga"
+    },
+    {
+        "id": 12780,
+        "file": "components\/ILIAS\/Dashboard\/Achievements\/classes\/class.ilAchievementsGUI.php",
+        "line": 90,
+        "code": "$lng->txt('obj_cert')",
+        "has_variable": false,
+        "variable": "obj_cert"
+    },
+    {
+        "id": 12782,
+        "file": "components\/ILIAS\/Dashboard\/Achievements\/classes\/class.ilAchievementsGUI.php",
+        "line": 141,
+        "code": "$lng->txt('lhist_learning_history')",
+        "has_variable": false,
+        "variable": "lhist_learning_history"
+    },
+    {
+        "id": 12784,
+        "file": "components\/ILIAS\/Dashboard\/Achievements\/classes\/class.ilAchievementsGUI.php",
+        "line": 144,
+        "code": "$lng->txt('skills')",
+        "has_variable": false,
+        "variable": "skills"
+    },
+    {
+        "id": 12786,
+        "file": "components\/ILIAS\/Dashboard\/Achievements\/classes\/class.ilAchievementsGUI.php",
+        "line": 147,
+        "code": "$lng->txt('learning_progress')",
+        "has_variable": false,
+        "variable": "learning_progress"
+    },
+    {
+        "id": 12788,
+        "file": "components\/ILIAS\/Dashboard\/Achievements\/classes\/class.ilAchievementsGUI.php",
+        "line": 150,
+        "code": "$lng->txt('obj_bdga')",
+        "has_variable": false,
+        "variable": "obj_bdga"
+    },
+    {
+        "id": 12790,
+        "file": "components\/ILIAS\/Dashboard\/Achievements\/classes\/class.ilAchievementsGUI.php",
+        "line": 153,
+        "code": "$lng->txt('obj_cert')",
+        "has_variable": false,
+        "variable": "obj_cert"
+    },
+    {
+        "id": 12792,
+        "file": "components\/ILIAS\/Dashboard\/Administration\/classes\/class.ilDashboardSortationTableGUI.php",
+        "line": 43,
+        "code": "$this->lng->txt('save')",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 12794,
+        "file": "components\/ILIAS\/Dashboard\/Administration\/classes\/class.ilDashboardSortationTableGUI.php",
+        "line": 55,
+        "code": "$this->lng->txt('topitem_position')",
+        "has_variable": false,
+        "variable": "topitem_position"
+    },
+    {
+        "id": 12796,
+        "file": "components\/ILIAS\/Dashboard\/Administration\/classes\/class.ilDashboardSortationTableGUI.php",
+        "line": 56,
+        "code": "$this->lng->txt('topitem_block')",
+        "has_variable": false,
+        "variable": "topitem_block"
+    },
+    {
+        "id": 12798,
+        "file": "components\/ILIAS\/Dashboard\/Administration\/classes\/class.ilDashboardSortationTableGUI.php",
+        "line": 57,
+        "code": "$this->lng->txt('topitem_active')",
+        "has_variable": false,
+        "variable": "topitem_active"
+    },
+    {
+        "id": 12800,
+        "file": "components\/ILIAS\/Dashboard\/Administration\/classes\/class.ilDashboardSortationTableGUI.php",
+        "line": 64,
+        "code": "$this->lng->txt('dash_main_panel')",
+        "has_variable": false,
+        "variable": "dash_main_panel"
+    },
+    {
+        "id": 12802,
+        "file": "components\/ILIAS\/Dashboard\/Administration\/classes\/class.ilDashboardSortationTableGUI.php",
+        "line": 86,
+        "code": "$this->lng->txt('dash_enable_' . $this->view_settings->getViewName($presentation_view))",
+        "has_variable": true,
+        "variable": "'dash_enable_' . $this->view_settings->getViewName($presentation_view)"
+    },
+    {
+        "id": 12804,
+        "file": "components\/ILIAS\/Dashboard\/Administration\/classes\/class.ilDashboardSortationTableGUI.php",
+        "line": 93,
+        "code": "$this->lng->txt('dash_side_panel')",
+        "has_variable": false,
+        "variable": "dash_side_panel"
+    },
+    {
+        "id": 12806,
+        "file": "components\/ILIAS\/Dashboard\/Administration\/classes\/class.ilDashboardSortationTableGUI.php",
+        "line": 113,
+        "code": "$this->lng->txt('dash_enable_' . $mod)",
+        "has_variable": true,
+        "variable": "'dash_enable_' . $mod"
+    },
+    {
+        "id": 12808,
+        "file": "components\/ILIAS\/Dashboard\/Administration\/classes\/class.ilObjDashboardSettingsGUI.php",
+        "line": 73,
+        "code": "$this->lng->txt('no_permission')",
+        "has_variable": false,
+        "variable": "no_permission"
+    },
+    {
+        "id": 12810,
+        "file": "components\/ILIAS\/Dashboard\/Administration\/classes\/class.ilObjDashboardSettingsGUI.php",
+        "line": 89,
+        "code": "$this->lng->txt('back')",
+        "has_variable": false,
+        "variable": "back"
+    },
+    {
+        "id": 12812,
+        "file": "components\/ILIAS\/Dashboard\/Administration\/classes\/class.ilObjDashboardSettingsGUI.php",
+        "line": 135,
+        "code": "$this->lng->txt('favourites_disabled_info')",
+        "has_variable": false,
+        "variable": "favourites_disabled_info"
+    },
+    {
+        "id": 12814,
+        "file": "components\/ILIAS\/Dashboard\/Administration\/classes\/class.ilObjDashboardSettingsGUI.php",
+        "line": 139,
+        "code": "$this->lng->txt('memberships_disabled_info')",
+        "has_variable": false,
+        "variable": "memberships_disabled_info"
+    },
+    {
+        "id": 12816,
+        "file": "components\/ILIAS\/Dashboard\/Administration\/classes\/class.ilObjDashboardSettingsGUI.php",
+        "line": 177,
+        "code": "$this->lng->txt(self::DASH_SORT_PREFIX . $s)",
+        "has_variable": true,
+        "variable": "self::DASH_SORT_PREFIX . $s"
+    },
+    {
+        "id": 12818,
+        "file": "components\/ILIAS\/Dashboard\/Administration\/classes\/class.ilObjDashboardSettingsGUI.php",
+        "line": 182,
+        "code": "$this->lng->txt('dash_default_sortation')",
+        "has_variable": false,
+        "variable": "dash_default_sortation"
+    },
+    {
+        "id": 12820,
+        "file": "components\/ILIAS\/Dashboard\/Administration\/classes\/class.ilObjDashboardSettingsGUI.php",
+        "line": 203,
+        "code": "$this->lng->txt('dash_' . $this->view_settings->getViewName($view))",
+        "has_variable": true,
+        "variable": "'dash_' . $this->view_settings->getViewName($view)"
+    },
+    {
+        "id": 12822,
+        "file": "components\/ILIAS\/Dashboard\/Administration\/classes\/class.ilObjDashboardSettingsGUI.php",
+        "line": 209,
+        "code": "$this->lng->txt('dash_' . $this->view_settings->getViewName($view))",
+        "has_variable": true,
+        "variable": "'dash_' . $this->view_settings->getViewName($view)"
+    },
+    {
+        "id": 12824,
+        "file": "components\/ILIAS\/Dashboard\/Administration\/classes\/class.ilObjDashboardSettingsGUI.php",
+        "line": 241,
+        "code": "$this->lng->txt('settings_saved')",
+        "has_variable": false,
+        "variable": "settings_saved"
+    },
+    {
+        "id": 12826,
+        "file": "components\/ILIAS\/Dashboard\/Administration\/classes\/class.ilObjDashboardSettingsGUI.php",
+        "line": 243,
+        "code": "$this->lng->txt('no_permission')",
+        "has_variable": false,
+        "variable": "no_permission"
+    },
+    {
+        "id": 12828,
+        "file": "components\/ILIAS\/Dashboard\/Administration\/classes\/class.ilObjDashboardSettingsGUI.php",
+        "line": 257,
+        "code": "$lng->txt('general_settings')",
+        "has_variable": false,
+        "variable": "general_settings"
+    },
+    {
+        "id": 12830,
+        "file": "components\/ILIAS\/Dashboard\/Administration\/classes\/class.ilObjDashboardSettingsGUI.php",
+        "line": 263,
+        "code": "$lng->txt('dash_presentation')",
+        "has_variable": false,
+        "variable": "dash_presentation"
+    },
+    {
+        "id": 12832,
+        "file": "components\/ILIAS\/Dashboard\/Administration\/classes\/class.ilObjDashboardSettingsGUI.php",
+        "line": 269,
+        "code": "$lng->txt('dash_sortation')",
+        "has_variable": false,
+        "variable": "dash_sortation"
+    },
+    {
+        "id": 12834,
+        "file": "components\/ILIAS\/Dashboard\/Administration\/classes\/class.ilObjDashboardSettingsGUI.php",
+        "line": 291,
+        "code": "$this->lng->txt('dash_page_edit_info')",
+        "has_variable": false,
+        "variable": "dash_page_edit_info"
+    },
+    {
+        "id": 12836,
+        "file": "components\/ILIAS\/Dashboard\/Administration\/classes\/class.ilObjDashboardSettingsGUI.php",
+        "line": 299,
+        "code": "$this->lng->txt('customize_page')",
+        "has_variable": false,
+        "variable": "customize_page"
+    },
+    {
+        "id": 12838,
+        "file": "components\/ILIAS\/Dashboard\/Administration\/classes\/class.ilObjDashboardSettingsGUI.php",
+        "line": 319,
+        "code": "$lng->txt('dash_' . $v)",
+        "has_variable": true,
+        "variable": "'dash_' . $v"
+    },
+    {
+        "id": 12840,
+        "file": "components\/ILIAS\/Dashboard\/Administration\/classes\/class.ilObjDashboardSettingsGUI.php",
+        "line": 327,
+        "code": "$lng->txt('dash_avail_presentation')",
+        "has_variable": false,
+        "variable": "dash_avail_presentation"
+    },
+    {
+        "id": 12842,
+        "file": "components\/ILIAS\/Dashboard\/Administration\/classes\/class.ilObjDashboardSettingsGUI.php",
+        "line": 331,
+        "code": "$lng->txt('dash_default_presentation')",
+        "has_variable": false,
+        "variable": "dash_default_presentation"
+    },
+    {
+        "id": 12844,
+        "file": "components\/ILIAS\/Dashboard\/Administration\/classes\/class.ilObjDashboardSettingsGUI.php",
+        "line": 332,
+        "code": "$lng->txt('dash_list')",
+        "has_variable": false,
+        "variable": "dash_list"
+    },
+    {
+        "id": 12846,
+        "file": "components\/ILIAS\/Dashboard\/Administration\/classes\/class.ilObjDashboardSettingsGUI.php",
+        "line": 333,
+        "code": "$lng->txt('dash_tile')",
+        "has_variable": false,
+        "variable": "dash_tile"
+    },
+    {
+        "id": 12848,
+        "file": "components\/ILIAS\/Dashboard\/Administration\/classes\/class.ilObjDashboardSettingsGUI.php",
+        "line": 353,
+        "code": "$this->lng->txt('msg_obj_modified')",
+        "has_variable": false,
+        "variable": "msg_obj_modified"
+    },
+    {
+        "id": 12850,
+        "file": "components\/ILIAS\/Dashboard\/Administration\/classes\/class.ilObjDashboardSettingsGUI.php",
+        "line": 355,
+        "code": "$this->lng->txt('no_permission')",
+        "has_variable": false,
+        "variable": "no_permission"
+    },
+    {
+        "id": 12852,
+        "file": "components\/ILIAS\/Dashboard\/Administration\/classes\/class.ilObjDashboardSettingsGUI.php",
+        "line": 379,
+        "code": "$this->lng->txt('msg_obj_modified')",
+        "has_variable": false,
+        "variable": "msg_obj_modified"
+    },
+    {
+        "id": 12854,
+        "file": "components\/ILIAS\/Dashboard\/Administration\/classes\/class.ilObjDashboardSettingsGUI.php",
+        "line": 385,
+        "code": "$this->lng->txt('no_permission')",
+        "has_variable": false,
+        "variable": "no_permission"
+    },
+    {
+        "id": 12856,
+        "file": "components\/ILIAS\/Dashboard\/Administration\/classes\/class.ilObjDashboardSettingsGUI.php",
+        "line": 422,
+        "code": "$this->lng->txt('dash_manual_new_item_pos_' . $o)",
+        "has_variable": true,
+        "variable": "'dash_manual_new_item_pos_' . $o"
+    },
+    {
+        "id": 12858,
+        "file": "components\/ILIAS\/Dashboard\/Administration\/classes\/class.ilObjDashboardSettingsGUI.php",
+        "line": 423,
+        "code": "$this->lng->txt('dash_manual_new_item_pos')",
+        "has_variable": false,
+        "variable": "dash_manual_new_item_pos"
+    },
+    {
+        "id": 12860,
+        "file": "components\/ILIAS\/Dashboard\/Administration\/classes\/class.ilObjDashboardSettingsGUI.php",
+        "line": 425,
+        "code": "$this->lng->txt(self::DASH_SORT_PREFIX . $name)",
+        "has_variable": true,
+        "variable": "self::DASH_SORT_PREFIX . $name"
+    },
+    {
+        "id": 12862,
+        "file": "components\/ILIAS\/Dashboard\/Administration\/classes\/class.ilObjDashboardSettingsGUI.php",
+        "line": 435,
+        "code": "$this->lng->txt(self::DASH_SORT_PREFIX . $name)",
+        "has_variable": true,
+        "variable": "self::DASH_SORT_PREFIX . $name"
+    },
+    {
+        "id": 12864,
+        "file": "components\/ILIAS\/Dashboard\/Block\/classes\/class.ilDashboardBlockGUI.php",
+        "line": 209,
+        "code": "$this->lng->txt('dash_' . $this->view_settings->getViewName($this->view_settings->getView()))",
+        "has_variable": true,
+        "variable": "'dash_' . $this->view_settings->getViewName($this->view_settings->getView())"
+    },
+    {
+        "id": 12866,
+        "file": "components\/ILIAS\/Dashboard\/Block\/classes\/class.ilDashboardBlockGUI.php",
+        "line": 278,
+        "code": "$this->lng->txt('pd_' . $key)",
+        "has_variable": true,
+        "variable": "'pd_' . $key"
+    },
+    {
+        "id": 12868,
+        "file": "components\/ILIAS\/Dashboard\/Block\/classes\/class.ilDashboardBlockGUI.php",
+        "line": 299,
+        "code": "$this->lng->txt('objs_' . $type_title)",
+        "has_variable": true,
+        "variable": "'objs_' . $type_title"
+    },
+    {
+        "id": 12870,
+        "file": "components\/ILIAS\/Dashboard\/Block\/classes\/class.ilDashboardBlockGUI.php",
+        "line": 302,
+        "code": "$pl->txt('objs_' . $type_title)",
+        "has_variable": true,
+        "variable": "'objs_' . $type_title"
+    },
+    {
+        "id": 12872,
+        "file": "components\/ILIAS\/Dashboard\/Block\/classes\/class.ilDashboardBlockGUI.php",
+        "line": 358,
+        "code": "$this->lng->txt('repository')",
+        "has_variable": false,
+        "variable": "repository"
+    },
+    {
+        "id": 12874,
+        "file": "components\/ILIAS\/Dashboard\/Block\/classes\/class.ilDashboardBlockGUI.php",
+        "line": 374,
+        "code": "$this->lng->txt('dash_manual_sorting_title')",
+        "has_variable": false,
+        "variable": "dash_manual_sorting_title"
+    },
+    {
+        "id": 12876,
+        "file": "components\/ILIAS\/Dashboard\/Block\/classes\/class.ilDashboardBlockGUI.php",
+        "line": 384,
+        "code": "$this->lng->txt(ilObjDashboardSettingsGUI::DASH_SORT_PREFIX . $sorting)",
+        "has_variable": true,
+        "variable": "ilObjDashboardSettingsGUI::DASH_SORT_PREFIX . $sorting"
+    },
+    {
+        "id": 12878,
+        "file": "components\/ILIAS\/Dashboard\/Block\/classes\/class.ilDashboardBlockGUI.php",
+        "line": 405,
+        "code": "$this->lng->txt('dash_' . $this->getBlockType() . '_remove_multiple')",
+        "has_variable": true,
+        "variable": "'dash_' . $this->getBlockType() . '_remove_multiple'"
+    },
+    {
+        "id": 12880,
+        "file": "components\/ILIAS\/Dashboard\/Block\/classes\/class.ilDashboardBlockGUI.php",
+        "line": 417,
+        "code": "$this->lng->txt('dash_' . $this->getBlockType() . '_remove_multiple')",
+        "has_variable": true,
+        "variable": "'dash_' . $this->getBlockType() . '_remove_multiple'"
+    },
+    {
+        "id": 12882,
+        "file": "components\/ILIAS\/Dashboard\/Block\/classes\/class.ilDashboardBlockGUI.php",
+        "line": 419,
+        "code": "$this->lng->txt('dash_' . $this->getBlockType() . '_remove_info')",
+        "has_variable": true,
+        "variable": "'dash_' . $this->getBlockType() . '_remove_info'"
+    },
+    {
+        "id": 12884,
+        "file": "components\/ILIAS\/Dashboard\/Block\/classes\/class.ilDashboardBlockGUI.php",
+        "line": 420,
+        "code": "$this->lng->txt('select_one')",
+        "has_variable": false,
+        "variable": "select_one"
+    },
+    {
+        "id": 12886,
+        "file": "components\/ILIAS\/Dashboard\/Block\/classes\/class.ilDashboardBlockGUI.php",
+        "line": 424,
+        "code": "$this->lng->txt('dash_' . $this->getBlockType() . '_remove')",
+        "has_variable": true,
+        "variable": "'dash_' . $this->getBlockType() . '_remove'"
+    },
+    {
+        "id": 12888,
+        "file": "components\/ILIAS\/Dashboard\/Block\/classes\/class.ilDashboardBlockGUI.php",
+        "line": 429,
+        "code": "$this->lng->txt('dash_' . $this->getBlockType() . '_remove_multiple')",
+        "has_variable": true,
+        "variable": "'dash_' . $this->getBlockType() . '_remove_multiple'"
+    },
+    {
+        "id": 12890,
+        "file": "components\/ILIAS\/Dashboard\/Block\/classes\/class.ilDashboardBlockGUI.php",
+        "line": 430,
+        "code": "$this->lng->txt('dash_no_items_to_manage')",
+        "has_variable": false,
+        "variable": "dash_no_items_to_manage"
+    },
+    {
+        "id": 12892,
+        "file": "components\/ILIAS\/Dashboard\/Block\/classes\/class.ilDashboardBlockGUI.php",
+        "line": 612,
+        "code": "$this->lng->txt('added_to_favourites')",
+        "has_variable": false,
+        "variable": "added_to_favourites"
+    },
+    {
+        "id": 12894,
+        "file": "components\/ILIAS\/Dashboard\/Block\/classes\/class.ilDashboardBlockGUI.php",
+        "line": 619,
+        "code": "$this->lng->txt('removed_from_favourites')",
+        "has_variable": false,
+        "variable": "removed_from_favourites"
+    },
+    {
+        "id": 12896,
+        "file": "components\/ILIAS\/Dashboard\/Block\/classes\/class.ilMembershipBlockGUI.php",
+        "line": 41,
+        "code": "$this->lng->txt('rep_mo_mem_dash')",
+        "has_variable": false,
+        "variable": "rep_mo_mem_dash"
+    },
+    {
+        "id": 12898,
+        "file": "components\/ILIAS\/Dashboard\/Block\/classes\/class.ilMembershipBlockGUI.php",
+        "line": 109,
+        "code": "$this->lng->txt('mmbr_unsubscribed_from_objs')",
+        "has_variable": false,
+        "variable": "mmbr_unsubscribed_from_objs"
+    },
+    {
+        "id": 12900,
+        "file": "components\/ILIAS\/Dashboard\/Block\/classes\/class.ilSelectedItemsBlockGUI.php",
+        "line": 39,
+        "code": "$this->lng->txt('rep_fav_intro1')",
+        "has_variable": false,
+        "variable": "rep_fav_intro1"
+    },
+    {
+        "id": 12902,
+        "file": "components\/ILIAS\/Dashboard\/Block\/classes\/class.ilSelectedItemsBlockGUI.php",
+        "line": 41,
+        "code": "$this->lng->txt('rep_fav_intro2')",
+        "has_variable": false,
+        "variable": "rep_fav_intro2"
+    },
+    {
+        "id": 12904,
+        "file": "components\/ILIAS\/Dashboard\/Block\/classes\/class.ilSelectedItemsBlockGUI.php",
+        "line": 44,
+        "code": "$this->lng->txt('rep_fav_intro3')",
+        "has_variable": false,
+        "variable": "rep_fav_intro3"
+    },
+    {
+        "id": 12906,
+        "file": "components\/ILIAS\/Dashboard\/Block\/classes\/class.ilSelectedItemsBlockGUI.php",
+        "line": 96,
+        "code": "$this->lng->txt('pd_remove_multi_confirm')",
+        "has_variable": false,
+        "variable": "pd_remove_multi_confirm"
+    },
+    {
+        "id": 12908,
+        "file": "components\/ILIAS\/Dashboard\/ItemsBlock\/classes\/class.ilDashObjectsTableGUI.php",
+        "line": 36,
+        "code": "$this->lng->txt('')",
+        "has_variable": true,
+        "variable": ""
+    },
+    {
+        "id": 12910,
+        "file": "components\/ILIAS\/Dashboard\/classes\/DataRetrieval\/Language.php",
+        "line": 50,
+        "code": "$this->lng->txt('meta_l_' . $key)",
+        "has_variable": true,
+        "variable": "'meta_l_' . $key"
+    },
+    {
+        "id": 12912,
+        "file": "components\/ILIAS\/Dashboard\/classes\/DataRetrieval\/Language.php",
+        "line": 52,
+        "code": "$this->lng->txt('system_language')",
+        "has_variable": false,
+        "variable": "system_language"
+    },
+    {
+        "id": 12914,
+        "file": "components\/ILIAS\/Dashboard\/classes\/class.ilDashboardGUI.php",
+        "line": 72,
+        "code": "$this->lng->txt('msg_not_available_for_anon')",
+        "has_variable": false,
+        "variable": "msg_not_available_for_anon"
+    },
+    {
+        "id": 12916,
+        "file": "components\/ILIAS\/Dashboard\/classes\/class.ilDashboardGUI.php",
+        "line": 130,
+        "code": "$this->lng->txt('calendar')",
+        "has_variable": false,
+        "variable": "calendar"
+    },
+    {
+        "id": 12918,
+        "file": "components\/ILIAS\/Dashboard\/classes\/class.ilDashboardGUI.php",
+        "line": 139,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 12920,
+        "file": "components\/ILIAS\/Dashboard\/classes\/class.ilDashboardGUI.php",
+        "line": 174,
+        "code": "$this->lng->txt('msg_no_perm_read')",
+        "has_variable": false,
+        "variable": "msg_no_perm_read"
+    },
+    {
+        "id": 12922,
+        "file": "components\/ILIAS\/Dashboard\/classes\/class.ilDashboardGUI.php",
+        "line": 179,
+        "code": "$this->lng->txt('mail_addressbook')",
+        "has_variable": false,
+        "variable": "mail_addressbook"
+    },
+    {
+        "id": 12924,
+        "file": "components\/ILIAS\/Dashboard\/classes\/class.ilDashboardGUI.php",
+        "line": 253,
+        "code": "$this->lng->txt(\"dash_dashboard\")",
+        "has_variable": false,
+        "variable": "dash_dashboard"
+    },
+    {
+        "id": 12926,
+        "file": "components\/ILIAS\/Dashboard\/classes\/class.ilDashboardGUI.php",
+        "line": 254,
+        "code": "$this->lng->txt(\"dash_dashboard\")",
+        "has_variable": false,
+        "variable": "dash_dashboard"
+    },
+    {
+        "id": 12928,
+        "file": "components\/ILIAS\/Dashboard\/classes\/class.ilDashboardGUI.php",
+        "line": 350,
+        "code": "$this->lng->txt('personal_desktop')",
+        "has_variable": false,
+        "variable": "personal_desktop"
+    },
+    {
+        "id": 12930,
+        "file": "components\/ILIAS\/Dashboard\/classes\/class.ilDashboardGUI.php",
+        "line": 467,
+        "code": "$this->lng->txt('dash_dashboard')",
+        "has_variable": false,
+        "variable": "dash_dashboard"
+    },
+    {
+        "id": 12932,
+        "file": "components\/ILIAS\/Dashboard\/classes\/class.ilDashboardPageGUI.php",
+        "line": 66,
+        "code": "$this->lng->txt(\"obj_sty\")",
+        "has_variable": false,
+        "variable": "obj_sty"
+    }
+]

@@ -1,0 +1,770 @@
+[
+    {
+        "id": 29742,
+        "file": "components\/ILIAS\/Poll\/classes\/BlockGUI\/Answers\/class.ilPollAnswersRenderer.php",
+        "line": 45,
+        "code": "$this->lng->txt(\"poll_vote_error_multi_no_answer\")",
+        "has_variable": false,
+        "variable": "poll_vote_error_multi_no_answer"
+    },
+    {
+        "id": 29744,
+        "file": "components\/ILIAS\/Poll\/classes\/BlockGUI\/Answers\/class.ilPollAnswersRenderer.php",
+        "line": 48,
+        "code": "$this->lng->txt(\"poll_vote_error_multi\")",
+        "has_variable": false,
+        "variable": "poll_vote_error_multi"
+    },
+    {
+        "id": 29746,
+        "file": "components\/ILIAS\/Poll\/classes\/BlockGUI\/Answers\/class.ilPollAnswersRenderer.php",
+        "line": 52,
+        "code": "$this->lng->txt(\"poll_vote_error_single\")",
+        "has_variable": false,
+        "variable": "poll_vote_error_single"
+    },
+    {
+        "id": 29748,
+        "file": "components\/ILIAS\/Poll\/classes\/BlockGUI\/Answers\/class.ilPollAnswersRenderer.php",
+        "line": 75,
+        "code": "$this->lng->txt(\"poll_vote\")",
+        "has_variable": false,
+        "variable": "poll_vote"
+    },
+    {
+        "id": 29750,
+        "file": "components\/ILIAS\/Poll\/classes\/BlockGUI\/Results\/class.ilPollResultsRenderer.php",
+        "line": 83,
+        "code": "$this->lng->txt('poll_chart_votes')",
+        "has_variable": false,
+        "variable": "poll_chart_votes"
+    },
+    {
+        "id": 29752,
+        "file": "components\/ILIAS\/Poll\/classes\/BlockGUI\/Results\/class.ilPollResultsRenderer.php",
+        "line": 133,
+        "code": "$this->lng->txt('poll_chart_votes')",
+        "has_variable": false,
+        "variable": "poll_chart_votes"
+    },
+    {
+        "id": 29754,
+        "file": "components\/ILIAS\/Poll\/classes\/BlockGUI\/class.ilPollBlockGUI.php",
+        "line": 148,
+        "code": "$this->lng->txt(\"poll_notification_unsubscribe\")",
+        "has_variable": false,
+        "variable": "poll_notification_unsubscribe"
+    },
+    {
+        "id": 29756,
+        "file": "components\/ILIAS\/Poll\/classes\/BlockGUI\/class.ilPollBlockGUI.php",
+        "line": 156,
+        "code": "$this->lng->txt(\"poll_notification_subscribe\")",
+        "has_variable": false,
+        "variable": "poll_notification_subscribe"
+    },
+    {
+        "id": 29758,
+        "file": "components\/ILIAS\/Poll\/classes\/BlockGUI\/class.ilPollBlockGUI.php",
+        "line": 168,
+        "code": "$this->lng->txt(\"poll_edit_question\")",
+        "has_variable": false,
+        "variable": "poll_edit_question"
+    },
+    {
+        "id": 29760,
+        "file": "components\/ILIAS\/Poll\/classes\/BlockGUI\/class.ilPollBlockGUI.php",
+        "line": 175,
+        "code": "$this->lng->txt(\"settings\")",
+        "has_variable": false,
+        "variable": "settings"
+    },
+    {
+        "id": 29762,
+        "file": "components\/ILIAS\/Poll\/classes\/BlockGUI\/class.ilPollBlockGUI.php",
+        "line": 182,
+        "code": "$this->lng->txt(\"poll_result\")",
+        "has_variable": false,
+        "variable": "poll_result"
+    },
+    {
+        "id": 29764,
+        "file": "components\/ILIAS\/Poll\/classes\/BlockGUI\/class.ilPollContentRenderer.php",
+        "line": 183,
+        "code": "$this->lng->txt(\"poll_population_singular\")",
+        "has_variable": false,
+        "variable": "poll_population_singular"
+    },
+    {
+        "id": 29766,
+        "file": "components\/ILIAS\/Poll\/classes\/BlockGUI\/class.ilPollContentRenderer.php",
+        "line": 189,
+        "code": "$this->lng->txt(\"poll_population\")",
+        "has_variable": false,
+        "variable": "poll_population"
+    },
+    {
+        "id": 29768,
+        "file": "components\/ILIAS\/Poll\/classes\/BlockGUI\/class.ilPollContentRenderer.php",
+        "line": 202,
+        "code": "$this->lng->txt(\"poll_block_message_already_voted\")",
+        "has_variable": false,
+        "variable": "poll_block_message_already_voted"
+    },
+    {
+        "id": 29770,
+        "file": "components\/ILIAS\/Poll\/classes\/BlockGUI\/class.ilPollContentRenderer.php",
+        "line": 205,
+        "code": "$this->lng->txt(\"poll_voting_period_ended_info\")",
+        "has_variable": false,
+        "variable": "poll_voting_period_ended_info"
+    },
+    {
+        "id": 29772,
+        "file": "components\/ILIAS\/Poll\/classes\/BlockGUI\/class.ilPollContentRenderer.php",
+        "line": 212,
+        "code": "$this->lng->txt(\"poll_block_results_available_on\")",
+        "has_variable": false,
+        "variable": "poll_block_results_available_on"
+    },
+    {
+        "id": 29774,
+        "file": "components\/ILIAS\/Poll\/classes\/BlockGUI\/class.ilPollContentRenderer.php",
+        "line": 251,
+        "code": "$this->lng->txt('poll_max_number_of_answers_info')",
+        "has_variable": false,
+        "variable": "poll_max_number_of_answers_info"
+    },
+    {
+        "id": 29776,
+        "file": "components\/ILIAS\/Poll\/classes\/BlockGUI\/class.ilPollContentRenderer.php",
+        "line": 258,
+        "code": "$this->lng->txt(\"poll_voting_period_info\")",
+        "has_variable": false,
+        "variable": "poll_voting_period_info"
+    },
+    {
+        "id": 29778,
+        "file": "components\/ILIAS\/Poll\/classes\/BlockGUI\/class.ilPollContentRenderer.php",
+        "line": 273,
+        "code": "$this->lng->txt(\"poll_anonymous_warning\")",
+        "has_variable": false,
+        "variable": "poll_anonymous_warning"
+    },
+    {
+        "id": 29780,
+        "file": "components\/ILIAS\/Poll\/classes\/BlockGUI\/class.ilPollContentRenderer.php",
+        "line": 275,
+        "code": "$this->lng->txt(\"poll_non_anonymous_warning\")",
+        "has_variable": false,
+        "variable": "poll_non_anonymous_warning"
+    },
+    {
+        "id": 29782,
+        "file": "components\/ILIAS\/Poll\/classes\/BlockGUI\/class.ilPollContentRenderer.php",
+        "line": 286,
+        "code": "$this->lng->txt(\"poll_voting_period_full_info\")",
+        "has_variable": false,
+        "variable": "poll_voting_period_full_info"
+    },
+    {
+        "id": 29784,
+        "file": "components\/ILIAS\/Poll\/classes\/BlockGUI\/class.ilPollContentRenderer.php",
+        "line": 298,
+        "code": "$this->lng->txt(\"poll_block_message_no_answers\")",
+        "has_variable": false,
+        "variable": "poll_block_message_no_answers"
+    },
+    {
+        "id": 29786,
+        "file": "components\/ILIAS\/Poll\/classes\/BlockGUI\/class.ilPollContentRenderer.php",
+        "line": 324,
+        "code": "$this->lng->txt('offline')",
+        "has_variable": false,
+        "variable": "offline"
+    },
+    {
+        "id": 29788,
+        "file": "components\/ILIAS\/Poll\/classes\/BlockGUI\/class.ilPollContentRenderer.php",
+        "line": 330,
+        "code": "$this->lng->txt('no_access_item_public')",
+        "has_variable": false,
+        "variable": "no_access_item_public"
+    },
+    {
+        "id": 29790,
+        "file": "components\/ILIAS\/Poll\/classes\/BlockGUI\/class.ilPollContentRenderer.php",
+        "line": 335,
+        "code": "$this->lng->txt('poll_comments')",
+        "has_variable": false,
+        "variable": "poll_comments"
+    },
+    {
+        "id": 29792,
+        "file": "components\/ILIAS\/Poll\/classes\/class.ilObjPollGUI.php",
+        "line": 77,
+        "code": "$this->lng->txt(\"object_added\")",
+        "has_variable": false,
+        "variable": "object_added"
+    },
+    {
+        "id": 29794,
+        "file": "components\/ILIAS\/Poll\/classes\/class.ilObjPollGUI.php",
+        "line": 87,
+        "code": "$this->lng->txt('rep_activation_availability')",
+        "has_variable": false,
+        "variable": "rep_activation_availability"
+    },
+    {
+        "id": 29796,
+        "file": "components\/ILIAS\/Poll\/classes\/class.ilObjPollGUI.php",
+        "line": 93,
+        "code": "$this->lng->txt('rep_activation_online_object_info')",
+        "has_variable": false,
+        "variable": "rep_activation_online_object_info"
+    },
+    {
+        "id": 29798,
+        "file": "components\/ILIAS\/Poll\/classes\/class.ilObjPollGUI.php",
+        "line": 94,
+        "code": "$this->lng->txt('rep_activation_access_ref_info')",
+        "has_variable": false,
+        "variable": "rep_activation_access_ref_info"
+    },
+    {
+        "id": 29800,
+        "file": "components\/ILIAS\/Poll\/classes\/class.ilObjPollGUI.php",
+        "line": 97,
+        "code": "$this->lng->txt('rep_activation_online')",
+        "has_variable": false,
+        "variable": "rep_activation_online"
+    },
+    {
+        "id": 29802,
+        "file": "components\/ILIAS\/Poll\/classes\/class.ilObjPollGUI.php",
+        "line": 98,
+        "code": "$this->lng->txt('poll_activation_online_info')",
+        "has_variable": false,
+        "variable": "poll_activation_online_info"
+    },
+    {
+        "id": 29804,
+        "file": "components\/ILIAS\/Poll\/classes\/class.ilObjPollGUI.php",
+        "line": 101,
+        "code": "$this->lng->txt('rep_time_based_availability')",
+        "has_variable": false,
+        "variable": "rep_time_based_availability"
+    },
+    {
+        "id": 29806,
+        "file": "components\/ILIAS\/Poll\/classes\/class.ilObjPollGUI.php",
+        "line": 109,
+        "code": "$this->lng->txt('poll_voting_period_and_results')",
+        "has_variable": false,
+        "variable": "poll_voting_period_and_results"
+    },
+    {
+        "id": 29808,
+        "file": "components\/ILIAS\/Poll\/classes\/class.ilObjPollGUI.php",
+        "line": 112,
+        "code": "$this->lng->txt('poll_voting_period_limited')",
+        "has_variable": false,
+        "variable": "poll_voting_period_limited"
+    },
+    {
+        "id": 29810,
+        "file": "components\/ILIAS\/Poll\/classes\/class.ilObjPollGUI.php",
+        "line": 116,
+        "code": "$this->lng->txt(\"poll_view_results\")",
+        "has_variable": false,
+        "variable": "poll_view_results"
+    },
+    {
+        "id": 29812,
+        "file": "components\/ILIAS\/Poll\/classes\/class.ilObjPollGUI.php",
+        "line": 118,
+        "code": "$this->lng->txt(\"poll_view_results_always\")",
+        "has_variable": false,
+        "variable": "poll_view_results_always"
+    },
+    {
+        "id": 29814,
+        "file": "components\/ILIAS\/Poll\/classes\/class.ilObjPollGUI.php",
+        "line": 122,
+        "code": "$this->lng->txt(\"poll_view_results_never\")",
+        "has_variable": false,
+        "variable": "poll_view_results_never"
+    },
+    {
+        "id": 29816,
+        "file": "components\/ILIAS\/Poll\/classes\/class.ilObjPollGUI.php",
+        "line": 126,
+        "code": "$this->lng->txt(\"poll_view_results_after_vote\")",
+        "has_variable": false,
+        "variable": "poll_view_results_after_vote"
+    },
+    {
+        "id": 29818,
+        "file": "components\/ILIAS\/Poll\/classes\/class.ilObjPollGUI.php",
+        "line": 130,
+        "code": "$this->lng->txt(\"poll_view_results_after_period\")",
+        "has_variable": false,
+        "variable": "poll_view_results_after_period"
+    },
+    {
+        "id": 29820,
+        "file": "components\/ILIAS\/Poll\/classes\/class.ilObjPollGUI.php",
+        "line": 135,
+        "code": "$this->lng->txt(\"poll_show_results_as\")",
+        "has_variable": false,
+        "variable": "poll_show_results_as"
+    },
+    {
+        "id": 29822,
+        "file": "components\/ILIAS\/Poll\/classes\/class.ilObjPollGUI.php",
+        "line": 137,
+        "code": "$this->lng->txt(\"poll_barchart\")",
+        "has_variable": false,
+        "variable": "poll_barchart"
+    },
+    {
+        "id": 29824,
+        "file": "components\/ILIAS\/Poll\/classes\/class.ilObjPollGUI.php",
+        "line": 142,
+        "code": "$this->lng->txt(\"poll_stacked_chart\")",
+        "has_variable": false,
+        "variable": "poll_stacked_chart"
+    },
+    {
+        "id": 29826,
+        "file": "components\/ILIAS\/Poll\/classes\/class.ilObjPollGUI.php",
+        "line": 147,
+        "code": "$this->lng->txt(\"poll_result_sorting\")",
+        "has_variable": false,
+        "variable": "poll_result_sorting"
+    },
+    {
+        "id": 29828,
+        "file": "components\/ILIAS\/Poll\/classes\/class.ilObjPollGUI.php",
+        "line": 148,
+        "code": "$this->lng->txt(\"poll_result_sorting_answers\")",
+        "has_variable": false,
+        "variable": "poll_result_sorting_answers"
+    },
+    {
+        "id": 29830,
+        "file": "components\/ILIAS\/Poll\/classes\/class.ilObjPollGUI.php",
+        "line": 149,
+        "code": "$this->lng->txt(\"poll_result_sorting_votes\")",
+        "has_variable": false,
+        "variable": "poll_result_sorting_votes"
+    },
+    {
+        "id": 29832,
+        "file": "components\/ILIAS\/Poll\/classes\/class.ilObjPollGUI.php",
+        "line": 153,
+        "code": "$this->lng->txt('poll_comments')",
+        "has_variable": false,
+        "variable": "poll_comments"
+    },
+    {
+        "id": 29834,
+        "file": "components\/ILIAS\/Poll\/classes\/class.ilObjPollGUI.php",
+        "line": 156,
+        "code": "$this->lng->txt('poll_comments')",
+        "has_variable": false,
+        "variable": "poll_comments"
+    },
+    {
+        "id": 29836,
+        "file": "components\/ILIAS\/Poll\/classes\/class.ilObjPollGUI.php",
+        "line": 157,
+        "code": "$this->lng->txt('poll_comments_info')",
+        "has_variable": false,
+        "variable": "poll_comments_info"
+    },
+    {
+        "id": 29838,
+        "file": "components\/ILIAS\/Poll\/classes\/class.ilObjPollGUI.php",
+        "line": 186,
+        "code": "$this->lng->txt(\"poll_cannot_set_online_no_answers\")",
+        "has_variable": false,
+        "variable": "poll_cannot_set_online_no_answers"
+    },
+    {
+        "id": 29840,
+        "file": "components\/ILIAS\/Poll\/classes\/class.ilObjPollGUI.php",
+        "line": 192,
+        "code": "$this->lng->txt(\"poll_view_results_after_period_impossible\")",
+        "has_variable": false,
+        "variable": "poll_view_results_after_period_impossible"
+    },
+    {
+        "id": 29842,
+        "file": "components\/ILIAS\/Poll\/classes\/class.ilObjPollGUI.php",
+        "line": 196,
+        "code": "$this->lng->txt(\"form_input_not_valid\")",
+        "has_variable": false,
+        "variable": "form_input_not_valid"
+    },
+    {
+        "id": 29844,
+        "file": "components\/ILIAS\/Poll\/classes\/class.ilObjPollGUI.php",
+        "line": 238,
+        "code": "$this->lng->txt(\"question\")",
+        "has_variable": false,
+        "variable": "question"
+    },
+    {
+        "id": 29846,
+        "file": "components\/ILIAS\/Poll\/classes\/class.ilObjPollGUI.php",
+        "line": 246,
+        "code": "$this->lng->txt(\"settings\")",
+        "has_variable": false,
+        "variable": "settings"
+    },
+    {
+        "id": 29848,
+        "file": "components\/ILIAS\/Poll\/classes\/class.ilObjPollGUI.php",
+        "line": 252,
+        "code": "$this->lng->txt(\"poll_result\")",
+        "has_variable": false,
+        "variable": "poll_result"
+    },
+    {
+        "id": 29850,
+        "file": "components\/ILIAS\/Poll\/classes\/class.ilObjPollGUI.php",
+        "line": 258,
+        "code": "$this->lng->txt(\"export\")",
+        "has_variable": false,
+        "variable": "export"
+    },
+    {
+        "id": 29852,
+        "file": "components\/ILIAS\/Poll\/classes\/class.ilObjPollGUI.php",
+        "line": 315,
+        "code": "$this->lng->txt(\"no_permission\")",
+        "has_variable": false,
+        "variable": "no_permission"
+    },
+    {
+        "id": 29854,
+        "file": "components\/ILIAS\/Poll\/classes\/class.ilObjPollGUI.php",
+        "line": 326,
+        "code": "$this->lng->txt(\"poll_votes_no_edit\")",
+        "has_variable": false,
+        "variable": "poll_votes_no_edit"
+    },
+    {
+        "id": 29856,
+        "file": "components\/ILIAS\/Poll\/classes\/class.ilObjPollGUI.php",
+        "line": 328,
+        "code": "$this->lng->txt(\"poll_result\")",
+        "has_variable": false,
+        "variable": "poll_result"
+    },
+    {
+        "id": 29858,
+        "file": "components\/ILIAS\/Poll\/classes\/class.ilObjPollGUI.php",
+        "line": 347,
+        "code": "$this->lng->txt(\"obj_poll\")",
+        "has_variable": false,
+        "variable": "obj_poll"
+    },
+    {
+        "id": 29860,
+        "file": "components\/ILIAS\/Poll\/classes\/class.ilObjPollGUI.php",
+        "line": 349,
+        "code": "$this->lng->txt(\"poll_question\")",
+        "has_variable": false,
+        "variable": "poll_question"
+    },
+    {
+        "id": 29862,
+        "file": "components\/ILIAS\/Poll\/classes\/class.ilObjPollGUI.php",
+        "line": 358,
+        "code": "$this->lng->txt(\"poll_image\")",
+        "has_variable": false,
+        "variable": "poll_image"
+    },
+    {
+        "id": 29864,
+        "file": "components\/ILIAS\/Poll\/classes\/class.ilObjPollGUI.php",
+        "line": 368,
+        "code": "$this->lng->txt(\"poll_mode\")",
+        "has_variable": false,
+        "variable": "poll_mode"
+    },
+    {
+        "id": 29866,
+        "file": "components\/ILIAS\/Poll\/classes\/class.ilObjPollGUI.php",
+        "line": 369,
+        "code": "$this->lng->txt(\"poll_mode_anonymous\")",
+        "has_variable": false,
+        "variable": "poll_mode_anonymous"
+    },
+    {
+        "id": 29868,
+        "file": "components\/ILIAS\/Poll\/classes\/class.ilObjPollGUI.php",
+        "line": 370,
+        "code": "$this->lng->txt(\"poll_mode_anonymous_info\")",
+        "has_variable": false,
+        "variable": "poll_mode_anonymous_info"
+    },
+    {
+        "id": 29870,
+        "file": "components\/ILIAS\/Poll\/classes\/class.ilObjPollGUI.php",
+        "line": 372,
+        "code": "$this->lng->txt(\"poll_mode_personal\")",
+        "has_variable": false,
+        "variable": "poll_mode_personal"
+    },
+    {
+        "id": 29872,
+        "file": "components\/ILIAS\/Poll\/classes\/class.ilObjPollGUI.php",
+        "line": 373,
+        "code": "$this->lng->txt(\"poll_mode_personal_info\")",
+        "has_variable": false,
+        "variable": "poll_mode_personal_info"
+    },
+    {
+        "id": 29874,
+        "file": "components\/ILIAS\/Poll\/classes\/class.ilObjPollGUI.php",
+        "line": 379,
+        "code": "$this->lng->txt(\"poll_answers\")",
+        "has_variable": false,
+        "variable": "poll_answers"
+    },
+    {
+        "id": 29876,
+        "file": "components\/ILIAS\/Poll\/classes\/class.ilObjPollGUI.php",
+        "line": 396,
+        "code": "$this->lng->txt(\"poll_limit_number_of_answers\")",
+        "has_variable": false,
+        "variable": "poll_limit_number_of_answers"
+    },
+    {
+        "id": 29878,
+        "file": "components\/ILIAS\/Poll\/classes\/class.ilObjPollGUI.php",
+        "line": 399,
+        "code": "$this->lng->txt(\"poll_max_number_of_answers\")",
+        "has_variable": false,
+        "variable": "poll_max_number_of_answers"
+    },
+    {
+        "id": 29880,
+        "file": "components\/ILIAS\/Poll\/classes\/class.ilObjPollGUI.php",
+        "line": 413,
+        "code": "$this->lng->txt(\"save\")",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 29882,
+        "file": "components\/ILIAS\/Poll\/classes\/class.ilObjPollGUI.php",
+        "line": 431,
+        "code": "$this->lng->txt('poll_limit_not_below_answer_count')",
+        "has_variable": false,
+        "variable": "poll_limit_not_below_answer_count"
+    },
+    {
+        "id": 29884,
+        "file": "components\/ILIAS\/Poll\/classes\/class.ilObjPollGUI.php",
+        "line": 433,
+        "code": "$this->lng->txt('form_input_not_valid')",
+        "has_variable": false,
+        "variable": "form_input_not_valid"
+    },
+    {
+        "id": 29886,
+        "file": "components\/ILIAS\/Poll\/classes\/class.ilObjPollGUI.php",
+        "line": 466,
+        "code": "$this->lng->txt(\"settings_saved\")",
+        "has_variable": false,
+        "variable": "settings_saved"
+    },
+    {
+        "id": 29888,
+        "file": "components\/ILIAS\/Poll\/classes\/class.ilObjPollGUI.php",
+        "line": 483,
+        "code": "$this->lng->txt(\"poll_result_answers\")",
+        "has_variable": false,
+        "variable": "poll_result_answers"
+    },
+    {
+        "id": 29890,
+        "file": "components\/ILIAS\/Poll\/classes\/class.ilObjPollGUI.php",
+        "line": 488,
+        "code": "$this->lng->txt(\"poll_result_users\")",
+        "has_variable": false,
+        "variable": "poll_result_users"
+    },
+    {
+        "id": 29892,
+        "file": "components\/ILIAS\/Poll\/classes\/class.ilObjPollGUI.php",
+        "line": 498,
+        "code": "$this->lng->txt(\"no_permission\")",
+        "has_variable": false,
+        "variable": "no_permission"
+    },
+    {
+        "id": 29894,
+        "file": "components\/ILIAS\/Poll\/classes\/class.ilObjPollGUI.php",
+        "line": 510,
+        "code": "$this->lng->txt(\"poll_delete_votes\")",
+        "has_variable": false,
+        "variable": "poll_delete_votes"
+    },
+    {
+        "id": 29896,
+        "file": "components\/ILIAS\/Poll\/classes\/class.ilObjPollGUI.php",
+        "line": 523,
+        "code": "$this->lng->txt(\"no_permission\")",
+        "has_variable": false,
+        "variable": "no_permission"
+    },
+    {
+        "id": 29898,
+        "file": "components\/ILIAS\/Poll\/classes\/class.ilObjPollGUI.php",
+        "line": 537,
+        "code": "$this->lng->txt(\"no_permission\")",
+        "has_variable": false,
+        "variable": "no_permission"
+    },
+    {
+        "id": 29900,
+        "file": "components\/ILIAS\/Poll\/classes\/class.ilObjPollGUI.php",
+        "line": 544,
+        "code": "$this->lng->txt(\"poll_delete_votes_sure\")",
+        "has_variable": false,
+        "variable": "poll_delete_votes_sure"
+    },
+    {
+        "id": 29902,
+        "file": "components\/ILIAS\/Poll\/classes\/class.ilObjPollGUI.php",
+        "line": 547,
+        "code": "$this->lng->txt(\"cancel\")",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 29904,
+        "file": "components\/ILIAS\/Poll\/classes\/class.ilObjPollGUI.php",
+        "line": 548,
+        "code": "$this->lng->txt(\"confirm\")",
+        "has_variable": false,
+        "variable": "confirm"
+    },
+    {
+        "id": 29906,
+        "file": "components\/ILIAS\/Poll\/classes\/class.ilObjPollGUI.php",
+        "line": 556,
+        "code": "$this->lng->txt(\"no_permission\")",
+        "has_variable": false,
+        "variable": "no_permission"
+    },
+    {
+        "id": 29908,
+        "file": "components\/ILIAS\/Poll\/classes\/class.ilObjPollGUI.php",
+        "line": 601,
+        "code": "$this->lng->txt(\"poll_notification_activated\")",
+        "has_variable": false,
+        "variable": "poll_notification_activated"
+    },
+    {
+        "id": 29910,
+        "file": "components\/ILIAS\/Poll\/classes\/class.ilObjPollGUI.php",
+        "line": 609,
+        "code": "$this->lng->txt(\"poll_notification_deactivated\")",
+        "has_variable": false,
+        "variable": "poll_notification_deactivated"
+    },
+    {
+        "id": 29912,
+        "file": "components\/ILIAS\/Poll\/classes\/class.ilPollAnswerTableGUI.php",
+        "line": 39,
+        "code": "$this->lng->txt(\"poll_sortorder\")",
+        "has_variable": false,
+        "variable": "poll_sortorder"
+    },
+    {
+        "id": 29914,
+        "file": "components\/ILIAS\/Poll\/classes\/class.ilPollAnswerTableGUI.php",
+        "line": 40,
+        "code": "$this->lng->txt(\"poll_answer\")",
+        "has_variable": false,
+        "variable": "poll_answer"
+    },
+    {
+        "id": 29916,
+        "file": "components\/ILIAS\/Poll\/classes\/class.ilPollAnswerTableGUI.php",
+        "line": 41,
+        "code": "$this->lng->txt(\"poll_absolute\")",
+        "has_variable": false,
+        "variable": "poll_absolute"
+    },
+    {
+        "id": 29918,
+        "file": "components\/ILIAS\/Poll\/classes\/class.ilPollAnswerTableGUI.php",
+        "line": 42,
+        "code": "$this->lng->txt(\"poll_percentage\")",
+        "has_variable": false,
+        "variable": "poll_percentage"
+    },
+    {
+        "id": 29920,
+        "file": "components\/ILIAS\/Poll\/classes\/class.ilPollAnswerTableGUI.php",
+        "line": 47,
+        "code": "$this->lng->txt(\"poll_question\")",
+        "has_variable": false,
+        "variable": "poll_question"
+    },
+    {
+        "id": 29922,
+        "file": "components\/ILIAS\/Poll\/classes\/class.ilPollAnswerTableGUI.php",
+        "line": 50,
+        "code": "$this->lng->txt(\"poll_population\")",
+        "has_variable": false,
+        "variable": "poll_population"
+    },
+    {
+        "id": 29924,
+        "file": "components\/ILIAS\/Poll\/classes\/class.ilPollUserTableGUI.php",
+        "line": 49,
+        "code": "$lng->txt('poll_answer_selected_alt_text')",
+        "has_variable": false,
+        "variable": "poll_answer_selected_alt_text"
+    },
+    {
+        "id": 29926,
+        "file": "components\/ILIAS\/Poll\/classes\/class.ilPollUserTableGUI.php",
+        "line": 58,
+        "code": "$lng->txt(\"login\")",
+        "has_variable": false,
+        "variable": "login"
+    },
+    {
+        "id": 29928,
+        "file": "components\/ILIAS\/Poll\/classes\/class.ilPollUserTableGUI.php",
+        "line": 59,
+        "code": "$lng->txt(\"lastname\")",
+        "has_variable": false,
+        "variable": "lastname"
+    },
+    {
+        "id": 29930,
+        "file": "components\/ILIAS\/Poll\/classes\/class.ilPollUserTableGUI.php",
+        "line": 60,
+        "code": "$lng->txt(\"firstname\")",
+        "has_variable": false,
+        "variable": "firstname"
+    },
+    {
+        "id": 29932,
+        "file": "components\/ILIAS\/Poll\/classes\/class.ilPollUserTableGUI.php",
+        "line": 70,
+        "code": "$this->lng->txt(\"poll_question\")",
+        "has_variable": false,
+        "variable": "poll_question"
+    }
+]

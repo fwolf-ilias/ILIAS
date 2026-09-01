@@ -1,0 +1,1634 @@
+[
+    {
+        "id": 16654,
+        "file": "components\/ILIAS\/File\/classes\/Icons\/class.ilObjFileIconsOverviewGUI.php",
+        "line": 108,
+        "code": "$this->lng->txt('add_icon')",
+        "has_variable": false,
+        "variable": "add_icon"
+    },
+    {
+        "id": 16656,
+        "file": "components\/ILIAS\/File\/classes\/Icons\/class.ilObjFileIconsOverviewGUI.php",
+        "line": 173,
+        "code": "$this->lng->txt('msg_success_icon_activated')",
+        "has_variable": false,
+        "variable": "msg_success_icon_activated"
+    },
+    {
+        "id": 16658,
+        "file": "components\/ILIAS\/File\/classes\/Icons\/class.ilObjFileIconsOverviewGUI.php",
+        "line": 177,
+        "code": "$this->lng->txt('msg_error_active_suffixes_conflict')",
+        "has_variable": false,
+        "variable": "msg_error_active_suffixes_conflict"
+    },
+    {
+        "id": 16660,
+        "file": "components\/ILIAS\/File\/classes\/Icons\/class.ilObjFileIconsOverviewGUI.php",
+        "line": 183,
+        "code": "$this->lng->txt('msg_success_icon_deactivated')",
+        "has_variable": false,
+        "variable": "msg_success_icon_deactivated"
+    },
+    {
+        "id": 16662,
+        "file": "components\/ILIAS\/File\/classes\/Icons\/class.ilObjFileIconsOverviewGUI.php",
+        "line": 209,
+        "code": "$this->lng->txt('msg_error_active_suffixes_not_whitelisted')",
+        "has_variable": false,
+        "variable": "msg_error_active_suffixes_not_whitelisted"
+    },
+    {
+        "id": 16664,
+        "file": "components\/ILIAS\/File\/classes\/Icons\/class.ilObjFileIconsOverviewGUI.php",
+        "line": 218,
+        "code": "$this->lng->txt('msg_error_active_suffixes_blacklisted')",
+        "has_variable": false,
+        "variable": "msg_error_active_suffixes_blacklisted"
+    },
+    {
+        "id": 16666,
+        "file": "components\/ILIAS\/File\/classes\/Icons\/class.ilObjFileIconsOverviewGUI.php",
+        "line": 223,
+        "code": "$this->lng->txt('msg_success_icon_created')",
+        "has_variable": false,
+        "variable": "msg_success_icon_created"
+    },
+    {
+        "id": 16668,
+        "file": "components\/ILIAS\/File\/classes\/Icons\/class.ilObjFileIconsOverviewGUI.php",
+        "line": 258,
+        "code": "$this->lng->txt('msg_success_icon_updated')",
+        "has_variable": false,
+        "variable": "msg_success_icon_updated"
+    },
+    {
+        "id": 16670,
+        "file": "components\/ILIAS\/File\/classes\/Icons\/class.ilObjFileIconsOverviewGUI.php",
+        "line": 287,
+        "code": "$this->lng->txt('msg_success_icon_deletion')",
+        "has_variable": false,
+        "variable": "msg_success_icon_deletion"
+    },
+    {
+        "id": 16672,
+        "file": "components\/ILIAS\/File\/classes\/Icons\/class.ilObjFileIconsOverviewGUI.php",
+        "line": 291,
+        "code": "$this->lng->txt('msg_error_icon_deletion')",
+        "has_variable": false,
+        "variable": "msg_error_icon_deletion"
+    },
+    {
+        "id": 16674,
+        "file": "components\/ILIAS\/File\/classes\/Icons\/class.ilObjFileIconsOverviewGUI.php",
+        "line": 291,
+        "code": "$this->lng->txt('msg_icon_missing_from_db')",
+        "has_variable": false,
+        "variable": "msg_icon_missing_from_db"
+    },
+    {
+        "id": 16676,
+        "file": "components\/ILIAS\/File\/classes\/Icons\/class.ilObjFileIconsOverviewGUI.php",
+        "line": 297,
+        "code": "$this->lng->txt('msg_error_icon_deletion')",
+        "has_variable": false,
+        "variable": "msg_error_icon_deletion"
+    },
+    {
+        "id": 16678,
+        "file": "components\/ILIAS\/File\/classes\/Icons\/class.ilObjFileIconsOverviewGUI.php",
+        "line": 297,
+        "code": "$this->lng->txt('msg_icon_missing_from_irss')",
+        "has_variable": false,
+        "variable": "msg_icon_missing_from_irss"
+    },
+    {
+        "id": 16680,
+        "file": "components\/ILIAS\/File\/classes\/Icons\/class.ilObjFileIconsOverviewGUI.php",
+        "line": 303,
+        "code": "$this->lng->txt('msg_error_icon_deletion')",
+        "has_variable": false,
+        "variable": "msg_error_icon_deletion"
+    },
+    {
+        "id": 16682,
+        "file": "components\/ILIAS\/File\/classes\/Icons\/class.ilObjFileIconsOverviewGUI.php",
+        "line": 303,
+        "code": "$this->lng->txt(\n                    'msg_icon_missing_from_db'\n                )",
+        "has_variable": false,
+        "variable": "msg_icon_missing_from_db"
+    },
+    {
+        "id": 16684,
+        "file": "components\/ILIAS\/File\/classes\/Icons\/class.ilObjFileIconsOverviewGUI.php",
+        "line": 305,
+        "code": "$this->lng->txt('msg_icon_missing_from_irss')",
+        "has_variable": false,
+        "variable": "msg_icon_missing_from_irss"
+    },
+    {
+        "id": 16686,
+        "file": "components\/ILIAS\/File\/classes\/ObjectProperties\/class.ilFileCommonSettingsGUI.php",
+        "line": 56,
+        "code": "$this->txt('obj_features')",
+        "has_variable": false,
+        "variable": "obj_features"
+    },
+    {
+        "id": 16688,
+        "file": "components\/ILIAS\/File\/classes\/ObjectProperties\/class.ilFileCommonSettingsGUI.php",
+        "line": 57,
+        "code": "$this->txt('save')",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 16690,
+        "file": "components\/ILIAS\/File\/classes\/ObjectProperties\/class.ilFileCommonSettingsGUI.php",
+        "line": 58,
+        "code": "$this->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 16692,
+        "file": "components\/ILIAS\/File\/classes\/ObjectProperties\/class.ilFileCommonSettingsGUI.php",
+        "line": 96,
+        "code": "$this->lng->txt('service_settings_saved')",
+        "has_variable": false,
+        "variable": "service_settings_saved"
+    },
+    {
+        "id": 16694,
+        "file": "components\/ILIAS\/File\/classes\/ObjectProperties\/class.ilFileCommonSettingsGUI.php",
+        "line": 102,
+        "code": "$this->lng->txt($code)",
+        "has_variable": true,
+        "variable": "$code"
+    },
+    {
+        "id": 16696,
+        "file": "components\/ILIAS\/File\/classes\/Preview\/Form.php",
+        "line": 32,
+        "code": "$this->language->txt('preview')",
+        "has_variable": false,
+        "variable": "preview"
+    },
+    {
+        "id": 16698,
+        "file": "components\/ILIAS\/File\/classes\/Preview\/Form.php",
+        "line": 42,
+        "code": "$this->language->txt('enable_preview')",
+        "has_variable": false,
+        "variable": "enable_preview"
+    },
+    {
+        "id": 16700,
+        "file": "components\/ILIAS\/File\/classes\/Preview\/Form.php",
+        "line": 43,
+        "code": "$this->language->txt('enable_preview_info')",
+        "has_variable": false,
+        "variable": "enable_preview_info"
+    },
+    {
+        "id": 16702,
+        "file": "components\/ILIAS\/File\/classes\/Preview\/Form.php",
+        "line": 55,
+        "code": "$this->language->txt('preview_image_size')",
+        "has_variable": false,
+        "variable": "preview_image_size"
+    },
+    {
+        "id": 16704,
+        "file": "components\/ILIAS\/File\/classes\/Preview\/Form.php",
+        "line": 56,
+        "code": "$this->language->txt('preview_image_size_info')",
+        "has_variable": false,
+        "variable": "preview_image_size_info"
+    },
+    {
+        "id": 16706,
+        "file": "components\/ILIAS\/File\/classes\/Preview\/Form.php",
+        "line": 69,
+        "code": "$this->language->txt('preview_persisting')",
+        "has_variable": false,
+        "variable": "preview_persisting"
+    },
+    {
+        "id": 16708,
+        "file": "components\/ILIAS\/File\/classes\/Preview\/Form.php",
+        "line": 70,
+        "code": "$this->language->txt('preview_persisting_info')",
+        "has_variable": false,
+        "variable": "preview_persisting_info"
+    },
+    {
+        "id": 16710,
+        "file": "components\/ILIAS\/File\/classes\/Preview\/Form.php",
+        "line": 82,
+        "code": "$this->language->txt('max_previews_per_object')",
+        "has_variable": false,
+        "variable": "max_previews_per_object"
+    },
+    {
+        "id": 16712,
+        "file": "components\/ILIAS\/File\/classes\/Preview\/Form.php",
+        "line": 83,
+        "code": "$this->language->txt('max_previews_per_object_info')",
+        "has_variable": false,
+        "variable": "max_previews_per_object_info"
+    },
+    {
+        "id": 16714,
+        "file": "components\/ILIAS\/File\/classes\/Preview\/Form.php",
+        "line": 95,
+        "code": "$this->language->txt('previews_for_tiles')",
+        "has_variable": false,
+        "variable": "previews_for_tiles"
+    },
+    {
+        "id": 16716,
+        "file": "components\/ILIAS\/File\/classes\/Preview\/Form.php",
+        "line": 96,
+        "code": "$this->language->txt('previews_for_tiles_info')",
+        "has_variable": false,
+        "variable": "previews_for_tiles_info"
+    },
+    {
+        "id": 16718,
+        "file": "components\/ILIAS\/File\/classes\/Preview\/class.ilObjFilePreviewRendererGUI.php",
+        "line": 181,
+        "code": "$this->language->txt('show_preview')",
+        "has_variable": false,
+        "variable": "show_preview"
+    },
+    {
+        "id": 16720,
+        "file": "components\/ILIAS\/File\/classes\/Preview\/class.ilObjFilePreviewRendererGUI.php",
+        "line": 265,
+        "code": "$this->language->txt('preview_caption')",
+        "has_variable": false,
+        "variable": "preview_caption"
+    },
+    {
+        "id": 16722,
+        "file": "components\/ILIAS\/File\/classes\/Preview\/class.ilObjFilePreviewRendererGUI.php",
+        "line": 287,
+        "code": "$this->language->txt('preview_not_possible')",
+        "has_variable": false,
+        "variable": "preview_not_possible"
+    },
+    {
+        "id": 16724,
+        "file": "components\/ILIAS\/File\/classes\/Preview\/class.ilObjFilePreviewRendererGUI.php",
+        "line": 290,
+        "code": "$this->language->txt('preview')",
+        "has_variable": false,
+        "variable": "preview"
+    },
+    {
+        "id": 16726,
+        "file": "components\/ILIAS\/File\/classes\/Settings\/Form.php",
+        "line": 33,
+        "code": "$this->language->txt('settings')",
+        "has_variable": false,
+        "variable": "settings"
+    },
+    {
+        "id": 16728,
+        "file": "components\/ILIAS\/File\/classes\/Settings\/Form.php",
+        "line": 41,
+        "code": "$this->language->txt('bgtask_setting_limit')",
+        "has_variable": false,
+        "variable": "bgtask_setting_limit"
+    },
+    {
+        "id": 16730,
+        "file": "components\/ILIAS\/File\/classes\/Settings\/Form.php",
+        "line": 42,
+        "code": "$this->language->txt('bgtask_setting_limit_info')",
+        "has_variable": false,
+        "variable": "bgtask_setting_limit_info"
+    },
+    {
+        "id": 16732,
+        "file": "components\/ILIAS\/File\/classes\/Settings\/Form.php",
+        "line": 56,
+        "code": "$this->language->txt('inline_file_extensions')",
+        "has_variable": false,
+        "variable": "inline_file_extensions"
+    },
+    {
+        "id": 16734,
+        "file": "components\/ILIAS\/File\/classes\/Settings\/Form.php",
+        "line": 58,
+        "code": "$this->language->txt('inline_file_extensions_info')",
+        "has_variable": false,
+        "variable": "inline_file_extensions_info"
+    },
+    {
+        "id": 16736,
+        "file": "components\/ILIAS\/File\/classes\/Settings\/Form.php",
+        "line": 71,
+        "code": "$this->language->txt('show_amount_of_downloads')",
+        "has_variable": false,
+        "variable": "show_amount_of_downloads"
+    },
+    {
+        "id": 16738,
+        "file": "components\/ILIAS\/File\/classes\/Settings\/Form.php",
+        "line": 72,
+        "code": "$this->language->txt('show_amount_of_downloads_info')",
+        "has_variable": false,
+        "variable": "show_amount_of_downloads_info"
+    },
+    {
+        "id": 16740,
+        "file": "components\/ILIAS\/File\/classes\/Settings\/Form.php",
+        "line": 87,
+        "code": "$this->language->txt('download_ascii_filename')",
+        "has_variable": false,
+        "variable": "download_ascii_filename"
+    },
+    {
+        "id": 16742,
+        "file": "components\/ILIAS\/File\/classes\/Settings\/Form.php",
+        "line": 88,
+        "code": "$this->language->txt('download_ascii_filename_info')",
+        "has_variable": false,
+        "variable": "download_ascii_filename_info"
+    },
+    {
+        "id": 16744,
+        "file": "components\/ILIAS\/File\/classes\/Versions\/class.ilFileVersionFormGUI.php",
+        "line": 76,
+        "code": "$this->lng->txt('replace_file_info')",
+        "has_variable": false,
+        "variable": "replace_file_info"
+    },
+    {
+        "id": 16746,
+        "file": "components\/ILIAS\/File\/classes\/Versions\/class.ilFileVersionFormGUI.php",
+        "line": 77,
+        "code": "$this->lng->txt('replace_file')",
+        "has_variable": false,
+        "variable": "replace_file"
+    },
+    {
+        "id": 16748,
+        "file": "components\/ILIAS\/File\/classes\/Versions\/class.ilFileVersionFormGUI.php",
+        "line": 81,
+        "code": "$this->lng->txt('file_new_version_info')",
+        "has_variable": false,
+        "variable": "file_new_version_info"
+    },
+    {
+        "id": 16750,
+        "file": "components\/ILIAS\/File\/classes\/Versions\/class.ilFileVersionFormGUI.php",
+        "line": 82,
+        "code": "$this->lng->txt('file_new_version')",
+        "has_variable": false,
+        "variable": "file_new_version"
+    },
+    {
+        "id": 16752,
+        "file": "components\/ILIAS\/File\/classes\/Versions\/class.ilFileVersionFormGUI.php",
+        "line": 95,
+        "code": "$this->lng->txt(self::F_TITLE)",
+        "has_variable": true,
+        "variable": "F_TITLE"
+    },
+    {
+        "id": 16754,
+        "file": "components\/ILIAS\/File\/classes\/Versions\/class.ilFileVersionFormGUI.php",
+        "line": 96,
+        "code": "$this->lng->txt(\"if_no_title_then_filename\")",
+        "has_variable": false,
+        "variable": "if_no_title_then_filename"
+    },
+    {
+        "id": 16756,
+        "file": "components\/ILIAS\/File\/classes\/Versions\/class.ilFileVersionFormGUI.php",
+        "line": 102,
+        "code": "$this->lng->txt(self::F_DESCRIPTION)",
+        "has_variable": true,
+        "variable": "F_DESCRIPTION"
+    },
+    {
+        "id": 16758,
+        "file": "components\/ILIAS\/File\/classes\/Versions\/class.ilFileVersionFormGUI.php",
+        "line": 106,
+        "code": "$this->lng->txt(self::F_FILE)",
+        "has_variable": true,
+        "variable": "F_FILE"
+    },
+    {
+        "id": 16760,
+        "file": "components\/ILIAS\/File\/classes\/Versions\/class.ilFileVersionsGUI.php",
+        "line": 162,
+        "code": "$this->lng->txt('back')",
+        "has_variable": false,
+        "variable": "back"
+    },
+    {
+        "id": 16762,
+        "file": "components\/ILIAS\/File\/classes\/Versions\/class.ilFileVersionsGUI.php",
+        "line": 171,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 16764,
+        "file": "components\/ILIAS\/File\/classes\/Versions\/class.ilFileVersionsGUI.php",
+        "line": 231,
+        "code": "$this->lng->txt('msg_obj_modified')",
+        "has_variable": false,
+        "variable": "msg_obj_modified"
+    },
+    {
+        "id": 16766,
+        "file": "components\/ILIAS\/File\/classes\/Versions\/class.ilFileVersionsGUI.php",
+        "line": 239,
+        "code": "$this->lng->txt('msg_cant_unpublish')",
+        "has_variable": false,
+        "variable": "msg_cant_unpublish"
+    },
+    {
+        "id": 16768,
+        "file": "components\/ILIAS\/File\/classes\/Versions\/class.ilFileVersionsGUI.php",
+        "line": 245,
+        "code": "$this->lng->txt('msg_obj_modified')",
+        "has_variable": false,
+        "variable": "msg_obj_modified"
+    },
+    {
+        "id": 16770,
+        "file": "components\/ILIAS\/File\/classes\/Versions\/class.ilFileVersionsGUI.php",
+        "line": 265,
+        "code": "$this->lng->txt('file_upload_info_file_with_critical_extension')",
+        "has_variable": false,
+        "variable": "file_upload_info_file_with_critical_extension"
+    },
+    {
+        "id": 16772,
+        "file": "components\/ILIAS\/File\/classes\/Versions\/class.ilFileVersionsGUI.php",
+        "line": 272,
+        "code": "$this->lng->txt('msg_unzip_success')",
+        "has_variable": false,
+        "variable": "msg_unzip_success"
+    },
+    {
+        "id": 16774,
+        "file": "components\/ILIAS\/File\/classes\/Versions\/class.ilFileVersionsGUI.php",
+        "line": 277,
+        "code": "$this->lng->txt('file_not_found')",
+        "has_variable": false,
+        "variable": "file_not_found"
+    },
+    {
+        "id": 16776,
+        "file": "components\/ILIAS\/File\/classes\/Versions\/class.ilFileVersionsGUI.php",
+        "line": 293,
+        "code": "$this->lng->txt('file_new_version')",
+        "has_variable": false,
+        "variable": "file_new_version"
+    },
+    {
+        "id": 16778,
+        "file": "components\/ILIAS\/File\/classes\/Versions\/class.ilFileVersionsGUI.php",
+        "line": 302,
+        "code": "$this->lng->txt('replace_file')",
+        "has_variable": false,
+        "variable": "replace_file"
+    },
+    {
+        "id": 16780,
+        "file": "components\/ILIAS\/File\/classes\/Versions\/class.ilFileVersionsGUI.php",
+        "line": 315,
+        "code": "$this->lng->txt('unzip')",
+        "has_variable": false,
+        "variable": "unzip"
+    },
+    {
+        "id": 16782,
+        "file": "components\/ILIAS\/File\/classes\/Versions\/class.ilFileVersionsGUI.php",
+        "line": 330,
+        "code": "$this->lng->txt('open_external_editor')",
+        "has_variable": false,
+        "variable": "open_external_editor"
+    },
+    {
+        "id": 16784,
+        "file": "components\/ILIAS\/File\/classes\/Versions\/class.ilFileVersionsGUI.php",
+        "line": 342,
+        "code": "$this->lng->txt('file_version_draft_info')",
+        "has_variable": false,
+        "variable": "file_version_draft_info"
+    },
+    {
+        "id": 16786,
+        "file": "components\/ILIAS\/File\/classes\/Versions\/class.ilFileVersionsGUI.php",
+        "line": 345,
+        "code": "$this->lng->txt('file_publish')",
+        "has_variable": false,
+        "variable": "file_publish"
+    },
+    {
+        "id": 16788,
+        "file": "components\/ILIAS\/File\/classes\/Versions\/class.ilFileVersionsGUI.php",
+        "line": 370,
+        "code": "$this->lng->txt('msg_obj_modified')",
+        "has_variable": false,
+        "variable": "msg_obj_modified"
+    },
+    {
+        "id": 16790,
+        "file": "components\/ILIAS\/File\/classes\/Versions\/class.ilFileVersionsGUI.php",
+        "line": 390,
+        "code": "$this->lng->txt(\"file_rollback_select_exact_one\")",
+        "has_variable": false,
+        "variable": "file_rollback_select_exact_one"
+    },
+    {
+        "id": 16792,
+        "file": "components\/ILIAS\/File\/classes\/Versions\/class.ilFileVersionsGUI.php",
+        "line": 395,
+        "code": "$this->lng->txt(\"file_rollback_rollback_first\")",
+        "has_variable": false,
+        "variable": "file_rollback_rollback_first"
+    },
+    {
+        "id": 16794,
+        "file": "components\/ILIAS\/File\/classes\/Versions\/class.ilFileVersionsGUI.php",
+        "line": 402,
+        "code": "$this->lng->txt(\"file_rollback_same_version\")",
+        "has_variable": false,
+        "variable": "file_rollback_same_version"
+    },
+    {
+        "id": 16796,
+        "file": "components\/ILIAS\/File\/classes\/Versions\/class.ilFileVersionsGUI.php",
+        "line": 408,
+        "code": "$this->lng->txt(\"file_rollback_done\")",
+        "has_variable": false,
+        "variable": "file_rollback_done"
+    },
+    {
+        "id": 16798,
+        "file": "components\/ILIAS\/File\/classes\/Versions\/class.ilFileVersionsGUI.php",
+        "line": 418,
+        "code": "$this->lng->txt(\"file_versions_deleted\")",
+        "has_variable": false,
+        "variable": "file_versions_deleted"
+    },
+    {
+        "id": 16800,
+        "file": "components\/ILIAS\/File\/classes\/Versions\/class.ilFileVersionsGUI.php",
+        "line": 555,
+        "code": "$this->lng->txt('publish_before_delete')",
+        "has_variable": false,
+        "variable": "publish_before_delete"
+    },
+    {
+        "id": 16802,
+        "file": "components\/ILIAS\/File\/classes\/Versions\/class.ilFileVersionsGUI.php",
+        "line": 563,
+        "code": "$this->lng->txt(\"no_checkbox\")",
+        "has_variable": false,
+        "variable": "no_checkbox"
+    },
+    {
+        "id": 16804,
+        "file": "components\/ILIAS\/File\/classes\/Versions\/class.ilFileVersionsGUI.php",
+        "line": 580,
+        "code": "$this->lng->txt('take_over_structure')",
+        "has_variable": false,
+        "variable": "take_over_structure"
+    },
+    {
+        "id": 16806,
+        "file": "components\/ILIAS\/File\/classes\/Versions\/class.ilFileVersionsGUI.php",
+        "line": 581,
+        "code": "$this->lng->txt('take_over_structure_info')",
+        "has_variable": false,
+        "variable": "take_over_structure_info"
+    },
+    {
+        "id": 16808,
+        "file": "components\/ILIAS\/File\/classes\/Versions\/class.ilFileVersionsGUI.php",
+        "line": 604,
+        "code": "$this->lng->txt(\"copyright_inherited\")",
+        "has_variable": false,
+        "variable": "copyright_inherited"
+    },
+    {
+        "id": 16810,
+        "file": "components\/ILIAS\/File\/classes\/Versions\/class.ilFileVersionsGUI.php",
+        "line": 606,
+        "code": "$this->lng->txt(\"copyright_inherited_info\")",
+        "has_variable": false,
+        "variable": "copyright_inherited_info"
+    },
+    {
+        "id": 16812,
+        "file": "components\/ILIAS\/File\/classes\/Versions\/class.ilFileVersionsGUI.php",
+        "line": 615,
+        "code": "$this->lng->txt(\"copyright_custom\")",
+        "has_variable": false,
+        "variable": "copyright_custom"
+    },
+    {
+        "id": 16814,
+        "file": "components\/ILIAS\/File\/classes\/Versions\/class.ilFileVersionsGUI.php",
+        "line": 616,
+        "code": "$this->lng->txt(\"copyright_custom_info\")",
+        "has_variable": false,
+        "variable": "copyright_custom_info"
+    },
+    {
+        "id": 16816,
+        "file": "components\/ILIAS\/File\/classes\/Versions\/class.ilFileVersionsGUI.php",
+        "line": 621,
+        "code": "$this->lng->txt(\"md_copyright\")",
+        "has_variable": false,
+        "variable": "md_copyright"
+    },
+    {
+        "id": 16818,
+        "file": "components\/ILIAS\/File\/classes\/class.ilFileKioskModeView.php",
+        "line": 116,
+        "code": "$this->lng->txt('file_btn_lp_toggle_state_completed')",
+        "has_variable": false,
+        "variable": "file_btn_lp_toggle_state_completed"
+    },
+    {
+        "id": 16820,
+        "file": "components\/ILIAS\/File\/classes\/class.ilFileKioskModeView.php",
+        "line": 118,
+        "code": "$this->lng->txt('file_btn_lp_toggle_state_not_completed')",
+        "has_variable": false,
+        "variable": "file_btn_lp_toggle_state_not_completed"
+    },
+    {
+        "id": 16822,
+        "file": "components\/ILIAS\/File\/classes\/class.ilFileNewsRendererGUI.php",
+        "line": 37,
+        "code": "$this->lng->txt(\"download\")",
+        "has_variable": false,
+        "variable": "download"
+    },
+    {
+        "id": 16824,
+        "file": "components\/ILIAS\/File\/classes\/class.ilObjFileAccess.php",
+        "line": 143,
+        "code": "$lng->txt(\"offline\")",
+        "has_variable": false,
+        "variable": "offline"
+    },
+    {
+        "id": 16826,
+        "file": "components\/ILIAS\/File\/classes\/class.ilObjFileAccess.php",
+        "line": 151,
+        "code": "$lng->txt(\"offline\")",
+        "has_variable": false,
+        "variable": "offline"
+    },
+    {
+        "id": 16828,
+        "file": "components\/ILIAS\/File\/classes\/class.ilObjFileAccess.php",
+        "line": 153,
+        "code": "$lng->txt(\"online\")",
+        "has_variable": false,
+        "variable": "online"
+    },
+    {
+        "id": 16830,
+        "file": "components\/ILIAS\/File\/classes\/class.ilObjFileAccess.php",
+        "line": 163,
+        "code": "$lng->txt(\"offline\")",
+        "has_variable": false,
+        "variable": "offline"
+    },
+    {
+        "id": 16832,
+        "file": "components\/ILIAS\/File\/classes\/class.ilObjFileAccess.php",
+        "line": 301,
+        "code": "$lng->txt('copy_n_of_suffix')",
+        "has_variable": false,
+        "variable": "copy_n_of_suffix"
+    },
+    {
+        "id": 16834,
+        "file": "components\/ILIAS\/File\/classes\/class.ilObjFileAccess.php",
+        "line": 313,
+        "code": "$lng->txt('copy_of_suffix')",
+        "has_variable": false,
+        "variable": "copy_of_suffix"
+    },
+    {
+        "id": 16836,
+        "file": "components\/ILIAS\/File\/classes\/class.ilObjFileAccess.php",
+        "line": 320,
+        "code": "$lng->txt('copy_of_suffix')",
+        "has_variable": false,
+        "variable": "copy_of_suffix"
+    },
+    {
+        "id": 16838,
+        "file": "components\/ILIAS\/File\/classes\/class.ilObjFileAccess.php",
+        "line": 339,
+        "code": "$lng->txt('copy_n_of_suffix')",
+        "has_variable": false,
+        "variable": "copy_n_of_suffix"
+    },
+    {
+        "id": 16840,
+        "file": "components\/ILIAS\/File\/classes\/class.ilObjFileAccess.php",
+        "line": 346,
+        "code": "$lng->txt('copy_of_suffix')",
+        "has_variable": false,
+        "variable": "copy_of_suffix"
+    },
+    {
+        "id": 16842,
+        "file": "components\/ILIAS\/File\/classes\/class.ilObjFileAccessSettingsGUI.php",
+        "line": 81,
+        "code": "$this->lng->txt('no_permission')",
+        "has_variable": false,
+        "variable": "no_permission"
+    },
+    {
+        "id": 16844,
+        "file": "components\/ILIAS\/File\/classes\/class.ilObjFileAccessSettingsGUI.php",
+        "line": 194,
+        "code": "$this->language->txt('settings_saved')",
+        "has_variable": false,
+        "variable": "settings_saved"
+    },
+    {
+        "id": 16846,
+        "file": "components\/ILIAS\/File\/classes\/class.ilObjFileComponentBuilder.php",
+        "line": 42,
+        "code": "$this->lng->txt(\"icon\")",
+        "has_variable": false,
+        "variable": "icon"
+    },
+    {
+        "id": 16848,
+        "file": "components\/ILIAS\/File\/classes\/class.ilObjFileComponentBuilder.php",
+        "line": 42,
+        "code": "$this->lng->txt(\"obj_\" . $file->getType())",
+        "has_variable": true,
+        "variable": "\"obj_\" . $file->getType()"
+    },
+    {
+        "id": 16850,
+        "file": "components\/ILIAS\/File\/classes\/class.ilObjFileComponentBuilder.php",
+        "line": 58,
+        "code": "$this->lng->txt('delete')",
+        "has_variable": false,
+        "variable": "delete"
+    },
+    {
+        "id": 16852,
+        "file": "components\/ILIAS\/File\/classes\/class.ilObjFileComponentBuilder.php",
+        "line": 59,
+        "code": "$this->lng->txt('file_confirm_delete_versions')",
+        "has_variable": false,
+        "variable": "file_confirm_delete_versions"
+    },
+    {
+        "id": 16854,
+        "file": "components\/ILIAS\/File\/classes\/class.ilObjFileComponentBuilder.php",
+        "line": 72,
+        "code": "$this->lng->txt(\"icon\")",
+        "has_variable": false,
+        "variable": "icon"
+    },
+    {
+        "id": 16856,
+        "file": "components\/ILIAS\/File\/classes\/class.ilObjFileComponentBuilder.php",
+        "line": 72,
+        "code": "$this->lng->txt(\"obj_\" . $file->getType())",
+        "has_variable": true,
+        "variable": "\"obj_\" . $file->getType()"
+    },
+    {
+        "id": 16858,
+        "file": "components\/ILIAS\/File\/classes\/class.ilObjFileComponentBuilder.php",
+        "line": 76,
+        "code": "$this->lng->txt('delete')",
+        "has_variable": false,
+        "variable": "delete"
+    },
+    {
+        "id": 16860,
+        "file": "components\/ILIAS\/File\/classes\/class.ilObjFileComponentBuilder.php",
+        "line": 77,
+        "code": "$this->lng->txt('file_confirm_delete_all_versions')",
+        "has_variable": false,
+        "variable": "file_confirm_delete_all_versions"
+    },
+    {
+        "id": 16862,
+        "file": "components\/ILIAS\/File\/classes\/class.ilObjFileGUI.php",
+        "line": 219,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 16864,
+        "file": "components\/ILIAS\/File\/classes\/class.ilObjFileGUI.php",
+        "line": 281,
+        "code": "$this->lng->txt(\"permission_denied\")",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 16866,
+        "file": "components\/ILIAS\/File\/classes\/class.ilObjFileGUI.php",
+        "line": 304,
+        "code": "$this->lng->txt(\"permission_denied\")",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 16868,
+        "file": "components\/ILIAS\/File\/classes\/class.ilObjFileGUI.php",
+        "line": 407,
+        "code": "$this->lng->txt(\"option\")",
+        "has_variable": false,
+        "variable": "option"
+    },
+    {
+        "id": 16870,
+        "file": "components\/ILIAS\/File\/classes\/class.ilObjFileGUI.php",
+        "line": 425,
+        "code": "$this->lng->txt(\"option\")",
+        "has_variable": false,
+        "variable": "option"
+    },
+    {
+        "id": 16872,
+        "file": "components\/ILIAS\/File\/classes\/class.ilObjFileGUI.php",
+        "line": 442,
+        "code": "$this->lng->txt('upload_files')",
+        "has_variable": false,
+        "variable": "upload_files"
+    },
+    {
+        "id": 16874,
+        "file": "components\/ILIAS\/File\/classes\/class.ilObjFileGUI.php",
+        "line": 460,
+        "code": "$this->lng->txt('upload_files')",
+        "has_variable": false,
+        "variable": "upload_files"
+    },
+    {
+        "id": 16876,
+        "file": "components\/ILIAS\/File\/classes\/class.ilObjFileGUI.php",
+        "line": 464,
+        "code": "$this->lng->txt('title')",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 16878,
+        "file": "components\/ILIAS\/File\/classes\/class.ilObjFileGUI.php",
+        "line": 469,
+        "code": "$this->lng->txt('description')",
+        "has_variable": false,
+        "variable": "description"
+    },
+    {
+        "id": 16880,
+        "file": "components\/ILIAS\/File\/classes\/class.ilObjFileGUI.php",
+        "line": 485,
+        "code": "$this->lng->txt('upload_files')",
+        "has_variable": false,
+        "variable": "upload_files"
+    },
+    {
+        "id": 16882,
+        "file": "components\/ILIAS\/File\/classes\/class.ilObjFileGUI.php",
+        "line": 545,
+        "code": "$this->lng->txt('could_not_create_file_objs')",
+        "has_variable": false,
+        "variable": "could_not_create_file_objs"
+    },
+    {
+        "id": 16884,
+        "file": "components\/ILIAS\/File\/classes\/class.ilObjFileGUI.php",
+        "line": 554,
+        "code": "$this->lng->txt('file_upload_info_file_with_critical_extension')",
+        "has_variable": false,
+        "variable": "file_upload_info_file_with_critical_extension"
+    },
+    {
+        "id": 16886,
+        "file": "components\/ILIAS\/File\/classes\/class.ilObjFileGUI.php",
+        "line": 633,
+        "code": "$this->lng->txt(\"msg_obj_modified\")",
+        "has_variable": false,
+        "variable": "msg_obj_modified"
+    },
+    {
+        "id": 16888,
+        "file": "components\/ILIAS\/File\/classes\/class.ilObjFileGUI.php",
+        "line": 644,
+        "code": "$this->lng->txt(\"msg_no_perm_write\")",
+        "has_variable": false,
+        "variable": "msg_no_perm_write"
+    },
+    {
+        "id": 16890,
+        "file": "components\/ILIAS\/File\/classes\/class.ilObjFileGUI.php",
+        "line": 667,
+        "code": "$this->lng->txt('important_info')",
+        "has_variable": false,
+        "variable": "important_info"
+    },
+    {
+        "id": 16892,
+        "file": "components\/ILIAS\/File\/classes\/class.ilObjFileGUI.php",
+        "line": 668,
+        "code": "$this->lng->txt('important_info_byline')",
+        "has_variable": false,
+        "variable": "important_info_byline"
+    },
+    {
+        "id": 16894,
+        "file": "components\/ILIAS\/File\/classes\/class.ilObjFileGUI.php",
+        "line": 674,
+        "code": "$this->lng->txt('on_click_action')",
+        "has_variable": false,
+        "variable": "on_click_action"
+    },
+    {
+        "id": 16896,
+        "file": "components\/ILIAS\/File\/classes\/class.ilObjFileGUI.php",
+        "line": 677,
+        "code": "$this->lng->txt('file_action_download')",
+        "has_variable": false,
+        "variable": "file_action_download"
+    },
+    {
+        "id": 16898,
+        "file": "components\/ILIAS\/File\/classes\/class.ilObjFileGUI.php",
+        "line": 678,
+        "code": "$this->lng->txt('file_action_download_info')",
+        "has_variable": false,
+        "variable": "file_action_download_info"
+    },
+    {
+        "id": 16900,
+        "file": "components\/ILIAS\/File\/classes\/class.ilObjFileGUI.php",
+        "line": 681,
+        "code": "$this->lng->txt('file_action_show')",
+        "has_variable": false,
+        "variable": "file_action_show"
+    },
+    {
+        "id": 16902,
+        "file": "components\/ILIAS\/File\/classes\/class.ilObjFileGUI.php",
+        "line": 682,
+        "code": "$this->lng->txt('file_action_show_info')",
+        "has_variable": false,
+        "variable": "file_action_show_info"
+    },
+    {
+        "id": 16904,
+        "file": "components\/ILIAS\/File\/classes\/class.ilObjFileGUI.php",
+        "line": 695,
+        "code": "$this->lng->txt('file_info')",
+        "has_variable": false,
+        "variable": "file_info"
+    },
+    {
+        "id": 16906,
+        "file": "components\/ILIAS\/File\/classes\/class.ilObjFileGUI.php",
+        "line": 705,
+        "code": "$this->lng->txt('rep_activation_availability')",
+        "has_variable": false,
+        "variable": "rep_activation_availability"
+    },
+    {
+        "id": 16908,
+        "file": "components\/ILIAS\/File\/classes\/class.ilObjFileGUI.php",
+        "line": 717,
+        "code": "$this->lng->txt('settings_presentation_header')",
+        "has_variable": false,
+        "variable": "settings_presentation_header"
+    },
+    {
+        "id": 16910,
+        "file": "components\/ILIAS\/File\/classes\/class.ilObjFileGUI.php",
+        "line": 726,
+        "code": "$this->lng->txt('rating_activate_rating')",
+        "has_variable": false,
+        "variable": "rating_activate_rating"
+    },
+    {
+        "id": 16912,
+        "file": "components\/ILIAS\/File\/classes\/class.ilObjFileGUI.php",
+        "line": 727,
+        "code": "$this->lng->txt('rating_activate_rating_info')",
+        "has_variable": false,
+        "variable": "rating_activate_rating_info"
+    },
+    {
+        "id": 16914,
+        "file": "components\/ILIAS\/File\/classes\/class.ilObjFileGUI.php",
+        "line": 733,
+        "code": "$this->lng->txt('obj_features')",
+        "has_variable": false,
+        "variable": "obj_features"
+    },
+    {
+        "id": 16916,
+        "file": "components\/ILIAS\/File\/classes\/class.ilObjFileGUI.php",
+        "line": 766,
+        "code": "$this->lng->txt(\"permission_denied\")",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 16918,
+        "file": "components\/ILIAS\/File\/classes\/class.ilObjFileGUI.php",
+        "line": 827,
+        "code": "$this->lng->txt(\"msg_no_perm_read\")",
+        "has_variable": false,
+        "variable": "msg_no_perm_read"
+    },
+    {
+        "id": 16920,
+        "file": "components\/ILIAS\/File\/classes\/class.ilObjFileGUI.php",
+        "line": 835,
+        "code": "$this->lng->txt('file_btn_lp_toggle_state_completed')",
+        "has_variable": false,
+        "variable": "file_btn_lp_toggle_state_completed"
+    },
+    {
+        "id": 16922,
+        "file": "components\/ILIAS\/File\/classes\/class.ilObjFileGUI.php",
+        "line": 837,
+        "code": "$this->lng->txt('file_btn_lp_toggle_state_not_completed')",
+        "has_variable": false,
+        "variable": "file_btn_lp_toggle_state_not_completed"
+    },
+    {
+        "id": 16924,
+        "file": "components\/ILIAS\/File\/classes\/class.ilObjFileGUI.php",
+        "line": 852,
+        "code": "$this->lng->txt('open_external_editor')",
+        "has_variable": false,
+        "variable": "open_external_editor"
+    },
+    {
+        "id": 16926,
+        "file": "components\/ILIAS\/File\/classes\/class.ilObjFileGUI.php",
+        "line": 880,
+        "code": "$this->lng->txt('msg_obj_modified')",
+        "has_variable": false,
+        "variable": "msg_obj_modified"
+    },
+    {
+        "id": 16928,
+        "file": "components\/ILIAS\/File\/classes\/class.ilObjFileGUI.php",
+        "line": 927,
+        "code": "$this->lng->txt(\"important_info\")",
+        "has_variable": false,
+        "variable": "important_info"
+    },
+    {
+        "id": 16930,
+        "file": "components\/ILIAS\/File\/classes\/class.ilObjFileGUI.php",
+        "line": 943,
+        "code": "$this->lng->txt('file_download')",
+        "has_variable": false,
+        "variable": "file_download"
+    },
+    {
+        "id": 16932,
+        "file": "components\/ILIAS\/File\/classes\/class.ilObjFileGUI.php",
+        "line": 977,
+        "code": "$this->lng->txt(\"res_links\")",
+        "has_variable": false,
+        "variable": "res_links"
+    },
+    {
+        "id": 16934,
+        "file": "components\/ILIAS\/File\/classes\/class.ilObjFileGUI.php",
+        "line": 984,
+        "code": "$this->lng->txt(\"file_info\")",
+        "has_variable": false,
+        "variable": "file_info"
+    },
+    {
+        "id": 16936,
+        "file": "components\/ILIAS\/File\/classes\/class.ilObjFileGUI.php",
+        "line": 1027,
+        "code": "$this->lng->txt(\"content\")",
+        "has_variable": false,
+        "variable": "content"
+    },
+    {
+        "id": 16938,
+        "file": "components\/ILIAS\/File\/classes\/class.ilObjFileGUI.php",
+        "line": 1035,
+        "code": "$this->lng->txt(self::CMD_VERSIONS)",
+        "has_variable": true,
+        "variable": "CMD_VERSIONS"
+    },
+    {
+        "id": 16940,
+        "file": "components\/ILIAS\/File\/classes\/class.ilObjFileGUI.php",
+        "line": 1043,
+        "code": "$this->lng->txt(\"info_short\")",
+        "has_variable": false,
+        "variable": "info_short"
+    },
+    {
+        "id": 16942,
+        "file": "components\/ILIAS\/File\/classes\/class.ilObjFileGUI.php",
+        "line": 1051,
+        "code": "$this->lng->txt(\"settings\")",
+        "has_variable": false,
+        "variable": "settings"
+    },
+    {
+        "id": 16944,
+        "file": "components\/ILIAS\/File\/classes\/class.ilObjFileGUI.php",
+        "line": 1059,
+        "code": "$this->lng->txt('learning_progress')",
+        "has_variable": false,
+        "variable": "learning_progress"
+    },
+    {
+        "id": 16946,
+        "file": "components\/ILIAS\/File\/classes\/class.ilObjFileGUI.php",
+        "line": 1071,
+        "code": "$this->lng->txt(\"meta_data\")",
+        "has_variable": false,
+        "variable": "meta_data"
+    },
+    {
+        "id": 16948,
+        "file": "components\/ILIAS\/File\/classes\/class.ilObjFileGUI.php",
+        "line": 1081,
+        "code": "$this->lng->txt(\"export\")",
+        "has_variable": false,
+        "variable": "export"
+    },
+    {
+        "id": 16950,
+        "file": "components\/ILIAS\/File\/classes\/class.ilObjFileGUI.php",
+        "line": 1103,
+        "code": "$this->lng->txt('settings')",
+        "has_variable": false,
+        "variable": "settings"
+    },
+    {
+        "id": 16952,
+        "file": "components\/ILIAS\/File\/classes\/class.ilObjFileGUI.php",
+        "line": 1109,
+        "code": "$this->lng->txt('service_settings')",
+        "has_variable": false,
+        "variable": "service_settings"
+    },
+    {
+        "id": 16954,
+        "file": "components\/ILIAS\/File\/classes\/class.ilObjFileGUI.php",
+        "line": 1143,
+        "code": "$lng->txt(\"msg_no_perm_read_item\")",
+        "has_variable": false,
+        "variable": "msg_no_perm_read_item"
+    },
+    {
+        "id": 16956,
+        "file": "components\/ILIAS\/File\/classes\/class.ilObjFileGUI.php",
+        "line": 1151,
+        "code": "$lng->txt(\"msg_no_perm_read\")",
+        "has_variable": false,
+        "variable": "msg_no_perm_read"
+    },
+    {
+        "id": 16958,
+        "file": "components\/ILIAS\/File\/classes\/class.ilObjFileUploadDropzone.php",
+        "line": 102,
+        "code": "$this->language->txt('upload_files')",
+        "has_variable": false,
+        "variable": "upload_files"
+    },
+    {
+        "id": 16960,
+        "file": "components\/ILIAS\/File\/classes\/class.ilObjFileUploadDropzone.php",
+        "line": 107,
+        "code": "$this->language->txt('upload_files')",
+        "has_variable": false,
+        "variable": "upload_files"
+    },
+    {
+        "id": 16962,
+        "file": "components\/ILIAS\/File\/classes\/class.ilObjFileUploadDropzone.php",
+        "line": 111,
+        "code": "$this->language->txt('title')",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 16964,
+        "file": "components\/ILIAS\/File\/classes\/class.ilObjFileUploadDropzone.php",
+        "line": 116,
+        "code": "$this->language->txt('description')",
+        "has_variable": false,
+        "variable": "description"
+    },
+    {
+        "id": 16966,
+        "file": "components\/ILIAS\/File\/classes\/class.ilObjFileUploadDropzone.php",
+        "line": 128,
+        "code": "$this->language->txt('upload_files')",
+        "has_variable": false,
+        "variable": "upload_files"
+    },
+    {
+        "id": 16968,
+        "file": "components\/ILIAS\/File\/src\/Icon\/IconFormUI.php",
+        "line": 76,
+        "code": "$this->lng->txt('back')",
+        "has_variable": false,
+        "variable": "back"
+    },
+    {
+        "id": 16970,
+        "file": "components\/ILIAS\/File\/src\/Icon\/IconFormUI.php",
+        "line": 79,
+        "code": "$this->lng->txt(self::FORM_ICON_UPDATING)",
+        "has_variable": true,
+        "variable": "FORM_ICON_UPDATING"
+    },
+    {
+        "id": 16972,
+        "file": "components\/ILIAS\/File\/src\/Icon\/IconFormUI.php",
+        "line": 85,
+        "code": "$this->lng->txt(self::FORM_ICON_CREATION)",
+        "has_variable": true,
+        "variable": "FORM_ICON_CREATION"
+    },
+    {
+        "id": 16974,
+        "file": "components\/ILIAS\/File\/src\/Icon\/IconFormUI.php",
+        "line": 96,
+        "code": "$this->lng->txt(self::INPUT_ICON)",
+        "has_variable": true,
+        "variable": "INPUT_ICON"
+    },
+    {
+        "id": 16976,
+        "file": "components\/ILIAS\/File\/src\/Icon\/IconFormUI.php",
+        "line": 97,
+        "code": "$this->lng->txt(self::INPUT_DESC_ICON)",
+        "has_variable": true,
+        "variable": "INPUT_DESC_ICON"
+    },
+    {
+        "id": 16978,
+        "file": "components\/ILIAS\/File\/src\/Icon\/IconFormUI.php",
+        "line": 108,
+        "code": "$this->lng->txt(self::INPUT_ACTIVE)",
+        "has_variable": true,
+        "variable": "INPUT_ACTIVE"
+    },
+    {
+        "id": 16980,
+        "file": "components\/ILIAS\/File\/src\/Icon\/IconFormUI.php",
+        "line": 109,
+        "code": "$this->lng->txt(self::INPUT_DESC_ACTIVE)",
+        "has_variable": true,
+        "variable": "INPUT_DESC_ACTIVE"
+    },
+    {
+        "id": 16982,
+        "file": "components\/ILIAS\/File\/src\/Icon\/IconFormUI.php",
+        "line": 115,
+        "code": "$this->lng->txt(self::INPUT_SUFFIXES)",
+        "has_variable": true,
+        "variable": "INPUT_SUFFIXES"
+    },
+    {
+        "id": 16984,
+        "file": "components\/ILIAS\/File\/src\/Icon\/IconFormUI.php",
+        "line": 116,
+        "code": "$this->lng->txt(self::INPUT_DESC_SUFFIXES)",
+        "has_variable": true,
+        "variable": "INPUT_DESC_SUFFIXES"
+    },
+    {
+        "id": 16986,
+        "file": "components\/ILIAS\/File\/src\/Icon\/IconFormUI.php",
+        "line": 124,
+        "code": "$this->lng->txt('msg_error_suffixes_with_forbidden_characters')",
+        "has_variable": false,
+        "variable": "msg_error_suffixes_with_forbidden_characters"
+    },
+    {
+        "id": 16988,
+        "file": "components\/ILIAS\/File\/src\/Icon\/IconFormUI.php",
+        "line": 126,
+        "code": "$this->lng->txt('msg_error_duplicate_suffix_entries')",
+        "has_variable": false,
+        "variable": "msg_error_duplicate_suffix_entries"
+    },
+    {
+        "id": 16990,
+        "file": "components\/ILIAS\/File\/src\/Icon\/IconFormUI.php",
+        "line": 142,
+        "code": "$this->lng->txt('msg_error_active_suffixes_conflict')",
+        "has_variable": false,
+        "variable": "msg_error_active_suffixes_conflict"
+    },
+    {
+        "id": 16992,
+        "file": "components\/ILIAS\/File\/src\/Icon\/IconListingUI.php",
+        "line": 69,
+        "code": "$this->lng->txt('suffixes')",
+        "has_variable": false,
+        "variable": "suffixes"
+    },
+    {
+        "id": 16994,
+        "file": "components\/ILIAS\/File\/src\/Icon\/IconListingUI.php",
+        "line": 70,
+        "code": "$this->lng->txt('status')",
+        "has_variable": false,
+        "variable": "status"
+    },
+    {
+        "id": 16996,
+        "file": "components\/ILIAS\/File\/src\/Icon\/IconListingUI.php",
+        "line": 71,
+        "code": "$this->lng->txt('active')",
+        "has_variable": false,
+        "variable": "active"
+    },
+    {
+        "id": 16998,
+        "file": "components\/ILIAS\/File\/src\/Icon\/IconListingUI.php",
+        "line": 72,
+        "code": "$this->lng->txt('inactive')",
+        "has_variable": false,
+        "variable": "inactive"
+    },
+    {
+        "id": 17000,
+        "file": "components\/ILIAS\/File\/src\/Icon\/IconListingUI.php",
+        "line": 74,
+        "code": "$this->lng->txt('default')",
+        "has_variable": false,
+        "variable": "default"
+    },
+    {
+        "id": 17002,
+        "file": "components\/ILIAS\/File\/src\/Icon\/IconListingUI.php",
+        "line": 75,
+        "code": "$this->lng->txt('yes')",
+        "has_variable": false,
+        "variable": "yes"
+    },
+    {
+        "id": 17004,
+        "file": "components\/ILIAS\/File\/src\/Icon\/IconListingUI.php",
+        "line": 76,
+        "code": "$this->lng->txt('no')",
+        "has_variable": false,
+        "variable": "no"
+    },
+    {
+        "id": 17006,
+        "file": "components\/ILIAS\/File\/src\/Icon\/IconListingUI.php",
+        "line": 121,
+        "code": "$this->lng->txt('de_activate_icon')",
+        "has_variable": false,
+        "variable": "de_activate_icon"
+    },
+    {
+        "id": 17008,
+        "file": "components\/ILIAS\/File\/src\/Icon\/IconListingUI.php",
+        "line": 126,
+        "code": "$this->lng->txt('edit')",
+        "has_variable": false,
+        "variable": "edit"
+    },
+    {
+        "id": 17010,
+        "file": "components\/ILIAS\/File\/src\/Icon\/IconListingUI.php",
+        "line": 127,
+        "code": "$this->lng->txt('delete')",
+        "has_variable": false,
+        "variable": "delete"
+    },
+    {
+        "id": 17012,
+        "file": "components\/ILIAS\/File\/src\/Icon\/IconListingUI.php",
+        "line": 153,
+        "code": "$this->lng->txt('icon')",
+        "has_variable": false,
+        "variable": "icon"
+    },
+    {
+        "id": 17014,
+        "file": "components\/ILIAS\/File\/src\/Icon\/IconListingUI.php",
+        "line": 157,
+        "code": "$this->lng->txt('active')",
+        "has_variable": false,
+        "variable": "active"
+    },
+    {
+        "id": 17016,
+        "file": "components\/ILIAS\/File\/src\/Icon\/IconListingUI.php",
+        "line": 157,
+        "code": "$this->lng->txt(\n                                                         'yes'\n                                                     )",
+        "has_variable": false,
+        "variable": "yes"
+    },
+    {
+        "id": 17018,
+        "file": "components\/ILIAS\/File\/src\/Icon\/IconListingUI.php",
+        "line": 159,
+        "code": "$this->lng->txt('no')",
+        "has_variable": false,
+        "variable": "no"
+    },
+    {
+        "id": 17020,
+        "file": "components\/ILIAS\/File\/src\/Icon\/IconListingUI.php",
+        "line": 160,
+        "code": "$this->lng->txt('default')",
+        "has_variable": false,
+        "variable": "default"
+    },
+    {
+        "id": 17022,
+        "file": "components\/ILIAS\/File\/src\/Icon\/IconListingUI.php",
+        "line": 161,
+        "code": "$this->lng->txt('yes')",
+        "has_variable": false,
+        "variable": "yes"
+    },
+    {
+        "id": 17024,
+        "file": "components\/ILIAS\/File\/src\/Icon\/IconListingUI.php",
+        "line": 161,
+        "code": "$this->lng->txt('no')",
+        "has_variable": false,
+        "variable": "no"
+    },
+    {
+        "id": 17026,
+        "file": "components\/ILIAS\/File\/src\/Icon\/IconListingUI.php",
+        "line": 162,
+        "code": "$this->lng->txt(\n                                                         'suffixes'\n                                                     )",
+        "has_variable": false,
+        "variable": "suffixes"
+    },
+    {
+        "id": 17028,
+        "file": "components\/ILIAS\/File\/src\/Icon\/IconListingUI.php",
+        "line": 171,
+        "code": "$this->lng->txt('suffix_specific_icons')",
+        "has_variable": false,
+        "variable": "suffix_specific_icons"
+    },
+    {
+        "id": 17030,
+        "file": "components\/ILIAS\/File\/src\/Icon\/IconListingUI.php",
+        "line": 206,
+        "code": "$this->lng->txt('suffixes')",
+        "has_variable": false,
+        "variable": "suffixes"
+    },
+    {
+        "id": 17032,
+        "file": "components\/ILIAS\/File\/src\/Icon\/IconListingUI.php",
+        "line": 211,
+        "code": "$this->lng->txt(\"delete\")",
+        "has_variable": false,
+        "variable": "delete"
+    },
+    {
+        "id": 17034,
+        "file": "components\/ILIAS\/File\/src\/Icon\/IconListingUI.php",
+        "line": 212,
+        "code": "$this->lng->txt('msg_confirm_entry_deletion')",
+        "has_variable": false,
+        "variable": "msg_confirm_entry_deletion"
+    },
+    {
+        "id": 17036,
+        "file": "components\/ILIAS\/File\/src\/Versions\/Table\/DataRetrieval.php",
+        "line": 124,
+        "code": "$this->lng->txt('file_version_' . $record['action'])",
+        "has_variable": true,
+        "variable": "'file_version_' . $record['action']"
+    },
+    {
+        "id": 17038,
+        "file": "components\/ILIAS\/File\/src\/Versions\/Table\/Table.php",
+        "line": 95,
+        "code": "$this->lng->txt('versions')",
+        "has_variable": false,
+        "variable": "versions"
+    },
+    {
+        "id": 17040,
+        "file": "components\/ILIAS\/File\/src\/Versions\/Table\/Table.php",
+        "line": 120,
+        "code": "$this->lng->txt('version')",
+        "has_variable": false,
+        "variable": "version"
+    },
+    {
+        "id": 17042,
+        "file": "components\/ILIAS\/File\/src\/Versions\/Table\/Table.php",
+        "line": 121,
+        "code": "$this->lng->txt('filename')",
+        "has_variable": false,
+        "variable": "filename"
+    },
+    {
+        "id": 17044,
+        "file": "components\/ILIAS\/File\/src\/Versions\/Table\/Table.php",
+        "line": 122,
+        "code": "$this->lng->txt('date')",
+        "has_variable": false,
+        "variable": "date"
+    },
+    {
+        "id": 17046,
+        "file": "components\/ILIAS\/File\/src\/Versions\/Table\/Table.php",
+        "line": 123,
+        "code": "$this->lng->txt('file_uploaded_by')",
+        "has_variable": false,
+        "variable": "file_uploaded_by"
+    },
+    {
+        "id": 17048,
+        "file": "components\/ILIAS\/File\/src\/Versions\/Table\/Table.php",
+        "line": 124,
+        "code": "$this->lng->txt('versionname')",
+        "has_variable": false,
+        "variable": "versionname"
+    },
+    {
+        "id": 17050,
+        "file": "components\/ILIAS\/File\/src\/Versions\/Table\/Table.php",
+        "line": 125,
+        "code": "$this->lng->txt('filesize')",
+        "has_variable": false,
+        "variable": "filesize"
+    },
+    {
+        "id": 17052,
+        "file": "components\/ILIAS\/File\/src\/Versions\/Table\/Table.php",
+        "line": 126,
+        "code": "$this->lng->txt('status')",
+        "has_variable": false,
+        "variable": "status"
+    },
+    {
+        "id": 17054,
+        "file": "components\/ILIAS\/File\/src\/Versions\/Table\/Table.php",
+        "line": 139,
+        "code": "$this->lng->txt('delete')",
+        "has_variable": false,
+        "variable": "delete"
+    },
+    {
+        "id": 17056,
+        "file": "components\/ILIAS\/File\/src\/Versions\/Table\/Table.php",
+        "line": 144,
+        "code": "$this->lng->txt('file_rollback')",
+        "has_variable": false,
+        "variable": "file_rollback"
+    },
+    {
+        "id": 17058,
+        "file": "components\/ILIAS\/File\/src\/Versions\/Table\/Table.php",
+        "line": 149,
+        "code": "$this->lng->txt('file_publish')",
+        "has_variable": false,
+        "variable": "file_publish"
+    },
+    {
+        "id": 17060,
+        "file": "components\/ILIAS\/File\/src\/Versions\/Table\/Table.php",
+        "line": 154,
+        "code": "$this->lng->txt('file_unpublish')",
+        "has_variable": false,
+        "variable": "file_unpublish"
+    }
+]

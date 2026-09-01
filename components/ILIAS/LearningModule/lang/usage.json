@@ -1,0 +1,4306 @@
+[
+    {
+        "id": 23366,
+        "file": "components\/ILIAS\/LearningModule\/Editing\/SubObjectTableBuilder.php",
+        "line": 86,
+        "code": "$lng->txt(\"cont_page_deactivated\")",
+        "has_variable": false,
+        "variable": "cont_page_deactivated"
+    },
+    {
+        "id": 23368,
+        "file": "components\/ILIAS\/LearningModule\/Editing\/SubObjectTableBuilder.php",
+        "line": 90,
+        "code": "$lng->txt(\"cont_page_deactivated_elements\")",
+        "has_variable": false,
+        "variable": "cont_page_deactivated_elements"
+    },
+    {
+        "id": 23370,
+        "file": "components\/ILIAS\/LearningModule\/Editing\/SubObjectTableBuilder.php",
+        "line": 93,
+        "code": "$lng->txt(\"pg\")",
+        "has_variable": false,
+        "variable": "pg"
+    },
+    {
+        "id": 23372,
+        "file": "components\/ILIAS\/LearningModule\/Editing\/SubObjectTableBuilder.php",
+        "line": 98,
+        "code": "$lng->txt(\"st\")",
+        "has_variable": false,
+        "variable": "st"
+    },
+    {
+        "id": 23374,
+        "file": "components\/ILIAS\/LearningModule\/Editing\/SubObjectTableBuilder.php",
+        "line": 132,
+        "code": "$lng->txt(\"type\")",
+        "has_variable": false,
+        "variable": "type"
+    },
+    {
+        "id": 23376,
+        "file": "components\/ILIAS\/LearningModule\/Editing\/SubObjectTableBuilder.php",
+        "line": 133,
+        "code": "$lng->txt(\"title\")",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 23378,
+        "file": "components\/ILIAS\/LearningModule\/Editing\/SubObjectTableBuilder.php",
+        "line": 135,
+        "code": "$lng->txt(\"title\")",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 23380,
+        "file": "components\/ILIAS\/LearningModule\/Editing\/SubObjectTableBuilder.php",
+        "line": 136,
+        "code": "$lng->txt(\"meta_l_\" . $transl)",
+        "has_variable": true,
+        "variable": "\"meta_l_\" . $transl"
+    },
+    {
+        "id": 23382,
+        "file": "components\/ILIAS\/LearningModule\/Editing\/SubObjectTableBuilder.php",
+        "line": 141,
+        "code": "$lng->txt(\"lm_list_pages\")",
+        "has_variable": false,
+        "variable": "lm_list_pages"
+    },
+    {
+        "id": 23384,
+        "file": "components\/ILIAS\/LearningModule\/Editing\/SubObjectTableBuilder.php",
+        "line": 148,
+        "code": "$lng->txt(\"cont_edit_title\")",
+        "has_variable": false,
+        "variable": "cont_edit_title"
+    },
+    {
+        "id": 23386,
+        "file": "components\/ILIAS\/LearningModule\/Editing\/SubObjectTableBuilder.php",
+        "line": 153,
+        "code": "$lng->txt(\"lm_insert_chapter_after\")",
+        "has_variable": false,
+        "variable": "lm_insert_chapter_after"
+    },
+    {
+        "id": 23388,
+        "file": "components\/ILIAS\/LearningModule\/Editing\/SubObjectTableBuilder.php",
+        "line": 158,
+        "code": "$lng->txt(\"lm_insert_chapter_before\")",
+        "has_variable": false,
+        "variable": "lm_insert_chapter_before"
+    },
+    {
+        "id": 23390,
+        "file": "components\/ILIAS\/LearningModule\/Editing\/SubObjectTableBuilder.php",
+        "line": 164,
+        "code": "$lng->txt(\"lm_insert_chapter_clip_after\")",
+        "has_variable": false,
+        "variable": "lm_insert_chapter_clip_after"
+    },
+    {
+        "id": 23392,
+        "file": "components\/ILIAS\/LearningModule\/Editing\/SubObjectTableBuilder.php",
+        "line": 171,
+        "code": "$lng->txt(\"lm_insert_chapter_clip_before\")",
+        "has_variable": false,
+        "variable": "lm_insert_chapter_clip_before"
+    },
+    {
+        "id": 23394,
+        "file": "components\/ILIAS\/LearningModule\/Editing\/SubObjectTableBuilder.php",
+        "line": 180,
+        "code": "$lng->txt(\"lm_edit_content\")",
+        "has_variable": false,
+        "variable": "lm_edit_content"
+    },
+    {
+        "id": 23396,
+        "file": "components\/ILIAS\/LearningModule\/Editing\/SubObjectTableBuilder.php",
+        "line": 187,
+        "code": "$lng->txt(\"cont_edit_title\")",
+        "has_variable": false,
+        "variable": "cont_edit_title"
+    },
+    {
+        "id": 23398,
+        "file": "components\/ILIAS\/LearningModule\/Editing\/SubObjectTableBuilder.php",
+        "line": 192,
+        "code": "$lng->txt(\"lm_insert_page_after\")",
+        "has_variable": false,
+        "variable": "lm_insert_page_after"
+    },
+    {
+        "id": 23400,
+        "file": "components\/ILIAS\/LearningModule\/Editing\/SubObjectTableBuilder.php",
+        "line": 197,
+        "code": "$lng->txt(\"lm_insert_page_before\")",
+        "has_variable": false,
+        "variable": "lm_insert_page_before"
+    },
+    {
+        "id": 23402,
+        "file": "components\/ILIAS\/LearningModule\/Editing\/SubObjectTableBuilder.php",
+        "line": 203,
+        "code": "$lng->txt(\"lm_insert_page_clip_after\")",
+        "has_variable": false,
+        "variable": "lm_insert_page_clip_after"
+    },
+    {
+        "id": 23404,
+        "file": "components\/ILIAS\/LearningModule\/Editing\/SubObjectTableBuilder.php",
+        "line": 210,
+        "code": "$lng->txt(\"lm_insert_page_clip_before\")",
+        "has_variable": false,
+        "variable": "lm_insert_page_clip_before"
+    },
+    {
+        "id": 23406,
+        "file": "components\/ILIAS\/LearningModule\/Editing\/SubObjectTableBuilder.php",
+        "line": 220,
+        "code": "$lng->txt(\"delete\")",
+        "has_variable": false,
+        "variable": "delete"
+    },
+    {
+        "id": 23408,
+        "file": "components\/ILIAS\/LearningModule\/Editing\/SubObjectTableBuilder.php",
+        "line": 224,
+        "code": "$lng->txt(\"cut\")",
+        "has_variable": false,
+        "variable": "cut"
+    },
+    {
+        "id": 23410,
+        "file": "components\/ILIAS\/LearningModule\/Editing\/SubObjectTableBuilder.php",
+        "line": 228,
+        "code": "$lng->txt(\"copy\")",
+        "has_variable": false,
+        "variable": "copy"
+    },
+    {
+        "id": 23412,
+        "file": "components\/ILIAS\/LearningModule\/Editing\/SubObjectTableBuilder.php",
+        "line": 233,
+        "code": "$lng->txt(\"cont_de_activate\")",
+        "has_variable": false,
+        "variable": "cont_de_activate"
+    },
+    {
+        "id": 23414,
+        "file": "components\/ILIAS\/LearningModule\/Editing\/class.EditSubObjectsGUI.php",
+        "line": 140,
+        "code": "$lng->txt(\"lm_insert_chapter\")",
+        "has_variable": false,
+        "variable": "lm_insert_chapter"
+    },
+    {
+        "id": 23416,
+        "file": "components\/ILIAS\/LearningModule\/Editing\/class.EditSubObjectsGUI.php",
+        "line": 142,
+        "code": "$lng->txt(\"lm_insert_chapter\")",
+        "has_variable": false,
+        "variable": "lm_insert_chapter"
+    },
+    {
+        "id": 23418,
+        "file": "components\/ILIAS\/LearningModule\/Editing\/class.EditSubObjectsGUI.php",
+        "line": 150,
+        "code": "$lng->txt(\"lm_insert_chapter\")",
+        "has_variable": false,
+        "variable": "lm_insert_chapter"
+    },
+    {
+        "id": 23420,
+        "file": "components\/ILIAS\/LearningModule\/Editing\/class.EditSubObjectsGUI.php",
+        "line": 155,
+        "code": "$lng->txt(\"lm_insert_chapter_clip\")",
+        "has_variable": false,
+        "variable": "lm_insert_chapter_clip"
+    },
+    {
+        "id": 23422,
+        "file": "components\/ILIAS\/LearningModule\/Editing\/class.EditSubObjectsGUI.php",
+        "line": 161,
+        "code": "$lng->txt(\"lm_insert_page\")",
+        "has_variable": false,
+        "variable": "lm_insert_page"
+    },
+    {
+        "id": 23424,
+        "file": "components\/ILIAS\/LearningModule\/Editing\/class.EditSubObjectsGUI.php",
+        "line": 163,
+        "code": "$lng->txt(\"lm_insert_page\")",
+        "has_variable": false,
+        "variable": "lm_insert_page"
+    },
+    {
+        "id": 23426,
+        "file": "components\/ILIAS\/LearningModule\/Editing\/class.EditSubObjectsGUI.php",
+        "line": 170,
+        "code": "$lng->txt(\"lm_insert_page\")",
+        "has_variable": false,
+        "variable": "lm_insert_page"
+    },
+    {
+        "id": 23428,
+        "file": "components\/ILIAS\/LearningModule\/Editing\/class.EditSubObjectsGUI.php",
+        "line": 175,
+        "code": "$lng->txt(\"lm_insert_page_clip\")",
+        "has_variable": false,
+        "variable": "lm_insert_page_clip"
+    },
+    {
+        "id": 23430,
+        "file": "components\/ILIAS\/LearningModule\/Editing\/class.EditSubObjectsGUI.php",
+        "line": 327,
+        "code": "$lng->txt(\"lm_insert_page\")",
+        "has_variable": false,
+        "variable": "lm_insert_page"
+    },
+    {
+        "id": 23432,
+        "file": "components\/ILIAS\/LearningModule\/Editing\/class.EditSubObjectsGUI.php",
+        "line": 342,
+        "code": "$lng->txt(\"msg_obj_modified\")",
+        "has_variable": false,
+        "variable": "msg_obj_modified"
+    },
+    {
+        "id": 23434,
+        "file": "components\/ILIAS\/LearningModule\/Editing\/class.EditSubObjectsGUI.php",
+        "line": 355,
+        "code": "$lng->txt(\"lm_insert_page\")",
+        "has_variable": false,
+        "variable": "lm_insert_page"
+    },
+    {
+        "id": 23436,
+        "file": "components\/ILIAS\/LearningModule\/Editing\/class.EditSubObjectsGUI.php",
+        "line": 379,
+        "code": "$lng->txt(\"msg_obj_modified\")",
+        "has_variable": false,
+        "variable": "msg_obj_modified"
+    },
+    {
+        "id": 23438,
+        "file": "components\/ILIAS\/LearningModule\/Editing\/class.EditSubObjectsGUI.php",
+        "line": 394,
+        "code": "$lng->txt(\"cont_new_page\")",
+        "has_variable": false,
+        "variable": "cont_new_page"
+    },
+    {
+        "id": 23440,
+        "file": "components\/ILIAS\/LearningModule\/Editing\/class.EditSubObjectsGUI.php",
+        "line": 433,
+        "code": "$lng->txt(\"lm_insert_chapter\")",
+        "has_variable": false,
+        "variable": "lm_insert_chapter"
+    },
+    {
+        "id": 23442,
+        "file": "components\/ILIAS\/LearningModule\/Editing\/class.EditSubObjectsGUI.php",
+        "line": 456,
+        "code": "$lng->txt(\"lm_insert_chapter\")",
+        "has_variable": false,
+        "variable": "lm_insert_chapter"
+    },
+    {
+        "id": 23444,
+        "file": "components\/ILIAS\/LearningModule\/Editing\/class.EditSubObjectsGUI.php",
+        "line": 488,
+        "code": "$lng->txt(\"cont_new_chap\")",
+        "has_variable": false,
+        "variable": "cont_new_chap"
+    },
+    {
+        "id": 23446,
+        "file": "components\/ILIAS\/LearningModule\/Editing\/class.EditSubObjectsGUI.php",
+        "line": 531,
+        "code": "$lng->txt(\"meta_l_\" . $ot->getBaseLanguage())",
+        "has_variable": true,
+        "variable": "\"meta_l_\" . $ot->getBaseLanguage()"
+    },
+    {
+        "id": 23448,
+        "file": "components\/ILIAS\/LearningModule\/Editing\/class.EditSubObjectsGUI.php",
+        "line": 537,
+        "code": "$lng->txt('title')",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 23450,
+        "file": "components\/ILIAS\/LearningModule\/Editing\/class.EditSubObjectsGUI.php",
+        "line": 548,
+        "code": "$lng->txt('title')",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 23452,
+        "file": "components\/ILIAS\/LearningModule\/Editing\/class.EditSubObjectsGUI.php",
+        "line": 548,
+        "code": "$lng->txt(\"meta_l_\" . $code)",
+        "has_variable": true,
+        "variable": "\"meta_l_\" . $code"
+    },
+    {
+        "id": 23454,
+        "file": "components\/ILIAS\/LearningModule\/Editing\/class.EditSubObjectsGUI.php",
+        "line": 562,
+        "code": "$lng->txt(\"cont_edit_title\")",
+        "has_variable": false,
+        "variable": "cont_edit_title"
+    },
+    {
+        "id": 23456,
+        "file": "components\/ILIAS\/LearningModule\/Editing\/class.EditSubObjectsGUI.php",
+        "line": 617,
+        "code": "$lng->txt(\"msg_obj_modified\")",
+        "has_variable": false,
+        "variable": "msg_obj_modified"
+    },
+    {
+        "id": 23458,
+        "file": "components\/ILIAS\/LearningModule\/Editing\/class.EditSubObjectsGUI.php",
+        "line": 650,
+        "code": "$lng->txt(\"msg_obj_modified\")",
+        "has_variable": false,
+        "variable": "msg_obj_modified"
+    },
+    {
+        "id": 23460,
+        "file": "components\/ILIAS\/LearningModule\/Editing\/class.EditSubObjectsGUI.php",
+        "line": 668,
+        "code": "$lng->txt(\"no_checkbox\")",
+        "has_variable": false,
+        "variable": "no_checkbox"
+    },
+    {
+        "id": 23462,
+        "file": "components\/ILIAS\/LearningModule\/Editing\/class.EditSubObjectsGUI.php",
+        "line": 673,
+        "code": "$lng->txt(\"cont_select_item\")",
+        "has_variable": false,
+        "variable": "cont_select_item"
+    },
+    {
+        "id": 23464,
+        "file": "components\/ILIAS\/LearningModule\/Editing\/class.EditSubObjectsGUI.php",
+        "line": 682,
+        "code": "$lng->txt(\"info_delete_sure\")",
+        "has_variable": false,
+        "variable": "info_delete_sure"
+    },
+    {
+        "id": 23466,
+        "file": "components\/ILIAS\/LearningModule\/Editing\/class.EditSubObjectsGUI.php",
+        "line": 683,
+        "code": "$lng->txt(\"cancel\")",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 23468,
+        "file": "components\/ILIAS\/LearningModule\/Editing\/class.EditSubObjectsGUI.php",
+        "line": 684,
+        "code": "$lng->txt(\"confirm\")",
+        "has_variable": false,
+        "variable": "confirm"
+    },
+    {
+        "id": 23470,
+        "file": "components\/ILIAS\/LearningModule\/Editing\/class.EditSubObjectsGUI.php",
+        "line": 720,
+        "code": "$lng->txt(\"no_checkbox\")",
+        "has_variable": false,
+        "variable": "no_checkbox"
+    },
+    {
+        "id": 23472,
+        "file": "components\/ILIAS\/LearningModule\/Editing\/class.EditSubObjectsGUI.php",
+        "line": 743,
+        "code": "$lng->txt(\"info_deleted\")",
+        "has_variable": false,
+        "variable": "info_deleted"
+    },
+    {
+        "id": 23474,
+        "file": "components\/ILIAS\/LearningModule\/Editing\/class.EditSubObjectsGUI.php",
+        "line": 758,
+        "code": "$lng->txt(\"no_checkbox\")",
+        "has_variable": false,
+        "variable": "no_checkbox"
+    },
+    {
+        "id": 23476,
+        "file": "components\/ILIAS\/LearningModule\/Editing\/class.EditSubObjectsGUI.php",
+        "line": 774,
+        "code": "$lng->txt(\"cont_selected_items_have_been_cut\")",
+        "has_variable": false,
+        "variable": "cont_selected_items_have_been_cut"
+    },
+    {
+        "id": 23478,
+        "file": "components\/ILIAS\/LearningModule\/Editing\/class.EditSubObjectsGUI.php",
+        "line": 791,
+        "code": "$lng->txt(\"no_checkbox\")",
+        "has_variable": false,
+        "variable": "no_checkbox"
+    },
+    {
+        "id": 23480,
+        "file": "components\/ILIAS\/LearningModule\/Editing\/class.EditSubObjectsGUI.php",
+        "line": 808,
+        "code": "$lng->txt(\"cont_selected_items_have_been_copied\")",
+        "has_variable": false,
+        "variable": "cont_selected_items_have_been_copied"
+    },
+    {
+        "id": 23482,
+        "file": "components\/ILIAS\/LearningModule\/Editing\/class.EditSubObjectsGUI.php",
+        "line": 865,
+        "code": "$lng->txt(\"no_checkbox\")",
+        "has_variable": false,
+        "variable": "no_checkbox"
+    },
+    {
+        "id": 23484,
+        "file": "components\/ILIAS\/LearningModule\/Editing\/class.EditSubObjectsGUI.php",
+        "line": 903,
+        "code": "$lng->txt(\"title\")",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 23486,
+        "file": "components\/ILIAS\/LearningModule\/Editing\/class.EditSubObjectsGUI.php",
+        "line": 910,
+        "code": "$lng->txt(\"cont_insert_pagelayout\")",
+        "has_variable": false,
+        "variable": "cont_insert_pagelayout"
+    },
+    {
+        "id": 23488,
+        "file": "components\/ILIAS\/LearningModule\/Editing\/class.EditSubObjectsGUI.php",
+        "line": 956,
+        "code": "$lng->txt(\"lm_page_added\")",
+        "has_variable": false,
+        "variable": "lm_page_added"
+    },
+    {
+        "id": 23490,
+        "file": "components\/ILIAS\/LearningModule\/Editing\/class.ilLMEditorGUI.php",
+        "line": 83,
+        "code": "$lng->txt(\"permission_denied\")",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 23492,
+        "file": "components\/ILIAS\/LearningModule\/Export\/class.ilLMHtmlExportViewLayoutProvider.php",
+        "line": 88,
+        "code": "$lng->txt(\"more\")",
+        "has_variable": false,
+        "variable": "more"
+    },
+    {
+        "id": 23494,
+        "file": "components\/ILIAS\/LearningModule\/Export\/class.ilLMHtmlExportViewLayoutProvider.php",
+        "line": 89,
+        "code": "$lng->txt(\"tools\")",
+        "has_variable": false,
+        "variable": "tools"
+    },
+    {
+        "id": 23496,
+        "file": "components\/ILIAS\/LearningModule\/Export\/class.ilLearningModuleExportOptionHTML.php",
+        "line": 68,
+        "code": "$this->lng->txt(\"exp_format_dropdown-html\")",
+        "has_variable": false,
+        "variable": "exp_format_dropdown-html"
+    },
+    {
+        "id": 23498,
+        "file": "components\/ILIAS\/LearningModule\/Export\/class.ilLearningModuleExportOptionXML.php",
+        "line": 69,
+        "code": "$this->lng->txt(\"exp_format_dropdown-xml\")",
+        "has_variable": false,
+        "variable": "exp_format_dropdown-xml"
+    },
+    {
+        "id": 23500,
+        "file": "components\/ILIAS\/LearningModule\/Export\/class.ilLearningModuleExportOptionXML.php",
+        "line": 69,
+        "code": "$this->lng->txt('cont_master_language_only_no_media')",
+        "has_variable": false,
+        "variable": "cont_master_language_only_no_media"
+    },
+    {
+        "id": 23502,
+        "file": "components\/ILIAS\/LearningModule\/Presentation\/GlobalScreen\/classes\/class.ilLMGSToolProvider.php",
+        "line": 72,
+        "code": "$lng->txt(\"obj_glo\")",
+        "has_variable": false,
+        "variable": "obj_glo"
+    },
+    {
+        "id": 23504,
+        "file": "components\/ILIAS\/LearningModule\/Presentation\/GlobalScreen\/classes\/class.ilLMGSToolProvider.php",
+        "line": 97,
+        "code": "$lng->txt(\"cont_tool_media\")",
+        "has_variable": false,
+        "variable": "cont_tool_media"
+    },
+    {
+        "id": 23506,
+        "file": "components\/ILIAS\/LearningModule\/Presentation\/GlobalScreen\/classes\/class.ilLMGSToolProvider.php",
+        "line": 122,
+        "code": "$lng->txt(\"cont_tool_faq\")",
+        "has_variable": false,
+        "variable": "cont_tool_faq"
+    },
+    {
+        "id": 23508,
+        "file": "components\/ILIAS\/LearningModule\/Presentation\/GlobalScreen\/classes\/class.ilLMGSToolProvider.php",
+        "line": 177,
+        "code": "$lng->txt(\"cont_toc\")",
+        "has_variable": false,
+        "variable": "cont_toc"
+    },
+    {
+        "id": 23510,
+        "file": "components\/ILIAS\/LearningModule\/Presentation\/class.ilLMContentRendererGUI.php",
+        "line": 341,
+        "code": "$this->lng->txt(\"cont_out_of_focus_message\")",
+        "has_variable": false,
+        "variable": "cont_out_of_focus_message"
+    },
+    {
+        "id": 23512,
+        "file": "components\/ILIAS\/LearningModule\/Presentation\/class.ilLMContentRendererGUI.php",
+        "line": 342,
+        "code": "$this->lng->txt(\"cont_show_content_after_focus\")",
+        "has_variable": false,
+        "variable": "cont_show_content_after_focus"
+    },
+    {
+        "id": 23514,
+        "file": "components\/ILIAS\/LearningModule\/Presentation\/class.ilLMContentRendererGUI.php",
+        "line": 345,
+        "code": "$this->lng->txt(\"cont_to_focus_beginning\")",
+        "has_variable": false,
+        "variable": "cont_to_focus_beginning"
+    },
+    {
+        "id": 23516,
+        "file": "components\/ILIAS\/LearningModule\/Presentation\/class.ilLMContentRendererGUI.php",
+        "line": 350,
+        "code": "$this->lng->txt(\"cont_to_focus_return_crs\")",
+        "has_variable": false,
+        "variable": "cont_to_focus_return_crs"
+    },
+    {
+        "id": 23518,
+        "file": "components\/ILIAS\/LearningModule\/Presentation\/class.ilLMContentRendererGUI.php",
+        "line": 372,
+        "code": "$this->lng->txt(\"cont_out_of_focus_message_last_page\")",
+        "has_variable": false,
+        "variable": "cont_out_of_focus_message_last_page"
+    },
+    {
+        "id": 23520,
+        "file": "components\/ILIAS\/LearningModule\/Presentation\/class.ilLMContentRendererGUI.php",
+        "line": 373,
+        "code": "$this->lng->txt(\"cont_show_content_after_focus\")",
+        "has_variable": false,
+        "variable": "cont_show_content_after_focus"
+    },
+    {
+        "id": 23522,
+        "file": "components\/ILIAS\/LearningModule\/Presentation\/class.ilLMContentRendererGUI.php",
+        "line": 376,
+        "code": "$this->lng->txt(\"cont_to_focus_beginning\")",
+        "has_variable": false,
+        "variable": "cont_to_focus_beginning"
+    },
+    {
+        "id": 23524,
+        "file": "components\/ILIAS\/LearningModule\/Presentation\/class.ilLMContentRendererGUI.php",
+        "line": 381,
+        "code": "$this->lng->txt(\"cont_to_focus_return_crs\")",
+        "has_variable": false,
+        "variable": "cont_to_focus_return_crs"
+    },
+    {
+        "id": 23526,
+        "file": "components\/ILIAS\/LearningModule\/Presentation\/class.ilLMContentRendererGUI.php",
+        "line": 402,
+        "code": "$this->lng->txt(\"msg_no_page_access\")",
+        "has_variable": false,
+        "variable": "msg_no_page_access"
+    },
+    {
+        "id": 23528,
+        "file": "components\/ILIAS\/LearningModule\/Presentation\/class.ilLMContentRendererGUI.php",
+        "line": 422,
+        "code": "$this->lng->txt(\"msg_page_no_public_access\")",
+        "has_variable": false,
+        "variable": "msg_page_no_public_access"
+    },
+    {
+        "id": 23530,
+        "file": "components\/ILIAS\/LearningModule\/Presentation\/class.ilLMContentRendererGUI.php",
+        "line": 431,
+        "code": "$this->lng->txt(\"cont_no_page_access_unansw_q\")",
+        "has_variable": false,
+        "variable": "cont_no_page_access_unansw_q"
+    },
+    {
+        "id": 23532,
+        "file": "components\/ILIAS\/LearningModule\/Presentation\/class.ilLMContentRendererGUI.php",
+        "line": 445,
+        "code": "$this->lng->txt(\"cont_no_page_in_chapter\")",
+        "has_variable": false,
+        "variable": "cont_no_page_in_chapter"
+    },
+    {
+        "id": 23534,
+        "file": "components\/ILIAS\/LearningModule\/Presentation\/class.ilLMContentRendererGUI.php",
+        "line": 458,
+        "code": "$this->lng->txt(\"cont_no_page\")",
+        "has_variable": false,
+        "variable": "cont_no_page"
+    },
+    {
+        "id": 23536,
+        "file": "components\/ILIAS\/LearningModule\/Presentation\/class.ilLMContentRendererGUI.php",
+        "line": 469,
+        "code": "$this->lng->txt(\"cont_page_currently_deactivated\")",
+        "has_variable": false,
+        "variable": "cont_page_currently_deactivated"
+    },
+    {
+        "id": 23538,
+        "file": "components\/ILIAS\/LearningModule\/Presentation\/class.ilLMContentRendererGUI.php",
+        "line": 474,
+        "code": "$this->lng->txt(\"cont_page_activation_on\")",
+        "has_variable": false,
+        "variable": "cont_page_activation_on"
+    },
+    {
+        "id": 23540,
+        "file": "components\/ILIAS\/LearningModule\/Presentation\/class.ilLMContentRendererGUI.php",
+        "line": 508,
+        "code": "$this->lng->txt(\"passed\")",
+        "has_variable": false,
+        "variable": "passed"
+    },
+    {
+        "id": 23542,
+        "file": "components\/ILIAS\/LearningModule\/Presentation\/class.ilLMContentRendererGUI.php",
+        "line": 510,
+        "code": "$this->lng->txt(\"condition_\" . $cond[\"operator\"])",
+        "has_variable": true,
+        "variable": "\"condition_\" . $cond[\"operator\"]"
+    },
+    {
+        "id": 23544,
+        "file": "components\/ILIAS\/LearningModule\/Presentation\/class.ilLMContentRendererGUI.php",
+        "line": 519,
+        "code": "$this->lng->txt(\"cont_missing_preconditions\")",
+        "has_variable": false,
+        "variable": "cont_missing_preconditions"
+    },
+    {
+        "id": 23546,
+        "file": "components\/ILIAS\/LearningModule\/Presentation\/class.ilLMContentRendererGUI.php",
+        "line": 523,
+        "code": "$this->lng->txt(\"object\")",
+        "has_variable": false,
+        "variable": "object"
+    },
+    {
+        "id": 23548,
+        "file": "components\/ILIAS\/LearningModule\/Presentation\/class.ilLMContentRendererGUI.php",
+        "line": 524,
+        "code": "$this->lng->txt(\"condition\")",
+        "has_variable": false,
+        "variable": "condition"
+    },
+    {
+        "id": 23550,
+        "file": "components\/ILIAS\/LearningModule\/Presentation\/class.ilLMContentRendererGUI.php",
+        "line": 542,
+        "code": "$this->lng->txt(\"cont_skip_chapter\")",
+        "has_variable": false,
+        "variable": "cont_skip_chapter"
+    },
+    {
+        "id": 23552,
+        "file": "components\/ILIAS\/LearningModule\/Presentation\/class.ilLMMenuRendererGUI.php",
+        "line": 120,
+        "code": "$this->lng->txt(\"content\")",
+        "has_variable": false,
+        "variable": "content"
+    },
+    {
+        "id": 23554,
+        "file": "components\/ILIAS\/LearningModule\/Presentation\/class.ilLMMenuRendererGUI.php",
+        "line": 141,
+        "code": "$this->lng->txt(\"info_short\")",
+        "has_variable": false,
+        "variable": "info_short"
+    },
+    {
+        "id": 23556,
+        "file": "components\/ILIAS\/LearningModule\/Presentation\/class.ilLMMenuRendererGUI.php",
+        "line": 144,
+        "code": "$this->lng->txt(\"info_short\")",
+        "has_variable": false,
+        "variable": "info_short"
+    },
+    {
+        "id": 23558,
+        "file": "components\/ILIAS\/LearningModule\/Presentation\/class.ilLMMenuRendererGUI.php",
+        "line": 154,
+        "code": "$this->lng->txt(\"learning_progress\")",
+        "has_variable": false,
+        "variable": "learning_progress"
+    },
+    {
+        "id": 23560,
+        "file": "components\/ILIAS\/LearningModule\/Presentation\/class.ilLMMenuRendererGUI.php",
+        "line": 161,
+        "code": "$this->lng->txt(\"learning_progress\")",
+        "has_variable": false,
+        "variable": "learning_progress"
+    },
+    {
+        "id": 23562,
+        "file": "components\/ILIAS\/LearningModule\/Presentation\/class.ilLMMenuRendererGUI.php",
+        "line": 168,
+        "code": "$this->lng->txt(\"learning_progress\")",
+        "has_variable": false,
+        "variable": "learning_progress"
+    },
+    {
+        "id": 23564,
+        "file": "components\/ILIAS\/LearningModule\/Presentation\/class.ilLMMenuRendererGUI.php",
+        "line": 203,
+        "code": "$this->lng->txt(\"edit_page\")",
+        "has_variable": false,
+        "variable": "edit_page"
+    },
+    {
+        "id": 23566,
+        "file": "components\/ILIAS\/LearningModule\/Presentation\/class.ilLMMenuRendererGUI.php",
+        "line": 209,
+        "code": "$this->lng->txt(\"lm_edit_chapters\")",
+        "has_variable": false,
+        "variable": "lm_edit_chapters"
+    },
+    {
+        "id": 23568,
+        "file": "components\/ILIAS\/LearningModule\/Presentation\/class.ilLMMenuRendererGUI.php",
+        "line": 213,
+        "code": "$this->lng->txt(\"lm_edit_lm_settings\")",
+        "has_variable": false,
+        "variable": "lm_edit_lm_settings"
+    },
+    {
+        "id": 23570,
+        "file": "components\/ILIAS\/LearningModule\/Presentation\/class.ilLMNavigationRendererGUI.php",
+        "line": 118,
+        "code": "$this->lng->txt(\"back\")",
+        "has_variable": false,
+        "variable": "back"
+    },
+    {
+        "id": 23572,
+        "file": "components\/ILIAS\/LearningModule\/Presentation\/class.ilLMNavigationRendererGUI.php",
+        "line": 119,
+        "code": "$this->lng->txt(\"back\")",
+        "has_variable": false,
+        "variable": "back"
+    },
+    {
+        "id": 23574,
+        "file": "components\/ILIAS\/LearningModule\/Presentation\/class.ilLMNavigationRendererGUI.php",
+        "line": 171,
+        "code": "$this->lng->txt(\"previous\")",
+        "has_variable": false,
+        "variable": "previous"
+    },
+    {
+        "id": 23576,
+        "file": "components\/ILIAS\/LearningModule\/Presentation\/class.ilLMNavigationRendererGUI.php",
+        "line": 233,
+        "code": "$this->lng->txt(\"next\")",
+        "has_variable": false,
+        "variable": "next"
+    },
+    {
+        "id": 23578,
+        "file": "components\/ILIAS\/LearningModule\/Presentation\/class.ilLMNavigationRendererGUI.php",
+        "line": 341,
+        "code": "$this->lng->txt(\"cont_no_access\")",
+        "has_variable": false,
+        "variable": "cont_no_access"
+    },
+    {
+        "id": 23580,
+        "file": "components\/ILIAS\/LearningModule\/Presentation\/class.ilLMPresentationGUI.php",
+        "line": 148,
+        "code": "$lng->txt(\"permission_denied\")",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 23582,
+        "file": "components\/ILIAS\/LearningModule\/Presentation\/class.ilLMPresentationGUI.php",
+        "line": 307,
+        "code": "$lng->txt(\"permission_denied\")",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 23584,
+        "file": "components\/ILIAS\/LearningModule\/Presentation\/class.ilLMPresentationGUI.php",
+        "line": 792,
+        "code": "$this->lng->txt(\"edit_page\")",
+        "has_variable": false,
+        "variable": "edit_page"
+    },
+    {
+        "id": 23586,
+        "file": "components\/ILIAS\/LearningModule\/Presentation\/class.ilLMPresentationGUI.php",
+        "line": 868,
+        "code": "$this->lng->txt(\"lm_rating\")",
+        "has_variable": false,
+        "variable": "lm_rating"
+    },
+    {
+        "id": 23588,
+        "file": "components\/ILIAS\/LearningModule\/Presentation\/class.ilLMPresentationGUI.php",
+        "line": 886,
+        "code": "$this->lng->txt(\"cont_notification_activated\")",
+        "has_variable": false,
+        "variable": "cont_notification_activated"
+    },
+    {
+        "id": 23590,
+        "file": "components\/ILIAS\/LearningModule\/Presentation\/class.ilLMPresentationGUI.php",
+        "line": 899,
+        "code": "$this->lng->txt(\"cont_page_notification_activated\")",
+        "has_variable": false,
+        "variable": "cont_page_notification_activated"
+    },
+    {
+        "id": 23592,
+        "file": "components\/ILIAS\/LearningModule\/Presentation\/class.ilLMPresentationGUI.php",
+        "line": 908,
+        "code": "$this->lng->txt(\"cont_notification_deactivated\")",
+        "has_variable": false,
+        "variable": "cont_notification_deactivated"
+    },
+    {
+        "id": 23594,
+        "file": "components\/ILIAS\/LearningModule\/Presentation\/class.ilLMPresentationGUI.php",
+        "line": 1159,
+        "code": "$this->lng->txt(\"lm_rate_page\")",
+        "has_variable": false,
+        "variable": "lm_rate_page"
+    },
+    {
+        "id": 23596,
+        "file": "components\/ILIAS\/LearningModule\/Presentation\/class.ilLMPresentationGUI.php",
+        "line": 1204,
+        "code": "$this->lng->txt(\"lm_rate_page\")",
+        "has_variable": false,
+        "variable": "lm_rate_page"
+    },
+    {
+        "id": 23598,
+        "file": "components\/ILIAS\/LearningModule\/Presentation\/class.ilLMPresentationGUI.php",
+        "line": 1412,
+        "code": "$this->lng->txt(\"copg_est_reading_time\")",
+        "has_variable": false,
+        "variable": "copg_est_reading_time"
+    },
+    {
+        "id": 23600,
+        "file": "components\/ILIAS\/LearningModule\/Presentation\/class.ilLMPresentationGUI.php",
+        "line": 1413,
+        "code": "$this->lng->txt(\"copg_x_minutes\")",
+        "has_variable": false,
+        "variable": "copg_x_minutes"
+    },
+    {
+        "id": 23602,
+        "file": "components\/ILIAS\/LearningModule\/Presentation\/class.ilLMPresentationGUI.php",
+        "line": 1490,
+        "code": "$lng->txt(\"icon\")",
+        "has_variable": false,
+        "variable": "icon"
+    },
+    {
+        "id": 23604,
+        "file": "components\/ILIAS\/LearningModule\/Presentation\/class.ilLMPresentationGUI.php",
+        "line": 1490,
+        "code": "$lng->txt(\"pg\")",
+        "has_variable": false,
+        "variable": "pg"
+    },
+    {
+        "id": 23606,
+        "file": "components\/ILIAS\/LearningModule\/Presentation\/class.ilLMPresentationGUI.php",
+        "line": 1497,
+        "code": "$lng->txt(\"icon\")",
+        "has_variable": false,
+        "variable": "icon"
+    },
+    {
+        "id": 23608,
+        "file": "components\/ILIAS\/LearningModule\/Presentation\/class.ilLMPresentationGUI.php",
+        "line": 1497,
+        "code": "$lng->txt(\"obj_lm\")",
+        "has_variable": false,
+        "variable": "obj_lm"
+    },
+    {
+        "id": 23610,
+        "file": "components\/ILIAS\/LearningModule\/Presentation\/class.ilLMPresentationGUI.php",
+        "line": 1513,
+        "code": "$lng->txt(\"icon\")",
+        "has_variable": false,
+        "variable": "icon"
+    },
+    {
+        "id": 23612,
+        "file": "components\/ILIAS\/LearningModule\/Presentation\/class.ilLMPresentationGUI.php",
+        "line": 1513,
+        "code": "$lng->txt(\"st\")",
+        "has_variable": false,
+        "variable": "st"
+    },
+    {
+        "id": 23614,
+        "file": "components\/ILIAS\/LearningModule\/Presentation\/class.ilLMPresentationGUI.php",
+        "line": 1522,
+        "code": "$this->lng->txt(\"cont_no_access\")",
+        "has_variable": false,
+        "variable": "cont_no_access"
+    },
+    {
+        "id": 23616,
+        "file": "components\/ILIAS\/LearningModule\/Presentation\/class.ilLMPresentationGUI.php",
+        "line": 1570,
+        "code": "$this->lng->txt(\"cont_print_view\")",
+        "has_variable": false,
+        "variable": "cont_print_view"
+    },
+    {
+        "id": 23618,
+        "file": "components\/ILIAS\/LearningModule\/Presentation\/class.ilLMPresentationGUI.php",
+        "line": 1602,
+        "code": "$lng->txt(\"cont_selection\")",
+        "has_variable": false,
+        "variable": "cont_selection"
+    },
+    {
+        "id": 23620,
+        "file": "components\/ILIAS\/LearningModule\/Presentation\/class.ilLMPresentationGUI.php",
+        "line": 1604,
+        "code": "$lng->txt(\"cont_current_page\")",
+        "has_variable": false,
+        "variable": "cont_current_page"
+    },
+    {
+        "id": 23622,
+        "file": "components\/ILIAS\/LearningModule\/Presentation\/class.ilLMPresentationGUI.php",
+        "line": 1606,
+        "code": "$lng->txt(\"cont_current_chapter\")",
+        "has_variable": false,
+        "variable": "cont_current_chapter"
+    },
+    {
+        "id": 23624,
+        "file": "components\/ILIAS\/LearningModule\/Presentation\/class.ilLMPresentationGUI.php",
+        "line": 1608,
+        "code": "$lng->txt(\"cont_selected_pg_chap\")",
+        "has_variable": false,
+        "variable": "cont_selected_pg_chap"
+    },
+    {
+        "id": 23626,
+        "file": "components\/ILIAS\/LearningModule\/Presentation\/class.ilLMPresentationGUI.php",
+        "line": 1617,
+        "code": "$lng->txt(\"cont_show_print_view\")",
+        "has_variable": false,
+        "variable": "cont_show_print_view"
+    },
+    {
+        "id": 23628,
+        "file": "components\/ILIAS\/LearningModule\/Presentation\/class.ilLMPresentationGUI.php",
+        "line": 1648,
+        "code": "$lng->txt(\"back\")",
+        "has_variable": false,
+        "variable": "back"
+    },
+    {
+        "id": 23630,
+        "file": "components\/ILIAS\/LearningModule\/Presentation\/class.ilLMPresentationGUI.php",
+        "line": 1733,
+        "code": "$lng->txt(\"cont_print_no_page_selected\")",
+        "has_variable": false,
+        "variable": "cont_print_no_page_selected"
+    },
+    {
+        "id": 23632,
+        "file": "components\/ILIAS\/LearningModule\/Presentation\/class.ilLMPresentationGUI.php",
+        "line": 1985,
+        "code": "$this->lng->txt(\"cont_annex\")",
+        "has_variable": false,
+        "variable": "cont_annex"
+    },
+    {
+        "id": 23634,
+        "file": "components\/ILIAS\/LearningModule\/Presentation\/class.ilLMPresentationGUI.php",
+        "line": 1986,
+        "code": "$this->lng->txt(\"glo\")",
+        "has_variable": false,
+        "variable": "glo"
+    },
+    {
+        "id": 23636,
+        "file": "components\/ILIAS\/LearningModule\/Presentation\/class.ilLMPresentationGUI.php",
+        "line": 2034,
+        "code": "$this->lng->txt(\"cont_annex\")",
+        "has_variable": false,
+        "variable": "cont_annex"
+    },
+    {
+        "id": 23638,
+        "file": "components\/ILIAS\/LearningModule\/Presentation\/class.ilLMPresentationGUI.php",
+        "line": 2035,
+        "code": "$this->lng->txt(\"cont_ref_images\")",
+        "has_variable": false,
+        "variable": "cont_ref_images"
+    },
+    {
+        "id": 23640,
+        "file": "components\/ILIAS\/LearningModule\/Presentation\/class.ilLMPresentationGUI.php",
+        "line": 2096,
+        "code": "$this->lng->txt(\"cont_toc\")",
+        "has_variable": false,
+        "variable": "cont_toc"
+    },
+    {
+        "id": 23642,
+        "file": "components\/ILIAS\/LearningModule\/Presentation\/class.ilLMPresentationGUI.php",
+        "line": 2111,
+        "code": "$this->lng->txt(\"meta_author\")",
+        "has_variable": false,
+        "variable": "meta_author"
+    },
+    {
+        "id": 23644,
+        "file": "components\/ILIAS\/LearningModule\/Presentation\/class.ilLMPresentationGUI.php",
+        "line": 2127,
+        "code": "$this->lng->txt(\"meta_copyright\")",
+        "has_variable": false,
+        "variable": "meta_copyright"
+    },
+    {
+        "id": 23646,
+        "file": "components\/ILIAS\/LearningModule\/Presentation\/class.ilLMPresentationGUI.php",
+        "line": 2177,
+        "code": "$this->lng->txt(\"msg_page_no_public_access\")",
+        "has_variable": false,
+        "variable": "msg_page_no_public_access"
+    },
+    {
+        "id": 23648,
+        "file": "components\/ILIAS\/LearningModule\/Presentation\/class.ilLMPresentationGUI.php",
+        "line": 2185,
+        "code": "$this->lng->txt(\"msg_no_page_access\")",
+        "has_variable": false,
+        "variable": "msg_no_page_access"
+    },
+    {
+        "id": 23650,
+        "file": "components\/ILIAS\/LearningModule\/Presentation\/class.ilLMPresentationGUI.php",
+        "line": 2194,
+        "code": "$this->lng->txt(\"cont_no_page_access_unansw_q\")",
+        "has_variable": false,
+        "variable": "cont_no_page_access_unansw_q"
+    },
+    {
+        "id": 23652,
+        "file": "components\/ILIAS\/LearningModule\/Questions\/Usage\/TableBuilder.php",
+        "line": 62,
+        "code": "$this->lng->txt('cont_question_page_usage')",
+        "has_variable": false,
+        "variable": "cont_question_page_usage"
+    },
+    {
+        "id": 23654,
+        "file": "components\/ILIAS\/LearningModule\/Questions\/Usage\/TableBuilder.php",
+        "line": 90,
+        "code": "$this->lng->txt('cont_question')",
+        "has_variable": false,
+        "variable": "cont_question"
+    },
+    {
+        "id": 23656,
+        "file": "components\/ILIAS\/LearningModule\/Questions\/Usage\/TableBuilder.php",
+        "line": 91,
+        "code": "$this->lng->txt('cont_page_usage')",
+        "has_variable": false,
+        "variable": "cont_page_usage"
+    },
+    {
+        "id": 23658,
+        "file": "components\/ILIAS\/LearningModule\/Questions\/class.ilLMBlockedUsersTableGUI.php",
+        "line": 46,
+        "code": "$lng->txt(\"\")",
+        "has_variable": true,
+        "variable": ""
+    },
+    {
+        "id": 23660,
+        "file": "components\/ILIAS\/LearningModule\/Questions\/class.ilLMBlockedUsersTableGUI.php",
+        "line": 49,
+        "code": "$this->lng->txt(\"user\")",
+        "has_variable": false,
+        "variable": "user"
+    },
+    {
+        "id": 23662,
+        "file": "components\/ILIAS\/LearningModule\/Questions\/class.ilLMBlockedUsersTableGUI.php",
+        "line": 50,
+        "code": "$this->lng->txt(\"question\")",
+        "has_variable": false,
+        "variable": "question"
+    },
+    {
+        "id": 23664,
+        "file": "components\/ILIAS\/LearningModule\/Questions\/class.ilLMBlockedUsersTableGUI.php",
+        "line": 51,
+        "code": "$this->lng->txt(\"page\")",
+        "has_variable": false,
+        "variable": "page"
+    },
+    {
+        "id": 23666,
+        "file": "components\/ILIAS\/LearningModule\/Questions\/class.ilLMBlockedUsersTableGUI.php",
+        "line": 52,
+        "code": "$this->lng->txt(\"cont_last_try\")",
+        "has_variable": false,
+        "variable": "cont_last_try"
+    },
+    {
+        "id": 23668,
+        "file": "components\/ILIAS\/LearningModule\/Questions\/class.ilLMBlockedUsersTableGUI.php",
+        "line": 53,
+        "code": "$this->lng->txt(\"cont_unlocked\")",
+        "has_variable": false,
+        "variable": "cont_unlocked"
+    },
+    {
+        "id": 23670,
+        "file": "components\/ILIAS\/LearningModule\/Questions\/class.ilLMBlockedUsersTableGUI.php",
+        "line": 58,
+        "code": "$lng->txt(\"send_mail\")",
+        "has_variable": false,
+        "variable": "send_mail"
+    },
+    {
+        "id": 23672,
+        "file": "components\/ILIAS\/LearningModule\/Questions\/class.ilLMBlockedUsersTableGUI.php",
+        "line": 59,
+        "code": "$lng->txt(\"cont_reset_nr_of_tries\")",
+        "has_variable": false,
+        "variable": "cont_reset_nr_of_tries"
+    },
+    {
+        "id": 23674,
+        "file": "components\/ILIAS\/LearningModule\/Questions\/class.ilLMBlockedUsersTableGUI.php",
+        "line": 60,
+        "code": "$lng->txt(\"cont_unlock_allow_continue\")",
+        "has_variable": false,
+        "variable": "cont_unlock_allow_continue"
+    },
+    {
+        "id": 23676,
+        "file": "components\/ILIAS\/LearningModule\/Questions\/class.ilLMBlockedUsersTableGUI.php",
+        "line": 83,
+        "code": "$lng->txt(\"yes\")",
+        "has_variable": false,
+        "variable": "yes"
+    },
+    {
+        "id": 23678,
+        "file": "components\/ILIAS\/LearningModule\/Questions\/class.ilLMBlockedUsersTableGUI.php",
+        "line": 84,
+        "code": "$lng->txt(\"no\")",
+        "has_variable": false,
+        "variable": "no"
+    },
+    {
+        "id": 23680,
+        "file": "components\/ILIAS\/LearningModule\/Questions\/class.ilLMQuestionListTableGUI.php",
+        "line": 50,
+        "code": "$this->lng->txt(\"pg\")",
+        "has_variable": false,
+        "variable": "pg"
+    },
+    {
+        "id": 23682,
+        "file": "components\/ILIAS\/LearningModule\/Questions\/class.ilLMQuestionListTableGUI.php",
+        "line": 51,
+        "code": "$this->lng->txt(\"question\")",
+        "has_variable": false,
+        "variable": "question"
+    },
+    {
+        "id": 23684,
+        "file": "components\/ILIAS\/LearningModule\/Questions\/class.ilLMQuestionListTableGUI.php",
+        "line": 52,
+        "code": "$this->lng->txt(\"cont_users_answered\")",
+        "has_variable": false,
+        "variable": "cont_users_answered"
+    },
+    {
+        "id": 23686,
+        "file": "components\/ILIAS\/LearningModule\/Questions\/class.ilLMQuestionListTableGUI.php",
+        "line": 53,
+        "code": "$this->lng->txt(\"cont_correct_after_first\")",
+        "has_variable": false,
+        "variable": "cont_correct_after_first"
+    },
+    {
+        "id": 23688,
+        "file": "components\/ILIAS\/LearningModule\/Questions\/class.ilLMQuestionListTableGUI.php",
+        "line": 54,
+        "code": "$this->lng->txt(\"cont_second\")",
+        "has_variable": false,
+        "variable": "cont_second"
+    },
+    {
+        "id": 23690,
+        "file": "components\/ILIAS\/LearningModule\/Questions\/class.ilLMQuestionListTableGUI.php",
+        "line": 55,
+        "code": "$this->lng->txt(\"cont_third_and_more\")",
+        "has_variable": false,
+        "variable": "cont_third_and_more"
+    },
+    {
+        "id": 23692,
+        "file": "components\/ILIAS\/LearningModule\/Questions\/class.ilLMQuestionListTableGUI.php",
+        "line": 56,
+        "code": "$this->lng->txt(\"cont_never\")",
+        "has_variable": false,
+        "variable": "cont_never"
+    },
+    {
+        "id": 23694,
+        "file": "components\/ILIAS\/LearningModule\/ReadingTime\/class.SettingsGUI.php",
+        "line": 41,
+        "code": "$this->lng->txt(\"lm_est_reading_time\")",
+        "has_variable": false,
+        "variable": "lm_est_reading_time"
+    },
+    {
+        "id": 23696,
+        "file": "components\/ILIAS\/LearningModule\/Search\/SubitemPropertiesReader.php",
+        "line": 67,
+        "code": "$this->lng->txt('obj_pg')",
+        "has_variable": false,
+        "variable": "obj_pg"
+    },
+    {
+        "id": 23698,
+        "file": "components\/ILIAS\/LearningModule\/Search\/SubitemPropertiesReader.php",
+        "line": 76,
+        "code": "$this->lng->txt('obj_st')",
+        "has_variable": false,
+        "variable": "obj_st"
+    },
+    {
+        "id": 23700,
+        "file": "components\/ILIAS\/LearningModule\/Search\/SubitemPropertiesReader.php",
+        "line": 126,
+        "code": "$this->lng->txt('obj_file')",
+        "has_variable": false,
+        "variable": "obj_file"
+    },
+    {
+        "id": 23702,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilExportIDTableGUI.php",
+        "line": 78,
+        "code": "$lng->txt(\"cont_html_export_ids\")",
+        "has_variable": false,
+        "variable": "cont_html_export_ids"
+    },
+    {
+        "id": 23704,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilExportIDTableGUI.php",
+        "line": 80,
+        "code": "$this->lng->txt(\"pg\")",
+        "has_variable": false,
+        "variable": "pg"
+    },
+    {
+        "id": 23706,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilExportIDTableGUI.php",
+        "line": 81,
+        "code": "$this->lng->txt(\"cont_export_id\")",
+        "has_variable": false,
+        "variable": "cont_export_id"
+    },
+    {
+        "id": 23708,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilExportIDTableGUI.php",
+        "line": 88,
+        "code": "$lng->txt(\"save\")",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 23710,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilExportIDTableGUI.php",
+        "line": 129,
+        "code": "$lng->txt(\"alert\")",
+        "has_variable": false,
+        "variable": "alert"
+    },
+    {
+        "id": 23712,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilExportIDTableGUI.php",
+        "line": 154,
+        "code": "$lng->txt(\"cont_exp_id_used_multiple\")",
+        "has_variable": false,
+        "variable": "cont_exp_id_used_multiple"
+    },
+    {
+        "id": 23714,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilExportIDTableGUI.php",
+        "line": 160,
+        "code": "$lng->txt(\"alert\")",
+        "has_variable": false,
+        "variable": "alert"
+    },
+    {
+        "id": 23716,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilExportIDTableGUI.php",
+        "line": 169,
+        "code": "$lng->txt(\"content_some_export_ids_multiple_times\")",
+        "has_variable": false,
+        "variable": "content_some_export_ids_multiple_times"
+    },
+    {
+        "id": 23718,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilHelpMappingTableGUI.php",
+        "line": 52,
+        "code": "$lng->txt(\"help_assign_help_ids\")",
+        "has_variable": false,
+        "variable": "help_assign_help_ids"
+    },
+    {
+        "id": 23720,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilHelpMappingTableGUI.php",
+        "line": 54,
+        "code": "$this->lng->txt(\"st\")",
+        "has_variable": false,
+        "variable": "st"
+    },
+    {
+        "id": 23722,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilHelpMappingTableGUI.php",
+        "line": 55,
+        "code": "$this->lng->txt(\"cont_screen_ids\")",
+        "has_variable": false,
+        "variable": "cont_screen_ids"
+    },
+    {
+        "id": 23724,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilHelpMappingTableGUI.php",
+        "line": 62,
+        "code": "$lng->txt(\"save\")",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 23726,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilHelpTooltipTableGUI.php",
+        "line": 48,
+        "code": "$lng->txt(\"help_tooltips\")",
+        "has_variable": false,
+        "variable": "help_tooltips"
+    },
+    {
+        "id": 23728,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilHelpTooltipTableGUI.php",
+        "line": 51,
+        "code": "$this->lng->txt(\"help_tooltip_id\")",
+        "has_variable": false,
+        "variable": "help_tooltip_id"
+    },
+    {
+        "id": 23730,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilHelpTooltipTableGUI.php",
+        "line": 52,
+        "code": "$this->lng->txt(\"help_tt_text\")",
+        "has_variable": false,
+        "variable": "help_tt_text"
+    },
+    {
+        "id": 23732,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilHelpTooltipTableGUI.php",
+        "line": 59,
+        "code": "$lng->txt(\"save\")",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 23734,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilHelpTooltipTableGUI.php",
+        "line": 60,
+        "code": "$lng->txt(\"delete\")",
+        "has_variable": false,
+        "variable": "delete"
+    },
+    {
+        "id": 23736,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilLMEditShortTitlesGUI.php",
+        "line": 72,
+        "code": "$this->lng->txt(\"cont_short_title_info\")",
+        "has_variable": false,
+        "variable": "cont_short_title_info"
+    },
+    {
+        "id": 23738,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilLMEditShortTitlesGUI.php",
+        "line": 87,
+        "code": "$this->lng->txt(\"msg_obj_modified\")",
+        "has_variable": false,
+        "variable": "msg_obj_modified"
+    },
+    {
+        "id": 23740,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilLMEditShortTitlesTableGUI.php",
+        "line": 46,
+        "code": "$this->lng->txt(\"cont_short_titles\")",
+        "has_variable": false,
+        "variable": "cont_short_titles"
+    },
+    {
+        "id": 23742,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilLMEditShortTitlesTableGUI.php",
+        "line": 48,
+        "code": "$this->lng->txt(\"title\")",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 23744,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilLMEditShortTitlesTableGUI.php",
+        "line": 49,
+        "code": "$this->lng->txt(\"cont_short_title\")",
+        "has_variable": false,
+        "variable": "cont_short_title"
+    },
+    {
+        "id": 23746,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilLMEditShortTitlesTableGUI.php",
+        "line": 54,
+        "code": "$this->lng->txt(\"save\")",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 23748,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilLMEditorExplorerGUI.php",
+        "line": 107,
+        "code": "$lng->txt(\"cont_page_deactivated\")",
+        "has_variable": false,
+        "variable": "cont_page_deactivated"
+    },
+    {
+        "id": 23750,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilLMEditorExplorerGUI.php",
+        "line": 114,
+        "code": "$lng->txt(\"cont_page_deactivated_elements\")",
+        "has_variable": false,
+        "variable": "cont_page_deactivated_elements"
+    },
+    {
+        "id": 23752,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilLMGlossaryTableGUI.php",
+        "line": 51,
+        "code": "$lng->txt(\"cont_auto_glossaries\")",
+        "has_variable": false,
+        "variable": "cont_auto_glossaries"
+    },
+    {
+        "id": 23754,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilLMGlossaryTableGUI.php",
+        "line": 53,
+        "code": "$this->lng->txt(\"title\")",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 23756,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilLMGlossaryTableGUI.php",
+        "line": 54,
+        "code": "$this->lng->txt(\"actions\")",
+        "has_variable": false,
+        "variable": "actions"
+    },
+    {
+        "id": 23758,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilLMGlossaryTableGUI.php",
+        "line": 68,
+        "code": "$lng->txt(\"remove\")",
+        "has_variable": false,
+        "variable": "remove"
+    },
+    {
+        "id": 23760,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilLMImportGUI.php",
+        "line": 66,
+        "code": "$lng->txt(\"cont_trans_import_info\")",
+        "has_variable": false,
+        "variable": "cont_trans_import_info"
+    },
+    {
+        "id": 23762,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilLMImportGUI.php",
+        "line": 83,
+        "code": "$lng->txt(\"file\")",
+        "has_variable": false,
+        "variable": "file"
+    },
+    {
+        "id": 23764,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilLMImportGUI.php",
+        "line": 92,
+        "code": "$lng->txt(\"meta_l_\" . $l->getLanguageCode())",
+        "has_variable": true,
+        "variable": "\"meta_l_\" . $l->getLanguageCode()"
+    },
+    {
+        "id": 23766,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilLMImportGUI.php",
+        "line": 95,
+        "code": "$lng->txt(\"cont_import_lang\")",
+        "has_variable": false,
+        "variable": "cont_import_lang"
+    },
+    {
+        "id": 23768,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilLMImportGUI.php",
+        "line": 99,
+        "code": "$lng->txt(\"import\")",
+        "has_variable": false,
+        "variable": "import"
+    },
+    {
+        "id": 23770,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilLMImportGUI.php",
+        "line": 100,
+        "code": "$lng->txt(\"cont_import_trans\")",
+        "has_variable": false,
+        "variable": "cont_import_trans"
+    },
+    {
+        "id": 23772,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilLMImportGUI.php",
+        "line": 117,
+        "code": "$lng->txt(\"cont_transl_master_language_not_allowed\")",
+        "has_variable": false,
+        "variable": "cont_transl_master_language_not_allowed"
+    },
+    {
+        "id": 23774,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilLMImportGUI.php",
+        "line": 130,
+        "code": "$lng->txt(\"msg_obj_modified\")",
+        "has_variable": false,
+        "variable": "msg_obj_modified"
+    },
+    {
+        "id": 23776,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilLMMenuGUI.php",
+        "line": 69,
+        "code": "$lng->txt(\"cont_print_view\")",
+        "has_variable": false,
+        "variable": "cont_print_view"
+    },
+    {
+        "id": 23778,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilLMMenuGUI.php",
+        "line": 74,
+        "code": "$this->lng->txt(\"cont_print_view\")",
+        "has_variable": false,
+        "variable": "cont_print_view"
+    },
+    {
+        "id": 23780,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilLMMenuItemsTableGUI.php",
+        "line": 47,
+        "code": "$lng->txt(\"cont_custom_menu_entries\")",
+        "has_variable": false,
+        "variable": "cont_custom_menu_entries"
+    },
+    {
+        "id": 23782,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilLMMenuItemsTableGUI.php",
+        "line": 51,
+        "code": "$this->lng->txt(\"link\")",
+        "has_variable": false,
+        "variable": "link"
+    },
+    {
+        "id": 23784,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilLMMenuItemsTableGUI.php",
+        "line": 52,
+        "code": "$this->lng->txt(\"active\")",
+        "has_variable": false,
+        "variable": "active"
+    },
+    {
+        "id": 23786,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilLMMenuItemsTableGUI.php",
+        "line": 53,
+        "code": "$this->lng->txt(\"actions\")",
+        "has_variable": false,
+        "variable": "actions"
+    },
+    {
+        "id": 23788,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilLMMenuItemsTableGUI.php",
+        "line": 58,
+        "code": "$lng->txt(\"delete\")",
+        "has_variable": false,
+        "variable": "delete"
+    },
+    {
+        "id": 23790,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilLMMenuItemsTableGUI.php",
+        "line": 59,
+        "code": "$lng->txt(\"save\")",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 23792,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilLMMenuItemsTableGUI.php",
+        "line": 70,
+        "code": "$this->lng->txt(\"edit\")",
+        "has_variable": false,
+        "variable": "edit"
+    },
+    {
+        "id": 23794,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilLMMenuItemsTableGUI.php",
+        "line": 75,
+        "code": "$this->lng->txt(\"delete\")",
+        "has_variable": false,
+        "variable": "delete"
+    },
+    {
+        "id": 23796,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilLMObjectGUI.php",
+        "line": 128,
+        "code": "$this->lng->txt($new_type . \"_new\")",
+        "has_variable": true,
+        "variable": "$new_type . \"_new\""
+    },
+    {
+        "id": 23798,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilLMObjectGUI.php",
+        "line": 130,
+        "code": "$this->lng->txt(\"title\")",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 23800,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilLMObjectGUI.php",
+        "line": 133,
+        "code": "$this->lng->txt(\"description\")",
+        "has_variable": false,
+        "variable": "description"
+    },
+    {
+        "id": 23802,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilLMObjectGUI.php",
+        "line": 136,
+        "code": "$this->lng->txt($new_type . \"_add\")",
+        "has_variable": true,
+        "variable": "$new_type . \"_add\""
+    },
+    {
+        "id": 23804,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilLMObjectGUI.php",
+        "line": 137,
+        "code": "$this->lng->txt(\"cancel\")",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 23806,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilLMObjectGUI.php",
+        "line": 235,
+        "code": "$this->lng->txt($val[\"lng\"])",
+        "has_variable": true,
+        "variable": "\\$val"
+    },
+    {
+        "id": 23808,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilLMPageGUI.php",
+        "line": 71,
+        "code": "$lng->txt(\"cont_def_feedb_deactivated\")",
+        "has_variable": false,
+        "variable": "cont_def_feedb_deactivated"
+    },
+    {
+        "id": 23810,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilLMPageGUI.php",
+        "line": 73,
+        "code": "$lng->txt(\"cont_def_feedb_activated\")",
+        "has_variable": false,
+        "variable": "cont_def_feedb_activated"
+    },
+    {
+        "id": 23812,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilLMPageObject.php",
+        "line": 528,
+        "code": "$lng->txt(\"cont_new_page\")",
+        "has_variable": false,
+        "variable": "cont_new_page"
+    },
+    {
+        "id": 23814,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilLMPageObjectGUI.php",
+        "line": 129,
+        "code": "$this->lng->txt(\"page\")",
+        "has_variable": false,
+        "variable": "page"
+    },
+    {
+        "id": 23816,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilLMPageObjectGUI.php",
+        "line": 136,
+        "code": "$this->lng->txt(\"page\")",
+        "has_variable": false,
+        "variable": "page"
+    },
+    {
+        "id": 23818,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilLMPageObjectGUI.php",
+        "line": 389,
+        "code": "$lng->txt(\"msg_no_perm_read_item\")",
+        "has_variable": false,
+        "variable": "msg_no_perm_read_item"
+    },
+    {
+        "id": 23820,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilLMPageObjectGUI.php",
+        "line": 394,
+        "code": "$lng->txt(\"page_does_not_exist\")",
+        "has_variable": false,
+        "variable": "page_does_not_exist"
+    },
+    {
+        "id": 23822,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilLMPageObjectGUI.php",
+        "line": 399,
+        "code": "$lng->txt(\"msg_no_perm_read_lm\")",
+        "has_variable": false,
+        "variable": "msg_no_perm_read_lm"
+    },
+    {
+        "id": 23824,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilLMPageObjectGUI.php",
+        "line": 424,
+        "code": "$this->lng->txt(\"page\")",
+        "has_variable": false,
+        "variable": "page"
+    },
+    {
+        "id": 23826,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilLMPageObjectGUI.php",
+        "line": 440,
+        "code": "$lng->txt(\"cont_layout\")",
+        "has_variable": false,
+        "variable": "cont_layout"
+    },
+    {
+        "id": 23828,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilLMPageObjectGUI.php",
+        "line": 446,
+        "code": "$lng->txt(\"cont_lm_default_layout\")",
+        "has_variable": false,
+        "variable": "cont_lm_default_layout"
+    },
+    {
+        "id": 23830,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilLMPageObjectGUI.php",
+        "line": 447,
+        "code": "$lng->txt(\"cont_layout_\" . $this->content_object->getLayout())",
+        "has_variable": true,
+        "variable": "\"cont_layout_\" . $this->content_object->getLayout()"
+    },
+    {
+        "id": 23832,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilLMPageObjectGUI.php",
+        "line": 456,
+        "code": "$lng->txt(\"cont_layout_\" . $l)",
+        "has_variable": true,
+        "variable": "\"cont_layout_\" . $l"
+    },
+    {
+        "id": 23834,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilLMPageObjectGUI.php",
+        "line": 456,
+        "code": "$lng->txt(\"cont_layout_\" . $l . \"_desc\")",
+        "has_variable": true,
+        "variable": "\"cont_layout_\" . $l . \"_desc\""
+    },
+    {
+        "id": 23836,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilLMPageObjectGUI.php",
+        "line": 463,
+        "code": "$lng->txt(\"save\")",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 23838,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilLMPageObjectGUI.php",
+        "line": 465,
+        "code": "$lng->txt(\"cont_page_layout\")",
+        "has_variable": false,
+        "variable": "cont_page_layout"
+    },
+    {
+        "id": 23840,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilLMPageObjectGUI.php",
+        "line": 478,
+        "code": "$lng->txt(\"msg_obj_modified\")",
+        "has_variable": false,
+        "variable": "msg_obj_modified"
+    },
+    {
+        "id": 23842,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilLMPageObjectGUI.php",
+        "line": 527,
+        "code": "$lng->txt(\"back\")",
+        "has_variable": false,
+        "variable": "back"
+    },
+    {
+        "id": 23844,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilLMPageObjectGUI.php",
+        "line": 542,
+        "code": "$lng->txt(\"title\")",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 23846,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilLMPageObjectGUI.php",
+        "line": 544,
+        "code": "$lng->txt(\"description\")",
+        "has_variable": false,
+        "variable": "description"
+    },
+    {
+        "id": 23848,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilLMPageObjectGUI.php",
+        "line": 552,
+        "code": "$lng->txt(\"cont_insert_pagelayout\")",
+        "has_variable": false,
+        "variable": "cont_insert_pagelayout"
+    },
+    {
+        "id": 23850,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilLMPageObjectGUI.php",
+        "line": 585,
+        "code": "$lng->txt(\"cont_page_created\")",
+        "has_variable": false,
+        "variable": "cont_page_created"
+    },
+    {
+        "id": 23852,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilLMPagesTableGUI.php",
+        "line": 47,
+        "code": "$lng->txt(\"cont_pages\")",
+        "has_variable": false,
+        "variable": "cont_pages"
+    },
+    {
+        "id": 23854,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilLMPagesTableGUI.php",
+        "line": 49,
+        "code": "$this->lng->txt(\"\")",
+        "has_variable": true,
+        "variable": ""
+    },
+    {
+        "id": 23856,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilLMPagesTableGUI.php",
+        "line": 50,
+        "code": "$this->lng->txt(\"type\")",
+        "has_variable": false,
+        "variable": "type"
+    },
+    {
+        "id": 23858,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilLMPagesTableGUI.php",
+        "line": 51,
+        "code": "$this->lng->txt(\"title\")",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 23860,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilLMPagesTableGUI.php",
+        "line": 52,
+        "code": "$this->lng->txt(\"cont_usage\")",
+        "has_variable": false,
+        "variable": "cont_usage"
+    },
+    {
+        "id": 23862,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilLMPagesTableGUI.php",
+        "line": 57,
+        "code": "$this->lng->txt(\"cont_layout\")",
+        "has_variable": false,
+        "variable": "cont_layout"
+    },
+    {
+        "id": 23864,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilLMPagesTableGUI.php",
+        "line": 67,
+        "code": "$lng->txt(\"pastePage\")",
+        "has_variable": false,
+        "variable": "pastePage"
+    },
+    {
+        "id": 23866,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilLMPagesTableGUI.php",
+        "line": 71,
+        "code": "$lng->txt(\"cont_set_layout\")",
+        "has_variable": false,
+        "variable": "cont_set_layout"
+    },
+    {
+        "id": 23868,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilLMPagesTableGUI.php",
+        "line": 74,
+        "code": "$lng->txt(\"cont_de_activate\")",
+        "has_variable": false,
+        "variable": "cont_de_activate"
+    },
+    {
+        "id": 23870,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilLMPagesTableGUI.php",
+        "line": 75,
+        "code": "$lng->txt(\"movePage\")",
+        "has_variable": false,
+        "variable": "movePage"
+    },
+    {
+        "id": 23872,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilLMPagesTableGUI.php",
+        "line": 76,
+        "code": "$lng->txt(\"copyPage\")",
+        "has_variable": false,
+        "variable": "copyPage"
+    },
+    {
+        "id": 23874,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilLMPagesTableGUI.php",
+        "line": 77,
+        "code": "$lng->txt(\"delete\")",
+        "has_variable": false,
+        "variable": "delete"
+    },
+    {
+        "id": 23876,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilLMPagesTableGUI.php",
+        "line": 78,
+        "code": "$lng->txt(\"selectHeader\")",
+        "has_variable": false,
+        "variable": "selectHeader"
+    },
+    {
+        "id": 23878,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilLMPagesTableGUI.php",
+        "line": 79,
+        "code": "$lng->txt(\"selectFooter\")",
+        "has_variable": false,
+        "variable": "selectFooter"
+    },
+    {
+        "id": 23880,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilLMPagesTableGUI.php",
+        "line": 104,
+        "code": "$lng->txt(\"cont_page_deactivated\")",
+        "has_variable": false,
+        "variable": "cont_page_deactivated"
+    },
+    {
+        "id": 23882,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilLMPagesTableGUI.php",
+        "line": 111,
+        "code": "$lng->txt(\"cont_page_deactivated_elements\")",
+        "has_variable": false,
+        "variable": "cont_page_deactivated_elements"
+    },
+    {
+        "id": 23884,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilLMPagesTableGUI.php",
+        "line": 114,
+        "code": "$this->lng->txt(\"pg\")",
+        "has_variable": false,
+        "variable": "pg"
+    },
+    {
+        "id": 23886,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilLMPagesTableGUI.php",
+        "line": 139,
+        "code": "$lng->txt(\"cont_header\")",
+        "has_variable": false,
+        "variable": "cont_header"
+    },
+    {
+        "id": 23888,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilLMPagesTableGUI.php",
+        "line": 142,
+        "code": "$lng->txt(\"cont_footer\")",
+        "has_variable": false,
+        "variable": "cont_footer"
+    },
+    {
+        "id": 23890,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilLMPagesTableGUI.php",
+        "line": 152,
+        "code": "$lng->txt(\"cont_layout_\" . $l)",
+        "has_variable": true,
+        "variable": "\"cont_layout_\" . $l"
+    },
+    {
+        "id": 23892,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilLearningModuleKioskModeView.php",
+        "line": 191,
+        "code": "$this->lng->txt('lm_btn_lp_toggle_state_completed')",
+        "has_variable": false,
+        "variable": "lm_btn_lp_toggle_state_completed"
+    },
+    {
+        "id": 23894,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilLearningModuleKioskModeView.php",
+        "line": 193,
+        "code": "$this->lng->txt('lm_btn_lp_toggle_state_not_completed')",
+        "has_variable": false,
+        "variable": "lm_btn_lp_toggle_state_not_completed"
+    },
+    {
+        "id": 23896,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilLearningModuleKioskModeView.php",
+        "line": 218,
+        "code": "$this->lng->txt('trac_updated_status')",
+        "has_variable": false,
+        "variable": "trac_updated_status"
+    },
+    {
+        "id": 23898,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilLearningModuleNotification.php",
+        "line": 145,
+        "code": "$ulng->txt('cont_notification_comment_subject_lm')",
+        "has_variable": false,
+        "variable": "cont_notification_comment_subject_lm"
+    },
+    {
+        "id": 23900,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilLearningModuleNotification.php",
+        "line": 148,
+        "code": "$ulng->txt('cont_change_notification_subject_lm')",
+        "has_variable": false,
+        "variable": "cont_change_notification_subject_lm"
+    },
+    {
+        "id": 23902,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilLearningModuleNotification.php",
+        "line": 153,
+        "code": "$a_ulng->txt('cont_change_notification_salutation')",
+        "has_variable": false,
+        "variable": "cont_change_notification_salutation"
+    },
+    {
+        "id": 23904,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilLearningModuleNotification.php",
+        "line": 154,
+        "code": "$a_ulng->txt('cont_notification_' . $this->action . \"_lm\")",
+        "has_variable": true,
+        "variable": "'cont_notification_' . $this->action . \"_lm\""
+    },
+    {
+        "id": 23906,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilLearningModuleNotification.php",
+        "line": 155,
+        "code": "$a_ulng->txt('learning module')",
+        "has_variable": true,
+        "variable": "learning module"
+    },
+    {
+        "id": 23908,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilLearningModuleNotification.php",
+        "line": 156,
+        "code": "$a_ulng->txt('page')",
+        "has_variable": false,
+        "variable": "page"
+    },
+    {
+        "id": 23910,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilLearningModuleNotification.php",
+        "line": 159,
+        "code": "$a_ulng->txt('cont_commented_by')",
+        "has_variable": false,
+        "variable": "cont_commented_by"
+    },
+    {
+        "id": 23912,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilLearningModuleNotification.php",
+        "line": 160,
+        "code": "$a_ulng->txt('comment')",
+        "has_variable": false,
+        "variable": "comment"
+    },
+    {
+        "id": 23914,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilLearningModuleNotification.php",
+        "line": 165,
+        "code": "$a_ulng->txt('url')",
+        "has_variable": false,
+        "variable": "url"
+    },
+    {
+        "id": 23916,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilLearningModuleNotification.php",
+        "line": 187,
+        "code": "$a_ulng->txt('content')",
+        "has_variable": false,
+        "variable": "content"
+    },
+    {
+        "id": 23918,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilLinksTableGUI.php",
+        "line": 44,
+        "code": "$lng->txt(\"pg\")",
+        "has_variable": false,
+        "variable": "pg"
+    },
+    {
+        "id": 23920,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilLinksTableGUI.php",
+        "line": 45,
+        "code": "$lng->txt(\"cont_internal_links\")",
+        "has_variable": false,
+        "variable": "cont_internal_links"
+    },
+    {
+        "id": 23922,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilLinksTableGUI.php",
+        "line": 56,
+        "code": "$lng->txt(\"cont_internal_links\")",
+        "has_variable": false,
+        "variable": "cont_internal_links"
+    },
+    {
+        "id": 23924,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilLinksTableGUI.php",
+        "line": 95,
+        "code": "$lng->txt(\"pg\")",
+        "has_variable": false,
+        "variable": "pg"
+    },
+    {
+        "id": 23926,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilLinksTableGUI.php",
+        "line": 108,
+        "code": "$lng->txt(\"cont_target_missing\")",
+        "has_variable": false,
+        "variable": "cont_target_missing"
+    },
+    {
+        "id": 23928,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilLinksTableGUI.php",
+        "line": 116,
+        "code": "$lng->txt(\"st\")",
+        "has_variable": false,
+        "variable": "st"
+    },
+    {
+        "id": 23930,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilLinksTableGUI.php",
+        "line": 129,
+        "code": "$lng->txt(\"cont_target_missing\")",
+        "has_variable": false,
+        "variable": "cont_target_missing"
+    },
+    {
+        "id": 23932,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilLinksTableGUI.php",
+        "line": 137,
+        "code": "$lng->txt(\"cont_term\")",
+        "has_variable": false,
+        "variable": "cont_term"
+    },
+    {
+        "id": 23934,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilLinksTableGUI.php",
+        "line": 146,
+        "code": "$lng->txt(\"cont_target_missing\")",
+        "has_variable": false,
+        "variable": "cont_target_missing"
+    },
+    {
+        "id": 23936,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilLinksTableGUI.php",
+        "line": 154,
+        "code": "$lng->txt(\"mob\")",
+        "has_variable": false,
+        "variable": "mob"
+    },
+    {
+        "id": 23938,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilLinksTableGUI.php",
+        "line": 163,
+        "code": "$lng->txt(\"cont_target_missing\")",
+        "has_variable": false,
+        "variable": "cont_target_missing"
+    },
+    {
+        "id": 23940,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilLinksTableGUI.php",
+        "line": 171,
+        "code": "$lng->txt(\"cont_repository_item\")",
+        "has_variable": false,
+        "variable": "cont_repository_item"
+    },
+    {
+        "id": 23942,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilLinksTableGUI.php",
+        "line": 178,
+        "code": "$lng->txt((\"obj_\" . $obj_type))",
+        "has_variable": true,
+        "variable": "(\"obj_\" . $obj_type)"
+    },
+    {
+        "id": 23944,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilLinksTableGUI.php",
+        "line": 184,
+        "code": "$lng->txt(\"cont_target_missing\")",
+        "has_variable": false,
+        "variable": "cont_target_missing"
+    },
+    {
+        "id": 23946,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilLinksTableGUI.php",
+        "line": 195,
+        "code": "$lng->txt(\"pg\")",
+        "has_variable": false,
+        "variable": "pg"
+    },
+    {
+        "id": 23948,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilLinksTableGUI.php",
+        "line": 198,
+        "code": "$lng->txt(\"st\")",
+        "has_variable": false,
+        "variable": "st"
+    },
+    {
+        "id": 23950,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilLinksTableGUI.php",
+        "line": 201,
+        "code": "$lng->txt(\"cont_term\")",
+        "has_variable": false,
+        "variable": "cont_term"
+    },
+    {
+        "id": 23952,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilLinksTableGUI.php",
+        "line": 204,
+        "code": "$lng->txt(\"mob\")",
+        "has_variable": false,
+        "variable": "mob"
+    },
+    {
+        "id": 23954,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilLinksTableGUI.php",
+        "line": 207,
+        "code": "$lng->txt(\"cont_repository_item\")",
+        "has_variable": false,
+        "variable": "cont_repository_item"
+    },
+    {
+        "id": 23956,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilLinksTableGUI.php",
+        "line": 214,
+        "code": "$lng->txt(\"cont_target_missing\")",
+        "has_variable": false,
+        "variable": "cont_target_missing"
+    },
+    {
+        "id": 23958,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObject.php",
+        "line": 281,
+        "code": "$lng->txt(\"cont_new_chap\")",
+        "has_variable": false,
+        "variable": "cont_new_chap"
+    },
+    {
+        "id": 23960,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObject.php",
+        "line": 291,
+        "code": "$lng->txt(\"cont_new_page\")",
+        "has_variable": false,
+        "variable": "cont_new_page"
+    },
+    {
+        "id": 23962,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObject.php",
+        "line": 1775,
+        "code": "$this->lng->txt(\"cont_import_validation_errors\")",
+        "has_variable": false,
+        "variable": "cont_import_validation_errors"
+    },
+    {
+        "id": 23964,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObject.php",
+        "line": 1778,
+        "code": "$this->lng->txt(\"obj_pg\")",
+        "has_variable": false,
+        "variable": "obj_pg"
+    },
+    {
+        "id": 23966,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectAccess.php",
+        "line": 55,
+        "code": "$lng->txt(\"lm_no_continue_for_anonym\")",
+        "has_variable": false,
+        "variable": "lm_no_continue_for_anonym"
+    },
+    {
+        "id": 23968,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectAccess.php",
+        "line": 60,
+        "code": "$lng->txt(\"not_accessed_yet\")",
+        "has_variable": false,
+        "variable": "not_accessed_yet"
+    },
+    {
+        "id": 23970,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectAccess.php",
+        "line": 69,
+        "code": "$lng->txt(\"online\")",
+        "has_variable": false,
+        "variable": "online"
+    },
+    {
+        "id": 23972,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 236,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 23974,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 270,
+        "code": "$lng->txt(\"learning module\")",
+        "has_variable": true,
+        "variable": "learning module"
+    },
+    {
+        "id": 23976,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 288,
+        "code": "$lng->txt(\"learning module\")",
+        "has_variable": true,
+        "variable": "learning module"
+    },
+    {
+        "id": 23978,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 453,
+        "code": "$this->lng->txt(\"cont_chapters\")",
+        "has_variable": false,
+        "variable": "cont_chapters"
+    },
+    {
+        "id": 23980,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 460,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 23982,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 515,
+        "code": "$this->lng->txt(\"meta_l_\" . $l)",
+        "has_variable": true,
+        "variable": "\"meta_l_\" . $l"
+    },
+    {
+        "id": 23984,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 517,
+        "code": "$this->lng->txt(\"cont_all_languages\")",
+        "has_variable": false,
+        "variable": "cont_all_languages"
+    },
+    {
+        "id": 23986,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 522,
+        "code": "$this->lng->txt(\"language\")",
+        "has_variable": false,
+        "variable": "language"
+    },
+    {
+        "id": 23988,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 526,
+        "code": "$this->lng->txt(\"export_options\")",
+        "has_variable": false,
+        "variable": "export_options"
+    },
+    {
+        "id": 23990,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 531,
+        "code": "$this->lng->txt(\"export\")",
+        "has_variable": false,
+        "variable": "export"
+    },
+    {
+        "id": 23992,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 540,
+        "code": "$this->lng->txt(\"cont_master_language_only\")",
+        "has_variable": false,
+        "variable": "cont_master_language_only"
+    },
+    {
+        "id": 23994,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 541,
+        "code": "$this->lng->txt(\"cont_master_language_only_no_media\")",
+        "has_variable": false,
+        "variable": "cont_master_language_only_no_media"
+    },
+    {
+        "id": 23996,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 545,
+        "code": "$this->lng->txt(\"export_type\")",
+        "has_variable": false,
+        "variable": "export_type"
+    },
+    {
+        "id": 23998,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 549,
+        "code": "$this->lng->txt(\"export_options\")",
+        "has_variable": false,
+        "variable": "export_options"
+    },
+    {
+        "id": 24000,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 554,
+        "code": "$this->lng->txt(\"export\")",
+        "has_variable": false,
+        "variable": "export"
+    },
+    {
+        "id": 24002,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 656,
+        "code": "$lng->txt(\"title\")",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 24004,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 661,
+        "code": "$lng->txt(\"desc\")",
+        "has_variable": false,
+        "variable": "desc"
+    },
+    {
+        "id": 24006,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 666,
+        "code": "$this->lng->txt('rep_activation_availability')",
+        "has_variable": false,
+        "variable": "rep_activation_availability"
+    },
+    {
+        "id": 24008,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 670,
+        "code": "$lng->txt(\"cont_online\")",
+        "has_variable": false,
+        "variable": "cont_online"
+    },
+    {
+        "id": 24010,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 675,
+        "code": "$this->lng->txt('cont_presentation')",
+        "has_variable": false,
+        "variable": "cont_presentation"
+    },
+    {
+        "id": 24012,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 682,
+        "code": "$lng->txt(\"cont_page_header\")",
+        "has_variable": false,
+        "variable": "cont_page_header"
+    },
+    {
+        "id": 24014,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 683,
+        "code": "$this->lng->txt(\"cont_st_title\")",
+        "has_variable": false,
+        "variable": "cont_st_title"
+    },
+    {
+        "id": 24016,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 684,
+        "code": "$this->lng->txt(\"cont_pg_title\")",
+        "has_variable": false,
+        "variable": "cont_pg_title"
+    },
+    {
+        "id": 24018,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 685,
+        "code": "$this->lng->txt(\"cont_none\")",
+        "has_variable": false,
+        "variable": "cont_none"
+    },
+    {
+        "id": 24020,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 690,
+        "code": "$lng->txt(\"cont_act_number\")",
+        "has_variable": false,
+        "variable": "cont_act_number"
+    },
+    {
+        "id": 24022,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 694,
+        "code": "$lng->txt(\"cont_toc_mode\")",
+        "has_variable": false,
+        "variable": "cont_toc_mode"
+    },
+    {
+        "id": 24024,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 695,
+        "code": "$this->lng->txt(\"cont_chapters_only\")",
+        "has_variable": false,
+        "variable": "cont_chapters_only"
+    },
+    {
+        "id": 24026,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 696,
+        "code": "$this->lng->txt(\"cont_chapters_and_pages\")",
+        "has_variable": false,
+        "variable": "cont_chapters_and_pages"
+    },
+    {
+        "id": 24028,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 701,
+        "code": "$lng->txt(\"cont_progress_icons\")",
+        "has_variable": false,
+        "variable": "cont_progress_icons"
+    },
+    {
+        "id": 24030,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 702,
+        "code": "$this->lng->txt(\"cont_progress_icons_info\")",
+        "has_variable": false,
+        "variable": "cont_progress_icons_info"
+    },
+    {
+        "id": 24032,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 709,
+        "code": "$this->lng->txt('cont_self_assessment')",
+        "has_variable": false,
+        "variable": "cont_self_assessment"
+    },
+    {
+        "id": 24034,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 713,
+        "code": "$lng->txt(\"cont_tries\")",
+        "has_variable": false,
+        "variable": "cont_tries"
+    },
+    {
+        "id": 24036,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 715,
+        "code": "$lng->txt(\"cont_tries_reset_on_visit\")",
+        "has_variable": false,
+        "variable": "cont_tries_reset_on_visit"
+    },
+    {
+        "id": 24038,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 715,
+        "code": "$lng->txt(\"cont_tries_reset_on_visit_info\")",
+        "has_variable": false,
+        "variable": "cont_tries_reset_on_visit_info"
+    },
+    {
+        "id": 24040,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 717,
+        "code": "$lng->txt(\"cont_tries_store\")",
+        "has_variable": false,
+        "variable": "cont_tries_store"
+    },
+    {
+        "id": 24042,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 717,
+        "code": "$lng->txt(\"cont_tries_store_info\")",
+        "has_variable": false,
+        "variable": "cont_tries_store_info"
+    },
+    {
+        "id": 24044,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 722,
+        "code": "$lng->txt(\"cont_restrict_forw_nav\")",
+        "has_variable": false,
+        "variable": "cont_restrict_forw_nav"
+    },
+    {
+        "id": 24046,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 723,
+        "code": "$this->lng->txt(\"cont_restrict_forw_nav_info\")",
+        "has_variable": false,
+        "variable": "cont_restrict_forw_nav_info"
+    },
+    {
+        "id": 24048,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 727,
+        "code": "$lng->txt(\"cont_notify_on_blocked_users\")",
+        "has_variable": false,
+        "variable": "cont_notify_on_blocked_users"
+    },
+    {
+        "id": 24050,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 728,
+        "code": "$this->lng->txt(\"cont_notify_on_blocked_users_info\")",
+        "has_variable": false,
+        "variable": "cont_notify_on_blocked_users_info"
+    },
+    {
+        "id": 24052,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 732,
+        "code": "$lng->txt(\"cont_disable_def_feedback\")",
+        "has_variable": false,
+        "variable": "cont_disable_def_feedback"
+    },
+    {
+        "id": 24054,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 733,
+        "code": "$this->lng->txt(\"cont_disable_def_feedback_info\")",
+        "has_variable": false,
+        "variable": "cont_disable_def_feedback_info"
+    },
+    {
+        "id": 24056,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 738,
+        "code": "$this->lng->txt('obj_features')",
+        "has_variable": false,
+        "variable": "obj_features"
+    },
+    {
+        "id": 24058,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 744,
+        "code": "$lng->txt(\"notes_comments\")",
+        "has_variable": false,
+        "variable": "notes_comments"
+    },
+    {
+        "id": 24060,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 745,
+        "code": "$this->lng->txt(\"cont_lm_comments_desc\")",
+        "has_variable": false,
+        "variable": "cont_lm_comments_desc"
+    },
+    {
+        "id": 24062,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 751,
+        "code": "$this->lng->txt('rating_activate_rating')",
+        "has_variable": false,
+        "variable": "rating_activate_rating"
+    },
+    {
+        "id": 24064,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 752,
+        "code": "$this->lng->txt('rating_activate_rating_info')",
+        "has_variable": false,
+        "variable": "rating_activate_rating_info"
+    },
+    {
+        "id": 24066,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 754,
+        "code": "$this->lng->txt('lm_activate_rating')",
+        "has_variable": false,
+        "variable": "lm_activate_rating"
+    },
+    {
+        "id": 24068,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 757,
+        "code": "$lng->txt(\"cont_lm_properties\")",
+        "has_variable": false,
+        "variable": "cont_lm_properties"
+    },
+    {
+        "id": 24070,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 758,
+        "code": "$lng->txt(\"save\")",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 24072,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 866,
+        "code": "$lng->txt(\"cont_automatically_set_store_tries\")",
+        "has_variable": false,
+        "variable": "cont_automatically_set_store_tries"
+    },
+    {
+        "id": 24074,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 867,
+        "code": "$lng->txt(\"cont_tries_store\")",
+        "has_variable": false,
+        "variable": "cont_tries_store"
+    },
+    {
+        "id": 24076,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 868,
+        "code": "$lng->txt(\"cont_restrict_forw_nav\")",
+        "has_variable": false,
+        "variable": "cont_restrict_forw_nav"
+    },
+    {
+        "id": 24078,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 904,
+        "code": "$this->lng->txt(\"msg_obj_modified\")",
+        "has_variable": false,
+        "variable": "msg_obj_modified"
+    },
+    {
+        "id": 24080,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 924,
+        "code": "$this->lng->txt(\"cont_active\")",
+        "has_variable": false,
+        "variable": "cont_active"
+    },
+    {
+        "id": 24082,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 930,
+        "code": "$this->lng->txt(\"cont_toc\")",
+        "has_variable": false,
+        "variable": "cont_toc"
+    },
+    {
+        "id": 24084,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 936,
+        "code": "$this->lng->txt(\"cont_print_view\")",
+        "has_variable": false,
+        "variable": "cont_print_view"
+    },
+    {
+        "id": 24086,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 941,
+        "code": "$this->lng->txt(\"cont_print_view_pre_glo\")",
+        "has_variable": false,
+        "variable": "cont_print_view_pre_glo"
+    },
+    {
+        "id": 24088,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 946,
+        "code": "$this->lng->txt(\"cont_hide_head_foot_print\")",
+        "has_variable": false,
+        "variable": "cont_hide_head_foot_print"
+    },
+    {
+        "id": 24090,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 950,
+        "code": "$lng->txt(\"save\")",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 24092,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 952,
+        "code": "$lng->txt(\"cont_lm_menu\")",
+        "has_variable": false,
+        "variable": "cont_lm_menu"
+    },
+    {
+        "id": 24094,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 972,
+        "code": "$this->lng->txt(\"add_menu_entry\")",
+        "has_variable": false,
+        "variable": "add_menu_entry"
+    },
+    {
+        "id": 24096,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 1002,
+        "code": "$this->lng->txt(\"msg_obj_modified\")",
+        "has_variable": false,
+        "variable": "msg_obj_modified"
+    },
+    {
+        "id": 24098,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 1032,
+        "code": "$this->lng->txt($this->type . \"_added\")",
+        "has_variable": true,
+        "variable": "$this->type . \"_added\""
+    },
+    {
+        "id": 24100,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 1045,
+        "code": "$this->lng->txt(\"no_checkbox\")",
+        "has_variable": false,
+        "variable": "no_checkbox"
+    },
+    {
+        "id": 24102,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 1050,
+        "code": "$this->lng->txt(\"cont_select_item\")",
+        "has_variable": false,
+        "variable": "cont_select_item"
+    },
+    {
+        "id": 24104,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 1070,
+        "code": "$this->lng->txt(\"info_delete_sure\")",
+        "has_variable": false,
+        "variable": "info_delete_sure"
+    },
+    {
+        "id": 24106,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 1071,
+        "code": "$this->lng->txt(\"cancel\")",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 24108,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 1072,
+        "code": "$this->lng->txt(\"confirm\")",
+        "has_variable": false,
+        "variable": "confirm"
+    },
+    {
+        "id": 24110,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 1106,
+        "code": "$this->lng->txt(\"no_checkbox\")",
+        "has_variable": false,
+        "variable": "no_checkbox"
+    },
+    {
+        "id": 24112,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 1129,
+        "code": "$this->lng->txt(\"info_deleted\")",
+        "has_variable": false,
+        "variable": "info_deleted"
+    },
+    {
+        "id": 24114,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 1189,
+        "code": "$lng->txt(\"cont_edit_language_version\")",
+        "has_variable": false,
+        "variable": "cont_edit_language_version"
+    },
+    {
+        "id": 24116,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 1190,
+        "code": "$lng->txt(\"meta_l_\" . $l)",
+        "has_variable": true,
+        "variable": "\"meta_l_\" . $l"
+    },
+    {
+        "id": 24118,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 1201,
+        "code": "$lng->txt(\"cont_edit_language_version\")",
+        "has_variable": false,
+        "variable": "cont_edit_language_version"
+    },
+    {
+        "id": 24120,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 1202,
+        "code": "$lng->txt(\"meta_l_\" . $al)",
+        "has_variable": true,
+        "variable": "\"meta_l_\" . $al"
+    },
+    {
+        "id": 24122,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 1211,
+        "code": "$lng->txt(\"actions\")",
+        "has_variable": false,
+        "variable": "actions"
+    },
+    {
+        "id": 24124,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 1234,
+        "code": "$lng->txt(\"pg_add\")",
+        "has_variable": false,
+        "variable": "pg_add"
+    },
+    {
+        "id": 24126,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 1274,
+        "code": "$this->lng->txt(\"cont_fix_tree\")",
+        "has_variable": false,
+        "variable": "cont_fix_tree"
+    },
+    {
+        "id": 24128,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 1299,
+        "code": "$this->lng->txt(\"no_page_in_clipboard\")",
+        "has_variable": false,
+        "variable": "no_page_in_clipboard"
+    },
+    {
+        "id": 24130,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 1354,
+        "code": "$this->lng->txt(\"no_checkbox\")",
+        "has_variable": false,
+        "variable": "no_checkbox"
+    },
+    {
+        "id": 24132,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 1361,
+        "code": "$this->lng->txt(\"cont_selected_items_have_been_copied\")",
+        "has_variable": false,
+        "variable": "cont_selected_items_have_been_copied"
+    },
+    {
+        "id": 24134,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 1409,
+        "code": "$this->lng->txt($val[\"lng\"])",
+        "has_variable": true,
+        "variable": "\\$val"
+    },
+    {
+        "id": 24136,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 1437,
+        "code": "$this->lng->txt(\"no_checkbox\")",
+        "has_variable": false,
+        "variable": "no_checkbox"
+    },
+    {
+        "id": 24138,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 1444,
+        "code": "$this->lng->txt(\"cont_select_max_one_item\")",
+        "has_variable": false,
+        "variable": "cont_select_max_one_item"
+    },
+    {
+        "id": 24140,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 1452,
+        "code": "$this->lng->txt(\"cont_select_item\")",
+        "has_variable": false,
+        "variable": "cont_select_item"
+    },
+    {
+        "id": 24142,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 1461,
+        "code": "$this->lng->txt(\"cont_chap_select_target_now\")",
+        "has_variable": false,
+        "variable": "cont_chap_select_target_now"
+    },
+    {
+        "id": 24144,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 1482,
+        "code": "$this->lng->txt(\"no_checkbox\")",
+        "has_variable": false,
+        "variable": "no_checkbox"
+    },
+    {
+        "id": 24146,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 1486,
+        "code": "$this->lng->txt(\"cont_selected_items_have_been_cut\")",
+        "has_variable": false,
+        "variable": "cont_selected_items_have_been_cut"
+    },
+    {
+        "id": 24148,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 1525,
+        "code": "$this->lng->txt(\"cont_fix_tree_confirm\")",
+        "has_variable": false,
+        "variable": "cont_fix_tree_confirm"
+    },
+    {
+        "id": 24150,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 1526,
+        "code": "$this->lng->txt(\"cancel\")",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 24152,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 1527,
+        "code": "$this->lng->txt(\"cont_fix_tree\")",
+        "has_variable": false,
+        "variable": "cont_fix_tree"
+    },
+    {
+        "id": 24154,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 1539,
+        "code": "$this->lng->txt(\"cont_tree_fixed\")",
+        "has_variable": false,
+        "variable": "cont_tree_fixed"
+    },
+    {
+        "id": 24156,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 1658,
+        "code": "$lng->txt(\"msg_obj_modified\")",
+        "has_variable": false,
+        "variable": "msg_obj_modified"
+    },
+    {
+        "id": 24158,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 1674,
+        "code": "$lng->txt(\"msg_obj_modified\")",
+        "has_variable": false,
+        "variable": "msg_obj_modified"
+    },
+    {
+        "id": 24160,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 1685,
+        "code": "$this->lng->txt(\"no_checkbox\")",
+        "has_variable": false,
+        "variable": "no_checkbox"
+    },
+    {
+        "id": 24162,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 1712,
+        "code": "$this->lng->txt('cont_blocked_users_mail_link')",
+        "has_variable": false,
+        "variable": "cont_blocked_users_mail_link"
+    },
+    {
+        "id": 24164,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 1743,
+        "code": "$lng->txt(\"objs_st\")",
+        "has_variable": false,
+        "variable": "objs_st"
+    },
+    {
+        "id": 24166,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 1751,
+        "code": "$lng->txt(\"cont_all_pages\")",
+        "has_variable": false,
+        "variable": "cont_all_pages"
+    },
+    {
+        "id": 24168,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 1758,
+        "code": "$lng->txt(\"cont_short_titles\")",
+        "has_variable": false,
+        "variable": "cont_short_titles"
+    },
+    {
+        "id": 24170,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 1767,
+        "code": "$lng->txt(\"cont_html_export_ids\")",
+        "has_variable": false,
+        "variable": "cont_html_export_ids"
+    },
+    {
+        "id": 24172,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 1776,
+        "code": "$lng->txt(\"cont_online_help_ids\")",
+        "has_variable": false,
+        "variable": "cont_online_help_ids"
+    },
+    {
+        "id": 24174,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 1782,
+        "code": "$lng->txt(\"help_tooltips\")",
+        "has_variable": false,
+        "variable": "help_tooltips"
+    },
+    {
+        "id": 24176,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 1790,
+        "code": "$lng->txt(\"cont_internal_links\")",
+        "has_variable": false,
+        "variable": "cont_internal_links"
+    },
+    {
+        "id": 24178,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 1797,
+        "code": "$lng->txt(\"cont_maintenance\")",
+        "has_variable": false,
+        "variable": "cont_maintenance"
+    },
+    {
+        "id": 24180,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 1804,
+        "code": "$lng->txt(\"cont_import\")",
+        "has_variable": false,
+        "variable": "cont_import"
+    },
+    {
+        "id": 24182,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 1821,
+        "code": "$lng->txt(\"cont_mob_usages\")",
+        "has_variable": false,
+        "variable": "cont_mob_usages"
+    },
+    {
+        "id": 24184,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 1828,
+        "code": "$lng->txt(\"cont_subtitle_files\")",
+        "has_variable": false,
+        "variable": "cont_subtitle_files"
+    },
+    {
+        "id": 24186,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 1844,
+        "code": "$lng->txt(\"cont_question_usage\")",
+        "has_variable": false,
+        "variable": "cont_question_usage"
+    },
+    {
+        "id": 24188,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 1851,
+        "code": "$lng->txt(\"cont_question_stats\")",
+        "has_variable": false,
+        "variable": "cont_question_stats"
+    },
+    {
+        "id": 24190,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 1858,
+        "code": "$lng->txt(\"cont_blocked_users\")",
+        "has_variable": false,
+        "variable": "cont_blocked_users"
+    },
+    {
+        "id": 24192,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 1876,
+        "code": "$lng->txt(\"content\")",
+        "has_variable": false,
+        "variable": "content"
+    },
+    {
+        "id": 24194,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 1884,
+        "code": "$lng->txt(\"mob_media\")",
+        "has_variable": false,
+        "variable": "mob_media"
+    },
+    {
+        "id": 24196,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 1891,
+        "code": "$lng->txt(\"objs_qst\")",
+        "has_variable": false,
+        "variable": "objs_qst"
+    },
+    {
+        "id": 24198,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 1899,
+        "code": "$lng->txt(\"info_short\")",
+        "has_variable": false,
+        "variable": "info_short"
+    },
+    {
+        "id": 24200,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 1906,
+        "code": "$lng->txt(\"settings\")",
+        "has_variable": false,
+        "variable": "settings"
+    },
+    {
+        "id": 24202,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 1915,
+        "code": "$lng->txt(\"learning_progress\")",
+        "has_variable": false,
+        "variable": "learning_progress"
+    },
+    {
+        "id": 24204,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 1927,
+        "code": "$lng->txt(\"meta_data\")",
+        "has_variable": false,
+        "variable": "meta_data"
+    },
+    {
+        "id": 24206,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 1935,
+        "code": "$lng->txt(\"export\")",
+        "has_variable": false,
+        "variable": "export"
+    },
+    {
+        "id": 24208,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 1944,
+        "code": "$lng->txt(\"perm_settings\")",
+        "has_variable": false,
+        "variable": "perm_settings"
+    },
+    {
+        "id": 24210,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 1957,
+        "code": "$lng->txt(\"cont_presentation_view\")",
+        "has_variable": false,
+        "variable": "cont_presentation_view"
+    },
+    {
+        "id": 24212,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 2044,
+        "code": "$this->lng->txt(\"lm_menu_select_internal_object\")",
+        "has_variable": false,
+        "variable": "lm_menu_select_internal_object"
+    },
+    {
+        "id": 24214,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 2062,
+        "code": "$this->lng->txt(\"lm_menu_entry_title\")",
+        "has_variable": false,
+        "variable": "lm_menu_entry_title"
+    },
+    {
+        "id": 24216,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 2069,
+        "code": "$this->lng->txt(\"lm_menu_entry_target\")",
+        "has_variable": false,
+        "variable": "lm_menu_entry_target"
+    },
+    {
+        "id": 24218,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 2101,
+        "code": "$lng->txt(\"save\")",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 24220,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 2102,
+        "code": "$lng->txt(\"cancel\")",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 24222,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 2103,
+        "code": "$lng->txt(\"lm_menu_new_entry\")",
+        "has_variable": false,
+        "variable": "lm_menu_new_entry"
+    },
+    {
+        "id": 24224,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 2105,
+        "code": "$lng->txt(\"save\")",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 24226,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 2106,
+        "code": "$lng->txt(\"cancel\")",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 24228,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 2107,
+        "code": "$lng->txt(\"lm_menu_edit_entry\")",
+        "has_variable": false,
+        "variable": "lm_menu_edit_entry"
+    },
+    {
+        "id": 24230,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 2130,
+        "code": "$this->lng->txt(\"msg_entry_added\")",
+        "has_variable": false,
+        "variable": "msg_entry_added"
+    },
+    {
+        "id": 24232,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 2141,
+        "code": "$this->lng->txt(\"no_menu_entry_id\")",
+        "has_variable": false,
+        "variable": "no_menu_entry_id"
+    },
+    {
+        "id": 24234,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 2148,
+        "code": "$this->lng->txt(\"msg_entry_removed\")",
+        "has_variable": false,
+        "variable": "msg_entry_removed"
+    },
+    {
+        "id": 24236,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 2165,
+        "code": "$this->lng->txt(\"no_menu_entry_id\")",
+        "has_variable": false,
+        "variable": "no_menu_entry_id"
+    },
+    {
+        "id": 24238,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 2171,
+        "code": "$this->lng->txt(\"lm_menu_select_internal_object\")",
+        "has_variable": false,
+        "variable": "lm_menu_select_internal_object"
+    },
+    {
+        "id": 24240,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 2186,
+        "code": "$this->lng->txt(\"no_menu_entry_id\")",
+        "has_variable": false,
+        "variable": "no_menu_entry_id"
+    },
+    {
+        "id": 24242,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 2201,
+        "code": "$this->lng->txt(\"msg_entry_updated\")",
+        "has_variable": false,
+        "variable": "msg_entry_updated"
+    },
+    {
+        "id": 24244,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 2221,
+        "code": "$this->lng->txt(\"lm_menu_select_object_to_add\")",
+        "has_variable": false,
+        "variable": "lm_menu_select_object_to_add"
+    },
+    {
+        "id": 24246,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 2244,
+        "code": "$this->lng->txt(\"no_checkbox\")",
+        "has_variable": false,
+        "variable": "no_checkbox"
+    },
+    {
+        "id": 24248,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 2248,
+        "code": "$this->lng->txt(\"cont_select_max_one_item\")",
+        "has_variable": false,
+        "variable": "cont_select_max_one_item"
+    },
+    {
+        "id": 24250,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 2267,
+        "code": "$this->lng->txt(\"no_checkbox\")",
+        "has_variable": false,
+        "variable": "no_checkbox"
+    },
+    {
+        "id": 24252,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 2271,
+        "code": "$this->lng->txt(\"cont_select_max_one_item\")",
+        "has_variable": false,
+        "variable": "cont_select_max_one_item"
+    },
+    {
+        "id": 24254,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 2296,
+        "code": "$this->lng->txt(\"lm_save_titles\")",
+        "has_variable": false,
+        "variable": "lm_save_titles"
+    },
+    {
+        "id": 24256,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 2322,
+        "code": "$lng->txt(\"msg_no_perm_read_item\")",
+        "has_variable": false,
+        "variable": "msg_no_perm_read_item"
+    },
+    {
+        "id": 24258,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 2329,
+        "code": "$lng->txt(\"msg_no_perm_read_lm\")",
+        "has_variable": false,
+        "variable": "msg_no_perm_read_lm"
+    },
+    {
+        "id": 24260,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 2338,
+        "code": "$lng->txt(\"no_checkbox\")",
+        "has_variable": false,
+        "variable": "no_checkbox"
+    },
+    {
+        "id": 24262,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 2353,
+        "code": "$lng->txt(\"cont_selected_items_have_been_cut\")",
+        "has_variable": false,
+        "variable": "cont_selected_items_have_been_cut"
+    },
+    {
+        "id": 24264,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 2367,
+        "code": "$lng->txt(\"no_checkbox\")",
+        "has_variable": false,
+        "variable": "no_checkbox"
+    },
+    {
+        "id": 24266,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 2382,
+        "code": "$lng->txt(\"cont_selected_items_have_been_copied\")",
+        "has_variable": false,
+        "variable": "cont_selected_items_have_been_copied"
+    },
+    {
+        "id": 24268,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 2413,
+        "code": "$lng->txt(\"all\")",
+        "has_variable": false,
+        "variable": "all"
+    },
+    {
+        "id": 24270,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 2417,
+        "code": "$this->lng->txt(\"help_component\")",
+        "has_variable": false,
+        "variable": "help_component"
+    },
+    {
+        "id": 24272,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 2421,
+        "code": "$lng->txt(\"help_filter\")",
+        "has_variable": false,
+        "variable": "help_filter"
+    },
+    {
+        "id": 24274,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 2454,
+        "code": "$lng->txt(\"cont_exp_ids_not_resp_format1\")",
+        "has_variable": false,
+        "variable": "cont_exp_ids_not_resp_format1"
+    },
+    {
+        "id": 24276,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 2455,
+        "code": "$lng->txt(\"cont_exp_ids_not_resp_format3\")",
+        "has_variable": false,
+        "variable": "cont_exp_ids_not_resp_format3"
+    },
+    {
+        "id": 24278,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 2456,
+        "code": "$lng->txt(\"cont_exp_ids_not_resp_format2\")",
+        "has_variable": false,
+        "variable": "cont_exp_ids_not_resp_format2"
+    },
+    {
+        "id": 24280,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 2471,
+        "code": "$lng->txt(\"cont_saved_export_ids\")",
+        "has_variable": false,
+        "variable": "cont_saved_export_ids"
+    },
+    {
+        "id": 24282,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 2485,
+        "code": "$lng->txt(\"msg_obj_modified\")",
+        "has_variable": false,
+        "variable": "msg_obj_modified"
+    },
+    {
+        "id": 24284,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 2504,
+        "code": "$this->lng->txt(\"help_tooltip_id\")",
+        "has_variable": false,
+        "variable": "help_tooltip_id"
+    },
+    {
+        "id": 24286,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 2508,
+        "code": "$lng->txt(\"add\")",
+        "has_variable": false,
+        "variable": "add"
+    },
+    {
+        "id": 24288,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 2515,
+        "code": "$this->lng->txt(\"help_component\")",
+        "has_variable": false,
+        "variable": "help_component"
+    },
+    {
+        "id": 24290,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 2519,
+        "code": "$lng->txt(\"help_filter\")",
+        "has_variable": false,
+        "variable": "help_filter"
+    },
+    {
+        "id": 24292,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 2535,
+        "code": "$lng->txt(\"msg_obj_modified\")",
+        "has_variable": false,
+        "variable": "msg_obj_modified"
+    },
+    {
+        "id": 24294,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 2541,
+        "code": "$lng->txt(\"cont_help_no_valid_tooltip_id\")",
+        "has_variable": false,
+        "variable": "cont_help_no_valid_tooltip_id"
+    },
+    {
+        "id": 24296,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 2571,
+        "code": "$lng->txt(\"msg_obj_modified\")",
+        "has_variable": false,
+        "variable": "msg_obj_modified"
+    },
+    {
+        "id": 24298,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 2585,
+        "code": "$lng->txt(\"msg_obj_modified\")",
+        "has_variable": false,
+        "variable": "msg_obj_modified"
+    },
+    {
+        "id": 24300,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 2612,
+        "code": "$lng->txt(\"cont_lm_default_layout\")",
+        "has_variable": false,
+        "variable": "cont_lm_default_layout"
+    },
+    {
+        "id": 24302,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 2613,
+        "code": "$lng->txt(\"cont_layout_\" . $a_def_option)",
+        "has_variable": true,
+        "variable": "\"cont_layout_\" . $a_def_option"
+    },
+    {
+        "id": 24304,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 2622,
+        "code": "$lng->txt(\"cont_layout_\" . $l)",
+        "has_variable": true,
+        "variable": "\"cont_layout_\" . $l"
+    },
+    {
+        "id": 24306,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 2623,
+        "code": "$lng->txt(\"cont_layout_\" . $l . \"_desc\")",
+        "has_variable": true,
+        "variable": "\"cont_layout_\" . $l . \"_desc\""
+    },
+    {
+        "id": 24308,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 2652,
+        "code": "$lng->txt(\"no_checkbox\")",
+        "has_variable": false,
+        "variable": "no_checkbox"
+    },
+    {
+        "id": 24310,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 2680,
+        "code": "$lng->txt(\"cont_layout\")",
+        "has_variable": false,
+        "variable": "cont_layout"
+    },
+    {
+        "id": 24312,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 2686,
+        "code": "$lng->txt(\"save\")",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 24314,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 2687,
+        "code": "$lng->txt(\"cancel\")",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 24316,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 2689,
+        "code": "$lng->txt(\"cont_set_layout\")",
+        "has_variable": false,
+        "variable": "cont_set_layout"
+    },
+    {
+        "id": 24318,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 2708,
+        "code": "$lng->txt(\"msg_obj_modified\")",
+        "has_variable": false,
+        "variable": "msg_obj_modified"
+    },
+    {
+        "id": 24320,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 2737,
+        "code": "$lng->txt(\"add\")",
+        "has_variable": false,
+        "variable": "add"
+    },
+    {
+        "id": 24322,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 2780,
+        "code": "$lng->txt(\"cont_link_glo_in_lm\")",
+        "has_variable": false,
+        "variable": "cont_link_glo_in_lm"
+    },
+    {
+        "id": 24324,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 2781,
+        "code": "$lng->txt(\"no\")",
+        "has_variable": false,
+        "variable": "no"
+    },
+    {
+        "id": 24326,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 2782,
+        "code": "$lng->txt(\"yes\")",
+        "has_variable": false,
+        "variable": "yes"
+    },
+    {
+        "id": 24328,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 2807,
+        "code": "$lng->txt(\"msg_obj_modified\")",
+        "has_variable": false,
+        "variable": "msg_obj_modified"
+    },
+    {
+        "id": 24330,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjContentObjectGUI.php",
+        "line": 2819,
+        "code": "$lng->txt(\"msg_obj_modified\")",
+        "has_variable": false,
+        "variable": "msg_obj_modified"
+    },
+    {
+        "id": 24332,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjLearningModuleListGUI.php",
+        "line": 137,
+        "code": "$lng->txt(\"type\")",
+        "has_variable": false,
+        "variable": "type"
+    },
+    {
+        "id": 24334,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjLearningModuleListGUI.php",
+        "line": 138,
+        "code": "$lng->txt(\"lm\")",
+        "has_variable": false,
+        "variable": "lm"
+    },
+    {
+        "id": 24336,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjLearningModuleListGUI.php",
+        "line": 145,
+        "code": "$lng->txt(\"copg_est_reading_time\")",
+        "has_variable": false,
+        "variable": "copg_est_reading_time"
+    },
+    {
+        "id": 24338,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjLearningModuleListGUI.php",
+        "line": 146,
+        "code": "$lng->txt(\"copg_x_minutes\")",
+        "has_variable": false,
+        "variable": "copg_x_minutes"
+    },
+    {
+        "id": 24340,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjLearningResourcesSettingsGUI.php",
+        "line": 60,
+        "code": "$this->lng->txt('no_permission')",
+        "has_variable": false,
+        "variable": "no_permission"
+    },
+    {
+        "id": 24342,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjLearningResourcesSettingsGUI.php",
+        "line": 119,
+        "code": "$lng->txt(\"cont_lrs_settings\")",
+        "has_variable": false,
+        "variable": "cont_lrs_settings"
+    },
+    {
+        "id": 24344,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjLearningResourcesSettingsGUI.php",
+        "line": 119,
+        "code": "$lng->txt(\"obj_lm\")",
+        "has_variable": false,
+        "variable": "obj_lm"
+    },
+    {
+        "id": 24346,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjLearningResourcesSettingsGUI.php",
+        "line": 123,
+        "code": "$lng->txt(\"cont_enable_page_history\")",
+        "has_variable": false,
+        "variable": "cont_enable_page_history"
+    },
+    {
+        "id": 24348,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjLearningResourcesSettingsGUI.php",
+        "line": 126,
+        "code": "$lng->txt(\"cont_enable_page_history_info\")",
+        "has_variable": false,
+        "variable": "cont_enable_page_history_info"
+    },
+    {
+        "id": 24350,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjLearningResourcesSettingsGUI.php",
+        "line": 132,
+        "code": "$lng->txt(\"cont_enable_time_scheduled_page_activation\")",
+        "has_variable": false,
+        "variable": "cont_enable_time_scheduled_page_activation"
+    },
+    {
+        "id": 24352,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjLearningResourcesSettingsGUI.php",
+        "line": 135,
+        "code": "$lng->txt(\"cont_enable_time_scheduled_page_activation_info\")",
+        "has_variable": false,
+        "variable": "cont_enable_time_scheduled_page_activation_info"
+    },
+    {
+        "id": 24354,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjLearningResourcesSettingsGUI.php",
+        "line": 141,
+        "code": "$this->lng->txt(\"cont_last_visited_page\")",
+        "has_variable": false,
+        "variable": "cont_last_visited_page"
+    },
+    {
+        "id": 24356,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjLearningResourcesSettingsGUI.php",
+        "line": 142,
+        "code": "$this->lng->txt(\"cont_first_page\")",
+        "has_variable": false,
+        "variable": "cont_first_page"
+    },
+    {
+        "id": 24358,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjLearningResourcesSettingsGUI.php",
+        "line": 144,
+        "code": "$this->lng->txt(\"cont_lm_starting_point\")",
+        "has_variable": false,
+        "variable": "cont_lm_starting_point"
+    },
+    {
+        "id": 24360,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjLearningResourcesSettingsGUI.php",
+        "line": 147,
+        "code": "$this->lng->txt(\"cont_lm_starting_point_info\")",
+        "has_variable": false,
+        "variable": "cont_lm_starting_point_info"
+    },
+    {
+        "id": 24362,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjLearningResourcesSettingsGUI.php",
+        "line": 152,
+        "code": "$lng->txt(\"cont_replace_mob_feature\")",
+        "has_variable": false,
+        "variable": "cont_replace_mob_feature"
+    },
+    {
+        "id": 24364,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjLearningResourcesSettingsGUI.php",
+        "line": 155,
+        "code": "$lng->txt(\"cont_replace_mob_feature_info\")",
+        "has_variable": false,
+        "variable": "cont_replace_mob_feature_info"
+    },
+    {
+        "id": 24366,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjLearningResourcesSettingsGUI.php",
+        "line": 161,
+        "code": "$lng->txt(\"cont_html_export_ids\")",
+        "has_variable": false,
+        "variable": "cont_html_export_ids"
+    },
+    {
+        "id": 24368,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjLearningResourcesSettingsGUI.php",
+        "line": 164,
+        "code": "$lng->txt(\"cont_html_export_ids_info\")",
+        "has_variable": false,
+        "variable": "cont_html_export_ids_info"
+    },
+    {
+        "id": 24370,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjLearningResourcesSettingsGUI.php",
+        "line": 170,
+        "code": "$lng->txt(\"lm_est_reading_time\")",
+        "has_variable": false,
+        "variable": "lm_est_reading_time"
+    },
+    {
+        "id": 24372,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjLearningResourcesSettingsGUI.php",
+        "line": 173,
+        "code": "$lng->txt(\"lm_est_reading_time_info\")",
+        "has_variable": false,
+        "variable": "lm_est_reading_time_info"
+    },
+    {
+        "id": 24374,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjLearningResourcesSettingsGUI.php",
+        "line": 178,
+        "code": "$lng->txt(\"cont_lrs_settings\")",
+        "has_variable": false,
+        "variable": "cont_lrs_settings"
+    },
+    {
+        "id": 24376,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjLearningResourcesSettingsGUI.php",
+        "line": 178,
+        "code": "$lng->txt(\"obj_sahs\")",
+        "has_variable": false,
+        "variable": "obj_sahs"
+    },
+    {
+        "id": 24378,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjLearningResourcesSettingsGUI.php",
+        "line": 182,
+        "code": "$lng->txt(\"scormdebug_global_activate\")",
+        "has_variable": false,
+        "variable": "scormdebug_global_activate"
+    },
+    {
+        "id": 24380,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjLearningResourcesSettingsGUI.php",
+        "line": 183,
+        "code": "$lng->txt(\"scormdebug_global_activate_info\")",
+        "has_variable": false,
+        "variable": "scormdebug_global_activate_info"
+    },
+    {
+        "id": 24382,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjLearningResourcesSettingsGUI.php",
+        "line": 189,
+        "code": "$lng->txt(\"scormdebug_disable_cache\")",
+        "has_variable": false,
+        "variable": "scormdebug_disable_cache"
+    },
+    {
+        "id": 24384,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjLearningResourcesSettingsGUI.php",
+        "line": 192,
+        "code": "$lng->txt(\"scormdebug_disable_cache_info\")",
+        "has_variable": false,
+        "variable": "scormdebug_disable_cache_info"
+    },
+    {
+        "id": 24386,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjLearningResourcesSettingsGUI.php",
+        "line": 198,
+        "code": "$lng->txt(\"scorm_without_session\")",
+        "has_variable": false,
+        "variable": "scorm_without_session"
+    },
+    {
+        "id": 24388,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjLearningResourcesSettingsGUI.php",
+        "line": 201,
+        "code": "$lng->txt(\"scorm_without_session_info\")",
+        "has_variable": false,
+        "variable": "scorm_without_session_info"
+    },
+    {
+        "id": 24390,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjLearningResourcesSettingsGUI.php",
+        "line": 206,
+        "code": "$lng->txt('enable_sahs_protocol_data')",
+        "has_variable": false,
+        "variable": "enable_sahs_protocol_data"
+    },
+    {
+        "id": 24392,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjLearningResourcesSettingsGUI.php",
+        "line": 207,
+        "code": "$this->lng->txt('enable_sahs_protocol_data_desc')",
+        "has_variable": false,
+        "variable": "enable_sahs_protocol_data_desc"
+    },
+    {
+        "id": 24394,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjLearningResourcesSettingsGUI.php",
+        "line": 212,
+        "code": "$this->lng->txt('ps_export_scorm')",
+        "has_variable": false,
+        "variable": "ps_export_scorm"
+    },
+    {
+        "id": 24396,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjLearningResourcesSettingsGUI.php",
+        "line": 213,
+        "code": "$this->lng->txt('enable_export_scorm_desc')",
+        "has_variable": false,
+        "variable": "enable_export_scorm_desc"
+    },
+    {
+        "id": 24398,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjLearningResourcesSettingsGUI.php",
+        "line": 218,
+        "code": "$lng->txt(\"scorm_lp_auto_activate\")",
+        "has_variable": false,
+        "variable": "scorm_lp_auto_activate"
+    },
+    {
+        "id": 24400,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjLearningResourcesSettingsGUI.php",
+        "line": 219,
+        "code": "$lng->txt(\"scorm_lp_auto_activate_info\")",
+        "has_variable": false,
+        "variable": "scorm_lp_auto_activate_info"
+    },
+    {
+        "id": 24402,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjLearningResourcesSettingsGUI.php",
+        "line": 225,
+        "code": "$lng->txt(\"save\")",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 24404,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjLearningResourcesSettingsGUI.php",
+        "line": 226,
+        "code": "$lng->txt(\"cancel\")",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 24406,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilObjLearningResourcesSettingsGUI.php",
+        "line": 292,
+        "code": "$this->lng->txt(\"settings_saved\")",
+        "has_variable": false,
+        "variable": "settings_saved"
+    },
+    {
+        "id": 24408,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilStructureObjectGUI.php",
+        "line": 96,
+        "code": "$this->lng->txt(\"cont_pages\")",
+        "has_variable": false,
+        "variable": "cont_pages"
+    },
+    {
+        "id": 24410,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilStructureObjectGUI.php",
+        "line": 99,
+        "code": "$this->lng->txt(\"cont_subchapters\")",
+        "has_variable": false,
+        "variable": "cont_subchapters"
+    },
+    {
+        "id": 24412,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilStructureObjectGUI.php",
+        "line": 179,
+        "code": "$lng->txt(\"cont_content\")",
+        "has_variable": false,
+        "variable": "cont_content"
+    },
+    {
+        "id": 24414,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilStructureObjectGUI.php",
+        "line": 186,
+        "code": "$lng->txt(\"preconditions\")",
+        "has_variable": false,
+        "variable": "preconditions"
+    },
+    {
+        "id": 24416,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilStructureObjectGUI.php",
+        "line": 196,
+        "code": "$lng->txt(\"meta_data\")",
+        "has_variable": false,
+        "variable": "meta_data"
+    },
+    {
+        "id": 24418,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilStructureObjectGUI.php",
+        "line": 203,
+        "code": "$this->lng->txt($this->obj->getType())",
+        "has_variable": true,
+        "variable": "$this->obj->getType()"
+    },
+    {
+        "id": 24420,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilStructureObjectGUI.php",
+        "line": 209,
+        "code": "$lng->txt(\"cont_presentation_view\")",
+        "has_variable": false,
+        "variable": "cont_presentation_view"
+    },
+    {
+        "id": 24422,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilStructureObjectGUI.php",
+        "line": 223,
+        "code": "$lng->txt(\"cont_pages\")",
+        "has_variable": false,
+        "variable": "cont_pages"
+    },
+    {
+        "id": 24424,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilStructureObjectGUI.php",
+        "line": 231,
+        "code": "$lng->txt(\"cont_subchapters\")",
+        "has_variable": false,
+        "variable": "cont_subchapters"
+    },
+    {
+        "id": 24426,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilStructureObjectGUI.php",
+        "line": 274,
+        "code": "$lng->txt(\"msg_no_perm_read_item\")",
+        "has_variable": false,
+        "variable": "msg_no_perm_read_item"
+    },
+    {
+        "id": 24428,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilStructureObjectGUI.php",
+        "line": 280,
+        "code": "$lng->txt(\"msg_no_perm_read_lm\")",
+        "has_variable": false,
+        "variable": "msg_no_perm_read_lm"
+    },
+    {
+        "id": 24430,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilStructureObjectGUI.php",
+        "line": 299,
+        "code": "$lng->txt(\"no_checkbox\")",
+        "has_variable": false,
+        "variable": "no_checkbox"
+    },
+    {
+        "id": 24432,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilStructureObjectGUI.php",
+        "line": 325,
+        "code": "$lng->txt(\"cont_layout\")",
+        "has_variable": false,
+        "variable": "cont_layout"
+    },
+    {
+        "id": 24434,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilStructureObjectGUI.php",
+        "line": 332,
+        "code": "$lng->txt(\"save\")",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 24436,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilStructureObjectGUI.php",
+        "line": 333,
+        "code": "$lng->txt(\"cancel\")",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 24438,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilStructureObjectGUI.php",
+        "line": 335,
+        "code": "$lng->txt(\"cont_set_layout\")",
+        "has_variable": false,
+        "variable": "cont_set_layout"
+    },
+    {
+        "id": 24440,
+        "file": "components\/ILIAS\/LearningModule\/classes\/class.ilStructureObjectGUI.php",
+        "line": 356,
+        "code": "$lng->txt(\"msg_obj_modified\")",
+        "has_variable": false,
+        "variable": "msg_obj_modified"
+    }
+]

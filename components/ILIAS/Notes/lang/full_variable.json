@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "type": "full",
+        "count": 4,
+        "description": "Variable usages without detectable prefixes or suffixes (pure variable references without static strings)"
+    },
+    "matches": [
+        {
+            "id": 28622,
+            "file": "components\/ILIAS\/Notes\/Administration\/classes\/class.ilObjCommentsSettingsGUI.php",
+            "line": 168,
+            "code": "$lng->txt(\"\")",
+            "variable": "",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 28760,
+            "file": "components\/ILIAS\/Notes\/Note\/class.ilNoteGUI.php",
+            "line": 855,
+            "code": "$this->lng->txt($label_key)",
+            "variable": "$label_key",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 28800,
+            "file": "components\/ILIAS\/Notes\/Notifications\/class.NotificationsManager.php",
+            "line": 141,
+            "code": "$ulng->txt($type_lv)",
+            "variable": "$type_lv",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 28804,
+            "file": "components\/ILIAS\/Notes\/Notifications\/class.NotificationsManager.php",
+            "line": 143,
+            "code": "$ulng->txt($type_lv)",
+            "variable": "$type_lv",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        }
+    ]
+}

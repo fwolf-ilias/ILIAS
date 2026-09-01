@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "type": "full",
+        "count": 1,
+        "description": "Variable usages without detectable prefixes or suffixes (pure variable references without static strings)"
+    },
+    "matches": [
+        {
+            "id": 26020,
+            "file": "components\/ILIAS\/MediaCast\/Settings\/class.SettingsGUI.php",
+            "line": 146,
+            "code": "$lng->txt(\\ilNewsItem::_lookupRSSPeriod() == 1 ? \"day\" : \"days\")",
+            "variable": "N",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        }
+    ]
+}

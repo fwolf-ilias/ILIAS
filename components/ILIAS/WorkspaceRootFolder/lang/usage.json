@@ -1,0 +1,18 @@
+[
+    {
+        "id": 50574,
+        "file": "components\/ILIAS\/WorkspaceRootFolder\/classes\/class.ilObjWorkspaceRootFolderGUI.php",
+        "line": 58,
+        "code": "$lng->txt(\"mm_personal_and_shared_r\")",
+        "has_variable": false,
+        "variable": "mm_personal_and_shared_r"
+    },
+    {
+        "id": 50576,
+        "file": "components\/ILIAS\/WorkspaceRootFolder\/classes\/class.ilObjWorkspaceRootFolderGUI.php",
+        "line": 61,
+        "code": "$lng->txt(\"wsp_personal_resources_description\")",
+        "has_variable": false,
+        "variable": "wsp_personal_resources_description"
+    }
+]

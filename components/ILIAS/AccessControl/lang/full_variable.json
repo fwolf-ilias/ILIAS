@@ -1,0 +1,130 @@
+{
+    "metadata": {
+        "type": "full",
+        "count": 11,
+        "description": "Variable usages without detectable prefixes or suffixes (pure variable references without static strings)"
+    },
+    "matches": [
+        {
+            "id": 136,
+            "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRole.php",
+            "line": 378,
+            "code": "$lng->txt($role_title)",
+            "variable": "$role_title",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 142,
+            "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjRole.php",
+            "line": 516,
+            "code": "$this->lng->txt($info['type'] . \"_\" . $info['operation'])",
+            "variable": "$info['type'] . \"_\" . $info['operation']",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 518,
+            "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjectPermissionStatusGUI.php",
+            "line": 380,
+            "code": "$this->lng->txt($this->object->getType() . \"_\" . $ops['operation'])",
+            "variable": "$this->object->getType() . \"_\" . $ops['operation']",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 568,
+            "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjectRolePermissionTableGUI.php",
+            "line": 290,
+            "code": "$this->lng->txt($a_set['perm']['operation'])",
+            "variable": "_",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 572,
+            "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjectRolePermissionTableGUI.php",
+            "line": 314,
+            "code": "$this->lng->txt($this->getObjType() . '_' . $a_set['perm']['operation'])",
+            "variable": "$this->getObjType() . '_' . $a_set['perm']['operation']",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 610,
+            "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjectRoleTemplatePermissionTableGUI.php",
+            "line": 206,
+            "code": "$this->lng->txt($this->getTemplateType().'_'.$row['name'])",
+            "variable": "$this->getTemplateType().'_'.$row['name']",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 616,
+            "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjectRoleTemplatePermissionTableGUI.php",
+            "line": 210,
+            "code": "$this->lng->txt($this->getTemplateType() . '_' . $a_set['name'])",
+            "variable": "$this->getTemplateType() . '_' . $a_set['name']",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 618,
+            "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjectRoleTemplatePermissionTableGUI.php",
+            "line": 212,
+            "code": "$this->lng->txt($a_set['name'])",
+            "variable": "_",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 620,
+            "file": "components\/ILIAS\/AccessControl\/classes\/class.ilObjectRoleTemplatePermissionTableGUI.php",
+            "line": 212,
+            "code": "$this->lng->txt($this->getTemplateType() . '_' . $a_set['name'])",
+            "variable": "$this->getTemplateType() . '_' . $a_set['name']",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 790,
+            "file": "components\/ILIAS\/AccessControl\/classes\/class.ilSettingsPermissionGUI.php",
+            "line": 205,
+            "code": "$this->lng->txt($p)",
+            "variable": "$p",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 846,
+            "file": "components\/ILIAS\/AccessControl\/src\/Log\/Table.php",
+            "line": 332,
+            "code": "$this->lng->txt($op_id)",
+            "variable": "$op_id",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        }
+    ]
+}

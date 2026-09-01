@@ -1,0 +1,66 @@
+[
+    {
+        "id": 50578,
+        "file": "components\/ILIAS\/soap\/classes\/class.ilObjectXMLWriter.php",
+        "line": 387,
+        "code": "$lng->txt(\"repository\")",
+        "has_variable": false,
+        "variable": "repository"
+    },
+    {
+        "id": 50580,
+        "file": "components\/ILIAS\/soap\/classes\/class.ilSoapObjectAdministration.php",
+        "line": 1236,
+        "code": "$lng->txt(\"repository\")",
+        "has_variable": false,
+        "variable": "repository"
+    },
+    {
+        "id": 50582,
+        "file": "components\/ILIAS\/soap\/classes\/class.ilSoapTestAdministration.php",
+        "line": 378,
+        "code": "$lng->txt(\"deleted_user\")",
+        "has_variable": false,
+        "variable": "deleted_user"
+    },
+    {
+        "id": 50584,
+        "file": "components\/ILIAS\/soap\/classes\/class.ilSoapTestAdministration.php",
+        "line": 381,
+        "code": "$lng->txt(\"anonymous\")",
+        "has_variable": false,
+        "variable": "anonymous"
+    },
+    {
+        "id": 50586,
+        "file": "components\/ILIAS\/soap\/classes\/class.ilSoapTestAdministration.php",
+        "line": 386,
+        "code": "$lng->txt(\"anonymous\")",
+        "has_variable": false,
+        "variable": "anonymous"
+    },
+    {
+        "id": 50588,
+        "file": "components\/ILIAS\/soap\/classes\/class.ilSoapTestAdministration.php",
+        "line": 389,
+        "code": "$lng->txt(\"anonymous\")",
+        "has_variable": false,
+        "variable": "anonymous"
+    },
+    {
+        "id": 50590,
+        "file": "components\/ILIAS\/soap\/classes\/class.ilSoapUserAdministration.php",
+        "line": 294,
+        "code": "$lng->txt(\"usrimport_with_specified_role_not_permitted\")",
+        "has_variable": false,
+        "variable": "usrimport_with_specified_role_not_permitted"
+    },
+    {
+        "id": 50592,
+        "file": "components\/ILIAS\/soap\/classes\/class.ilSoapUserAdministration.php",
+        "line": 303,
+        "code": "$lng->txt(\"usrimport_with_specified_role_not_permitted\")",
+        "has_variable": false,
+        "variable": "usrimport_with_specified_role_not_permitted"
+    }
+]

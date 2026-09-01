@@ -1,0 +1,882 @@
+[
+    {
+        "id": 28598,
+        "file": "components\/ILIAS\/Notes\/Administration\/classes\/class.ilObjCommentsSettingsGUI.php",
+        "line": 74,
+        "code": "$this->lng->txt('no_permission')",
+        "has_variable": false,
+        "variable": "no_permission"
+    },
+    {
+        "id": 28600,
+        "file": "components\/ILIAS\/Notes\/Administration\/classes\/class.ilObjCommentsSettingsGUI.php",
+        "line": 107,
+        "code": "$lng->txt(\"settings\")",
+        "has_variable": false,
+        "variable": "settings"
+    },
+    {
+        "id": 28602,
+        "file": "components\/ILIAS\/Notes\/Administration\/classes\/class.ilObjCommentsSettingsGUI.php",
+        "line": 115,
+        "code": "$lng->txt(\"perm_settings\")",
+        "has_variable": false,
+        "variable": "perm_settings"
+    },
+    {
+        "id": 28604,
+        "file": "components\/ILIAS\/Notes\/Administration\/classes\/class.ilObjCommentsSettingsGUI.php",
+        "line": 142,
+        "code": "$lng->txt(\"note_enable_comments_del_user\")",
+        "has_variable": false,
+        "variable": "note_enable_comments_del_user"
+    },
+    {
+        "id": 28606,
+        "file": "components\/ILIAS\/Notes\/Administration\/classes\/class.ilObjCommentsSettingsGUI.php",
+        "line": 143,
+        "code": "$lng->txt(\"note_enable_comments_del_user_info\")",
+        "has_variable": false,
+        "variable": "note_enable_comments_del_user_info"
+    },
+    {
+        "id": 28608,
+        "file": "components\/ILIAS\/Notes\/Administration\/classes\/class.ilObjCommentsSettingsGUI.php",
+        "line": 147,
+        "code": "$lng->txt(\"note_enable_comments_del_tutor\")",
+        "has_variable": false,
+        "variable": "note_enable_comments_del_tutor"
+    },
+    {
+        "id": 28610,
+        "file": "components\/ILIAS\/Notes\/Administration\/classes\/class.ilObjCommentsSettingsGUI.php",
+        "line": 148,
+        "code": "$lng->txt(\"note_enable_comments_del_tutor_info\")",
+        "has_variable": false,
+        "variable": "note_enable_comments_del_tutor_info"
+    },
+    {
+        "id": 28612,
+        "file": "components\/ILIAS\/Notes\/Administration\/classes\/class.ilObjCommentsSettingsGUI.php",
+        "line": 152,
+        "code": "$lng->txt(\"note_comments_notification\")",
+        "has_variable": false,
+        "variable": "note_comments_notification"
+    },
+    {
+        "id": 28614,
+        "file": "components\/ILIAS\/Notes\/Administration\/classes\/class.ilObjCommentsSettingsGUI.php",
+        "line": 153,
+        "code": "$lng->txt(\"note_comments_notification_info\")",
+        "has_variable": false,
+        "variable": "note_comments_notification_info"
+    },
+    {
+        "id": 28616,
+        "file": "components\/ILIAS\/Notes\/Administration\/classes\/class.ilObjCommentsSettingsGUI.php",
+        "line": 159,
+        "code": "$lng->txt(\"enable_comments_export\")",
+        "has_variable": false,
+        "variable": "enable_comments_export"
+    },
+    {
+        "id": 28618,
+        "file": "components\/ILIAS\/Notes\/Administration\/classes\/class.ilObjCommentsSettingsGUI.php",
+        "line": 160,
+        "code": "$lng->txt(\"note_enable_comments_export_info\")",
+        "has_variable": false,
+        "variable": "note_enable_comments_export_info"
+    },
+    {
+        "id": 28620,
+        "file": "components\/ILIAS\/Notes\/Administration\/classes\/class.ilObjCommentsSettingsGUI.php",
+        "line": 167,
+        "code": "$lng->txt(\"note_enable_comments\")",
+        "has_variable": false,
+        "variable": "note_enable_comments"
+    },
+    {
+        "id": 28622,
+        "file": "components\/ILIAS\/Notes\/Administration\/classes\/class.ilObjCommentsSettingsGUI.php",
+        "line": 168,
+        "code": "$lng->txt(\"\")",
+        "has_variable": true,
+        "variable": ""
+    },
+    {
+        "id": 28624,
+        "file": "components\/ILIAS\/Notes\/Administration\/classes\/class.ilObjCommentsSettingsGUI.php",
+        "line": 184,
+        "code": "$lng->txt(\"settings\")",
+        "has_variable": false,
+        "variable": "settings"
+    },
+    {
+        "id": 28626,
+        "file": "components\/ILIAS\/Notes\/Administration\/classes\/class.ilObjCommentsSettingsGUI.php",
+        "line": 215,
+        "code": "$lng->txt(\"msg_obj_modified\")",
+        "has_variable": false,
+        "variable": "msg_obj_modified"
+    },
+    {
+        "id": 28628,
+        "file": "components\/ILIAS\/Notes\/Administration\/classes\/class.ilObjCommentsSettingsGUI.php",
+        "line": 219,
+        "code": "$lng->txt(\"no_permission\")",
+        "has_variable": false,
+        "variable": "no_permission"
+    },
+    {
+        "id": 28630,
+        "file": "components\/ILIAS\/Notes\/Administration\/classes\/class.ilObjNotesSettingsGUI.php",
+        "line": 75,
+        "code": "$this->lng->txt('no_permission')",
+        "has_variable": false,
+        "variable": "no_permission"
+    },
+    {
+        "id": 28632,
+        "file": "components\/ILIAS\/Notes\/Administration\/classes\/class.ilObjNotesSettingsGUI.php",
+        "line": 108,
+        "code": "$lng->txt(\"settings\")",
+        "has_variable": false,
+        "variable": "settings"
+    },
+    {
+        "id": 28634,
+        "file": "components\/ILIAS\/Notes\/Administration\/classes\/class.ilObjNotesSettingsGUI.php",
+        "line": 116,
+        "code": "$lng->txt(\"perm_settings\")",
+        "has_variable": false,
+        "variable": "perm_settings"
+    },
+    {
+        "id": 28636,
+        "file": "components\/ILIAS\/Notes\/Administration\/classes\/class.ilObjNotesSettingsGUI.php",
+        "line": 142,
+        "code": "$lng->txt(\"note_enable_notes\")",
+        "has_variable": false,
+        "variable": "note_enable_notes"
+    },
+    {
+        "id": 28638,
+        "file": "components\/ILIAS\/Notes\/Administration\/classes\/class.ilObjNotesSettingsGUI.php",
+        "line": 150,
+        "code": "$lng->txt(\"settings\")",
+        "has_variable": false,
+        "variable": "settings"
+    },
+    {
+        "id": 28640,
+        "file": "components\/ILIAS\/Notes\/Administration\/classes\/class.ilObjNotesSettingsGUI.php",
+        "line": 170,
+        "code": "$lng->txt(\"msg_obj_modified\")",
+        "has_variable": false,
+        "variable": "msg_obj_modified"
+    },
+    {
+        "id": 28642,
+        "file": "components\/ILIAS\/Notes\/Administration\/classes\/class.ilObjNotesSettingsGUI.php",
+        "line": 174,
+        "code": "$lng->txt(\"no_permission\")",
+        "has_variable": false,
+        "variable": "no_permission"
+    },
+    {
+        "id": 28644,
+        "file": "components\/ILIAS\/Notes\/Comment\/class.ilCommentGUI.php",
+        "line": 65,
+        "code": "$this->lng->txt(\"notes_no_comments\")",
+        "has_variable": false,
+        "variable": "notes_no_comments"
+    },
+    {
+        "id": 28646,
+        "file": "components\/ILIAS\/Notes\/Comment\/class.ilCommentGUI.php",
+        "line": 67,
+        "code": "$this->lng->txt(\"notes_no_comments_found\")",
+        "has_variable": false,
+        "variable": "notes_no_comments_found"
+    },
+    {
+        "id": 28648,
+        "file": "components\/ILIAS\/Notes\/Comment\/class.ilCommentGUI.php",
+        "line": 77,
+        "code": "$this->lng->txt(\"notes_comments\")",
+        "has_variable": false,
+        "variable": "notes_comments"
+    },
+    {
+        "id": 28650,
+        "file": "components\/ILIAS\/Notes\/Comment\/class.ilCommentGUI.php",
+        "line": 88,
+        "code": "$this->lng->txt(\"create_date\")",
+        "has_variable": false,
+        "variable": "create_date"
+    },
+    {
+        "id": 28652,
+        "file": "components\/ILIAS\/Notes\/Comment\/class.ilCommentGUI.php",
+        "line": 98,
+        "code": "$this->lng->txt(\"notes_delete_comment\")",
+        "has_variable": false,
+        "variable": "notes_delete_comment"
+    },
+    {
+        "id": 28654,
+        "file": "components\/ILIAS\/Notes\/Comment\/class.ilCommentGUI.php",
+        "line": 103,
+        "code": "$this->lng->txt(\"notes_latest_comment\")",
+        "has_variable": false,
+        "variable": "notes_latest_comment"
+    },
+    {
+        "id": 28656,
+        "file": "components\/ILIAS\/Notes\/Comment\/class.ilCommentGUI.php",
+        "line": 108,
+        "code": "$this->lng->txt(\"notes_add_edit_comment\")",
+        "has_variable": false,
+        "variable": "notes_add_edit_comment"
+    },
+    {
+        "id": 28658,
+        "file": "components\/ILIAS\/Notes\/Comment\/class.ilCommentGUI.php",
+        "line": 156,
+        "code": "$lng->txt(\"notes_deactivate_comments\")",
+        "has_variable": false,
+        "variable": "notes_deactivate_comments"
+    },
+    {
+        "id": 28660,
+        "file": "components\/ILIAS\/Notes\/Comment\/class.ilCommentGUI.php",
+        "line": 165,
+        "code": "$lng->txt(\"notes_activate_comments\")",
+        "has_variable": false,
+        "variable": "notes_activate_comments"
+    },
+    {
+        "id": 28662,
+        "file": "components\/ILIAS\/Notes\/Comment\/class.ilCommentGUI.php",
+        "line": 174,
+        "code": "$lng->txt(\"comments_feature_currently_not_activated_for_object\")",
+        "has_variable": false,
+        "variable": "comments_feature_currently_not_activated_for_object"
+    },
+    {
+        "id": 28664,
+        "file": "components\/ILIAS\/Notes\/Comment\/class.ilCommentGUI.php",
+        "line": 186,
+        "code": "$this->lng->txt(\"notes_public_comments\")",
+        "has_variable": false,
+        "variable": "notes_public_comments"
+    },
+    {
+        "id": 28666,
+        "file": "components\/ILIAS\/Notes\/Comment\/class.ilCommentGUI.php",
+        "line": 191,
+        "code": "$this->lng->txt(\"note_add_comment\")",
+        "has_variable": false,
+        "variable": "note_add_comment"
+    },
+    {
+        "id": 28668,
+        "file": "components\/ILIAS\/Notes\/Comment\/class.ilCommentGUI.php",
+        "line": 196,
+        "code": "$this->lng->txt(\"notes_comments_deleted\")",
+        "has_variable": false,
+        "variable": "notes_comments_deleted"
+    },
+    {
+        "id": 28670,
+        "file": "components\/ILIAS\/Notes\/Comment\/class.ilCommentGUI.php",
+        "line": 201,
+        "code": "$this->lng->txt(\"notes_comment_deleted\")",
+        "has_variable": false,
+        "variable": "notes_comment_deleted"
+    },
+    {
+        "id": 28672,
+        "file": "components\/ILIAS\/Notes\/Export\/class.ExportHelperGUI.php",
+        "line": 51,
+        "code": "$this->lng->txt(\"no\")",
+        "has_variable": false,
+        "variable": "no"
+    },
+    {
+        "id": 28674,
+        "file": "components\/ILIAS\/Notes\/Export\/class.ExportHelperGUI.php",
+        "line": 63,
+        "code": "$this->lng->txt(\"yes\")",
+        "has_variable": false,
+        "variable": "yes"
+    },
+    {
+        "id": 28676,
+        "file": "components\/ILIAS\/Notes\/Export\/class.NotesHtmlExport.php",
+        "line": 127,
+        "code": "$this->lng->txt(\"notes\")",
+        "has_variable": false,
+        "variable": "notes"
+    },
+    {
+        "id": 28678,
+        "file": "components\/ILIAS\/Notes\/Export\/class.NotesHtmlExport.php",
+        "line": 128,
+        "code": "$this->lng->txt(\"notes_comments\")",
+        "has_variable": false,
+        "variable": "notes_comments"
+    },
+    {
+        "id": 28680,
+        "file": "components\/ILIAS\/Notes\/Message\/class.ilMessageGUI.php",
+        "line": 61,
+        "code": "$this->lng->txt(\"notes_no_messages\")",
+        "has_variable": false,
+        "variable": "notes_no_messages"
+    },
+    {
+        "id": 28682,
+        "file": "components\/ILIAS\/Notes\/Message\/class.ilMessageGUI.php",
+        "line": 63,
+        "code": "$this->lng->txt(\"notes_no_messages_found\")",
+        "has_variable": false,
+        "variable": "notes_no_messages_found"
+    },
+    {
+        "id": 28684,
+        "file": "components\/ILIAS\/Notes\/Message\/class.ilMessageGUI.php",
+        "line": 73,
+        "code": "$this->lng->txt(\"notes_messages\")",
+        "has_variable": false,
+        "variable": "notes_messages"
+    },
+    {
+        "id": 28686,
+        "file": "components\/ILIAS\/Notes\/Message\/class.ilMessageGUI.php",
+        "line": 80,
+        "code": "$this->lng->txt(\"notes_message_author_you\")",
+        "has_variable": false,
+        "variable": "notes_message_author_you"
+    },
+    {
+        "id": 28688,
+        "file": "components\/ILIAS\/Notes\/Message\/class.ilMessageGUI.php",
+        "line": 85,
+        "code": "$this->lng->txt(\"notes_message_counterpart\")",
+        "has_variable": false,
+        "variable": "notes_message_counterpart"
+    },
+    {
+        "id": 28690,
+        "file": "components\/ILIAS\/Notes\/Message\/class.ilMessageGUI.php",
+        "line": 95,
+        "code": "$this->lng->txt(\"create_date\")",
+        "has_variable": false,
+        "variable": "create_date"
+    },
+    {
+        "id": 28692,
+        "file": "components\/ILIAS\/Notes\/Message\/class.ilMessageGUI.php",
+        "line": 105,
+        "code": "$this->lng->txt(\"notes_delete_message\")",
+        "has_variable": false,
+        "variable": "notes_delete_message"
+    },
+    {
+        "id": 28694,
+        "file": "components\/ILIAS\/Notes\/Message\/class.ilMessageGUI.php",
+        "line": 121,
+        "code": "$this->lng->txt(\"notes_messages\")",
+        "has_variable": false,
+        "variable": "notes_messages"
+    },
+    {
+        "id": 28696,
+        "file": "components\/ILIAS\/Notes\/Message\/class.ilMessageGUI.php",
+        "line": 126,
+        "code": "$this->lng->txt(\"note_add_message\")",
+        "has_variable": false,
+        "variable": "note_add_message"
+    },
+    {
+        "id": 28698,
+        "file": "components\/ILIAS\/Notes\/Message\/class.ilMessageGUI.php",
+        "line": 131,
+        "code": "$this->lng->txt(\"notes_messages_deleted\")",
+        "has_variable": false,
+        "variable": "notes_messages_deleted"
+    },
+    {
+        "id": 28700,
+        "file": "components\/ILIAS\/Notes\/Message\/class.ilMessageGUI.php",
+        "line": 136,
+        "code": "$this->lng->txt(\"notes_message_deleted\")",
+        "has_variable": false,
+        "variable": "notes_message_deleted"
+    },
+    {
+        "id": 28702,
+        "file": "components\/ILIAS\/Notes\/Message\/class.ilMessageGUI.php",
+        "line": 141,
+        "code": "$this->lng->txt(\"notes_latest_message\")",
+        "has_variable": false,
+        "variable": "notes_latest_message"
+    },
+    {
+        "id": 28704,
+        "file": "components\/ILIAS\/Notes\/Message\/class.ilMessageGUI.php",
+        "line": 146,
+        "code": "$this->lng->txt(\"notes_add_edit_message\")",
+        "has_variable": false,
+        "variable": "notes_add_edit_message"
+    },
+    {
+        "id": 28706,
+        "file": "components\/ILIAS\/Notes\/Note\/class.ilNoteGUI.php",
+        "line": 431,
+        "code": "$this->lng->txt(\"cancel\")",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 28708,
+        "file": "components\/ILIAS\/Notes\/Note\/class.ilNoteGUI.php",
+        "line": 465,
+        "code": "$this->lng->txt(\"cancel\")",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 28710,
+        "file": "components\/ILIAS\/Notes\/Note\/class.ilNoteGUI.php",
+        "line": 541,
+        "code": "$lng->txt(\"msg_obj_modified\")",
+        "has_variable": false,
+        "variable": "msg_obj_modified"
+    },
+    {
+        "id": 28712,
+        "file": "components\/ILIAS\/Notes\/Note\/class.ilNoteGUI.php",
+        "line": 556,
+        "code": "$lng->txt(\"form_input_not_valid\")",
+        "has_variable": false,
+        "variable": "form_input_not_valid"
+    },
+    {
+        "id": 28714,
+        "file": "components\/ILIAS\/Notes\/Note\/class.ilNoteGUI.php",
+        "line": 561,
+        "code": "$lng->txt(\"info_delete_sure\")",
+        "has_variable": false,
+        "variable": "info_delete_sure"
+    },
+    {
+        "id": 28716,
+        "file": "components\/ILIAS\/Notes\/Note\/class.ilNoteGUI.php",
+        "line": 566,
+        "code": "$lng->txt(\"no_checkbox\")",
+        "has_variable": false,
+        "variable": "no_checkbox"
+    },
+    {
+        "id": 28718,
+        "file": "components\/ILIAS\/Notes\/Note\/class.ilNoteGUI.php",
+        "line": 584,
+        "code": "$this->lng->txt(\"private_notes\")",
+        "has_variable": false,
+        "variable": "private_notes"
+    },
+    {
+        "id": 28720,
+        "file": "components\/ILIAS\/Notes\/Note\/class.ilNoteGUI.php",
+        "line": 589,
+        "code": "$this->lng->txt(\"note_add_note\")",
+        "has_variable": false,
+        "variable": "note_add_note"
+    },
+    {
+        "id": 28722,
+        "file": "components\/ILIAS\/Notes\/Note\/class.ilNoteGUI.php",
+        "line": 594,
+        "code": "$this->lng->txt(\"notes_notes_deleted\")",
+        "has_variable": false,
+        "variable": "notes_notes_deleted"
+    },
+    {
+        "id": 28724,
+        "file": "components\/ILIAS\/Notes\/Note\/class.ilNoteGUI.php",
+        "line": 599,
+        "code": "$this->lng->txt(\"notes_note_deleted\")",
+        "has_variable": false,
+        "variable": "notes_note_deleted"
+    },
+    {
+        "id": 28726,
+        "file": "components\/ILIAS\/Notes\/Note\/class.ilNoteGUI.php",
+        "line": 609,
+        "code": "$this->lng->txt(\"notes_add_edit_note\")",
+        "has_variable": false,
+        "variable": "notes_add_edit_note"
+    },
+    {
+        "id": 28728,
+        "file": "components\/ILIAS\/Notes\/Note\/class.ilNoteGUI.php",
+        "line": 615,
+        "code": "$this->lng->txt(\"notes_no_notes\")",
+        "has_variable": false,
+        "variable": "notes_no_notes"
+    },
+    {
+        "id": 28730,
+        "file": "components\/ILIAS\/Notes\/Note\/class.ilNoteGUI.php",
+        "line": 617,
+        "code": "$this->lng->txt(\"notes_no_notes_found\")",
+        "has_variable": false,
+        "variable": "notes_no_notes_found"
+    },
+    {
+        "id": 28732,
+        "file": "components\/ILIAS\/Notes\/Note\/class.ilNoteGUI.php",
+        "line": 629,
+        "code": "$this->lng->txt(\"create_date\")",
+        "has_variable": false,
+        "variable": "create_date"
+    },
+    {
+        "id": 28734,
+        "file": "components\/ILIAS\/Notes\/Note\/class.ilNoteGUI.php",
+        "line": 631,
+        "code": "$this->lng->txt(\"sorting_desc\")",
+        "has_variable": false,
+        "variable": "sorting_desc"
+    },
+    {
+        "id": 28736,
+        "file": "components\/ILIAS\/Notes\/Note\/class.ilNoteGUI.php",
+        "line": 632,
+        "code": "$this->lng->txt(\"sorting_asc\")",
+        "has_variable": false,
+        "variable": "sorting_asc"
+    },
+    {
+        "id": 28738,
+        "file": "components\/ILIAS\/Notes\/Note\/class.ilNoteGUI.php",
+        "line": 644,
+        "code": "$this->lng->txt(\"notes_sort_desc\")",
+        "has_variable": false,
+        "variable": "notes_sort_desc"
+    },
+    {
+        "id": 28740,
+        "file": "components\/ILIAS\/Notes\/Note\/class.ilNoteGUI.php",
+        "line": 652,
+        "code": "$this->lng->txt(\"notes_sort_asc\")",
+        "has_variable": false,
+        "variable": "notes_sort_asc"
+    },
+    {
+        "id": 28742,
+        "file": "components\/ILIAS\/Notes\/Note\/class.ilNoteGUI.php",
+        "line": 672,
+        "code": "$this->lng->txt(\"notes\")",
+        "has_variable": false,
+        "variable": "notes"
+    },
+    {
+        "id": 28744,
+        "file": "components\/ILIAS\/Notes\/Note\/class.ilNoteGUI.php",
+        "line": 676,
+        "code": "$this->lng->txt(\"note_without_object\")",
+        "has_variable": false,
+        "variable": "note_without_object"
+    },
+    {
+        "id": 28746,
+        "file": "components\/ILIAS\/Notes\/Note\/class.ilNoteGUI.php",
+        "line": 703,
+        "code": "$this->lng->txt(\"edit\")",
+        "has_variable": false,
+        "variable": "edit"
+    },
+    {
+        "id": 28748,
+        "file": "components\/ILIAS\/Notes\/Note\/class.ilNoteGUI.php",
+        "line": 718,
+        "code": "$this->lng->txt(\"delete\")",
+        "has_variable": false,
+        "variable": "delete"
+    },
+    {
+        "id": 28750,
+        "file": "components\/ILIAS\/Notes\/Note\/class.ilNoteGUI.php",
+        "line": 735,
+        "code": "$this->lng->txt(\"notes_origin\")",
+        "has_variable": false,
+        "variable": "notes_origin"
+    },
+    {
+        "id": 28752,
+        "file": "components\/ILIAS\/Notes\/Note\/class.ilNoteGUI.php",
+        "line": 737,
+        "code": "$this->lng->txt(\"notes_origin\")",
+        "has_variable": false,
+        "variable": "notes_origin"
+    },
+    {
+        "id": 28754,
+        "file": "components\/ILIAS\/Notes\/Note\/class.ilNoteGUI.php",
+        "line": 759,
+        "code": "$this->lng->txt(\"last_edited_on\")",
+        "has_variable": false,
+        "variable": "last_edited_on"
+    },
+    {
+        "id": 28756,
+        "file": "components\/ILIAS\/Notes\/Note\/class.ilNoteGUI.php",
+        "line": 796,
+        "code": "$this->lng->txt(\"create_date\")",
+        "has_variable": false,
+        "variable": "create_date"
+    },
+    {
+        "id": 28758,
+        "file": "components\/ILIAS\/Notes\/Note\/class.ilNoteGUI.php",
+        "line": 809,
+        "code": "$this->lng->txt(\"note_content_removed\")",
+        "has_variable": false,
+        "variable": "note_content_removed"
+    },
+    {
+        "id": 28760,
+        "file": "components\/ILIAS\/Notes\/Note\/class.ilNoteGUI.php",
+        "line": 855,
+        "code": "$this->lng->txt($label_key)",
+        "has_variable": true,
+        "variable": "$label_key"
+    },
+    {
+        "id": 28762,
+        "file": "components\/ILIAS\/Notes\/Note\/class.ilNoteGUI.php",
+        "line": 856,
+        "code": "$this->lng->txt(\"note_text\")",
+        "has_variable": false,
+        "variable": "note_text"
+    },
+    {
+        "id": 28764,
+        "file": "components\/ILIAS\/Notes\/Note\/class.ilNoteGUI.php",
+        "line": 1110,
+        "code": "$this->lng->txt(\"cancel\")",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 28766,
+        "file": "components\/ILIAS\/Notes\/Note\/class.ilNoteGUI.php",
+        "line": 1115,
+        "code": "$this->lng->txt(\"delete\")",
+        "has_variable": false,
+        "variable": "delete"
+    },
+    {
+        "id": 28768,
+        "file": "components\/ILIAS\/Notes\/Note\/class.ilNoteGUI.php",
+        "line": 1131,
+        "code": "$this->lng->txt(\"notes_delete_note\")",
+        "has_variable": false,
+        "variable": "notes_delete_note"
+    },
+    {
+        "id": 28770,
+        "file": "components\/ILIAS\/Notes\/Note\/class.ilNoteGUI.php",
+        "line": 1469,
+        "code": "$this->lng->txt(\"comments\")",
+        "has_variable": false,
+        "variable": "comments"
+    },
+    {
+        "id": 28772,
+        "file": "components\/ILIAS\/Notes\/Note\/class.ilPDNotesGUI.php",
+        "line": 153,
+        "code": "$this->lng->txt(\"notes\")",
+        "has_variable": false,
+        "variable": "notes"
+    },
+    {
+        "id": 28774,
+        "file": "components\/ILIAS\/Notes\/Note\/class.ilPDNotesGUI.php",
+        "line": 155,
+        "code": "$this->lng->txt(\"notes_and_comments\")",
+        "has_variable": false,
+        "variable": "notes_and_comments"
+    },
+    {
+        "id": 28776,
+        "file": "components\/ILIAS\/Notes\/Note\/class.ilPDNotesGUI.php",
+        "line": 158,
+        "code": "$this->lng->txt(\"notes_comments\")",
+        "has_variable": false,
+        "variable": "notes_comments"
+    },
+    {
+        "id": 28778,
+        "file": "components\/ILIAS\/Notes\/Note\/class.ilPDNotesGUI.php",
+        "line": 162,
+        "code": "$this->lng->txt(\"private_notes\")",
+        "has_variable": false,
+        "variable": "private_notes"
+    },
+    {
+        "id": 28780,
+        "file": "components\/ILIAS\/Notes\/Note\/class.ilPDNotesGUI.php",
+        "line": 165,
+        "code": "$this->lng->txt(\"notes_public_comments\")",
+        "has_variable": false,
+        "variable": "notes_public_comments"
+    },
+    {
+        "id": 28782,
+        "file": "components\/ILIAS\/Notes\/Note\/class.ilPDNotesGUI.php",
+        "line": 203,
+        "code": "$lng->txt(\"msg_no_search_result\")",
+        "has_variable": false,
+        "variable": "msg_no_search_result"
+    },
+    {
+        "id": 28784,
+        "file": "components\/ILIAS\/Notes\/Note\/class.ilPDNotesGUI.php",
+        "line": 331,
+        "code": "$this->lng->txt(\"note_without_object\")",
+        "has_variable": false,
+        "variable": "note_without_object"
+    },
+    {
+        "id": 28786,
+        "file": "components\/ILIAS\/Notes\/Note\/class.ilPDNotesGUI.php",
+        "line": 344,
+        "code": "$lng->txt(\"notes_text\")",
+        "has_variable": false,
+        "variable": "notes_text"
+    },
+    {
+        "id": 28788,
+        "file": "components\/ILIAS\/Notes\/Note\/class.ilPDNotesGUI.php",
+        "line": 345,
+        "code": "$lng->txt(\"notes_origin\")",
+        "has_variable": false,
+        "variable": "notes_origin"
+    },
+    {
+        "id": 28790,
+        "file": "components\/ILIAS\/Notes\/Note\/class.ilPDNotesGUI.php",
+        "line": 355,
+        "code": "$this->lng->txt(\"create_date\")",
+        "has_variable": false,
+        "variable": "create_date"
+    },
+    {
+        "id": 28792,
+        "file": "components\/ILIAS\/Notes\/Note\/class.ilPDNotesGUI.php",
+        "line": 357,
+        "code": "$this->lng->txt(\"sorting_desc\")",
+        "has_variable": false,
+        "variable": "sorting_desc"
+    },
+    {
+        "id": 28794,
+        "file": "components\/ILIAS\/Notes\/Note\/class.ilPDNotesGUI.php",
+        "line": 358,
+        "code": "$this->lng->txt(\"sorting_asc\")",
+        "has_variable": false,
+        "variable": "sorting_asc"
+    },
+    {
+        "id": 28796,
+        "file": "components\/ILIAS\/Notes\/Note\/class.ilPDNotesGUI.php",
+        "line": 377,
+        "code": "$this->lng->txt(\"notes_html_export\")",
+        "has_variable": false,
+        "variable": "notes_html_export"
+    },
+    {
+        "id": 28798,
+        "file": "components\/ILIAS\/Notes\/Notifications\/class.NotificationsManager.php",
+        "line": 141,
+        "code": "$ulng->txt('note_comment_notification_subjectc')",
+        "has_variable": false,
+        "variable": "note_comment_notification_subjectc"
+    },
+    {
+        "id": 28800,
+        "file": "components\/ILIAS\/Notes\/Notifications\/class.NotificationsManager.php",
+        "line": 141,
+        "code": "$ulng->txt($type_lv)",
+        "has_variable": true,
+        "variable": "$type_lv"
+    },
+    {
+        "id": 28802,
+        "file": "components\/ILIAS\/Notes\/Notifications\/class.NotificationsManager.php",
+        "line": 143,
+        "code": "$ulng->txt('note_comment_notification_subject')",
+        "has_variable": false,
+        "variable": "note_comment_notification_subject"
+    },
+    {
+        "id": 28804,
+        "file": "components\/ILIAS\/Notes\/Notifications\/class.NotificationsManager.php",
+        "line": 143,
+        "code": "$ulng->txt($type_lv)",
+        "has_variable": true,
+        "variable": "$type_lv"
+    },
+    {
+        "id": 28806,
+        "file": "components\/ILIAS\/Notes\/Notifications\/class.NotificationsManager.php",
+        "line": 145,
+        "code": "$ulng->txt('note_comment_notification_salutation')",
+        "has_variable": false,
+        "variable": "note_comment_notification_salutation"
+    },
+    {
+        "id": 28808,
+        "file": "components\/ILIAS\/Notes\/Notifications\/class.NotificationsManager.php",
+        "line": 147,
+        "code": "$ulng->txt('note_comment_notification_user_has_written')",
+        "has_variable": false,
+        "variable": "note_comment_notification_user_has_written"
+    },
+    {
+        "id": 28810,
+        "file": "components\/ILIAS\/Notes\/Notifications\/class.NotificationsManager.php",
+        "line": 152,
+        "code": "$ulng->txt('note_comment_notification_link')",
+        "has_variable": false,
+        "variable": "note_comment_notification_link"
+    },
+    {
+        "id": 28812,
+        "file": "components\/ILIAS\/Notes\/Notifications\/class.NotificationsManager.php",
+        "line": 155,
+        "code": "$ulng->txt('note_comment_notification_reason')",
+        "has_variable": false,
+        "variable": "note_comment_notification_reason"
+    },
+    {
+        "id": 28814,
+        "file": "components\/ILIAS\/Notes\/Print\/class.PrintViewProvider.php",
+        "line": 58,
+        "code": "$lng->txt(\"print_view\")",
+        "has_variable": false,
+        "variable": "print_view"
+    },
+    {
+        "id": 28816,
+        "file": "components\/ILIAS\/Notes\/Print\/class.PrintViewProvider.php",
+        "line": 60,
+        "code": "$lng->txt(\"svy_print_selection\")",
+        "has_variable": false,
+        "variable": "svy_print_selection"
+    }
+]

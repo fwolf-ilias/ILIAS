@@ -1,0 +1,273 @@
+{
+    "metadata": {
+        "type": "full",
+        "count": 24,
+        "description": "Variable usages without detectable prefixes or suffixes (pure variable references without static strings)"
+    },
+    "matches": [
+        {
+            "id": 17732,
+            "file": "components\/ILIAS\/Forum\/classes\/Notification\/ForumNotificationTable.php",
+            "line": 130,
+            "code": "$this->lng->txt('')",
+            "variable": "",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 17768,
+            "file": "components\/ILIAS\/Forum\/classes\/Notification\/class.ilForumNotificationEventsFormGUI.php",
+            "line": 75,
+            "code": "$this->lng->txt($key)",
+            "variable": "$key",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 18020,
+            "file": "components\/ILIAS\/Forum\/classes\/class.ilForumTopicTableGUI.php",
+            "line": 97,
+            "code": "$this->lng->txt('drafts', '')",
+            "variable": "",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 18060,
+            "file": "components\/ILIAS\/Forum\/classes\/class.ilForumTopicTableGUI.php",
+            "line": 138,
+            "code": "$this->lng->txt('drafts', '')",
+            "variable": "",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 18092,
+            "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumAdministrationGUI.php",
+            "line": 181,
+            "code": "$this->lng->txt($label)",
+            "variable": "$label",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 18094,
+            "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumAdministrationGUI.php",
+            "line": 184,
+            "code": "$this->lng->txt($label)",
+            "variable": "$label",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 18100,
+            "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumAdministrationGUI.php",
+            "line": 190,
+            "code": "$this->lng->txt($label)",
+            "variable": "$label",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 18130,
+            "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumAdministrationGUI.php",
+            "line": 353,
+            "code": "$this->lng->txt(key($data))",
+            "variable": "\\$data",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 18182,
+            "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+            "line": 827,
+            "code": "$this->lng->txt($sortation->languageId())",
+            "variable": "$sortation->languageId()",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 18216,
+            "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+            "line": 1036,
+            "code": "$this->lng->txt($forum_topic->isSticky() ? 'make_topics_non_sticky' : 'make_topics_sticky')",
+            "variable": "_",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 18218,
+            "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+            "line": 1046,
+            "code": "$this->lng->txt($forum_topic->isClosed() ? 'reopen_topics' : 'close_topics')",
+            "variable": "_",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 18280,
+            "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+            "line": 1826,
+            "code": "$this->lng->txt($success_message)",
+            "variable": "$success_message",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 18470,
+            "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+            "line": 3514,
+            "code": "$this->lng->txt($languageKey)",
+            "variable": "$languageKey",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 18472,
+            "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+            "line": 3529,
+            "code": "$this->lng->txt($this->viewModeOptions[$currentViewMode])",
+            "variable": "M",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 18474,
+            "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+            "line": 3530,
+            "code": "$this->lng->txt($this->viewModeOptions[$currentViewMode])",
+            "variable": "M",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 18476,
+            "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+            "line": 3544,
+            "code": "$this->lng->txt($value)",
+            "variable": "$value",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 18636,
+            "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+            "line": 4743,
+            "code": "$this->lng->txt($e->getMessage())",
+            "variable": "$e->getMessage()",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 18688,
+            "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+            "line": 5594,
+            "code": "$this->lng->txt($lng_id)",
+            "variable": "$lng_id",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 18690,
+            "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+            "line": 5597,
+            "code": "$this->lng->txt($lng_id)",
+            "variable": "$lng_id",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 18692,
+            "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+            "line": 5607,
+            "code": "$this->lng->txt($lng_id)",
+            "variable": "$lng_id",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 18698,
+            "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+            "line": 5613,
+            "code": "$this->lng->txt(str_contains($url, 'deletePostingDraft') ? 'deletePostingDraft' : 'deletePosting')",
+            "variable": "_",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 18700,
+            "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+            "line": 5616,
+            "code": "$this->lng->txt($lng_id)",
+            "variable": "$lng_id",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 18702,
+            "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+            "line": 5626,
+            "code": "$this->lng->txt($lng_id)",
+            "variable": "$lng_id",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 18704,
+            "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+            "line": 5636,
+            "code": "$this->lng->txt($primary_action_language_id)",
+            "variable": "$primary_action_language_id",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        }
+    ]
+}

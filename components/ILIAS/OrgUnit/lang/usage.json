@@ -1,0 +1,2050 @@
+[
+    {
+        "id": 29030,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/ARHelper\/BaseCommands.php",
+        "line": 187,
+        "code": "$this->lng->txt($subtab_id)",
+        "has_variable": true,
+        "variable": "$subtab_id"
+    },
+    {
+        "id": 29032,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/ARHelper\/BaseForm.php",
+        "line": 76,
+        "code": "$this->txt('create')",
+        "has_variable": false,
+        "variable": "create"
+    },
+    {
+        "id": 29034,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/ARHelper\/BaseForm.php",
+        "line": 77,
+        "code": "$this->txt(BaseCommands::CMD_CREATE)",
+        "has_variable": true,
+        "variable": "B"
+    },
+    {
+        "id": 29036,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/ARHelper\/BaseForm.php",
+        "line": 78,
+        "code": "$this->txt(BaseCommands::CMD_CANCEL)",
+        "has_variable": true,
+        "variable": "B"
+    },
+    {
+        "id": 29038,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/ARHelper\/BaseForm.php",
+        "line": 80,
+        "code": "$this->txt('update')",
+        "has_variable": false,
+        "variable": "update"
+    },
+    {
+        "id": 29040,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/ARHelper\/BaseForm.php",
+        "line": 81,
+        "code": "$this->txt(BaseCommands::CMD_UPDATE)",
+        "has_variable": true,
+        "variable": "B"
+    },
+    {
+        "id": 29042,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/ARHelper\/BaseForm.php",
+        "line": 82,
+        "code": "$this->txt(BaseCommands::CMD_CANCEL)",
+        "has_variable": true,
+        "variable": "B"
+    },
+    {
+        "id": 29044,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/ARHelper\/BaseForm.php",
+        "line": 89,
+        "code": "$this->lng->txt($key)",
+        "has_variable": true,
+        "variable": "$key"
+    },
+    {
+        "id": 29046,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/ARHelper\/BaseForm.php",
+        "line": 94,
+        "code": "$this->lng->txt($key . '_info')",
+        "has_variable": true,
+        "variable": "$key . '_info'"
+    },
+    {
+        "id": 29048,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/ExtId\/class.ilExtIdGUI.php",
+        "line": 52,
+        "code": "$this->lng->txt(\"permission_denied\")",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 29050,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/ExtId\/class.ilExtIdGUI.php",
+        "line": 81,
+        "code": "$this->lng->txt(\"ext_id\")",
+        "has_variable": false,
+        "variable": "ext_id"
+    },
+    {
+        "id": 29052,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/ExtId\/class.ilExtIdGUI.php",
+        "line": 85,
+        "code": "$this->lng->txt(\"save\")",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 29054,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/ExtId\/class.ilExtIdGUI.php",
+        "line": 97,
+        "code": "$this->lng->txt(\"ext_id_updated\")",
+        "has_variable": false,
+        "variable": "ext_id_updated"
+    },
+    {
+        "id": 29056,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/Extension\/class.ilOrgUnitExtension.php",
+        "line": 124,
+        "code": "$this->lng->txt(\"objs_orgu\")",
+        "has_variable": false,
+        "variable": "objs_orgu"
+    },
+    {
+        "id": 29058,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/Extension\/class.ilOrgUnitExtensionGUI.php",
+        "line": 47,
+        "code": "$this->lng->txt(\"objs_orgu\")",
+        "has_variable": false,
+        "variable": "objs_orgu"
+    },
+    {
+        "id": 29060,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/Extension\/class.ilOrgUnitExtensionGUI.php",
+        "line": 76,
+        "code": "$this->lng->txt(\"objs_orgu\")",
+        "has_variable": false,
+        "variable": "objs_orgu"
+    },
+    {
+        "id": 29062,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/LocalUser\/class.ilLocalUserGUI.php",
+        "line": 71,
+        "code": "$this->lng->txt(\"msg_no_perm_admin_users\")",
+        "has_variable": false,
+        "variable": "msg_no_perm_admin_users"
+    },
+    {
+        "id": 29064,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/LocalUser\/class.ilLocalUserGUI.php",
+        "line": 100,
+        "code": "$this->lng->txt(\"back\")",
+        "has_variable": false,
+        "variable": "back"
+    },
+    {
+        "id": 29066,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/LocalUser\/class.ilLocalUserGUI.php",
+        "line": 146,
+        "code": "$this->lng->txt('add_user')",
+        "has_variable": false,
+        "variable": "add_user"
+    },
+    {
+        "id": 29068,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/LocalUser\/class.ilLocalUserGUI.php",
+        "line": 152,
+        "code": "$this->lng->txt('import_users')",
+        "has_variable": false,
+        "variable": "import_users"
+    },
+    {
+        "id": 29070,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/LocalUser\/class.ilLocalUserGUI.php",
+        "line": 157,
+        "code": "$this->lng->txt('no_roles_user_can_be_assigned_to')",
+        "has_variable": false,
+        "variable": "no_roles_user_can_be_assigned_to"
+    },
+    {
+        "id": 29072,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/LocalUser\/class.ilLocalUserGUI.php",
+        "line": 162,
+        "code": "$this->lng->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 29074,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/LocalUser\/class.ilLocalUserGUI.php",
+        "line": 164,
+        "code": "$this->lng->txt('delete')",
+        "has_variable": false,
+        "variable": "delete"
+    },
+    {
+        "id": 29076,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/LocalUser\/class.ilLocalUserGUI.php",
+        "line": 194,
+        "code": "$this->lng->txt('user_not_found_to_delete')",
+        "has_variable": false,
+        "variable": "user_not_found_to_delete"
+    },
+    {
+        "id": 29078,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/LocalUser\/class.ilLocalUserGUI.php",
+        "line": 201,
+        "code": "$this->lng->txt('deleted_users')",
+        "has_variable": false,
+        "variable": "deleted_users"
+    },
+    {
+        "id": 29080,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/LocalUser\/class.ilLocalUserGUI.php",
+        "line": 211,
+        "code": "$this->lng->txt('no_users_selected')",
+        "has_variable": false,
+        "variable": "no_users_selected"
+    },
+    {
+        "id": 29082,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/LocalUser\/class.ilLocalUserGUI.php",
+        "line": 217,
+        "code": "$this->lng->txt('sure_delete_selected_users')",
+        "has_variable": false,
+        "variable": "sure_delete_selected_users"
+    },
+    {
+        "id": 29084,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/LocalUser\/class.ilLocalUserGUI.php",
+        "line": 218,
+        "code": "$this->lng->txt('delete')",
+        "has_variable": false,
+        "variable": "delete"
+    },
+    {
+        "id": 29086,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/LocalUser\/class.ilLocalUserGUI.php",
+        "line": 219,
+        "code": "$this->lng->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 29088,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/LocalUser\/class.ilLocalUserGUI.php",
+        "line": 240,
+        "code": "$this->lng->txt(\"permission_denied\")",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 29090,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/LocalUser\/class.ilLocalUserGUI.php",
+        "line": 272,
+        "code": "$this->lng->txt('global')",
+        "has_variable": false,
+        "variable": "global"
+    },
+    {
+        "id": 29092,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/LocalUser\/class.ilLocalUserGUI.php",
+        "line": 274,
+        "code": "$this->lng->txt('local')",
+        "has_variable": false,
+        "variable": "local"
+    },
+    {
+        "id": 29094,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/LocalUser\/class.ilLocalUserGUI.php",
+        "line": 284,
+        "code": "$this->lng->txt(\"permission_denied\")",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 29096,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/LocalUser\/class.ilLocalUserGUI.php",
+        "line": 297,
+        "code": "$this->lng->txt('no_global_role_left')",
+        "has_variable": false,
+        "variable": "no_global_role_left"
+    },
+    {
+        "id": 29098,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/LocalUser\/class.ilLocalUserGUI.php",
+        "line": 312,
+        "code": "$this->lng->txt('role_assignment_updated')",
+        "has_variable": false,
+        "variable": "role_assignment_updated"
+    },
+    {
+        "id": 29100,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/LocalUser\/class.ilLocalUserGUI.php",
+        "line": 321,
+        "code": "$this->lng->txt(\"permission_denied\")",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 29102,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/LocalUser\/class.ilLocalUserGUI.php",
+        "line": 385,
+        "code": "$this->lng->txt(\"permission_denied\")",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 29104,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/LocalUser\/class.ilLocalUserGUI.php",
+        "line": 398,
+        "code": "$this->lng->txt(\"change_assignment\")",
+        "has_variable": false,
+        "variable": "change_assignment"
+    },
+    {
+        "id": 29106,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/LocalUser\/class.ilLocalUserGUI.php",
+        "line": 402,
+        "code": "$this->lng->txt('role_assignment')",
+        "has_variable": false,
+        "variable": "role_assignment"
+    },
+    {
+        "id": 29108,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/LocalUser\/class.ilLocalUserGUI.php",
+        "line": 403,
+        "code": "$this->lng->txt(\"role_assignment\")",
+        "has_variable": false,
+        "variable": "role_assignment"
+    },
+    {
+        "id": 29110,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/LocalUser\/class.ilLocalUserGUI.php",
+        "line": 406,
+        "code": "$this->lng->txt(\"title\")",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 29112,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/LocalUser\/class.ilLocalUserGUI.php",
+        "line": 407,
+        "code": "$this->lng->txt('description')",
+        "has_variable": false,
+        "variable": "description"
+    },
+    {
+        "id": 29114,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/LocalUser\/class.ilLocalUserGUI.php",
+        "line": 408,
+        "code": "$this->lng->txt(\"type\")",
+        "has_variable": false,
+        "variable": "type"
+    },
+    {
+        "id": 29116,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/LocalUser\/class.ilLocalUserGUI.php",
+        "line": 475,
+        "code": "$this->lng->txt(\"previous\")",
+        "has_variable": false,
+        "variable": "previous"
+    },
+    {
+        "id": 29118,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/LocalUser\/class.ilLocalUserGUI.php",
+        "line": 475,
+        "code": "$this->lng->txt(\"next\")",
+        "has_variable": false,
+        "variable": "next"
+    },
+    {
+        "id": 29120,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/LocalUser\/class.ilLocalUserGUI.php",
+        "line": 482,
+        "code": "$this->lng->txt(\"permission_denied\")",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 29122,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/Positions\/Authorities\/class.ilOrgUnitAuthorityFormGUI.php",
+        "line": 34,
+        "code": "$this->lng->txt(self::F_TITLE)",
+        "has_variable": true,
+        "variable": "F_TITLE"
+    },
+    {
+        "id": 29124,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/Positions\/Authorities\/class.ilOrgUnitAuthorityFormGUI.php",
+        "line": 38,
+        "code": "$this->lng->txt(self::F_DESCRIPTION)",
+        "has_variable": true,
+        "variable": "F_DESCRIPTION"
+    },
+    {
+        "id": 29126,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/Positions\/Authorities\/class.ilOrgUnitAuthorityFormGUI.php",
+        "line": 41,
+        "code": "$this->lng->txt('authorities')",
+        "has_variable": false,
+        "variable": "authorities"
+    },
+    {
+        "id": 29128,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/Positions\/Authorities\/class.ilOrgUnitAuthorityFormGUI.php",
+        "line": 46,
+        "code": "$this->lng->txt(\"open_authorities_modal\")",
+        "has_variable": false,
+        "variable": "open_authorities_modal"
+    },
+    {
+        "id": 29130,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/Positions\/Authorities\/class.ilOrgUnitGenericMultiInputGUI.php",
+        "line": 185,
+        "code": "$this->lng->txt(\"msg_input_is_required\")",
+        "has_variable": false,
+        "variable": "msg_input_is_required"
+    },
+    {
+        "id": 29132,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/Positions\/Permissions\/class.ilOrgUnitPermissionTableGUI.php",
+        "line": 50,
+        "code": "$this->lng->txt('org_permission_settings')",
+        "has_variable": false,
+        "variable": "org_permission_settings"
+    },
+    {
+        "id": 29134,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/Positions\/Permissions\/class.ilOrgUnitPermissionTableGUI.php",
+        "line": 58,
+        "code": "$this->lng->txt('msg_no_roles_of_type')",
+        "has_variable": false,
+        "variable": "msg_no_roles_of_type"
+    },
+    {
+        "id": 29136,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/Positions\/Permissions\/class.ilOrgUnitPermissionTableGUI.php",
+        "line": 60,
+        "code": "$this->lng->txt('save')",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 29138,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/Positions\/Permissions\/class.ilOrgUnitPermissionTableGUI.php",
+        "line": 211,
+        "code": "$this->lng->txt('select_all')",
+        "has_variable": false,
+        "variable": "select_all"
+    },
+    {
+        "id": 29140,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/Positions\/UserAssignment\/class.ilOrgUnitUserAssignmentGUI.php",
+        "line": 69,
+        "code": "$this->lng->txt(\"permission_denied\")",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 29142,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/Positions\/UserAssignment\/class.ilOrgUnitUserAssignmentGUI.php",
+        "line": 106,
+        "code": "$this->lng->txt('user')",
+        "has_variable": false,
+        "variable": "user"
+    },
+    {
+        "id": 29144,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/Positions\/UserAssignment\/class.ilOrgUnitUserAssignmentGUI.php",
+        "line": 108,
+        "code": "$this->lng->txt('add')",
+        "has_variable": false,
+        "variable": "add"
+    },
+    {
+        "id": 29146,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/Positions\/UserAssignment\/class.ilOrgUnitUserAssignmentGUI.php",
+        "line": 184,
+        "code": "$this->lng->txt('remove_user')",
+        "has_variable": false,
+        "variable": "remove_user"
+    },
+    {
+        "id": 29148,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/Positions\/UserAssignment\/class.ilOrgUnitUserAssignmentGUI.php",
+        "line": 185,
+        "code": "$this->lng->txt('msg_confirm_remove_user')",
+        "has_variable": false,
+        "variable": "msg_confirm_remove_user"
+    },
+    {
+        "id": 29150,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/Positions\/UserAssignment\/class.ilOrgUnitUserAssignmentGUI.php",
+        "line": 207,
+        "code": "$this->lng->txt(\"user_not_found_to_delete\")",
+        "has_variable": false,
+        "variable": "user_not_found_to_delete"
+    },
+    {
+        "id": 29152,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/Positions\/UserAssignment\/class.ilOrgUnitUserAssignmentGUI.php",
+        "line": 212,
+        "code": "$this->lng->txt('remove_successful')",
+        "has_variable": false,
+        "variable": "remove_successful"
+    },
+    {
+        "id": 29154,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/Positions\/UserAssignment\/class.ilOrgUnitUserAssignmentGUI.php",
+        "line": 223,
+        "code": "$this->lng->txt('remove_successful')",
+        "has_variable": false,
+        "variable": "remove_successful"
+    },
+    {
+        "id": 29156,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/Positions\/UserAssignment\/class.ilOrgUnitUserAssignmentGUI.php",
+        "line": 241,
+        "code": "$this->lng->txt(\"login\")",
+        "has_variable": false,
+        "variable": "login"
+    },
+    {
+        "id": 29158,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/Positions\/UserAssignment\/class.ilOrgUnitUserAssignmentGUI.php",
+        "line": 242,
+        "code": "$this->lng->txt(\"firstname\")",
+        "has_variable": false,
+        "variable": "firstname"
+    },
+    {
+        "id": 29160,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/Positions\/UserAssignment\/class.ilOrgUnitUserAssignmentGUI.php",
+        "line": 243,
+        "code": "$this->lng->txt(\"lastname\")",
+        "has_variable": false,
+        "variable": "lastname"
+    },
+    {
+        "id": 29162,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/Positions\/UserAssignment\/class.ilOrgUnitUserAssignmentGUI.php",
+        "line": 245,
+        "code": "$this->lng->txt(\"active\")",
+        "has_variable": false,
+        "variable": "active"
+    },
+    {
+        "id": 29164,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/Positions\/UserAssignment\/class.ilOrgUnitUserAssignmentGUI.php",
+        "line": 254,
+        "code": "$this->lng->txt(\"obj_orgu\")",
+        "has_variable": false,
+        "variable": "obj_orgu"
+    },
+    {
+        "id": 29166,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/Positions\/UserAssignment\/class.ilOrgUnitUserAssignmentGUI.php",
+        "line": 259,
+        "code": "$this->lng->txt('remove')",
+        "has_variable": false,
+        "variable": "remove"
+    },
+    {
+        "id": 29168,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/Positions\/UserAssignment\/class.ilOrgUnitUserAssignmentGUI.php",
+        "line": 265,
+        "code": "$this->lng->txt('show_learning_progress')",
+        "has_variable": false,
+        "variable": "show_learning_progress"
+    },
+    {
+        "id": 29170,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/Positions\/UserAssignment\/class.ilOrgUnitUserAssignmentGUI.php",
+        "line": 316,
+        "code": "$this->lng->txt(\"permission_denied\")",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 29172,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/Positions\/UserAssignment\/class.ilOrgUnitUserAssignmentGUI.php",
+        "line": 330,
+        "code": "$this->lng->txt(\"user_not_found\")",
+        "has_variable": false,
+        "variable": "user_not_found"
+    },
+    {
+        "id": 29174,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/Positions\/UserAssignment\/class.ilOrgUnitUserAssignmentGUI.php",
+        "line": 337,
+        "code": "$this->lng->txt(\"user_not_found\")",
+        "has_variable": false,
+        "variable": "user_not_found"
+    },
+    {
+        "id": 29176,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/Positions\/UserAssignment\/class.ilOrgUnitUserAssignmentGUI.php",
+        "line": 344,
+        "code": "$this->lng->txt(\"users_successfuly_added\")",
+        "has_variable": false,
+        "variable": "users_successfuly_added"
+    },
+    {
+        "id": 29178,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/Positions\/UserAssignment\/class.ilOrgUnitUserAssignmentGUI.php",
+        "line": 354,
+        "code": "$this->lng->txt(\"permission_denied\")",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 29180,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/Positions\/UserAssignment\/class.ilOrgUnitUserAssignmentGUI.php",
+        "line": 359,
+        "code": "$this->lng->txt(\"user_not_found\")",
+        "has_variable": false,
+        "variable": "user_not_found"
+    },
+    {
+        "id": 29182,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/Positions\/UserAssignment\/class.ilOrgUnitUserAssignmentGUI.php",
+        "line": 366,
+        "code": "$this->lng->txt(\"user_not_found\")",
+        "has_variable": false,
+        "variable": "user_not_found"
+    },
+    {
+        "id": 29184,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/Positions\/UserAssignment\/class.ilOrgUnitUserAssignmentGUI.php",
+        "line": 373,
+        "code": "$this->lng->txt(\"users_successfuly_added\")",
+        "has_variable": false,
+        "variable": "users_successfuly_added"
+    },
+    {
+        "id": 29186,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/Positions\/class.ilOrgUnitPositionDBRepository.php",
+        "line": 366,
+        "code": "$this->lng->txt($key)",
+        "has_variable": true,
+        "variable": "$key"
+    },
+    {
+        "id": 29188,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/Positions\/class.ilOrgUnitPositionFormGUI.php",
+        "line": 67,
+        "code": "$lng->txt(self::F_TITLE)",
+        "has_variable": true,
+        "variable": "F_TITLE"
+    },
+    {
+        "id": 29190,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/Positions\/class.ilOrgUnitPositionFormGUI.php",
+        "line": 71,
+        "code": "$lng->txt(self::F_DESCRIPTION)",
+        "has_variable": true,
+        "variable": "F_DESCRIPTION"
+    },
+    {
+        "id": 29192,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/Positions\/class.ilOrgUnitPositionFormGUI.php",
+        "line": 74,
+        "code": "$lng->txt(self::F_AUTHORITIES)",
+        "has_variable": true,
+        "variable": "F_AUTHORITIES"
+    },
+    {
+        "id": 29194,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/Positions\/class.ilOrgUnitPositionFormGUI.php",
+        "line": 82,
+        "code": "$lng->txt('over')",
+        "has_variable": false,
+        "variable": "over"
+    },
+    {
+        "id": 29196,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/Positions\/class.ilOrgUnitPositionFormGUI.php",
+        "line": 84,
+        "code": "$lng->txt('over_'\n            . ilOrgUnitAuthority::OVER_EVERYONE)",
+        "has_variable": true,
+        "variable": "'over_'\n            . ilOrgUnitAuthority::OVER_EVERYONE"
+    },
+    {
+        "id": 29198,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/Positions\/class.ilOrgUnitPositionFormGUI.php",
+        "line": 92,
+        "code": "$lng->txt('scope_' . $scope)",
+        "has_variable": true,
+        "variable": "'scope_' . $scope"
+    },
+    {
+        "id": 29200,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/Positions\/class.ilOrgUnitPositionFormGUI.php",
+        "line": 96,
+        "code": "$lng->txt('scope')",
+        "has_variable": false,
+        "variable": "scope"
+    },
+    {
+        "id": 29202,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/Positions\/class.ilOrgUnitPositionFormGUI.php",
+        "line": 106,
+        "code": "$this->txt('create')",
+        "has_variable": false,
+        "variable": "create"
+    },
+    {
+        "id": 29204,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/Positions\/class.ilOrgUnitPositionFormGUI.php",
+        "line": 107,
+        "code": "$this->txt(BaseCommands::CMD_CREATE)",
+        "has_variable": true,
+        "variable": "B"
+    },
+    {
+        "id": 29206,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/Positions\/class.ilOrgUnitPositionFormGUI.php",
+        "line": 108,
+        "code": "$this->txt(BaseCommands::CMD_CANCEL)",
+        "has_variable": true,
+        "variable": "B"
+    },
+    {
+        "id": 29208,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/Positions\/class.ilOrgUnitPositionFormGUI.php",
+        "line": 110,
+        "code": "$this->txt('update')",
+        "has_variable": false,
+        "variable": "update"
+    },
+    {
+        "id": 29210,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/Positions\/class.ilOrgUnitPositionFormGUI.php",
+        "line": 111,
+        "code": "$this->txt(BaseCommands::CMD_UPDATE)",
+        "has_variable": true,
+        "variable": "B"
+    },
+    {
+        "id": 29212,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/Positions\/class.ilOrgUnitPositionFormGUI.php",
+        "line": 112,
+        "code": "$this->txt(BaseCommands::CMD_CANCEL)",
+        "has_variable": true,
+        "variable": "B"
+    },
+    {
+        "id": 29214,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/Positions\/class.ilOrgUnitPositionFormGUI.php",
+        "line": 175,
+        "code": "$this->lng->txt($key)",
+        "has_variable": true,
+        "variable": "$key"
+    },
+    {
+        "id": 29216,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/Positions\/class.ilOrgUnitPositionFormGUI.php",
+        "line": 180,
+        "code": "$this->lng->txt($key . '_info')",
+        "has_variable": true,
+        "variable": "$key . '_info'"
+    },
+    {
+        "id": 29218,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/Positions\/class.ilOrgUnitPositionGUI.php",
+        "line": 70,
+        "code": "$this->lng->txt(\"permission_denied\")",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 29220,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/Positions\/class.ilOrgUnitPositionGUI.php",
+        "line": 93,
+        "code": "$this->lng->txt('add_position')",
+        "has_variable": false,
+        "variable": "add_position"
+    },
+    {
+        "id": 29222,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/Positions\/class.ilOrgUnitPositionGUI.php",
+        "line": 114,
+        "code": "$this->lng->txt('msg_position_created')",
+        "has_variable": false,
+        "variable": "msg_position_created"
+    },
+    {
+        "id": 29224,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/Positions\/class.ilOrgUnitPositionGUI.php",
+        "line": 138,
+        "code": "$this->lng->txt('msg_position_updated')",
+        "has_variable": false,
+        "variable": "msg_position_updated"
+    },
+    {
+        "id": 29226,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/Positions\/class.ilOrgUnitPositionGUI.php",
+        "line": 158,
+        "code": "$this->lng->txt('msg_success_permission_saved')",
+        "has_variable": false,
+        "variable": "msg_success_permission_saved"
+    },
+    {
+        "id": 29228,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/Positions\/class.ilOrgUnitPositionGUI.php",
+        "line": 161,
+        "code": "$this->lng->txt('msg_success_permission_not_saved')",
+        "has_variable": false,
+        "variable": "msg_success_permission_not_saved"
+    },
+    {
+        "id": 29230,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/Positions\/class.ilOrgUnitPositionGUI.php",
+        "line": 171,
+        "code": "$this->lng->txt(\"form_title_org_default_permissions_update\")",
+        "has_variable": false,
+        "variable": "form_title_org_default_permissions_update"
+    },
+    {
+        "id": 29232,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/Positions\/class.ilOrgUnitPositionGUI.php",
+        "line": 182,
+        "code": "$this->lng->txt(\"org_op_{$operation->getOperationString()}\")",
+        "has_variable": true,
+        "variable": "org_op_{$operation->getOperationString()}"
+    },
+    {
+        "id": 29234,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/Positions\/class.ilOrgUnitPositionGUI.php",
+        "line": 217,
+        "code": "$this->lng->txt($lang_code)",
+        "has_variable": true,
+        "variable": "$lang_code"
+    },
+    {
+        "id": 29236,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/Positions\/class.ilOrgUnitPositionGUI.php",
+        "line": 252,
+        "code": "$this->lng->txt('msg_assignment_to_employee_done')",
+        "has_variable": false,
+        "variable": "msg_assignment_to_employee_done"
+    },
+    {
+        "id": 29238,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/Positions\/class.ilOrgUnitPositionGUI.php",
+        "line": 262,
+        "code": "$this->lng->txt(\"position\")",
+        "has_variable": false,
+        "variable": "position"
+    },
+    {
+        "id": 29240,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/Positions\/class.ilOrgUnitPositionGUI.php",
+        "line": 263,
+        "code": "$this->lng->txt(\"authorities\")",
+        "has_variable": false,
+        "variable": "authorities"
+    },
+    {
+        "id": 29242,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/Positions\/class.ilOrgUnitPositionGUI.php",
+        "line": 264,
+        "code": "$this->lng->txt(\"user_assignments\")",
+        "has_variable": false,
+        "variable": "user_assignments"
+    },
+    {
+        "id": 29244,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/Positions\/class.ilOrgUnitPositionGUI.php",
+        "line": 268,
+        "code": "$this->lng->txt(self::CMD_CANCEL)",
+        "has_variable": true,
+        "variable": "CMD_CANCEL"
+    },
+    {
+        "id": 29246,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/Positions\/class.ilOrgUnitPositionGUI.php",
+        "line": 269,
+        "code": "$this->lng->txt(self::CMD_DELETE)",
+        "has_variable": true,
+        "variable": "CMD_DELETE"
+    },
+    {
+        "id": 29248,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/Positions\/class.ilOrgUnitPositionGUI.php",
+        "line": 270,
+        "code": "$this->lng->txt('msg_confirm_deletion')",
+        "has_variable": false,
+        "variable": "msg_confirm_deletion"
+    },
+    {
+        "id": 29250,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/Positions\/class.ilOrgUnitPositionGUI.php",
+        "line": 305,
+        "code": "$this->lng->txt('msg_position_delete_fail')",
+        "has_variable": false,
+        "variable": "msg_position_delete_fail"
+    },
+    {
+        "id": 29252,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/Positions\/class.ilOrgUnitPositionGUI.php",
+        "line": 321,
+        "code": "$this->lng->txt('msg_deleted')",
+        "has_variable": false,
+        "variable": "msg_deleted"
+    },
+    {
+        "id": 29254,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/Positions\/class.ilOrgUnitPositionGUI.php",
+        "line": 360,
+        "code": "$this->lng->txt(\"title\")",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 29256,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/Positions\/class.ilOrgUnitPositionGUI.php",
+        "line": 361,
+        "code": "$this->lng->txt(\"description\")",
+        "has_variable": false,
+        "variable": "description"
+    },
+    {
+        "id": 29258,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/Positions\/class.ilOrgUnitPositionGUI.php",
+        "line": 362,
+        "code": "$this->lng->txt(\"authorities\")",
+        "has_variable": false,
+        "variable": "authorities"
+    },
+    {
+        "id": 29260,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/Positions\/class.ilOrgUnitPositionGUI.php",
+        "line": 368,
+        "code": "$this->lng->txt('edit')",
+        "has_variable": false,
+        "variable": "edit"
+    },
+    {
+        "id": 29262,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/Positions\/class.ilOrgUnitPositionGUI.php",
+        "line": 373,
+        "code": "$this->lng->txt('delete')",
+        "has_variable": false,
+        "variable": "delete"
+    },
+    {
+        "id": 29264,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/Positions\/class.ilOrgUnitPositionGUI.php",
+        "line": 403,
+        "code": "$lang->txt($key)",
+        "has_variable": true,
+        "variable": "$key"
+    },
+    {
+        "id": 29266,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/Provider\/OrgUnitToolProvider.php",
+        "line": 82,
+        "code": "$lng->txt(\"org_units\")",
+        "has_variable": false,
+        "variable": "org_units"
+    },
+    {
+        "id": 29268,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/Settings\/class.ilObjOrgUnitSettingsFormGUI.php",
+        "line": 68,
+        "code": "$this->lng->txt('orgu_settings')",
+        "has_variable": false,
+        "variable": "orgu_settings"
+    },
+    {
+        "id": 29270,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/Settings\/class.ilObjOrgUnitSettingsFormGUI.php",
+        "line": 70,
+        "code": "$this->lng->txt('title')",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 29272,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/Settings\/class.ilObjOrgUnitSettingsFormGUI.php",
+        "line": 75,
+        "code": "$this->lng->txt('description')",
+        "has_variable": false,
+        "variable": "description"
+    },
+    {
+        "id": 29274,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/Settings\/class.ilObjOrgUnitSettingsFormGUI.php",
+        "line": 80,
+        "code": "$this->lng->txt('orgu_type')",
+        "has_variable": false,
+        "variable": "orgu_type"
+    },
+    {
+        "id": 29276,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/Settings\/class.ilObjOrgUnitSettingsFormGUI.php",
+        "line": 89,
+        "code": "$this->lng->txt('orgu_type')",
+        "has_variable": false,
+        "variable": "orgu_type"
+    },
+    {
+        "id": 29278,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/Settings\/class.ilObjOrgUnitSettingsFormGUI.php",
+        "line": 95,
+        "code": "$this->lng->txt('ext_id')",
+        "has_variable": false,
+        "variable": "ext_id"
+    },
+    {
+        "id": 29280,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/Settings\/class.ilObjOrgUnitSettingsFormGUI.php",
+        "line": 98,
+        "code": "$this->lng->txt('ext_id')",
+        "has_variable": false,
+        "variable": "ext_id"
+    },
+    {
+        "id": 29282,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/Settings\/class.ilObjOrgUnitSettingsFormGUI.php",
+        "line": 102,
+        "code": "$this->lng->txt('save')",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 29284,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/Settings\/class.ilOrgUnitGlobalSettingsGUI.php",
+        "line": 60,
+        "code": "$this->lng->txt(\"permission_denied\")",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 29286,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/Settings\/class.ilOrgUnitGlobalSettingsGUI.php",
+        "line": 103,
+        "code": "$this->lng->txt('err_check_input')",
+        "has_variable": false,
+        "variable": "err_check_input"
+    },
+    {
+        "id": 29288,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/Settings\/class.ilOrgUnitGlobalSettingsGUI.php",
+        "line": 126,
+        "code": "$this->lng->txt('settings_saved')",
+        "has_variable": false,
+        "variable": "settings_saved"
+    },
+    {
+        "id": 29290,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/Settings\/class.ilOrgUnitGlobalSettingsGUI.php",
+        "line": 136,
+        "code": "$this->lng->txt(\"orgu_enable_my_staff\")",
+        "has_variable": false,
+        "variable": "orgu_enable_my_staff"
+    },
+    {
+        "id": 29292,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/Settings\/class.ilOrgUnitGlobalSettingsGUI.php",
+        "line": 137,
+        "code": "$this->lng->txt(\"orgu_enable_my_staff_info\")",
+        "has_variable": false,
+        "variable": "orgu_enable_my_staff_info"
+    },
+    {
+        "id": 29294,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/Settings\/class.ilOrgUnitGlobalSettingsGUI.php",
+        "line": 141,
+        "code": "$this->lng->txt(\"orgu_enable_my_staff\")",
+        "has_variable": false,
+        "variable": "orgu_enable_my_staff"
+    },
+    {
+        "id": 29296,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/Settings\/class.ilOrgUnitGlobalSettingsGUI.php",
+        "line": 158,
+        "code": "$this->lng->txt($lang_prefix . $object_type)",
+        "has_variable": true,
+        "variable": "$lang_prefix . $object_type"
+    },
+    {
+        "id": 29298,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/Settings\/class.ilOrgUnitGlobalSettingsGUI.php",
+        "line": 168,
+        "code": "$this->lng->txt('orgu_global_set_type_default')",
+        "has_variable": false,
+        "variable": "orgu_global_set_type_default"
+    },
+    {
+        "id": 29300,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/Settings\/class.ilOrgUnitGlobalSettingsGUI.php",
+        "line": 169,
+        "code": "$this->lng->txt('orgu_global_set_type_default_info')",
+        "has_variable": false,
+        "variable": "orgu_global_set_type_default_info"
+    },
+    {
+        "id": 29302,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/Settings\/class.ilOrgUnitGlobalSettingsGUI.php",
+        "line": 173,
+        "code": "$this->lng->txt('orgu_global_set_type_changeable_object')",
+        "has_variable": false,
+        "variable": "orgu_global_set_type_changeable_object"
+    },
+    {
+        "id": 29304,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/Settings\/class.ilOrgUnitGlobalSettingsGUI.php",
+        "line": 180,
+        "code": "$this->lng->txt('orgu_global_set_type_changeable_no')",
+        "has_variable": false,
+        "variable": "orgu_global_set_type_changeable_no"
+    },
+    {
+        "id": 29306,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/Settings\/class.ilOrgUnitGlobalSettingsGUI.php",
+        "line": 183,
+        "code": "$this->lng->txt('orgu_global_set_type_changeable')",
+        "has_variable": false,
+        "variable": "orgu_global_set_type_changeable"
+    },
+    {
+        "id": 29308,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/Settings\/class.ilOrgUnitGlobalSettingsGUI.php",
+        "line": 212,
+        "code": "$this->lng->txt('orgu_global_set_positions_type_active')",
+        "has_variable": false,
+        "variable": "orgu_global_set_positions_type_active"
+    },
+    {
+        "id": 29310,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/Settings\/class.ilOrgUnitGlobalSettingsGUI.php",
+        "line": 222,
+        "code": "$this->lng->txt(\"orgu_global_set_positions\")",
+        "has_variable": false,
+        "variable": "orgu_global_set_positions"
+    },
+    {
+        "id": 29312,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/SimpleImport\/class.ilOrgUnitSimpleImportGUI.php",
+        "line": 61,
+        "code": "$this->lng->txt(\"permission_denied\")",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 29314,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/SimpleImport\/class.ilOrgUnitSimpleImportGUI.php",
+        "line": 79,
+        "code": "$this->lng->txt(\"back\")",
+        "has_variable": false,
+        "variable": "back"
+    },
+    {
+        "id": 29316,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/SimpleImport\/class.ilOrgUnitSimpleImportGUI.php",
+        "line": 87,
+        "code": "$this->lng->txt(\"back\")",
+        "has_variable": false,
+        "variable": "back"
+    },
+    {
+        "id": 29318,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/SimpleImport\/class.ilOrgUnitSimpleImportGUI.php",
+        "line": 100,
+        "code": "$this->lng->txt(\"msg_no_perm_edit\")",
+        "has_variable": false,
+        "variable": "msg_no_perm_edit"
+    },
+    {
+        "id": 29320,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/SimpleImport\/class.ilOrgUnitSimpleImportGUI.php",
+        "line": 111,
+        "code": "$this->lng->txt('simple_import')",
+        "has_variable": false,
+        "variable": "simple_import"
+    },
+    {
+        "id": 29322,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/SimpleImport\/class.ilOrgUnitSimpleImportGUI.php",
+        "line": 117,
+        "code": "$this->lng->txt('simple_user_import')",
+        "has_variable": false,
+        "variable": "simple_user_import"
+    },
+    {
+        "id": 29324,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/SimpleImport\/class.ilOrgUnitSimpleImportGUI.php",
+        "line": 133,
+        "code": "$this->lng->txt(\"import_xml_file\")",
+        "has_variable": false,
+        "variable": "import_xml_file"
+    },
+    {
+        "id": 29326,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/SimpleImport\/class.ilOrgUnitSimpleImportGUI.php",
+        "line": 138,
+        "code": "$this->lng->txt(\"import\")",
+        "has_variable": false,
+        "variable": "import"
+    },
+    {
+        "id": 29328,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/SimpleImport\/class.ilOrgUnitSimpleImportGUI.php",
+        "line": 175,
+        "code": "$this->lng->txt(\"import_failed\")",
+        "has_variable": false,
+        "variable": "import_failed"
+    },
+    {
+        "id": 29330,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/SimpleImport\/class.ilOrgUnitSimpleImportGUI.php",
+        "line": 191,
+        "code": "$this->lng->txt(\"import_successful\")",
+        "has_variable": false,
+        "variable": "import_successful"
+    },
+    {
+        "id": 29332,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/SimpleImport\/class.ilOrgUnitSimpleImportGUI.php",
+        "line": 196,
+        "code": "$this->lng->txt(\"import_terminated_with_warnings\")",
+        "has_variable": false,
+        "variable": "import_terminated_with_warnings"
+    },
+    {
+        "id": 29334,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/SimpleImport\/class.ilOrgUnitSimpleImportGUI.php",
+        "line": 198,
+        "code": "$this->lng->txt($warning[\"lang_var\"])",
+        "has_variable": true,
+        "variable": "_"
+    },
+    {
+        "id": 29336,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/SimpleImport\/class.ilOrgUnitSimpleImportGUI.php",
+        "line": 203,
+        "code": "$this->lng->txt(\"import_terminated_with_errors\")",
+        "has_variable": false,
+        "variable": "import_terminated_with_errors"
+    },
+    {
+        "id": 29338,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/SimpleImport\/class.ilOrgUnitSimpleImportGUI.php",
+        "line": 205,
+        "code": "$this->lng->txt($warning[\"lang_var\"])",
+        "has_variable": true,
+        "variable": "_"
+    },
+    {
+        "id": 29340,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/SimpleUserImport\/class.ilOrgUnitSimpleUserImportGUI.php",
+        "line": 52,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 29342,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/SimpleUserImport\/class.ilOrgUnitSimpleUserImportGUI.php",
+        "line": 62,
+        "code": "$this->lng->txt(\"back\")",
+        "has_variable": false,
+        "variable": "back"
+    },
+    {
+        "id": 29344,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/SimpleUserImport\/class.ilOrgUnitSimpleUserImportGUI.php",
+        "line": 87,
+        "code": "$this->lng->txt('import_xml_file')",
+        "has_variable": false,
+        "variable": "import_xml_file"
+    },
+    {
+        "id": 29346,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/SimpleUserImport\/class.ilOrgUnitSimpleUserImportGUI.php",
+        "line": 91,
+        "code": "$this->lng->txt('import')",
+        "has_variable": false,
+        "variable": "import"
+    },
+    {
+        "id": 29348,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/SimpleUserImport\/class.ilOrgUnitSimpleUserImportGUI.php",
+        "line": 108,
+        "code": "$this->lng->txt('import_failed')",
+        "has_variable": false,
+        "variable": "import_failed"
+    },
+    {
+        "id": 29350,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/SimpleUserImport\/class.ilOrgUnitSimpleUserImportGUI.php",
+        "line": 121,
+        "code": "$this->lng->txt('user_import_successful')",
+        "has_variable": false,
+        "variable": "user_import_successful"
+    },
+    {
+        "id": 29352,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/SimpleUserImport\/class.ilOrgUnitSimpleUserImportGUI.php",
+        "line": 126,
+        "code": "$this->lng->txt('import_terminated_with_warnings')",
+        "has_variable": false,
+        "variable": "import_terminated_with_warnings"
+    },
+    {
+        "id": 29354,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/SimpleUserImport\/class.ilOrgUnitSimpleUserImportGUI.php",
+        "line": 128,
+        "code": "$this->lng->txt($warning['lang_var'])",
+        "has_variable": true,
+        "variable": "_"
+    },
+    {
+        "id": 29356,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/SimpleUserImport\/class.ilOrgUnitSimpleUserImportGUI.php",
+        "line": 133,
+        "code": "$this->lng->txt('import_terminated_with_errors')",
+        "has_variable": false,
+        "variable": "import_terminated_with_errors"
+    },
+    {
+        "id": 29358,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/SimpleUserImport\/class.ilOrgUnitSimpleUserImportGUI.php",
+        "line": 135,
+        "code": "$this->lng->txt($warning['lang_var'])",
+        "has_variable": true,
+        "variable": "_"
+    },
+    {
+        "id": 29360,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/Types\/class.ilOrgUnitType.php",
+        "line": 121,
+        "code": "$this->lng->txt('orgu_type_msg_missing_title_default_language')",
+        "has_variable": false,
+        "variable": "orgu_type_msg_missing_title_default_language"
+    },
+    {
+        "id": 29362,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/Types\/class.ilOrgUnitType.php",
+        "line": 151,
+        "code": "$this->lng->txt('orgu_type_msg_missing_title')",
+        "has_variable": false,
+        "variable": "orgu_type_msg_missing_title"
+    },
+    {
+        "id": 29364,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/Types\/class.ilOrgUnitType.php",
+        "line": 164,
+        "code": "$this->lng->txt('orgu_type_msg_updating_prevented')",
+        "has_variable": false,
+        "variable": "orgu_type_msg_updating_prevented"
+    },
+    {
+        "id": 29366,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/Types\/class.ilOrgUnitType.php",
+        "line": 212,
+        "code": "$this->lng->txt('orgu_type_msg_unable_delete')",
+        "has_variable": false,
+        "variable": "orgu_type_msg_unable_delete"
+    },
+    {
+        "id": 29368,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/Types\/class.ilOrgUnitType.php",
+        "line": 227,
+        "code": "$this->lng->txt('orgu_type_msg_deletion_prevented')",
+        "has_variable": false,
+        "variable": "orgu_type_msg_deletion_prevented"
+    },
+    {
+        "id": 29370,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/Types\/class.ilOrgUnitType.php",
+        "line": 449,
+        "code": "$this->lng->txt('orgu_type_msg_assign_amd_prevented')",
+        "has_variable": false,
+        "variable": "orgu_type_msg_assign_amd_prevented"
+    },
+    {
+        "id": 29372,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/Types\/class.ilOrgUnitType.php",
+        "line": 486,
+        "code": "$this->lng->txt('orgu_type_msg_deassign_amd_prevented')",
+        "has_variable": false,
+        "variable": "orgu_type_msg_deassign_amd_prevented"
+    },
+    {
+        "id": 29374,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/Types\/class.ilOrgUnitType.php",
+        "line": 552,
+        "code": "$this->lng->txt('orgu_type_msg_title_already_exists')",
+        "has_variable": false,
+        "variable": "orgu_type_msg_title_already_exists"
+    },
+    {
+        "id": 29376,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/Types\/class.ilOrgUnitType.php",
+        "line": 573,
+        "code": "$this->lng->txt('orgu_type_msg_setting_member_prevented')",
+        "has_variable": false,
+        "variable": "orgu_type_msg_setting_member_prevented"
+    },
+    {
+        "id": 29378,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/Types\/class.ilOrgUnitType.php",
+        "line": 751,
+        "code": "$this->lng->txt('orgu_type_msg_setting_default_lang_prevented')",
+        "has_variable": false,
+        "variable": "orgu_type_msg_setting_default_lang_prevented"
+    },
+    {
+        "id": 29380,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/Types\/class.ilOrgUnitTypeCustomIconsFormGUI.php",
+        "line": 65,
+        "code": "$this->lng->txt('orgu_type_custom_icon')",
+        "has_variable": false,
+        "variable": "orgu_type_custom_icon"
+    },
+    {
+        "id": 29382,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/Types\/class.ilOrgUnitTypeCustomIconsFormGUI.php",
+        "line": 66,
+        "code": "$this->lng->txt('icon')",
+        "has_variable": false,
+        "variable": "icon"
+    },
+    {
+        "id": 29384,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/Types\/class.ilOrgUnitTypeCustomIconsFormGUI.php",
+        "line": 68,
+        "code": "$this->lng->txt('orgu_type_custom_icon_info')",
+        "has_variable": false,
+        "variable": "orgu_type_custom_icon_info"
+    },
+    {
+        "id": 29386,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/Types\/class.ilOrgUnitTypeCustomIconsFormGUI.php",
+        "line": 73,
+        "code": "$this->lng->txt('save')",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 29388,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/Types\/class.ilOrgUnitTypeCustomIconsFormGUI.php",
+        "line": 101,
+        "code": "$this->lng->txt('orgu_type_msg_error_custom_icon')",
+        "has_variable": false,
+        "variable": "orgu_type_msg_error_custom_icon"
+    },
+    {
+        "id": 29390,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/Types\/class.ilOrgUnitTypeGUI.php",
+        "line": 166,
+        "code": "$this->lng->txt(\"permission_denied\")",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 29392,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/Types\/class.ilOrgUnitTypeGUI.php",
+        "line": 179,
+        "code": "$this->lng->txt('meta_general')",
+        "has_variable": false,
+        "variable": "meta_general"
+    },
+    {
+        "id": 29394,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/Types\/class.ilOrgUnitTypeGUI.php",
+        "line": 186,
+        "code": "$this->lng->txt('icon_settings')",
+        "has_variable": false,
+        "variable": "icon_settings"
+    },
+    {
+        "id": 29396,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/Types\/class.ilOrgUnitTypeGUI.php",
+        "line": 193,
+        "code": "$this->lng->txt('md_advanced')",
+        "has_variable": false,
+        "variable": "md_advanced"
+    },
+    {
+        "id": 29398,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/Types\/class.ilOrgUnitTypeGUI.php",
+        "line": 208,
+        "code": "$this->lng->txt('icon')",
+        "has_variable": false,
+        "variable": "icon"
+    },
+    {
+        "id": 29400,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/Types\/class.ilOrgUnitTypeGUI.php",
+        "line": 209,
+        "code": "$this->lng->txt('file_allowed_suffixes')",
+        "has_variable": false,
+        "variable": "file_allowed_suffixes"
+    },
+    {
+        "id": 29402,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/Types\/class.ilOrgUnitTypeGUI.php",
+        "line": 218,
+        "code": "$this->lng->txt('orgu_type_custom_icon')",
+        "has_variable": false,
+        "variable": "orgu_type_custom_icon"
+    },
+    {
+        "id": 29404,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/Types\/class.ilOrgUnitTypeGUI.php",
+        "line": 219,
+        "code": "$this->lng->txt('orgu_type_custom_icon_info')",
+        "has_variable": false,
+        "variable": "orgu_type_custom_icon_info"
+    },
+    {
+        "id": 29406,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/Types\/class.ilOrgUnitTypeGUI.php",
+        "line": 267,
+        "code": "$this->lng->txt('msg_obj_modified')",
+        "has_variable": false,
+        "variable": "msg_obj_modified"
+    },
+    {
+        "id": 29408,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/Types\/class.ilOrgUnitTypeGUI.php",
+        "line": 327,
+        "code": "$this->lng->txt('orgu_type_available_amd_sets')",
+        "has_variable": false,
+        "variable": "orgu_type_available_amd_sets"
+    },
+    {
+        "id": 29410,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/Types\/class.ilOrgUnitTypeGUI.php",
+        "line": 334,
+        "code": "$this->lng->txt('orgu_type_assign_amd_sets')",
+        "has_variable": false,
+        "variable": "orgu_type_assign_amd_sets"
+    },
+    {
+        "id": 29412,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/Types\/class.ilOrgUnitTypeGUI.php",
+        "line": 380,
+        "code": "$this->lng->txt('msg_obj_modified')",
+        "has_variable": false,
+        "variable": "msg_obj_modified"
+    },
+    {
+        "id": 29414,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/Types\/class.ilOrgUnitTypeGUI.php",
+        "line": 383,
+        "code": "$this->lng->txt('error')",
+        "has_variable": false,
+        "variable": "error"
+    },
+    {
+        "id": 29416,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/Types\/class.ilOrgUnitTypeGUI.php",
+        "line": 395,
+        "code": "$this->lng->txt('orgu_type_add')",
+        "has_variable": false,
+        "variable": "orgu_type_add"
+    },
+    {
+        "id": 29418,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/Types\/class.ilOrgUnitTypeGUI.php",
+        "line": 410,
+        "code": "$this->lng->txt(\"title\")",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 29420,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/Types\/class.ilOrgUnitTypeGUI.php",
+        "line": 411,
+        "code": "$this->lng->txt(\"description\")",
+        "has_variable": false,
+        "variable": "description"
+    },
+    {
+        "id": 29422,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/Types\/class.ilOrgUnitTypeGUI.php",
+        "line": 412,
+        "code": "$this->lng->txt(\"default_language\")",
+        "has_variable": false,
+        "variable": "default_language"
+    },
+    {
+        "id": 29424,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/Types\/class.ilOrgUnitTypeGUI.php",
+        "line": 413,
+        "code": "$this->lng->txt(\"icon\")",
+        "has_variable": false,
+        "variable": "icon"
+    },
+    {
+        "id": 29426,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/Types\/class.ilOrgUnitTypeGUI.php",
+        "line": 419,
+        "code": "$this->lng->txt('edit')",
+        "has_variable": false,
+        "variable": "edit"
+    },
+    {
+        "id": 29428,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/Types\/class.ilOrgUnitTypeGUI.php",
+        "line": 424,
+        "code": "$this->lng->txt('delete')",
+        "has_variable": false,
+        "variable": "delete"
+    },
+    {
+        "id": 29430,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/Types\/class.ilOrgUnitTypeGUI.php",
+        "line": 505,
+        "code": "$this->lng->txt('orgu_type_add')",
+        "has_variable": false,
+        "variable": "orgu_type_add"
+    },
+    {
+        "id": 29432,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/Types\/class.ilOrgUnitTypeGUI.php",
+        "line": 508,
+        "code": "$this->lng->txt('orgu_type_edit')",
+        "has_variable": false,
+        "variable": "orgu_type_edit"
+    },
+    {
+        "id": 29434,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/Types\/class.ilOrgUnitTypeGUI.php",
+        "line": 515,
+        "code": "$this->lng->txt(\"meta_l_{$lang_code}\")",
+        "has_variable": true,
+        "variable": "meta_l_{$lang_code}"
+    },
+    {
+        "id": 29436,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/Types\/class.ilOrgUnitTypeGUI.php",
+        "line": 519,
+        "code": "$this->lng->txt('title')",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 29438,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/Types\/class.ilOrgUnitTypeGUI.php",
+        "line": 521,
+        "code": "$this->lng->txt('description')",
+        "has_variable": false,
+        "variable": "description"
+    },
+    {
+        "id": 29440,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/Types\/class.ilOrgUnitTypeGUI.php",
+        "line": 531,
+        "code": "$this->lng->txt('default_language')",
+        "has_variable": false,
+        "variable": "default_language"
+    },
+    {
+        "id": 29442,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/Types\/class.ilOrgUnitTypeGUI.php",
+        "line": 589,
+        "code": "$this->lng->txt('msg_obj_modified')",
+        "has_variable": false,
+        "variable": "msg_obj_modified"
+    },
+    {
+        "id": 29444,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/Types\/class.ilOrgUnitTypeGUI.php",
+        "line": 605,
+        "code": "$this->lng->txt('orgu_type_msg_deleted')",
+        "has_variable": false,
+        "variable": "orgu_type_msg_deleted"
+    },
+    {
+        "id": 29446,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/class.ilCronUpdateOrgUnitPaths.php",
+        "line": 51,
+        "code": "$this->lng->txt(\"update_orgunits\")",
+        "has_variable": false,
+        "variable": "update_orgunits"
+    },
+    {
+        "id": 29448,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/class.ilCronUpdateOrgUnitPaths.php",
+        "line": 56,
+        "code": "$this->lng->txt(\"update_orgunits_desc\")",
+        "has_variable": false,
+        "variable": "update_orgunits_desc"
+    },
+    {
+        "id": 29450,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/class.ilObjOrgUnit.php",
+        "line": 374,
+        "code": "$this->lng->txt(\"objs_orgu\")",
+        "has_variable": false,
+        "variable": "objs_orgu"
+    },
+    {
+        "id": 29452,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/class.ilObjOrgUnit.php",
+        "line": 384,
+        "code": "$this->lng->txt(\"obj_orgu_description\")",
+        "has_variable": false,
+        "variable": "obj_orgu_description"
+    },
+    {
+        "id": 29454,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/class.ilObjOrgUnitGUI.php",
+        "line": 111,
+        "code": "$this->lng->txt(\"permission_denied\")",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 29456,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/class.ilObjOrgUnitGUI.php",
+        "line": 136,
+        "code": "$this->lng->txt(\"back\")",
+        "has_variable": false,
+        "variable": "back"
+    },
+    {
+        "id": 29458,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/class.ilObjOrgUnitGUI.php",
+        "line": 146,
+        "code": "$this->lng->txt(\"back\")",
+        "has_variable": false,
+        "variable": "back"
+    },
+    {
+        "id": 29460,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/class.ilObjOrgUnitGUI.php",
+        "line": 157,
+        "code": "$this->lng->txt(\"back\")",
+        "has_variable": false,
+        "variable": "back"
+    },
+    {
+        "id": 29462,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/class.ilObjOrgUnitGUI.php",
+        "line": 178,
+        "code": "$this->lng->txt(\"back\")",
+        "has_variable": false,
+        "variable": "back"
+    },
+    {
+        "id": 29464,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/class.ilObjOrgUnitGUI.php",
+        "line": 191,
+        "code": "$this->lng->txt(\"msg_no_perm_read\")",
+        "has_variable": false,
+        "variable": "msg_no_perm_read"
+    },
+    {
+        "id": 29466,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/class.ilObjOrgUnitGUI.php",
+        "line": 218,
+        "code": "$this->lng->txt('backto_staff')",
+        "has_variable": false,
+        "variable": "backto_staff"
+    },
+    {
+        "id": 29468,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/class.ilObjOrgUnitGUI.php",
+        "line": 228,
+        "code": "$this->lng->txt(\"permission_denied\")",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 29470,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/class.ilObjOrgUnitGUI.php",
+        "line": 243,
+        "code": "$this->lng->txt(\"permission_denied\")",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 29472,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/class.ilObjOrgUnitGUI.php",
+        "line": 325,
+        "code": "$this->lng->txt(\"back\")",
+        "has_variable": false,
+        "variable": "back"
+    },
+    {
+        "id": 29474,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/class.ilObjOrgUnitGUI.php",
+        "line": 333,
+        "code": "$this->lng->txt(\"back\")",
+        "has_variable": false,
+        "variable": "back"
+    },
+    {
+        "id": 29476,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/class.ilObjOrgUnitGUI.php",
+        "line": 379,
+        "code": "$this->lng->txt(\"object_added\")",
+        "has_variable": false,
+        "variable": "object_added"
+    },
+    {
+        "id": 29478,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/class.ilObjOrgUnitGUI.php",
+        "line": 392,
+        "code": "$this->lng->txt(\"msg_no_perm_read\")",
+        "has_variable": false,
+        "variable": "msg_no_perm_read"
+    },
+    {
+        "id": 29480,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/class.ilObjOrgUnitGUI.php",
+        "line": 396,
+        "code": "$this->lng->txt(\"msg_no_perm_read\")",
+        "has_variable": false,
+        "variable": "msg_no_perm_read"
+    },
+    {
+        "id": 29482,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/class.ilObjOrgUnitGUI.php",
+        "line": 435,
+        "code": "$this->lng->txt('other')",
+        "has_variable": false,
+        "variable": "other"
+    },
+    {
+        "id": 29484,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/class.ilObjOrgUnitGUI.php",
+        "line": 465,
+        "code": "$this->lng->txt(\"objs_orgu\")",
+        "has_variable": false,
+        "variable": "objs_orgu"
+    },
+    {
+        "id": 29486,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/class.ilObjOrgUnitGUI.php",
+        "line": 466,
+        "code": "$this->lng->txt(\"objs_orgu\")",
+        "has_variable": false,
+        "variable": "objs_orgu"
+    },
+    {
+        "id": 29488,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/class.ilObjOrgUnitGUI.php",
+        "line": 474,
+        "code": "$this->lng->txt(\"obj_\" . $this->object->getType())",
+        "has_variable": true,
+        "variable": "\"obj_\" . $this->object->getType()"
+    },
+    {
+        "id": 29490,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/class.ilObjOrgUnitGUI.php",
+        "line": 485,
+        "code": "$this->lng->txt(\"objs_orgu\")",
+        "has_variable": false,
+        "variable": "objs_orgu"
+    },
+    {
+        "id": 29492,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/class.ilObjOrgUnitGUI.php",
+        "line": 516,
+        "code": "$this->lng->txt(\"content\")",
+        "has_variable": false,
+        "variable": "content"
+    },
+    {
+        "id": 29494,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/class.ilObjOrgUnitGUI.php",
+        "line": 531,
+        "code": "$this->lng->txt(self::TAB_STAFF)",
+        "has_variable": true,
+        "variable": "TAB_STAFF"
+    },
+    {
+        "id": 29496,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/class.ilObjOrgUnitGUI.php",
+        "line": 541,
+        "code": "$this->lng->txt(self::TAB_SETTINGS)",
+        "has_variable": true,
+        "variable": "TAB_SETTINGS"
+    },
+    {
+        "id": 29498,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/class.ilObjOrgUnitGUI.php",
+        "line": 548,
+        "code": "$this->lng->txt(\"administrate_users\")",
+        "has_variable": false,
+        "variable": "administrate_users"
+    },
+    {
+        "id": 29500,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/class.ilObjOrgUnitGUI.php",
+        "line": 561,
+        "code": "$this->lng->txt('settings')",
+        "has_variable": false,
+        "variable": "settings"
+    },
+    {
+        "id": 29502,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/class.ilObjOrgUnitGUI.php",
+        "line": 569,
+        "code": "$this->lng->txt(self::TAB_EXPORT)",
+        "has_variable": true,
+        "variable": "TAB_EXPORT"
+    },
+    {
+        "id": 29504,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/class.ilObjOrgUnitGUI.php",
+        "line": 580,
+        "code": "$this->lng->txt(self::TAB_ORGU_TYPES)",
+        "has_variable": true,
+        "variable": "TAB_ORGU_TYPES"
+    },
+    {
+        "id": 29506,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/class.ilObjOrgUnitGUI.php",
+        "line": 587,
+        "code": "$this->lng->txt(self::TAB_POSITIONS)",
+        "has_variable": true,
+        "variable": "TAB_POSITIONS"
+    },
+    {
+        "id": 29508,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/class.ilObjOrgUnitGUI.php",
+        "line": 603,
+        "code": "$this->lng->txt(self::TAB_SETTINGS)",
+        "has_variable": true,
+        "variable": "TAB_SETTINGS"
+    },
+    {
+        "id": 29510,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/class.ilObjOrgUnitGUI.php",
+        "line": 608,
+        "code": "$this->lng->txt(\"obj_multilinguality\")",
+        "has_variable": false,
+        "variable": "obj_multilinguality"
+    },
+    {
+        "id": 29512,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/class.ilObjOrgUnitGUI.php",
+        "line": 617,
+        "code": "$this->lng->txt('orgu_adv_settings')",
+        "has_variable": false,
+        "variable": "orgu_adv_settings"
+    },
+    {
+        "id": 29514,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/class.ilObjOrgUnitGUI.php",
+        "line": 654,
+        "code": "$this->lng->txt(\"import\")",
+        "has_variable": false,
+        "variable": "import"
+    },
+    {
+        "id": 29516,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/class.ilObjOrgUnitGUI.php",
+        "line": 667,
+        "code": "$this->lng->txt('save')",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 29518,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/class.ilObjOrgUnitGUI.php",
+        "line": 668,
+        "code": "$this->lng->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 29520,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/class.ilObjOrgUnitGUI.php",
+        "line": 679,
+        "code": "$this->lng->txt(\"permission_denied\")",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 29522,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/class.ilObjOrgUnitGUI.php",
+        "line": 701,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 29524,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/class.ilObjOrgUnitGUI.php",
+        "line": 717,
+        "code": "$this->lng->txt('settings_saved')",
+        "has_variable": false,
+        "variable": "settings_saved"
+    },
+    {
+        "id": 29526,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/class.ilObjOrgUnitGUI.php",
+        "line": 727,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 29528,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/class.ilObjOrgUnitGUI.php",
+        "line": 737,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 29530,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/class.ilObjOrgUnitGUI.php",
+        "line": 742,
+        "code": "$this->lng->txt('msg_obj_modified')",
+        "has_variable": false,
+        "variable": "msg_obj_modified"
+    },
+    {
+        "id": 29532,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/class.ilObjOrgUnitGUI.php",
+        "line": 822,
+        "code": "$this->lng->txt(\"info_deleted\")",
+        "has_variable": false,
+        "variable": "info_deleted"
+    },
+    {
+        "id": 29534,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/class.ilObjOrgUnitListGUI.php",
+        "line": 87,
+        "code": "$this->lng->txt(\"info_short\")",
+        "has_variable": false,
+        "variable": "info_short"
+    },
+    {
+        "id": 29536,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/class.ilOrgUnitExplorerGUI.php",
+        "line": 68,
+        "code": "$this->lng->txt('objs_orgu')",
+        "has_variable": false,
+        "variable": "objs_orgu"
+    },
+    {
+        "id": 29538,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/class.ilOrgUnitExportOptionXLS.php",
+        "line": 59,
+        "code": "$this->lng->txt('exp_format_dropdown-xls')",
+        "has_variable": false,
+        "variable": "exp_format_dropdown-xls"
+    },
+    {
+        "id": 29540,
+        "file": "components\/ILIAS\/OrgUnit\/classes\/class.ilOrgUnitExportOptionXML.php",
+        "line": 65,
+        "code": "$this->lng->txt('simple_xml')",
+        "has_variable": false,
+        "variable": "simple_xml"
+    }
+]

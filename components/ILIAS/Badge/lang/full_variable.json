@@ -1,0 +1,31 @@
+{
+    "metadata": {
+        "type": "full",
+        "count": 2,
+        "description": "Variable usages without detectable prefixes or suffixes (pure variable references without static strings)"
+    },
+    "matches": [
+        {
+            "id": 2592,
+            "file": "components\/ILIAS\/Badge\/classes\/ModalBuilder.php",
+            "line": 115,
+            "code": "$this->lng->txt($lang_var)",
+            "variable": "$lang_var",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 2604,
+            "file": "components\/ILIAS\/Badge\/classes\/Tile.php",
+            "line": 219,
+            "code": "$this->txt($active ? 'badge_remove_from_profile' : 'badge_add_to_profile')",
+            "variable": "_",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        }
+    ]
+}

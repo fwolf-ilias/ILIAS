@@ -1,0 +1,119 @@
+{
+    "metadata": {
+        "type": "full",
+        "count": 10,
+        "description": "Variable usages without detectable prefixes or suffixes (pure variable references without static strings)"
+    },
+    "matches": [
+        {
+            "id": 34228,
+            "file": "components\/ILIAS\/Skill\/Level\/class.ilSkillLevelTableGUI.php",
+            "line": 177,
+            "code": "$this->lng->txt($robj_type)",
+            "variable": "$robj_type",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 34364,
+            "file": "components\/ILIAS\/Skill\/Node\/class.ilSkillCatTableGUI.php",
+            "line": 100,
+            "code": "$this->lng->txt(\"\")",
+            "variable": "",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 34564,
+            "file": "components\/ILIAS\/Skill\/Personal\/class.ilPersonalSkillExplorerGUI.php",
+            "line": 266,
+            "code": "$lng->txt($a_node[\"type\"])",
+            "variable": "_",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 34694,
+            "file": "components\/ILIAS\/Skill\/Personal\/class.ilPersonalSkillsGUI.php",
+            "line": 1734,
+            "code": "$lng->txt(ilObject::_lookupType($mat_data[2]))",
+            "variable": "O",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 34728,
+            "file": "components\/ILIAS\/Skill\/Personal\/class.ilPersonalSkillsGUI.php",
+            "line": 2266,
+            "code": "$lng->txt(ilObject::_lookupType($obj_id))",
+            "variable": "O",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 34746,
+            "file": "components\/ILIAS\/Skill\/Personal\/class.ilPersonalSkillsGUI.php",
+            "line": 2327,
+            "code": "$lng->txt(ilObject::_lookupType($obj_id))",
+            "variable": "O",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 34900,
+            "file": "components\/ILIAS\/Skill\/Table\/classes\/class.AssignedObjectsTable.php",
+            "line": 160,
+            "code": "$this->lng->txt($obj_type)",
+            "variable": "$obj_type",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 34964,
+            "file": "components\/ILIAS\/Skill\/Table\/classes\/class.LevelResourcesTable.php",
+            "line": 341,
+            "code": "$this->lng->txt($obj_type)",
+            "variable": "$obj_type",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 35086,
+            "file": "components\/ILIAS\/Skill\/Tree\/class.ilSkillTemplateTreeExplorerGUI.php",
+            "line": 208,
+            "code": "$lng->txt($a_node[\"type\"])",
+            "variable": "_",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 35096,
+            "file": "components\/ILIAS\/Skill\/Tree\/class.ilVirtualSkillTreeExplorerGUI.php",
+            "line": 227,
+            "code": "$lng->txt($a_node[\"type\"])",
+            "variable": "_",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        }
+    ]
+}

@@ -1,0 +1,842 @@
+[
+    {
+        "id": 21232,
+        "file": "components\/ILIAS\/Init\/classes\/class.ilInitialisation.php",
+        "line": 1462,
+        "code": "->withBody(Streams::ofString($DIC->language()->txt('init_error_authentication_fail')",
+        "has_variable": false,
+        "variable": "init_error_authentication_fail"
+    },
+    {
+        "id": 21234,
+        "file": "components\/ILIAS\/Init\/classes\/class.ilInitialisation.php",
+        "line": 1799,
+        "code": "$lng->txt($a_message_id)",
+        "has_variable": true,
+        "variable": "$a_message_id"
+    },
+    {
+        "id": 21236,
+        "file": "components\/ILIAS\/Init\/classes\/class.ilPasswordAssistanceGUI.php",
+        "line": 107,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 21238,
+        "file": "components\/ILIAS\/Init\/classes\/class.ilPasswordAssistanceGUI.php",
+        "line": 111,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 21240,
+        "file": "components\/ILIAS\/Init\/classes\/class.ilPasswordAssistanceGUI.php",
+        "line": 173,
+        "code": "$this->lng->txt('email_not_valid')",
+        "has_variable": false,
+        "variable": "email_not_valid"
+    },
+    {
+        "id": 21242,
+        "file": "components\/ILIAS\/Init\/classes\/class.ilPasswordAssistanceGUI.php",
+        "line": 216,
+        "code": "$this->lng->txt('username')",
+        "has_variable": false,
+        "variable": "username"
+    },
+    {
+        "id": 21244,
+        "file": "components\/ILIAS\/Init\/classes\/class.ilPasswordAssistanceGUI.php",
+        "line": 220,
+        "code": "$this->lng->txt('email')",
+        "has_variable": false,
+        "variable": "email"
+    },
+    {
+        "id": 21246,
+        "file": "components\/ILIAS\/Init\/classes\/class.ilPasswordAssistanceGUI.php",
+        "line": 225,
+        "code": "$this->lng->txt('password_assistance')",
+        "has_variable": false,
+        "variable": "password_assistance"
+    },
+    {
+        "id": 21248,
+        "file": "components\/ILIAS\/Init\/classes\/class.ilPasswordAssistanceGUI.php",
+        "line": 230,
+        "code": "$this->lng->txt('submit')",
+        "has_variable": false,
+        "variable": "submit"
+    },
+    {
+        "id": 21250,
+        "file": "components\/ILIAS\/Init\/classes\/class.ilPasswordAssistanceGUI.php",
+        "line": 240,
+        "code": "$this->lng->txt('password_assistance')",
+        "has_variable": false,
+        "variable": "password_assistance"
+    },
+    {
+        "id": 21252,
+        "file": "components\/ILIAS\/Init\/classes\/class.ilPasswordAssistanceGUI.php",
+        "line": 245,
+        "code": "$this->lng->txt('password_assistance')",
+        "has_variable": false,
+        "variable": "password_assistance"
+    },
+    {
+        "id": 21254,
+        "file": "components\/ILIAS\/Init\/classes\/class.ilPasswordAssistanceGUI.php",
+        "line": 257,
+        "code": "$this->lng->txt('pwassist_enter_username_and_email')",
+        "has_variable": false,
+        "variable": "pwassist_enter_username_and_email"
+    },
+    {
+        "id": 21256,
+        "file": "components\/ILIAS\/Init\/classes\/class.ilPasswordAssistanceGUI.php",
+        "line": 291,
+        "code": "$this->lng->txt('form_input_not_valid')",
+        "has_variable": false,
+        "variable": "form_input_not_valid"
+    },
+    {
+        "id": 21258,
+        "file": "components\/ILIAS\/Init\/classes\/class.ilPasswordAssistanceGUI.php",
+        "line": 375,
+        "code": "$this->lng->txt('pwassist_mail_sent')",
+        "has_variable": false,
+        "variable": "pwassist_mail_sent"
+    },
+    {
+        "id": 21260,
+        "file": "components\/ILIAS\/Init\/classes\/class.ilPasswordAssistanceGUI.php",
+        "line": 420,
+        "code": "$this->lng->txt('pwassist_mail_subject')",
+        "has_variable": false,
+        "variable": "pwassist_mail_subject"
+    },
+    {
+        "id": 21262,
+        "file": "components\/ILIAS\/Init\/classes\/class.ilPasswordAssistanceGUI.php",
+        "line": 426,
+        "code": "$this->lng->txt('pwassist_mail_body')",
+        "has_variable": false,
+        "variable": "pwassist_mail_body"
+    },
+    {
+        "id": 21264,
+        "file": "components\/ILIAS\/Init\/classes\/class.ilPasswordAssistanceGUI.php",
+        "line": 462,
+        "code": "$this->lng->txt('username')",
+        "has_variable": false,
+        "variable": "username"
+    },
+    {
+        "id": 21266,
+        "file": "components\/ILIAS\/Init\/classes\/class.ilPasswordAssistanceGUI.php",
+        "line": 467,
+        "code": "$this->lng->txt('password')",
+        "has_variable": false,
+        "variable": "password"
+    },
+    {
+        "id": 21268,
+        "file": "components\/ILIAS\/Init\/classes\/class.ilPasswordAssistanceGUI.php",
+        "line": 501,
+        "code": "$this->lng->txt('password_assistance')",
+        "has_variable": false,
+        "variable": "password_assistance"
+    },
+    {
+        "id": 21270,
+        "file": "components\/ILIAS\/Init\/classes\/class.ilPasswordAssistanceGUI.php",
+        "line": 506,
+        "code": "$this->lng->txt('submit')",
+        "has_variable": false,
+        "variable": "submit"
+    },
+    {
+        "id": 21272,
+        "file": "components\/ILIAS\/Init\/classes\/class.ilPasswordAssistanceGUI.php",
+        "line": 535,
+        "code": "$this->lng->txt('pwassist_session_expired')",
+        "has_variable": false,
+        "variable": "pwassist_session_expired"
+    },
+    {
+        "id": 21274,
+        "file": "components\/ILIAS\/Init\/classes\/class.ilPasswordAssistanceGUI.php",
+        "line": 543,
+        "code": "$this->lng->txt('pwassist_session_expired')",
+        "has_variable": false,
+        "variable": "pwassist_session_expired"
+    },
+    {
+        "id": 21276,
+        "file": "components\/ILIAS\/Init\/classes\/class.ilPasswordAssistanceGUI.php",
+        "line": 549,
+        "code": "$this->lng->txt('password_assistance')",
+        "has_variable": false,
+        "variable": "password_assistance"
+    },
+    {
+        "id": 21278,
+        "file": "components\/ILIAS\/Init\/classes\/class.ilPasswordAssistanceGUI.php",
+        "line": 554,
+        "code": "$this->lng->txt('password_assistance')",
+        "has_variable": false,
+        "variable": "password_assistance"
+    },
+    {
+        "id": 21280,
+        "file": "components\/ILIAS\/Init\/classes\/class.ilPasswordAssistanceGUI.php",
+        "line": 561,
+        "code": "$this->lng->txt('pwassist_enter_username_and_new_password')",
+        "has_variable": false,
+        "variable": "pwassist_enter_username_and_new_password"
+    },
+    {
+        "id": 21282,
+        "file": "components\/ILIAS\/Init\/classes\/class.ilPasswordAssistanceGUI.php",
+        "line": 592,
+        "code": "$this->lng->txt('form_input_not_valid')",
+        "has_variable": false,
+        "variable": "form_input_not_valid"
+    },
+    {
+        "id": 21284,
+        "file": "components\/ILIAS\/Init\/classes\/class.ilPasswordAssistanceGUI.php",
+        "line": 607,
+        "code": "$this->lng->txt('pwassist_session_expired')",
+        "has_variable": false,
+        "variable": "pwassist_session_expired"
+    },
+    {
+        "id": 21286,
+        "file": "components\/ILIAS\/Init\/classes\/class.ilPasswordAssistanceGUI.php",
+        "line": 618,
+        "code": "$this->lng->txt('pwassist_session_expired')",
+        "has_variable": false,
+        "variable": "pwassist_session_expired"
+    },
+    {
+        "id": 21288,
+        "file": "components\/ILIAS\/Init\/classes\/class.ilPasswordAssistanceGUI.php",
+        "line": 630,
+        "code": "$this->lng->txt('user_does_not_exist')",
+        "has_variable": false,
+        "variable": "user_does_not_exist"
+    },
+    {
+        "id": 21290,
+        "file": "components\/ILIAS\/Init\/classes\/class.ilPasswordAssistanceGUI.php",
+        "line": 637,
+        "code": "$this->lng->txt('pwassist_login_not_match')",
+        "has_variable": false,
+        "variable": "pwassist_login_not_match"
+    },
+    {
+        "id": 21292,
+        "file": "components\/ILIAS\/Init\/classes\/class.ilPasswordAssistanceGUI.php",
+        "line": 644,
+        "code": "$this->lng->txt($error_lng_var)",
+        "has_variable": true,
+        "variable": "$error_lng_var"
+    },
+    {
+        "id": 21294,
+        "file": "components\/ILIAS\/Init\/classes\/class.ilPasswordAssistanceGUI.php",
+        "line": 655,
+        "code": "$this->lng->txt('passwd_invalid')",
+        "has_variable": false,
+        "variable": "passwd_invalid"
+    },
+    {
+        "id": 21296,
+        "file": "components\/ILIAS\/Init\/classes\/class.ilPasswordAssistanceGUI.php",
+        "line": 675,
+        "code": "$this->lng->txt('pwassist_password_assigned')",
+        "has_variable": false,
+        "variable": "pwassist_password_assigned"
+    },
+    {
+        "id": 21298,
+        "file": "components\/ILIAS\/Init\/classes\/class.ilPasswordAssistanceGUI.php",
+        "line": 700,
+        "code": "$this->lng->txt('email')",
+        "has_variable": false,
+        "variable": "email"
+    },
+    {
+        "id": 21300,
+        "file": "components\/ILIAS\/Init\/classes\/class.ilPasswordAssistanceGUI.php",
+        "line": 705,
+        "code": "$this->lng->txt('username_assistance')",
+        "has_variable": false,
+        "variable": "username_assistance"
+    },
+    {
+        "id": 21302,
+        "file": "components\/ILIAS\/Init\/classes\/class.ilPasswordAssistanceGUI.php",
+        "line": 710,
+        "code": "$this->lng->txt('submit')",
+        "has_variable": false,
+        "variable": "submit"
+    },
+    {
+        "id": 21304,
+        "file": "components\/ILIAS\/Init\/classes\/class.ilPasswordAssistanceGUI.php",
+        "line": 720,
+        "code": "$this->lng->txt('password_assistance')",
+        "has_variable": false,
+        "variable": "password_assistance"
+    },
+    {
+        "id": 21306,
+        "file": "components\/ILIAS\/Init\/classes\/class.ilPasswordAssistanceGUI.php",
+        "line": 725,
+        "code": "$this->lng->txt('password_assistance')",
+        "has_variable": false,
+        "variable": "password_assistance"
+    },
+    {
+        "id": 21308,
+        "file": "components\/ILIAS\/Init\/classes\/class.ilPasswordAssistanceGUI.php",
+        "line": 737,
+        "code": "$this->lng->txt('pwassist_enter_email')",
+        "has_variable": false,
+        "variable": "pwassist_enter_email"
+    },
+    {
+        "id": 21310,
+        "file": "components\/ILIAS\/Init\/classes\/class.ilPasswordAssistanceGUI.php",
+        "line": 764,
+        "code": "$this->lng->txt('form_input_not_valid')",
+        "has_variable": false,
+        "variable": "form_input_not_valid"
+    },
+    {
+        "id": 21312,
+        "file": "components\/ILIAS\/Init\/classes\/class.ilPasswordAssistanceGUI.php",
+        "line": 793,
+        "code": "$this->lng->txt('pwassist_mail_sent_generic')",
+        "has_variable": false,
+        "variable": "pwassist_mail_sent_generic"
+    },
+    {
+        "id": 21314,
+        "file": "components\/ILIAS\/Init\/classes\/class.ilPasswordAssistanceGUI.php",
+        "line": 815,
+        "code": "$this->lng->txt('pwassist_mail_subject')",
+        "has_variable": false,
+        "variable": "pwassist_mail_subject"
+    },
+    {
+        "id": 21316,
+        "file": "components\/ILIAS\/Init\/classes\/class.ilPasswordAssistanceGUI.php",
+        "line": 821,
+        "code": "$this->lng->txt('pwassist_username_mail_body')",
+        "has_variable": false,
+        "variable": "pwassist_username_mail_body"
+    },
+    {
+        "id": 21318,
+        "file": "components\/ILIAS\/Init\/classes\/class.ilPasswordAssistanceGUI.php",
+        "line": 837,
+        "code": "$this->lng->txt('password_assistance')",
+        "has_variable": false,
+        "variable": "password_assistance"
+    },
+    {
+        "id": 21320,
+        "file": "components\/ILIAS\/Init\/classes\/class.ilPasswordAssistanceGUI.php",
+        "line": 842,
+        "code": "$this->lng->txt('password_assistance')",
+        "has_variable": false,
+        "variable": "password_assistance"
+    },
+    {
+        "id": 21322,
+        "file": "components\/ILIAS\/Init\/classes\/class.ilStartUpGUI.php",
+        "line": 331,
+        "code": "$this->lng->txt('auth_err_expired')",
+        "has_variable": false,
+        "variable": "auth_err_expired"
+    },
+    {
+        "id": 21324,
+        "file": "components\/ILIAS\/Init\/classes\/class.ilStartUpGUI.php",
+        "line": 342,
+        "code": "$this->lng->txt($message_key)",
+        "has_variable": true,
+        "variable": "$message_key"
+    },
+    {
+        "id": 21326,
+        "file": "components\/ILIAS\/Init\/classes\/class.ilStartUpGUI.php",
+        "line": 400,
+        "code": "$this->lng->txt('time_limit_reached')",
+        "has_variable": false,
+        "variable": "time_limit_reached"
+    },
+    {
+        "id": 21328,
+        "file": "components\/ILIAS\/Init\/classes\/class.ilStartUpGUI.php",
+        "line": 431,
+        "code": "$this->lng->txt('auth_account_code')",
+        "has_variable": false,
+        "variable": "auth_account_code"
+    },
+    {
+        "id": 21330,
+        "file": "components\/ILIAS\/Init\/classes\/class.ilStartUpGUI.php",
+        "line": 432,
+        "code": "$this->lng->txt('auth_account_code_info')",
+        "has_variable": false,
+        "variable": "auth_account_code_info"
+    },
+    {
+        "id": 21332,
+        "file": "components\/ILIAS\/Init\/classes\/class.ilStartUpGUI.php",
+        "line": 438,
+        "code": "$this->lng->txt('auth_account_code_title')",
+        "has_variable": false,
+        "variable": "auth_account_code_title"
+    },
+    {
+        "id": 21334,
+        "file": "components\/ILIAS\/Init\/classes\/class.ilStartUpGUI.php",
+        "line": 442,
+        "code": "$this->lng->txt('send')",
+        "has_variable": false,
+        "variable": "send"
+    },
+    {
+        "id": 21336,
+        "file": "components\/ILIAS\/Init\/classes\/class.ilStartUpGUI.php",
+        "line": 518,
+        "code": "$this->lng->txt('user_account_code_not_valid')",
+        "has_variable": false,
+        "variable": "user_account_code_not_valid"
+    },
+    {
+        "id": 21338,
+        "file": "components\/ILIAS\/Init\/classes\/class.ilStartUpGUI.php",
+        "line": 520,
+        "code": "$this->lng->txt('form_input_not_valid')",
+        "has_variable": false,
+        "variable": "form_input_not_valid"
+    },
+    {
+        "id": 21340,
+        "file": "components\/ILIAS\/Init\/classes\/class.ilStartUpGUI.php",
+        "line": 533,
+        "code": "$this->lng->txt('auth_selection')",
+        "has_variable": false,
+        "variable": "auth_selection"
+    },
+    {
+        "id": 21342,
+        "file": "components\/ILIAS\/Init\/classes\/class.ilStartUpGUI.php",
+        "line": 557,
+        "code": "$this->lng->txt('username')",
+        "has_variable": false,
+        "variable": "username"
+    },
+    {
+        "id": 21344,
+        "file": "components\/ILIAS\/Init\/classes\/class.ilStartUpGUI.php",
+        "line": 570,
+        "code": "$this->lng->txt('password')",
+        "has_variable": false,
+        "variable": "password"
+    },
+    {
+        "id": 21346,
+        "file": "components\/ILIAS\/Init\/classes\/class.ilStartUpGUI.php",
+        "line": 592,
+        "code": "$this->lng->txt('login_to_ilias_via_login_form')",
+        "has_variable": false,
+        "variable": "login_to_ilias_via_login_form"
+    },
+    {
+        "id": 21348,
+        "file": "components\/ILIAS\/Init\/classes\/class.ilStartUpGUI.php",
+        "line": 600,
+        "code": "$this->lng->txt('log_in')",
+        "has_variable": false,
+        "variable": "log_in"
+    },
+    {
+        "id": 21350,
+        "file": "components\/ILIAS\/Init\/classes\/class.ilStartUpGUI.php",
+        "line": 655,
+        "code": "$this->lng->txt($status->getReason())",
+        "has_variable": true,
+        "variable": "$status->getReason()"
+    },
+    {
+        "id": 21352,
+        "file": "components\/ILIAS\/Init\/classes\/class.ilStartUpGUI.php",
+        "line": 659,
+        "code": "$this->lng->txt('err_wrong_login')",
+        "has_variable": false,
+        "variable": "err_wrong_login"
+    },
+    {
+        "id": 21354,
+        "file": "components\/ILIAS\/Init\/classes\/class.ilStartUpGUI.php",
+        "line": 716,
+        "code": "$this->lng->txt('err_wrong_login')",
+        "has_variable": false,
+        "variable": "err_wrong_login"
+    },
+    {
+        "id": 21356,
+        "file": "components\/ILIAS\/Init\/classes\/class.ilStartUpGUI.php",
+        "line": 841,
+        "code": "$this->lng->txt(\n                'administrator'\n            )",
+        "has_variable": false,
+        "variable": "administrator"
+    },
+    {
+        "id": 21358,
+        "file": "components\/ILIAS\/Init\/classes\/class.ilStartUpGUI.php",
+        "line": 846,
+        "code": "$this->lng->txt('login_to_ilias_via_shibboleth')",
+        "has_variable": false,
+        "variable": "login_to_ilias_via_shibboleth"
+    },
+    {
+        "id": 21360,
+        "file": "components\/ILIAS\/Init\/classes\/class.ilStartUpGUI.php",
+        "line": 853,
+        "code": "$this->lng->txt('shib_general_login_instructions')",
+        "has_variable": false,
+        "variable": "shib_general_login_instructions"
+    },
+    {
+        "id": 21362,
+        "file": "components\/ILIAS\/Init\/classes\/class.ilStartUpGUI.php",
+        "line": 867,
+        "code": "$this->lng->txt('login_to_ilias_via_shibboleth')",
+        "has_variable": false,
+        "variable": "login_to_ilias_via_shibboleth"
+    },
+    {
+        "id": 21364,
+        "file": "components\/ILIAS\/Init\/classes\/class.ilStartUpGUI.php",
+        "line": 872,
+        "code": "$this->lng->txt('shib_select_home_organization')",
+        "has_variable": false,
+        "variable": "shib_select_home_organization"
+    },
+    {
+        "id": 21366,
+        "file": "components\/ILIAS\/Init\/classes\/class.ilStartUpGUI.php",
+        "line": 876,
+        "code": "$this->lng->txt('btn_next')",
+        "has_variable": false,
+        "variable": "btn_next"
+    },
+    {
+        "id": 21368,
+        "file": "components\/ILIAS\/Init\/classes\/class.ilStartUpGUI.php",
+        "line": 877,
+        "code": "$this->lng->txt('shib_home_organization')",
+        "has_variable": false,
+        "variable": "shib_home_organization"
+    },
+    {
+        "id": 21370,
+        "file": "components\/ILIAS\/Init\/classes\/class.ilStartUpGUI.php",
+        "line": 881,
+        "code": "$this->lng->txt('shib_general_wayf_login_instructions')",
+        "has_variable": false,
+        "variable": "shib_general_wayf_login_instructions"
+    },
+    {
+        "id": 21372,
+        "file": "components\/ILIAS\/Init\/classes\/class.ilStartUpGUI.php",
+        "line": 966,
+        "code": "$this->lng->txt('registration')",
+        "has_variable": false,
+        "variable": "registration"
+    },
+    {
+        "id": 21374,
+        "file": "components\/ILIAS\/Init\/classes\/class.ilStartUpGUI.php",
+        "line": 976,
+        "code": "$this->lng->txt('forgot_password')",
+        "has_variable": false,
+        "variable": "forgot_password"
+    },
+    {
+        "id": 21376,
+        "file": "components\/ILIAS\/Init\/classes\/class.ilStartUpGUI.php",
+        "line": 977,
+        "code": "$this->lng->txt('forgot_username')",
+        "has_variable": false,
+        "variable": "forgot_username"
+    },
+    {
+        "id": 21378,
+        "file": "components\/ILIAS\/Init\/classes\/class.ilStartUpGUI.php",
+        "line": 997,
+        "code": "$this->lng->txt('home')",
+        "has_variable": false,
+        "variable": "home"
+    },
+    {
+        "id": 21380,
+        "file": "components\/ILIAS\/Init\/classes\/class.ilStartUpGUI.php",
+        "line": 1061,
+        "code": "$this->lng->txt('login')",
+        "has_variable": false,
+        "variable": "login"
+    },
+    {
+        "id": 21382,
+        "file": "components\/ILIAS\/Init\/classes\/class.ilStartUpGUI.php",
+        "line": 1063,
+        "code": "$this->lng->txt('password')",
+        "has_variable": false,
+        "variable": "password"
+    },
+    {
+        "id": 21384,
+        "file": "components\/ILIAS\/Init\/classes\/class.ilStartUpGUI.php",
+        "line": 1074,
+        "code": "$this->lng->txt('auth_account_migration_keep')",
+        "has_variable": false,
+        "variable": "auth_account_migration_keep"
+    },
+    {
+        "id": 21386,
+        "file": "components\/ILIAS\/Init\/classes\/class.ilStartUpGUI.php",
+        "line": 1075,
+        "code": "$this->lng->txt('auth_info_migrate')",
+        "has_variable": false,
+        "variable": "auth_info_migrate"
+    },
+    {
+        "id": 21388,
+        "file": "components\/ILIAS\/Init\/classes\/class.ilStartUpGUI.php",
+        "line": 1080,
+        "code": "$this->lng->txt('auth_account_migration_new')",
+        "has_variable": false,
+        "variable": "auth_account_migration_new"
+    },
+    {
+        "id": 21390,
+        "file": "components\/ILIAS\/Init\/classes\/class.ilStartUpGUI.php",
+        "line": 1081,
+        "code": "$this->lng->txt('auth_info_add')",
+        "has_variable": false,
+        "variable": "auth_info_add"
+    },
+    {
+        "id": 21392,
+        "file": "components\/ILIAS\/Init\/classes\/class.ilStartUpGUI.php",
+        "line": 1090,
+        "code": "$this->lng->txt('auth_account_migration_name')",
+        "has_variable": false,
+        "variable": "auth_account_migration_name"
+    },
+    {
+        "id": 21394,
+        "file": "components\/ILIAS\/Init\/classes\/class.ilStartUpGUI.php",
+        "line": 1094,
+        "code": "$this->lng->txt('auth_account_migration')",
+        "has_variable": false,
+        "variable": "auth_account_migration"
+    },
+    {
+        "id": 21396,
+        "file": "components\/ILIAS\/Init\/classes\/class.ilStartUpGUI.php",
+        "line": 1101,
+        "code": "$this->lng->txt('save')",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 21398,
+        "file": "components\/ILIAS\/Init\/classes\/class.ilStartUpGUI.php",
+        "line": 1134,
+        "code": "$this->lng->txt('form_input_not_valid')",
+        "has_variable": false,
+        "variable": "form_input_not_valid"
+    },
+    {
+        "id": 21400,
+        "file": "components\/ILIAS\/Init\/classes\/class.ilStartUpGUI.php",
+        "line": 1147,
+        "code": "$this->lng->txt('form_input_not_valid')",
+        "has_variable": false,
+        "variable": "form_input_not_valid"
+    },
+    {
+        "id": 21402,
+        "file": "components\/ILIAS\/Init\/classes\/class.ilStartUpGUI.php",
+        "line": 1180,
+        "code": "$this->lng->txt('err_wrong_login')",
+        "has_variable": false,
+        "variable": "err_wrong_login"
+    },
+    {
+        "id": 21404,
+        "file": "components\/ILIAS\/Init\/classes\/class.ilStartUpGUI.php",
+        "line": 1233,
+        "code": "$this->lng->txt('err_wrong_login')",
+        "has_variable": false,
+        "variable": "err_wrong_login"
+    },
+    {
+        "id": 21406,
+        "file": "components\/ILIAS\/Init\/classes\/class.ilStartUpGUI.php",
+        "line": 1263,
+        "code": "$this->lng->txt('home')",
+        "has_variable": false,
+        "variable": "home"
+    },
+    {
+        "id": 21408,
+        "file": "components\/ILIAS\/Init\/classes\/class.ilStartUpGUI.php",
+        "line": 1268,
+        "code": "$this->lng->txt('logout')",
+        "has_variable": false,
+        "variable": "logout"
+    },
+    {
+        "id": 21410,
+        "file": "components\/ILIAS\/Init\/classes\/class.ilStartUpGUI.php",
+        "line": 1269,
+        "code": "$this->lng->txt('login_to_ilias')",
+        "has_variable": false,
+        "variable": "login_to_ilias"
+    },
+    {
+        "id": 21412,
+        "file": "components\/ILIAS\/Init\/classes\/class.ilStartUpGUI.php",
+        "line": 1320,
+        "code": "$this->lng->txt('logout_text')",
+        "has_variable": false,
+        "variable": "logout_text"
+    },
+    {
+        "id": 21414,
+        "file": "components\/ILIAS\/Init\/classes\/class.ilStartUpGUI.php",
+        "line": 1544,
+        "code": "$this->lng->txt('reg_account_confirmation_successful')",
+        "has_variable": false,
+        "variable": "reg_account_confirmation_successful"
+    },
+    {
+        "id": 21416,
+        "file": "components\/ILIAS\/Init\/classes\/class.ilStartUpGUI.php",
+        "line": 1551,
+        "code": "$this->lng->txt($exception->getMessage())",
+        "has_variable": true,
+        "variable": "$exception->getMessage()"
+    },
+    {
+        "id": 21418,
+        "file": "components\/ILIAS\/Init\/classes\/class.ilStartUpGUI.php",
+        "line": 1558,
+        "code": "$this->lng->txt('reg_confirmation_hash_not_passed')",
+        "has_variable": false,
+        "variable": "reg_confirmation_hash_not_passed"
+    },
+    {
+        "id": 21420,
+        "file": "components\/ILIAS\/Init\/classes\/class.ilStartUpGUI.php",
+        "line": 1639,
+        "code": "$this->lng->txt('saml_log_in')",
+        "has_variable": false,
+        "variable": "saml_log_in"
+    },
+    {
+        "id": 21422,
+        "file": "components\/ILIAS\/Init\/classes\/class.ilStartUpGUI.php",
+        "line": 1640,
+        "code": "$this->lng->txt('login_to_ilias_via_saml')",
+        "has_variable": false,
+        "variable": "login_to_ilias_via_saml"
+    },
+    {
+        "id": 21424,
+        "file": "components\/ILIAS\/Init\/classes\/class.ilStartUpGUI.php",
+        "line": 1641,
+        "code": "$this->lng->txt('saml_login_form_txt')",
+        "has_variable": false,
+        "variable": "saml_login_form_txt"
+    },
+    {
+        "id": 21426,
+        "file": "components\/ILIAS\/Init\/classes\/class.ilStartUpGUI.php",
+        "line": 1642,
+        "code": "$this->lng->txt('saml_login_form_info_txt')",
+        "has_variable": false,
+        "variable": "saml_login_form_info_txt"
+    },
+    {
+        "id": 21428,
+        "file": "components\/ILIAS\/Init\/classes\/class.ilStartUpGUI.php",
+        "line": 1663,
+        "code": "$this->lng->txt('auth_oidc_login_element_info')",
+        "has_variable": false,
+        "variable": "auth_oidc_login_element_info"
+    },
+    {
+        "id": 21430,
+        "file": "components\/ILIAS\/Init\/classes\/class.ilStartUpGUI.php",
+        "line": 1727,
+        "code": "$this->lng->txt('err_wrong_login')",
+        "has_variable": false,
+        "variable": "err_wrong_login"
+    },
+    {
+        "id": 21432,
+        "file": "components\/ILIAS\/Init\/classes\/class.ilStartUpGUI.php",
+        "line": 1887,
+        "code": "$this->lng->txt('err_wrong_login')",
+        "has_variable": false,
+        "variable": "err_wrong_login"
+    },
+    {
+        "id": 21434,
+        "file": "components\/ILIAS\/Init\/classes\/class.ilStartUpGUI.php",
+        "line": 1914,
+        "code": "$this->lng->txt('auth_saml_idp_selection_table_title')",
+        "has_variable": false,
+        "variable": "auth_saml_idp_selection_table_title"
+    },
+    {
+        "id": 21436,
+        "file": "components\/ILIAS\/Init\/classes\/class.ilStartUpGUI.php",
+        "line": 1916,
+        "code": "$this->lng->txt('auth_saml_idp_selection_table_desc')",
+        "has_variable": false,
+        "variable": "auth_saml_idp_selection_table_desc"
+    },
+    {
+        "id": 21438,
+        "file": "components\/ILIAS\/Init\/src\/ErrorHandling\/Notification\/ErrorIncidentUserMessage.php",
+        "line": 41,
+        "code": "$language->txt('log_error_message')",
+        "has_variable": false,
+        "variable": "log_error_message"
+    },
+    {
+        "id": 21440,
+        "file": "components\/ILIAS\/Init\/src\/ErrorHandling\/Notification\/ErrorIncidentUserMessage.php",
+        "line": 46,
+        "code": "$language->txt('log_error_message_send_mail')",
+        "has_variable": false,
+        "variable": "log_error_message_send_mail"
+    }
+]

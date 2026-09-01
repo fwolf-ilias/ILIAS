@@ -1,0 +1,4282 @@
+[
+    {
+        "id": 17666,
+        "file": "components\/ILIAS\/Forum\/classes\/CoPage\/class.ilForumPageCommandForwarder.php",
+        "line": 122,
+        "code": "$this->lng->txt('back')",
+        "has_variable": false,
+        "variable": "back"
+    },
+    {
+        "id": 17668,
+        "file": "components\/ILIAS\/Forum\/classes\/CoPage\/class.ilForumPageGUI.php",
+        "line": 97,
+        "code": "$this->lng->txt('obj_sty')",
+        "has_variable": false,
+        "variable": "obj_sty"
+    },
+    {
+        "id": 17670,
+        "file": "components\/ILIAS\/Forum\/classes\/Drafts\/ForumDraftsTable.php",
+        "line": 126,
+        "code": "$this->lng->txt('drafts')",
+        "has_variable": false,
+        "variable": "drafts"
+    },
+    {
+        "id": 17672,
+        "file": "components\/ILIAS\/Forum\/classes\/Drafts\/ForumDraftsTable.php",
+        "line": 141,
+        "code": "$this->lng->txt('delete')",
+        "has_variable": false,
+        "variable": "delete"
+    },
+    {
+        "id": 17674,
+        "file": "components\/ILIAS\/Forum\/classes\/Drafts\/ForumDraftsTable.php",
+        "line": 187,
+        "code": "$this->lng->txt('drafts')",
+        "has_variable": false,
+        "variable": "drafts"
+    },
+    {
+        "id": 17676,
+        "file": "components\/ILIAS\/Forum\/classes\/Drafts\/ForumDraftsTable.php",
+        "line": 191,
+        "code": "$this->lng->txt('edited_on')",
+        "has_variable": false,
+        "variable": "edited_on"
+    },
+    {
+        "id": 17678,
+        "file": "components\/ILIAS\/Forum\/classes\/GUI\/class.ilForumThreadFormGUI.php",
+        "line": 47,
+        "code": "$this->lng->txt('forums_your_name')",
+        "has_variable": false,
+        "variable": "forums_your_name"
+    },
+    {
+        "id": 17680,
+        "file": "components\/ILIAS\/Forum\/classes\/GUI\/class.ilForumThreadFormGUI.php",
+        "line": 48,
+        "code": "$this->lng->txt('forums_use_alias')",
+        "has_variable": false,
+        "variable": "forums_use_alias"
+    },
+    {
+        "id": 17682,
+        "file": "components\/ILIAS\/Forum\/classes\/GUI\/class.ilForumThreadFormGUI.php",
+        "line": 52,
+        "code": "$this->lng->txt('forums_your_name')",
+        "has_variable": false,
+        "variable": "forums_your_name"
+    },
+    {
+        "id": 17684,
+        "file": "components\/ILIAS\/Forum\/classes\/GUI\/class.ilForumThreadFormGUI.php",
+        "line": 60,
+        "code": "$this->lng->txt('forums_thread')",
+        "has_variable": false,
+        "variable": "forums_thread"
+    },
+    {
+        "id": 17686,
+        "file": "components\/ILIAS\/Forum\/classes\/GUI\/class.ilForumThreadFormGUI.php",
+        "line": 69,
+        "code": "$this->lng->txt('forums_the_post')",
+        "has_variable": false,
+        "variable": "forums_the_post"
+    },
+    {
+        "id": 17688,
+        "file": "components\/ILIAS\/Forum\/classes\/GUI\/class.ilForumThreadFormGUI.php",
+        "line": 94,
+        "code": "$this->lng->txt('latex_edit_info')",
+        "has_variable": false,
+        "variable": "latex_edit_info"
+    },
+    {
+        "id": 17690,
+        "file": "components\/ILIAS\/Forum\/classes\/GUI\/class.ilForumThreadFormGUI.php",
+        "line": 104,
+        "code": "$this->lng->txt('autosave_draft_info')",
+        "has_variable": false,
+        "variable": "autosave_draft_info"
+    },
+    {
+        "id": 17692,
+        "file": "components\/ILIAS\/Forum\/classes\/GUI\/class.ilForumThreadFormGUI.php",
+        "line": 115,
+        "code": "$this->lng->txt('forums_attachments_add')",
+        "has_variable": false,
+        "variable": "forums_attachments_add"
+    },
+    {
+        "id": 17694,
+        "file": "components\/ILIAS\/Forum\/classes\/GUI\/class.ilForumThreadFormGUI.php",
+        "line": 126,
+        "code": "$this->lng->txt('forums_delete_file')",
+        "has_variable": false,
+        "variable": "forums_delete_file"
+    },
+    {
+        "id": 17696,
+        "file": "components\/ILIAS\/Forum\/classes\/GUI\/class.ilForumThreadFormGUI.php",
+        "line": 142,
+        "code": "$this->lng->txt('forum_direct_notification')",
+        "has_variable": false,
+        "variable": "forum_direct_notification"
+    },
+    {
+        "id": 17698,
+        "file": "components\/ILIAS\/Forum\/classes\/GUI\/class.ilForumThreadFormGUI.php",
+        "line": 143,
+        "code": "$this->lng->txt('forum_notify_me')",
+        "has_variable": false,
+        "variable": "forum_notify_me"
+    },
+    {
+        "id": 17700,
+        "file": "components\/ILIAS\/Forum\/classes\/GUI\/class.ilForumThreadFormGUI.php",
+        "line": 153,
+        "code": "$this->lng->txt('forums_new_thread')",
+        "has_variable": false,
+        "variable": "forums_new_thread"
+    },
+    {
+        "id": 17702,
+        "file": "components\/ILIAS\/Forum\/classes\/GUI\/class.ilForumThreadFormGUI.php",
+        "line": 155,
+        "code": "$this->lng->txt('edit_thread_draft')",
+        "has_variable": false,
+        "variable": "edit_thread_draft"
+    },
+    {
+        "id": 17704,
+        "file": "components\/ILIAS\/Forum\/classes\/GUI\/class.ilForumThreadFormGUI.php",
+        "line": 199,
+        "code": "$this->lng->txt('publish')",
+        "has_variable": false,
+        "variable": "publish"
+    },
+    {
+        "id": 17706,
+        "file": "components\/ILIAS\/Forum\/classes\/GUI\/class.ilForumThreadFormGUI.php",
+        "line": 200,
+        "code": "$this->lng->txt('save_message')",
+        "has_variable": false,
+        "variable": "save_message"
+    },
+    {
+        "id": 17708,
+        "file": "components\/ILIAS\/Forum\/classes\/GUI\/class.ilForumThreadFormGUI.php",
+        "line": 203,
+        "code": "$this->lng->txt('create')",
+        "has_variable": false,
+        "variable": "create"
+    },
+    {
+        "id": 17710,
+        "file": "components\/ILIAS\/Forum\/classes\/GUI\/class.ilForumThreadFormGUI.php",
+        "line": 204,
+        "code": "$this->lng->txt('save_message')",
+        "has_variable": false,
+        "variable": "save_message"
+    },
+    {
+        "id": 17712,
+        "file": "components\/ILIAS\/Forum\/classes\/GUI\/class.ilForumThreadFormGUI.php",
+        "line": 207,
+        "code": "$this->lng->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 17714,
+        "file": "components\/ILIAS\/Forum\/classes\/GUI\/class.ilForumThreadFormGUI.php",
+        "line": 209,
+        "code": "$this->lng->txt('create')",
+        "has_variable": false,
+        "variable": "create"
+    },
+    {
+        "id": 17716,
+        "file": "components\/ILIAS\/Forum\/classes\/GUI\/class.ilForumThreadFormGUI.php",
+        "line": 210,
+        "code": "$this->lng->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 17718,
+        "file": "components\/ILIAS\/Forum\/classes\/GUI\/class.ilForumThreadFormGUI.php",
+        "line": 219,
+        "code": "$this->lng->txt('create')",
+        "has_variable": false,
+        "variable": "create"
+    },
+    {
+        "id": 17720,
+        "file": "components\/ILIAS\/Forum\/classes\/GUI\/class.ilForumThreadFormGUI.php",
+        "line": 220,
+        "code": "$this->lng->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 17722,
+        "file": "components\/ILIAS\/Forum\/classes\/Moderation\/ForumModeratorsTable.php",
+        "line": 59,
+        "code": "$this->lng->txt('frm_moderators')",
+        "has_variable": false,
+        "variable": "frm_moderators"
+    },
+    {
+        "id": 17724,
+        "file": "components\/ILIAS\/Forum\/classes\/Moderation\/ForumModeratorsTable.php",
+        "line": 76,
+        "code": "$this->lng->txt('login')",
+        "has_variable": false,
+        "variable": "login"
+    },
+    {
+        "id": 17726,
+        "file": "components\/ILIAS\/Forum\/classes\/Moderation\/ForumModeratorsTable.php",
+        "line": 81,
+        "code": "$this->lng->txt('firstname')",
+        "has_variable": false,
+        "variable": "firstname"
+    },
+    {
+        "id": 17728,
+        "file": "components\/ILIAS\/Forum\/classes\/Moderation\/ForumModeratorsTable.php",
+        "line": 87,
+        "code": "$this->lng->txt('lastname')",
+        "has_variable": false,
+        "variable": "lastname"
+    },
+    {
+        "id": 17730,
+        "file": "components\/ILIAS\/Forum\/classes\/Moderation\/ForumModeratorsTable.php",
+        "line": 114,
+        "code": "$this->lng->txt('remove')",
+        "has_variable": false,
+        "variable": "remove"
+    },
+    {
+        "id": 17732,
+        "file": "components\/ILIAS\/Forum\/classes\/Notification\/ForumNotificationTable.php",
+        "line": 130,
+        "code": "$this->lng->txt('')",
+        "has_variable": true,
+        "variable": ""
+    },
+    {
+        "id": 17734,
+        "file": "components\/ILIAS\/Forum\/classes\/Notification\/ForumNotificationTable.php",
+        "line": 183,
+        "code": "$this->lng->txt('il_' . $this->participants->getType() . '_member')",
+        "has_variable": true,
+        "variable": "'il_' . $this->participants->getType() . '_member'"
+    },
+    {
+        "id": 17736,
+        "file": "components\/ILIAS\/Forum\/classes\/Notification\/ForumNotificationTable.php",
+        "line": 184,
+        "code": "$this->lng->txt('il_' . $this->participants->getType() . '_tutor')",
+        "has_variable": true,
+        "variable": "'il_' . $this->participants->getType() . '_tutor'"
+    },
+    {
+        "id": 17738,
+        "file": "components\/ILIAS\/Forum\/classes\/Notification\/ForumNotificationTable.php",
+        "line": 185,
+        "code": "$this->lng->txt('il_' . $this->participants->getType() . '_admin')",
+        "has_variable": true,
+        "variable": "'il_' . $this->participants->getType() . '_admin'"
+    },
+    {
+        "id": 17740,
+        "file": "components\/ILIAS\/Forum\/classes\/Notification\/ForumNotificationTable.php",
+        "line": 186,
+        "code": "$this->lng->txt('frm_moderators')",
+        "has_variable": false,
+        "variable": "frm_moderators"
+    },
+    {
+        "id": 17742,
+        "file": "components\/ILIAS\/Forum\/classes\/Notification\/ForumNotificationTable.php",
+        "line": 191,
+        "code": "$this->lng->txt('roles')",
+        "has_variable": false,
+        "variable": "roles"
+    },
+    {
+        "id": 17744,
+        "file": "components\/ILIAS\/Forum\/classes\/Notification\/ForumNotificationTable.php",
+        "line": 307,
+        "code": "$this->lng->txt('il_' . $this->participants->getType() . '_member')",
+        "has_variable": true,
+        "variable": "'il_' . $this->participants->getType() . '_member'"
+    },
+    {
+        "id": 17746,
+        "file": "components\/ILIAS\/Forum\/classes\/Notification\/ForumNotificationTable.php",
+        "line": 308,
+        "code": "$this->lng->txt('il_' . $this->participants->getType() . '_tutor')",
+        "has_variable": true,
+        "variable": "'il_' . $this->participants->getType() . '_tutor'"
+    },
+    {
+        "id": 17748,
+        "file": "components\/ILIAS\/Forum\/classes\/Notification\/ForumNotificationTable.php",
+        "line": 309,
+        "code": "$this->lng->txt('il_' . $this->participants->getType() . '_admin')",
+        "has_variable": true,
+        "variable": "'il_' . $this->participants->getType() . '_admin'"
+    },
+    {
+        "id": 17750,
+        "file": "components\/ILIAS\/Forum\/classes\/Notification\/ForumNotificationTable.php",
+        "line": 314,
+        "code": "$this->lng->txt('frm_moderators')",
+        "has_variable": false,
+        "variable": "frm_moderators"
+    },
+    {
+        "id": 17752,
+        "file": "components\/ILIAS\/Forum\/classes\/Notification\/ForumNotificationTable.php",
+        "line": 341,
+        "code": "$this->lng->txt('enable_hide_user_toggle')",
+        "has_variable": false,
+        "variable": "enable_hide_user_toggle"
+    },
+    {
+        "id": 17754,
+        "file": "components\/ILIAS\/Forum\/classes\/Notification\/ForumNotificationTable.php",
+        "line": 346,
+        "code": "$this->lng->txt('disable_hide_user_toggle')",
+        "has_variable": false,
+        "variable": "disable_hide_user_toggle"
+    },
+    {
+        "id": 17756,
+        "file": "components\/ILIAS\/Forum\/classes\/Notification\/ForumNotificationTable.php",
+        "line": 351,
+        "code": "$this->lng->txt('notification_settings')",
+        "has_variable": false,
+        "variable": "notification_settings"
+    },
+    {
+        "id": 17758,
+        "file": "components\/ILIAS\/Forum\/classes\/Notification\/ForumNotificationTable.php",
+        "line": 423,
+        "code": "$this->lng->txt('login')",
+        "has_variable": false,
+        "variable": "login"
+    },
+    {
+        "id": 17760,
+        "file": "components\/ILIAS\/Forum\/classes\/Notification\/ForumNotificationTable.php",
+        "line": 424,
+        "code": "$this->lng->txt('firstname')",
+        "has_variable": false,
+        "variable": "firstname"
+    },
+    {
+        "id": 17762,
+        "file": "components\/ILIAS\/Forum\/classes\/Notification\/ForumNotificationTable.php",
+        "line": 425,
+        "code": "$this->lng->txt('lastname')",
+        "has_variable": false,
+        "variable": "lastname"
+    },
+    {
+        "id": 17764,
+        "file": "components\/ILIAS\/Forum\/classes\/Notification\/ForumNotificationTable.php",
+        "line": 427,
+        "code": "$this->lng->txt('allow_user_toggle_noti')",
+        "has_variable": false,
+        "variable": "allow_user_toggle_noti"
+    },
+    {
+        "id": 17766,
+        "file": "components\/ILIAS\/Forum\/classes\/Notification\/ForumNotificationTable.php",
+        "line": 430,
+        "code": "$this->lng->txt('role')",
+        "has_variable": false,
+        "variable": "role"
+    },
+    {
+        "id": 17768,
+        "file": "components\/ILIAS\/Forum\/classes\/Notification\/class.ilForumNotificationEventsFormGUI.php",
+        "line": 75,
+        "code": "$this->lng->txt($key)",
+        "has_variable": true,
+        "variable": "$key"
+    },
+    {
+        "id": 17770,
+        "file": "components\/ILIAS\/Forum\/classes\/Search\/SubitemPropertiesReader.php",
+        "line": 67,
+        "code": "$this->lng->txt('thread')",
+        "has_variable": false,
+        "variable": "thread"
+    },
+    {
+        "id": 17772,
+        "file": "components\/ILIAS\/Forum\/classes\/Statistics\/ForumStatisticsTable.php",
+        "line": 85,
+        "code": "$this->lng->txt('frm_moderators')",
+        "has_variable": false,
+        "variable": "frm_moderators"
+    },
+    {
+        "id": 17774,
+        "file": "components\/ILIAS\/Forum\/classes\/Statistics\/ForumStatisticsTable.php",
+        "line": 100,
+        "code": "$this->lng->txt('frm_statistics_ranking')",
+        "has_variable": false,
+        "variable": "frm_statistics_ranking"
+    },
+    {
+        "id": 17776,
+        "file": "components\/ILIAS\/Forum\/classes\/Statistics\/ForumStatisticsTable.php",
+        "line": 103,
+        "code": "$this->lng->txt('login')",
+        "has_variable": false,
+        "variable": "login"
+    },
+    {
+        "id": 17778,
+        "file": "components\/ILIAS\/Forum\/classes\/Statistics\/ForumStatisticsTable.php",
+        "line": 106,
+        "code": "$this->lng->txt('lastname')",
+        "has_variable": false,
+        "variable": "lastname"
+    },
+    {
+        "id": 17780,
+        "file": "components\/ILIAS\/Forum\/classes\/Statistics\/ForumStatisticsTable.php",
+        "line": 109,
+        "code": "$this->lng->txt('firstname')",
+        "has_variable": false,
+        "variable": "firstname"
+    },
+    {
+        "id": 17782,
+        "file": "components\/ILIAS\/Forum\/classes\/Statistics\/ForumStatisticsTable.php",
+        "line": 114,
+        "code": "$this->lng->txt('learning_progress')",
+        "has_variable": false,
+        "variable": "learning_progress"
+    },
+    {
+        "id": 17784,
+        "file": "components\/ILIAS\/Forum\/classes\/Tasks\/class.ilForumDraftsDerivedTaskProvider.php",
+        "line": 51,
+        "code": "$this->lng->txt('frm_task_publishing_draft_title')",
+        "has_variable": false,
+        "variable": "frm_task_publishing_draft_title"
+    },
+    {
+        "id": 17786,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilForum.php",
+        "line": 402,
+        "code": "$this->lng->txt('frm_move_invalid_file_type')",
+        "has_variable": false,
+        "variable": "frm_move_invalid_file_type"
+    },
+    {
+        "id": 17788,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilForum.php",
+        "line": 1296,
+        "code": "$this->lng->txt('unknown')",
+        "has_variable": false,
+        "variable": "unknown"
+    },
+    {
+        "id": 17790,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilForum.php",
+        "line": 1473,
+        "code": "$this->lng->txt('quote')",
+        "has_variable": false,
+        "variable": "quote"
+    },
+    {
+        "id": 17792,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilForum.php",
+        "line": 1480,
+        "code": "$this->lng->txt('quote')",
+        "has_variable": false,
+        "variable": "quote"
+    },
+    {
+        "id": 17794,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilForumAuthorInformation.php",
+        "line": 164,
+        "code": "$translationLanguage->txt('deleted')",
+        "has_variable": false,
+        "variable": "deleted"
+    },
+    {
+        "id": 17796,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilForumAuthorInformation.php",
+        "line": 166,
+        "code": "$translationLanguage->txt('deleted')",
+        "has_variable": false,
+        "variable": "deleted"
+    },
+    {
+        "id": 17798,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilForumAuthorInformation.php",
+        "line": 171,
+        "code": "$translationLanguage->txt('imported')",
+        "has_variable": false,
+        "variable": "imported"
+    },
+    {
+        "id": 17800,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilForumAuthorInformation.php",
+        "line": 172,
+        "code": "$translationLanguage->txt('imported')",
+        "has_variable": false,
+        "variable": "imported"
+    },
+    {
+        "id": 17802,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilForumAuthorInformation.php",
+        "line": 177,
+        "code": "$translationLanguage->txt('frm_pseudonym')",
+        "has_variable": false,
+        "variable": "frm_pseudonym"
+    },
+    {
+        "id": 17804,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilForumAuthorInformation.php",
+        "line": 178,
+        "code": "$translationLanguage->txt('frm_pseudonym')",
+        "has_variable": false,
+        "variable": "frm_pseudonym"
+    },
+    {
+        "id": 17806,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilForumAuthorInformation.php",
+        "line": 183,
+        "code": "$translationLanguage->txt('forums_anonymous')",
+        "has_variable": false,
+        "variable": "forums_anonymous"
+    },
+    {
+        "id": 17808,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilForumCronNotification.php",
+        "line": 82,
+        "code": "$this->lng->txt('cron_forum_notification')",
+        "has_variable": false,
+        "variable": "cron_forum_notification"
+    },
+    {
+        "id": 17810,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilForumCronNotification.php",
+        "line": 87,
+        "code": "$this->lng->txt('cron_forum_notification_crob_desc')",
+        "has_variable": false,
+        "variable": "cron_forum_notification_crob_desc"
+    },
+    {
+        "id": 17812,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilForumCronNotification.php",
+        "line": 373,
+        "code": "$this->lng->txt('enabled')",
+        "has_variable": false,
+        "variable": "enabled"
+    },
+    {
+        "id": 17814,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilForumCronNotification.php",
+        "line": 374,
+        "code": "$this->lng->txt('disabled')",
+        "has_variable": false,
+        "variable": "disabled"
+    },
+    {
+        "id": 17816,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilForumCronNotification.php",
+        "line": 394,
+        "code": "$this->lng->txt('frm_max_notification_age')",
+        "has_variable": false,
+        "variable": "frm_max_notification_age"
+    },
+    {
+        "id": 17818,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilForumCronNotification.php",
+        "line": 398,
+        "code": "$this->lng->txt('frm_max_notification_age_unit')",
+        "has_variable": false,
+        "variable": "frm_max_notification_age_unit"
+    },
+    {
+        "id": 17820,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilForumCronNotification.php",
+        "line": 402,
+        "code": "$this->lng->txt('frm_max_notification_age_info')",
+        "has_variable": false,
+        "variable": "frm_max_notification_age_info"
+    },
+    {
+        "id": 17822,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilForumExplorerGUI.php",
+        "line": 107,
+        "code": "$this->lng->txt(\"frm_posts\")",
+        "has_variable": false,
+        "variable": "frm_posts"
+    },
+    {
+        "id": 17824,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilForumExportGUI.php",
+        "line": 91,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 17826,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilForumExportGUI.php",
+        "line": 136,
+        "code": "$this->lng->txt('post_censored_comment_by_moderator')",
+        "has_variable": false,
+        "variable": "post_censored_comment_by_moderator"
+    },
+    {
+        "id": 17828,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilForumExportGUI.php",
+        "line": 142,
+        "code": "$this->lng->txt('frm_post_not_activated_yet')",
+        "has_variable": false,
+        "variable": "frm_post_not_activated_yet"
+    },
+    {
+        "id": 17830,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilForumExportGUI.php",
+        "line": 166,
+        "code": "$this->lng->txt('registered_since')",
+        "has_variable": false,
+        "variable": "registered_since"
+    },
+    {
+        "id": 17832,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilForumExportGUI.php",
+        "line": 179,
+        "code": "$this->lng->txt('forums_posts')",
+        "has_variable": false,
+        "variable": "forums_posts"
+    },
+    {
+        "id": 17834,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilForumExportGUI.php",
+        "line": 190,
+        "code": "$this->lng->txt('frm_moderator_f')",
+        "has_variable": false,
+        "variable": "frm_moderator_f"
+    },
+    {
+        "id": 17836,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilForumExportGUI.php",
+        "line": 192,
+        "code": "$this->lng->txt('frm_moderator_m')",
+        "has_variable": false,
+        "variable": "frm_moderator_m"
+    },
+    {
+        "id": 17838,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilForumExportGUI.php",
+        "line": 194,
+        "code": "$this->lng->txt('frm_moderator_n')",
+        "has_variable": false,
+        "variable": "frm_moderator_n"
+    },
+    {
+        "id": 17840,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilForumExportGUI.php",
+        "line": 215,
+        "code": "$this->lng->txt('edited_on')",
+        "has_variable": false,
+        "variable": "edited_on"
+    },
+    {
+        "id": 17842,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilForumExportGUI.php",
+        "line": 215,
+        "code": "$this->lng->txt('by')",
+        "has_variable": false,
+        "variable": "by"
+    },
+    {
+        "id": 17844,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilForumExportGUI.php",
+        "line": 264,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 17846,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilForumExportGUI.php",
+        "line": 298,
+        "code": "$this->lng->txt('forum')",
+        "has_variable": false,
+        "variable": "forum"
+    },
+    {
+        "id": 17848,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilForumExportGUI.php",
+        "line": 299,
+        "code": "$this->lng->txt('forums_thread')",
+        "has_variable": false,
+        "variable": "forums_thread"
+    },
+    {
+        "id": 17850,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilForumExportGUI.php",
+        "line": 300,
+        "code": "$this->lng->txt('forums_count_art')",
+        "has_variable": false,
+        "variable": "forums_count_art"
+    },
+    {
+        "id": 17852,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilForumExportGUI.php",
+        "line": 315,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 17854,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilForumExportGUI.php",
+        "line": 343,
+        "code": "$this->lng->txt('forum')",
+        "has_variable": false,
+        "variable": "forum"
+    },
+    {
+        "id": 17856,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilForumExportGUI.php",
+        "line": 344,
+        "code": "$this->lng->txt('forums_thread')",
+        "has_variable": false,
+        "variable": "forums_thread"
+    },
+    {
+        "id": 17858,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilForumExportGUI.php",
+        "line": 355,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 17860,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilForumExportGUI.php",
+        "line": 425,
+        "code": "$this->lng->txt('forum')",
+        "has_variable": false,
+        "variable": "forum"
+    },
+    {
+        "id": 17862,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilForumExportGUI.php",
+        "line": 426,
+        "code": "$this->lng->txt('forums_thread')",
+        "has_variable": false,
+        "variable": "forums_thread"
+    },
+    {
+        "id": 17864,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilForumExportGUI.php",
+        "line": 427,
+        "code": "$this->lng->txt('forums_thread_create_from')",
+        "has_variable": false,
+        "variable": "forums_thread_create_from"
+    },
+    {
+        "id": 17866,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilForumExportGUI.php",
+        "line": 428,
+        "code": "$this->lng->txt('forums_articles')",
+        "has_variable": false,
+        "variable": "forums_articles"
+    },
+    {
+        "id": 17868,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilForumExportGUI.php",
+        "line": 429,
+        "code": "$this->lng->txt('visits')",
+        "has_variable": false,
+        "variable": "visits"
+    },
+    {
+        "id": 17870,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilForumExportOptionHTML.php",
+        "line": 55,
+        "code": "$this->lng->txt('exp_format_dropdown-html')",
+        "has_variable": false,
+        "variable": "exp_format_dropdown-html"
+    },
+    {
+        "id": 17872,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilForumLP.php",
+        "line": 42,
+        "code": "$lng->txt('trac_frm_contribution_num_postings')",
+        "has_variable": false,
+        "variable": "trac_frm_contribution_num_postings"
+    },
+    {
+        "id": 17874,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilForumModeratorsGUI.php",
+        "line": 75,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 17876,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilForumModeratorsGUI.php",
+        "line": 110,
+        "code": "$this->lng->txt('frm_moderators_select_one')",
+        "has_variable": false,
+        "variable": "frm_moderators_select_one"
+    },
+    {
+        "id": 17878,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilForumModeratorsGUI.php",
+        "line": 133,
+        "code": "$this->lng->txt('frm_moderator_role_added_successfully')",
+        "has_variable": false,
+        "variable": "frm_moderator_role_added_successfully"
+    },
+    {
+        "id": 17880,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilForumModeratorsGUI.php",
+        "line": 152,
+        "code": "$this->lng->txt('frm_moderators_select_at_least_one')",
+        "has_variable": false,
+        "variable": "frm_moderators_select_at_least_one"
+    },
+    {
+        "id": 17882,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilForumModeratorsGUI.php",
+        "line": 161,
+        "code": "$this->lng->txt('frm_at_least_one_moderator')",
+        "has_variable": false,
+        "variable": "frm_at_least_one_moderator"
+    },
+    {
+        "id": 17884,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilForumModeratorsGUI.php",
+        "line": 191,
+        "code": "$this->lng->txt('frm_moderators_detached_role_successfully')",
+        "has_variable": false,
+        "variable": "frm_moderators_detached_role_successfully"
+    },
+    {
+        "id": 17886,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilForumModeratorsGUI.php",
+        "line": 203,
+        "code": "$this->lng->txt('user')",
+        "has_variable": false,
+        "variable": "user"
+    },
+    {
+        "id": 17888,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilForumModeratorsGUI.php",
+        "line": 204,
+        "code": "$this->lng->txt('add')",
+        "has_variable": false,
+        "variable": "add"
+    },
+    {
+        "id": 17890,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilForumSettingsGUI.php",
+        "line": 100,
+        "code": "$this->lng->txt('rep_activation_availability')",
+        "has_variable": false,
+        "variable": "rep_activation_availability"
+    },
+    {
+        "id": 17892,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilForumSettingsGUI.php",
+        "line": 103,
+        "code": "$this->lng->txt('rep_activation_online')",
+        "has_variable": false,
+        "variable": "rep_activation_online"
+    },
+    {
+        "id": 17894,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilForumSettingsGUI.php",
+        "line": 104,
+        "code": "$this->lng->txt('frm_activation_online_info')",
+        "has_variable": false,
+        "variable": "frm_activation_online_info"
+    },
+    {
+        "id": 17896,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilForumSettingsGUI.php",
+        "line": 112,
+        "code": "$this->lng->txt('frm_settings_form_header')",
+        "has_variable": false,
+        "variable": "frm_settings_form_header"
+    },
+    {
+        "id": 17898,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilForumSettingsGUI.php",
+        "line": 117,
+        "code": "$this->lng->txt('settings_presentation_header')",
+        "has_variable": false,
+        "variable": "settings_presentation_header"
+    },
+    {
+        "id": 17900,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilForumSettingsGUI.php",
+        "line": 122,
+        "code": "$this->lng->txt('frm_default_view')",
+        "has_variable": false,
+        "variable": "frm_default_view"
+    },
+    {
+        "id": 17902,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilForumSettingsGUI.php",
+        "line": 123,
+        "code": "$this->lng->txt('sort_by_posts')",
+        "has_variable": false,
+        "variable": "sort_by_posts"
+    },
+    {
+        "id": 17904,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilForumSettingsGUI.php",
+        "line": 124,
+        "code": "$this->lng->txt('sort_by_posts_desc')",
+        "has_variable": false,
+        "variable": "sort_by_posts_desc"
+    },
+    {
+        "id": 17906,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilForumSettingsGUI.php",
+        "line": 126,
+        "code": "$this->lng->txt('sort_by_date')",
+        "has_variable": false,
+        "variable": "sort_by_date"
+    },
+    {
+        "id": 17908,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilForumSettingsGUI.php",
+        "line": 127,
+        "code": "$this->lng->txt('sort_by_date_desc')",
+        "has_variable": false,
+        "variable": "sort_by_date_desc"
+    },
+    {
+        "id": 17910,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilForumSettingsGUI.php",
+        "line": 129,
+        "code": "$this->lng->txt('ascending_order')",
+        "has_variable": false,
+        "variable": "ascending_order"
+    },
+    {
+        "id": 17912,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilForumSettingsGUI.php",
+        "line": 130,
+        "code": "$this->lng->txt('descending_order')",
+        "has_variable": false,
+        "variable": "descending_order"
+    },
+    {
+        "id": 17914,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilForumSettingsGUI.php",
+        "line": 137,
+        "code": "$this->lng->txt('frm_settings_user_functions_header')",
+        "has_variable": false,
+        "variable": "frm_settings_user_functions_header"
+    },
+    {
+        "id": 17916,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilForumSettingsGUI.php",
+        "line": 140,
+        "code": "$this->lng->txt('frm_subject_setting')",
+        "has_variable": false,
+        "variable": "frm_subject_setting"
+    },
+    {
+        "id": 17918,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilForumSettingsGUI.php",
+        "line": 141,
+        "code": "$this->lng->txt('preset_subject')",
+        "has_variable": false,
+        "variable": "preset_subject"
+    },
+    {
+        "id": 17920,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilForumSettingsGUI.php",
+        "line": 142,
+        "code": "$this->lng->txt('add_re_to_subject')",
+        "has_variable": false,
+        "variable": "add_re_to_subject"
+    },
+    {
+        "id": 17922,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilForumSettingsGUI.php",
+        "line": 143,
+        "code": "$this->lng->txt('empty_subject')",
+        "has_variable": false,
+        "variable": "empty_subject"
+    },
+    {
+        "id": 17924,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilForumSettingsGUI.php",
+        "line": 146,
+        "code": "$this->lng->txt('enable_thread_ratings')",
+        "has_variable": false,
+        "variable": "enable_thread_ratings"
+    },
+    {
+        "id": 17926,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilForumSettingsGUI.php",
+        "line": 148,
+        "code": "$this->lng->txt('enable_thread_ratings_info')",
+        "has_variable": false,
+        "variable": "enable_thread_ratings_info"
+    },
+    {
+        "id": 17928,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilForumSettingsGUI.php",
+        "line": 152,
+        "code": "$this->lng->txt('file_upload_allowed')",
+        "has_variable": false,
+        "variable": "file_upload_allowed"
+    },
+    {
+        "id": 17930,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilForumSettingsGUI.php",
+        "line": 154,
+        "code": "$this->lng->txt('allow_file_upload_desc')",
+        "has_variable": false,
+        "variable": "allow_file_upload_desc"
+    },
+    {
+        "id": 17932,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilForumSettingsGUI.php",
+        "line": 159,
+        "code": "$this->lng->txt('frm_settings_mod_functions_header')",
+        "has_variable": false,
+        "variable": "frm_settings_mod_functions_header"
+    },
+    {
+        "id": 17934,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilForumSettingsGUI.php",
+        "line": 162,
+        "code": "$this->lng->txt('activate_new_posts')",
+        "has_variable": false,
+        "variable": "activate_new_posts"
+    },
+    {
+        "id": 17936,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilForumSettingsGUI.php",
+        "line": 164,
+        "code": "$this->lng->txt('post_activation_desc')",
+        "has_variable": false,
+        "variable": "post_activation_desc"
+    },
+    {
+        "id": 17938,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilForumSettingsGUI.php",
+        "line": 167,
+        "code": "$this->lng->txt('mark_moderator_posts')",
+        "has_variable": false,
+        "variable": "mark_moderator_posts"
+    },
+    {
+        "id": 17940,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilForumSettingsGUI.php",
+        "line": 169,
+        "code": "$this->lng->txt('mark_moderator_posts_desc')",
+        "has_variable": false,
+        "variable": "mark_moderator_posts_desc"
+    },
+    {
+        "id": 17942,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilForumSettingsGUI.php",
+        "line": 174,
+        "code": "$this->lng->txt('frm_settings_privacy_header')",
+        "has_variable": false,
+        "variable": "frm_settings_privacy_header"
+    },
+    {
+        "id": 17944,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilForumSettingsGUI.php",
+        "line": 179,
+        "code": "$this->lng->txt('frm_statistics_enabled')",
+        "has_variable": false,
+        "variable": "frm_statistics_enabled"
+    },
+    {
+        "id": 17946,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilForumSettingsGUI.php",
+        "line": 181,
+        "code": "$this->lng->txt('frm_statistics_enabled_desc')",
+        "has_variable": false,
+        "variable": "frm_statistics_enabled_desc"
+    },
+    {
+        "id": 17948,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilForumSettingsGUI.php",
+        "line": 186,
+        "code": "$this->lng->txt('frm_anonymous_posting')",
+        "has_variable": false,
+        "variable": "frm_anonymous_posting"
+    },
+    {
+        "id": 17950,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilForumSettingsGUI.php",
+        "line": 188,
+        "code": "$this->lng->txt('frm_anonymous_posting_desc')",
+        "has_variable": false,
+        "variable": "frm_anonymous_posting_desc"
+    },
+    {
+        "id": 17952,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilForumSettingsGUI.php",
+        "line": 328,
+        "code": "$this->lng->txt('msg_no_perm_read')",
+        "has_variable": false,
+        "variable": "msg_no_perm_read"
+    },
+    {
+        "id": 17954,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilForumSettingsGUI.php",
+        "line": 443,
+        "code": "$this->lng->txt('notification_settings')",
+        "has_variable": false,
+        "variable": "notification_settings"
+    },
+    {
+        "id": 17956,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilForumSettingsGUI.php",
+        "line": 460,
+        "code": "$this->lng->txt('msg_no_perm_read')",
+        "has_variable": false,
+        "variable": "msg_no_perm_read"
+    },
+    {
+        "id": 17958,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilForumSettingsGUI.php",
+        "line": 498,
+        "code": "$this->lng->txt('saved_successfully')",
+        "has_variable": false,
+        "variable": "saved_successfully"
+    },
+    {
+        "id": 17960,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilForumSettingsGUI.php",
+        "line": 506,
+        "code": "$this->lng->txt('msg_no_perm_read')",
+        "has_variable": false,
+        "variable": "msg_no_perm_read"
+    },
+    {
+        "id": 17962,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilForumSettingsGUI.php",
+        "line": 520,
+        "code": "$this->lng->txt('time_limit_no_users_selected')",
+        "has_variable": false,
+        "variable": "time_limit_no_users_selected"
+    },
+    {
+        "id": 17964,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilForumSettingsGUI.php",
+        "line": 535,
+        "code": "$this->lng->txt('saved_successfully')",
+        "has_variable": false,
+        "variable": "saved_successfully"
+    },
+    {
+        "id": 17966,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilForumSettingsGUI.php",
+        "line": 545,
+        "code": "$this->lng->txt('msg_no_perm_read')",
+        "has_variable": false,
+        "variable": "msg_no_perm_read"
+    },
+    {
+        "id": 17968,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilForumSettingsGUI.php",
+        "line": 559,
+        "code": "$this->lng->txt('time_limit_no_users_selected')",
+        "has_variable": false,
+        "variable": "time_limit_no_users_selected"
+    },
+    {
+        "id": 17970,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilForumSettingsGUI.php",
+        "line": 572,
+        "code": "$this->lng->txt('saved_successfully')",
+        "has_variable": false,
+        "variable": "saved_successfully"
+    },
+    {
+        "id": 17972,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilForumSettingsGUI.php",
+        "line": 582,
+        "code": "$this->lng->txt('msg_no_perm_read')",
+        "has_variable": false,
+        "variable": "msg_no_perm_read"
+    },
+    {
+        "id": 17974,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilForumSettingsGUI.php",
+        "line": 600,
+        "code": "$this->lng->txt('time_limit_no_users_selected')",
+        "has_variable": false,
+        "variable": "time_limit_no_users_selected"
+    },
+    {
+        "id": 17976,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilForumSettingsGUI.php",
+        "line": 617,
+        "code": "$this->lng->txt('saved_successfully')",
+        "has_variable": false,
+        "variable": "saved_successfully"
+    },
+    {
+        "id": 17978,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilForumSettingsGUI.php",
+        "line": 627,
+        "code": "$this->lng->txt('msg_no_perm_read')",
+        "has_variable": false,
+        "variable": "msg_no_perm_read"
+    },
+    {
+        "id": 17980,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilForumSettingsGUI.php",
+        "line": 645,
+        "code": "$this->lng->txt('time_limit_no_users_selected')",
+        "has_variable": false,
+        "variable": "time_limit_no_users_selected"
+    },
+    {
+        "id": 17982,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilForumSettingsGUI.php",
+        "line": 661,
+        "code": "$this->lng->txt('saved_successfully')",
+        "has_variable": false,
+        "variable": "saved_successfully"
+    },
+    {
+        "id": 17984,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilForumSettingsGUI.php",
+        "line": 672,
+        "code": "$this->lng->txt('forums_notification_settings')",
+        "has_variable": false,
+        "variable": "forums_notification_settings"
+    },
+    {
+        "id": 17986,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilForumSettingsGUI.php",
+        "line": 678,
+        "code": "$this->lng->txt('user_decides_notification')",
+        "has_variable": false,
+        "variable": "user_decides_notification"
+    },
+    {
+        "id": 17988,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilForumSettingsGUI.php",
+        "line": 681,
+        "code": "$this->lng->txt('settings_for_all_members')",
+        "has_variable": false,
+        "variable": "settings_for_all_members"
+    },
+    {
+        "id": 17990,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilForumSettingsGUI.php",
+        "line": 682,
+        "code": "$this->lng->txt('settings_per_users')",
+        "has_variable": false,
+        "variable": "settings_per_users"
+    },
+    {
+        "id": 17992,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilForumSettingsGUI.php",
+        "line": 688,
+        "code": "$this->lng->txt('user_toggle_noti')",
+        "has_variable": false,
+        "variable": "user_toggle_noti"
+    },
+    {
+        "id": 17994,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilForumSettingsGUI.php",
+        "line": 693,
+        "code": "$this->lng->txt('notification_settings')",
+        "has_variable": false,
+        "variable": "notification_settings"
+    },
+    {
+        "id": 17996,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilForumSettingsGUI.php",
+        "line": 695,
+        "code": "$this->lng->txt('notify_modified')",
+        "has_variable": false,
+        "variable": "notify_modified"
+    },
+    {
+        "id": 17998,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilForumSettingsGUI.php",
+        "line": 698,
+        "code": "$this->lng->txt('notify_censored')",
+        "has_variable": false,
+        "variable": "notify_censored"
+    },
+    {
+        "id": 18000,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilForumSettingsGUI.php",
+        "line": 701,
+        "code": "$this->lng->txt('notify_uncensored')",
+        "has_variable": false,
+        "variable": "notify_uncensored"
+    },
+    {
+        "id": 18002,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilForumSettingsGUI.php",
+        "line": 704,
+        "code": "$this->lng->txt('notify_post_deleted')",
+        "has_variable": false,
+        "variable": "notify_post_deleted"
+    },
+    {
+        "id": 18004,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilForumSettingsGUI.php",
+        "line": 707,
+        "code": "$this->lng->txt('notify_thread_deleted')",
+        "has_variable": false,
+        "variable": "notify_thread_deleted"
+    },
+    {
+        "id": 18006,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilForumSettingsGUI.php",
+        "line": 713,
+        "code": "$this->lng->txt('save')",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 18008,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilForumSettingsGUI.php",
+        "line": 727,
+        "code": "$this->lng->txt('msg_no_perm_read')",
+        "has_variable": false,
+        "variable": "msg_no_perm_read"
+    },
+    {
+        "id": 18010,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilForumSettingsGUI.php",
+        "line": 781,
+        "code": "$this->lng->txt('saved_successfully')",
+        "has_variable": false,
+        "variable": "saved_successfully"
+    },
+    {
+        "id": 18012,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilForumTopicTableGUI.php",
+        "line": 91,
+        "code": "$this->lng->txt('forums_thread')",
+        "has_variable": false,
+        "variable": "forums_thread"
+    },
+    {
+        "id": 18014,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilForumTopicTableGUI.php",
+        "line": 92,
+        "code": "$this->lng->txt('forums_created_by')",
+        "has_variable": false,
+        "variable": "forums_created_by"
+    },
+    {
+        "id": 18016,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilForumTopicTableGUI.php",
+        "line": 93,
+        "code": "$this->lng->txt('forums_articles')",
+        "has_variable": false,
+        "variable": "forums_articles"
+    },
+    {
+        "id": 18018,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilForumTopicTableGUI.php",
+        "line": 94,
+        "code": "$this->lng->txt('visits')",
+        "has_variable": false,
+        "variable": "visits"
+    },
+    {
+        "id": 18020,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilForumTopicTableGUI.php",
+        "line": 97,
+        "code": "$this->lng->txt('drafts', '')",
+        "has_variable": true,
+        "variable": ""
+    },
+    {
+        "id": 18022,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilForumTopicTableGUI.php",
+        "line": 100,
+        "code": "$this->lng->txt('forums_last_post')",
+        "has_variable": false,
+        "variable": "forums_last_post"
+    },
+    {
+        "id": 18024,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilForumTopicTableGUI.php",
+        "line": 102,
+        "code": "$this->lng->txt('frm_rating')",
+        "has_variable": false,
+        "variable": "frm_rating"
+    },
+    {
+        "id": 18026,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilForumTopicTableGUI.php",
+        "line": 108,
+        "code": "$this->lng->txt('please_choose')",
+        "has_variable": false,
+        "variable": "please_choose"
+    },
+    {
+        "id": 18028,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilForumTopicTableGUI.php",
+        "line": 110,
+        "code": "$this->lng->txt('forums_enable_notification')",
+        "has_variable": false,
+        "variable": "forums_enable_notification"
+    },
+    {
+        "id": 18030,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilForumTopicTableGUI.php",
+        "line": 111,
+        "code": "$this->lng->txt('forums_disable_notification')",
+        "has_variable": false,
+        "variable": "forums_disable_notification"
+    },
+    {
+        "id": 18032,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilForumTopicTableGUI.php",
+        "line": 114,
+        "code": "$this->lng->txt('make_topics_sticky')",
+        "has_variable": false,
+        "variable": "make_topics_sticky"
+    },
+    {
+        "id": 18034,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilForumTopicTableGUI.php",
+        "line": 115,
+        "code": "$this->lng->txt('make_topics_non_sticky')",
+        "has_variable": false,
+        "variable": "make_topics_non_sticky"
+    },
+    {
+        "id": 18036,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilForumTopicTableGUI.php",
+        "line": 116,
+        "code": "$this->lng->txt('frm_edit_title')",
+        "has_variable": false,
+        "variable": "frm_edit_title"
+    },
+    {
+        "id": 18038,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilForumTopicTableGUI.php",
+        "line": 117,
+        "code": "$this->lng->txt('close_topics')",
+        "has_variable": false,
+        "variable": "close_topics"
+    },
+    {
+        "id": 18040,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilForumTopicTableGUI.php",
+        "line": 118,
+        "code": "$this->lng->txt('reopen_topics')",
+        "has_variable": false,
+        "variable": "reopen_topics"
+    },
+    {
+        "id": 18042,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilForumTopicTableGUI.php",
+        "line": 119,
+        "code": "$this->lng->txt('move_thread_to_forum')",
+        "has_variable": false,
+        "variable": "move_thread_to_forum"
+    },
+    {
+        "id": 18044,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilForumTopicTableGUI.php",
+        "line": 121,
+        "code": "$this->lng->txt('export_html')",
+        "has_variable": false,
+        "variable": "export_html"
+    },
+    {
+        "id": 18046,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilForumTopicTableGUI.php",
+        "line": 123,
+        "code": "$this->lng->txt('delete')",
+        "has_variable": false,
+        "variable": "delete"
+    },
+    {
+        "id": 18048,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilForumTopicTableGUI.php",
+        "line": 124,
+        "code": "$this->lng->txt('merge_posts_into_thread')",
+        "has_variable": false,
+        "variable": "merge_posts_into_thread"
+    },
+    {
+        "id": 18050,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilForumTopicTableGUI.php",
+        "line": 127,
+        "code": "$this->lng->txt('number_of_threads')",
+        "has_variable": false,
+        "variable": "number_of_threads"
+    },
+    {
+        "id": 18052,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilForumTopicTableGUI.php",
+        "line": 133,
+        "code": "$this->lng->txt('forums_thread')",
+        "has_variable": false,
+        "variable": "forums_thread"
+    },
+    {
+        "id": 18054,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilForumTopicTableGUI.php",
+        "line": 134,
+        "code": "$this->lng->txt('forums_created_by')",
+        "has_variable": false,
+        "variable": "forums_created_by"
+    },
+    {
+        "id": 18056,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilForumTopicTableGUI.php",
+        "line": 135,
+        "code": "$this->lng->txt('forums_articles')",
+        "has_variable": false,
+        "variable": "forums_articles"
+    },
+    {
+        "id": 18058,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilForumTopicTableGUI.php",
+        "line": 136,
+        "code": "$this->lng->txt('visits')",
+        "has_variable": false,
+        "variable": "visits"
+    },
+    {
+        "id": 18060,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilForumTopicTableGUI.php",
+        "line": 138,
+        "code": "$this->lng->txt('drafts', '')",
+        "has_variable": true,
+        "variable": ""
+    },
+    {
+        "id": 18062,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilForumTopicTableGUI.php",
+        "line": 140,
+        "code": "$this->lng->txt('forums_last_post')",
+        "has_variable": false,
+        "variable": "forums_last_post"
+    },
+    {
+        "id": 18064,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilForumTopicTableGUI.php",
+        "line": 146,
+        "code": "$this->lng->txt('please_choose_target')",
+        "has_variable": false,
+        "variable": "please_choose_target"
+    },
+    {
+        "id": 18066,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilForumTopicTableGUI.php",
+        "line": 148,
+        "code": "$this->lng->txt('frm_selected_merge_src')",
+        "has_variable": false,
+        "variable": "frm_selected_merge_src"
+    },
+    {
+        "id": 18068,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilForumTopicTableGUI.php",
+        "line": 150,
+        "code": "$this->lng->txt('merge')",
+        "has_variable": false,
+        "variable": "merge"
+    },
+    {
+        "id": 18070,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilForumTopicTableGUI.php",
+        "line": 151,
+        "code": "$this->lng->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 18072,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilForumTopicTableGUI.php",
+        "line": 153,
+        "code": "$this->lng->txt('number_of_threads')",
+        "has_variable": false,
+        "variable": "number_of_threads"
+    },
+    {
+        "id": 18074,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilForumTopicTableGUI.php",
+        "line": 206,
+        "code": "$this->lng->txt('sticky')",
+        "has_variable": false,
+        "variable": "sticky"
+    },
+    {
+        "id": 18076,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilForumTopicTableGUI.php",
+        "line": 209,
+        "code": "$this->lng->txt('topic_close')",
+        "has_variable": false,
+        "variable": "topic_close"
+    },
+    {
+        "id": 18078,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilForumTopicTableGUI.php",
+        "line": 216,
+        "code": "$this->lng->txt('forums_notification_enabled')",
+        "has_variable": false,
+        "variable": "forums_notification_enabled"
+    },
+    {
+        "id": 18080,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilForumTopicTableGUI.php",
+        "line": 250,
+        "code": "$this->lng->txt('unread')",
+        "has_variable": false,
+        "variable": "unread"
+    },
+    {
+        "id": 18082,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilForumTopicTableGUI.php",
+        "line": 284,
+        "code": "$this->lng->txt('from')",
+        "has_variable": false,
+        "variable": "from"
+    },
+    {
+        "id": 18084,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilForumUtil.php",
+        "line": 36,
+        "code": "$lng->txt('forums_anonymous')",
+        "has_variable": false,
+        "variable": "forums_anonymous"
+    },
+    {
+        "id": 18086,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumAdministrationGUI.php",
+        "line": 59,
+        "code": "$this->lng->txt('no_permission')",
+        "has_variable": false,
+        "variable": "no_permission"
+    },
+    {
+        "id": 18088,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumAdministrationGUI.php",
+        "line": 121,
+        "code": "$this->lng->txt('no_permission')",
+        "has_variable": false,
+        "variable": "no_permission"
+    },
+    {
+        "id": 18090,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumAdministrationGUI.php",
+        "line": 169,
+        "code": "$this->lng->txt('settings_saved')",
+        "has_variable": false,
+        "variable": "settings_saved"
+    },
+    {
+        "id": 18092,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumAdministrationGUI.php",
+        "line": 181,
+        "code": "$this->lng->txt($label)",
+        "has_variable": true,
+        "variable": "$label"
+    },
+    {
+        "id": 18094,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumAdministrationGUI.php",
+        "line": 184,
+        "code": "$this->lng->txt($label)",
+        "has_variable": true,
+        "variable": "$label"
+    },
+    {
+        "id": 18096,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumAdministrationGUI.php",
+        "line": 185,
+        "code": "$this->lng->txt($label . '_desc')",
+        "has_variable": true,
+        "variable": "$label . '_desc'"
+    },
+    {
+        "id": 18098,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumAdministrationGUI.php",
+        "line": 189,
+        "code": "$this->lng->txt('sort_by_date')",
+        "has_variable": false,
+        "variable": "sort_by_date"
+    },
+    {
+        "id": 18100,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumAdministrationGUI.php",
+        "line": 190,
+        "code": "$this->lng->txt($label)",
+        "has_variable": true,
+        "variable": "$label"
+    },
+    {
+        "id": 18102,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumAdministrationGUI.php",
+        "line": 225,
+        "code": "$this->lng->txt('frm_default_view')",
+        "has_variable": false,
+        "variable": "frm_default_view"
+    },
+    {
+        "id": 18104,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumAdministrationGUI.php",
+        "line": 228,
+        "code": "$this->lng->txt('sort_by_posts')",
+        "has_variable": false,
+        "variable": "sort_by_posts"
+    },
+    {
+        "id": 18106,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumAdministrationGUI.php",
+        "line": 229,
+        "code": "$this->lng->txt('sort_by_posts_desc')",
+        "has_variable": false,
+        "variable": "sort_by_posts_desc"
+    },
+    {
+        "id": 18108,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumAdministrationGUI.php",
+        "line": 234,
+        "code": "$this->lng->txt('sort_by_date_desc')",
+        "has_variable": false,
+        "variable": "sort_by_date_desc"
+    },
+    {
+        "id": 18110,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumAdministrationGUI.php",
+        "line": 239,
+        "code": "$this->lng->txt('sort_by_date_desc')",
+        "has_variable": false,
+        "variable": "sort_by_date_desc"
+    },
+    {
+        "id": 18112,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumAdministrationGUI.php",
+        "line": 248,
+        "code": "$this->lng->txt('file_upload_allowed_fora')",
+        "has_variable": false,
+        "variable": "file_upload_allowed_fora"
+    },
+    {
+        "id": 18114,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumAdministrationGUI.php",
+        "line": 252,
+        "code": "$this->lng->txt('file_upload_option_allow')",
+        "has_variable": false,
+        "variable": "file_upload_option_allow"
+    },
+    {
+        "id": 18116,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumAdministrationGUI.php",
+        "line": 253,
+        "code": "$this->lng->txt('file_upload_option_allow_info')",
+        "has_variable": false,
+        "variable": "file_upload_option_allow_info"
+    },
+    {
+        "id": 18118,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumAdministrationGUI.php",
+        "line": 257,
+        "code": "$this->lng->txt('file_upload_option_disallow')",
+        "has_variable": false,
+        "variable": "file_upload_option_disallow"
+    },
+    {
+        "id": 18120,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumAdministrationGUI.php",
+        "line": 258,
+        "code": "$this->lng->txt('file_upload_allowed_fora_desc')",
+        "has_variable": false,
+        "variable": "file_upload_allowed_fora_desc"
+    },
+    {
+        "id": 18122,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumAdministrationGUI.php",
+        "line": 288,
+        "code": "$this->lng->txt('adm_autosave_ival')",
+        "has_variable": false,
+        "variable": "adm_autosave_ival"
+    },
+    {
+        "id": 18124,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumAdministrationGUI.php",
+        "line": 296,
+        "code": "$this->lng->txt('adm_autosave_drafts')",
+        "has_variable": false,
+        "variable": "adm_autosave_drafts"
+    },
+    {
+        "id": 18126,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumAdministrationGUI.php",
+        "line": 296,
+        "code": "$this->lng->txt('adm_autosave_drafts_desc')",
+        "has_variable": false,
+        "variable": "adm_autosave_drafts_desc"
+    },
+    {
+        "id": 18128,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumAdministrationGUI.php",
+        "line": 309,
+        "code": "$this->lng->txt('refresh')",
+        "has_variable": false,
+        "variable": "refresh"
+    },
+    {
+        "id": 18130,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumAdministrationGUI.php",
+        "line": 353,
+        "code": "$this->lng->txt(key($data))",
+        "has_variable": true,
+        "variable": "\\$data"
+    },
+    {
+        "id": 18132,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumAdministrationGUI.php",
+        "line": 354,
+        "code": "$this->lng->txt('adm_external_setting_edit')",
+        "has_variable": false,
+        "variable": "adm_external_setting_edit"
+    },
+    {
+        "id": 18134,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumAdministrationGUI.php",
+        "line": 367,
+        "code": "$this->lng->txt('cron_forum_notification_disabled')",
+        "has_variable": false,
+        "variable": "cron_forum_notification_disabled"
+    },
+    {
+        "id": 18136,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 226,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 18138,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 245,
+        "code": "$this->lng->txt('saving')",
+        "has_variable": false,
+        "variable": "saving"
+    },
+    {
+        "id": 18140,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 365,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 18142,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 368,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 18144,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 397,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 18146,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 422,
+        "code": "$this->lng->txt('back')",
+        "has_variable": false,
+        "variable": "back"
+    },
+    {
+        "id": 18148,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 503,
+        "code": "$this->lng->txt('msg_no_perm_read')",
+        "has_variable": false,
+        "variable": "msg_no_perm_read"
+    },
+    {
+        "id": 18150,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 507,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 18152,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 602,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 18154,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 606,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 18156,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 622,
+        "code": "$this->lng->txt('saved_successfully')",
+        "has_variable": false,
+        "variable": "saved_successfully"
+    },
+    {
+        "id": 18158,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 632,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 18160,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 636,
+        "code": "$this->lng->txt('forums_all_threads_marked_read')",
+        "has_variable": false,
+        "variable": "forums_all_threads_marked_read"
+    },
+    {
+        "id": 18162,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 649,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 18164,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 680,
+        "code": "$this->lng->txt('forums_new_thread')",
+        "has_variable": false,
+        "variable": "forums_new_thread"
+    },
+    {
+        "id": 18166,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 692,
+        "code": "$this->lng->txt('forums_mark_read')",
+        "has_variable": false,
+        "variable": "forums_mark_read"
+    },
+    {
+        "id": 18168,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 702,
+        "code": "$this->lng->txt('cntr_text_media_editor')",
+        "has_variable": false,
+        "variable": "cntr_text_media_editor"
+    },
+    {
+        "id": 18170,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 724,
+        "code": "$this->lng->txt('forums_closed')",
+        "has_variable": false,
+        "variable": "forums_closed"
+    },
+    {
+        "id": 18172,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 747,
+        "code": "$this->lng->txt('top_thema')",
+        "has_variable": false,
+        "variable": "top_thema"
+    },
+    {
+        "id": 18174,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 755,
+        "code": "$this->lng->txt('thema')",
+        "has_variable": false,
+        "variable": "thema"
+    },
+    {
+        "id": 18176,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 785,
+        "code": "$this->lng->txt('thread_overview')",
+        "has_variable": false,
+        "variable": "thread_overview"
+    },
+    {
+        "id": 18178,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 786,
+        "code": "$this->lng->txt('frm_no_threads')",
+        "has_variable": false,
+        "variable": "frm_no_threads"
+    },
+    {
+        "id": 18180,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 790,
+        "code": "$this->lng->txt('thread_overview')",
+        "has_variable": false,
+        "variable": "thread_overview"
+    },
+    {
+        "id": 18182,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 827,
+        "code": "$this->lng->txt($sortation->languageId())",
+        "has_variable": true,
+        "variable": "$sortation->languageId()"
+    },
+    {
+        "id": 18184,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 872,
+        "code": "$this->lng->txt('unread')",
+        "has_variable": false,
+        "variable": "unread"
+    },
+    {
+        "id": 18186,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 883,
+        "code": "$this->lng->txt('forums_created_by')",
+        "has_variable": false,
+        "variable": "forums_created_by"
+    },
+    {
+        "id": 18188,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 884,
+        "code": "$this->lng->txt('forums_articles')",
+        "has_variable": false,
+        "variable": "forums_articles"
+    },
+    {
+        "id": 18190,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 885,
+        "code": "$this->lng->txt('forums_last_post')",
+        "has_variable": false,
+        "variable": "forums_last_post"
+    },
+    {
+        "id": 18192,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 886,
+        "code": "$this->lng->txt('visits')",
+        "has_variable": false,
+        "variable": "visits"
+    },
+    {
+        "id": 18194,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 890,
+        "code": "$this->lng->txt('relevance')",
+        "has_variable": false,
+        "variable": "relevance"
+    },
+    {
+        "id": 18196,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 890,
+        "code": "$this->lng->txt('sticky')",
+        "has_variable": false,
+        "variable": "sticky"
+    },
+    {
+        "id": 18198,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 904,
+        "code": "$this->lng->txt('frm_rating')",
+        "has_variable": false,
+        "variable": "frm_rating"
+    },
+    {
+        "id": 18200,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 936,
+        "code": "$this->lng->txt('frm_edit_title')",
+        "has_variable": false,
+        "variable": "frm_edit_title"
+    },
+    {
+        "id": 18202,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 942,
+        "code": "$this->lng->txt('move_thread_to_forum')",
+        "has_variable": false,
+        "variable": "move_thread_to_forum"
+    },
+    {
+        "id": 18204,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 948,
+        "code": "$this->lng->txt('merge_posts_into_thread')",
+        "has_variable": false,
+        "variable": "merge_posts_into_thread"
+    },
+    {
+        "id": 18206,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 954,
+        "code": "$this->lng->txt('delete_thread')",
+        "has_variable": false,
+        "variable": "delete_thread"
+    },
+    {
+        "id": 18208,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 982,
+        "code": "$this->lng->txt('frm_edit_title')",
+        "has_variable": false,
+        "variable": "frm_edit_title"
+    },
+    {
+        "id": 18210,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 985,
+        "code": "$this->lng->txt('frm_edit_title')",
+        "has_variable": false,
+        "variable": "frm_edit_title"
+    },
+    {
+        "id": 18212,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 1022,
+        "code": "$this->lng->txt('drafts')",
+        "has_variable": false,
+        "variable": "drafts"
+    },
+    {
+        "id": 18214,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 1026,
+        "code": "$this->lng->txt('drafts')",
+        "has_variable": false,
+        "variable": "drafts"
+    },
+    {
+        "id": 18216,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 1036,
+        "code": "$this->lng->txt($forum_topic->isSticky() ? 'make_topics_non_sticky' : 'make_topics_sticky')",
+        "has_variable": true,
+        "variable": "_"
+    },
+    {
+        "id": 18218,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 1046,
+        "code": "$this->lng->txt($forum_topic->isClosed() ? 'reopen_topics' : 'close_topics')",
+        "has_variable": true,
+        "variable": "_"
+    },
+    {
+        "id": 18220,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 1108,
+        "code": "$this->lng->txt('forums_attachments')",
+        "has_variable": false,
+        "variable": "forums_attachments"
+    },
+    {
+        "id": 18222,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 1119,
+        "code": "$this->lng->txt('download')",
+        "has_variable": false,
+        "variable": "download"
+    },
+    {
+        "id": 18224,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 1193,
+        "code": "$this->lng->txt('frm_moderator_f')",
+        "has_variable": false,
+        "variable": "frm_moderator_f"
+    },
+    {
+        "id": 18226,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 1195,
+        "code": "$this->lng->txt('frm_moderator_m')",
+        "has_variable": false,
+        "variable": "frm_moderator_m"
+    },
+    {
+        "id": 18228,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 1197,
+        "code": "$this->lng->txt('frm_moderator_n')",
+        "has_variable": false,
+        "variable": "frm_moderator_n"
+    },
+    {
+        "id": 18230,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 1222,
+        "code": "$this->lng->txt('edited_on')",
+        "has_variable": false,
+        "variable": "edited_on"
+    },
+    {
+        "id": 18232,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 1222,
+        "code": "$this->lng->txt('by')",
+        "has_variable": false,
+        "variable": "by"
+    },
+    {
+        "id": 18234,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 1235,
+        "code": "$this->lng->txt('post_draft_info')",
+        "has_variable": false,
+        "variable": "post_draft_info"
+    },
+    {
+        "id": 18236,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 1301,
+        "code": "$this->lng->txt('forums_attachments')",
+        "has_variable": false,
+        "variable": "forums_attachments"
+    },
+    {
+        "id": 18238,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 1312,
+        "code": "$this->lng->txt('download')",
+        "has_variable": false,
+        "variable": "download"
+    },
+    {
+        "id": 18240,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 1322,
+        "code": "$this->lng->txt('perma_link')",
+        "has_variable": false,
+        "variable": "perma_link"
+    },
+    {
+        "id": 18242,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 1348,
+        "code": "$this->lng->txt('post_censored_comment_by_moderator')",
+        "has_variable": false,
+        "variable": "post_censored_comment_by_moderator"
+    },
+    {
+        "id": 18244,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 1357,
+        "code": "$this->lng->txt('frm_post_not_activated_yet')",
+        "has_variable": false,
+        "variable": "frm_post_not_activated_yet"
+    },
+    {
+        "id": 18246,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 1398,
+        "code": "$this->lng->txt('frm_moderator_n')",
+        "has_variable": false,
+        "variable": "frm_moderator_n"
+    },
+    {
+        "id": 18248,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 1400,
+        "code": "$this->lng->txt('frm_moderator_' . $authorinfo->getAuthor()->getGender())",
+        "has_variable": true,
+        "variable": "'frm_moderator_' . $authorinfo->getAuthor()->getGender()"
+    },
+    {
+        "id": 18250,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 1428,
+        "code": "$this->lng->txt('edited_on')",
+        "has_variable": false,
+        "variable": "edited_on"
+    },
+    {
+        "id": 18252,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 1428,
+        "code": "$this->lng->txt('by')",
+        "has_variable": false,
+        "variable": "by"
+    },
+    {
+        "id": 18254,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 1440,
+        "code": "$this->lng->txt('target_select')",
+        "has_variable": false,
+        "variable": "target_select"
+    },
+    {
+        "id": 18256,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 1451,
+        "code": "$this->lng->txt('select')",
+        "has_variable": false,
+        "variable": "select"
+    },
+    {
+        "id": 18258,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 1534,
+        "code": "$this->lng->txt('frm_added')",
+        "has_variable": false,
+        "variable": "frm_added"
+    },
+    {
+        "id": 18260,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 1634,
+        "code": "$this->lng->txt('learning_progress')",
+        "has_variable": false,
+        "variable": "learning_progress"
+    },
+    {
+        "id": 18262,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 1683,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 18264,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 1687,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 18266,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 1692,
+        "code": "$this->lng->txt('frm_statistics_disabled_for_participants')",
+        "has_variable": false,
+        "variable": "frm_statistics_disabled_for_participants"
+    },
+    {
+        "id": 18268,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 1694,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 18270,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 1777,
+        "code": "$lng->txt('msg_no_perm_read_item')",
+        "has_variable": false,
+        "variable": "msg_no_perm_read_item"
+    },
+    {
+        "id": 18272,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 1783,
+        "code": "$lng->txt('msg_no_perm_read')",
+        "has_variable": false,
+        "variable": "msg_no_perm_read"
+    },
+    {
+        "id": 18274,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 1790,
+        "code": "$this->lng->txt('select_at_least_one_thread')",
+        "has_variable": false,
+        "variable": "select_at_least_one_thread"
+    },
+    {
+        "id": 18276,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 1795,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 18278,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 1799,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 18280,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 1826,
+        "code": "$this->lng->txt($success_message)",
+        "has_variable": true,
+        "variable": "$success_message"
+    },
+    {
+        "id": 18282,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 1836,
+        "code": "$this->lng->txt('select_at_least_one_thread')",
+        "has_variable": false,
+        "variable": "select_at_least_one_thread"
+    },
+    {
+        "id": 18284,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 1841,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 18286,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 1845,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 18288,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 1860,
+        "code": "$this->lng->txt('frm_sure_delete_threads')",
+        "has_variable": false,
+        "variable": "frm_sure_delete_threads"
+    },
+    {
+        "id": 18290,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 1861,
+        "code": "$this->lng->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 18292,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 1862,
+        "code": "$this->lng->txt('confirm')",
+        "has_variable": false,
+        "variable": "confirm"
+    },
+    {
+        "id": 18294,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 1877,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 18296,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 1898,
+        "code": "$this->lng->txt('select_at_least_one_thread')",
+        "has_variable": false,
+        "variable": "select_at_least_one_thread"
+    },
+    {
+        "id": 18298,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 1914,
+        "code": "$this->lng->txt('sure_delete_drafts')",
+        "has_variable": false,
+        "variable": "sure_delete_drafts"
+    },
+    {
+        "id": 18300,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 1915,
+        "code": "$this->lng->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 18302,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 1916,
+        "code": "$this->lng->txt('confirm')",
+        "has_variable": false,
+        "variable": "confirm"
+    },
+    {
+        "id": 18304,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 1936,
+        "code": "$this->lng->txt('frm_all_threads')",
+        "has_variable": false,
+        "variable": "frm_all_threads"
+    },
+    {
+        "id": 18306,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 1951,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 18308,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 1955,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 18310,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 1970,
+        "code": "$this->lng->txt('forums_post_was_activated')",
+        "has_variable": false,
+        "variable": "forums_post_was_activated"
+    },
+    {
+        "id": 18312,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 1998,
+        "code": "$this->lng->txt('forums_post_deleted')",
+        "has_variable": false,
+        "variable": "forums_post_deleted"
+    },
+    {
+        "id": 18314,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 2005,
+        "code": "$this->lng->txt('forums_post_deleted')",
+        "has_variable": false,
+        "variable": "forums_post_deleted"
+    },
+    {
+        "id": 18316,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 2010,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 18318,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 2064,
+        "code": "$this->lng->txt('frm_censorship_revoked')",
+        "has_variable": false,
+        "variable": "frm_censorship_revoked"
+    },
+    {
+        "id": 18320,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 2067,
+        "code": "$this->lng->txt('frm_censorship_applied')",
+        "has_variable": false,
+        "variable": "frm_censorship_applied"
+    },
+    {
+        "id": 18322,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 2074,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 18324,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 2080,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 18326,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 2084,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 18328,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 2105,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 18330,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 2112,
+        "code": "$this->lng->txt('forums_notification_disabled')",
+        "has_variable": false,
+        "variable": "forums_notification_disabled"
+    },
+    {
+        "id": 18332,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 2115,
+        "code": "$this->lng->txt('forums_notification_enabled')",
+        "has_variable": false,
+        "variable": "forums_notification_enabled"
+    },
+    {
+        "id": 18334,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 2125,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 18336,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 2129,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 18338,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 2201,
+        "code": "$this->lng->txt('activate_post_txt')",
+        "has_variable": false,
+        "variable": "activate_post_txt"
+    },
+    {
+        "id": 18340,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 2203,
+        "code": "$this->lng->txt('activate_only_current')",
+        "has_variable": false,
+        "variable": "activate_only_current"
+    },
+    {
+        "id": 18342,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 2224,
+        "code": "$this->lng->txt('activate_only_current')",
+        "has_variable": false,
+        "variable": "activate_only_current"
+    },
+    {
+        "id": 18344,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 2227,
+        "code": "$this->lng->txt('activate_post')",
+        "has_variable": false,
+        "variable": "activate_post"
+    },
+    {
+        "id": 18346,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 2253,
+        "code": "$this->lng->txt('forums_the_post')",
+        "has_variable": false,
+        "variable": "forums_the_post"
+    },
+    {
+        "id": 18348,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 2254,
+        "code": "$this->lng->txt('forums_censor_comment')",
+        "has_variable": false,
+        "variable": "forums_censor_comment"
+    },
+    {
+        "id": 18350,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 2258,
+        "code": "$this->lng->txt('forums_info_censor2_post')",
+        "has_variable": false,
+        "variable": "forums_info_censor2_post"
+    },
+    {
+        "id": 18352,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 2259,
+        "code": "$this->lng->txt('confirm')",
+        "has_variable": false,
+        "variable": "confirm"
+    },
+    {
+        "id": 18354,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 2260,
+        "code": "$this->lng->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 18356,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 2264,
+        "code": "$this->lng->txt('forums_info_censor_post')",
+        "has_variable": false,
+        "variable": "forums_info_censor_post"
+    },
+    {
+        "id": 18358,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 2265,
+        "code": "$this->lng->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 18360,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 2266,
+        "code": "$this->lng->txt('confirm')",
+        "has_variable": false,
+        "variable": "confirm"
+    },
+    {
+        "id": 18362,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 2323,
+        "code": "$this->lng->txt('forums_your_reply')",
+        "has_variable": false,
+        "variable": "forums_your_reply"
+    },
+    {
+        "id": 18364,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 2325,
+        "code": "$this->lng->txt('forums_edit_draft')",
+        "has_variable": false,
+        "variable": "forums_edit_draft"
+    },
+    {
+        "id": 18366,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 2327,
+        "code": "$this->lng->txt('forums_edit_post')",
+        "has_variable": false,
+        "variable": "forums_edit_post"
+    },
+    {
+        "id": 18368,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 2334,
+        "code": "$this->lng->txt('forums_your_name')",
+        "has_variable": false,
+        "variable": "forums_your_name"
+    },
+    {
+        "id": 18370,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 2336,
+        "code": "$this->lng->txt('forums_use_alias')",
+        "has_variable": false,
+        "variable": "forums_use_alias"
+    },
+    {
+        "id": 18372,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 2336,
+        "code": "$this->lng->txt('forums_anonymous')",
+        "has_variable": false,
+        "variable": "forums_anonymous"
+    },
+    {
+        "id": 18374,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 2341,
+        "code": "$this->lng->txt('forums_subject')",
+        "has_variable": false,
+        "variable": "forums_subject"
+    },
+    {
+        "id": 18376,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 2346,
+        "code": "$this->lng->txt('enter_new_subject')",
+        "has_variable": false,
+        "variable": "enter_new_subject"
+    },
+    {
+        "id": 18378,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 2352,
+        "code": "$this->lng->txt('forums_your_reply')",
+        "has_variable": false,
+        "variable": "forums_your_reply"
+    },
+    {
+        "id": 18380,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 2352,
+        "code": "$this->lng->txt('forums_edit_post')",
+        "has_variable": false,
+        "variable": "forums_edit_post"
+    },
+    {
+        "id": 18382,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 2408,
+        "code": "$this->lng->txt('latex_edit_info')",
+        "has_variable": false,
+        "variable": "latex_edit_info"
+    },
+    {
+        "id": 18384,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 2417,
+        "code": "$this->lng->txt('forum_direct_notification')",
+        "has_variable": false,
+        "variable": "forum_direct_notification"
+    },
+    {
+        "id": 18386,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 2418,
+        "code": "$this->lng->txt('forum_notify_me')",
+        "has_variable": false,
+        "variable": "forum_notify_me"
+    },
+    {
+        "id": 18388,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 2423,
+        "code": "$this->lng->txt('forums_attachments_add')",
+        "has_variable": false,
+        "variable": "forums_attachments_add"
+    },
+    {
+        "id": 18390,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 2430,
+        "code": "$this->lng->txt('forums_delete_file')",
+        "has_variable": false,
+        "variable": "forums_delete_file"
+    },
+    {
+        "id": 18392,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 2441,
+        "code": "$this->lng->txt('autosave_draft_info')",
+        "has_variable": false,
+        "variable": "autosave_draft_info"
+    },
+    {
+        "id": 18394,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 2448,
+        "code": "$this->lng->txt('autosave_post_draft_info')",
+        "has_variable": false,
+        "variable": "autosave_post_draft_info"
+    },
+    {
+        "id": 18396,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 2467,
+        "code": "$this->lng->txt('forums_delete_file')",
+        "has_variable": false,
+        "variable": "forums_delete_file"
+    },
+    {
+        "id": 18398,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 2478,
+        "code": "$this->lng->txt('create')",
+        "has_variable": false,
+        "variable": "create"
+    },
+    {
+        "id": 18400,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 2480,
+        "code": "$this->lng->txt('publish')",
+        "has_variable": false,
+        "variable": "publish"
+    },
+    {
+        "id": 18402,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 2482,
+        "code": "$this->lng->txt('save')",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 18404,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 2501,
+        "code": "$this->lng->txt('forum_add_quote')",
+        "has_variable": false,
+        "variable": "forum_add_quote"
+    },
+    {
+        "id": 18406,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 2512,
+        "code": "$this->lng->txt('save_message')",
+        "has_variable": false,
+        "variable": "save_message"
+    },
+    {
+        "id": 18408,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 2514,
+        "code": "$this->lng->txt('save_message')",
+        "has_variable": false,
+        "variable": "save_message"
+    },
+    {
+        "id": 18410,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 2516,
+        "code": "$this->lng->txt('save_message')",
+        "has_variable": false,
+        "variable": "save_message"
+    },
+    {
+        "id": 18412,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 2522,
+        "code": "$this->lng->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 18414,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 2582,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 18416,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 2586,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 18418,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 2590,
+        "code": "$this->lng->txt('frm_action_not_possible_thr_deleted')",
+        "has_variable": false,
+        "variable": "frm_action_not_possible_thr_deleted"
+    },
+    {
+        "id": 18420,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 2595,
+        "code": "$this->lng->txt('frm_action_not_possible_thr_closed')",
+        "has_variable": false,
+        "variable": "frm_action_not_possible_thr_closed"
+    },
+    {
+        "id": 18422,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 2601,
+        "code": "$this->lng->txt('frm_action_not_possible_parent_deleted')",
+        "has_variable": false,
+        "variable": "frm_action_not_possible_parent_deleted"
+    },
+    {
+        "id": 18424,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 2709,
+        "code": "$this->lng->txt('forums_post_needs_to_be_activated')",
+        "has_variable": false,
+        "variable": "forums_post_needs_to_be_activated"
+    },
+    {
+        "id": 18426,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 2711,
+        "code": "$this->lng->txt('forums_post_new_entry')",
+        "has_variable": false,
+        "variable": "forums_post_new_entry"
+    },
+    {
+        "id": 18428,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 2731,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 18430,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 2735,
+        "code": "$this->lng->txt('frm_action_not_possible_thr_deleted')",
+        "has_variable": false,
+        "variable": "frm_action_not_possible_thr_deleted"
+    },
+    {
+        "id": 18432,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 2740,
+        "code": "$this->lng->txt('frm_action_not_possible_thr_closed')",
+        "has_variable": false,
+        "variable": "frm_action_not_possible_thr_closed"
+    },
+    {
+        "id": 18434,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 2750,
+        "code": "$this->lng->txt('frm_action_not_possible_parent_deleted')",
+        "has_variable": false,
+        "variable": "frm_action_not_possible_parent_deleted"
+    },
+    {
+        "id": 18436,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 2768,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 18438,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 2785,
+        "code": "$this->lng->txt('forums_anonymous')",
+        "has_variable": false,
+        "variable": "forums_anonymous"
+    },
+    {
+        "id": 18440,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 2858,
+        "code": "$this->lng->txt('forums_post_needs_to_be_activated')",
+        "has_variable": false,
+        "variable": "forums_post_needs_to_be_activated"
+    },
+    {
+        "id": 18442,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 2860,
+        "code": "$this->lng->txt('forums_post_new_entry')",
+        "has_variable": false,
+        "variable": "forums_post_new_entry"
+    },
+    {
+        "id": 18444,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 2872,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 18446,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 2972,
+        "code": "$this->lng->txt('forums_post_modified')",
+        "has_variable": false,
+        "variable": "forums_post_modified"
+    },
+    {
+        "id": 18448,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 2999,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 18450,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 3103,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 18452,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 3225,
+        "code": "$this->lng->txt('forums_thread')",
+        "has_variable": false,
+        "variable": "forums_thread"
+    },
+    {
+        "id": 18454,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 3237,
+        "code": "$this->lng->txt('forums_mark_read')",
+        "has_variable": false,
+        "variable": "forums_mark_read"
+    },
+    {
+        "id": 18456,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 3255,
+        "code": "$this->lng->txt('forums_print_thread')",
+        "has_variable": false,
+        "variable": "forums_print_thread"
+    },
+    {
+        "id": 18458,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 3268,
+        "code": "$this->lng->txt('forums_thread_marked')",
+        "has_variable": false,
+        "variable": "forums_thread_marked"
+    },
+    {
+        "id": 18460,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 3290,
+        "code": "$this->lng->txt('add_new_answer')",
+        "has_variable": false,
+        "variable": "add_new_answer"
+    },
+    {
+        "id": 18462,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 3295,
+        "code": "$this->lng->txt('add_new_answer')",
+        "has_variable": false,
+        "variable": "add_new_answer"
+    },
+    {
+        "id": 18464,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 3305,
+        "code": "$this->lng->txt('forums_no_posts_available')",
+        "has_variable": false,
+        "variable": "forums_no_posts_available"
+    },
+    {
+        "id": 18466,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 3446,
+        "code": "$this->lng->txt('forums_posts_not_available')",
+        "has_variable": false,
+        "variable": "forums_posts_not_available"
+    },
+    {
+        "id": 18468,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 3452,
+        "code": "$this->lng->txt('top_of_page')",
+        "has_variable": false,
+        "variable": "top_of_page"
+    },
+    {
+        "id": 18470,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 3514,
+        "code": "$this->lng->txt($languageKey)",
+        "has_variable": true,
+        "variable": "$languageKey"
+    },
+    {
+        "id": 18472,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 3529,
+        "code": "$this->lng->txt($this->viewModeOptions[$currentViewMode])",
+        "has_variable": true,
+        "variable": "M"
+    },
+    {
+        "id": 18474,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 3530,
+        "code": "$this->lng->txt($this->viewModeOptions[$currentViewMode])",
+        "has_variable": true,
+        "variable": "M"
+    },
+    {
+        "id": 18476,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 3544,
+        "code": "$this->lng->txt($value)",
+        "has_variable": true,
+        "variable": "$value"
+    },
+    {
+        "id": 18478,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 3556,
+        "code": "$this->lng->txt('post_reply')",
+        "has_variable": false,
+        "variable": "post_reply"
+    },
+    {
+        "id": 18480,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 3557,
+        "code": "$this->lng->txt('post_reply_count')",
+        "has_variable": false,
+        "variable": "post_reply_count"
+    },
+    {
+        "id": 18482,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 3582,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 18484,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 3602,
+        "code": "$this->lng->txt('forums_posts')",
+        "has_variable": false,
+        "variable": "forums_posts"
+    },
+    {
+        "id": 18486,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 3608,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 18488,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 3647,
+        "code": "$this->lng->txt('selected_threads_closed')",
+        "has_variable": false,
+        "variable": "selected_threads_closed"
+    },
+    {
+        "id": 18490,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 3658,
+        "code": "$this->lng->txt('selected_threads_reopened')",
+        "has_variable": false,
+        "variable": "selected_threads_reopened"
+    },
+    {
+        "id": 18492,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 3662,
+        "code": "$this->lng->txt('sel_threads_make_sticky')",
+        "has_variable": false,
+        "variable": "sel_threads_make_sticky"
+    },
+    {
+        "id": 18494,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 3669,
+        "code": "$this->lng->txt('sel_threads_already_sticky')",
+        "has_variable": false,
+        "variable": "sel_threads_already_sticky"
+    },
+    {
+        "id": 18496,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 3679,
+        "code": "$this->lng->txt('sel_threads_make_unsticky')",
+        "has_variable": false,
+        "variable": "sel_threads_make_unsticky"
+    },
+    {
+        "id": 18498,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 3685,
+        "code": "$this->lng->txt('sel_threads_already_unsticky')",
+        "has_variable": false,
+        "variable": "sel_threads_already_unsticky"
+    },
+    {
+        "id": 18500,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 3698,
+        "code": "$this->lng->txt('select_max_one_thread')",
+        "has_variable": false,
+        "variable": "select_max_one_thread"
+    },
+    {
+        "id": 18502,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 3712,
+        "code": "$this->lng->txt('topics_please_select_one_action')",
+        "has_variable": false,
+        "variable": "topics_please_select_one_action"
+    },
+    {
+        "id": 18504,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 3716,
+        "code": "$this->lng->txt('select_at_least_one_thread')",
+        "has_variable": false,
+        "variable": "select_at_least_one_thread"
+    },
+    {
+        "id": 18506,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 3724,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 18508,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 3728,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 18510,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 3743,
+        "code": "$this->lng->txt('select_at_least_one_thread')",
+        "has_variable": false,
+        "variable": "select_at_least_one_thread"
+    },
+    {
+        "id": 18512,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 3748,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 18514,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 3772,
+        "code": "$this->lng->txt('threads_moved_successfully')",
+        "has_variable": false,
+        "variable": "threads_moved_successfully"
+    },
+    {
+        "id": 18516,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 3775,
+        "code": "$this->lng->txt('no_forum_selected')",
+        "has_variable": false,
+        "variable": "no_forum_selected"
+    },
+    {
+        "id": 18518,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 3789,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 18520,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 3793,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 18522,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 3803,
+        "code": "$this->lng->txt('select_at_least_one_thread')",
+        "has_variable": false,
+        "variable": "select_at_least_one_thread"
+    },
+    {
+        "id": 18524,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 3830,
+        "code": "$this->lng->txt('back')",
+        "has_variable": false,
+        "variable": "back"
+    },
+    {
+        "id": 18526,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 3836,
+        "code": "$this->lng->txt('move_chosen_topics')",
+        "has_variable": false,
+        "variable": "move_chosen_topics"
+    },
+    {
+        "id": 18528,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 3842,
+        "code": "$this->lng->txt('move')",
+        "has_variable": false,
+        "variable": "move"
+    },
+    {
+        "id": 18530,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 3862,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 18532,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 3894,
+        "code": "$this->lng->txt('delete_drafts_successfully')",
+        "has_variable": false,
+        "variable": "delete_drafts_successfully"
+    },
+    {
+        "id": 18534,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 3896,
+        "code": "$this->lng->txt('delete_draft_successfully')",
+        "has_variable": false,
+        "variable": "delete_draft_successfully"
+    },
+    {
+        "id": 18536,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 3963,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 18538,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 3967,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 18540,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 3976,
+        "code": "$this->lng->txt('new_thread_with_post')",
+        "has_variable": false,
+        "variable": "new_thread_with_post"
+    },
+    {
+        "id": 18542,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 3977,
+        "code": "$this->lng->txt('empty_thread')",
+        "has_variable": false,
+        "variable": "empty_thread"
+    },
+    {
+        "id": 18544,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 3992,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 18546,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 4100,
+        "code": "$this->lng->txt('forums_thread_new_entry')",
+        "has_variable": false,
+        "variable": "forums_thread_new_entry"
+    },
+    {
+        "id": 18548,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 4112,
+        "code": "$this->lng->txt('new_thread_with_post')",
+        "has_variable": false,
+        "variable": "new_thread_with_post"
+    },
+    {
+        "id": 18550,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 4113,
+        "code": "$this->lng->txt('empty_thread')",
+        "has_variable": false,
+        "variable": "empty_thread"
+    },
+    {
+        "id": 18552,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 4125,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 18554,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 4174,
+        "code": "$this->lng->txt('forums_thread_new_entry')",
+        "has_variable": false,
+        "variable": "forums_thread_new_entry"
+    },
+    {
+        "id": 18556,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 4187,
+        "code": "$this->lng->txt('new_thread_with_post')",
+        "has_variable": false,
+        "variable": "new_thread_with_post"
+    },
+    {
+        "id": 18558,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 4188,
+        "code": "$this->lng->txt('empty_thread')",
+        "has_variable": false,
+        "variable": "empty_thread"
+    },
+    {
+        "id": 18560,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 4196,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 18562,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 4224,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 18564,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 4233,
+        "code": "$this->lng->txt('forums_forum_notification_enabled')",
+        "has_variable": false,
+        "variable": "forums_forum_notification_enabled"
+    },
+    {
+        "id": 18566,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 4237,
+        "code": "$this->lng->txt('forums_forum_notification_enabled')",
+        "has_variable": false,
+        "variable": "forums_forum_notification_enabled"
+    },
+    {
+        "id": 18568,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 4244,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 18570,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 4253,
+        "code": "$this->lng->txt('forums_forum_notification_disabled')",
+        "has_variable": false,
+        "variable": "forums_forum_notification_disabled"
+    },
+    {
+        "id": 18572,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 4257,
+        "code": "$this->lng->txt('forums_forum_notification_disabled')",
+        "has_variable": false,
+        "variable": "forums_forum_notification_disabled"
+    },
+    {
+        "id": 18574,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 4263,
+        "code": "$this->lng->txt('frm_latest_postings')",
+        "has_variable": false,
+        "variable": "frm_latest_postings"
+    },
+    {
+        "id": 18576,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 4311,
+        "code": "$this->lng->txt('msg_no_perm_read')",
+        "has_variable": false,
+        "variable": "msg_no_perm_read"
+    },
+    {
+        "id": 18578,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 4326,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 18580,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 4340,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 18582,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 4426,
+        "code": "$this->lng->txt('notification_settings')",
+        "has_variable": false,
+        "variable": "notification_settings"
+    },
+    {
+        "id": 18584,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 4431,
+        "code": "$this->lng->txt('save')",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 18586,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 4457,
+        "code": "$this->lng->txt('notification_settings')",
+        "has_variable": false,
+        "variable": "notification_settings"
+    },
+    {
+        "id": 18588,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 4487,
+        "code": "$this->lng->txt('frm_notification_activated')",
+        "has_variable": false,
+        "variable": "frm_notification_activated"
+    },
+    {
+        "id": 18590,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 4493,
+        "code": "$this->lng->txt('frm_notification_deactivated')",
+        "has_variable": false,
+        "variable": "frm_notification_deactivated"
+    },
+    {
+        "id": 18592,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 4541,
+        "code": "$this->lng->txt('saved_successfully')",
+        "has_variable": false,
+        "variable": "saved_successfully"
+    },
+    {
+        "id": 18594,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 4576,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 18596,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 4580,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 18598,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 4597,
+        "code": "$this->lng->txt('select_one')",
+        "has_variable": false,
+        "variable": "select_one"
+    },
+    {
+        "id": 18600,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 4610,
+        "code": "$this->lng->txt('not_allowed_to_merge_into_another_forum')",
+        "has_variable": false,
+        "variable": "not_allowed_to_merge_into_another_forum"
+    },
+    {
+        "id": 18602,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 4640,
+        "code": "$this->lng->txt('select_one')",
+        "has_variable": false,
+        "variable": "select_one"
+    },
+    {
+        "id": 18604,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 4648,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 18606,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 4652,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 18608,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 4661,
+        "code": "$this->lng->txt('select_one')",
+        "has_variable": false,
+        "variable": "select_one"
+    },
+    {
+        "id": 18610,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 4668,
+        "code": "$this->lng->txt('error_same_thread_ids')",
+        "has_variable": false,
+        "variable": "error_same_thread_ids"
+    },
+    {
+        "id": 18612,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 4674,
+        "code": "$this->lng->txt('not_allowed_to_merge_into_another_forum')",
+        "has_variable": false,
+        "variable": "not_allowed_to_merge_into_another_forum"
+    },
+    {
+        "id": 18614,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 4681,
+        "code": "$this->lng->txt('switch_threads_for_merge')",
+        "has_variable": false,
+        "variable": "switch_threads_for_merge"
+    },
+    {
+        "id": 18616,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 4690,
+        "code": "$this->lng->txt('frm_sure_merge_threads')",
+        "has_variable": false,
+        "variable": "frm_sure_merge_threads"
+    },
+    {
+        "id": 18618,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 4691,
+        "code": "$this->lng->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 18620,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 4692,
+        "code": "$this->lng->txt('confirm')",
+        "has_variable": false,
+        "variable": "confirm"
+    },
+    {
+        "id": 18622,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 4697,
+        "code": "$this->lng->txt('frm_merge_src')",
+        "has_variable": false,
+        "variable": "frm_merge_src"
+    },
+    {
+        "id": 18624,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 4702,
+        "code": "$this->lng->txt('frm_merge_target')",
+        "has_variable": false,
+        "variable": "frm_merge_target"
+    },
+    {
+        "id": 18626,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 4710,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 18628,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 4714,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 18630,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 4721,
+        "code": "$this->lng->txt('select_one')",
+        "has_variable": false,
+        "variable": "select_one"
+    },
+    {
+        "id": 18632,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 4727,
+        "code": "$this->lng->txt('error_same_thread_ids')",
+        "has_variable": false,
+        "variable": "error_same_thread_ids"
+    },
+    {
+        "id": 18634,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 4741,
+        "code": "$this->lng->txt('merged_threads_successfully')",
+        "has_variable": false,
+        "variable": "merged_threads_successfully"
+    },
+    {
+        "id": 18636,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 4743,
+        "code": "$this->lng->txt($e->getMessage())",
+        "has_variable": true,
+        "variable": "$e->getMessage()"
+    },
+    {
+        "id": 18638,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 4754,
+        "code": "$this->lng->txt('frm_search')",
+        "has_variable": false,
+        "variable": "frm_search"
+    },
+    {
+        "id": 18640,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 4764,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 18642,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 4778,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 18644,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 4794,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 18646,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 4834,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 18648,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 4864,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 18650,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 4933,
+        "code": "$this->lng->txt('save_draft_successfully')",
+        "has_variable": false,
+        "variable": "save_draft_successfully"
+    },
+    {
+        "id": 18652,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 4949,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 18654,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 5000,
+        "code": "$this->lng->txt('save_draft_successfully')",
+        "has_variable": false,
+        "variable": "save_draft_successfully"
+    },
+    {
+        "id": 18656,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 5020,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 18658,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 5032,
+        "code": "$this->lng->txt('frm_action_not_possible_thr_deleted')",
+        "has_variable": false,
+        "variable": "frm_action_not_possible_thr_deleted"
+    },
+    {
+        "id": 18660,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 5037,
+        "code": "$this->lng->txt('frm_action_not_possible_thr_closed')",
+        "has_variable": false,
+        "variable": "frm_action_not_possible_thr_closed"
+    },
+    {
+        "id": 18662,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 5045,
+        "code": "$this->lng->txt('frm_action_not_possible_parent_deleted')",
+        "has_variable": false,
+        "variable": "frm_action_not_possible_parent_deleted"
+    },
+    {
+        "id": 18664,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 5057,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 18666,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 5123,
+        "code": "$this->lng->txt('save_draft_successfully')",
+        "has_variable": false,
+        "variable": "save_draft_successfully"
+    },
+    {
+        "id": 18668,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 5145,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 18670,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 5149,
+        "code": "$this->lng->txt('frm_action_not_possible_thr_deleted')",
+        "has_variable": false,
+        "variable": "frm_action_not_possible_thr_deleted"
+    },
+    {
+        "id": 18672,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 5154,
+        "code": "$this->lng->txt('frm_action_not_possible_thr_closed')",
+        "has_variable": false,
+        "variable": "frm_action_not_possible_thr_closed"
+    },
+    {
+        "id": 18674,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 5160,
+        "code": "$this->lng->txt('frm_action_not_possible_parent_deleted')",
+        "has_variable": false,
+        "variable": "frm_action_not_possible_parent_deleted"
+    },
+    {
+        "id": 18676,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 5172,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 18678,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 5239,
+        "code": "$this->lng->txt('save_draft_successfully')",
+        "has_variable": false,
+        "variable": "save_draft_successfully"
+    },
+    {
+        "id": 18680,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 5302,
+        "code": "$this->lng->txt('delete_draft_successfully')",
+        "has_variable": false,
+        "variable": "delete_draft_successfully"
+    },
+    {
+        "id": 18682,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 5563,
+        "code": "$this->lng->txt('forums_info_censor2_post')",
+        "has_variable": false,
+        "variable": "forums_info_censor2_post"
+    },
+    {
+        "id": 18684,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 5565,
+        "code": "$this->lng->txt('forums_info_censor_post')",
+        "has_variable": false,
+        "variable": "forums_info_censor_post"
+    },
+    {
+        "id": 18686,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 5573,
+        "code": "$this->lng->txt('submit')",
+        "has_variable": false,
+        "variable": "submit"
+    },
+    {
+        "id": 18688,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 5594,
+        "code": "$this->lng->txt($lng_id)",
+        "has_variable": true,
+        "variable": "$lng_id"
+    },
+    {
+        "id": 18690,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 5597,
+        "code": "$this->lng->txt($lng_id)",
+        "has_variable": true,
+        "variable": "$lng_id"
+    },
+    {
+        "id": 18692,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 5607,
+        "code": "$this->lng->txt($lng_id)",
+        "has_variable": true,
+        "variable": "$lng_id"
+    },
+    {
+        "id": 18694,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 5609,
+        "code": "$this->lng->txt('forums_info_delete_draft')",
+        "has_variable": false,
+        "variable": "forums_info_delete_draft"
+    },
+    {
+        "id": 18696,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 5610,
+        "code": "$this->lng->txt('forums_info_delete_post')",
+        "has_variable": false,
+        "variable": "forums_info_delete_post"
+    },
+    {
+        "id": 18698,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 5613,
+        "code": "$this->lng->txt(str_contains($url, 'deletePostingDraft') ? 'deletePostingDraft' : 'deletePosting')",
+        "has_variable": true,
+        "variable": "_"
+    },
+    {
+        "id": 18700,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 5616,
+        "code": "$this->lng->txt($lng_id)",
+        "has_variable": true,
+        "variable": "$lng_id"
+    },
+    {
+        "id": 18702,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 5626,
+        "code": "$this->lng->txt($lng_id)",
+        "has_variable": true,
+        "variable": "$lng_id"
+    },
+    {
+        "id": 18704,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 5636,
+        "code": "$this->lng->txt($primary_action_language_id)",
+        "has_variable": true,
+        "variable": "$primary_action_language_id"
+    },
+    {
+        "id": 18706,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 5650,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 18708,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 5709,
+        "code": "$this->lng->txt('restore')",
+        "has_variable": false,
+        "variable": "restore"
+    },
+    {
+        "id": 18710,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 5723,
+        "code": "$this->lng->txt('restore_draft_from_autosave')",
+        "has_variable": false,
+        "variable": "restore_draft_from_autosave"
+    },
+    {
+        "id": 18712,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 5744,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 18714,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 5746,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 18716,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 5873,
+        "code": "$this->lng->txt('reset_limited_view_button')",
+        "has_variable": false,
+        "variable": "reset_limited_view_button"
+    },
+    {
+        "id": 18718,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumGUI.php",
+        "line": 5881,
+        "code": "$this->lng->txt('reset_limited_view_info')",
+        "has_variable": false,
+        "variable": "reset_limited_view_info"
+    },
+    {
+        "id": 18720,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumListGUI.php",
+        "line": 90,
+        "code": "$this->lng->txt('forums_articles')",
+        "has_variable": false,
+        "variable": "forums_articles"
+    },
+    {
+        "id": 18722,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumListGUI.php",
+        "line": 90,
+        "code": "$this->lng->txt('unread')",
+        "has_variable": false,
+        "variable": "unread"
+    },
+    {
+        "id": 18724,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumListGUI.php",
+        "line": 98,
+        "code": "$this->lng->txt('drafts')",
+        "has_variable": false,
+        "variable": "drafts"
+    },
+    {
+        "id": 18726,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumListGUI.php",
+        "line": 105,
+        "code": "$this->lng->txt('forums_articles')",
+        "has_variable": false,
+        "variable": "forums_articles"
+    },
+    {
+        "id": 18728,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumListGUI.php",
+        "line": 117,
+        "code": "$this->lng->txt('forums_anonymized')",
+        "has_variable": false,
+        "variable": "forums_anonymized"
+    },
+    {
+        "id": 18730,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumListGUI.php",
+        "line": 118,
+        "code": "$this->lng->txt('yes')",
+        "has_variable": false,
+        "variable": "yes"
+    },
+    {
+        "id": 18732,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumListGUI.php",
+        "line": 130,
+        "code": "$this->lng->txt('from')",
+        "has_variable": false,
+        "variable": "from"
+    },
+    {
+        "id": 18734,
+        "file": "components\/ILIAS\/Forum\/classes\/class.ilObjForumListGUI.php",
+        "line": 152,
+        "code": "$this->lng->txt('forums_last_post')",
+        "has_variable": false,
+        "variable": "forums_last_post"
+    }
+]

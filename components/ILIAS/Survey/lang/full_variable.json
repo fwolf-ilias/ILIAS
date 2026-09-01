@@ -1,0 +1,108 @@
+{
+    "metadata": {
+        "type": "full",
+        "count": 9,
+        "description": "Variable usages without detectable prefixes or suffixes (pure variable references without static strings)"
+    },
+    "matches": [
+        {
+            "id": 36840,
+            "file": "components\/ILIAS\/Survey\/Constraints\/class.ilSurveyConstraintsGUI.php",
+            "line": 275,
+            "code": "$this->lng->txt($survey_questions[$constraint_structure[$title_id][0]][\"type_tag\"])",
+            "variable": "_",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 37108,
+            "file": "components\/ILIAS\/Survey\/Evaluation\/class.ilSurveyEvaluationGUI.php",
+            "line": 265,
+            "code": "$this->lng->txt(\"svy_check_evaluation_wrong_key\", true)",
+            "variable": "_",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 37364,
+            "file": "components\/ILIAS\/Survey\/Execution\/class.LaunchGUI.php",
+            "line": 367,
+            "code": "$lng->txt($txt)",
+            "variable": "$txt",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 37646,
+            "file": "components\/ILIAS\/Survey\/Mode\/class.AbstractUIModifier.php",
+            "line": 607,
+            "code": "$lng->txt($key)",
+            "variable": "$key",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 38052,
+            "file": "components\/ILIAS\/Survey\/Participants\/class.ilSurveyRaterGUI.php",
+            "line": 127,
+            "code": "$lng->txt(\"\")",
+            "variable": "",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 38262,
+            "file": "components\/ILIAS\/Survey\/Settings\/class.SettingsFormGUI.php",
+            "line": 494,
+            "code": "$lng->txt($caption)",
+            "variable": "$caption",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 38344,
+            "file": "components\/ILIAS\/Survey\/Skills\/class.ilSurveySkillChangesTableGUI.php",
+            "line": 52,
+            "code": "$lng->txt(\"\")",
+            "variable": "",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 38404,
+            "file": "components\/ILIAS\/Survey\/classes\/class.ilObjSurvey.php",
+            "line": 2750,
+            "code": "$this->lng->txt(\"gender_$gender\")",
+            "variable": "gender_$gender",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 38536,
+            "file": "components\/ILIAS\/Survey\/classes\/class.ilObjSurveyGUI.php",
+            "line": 1025,
+            "code": "$this->lng->txt($subject)",
+            "variable": "$subject",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        }
+    ]
+}

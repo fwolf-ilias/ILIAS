@@ -1,0 +1,24 @@
+{
+    "metadata": {
+        "type": "composed",
+        "count": 1,
+        "description": "Variable usages with detectable prefixes or suffixes"
+    },
+    "matches": [
+        {
+            "id": 8552,
+            "file": "components\/ILIAS\/Certificate\/classes\/Placeholder\/Values\/class.ilDefaultPlaceholderValues.php",
+            "line": 129,
+            "code": "$user_lng->txt(\"salutation_\" . trim($gender))",
+            "variable": "\"salutation_\" . trim($gender)",
+            "has_variable": true,
+            "prefix": "salutation_",
+            "suffix": "",
+            "matching_variables": [
+                "salutation_f",
+                "salutation_m",
+                "salutation_n"
+            ]
+        }
+    ]
+}

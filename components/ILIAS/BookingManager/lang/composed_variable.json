@@ -1,0 +1,131 @@
+{
+    "metadata": {
+        "type": "composed",
+        "count": 6,
+        "description": "Variable usages with detectable prefixes or suffixes"
+    },
+    "matches": [
+        {
+            "id": 3914,
+            "file": "components\/ILIAS\/BookingManager\/Reservations\/class.ilBookingReservationsTableGUI.php",
+            "line": 369,
+            "code": "$this->lng->txt('book_reservation_status_' . $loop)",
+            "variable": "'book_reservation_status_' . $loop",
+            "has_variable": true,
+            "prefix": "book_reservation_status_",
+            "suffix": "",
+            "matching_variables": [
+                "book_reservation_status_5"
+            ]
+        },
+        {
+            "id": 3918,
+            "file": "components\/ILIAS\/BookingManager\/Reservations\/class.ilBookingReservationsTableGUI.php",
+            "line": 371,
+            "code": "$this->lng->txt('book_reservation_status_' . -$loop)",
+            "variable": "'book_reservation_status_' . -$loop",
+            "has_variable": true,
+            "prefix": "book_reservation_status_",
+            "suffix": "",
+            "matching_variables": [
+                "book_reservation_status_5"
+            ]
+        },
+        {
+            "id": 3924,
+            "file": "components\/ILIAS\/BookingManager\/Reservations\/class.ilBookingReservationsTableGUI.php",
+            "line": 660,
+            "code": "$lng->txt('book_reservation_status_' . $a_set['status'])",
+            "variable": "'book_reservation_status_' . $a_set['status']",
+            "has_variable": true,
+            "prefix": "book_reservation_status_",
+            "suffix": "",
+            "matching_variables": [
+                "book_reservation_status_5"
+            ]
+        },
+        {
+            "id": 3958,
+            "file": "components\/ILIAS\/BookingManager\/Reservations\/class.ilBookingReservationsTableGUI.php",
+            "line": 831,
+            "code": "$this->lng->txt('book_reservation_status_' . $a_set['status'])",
+            "variable": "'book_reservation_status_' . $a_set['status']",
+            "has_variable": true,
+            "prefix": "book_reservation_status_",
+            "suffix": "",
+            "matching_variables": [
+                "book_reservation_status_5"
+            ]
+        },
+        {
+            "id": 3976,
+            "file": "components\/ILIAS\/BookingManager\/Reservations\/class.ilBookingReservationsTableGUI.php",
+            "line": 897,
+            "code": "$this->lng->txt('book_reservation_status_' . $a_set['status'])",
+            "variable": "'book_reservation_status_' . $a_set['status']",
+            "has_variable": true,
+            "prefix": "book_reservation_status_",
+            "suffix": "",
+            "matching_variables": [
+                "book_reservation_status_5"
+            ]
+        },
+        {
+            "id": 4198,
+            "file": "components\/ILIAS\/BookingManager\/classes\/class.ilScheduleInputGUI.php",
+            "line": 187,
+            "code": "$lng->txt($day . \"_short\")",
+            "variable": "$day . \"_short\"",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "_short",
+            "matching_variables": [
+                "git_hash_short",
+                "failed_short",
+                "passed_short",
+                "points_short",
+                "question_id_short",
+                "buddy_notification_contact_request_short",
+                "certificate_var_result_mark_short",
+                "chat_invitation_short",
+                "exc_time_over_short",
+                "info_short",
+                "month_01_short",
+                "month_02_short",
+                "month_03_short",
+                "month_04_short",
+                "month_05_short",
+                "month_06_short",
+                "month_07_short",
+                "month_08_short",
+                "month_09_short",
+                "month_10_short",
+                "month_11_short",
+                "month_12_short",
+                "password_to_short",
+                "res_links_short",
+                "crs_subscription_max_members_short",
+                "Fr_short",
+                "Mo_short",
+                "Sa_short",
+                "Su_short",
+                "Th_short",
+                "Tu_short",
+                "We_short",
+                "cal_ch_booking_num_free_short",
+                "wk_short",
+                "reg_grp_max_members_short",
+                "ldap_group_dn_short",
+                "ldap_group_member_short",
+                "ldap_server_short",
+                "meta_lom_short",
+                "prg_manage_members_short",
+                "file_file_view_content_short",
+                "sess_reg_max_members_short",
+                "mail_sent_short",
+                "trac_anonymized_info_short",
+                "trac_members_short"
+            ]
+        }
+    ]
+}

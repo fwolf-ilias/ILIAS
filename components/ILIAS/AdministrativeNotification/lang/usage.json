@@ -1,0 +1,482 @@
+[
+    {
+        "id": 1264,
+        "file": "components\/ILIAS\/AdministrativeNotification\/classes\/DataRetrieval.php",
+        "line": 73,
+        "code": "$this->lng->txt(\"msg_type_\" . $record['type'])",
+        "has_variable": true,
+        "variable": "\"msg_type_\" . $record['type']"
+    },
+    {
+        "id": 1266,
+        "file": "components\/ILIAS\/AdministrativeNotification\/classes\/DataRetrieval.php",
+        "line": 79,
+        "code": "$this->lng->txt(\"msg_type_\" . $record['type_during_event'])",
+        "has_variable": true,
+        "variable": "\"msg_type_\" . $record['type_during_event']"
+    },
+    {
+        "id": 1268,
+        "file": "components\/ILIAS\/AdministrativeNotification\/classes\/DataRetrieval.php",
+        "line": 110,
+        "code": "$this->lng->txt(\"all\")",
+        "has_variable": false,
+        "variable": "all"
+    },
+    {
+        "id": 1270,
+        "file": "components\/ILIAS\/AdministrativeNotification\/classes\/DataRetrieval.php",
+        "line": 113,
+        "code": "$this->lng->txt(\"none\")",
+        "has_variable": false,
+        "variable": "none"
+    },
+    {
+        "id": 1272,
+        "file": "components\/ILIAS\/AdministrativeNotification\/classes\/DataRetrieval.php",
+        "line": 121,
+        "code": "$this->lng->txt(\"meta_l_\" . $lng_code)",
+        "has_variable": true,
+        "variable": "\"meta_l_\" . $lng_code"
+    },
+    {
+        "id": 1274,
+        "file": "components\/ILIAS\/AdministrativeNotification\/classes\/Table.php",
+        "line": 71,
+        "code": "$this->lng->txt('msg_table_title')",
+        "has_variable": false,
+        "variable": "msg_table_title"
+    },
+    {
+        "id": 1276,
+        "file": "components\/ILIAS\/AdministrativeNotification\/classes\/Table.php",
+        "line": 97,
+        "code": "$this->lng->txt('msg_title')",
+        "has_variable": false,
+        "variable": "msg_title"
+    },
+    {
+        "id": 1278,
+        "file": "components\/ILIAS\/AdministrativeNotification\/classes\/Table.php",
+        "line": 98,
+        "code": "$this->lng->txt('msg_type')",
+        "has_variable": false,
+        "variable": "msg_type"
+    },
+    {
+        "id": 1280,
+        "file": "components\/ILIAS\/AdministrativeNotification\/classes\/Table.php",
+        "line": 99,
+        "code": "$this->lng->txt('msg_languages')",
+        "has_variable": false,
+        "variable": "msg_languages"
+    },
+    {
+        "id": 1282,
+        "file": "components\/ILIAS\/AdministrativeNotification\/classes\/Table.php",
+        "line": 100,
+        "code": "$this->lng->txt('msg_type_during_event')",
+        "has_variable": false,
+        "variable": "msg_type_during_event"
+    },
+    {
+        "id": 1284,
+        "file": "components\/ILIAS\/AdministrativeNotification\/classes\/Table.php",
+        "line": 101,
+        "code": "$this->lng->txt('msg_event_date_start')",
+        "has_variable": false,
+        "variable": "msg_event_date_start"
+    },
+    {
+        "id": 1286,
+        "file": "components\/ILIAS\/AdministrativeNotification\/classes\/Table.php",
+        "line": 102,
+        "code": "$this->lng->txt('msg_event_date_end')",
+        "has_variable": false,
+        "variable": "msg_event_date_end"
+    },
+    {
+        "id": 1288,
+        "file": "components\/ILIAS\/AdministrativeNotification\/classes\/Table.php",
+        "line": 103,
+        "code": "$this->lng->txt('msg_display_date_start')",
+        "has_variable": false,
+        "variable": "msg_display_date_start"
+    },
+    {
+        "id": 1290,
+        "file": "components\/ILIAS\/AdministrativeNotification\/classes\/Table.php",
+        "line": 104,
+        "code": "$this->lng->txt('msg_display_date_end')",
+        "has_variable": false,
+        "variable": "msg_display_date_end"
+    },
+    {
+        "id": 1292,
+        "file": "components\/ILIAS\/AdministrativeNotification\/classes\/Table.php",
+        "line": 116,
+        "code": "$this->lng->txt(\"btn_edit\")",
+        "has_variable": false,
+        "variable": "btn_edit"
+    },
+    {
+        "id": 1294,
+        "file": "components\/ILIAS\/AdministrativeNotification\/classes\/Table.php",
+        "line": 121,
+        "code": "$this->lng->txt(\"btn_delete\")",
+        "has_variable": false,
+        "variable": "btn_delete"
+    },
+    {
+        "id": 1296,
+        "file": "components\/ILIAS\/AdministrativeNotification\/classes\/Table.php",
+        "line": 126,
+        "code": "$this->lng->txt(\"btn_reset\")",
+        "has_variable": false,
+        "variable": "btn_reset"
+    },
+    {
+        "id": 1298,
+        "file": "components\/ILIAS\/AdministrativeNotification\/classes\/Table.php",
+        "line": 131,
+        "code": "$this->lng->txt(\"btn_duplicate\")",
+        "has_variable": false,
+        "variable": "btn_duplicate"
+    },
+    {
+        "id": 1300,
+        "file": "components\/ILIAS\/AdministrativeNotification\/classes\/class.ilADNNotificationGUI.php",
+        "line": 98,
+        "code": "$this->lng->txt('common_add_msg')",
+        "has_variable": false,
+        "variable": "common_add_msg"
+    },
+    {
+        "id": 1302,
+        "file": "components\/ILIAS\/AdministrativeNotification\/classes\/class.ilADNNotificationGUI.php",
+        "line": 123,
+        "code": "$this->lng->txt('msg_success_created')",
+        "has_variable": false,
+        "variable": "msg_success_created"
+    },
+    {
+        "id": 1304,
+        "file": "components\/ILIAS\/AdministrativeNotification\/classes\/class.ilADNNotificationGUI.php",
+        "line": 149,
+        "code": "$this->lng->txt('msg_success_duplicated')",
+        "has_variable": false,
+        "variable": "msg_success_duplicated"
+    },
+    {
+        "id": 1306,
+        "file": "components\/ILIAS\/AdministrativeNotification\/classes\/class.ilADNNotificationGUI.php",
+        "line": 159,
+        "code": "$this->lng->txt('msg_success_updated')",
+        "has_variable": false,
+        "variable": "msg_success_updated"
+    },
+    {
+        "id": 1308,
+        "file": "components\/ILIAS\/AdministrativeNotification\/classes\/class.ilADNNotificationGUI.php",
+        "line": 171,
+        "code": "$this->lng->txt('msg_success_deleted')",
+        "has_variable": false,
+        "variable": "msg_success_deleted"
+    },
+    {
+        "id": 1310,
+        "file": "components\/ILIAS\/AdministrativeNotification\/classes\/class.ilADNNotificationGUI.php",
+        "line": 181,
+        "code": "$this->lng->txt('msg_success_reset')",
+        "has_variable": false,
+        "variable": "msg_success_reset"
+    },
+    {
+        "id": 1312,
+        "file": "components\/ILIAS\/AdministrativeNotification\/classes\/class.ilADNNotificationGUI.php",
+        "line": 192,
+        "code": "$this->lng->txt('action_confirm_delete')",
+        "has_variable": false,
+        "variable": "action_confirm_delete"
+    },
+    {
+        "id": 1314,
+        "file": "components\/ILIAS\/AdministrativeNotification\/classes\/class.ilADNNotificationGUI.php",
+        "line": 193,
+        "code": "$this->lng->txt('action_confirm_delete_msg')",
+        "has_variable": false,
+        "variable": "action_confirm_delete_msg"
+    },
+    {
+        "id": 1316,
+        "file": "components\/ILIAS\/AdministrativeNotification\/classes\/class.ilADNNotificationUIFormGUI.php",
+        "line": 82,
+        "code": "$this->lng->txt('msg_' . $var)",
+        "has_variable": true,
+        "variable": "'msg_' . $var"
+    },
+    {
+        "id": 1318,
+        "file": "components\/ILIAS\/AdministrativeNotification\/classes\/class.ilADNNotificationUIFormGUI.php",
+        "line": 87,
+        "code": "$this->txt($var . '_info')",
+        "has_variable": true,
+        "variable": "$var . '_info'"
+    },
+    {
+        "id": 1320,
+        "file": "components\/ILIAS\/AdministrativeNotification\/classes\/class.ilADNNotificationUIFormGUI.php",
+        "line": 96,
+        "code": "$this->txt(self::F_TYPE . '_' . ilADNNotification::TYPE_INFO)",
+        "has_variable": true,
+        "variable": "self::F_TYPE . '_' . ilADNNotification::TYPE_INFO"
+    },
+    {
+        "id": 1322,
+        "file": "components\/ILIAS\/AdministrativeNotification\/classes\/class.ilADNNotificationUIFormGUI.php",
+        "line": 97,
+        "code": "$this->txt(self::F_TYPE . '_' . ilADNNotification::TYPE_WARNING)",
+        "has_variable": true,
+        "variable": "self::F_TYPE . '_' . ilADNNotification::TYPE_WARNING"
+    },
+    {
+        "id": 1324,
+        "file": "components\/ILIAS\/AdministrativeNotification\/classes\/class.ilADNNotificationUIFormGUI.php",
+        "line": 98,
+        "code": "$this->txt(self::F_TYPE . '_' . ilADNNotification::TYPE_ERROR)",
+        "has_variable": true,
+        "variable": "self::F_TYPE . '_' . ilADNNotification::TYPE_ERROR"
+    },
+    {
+        "id": 1326,
+        "file": "components\/ILIAS\/AdministrativeNotification\/classes\/class.ilADNNotificationUIFormGUI.php",
+        "line": 118,
+        "code": "$this->txt(self::F_TYPE)",
+        "has_variable": true,
+        "variable": "F_TYPE"
+    },
+    {
+        "id": 1328,
+        "file": "components\/ILIAS\/AdministrativeNotification\/classes\/class.ilADNNotificationUIFormGUI.php",
+        "line": 128,
+        "code": "$this->txt(self::F_TITLE)",
+        "has_variable": true,
+        "variable": "F_TITLE"
+    },
+    {
+        "id": 1330,
+        "file": "components\/ILIAS\/AdministrativeNotification\/classes\/class.ilADNNotificationUIFormGUI.php",
+        "line": 140,
+        "code": "$this->txt(self::F_BODY)",
+        "has_variable": true,
+        "variable": "F_BODY"
+    },
+    {
+        "id": 1332,
+        "file": "components\/ILIAS\/AdministrativeNotification\/classes\/class.ilADNNotificationUIFormGUI.php",
+        "line": 154,
+        "code": "$this->txt(self::F_DISPLAY_DATE_START)",
+        "has_variable": true,
+        "variable": "F_DISPLAY_DATE_START"
+    },
+    {
+        "id": 1334,
+        "file": "components\/ILIAS\/AdministrativeNotification\/classes\/class.ilADNNotificationUIFormGUI.php",
+        "line": 164,
+        "code": "$this->txt(self::F_DISPLAY_DATE_END)",
+        "has_variable": true,
+        "variable": "F_DISPLAY_DATE_END"
+    },
+    {
+        "id": 1336,
+        "file": "components\/ILIAS\/AdministrativeNotification\/classes\/class.ilADNNotificationUIFormGUI.php",
+        "line": 174,
+        "code": "$this->txt(self::F_EVENT_DATE_START)",
+        "has_variable": true,
+        "variable": "F_EVENT_DATE_START"
+    },
+    {
+        "id": 1338,
+        "file": "components\/ILIAS\/AdministrativeNotification\/classes\/class.ilADNNotificationUIFormGUI.php",
+        "line": 184,
+        "code": "$this->txt(self::F_EVENT_DATE_END)",
+        "has_variable": true,
+        "variable": "F_EVENT_DATE_END"
+    },
+    {
+        "id": 1340,
+        "file": "components\/ILIAS\/AdministrativeNotification\/classes\/class.ilADNNotificationUIFormGUI.php",
+        "line": 195,
+        "code": "$this->txt(self::F_TYPE_DURING_EVENT)",
+        "has_variable": true,
+        "variable": "F_TYPE_DURING_EVENT"
+    },
+    {
+        "id": 1342,
+        "file": "components\/ILIAS\/AdministrativeNotification\/classes\/class.ilADNNotificationUIFormGUI.php",
+        "line": 205,
+        "code": "$this->txt(self::F_PERMANENT . '_yes')",
+        "has_variable": true,
+        "variable": "self::F_PERMANENT . '_yes'"
+    },
+    {
+        "id": 1344,
+        "file": "components\/ILIAS\/AdministrativeNotification\/classes\/class.ilADNNotificationUIFormGUI.php",
+        "line": 214,
+        "code": "$this->txt(self::F_PERMANENT . '_no')",
+        "has_variable": true,
+        "variable": "self::F_PERMANENT . '_no'"
+    },
+    {
+        "id": 1346,
+        "file": "components\/ILIAS\/AdministrativeNotification\/classes\/class.ilADNNotificationUIFormGUI.php",
+        "line": 216,
+        "code": "$this->txt(self::F_PERMANENT)",
+        "has_variable": true,
+        "variable": "F_PERMANENT"
+    },
+    {
+        "id": 1348,
+        "file": "components\/ILIAS\/AdministrativeNotification\/classes\/class.ilADNNotificationUIFormGUI.php",
+        "line": 249,
+        "code": "$this->txt('error_false_date_configuration')",
+        "has_variable": false,
+        "variable": "error_false_date_configuration"
+    },
+    {
+        "id": 1350,
+        "file": "components\/ILIAS\/AdministrativeNotification\/classes\/class.ilADNNotificationUIFormGUI.php",
+        "line": 253,
+        "code": "$this->txt(self::F_DISMISSABLE)",
+        "has_variable": true,
+        "variable": "F_DISMISSABLE"
+    },
+    {
+        "id": 1352,
+        "file": "components\/ILIAS\/AdministrativeNotification\/classes\/class.ilADNNotificationUIFormGUI.php",
+        "line": 266,
+        "code": "$this->lng->txt(\"meta_l_\" . $installed_language)",
+        "has_variable": true,
+        "variable": "\"meta_l_\" . $installed_language"
+    },
+    {
+        "id": 1354,
+        "file": "components\/ILIAS\/AdministrativeNotification\/classes\/class.ilADNNotificationUIFormGUI.php",
+        "line": 280,
+        "code": "$this->txt(self::F_SHOW_TO_ALL_LANGUAGES)",
+        "has_variable": true,
+        "variable": "F_SHOW_TO_ALL_LANGUAGES"
+    },
+    {
+        "id": 1356,
+        "file": "components\/ILIAS\/AdministrativeNotification\/classes\/class.ilADNNotificationUIFormGUI.php",
+        "line": 284,
+        "code": "$this->txt(self::F_HAS_LANGUAGE_LIMITATION)",
+        "has_variable": true,
+        "variable": "F_HAS_LANGUAGE_LIMITATION"
+    },
+    {
+        "id": 1358,
+        "file": "components\/ILIAS\/AdministrativeNotification\/classes\/class.ilADNNotificationUIFormGUI.php",
+        "line": 286,
+        "code": "$this->txt(\"languages\")",
+        "has_variable": false,
+        "variable": "languages"
+    },
+    {
+        "id": 1360,
+        "file": "components\/ILIAS\/AdministrativeNotification\/classes\/class.ilADNNotificationUIFormGUI.php",
+        "line": 309,
+        "code": "$this->txt(self::F_SHOW_TO_ALL_ROLES)",
+        "has_variable": true,
+        "variable": "F_SHOW_TO_ALL_ROLES"
+    },
+    {
+        "id": 1362,
+        "file": "components\/ILIAS\/AdministrativeNotification\/classes\/class.ilADNNotificationUIFormGUI.php",
+        "line": 313,
+        "code": "$this->txt(self::F_LIMIT_TO_ROLES)",
+        "has_variable": true,
+        "variable": "F_LIMIT_TO_ROLES"
+    },
+    {
+        "id": 1364,
+        "file": "components\/ILIAS\/AdministrativeNotification\/classes\/class.ilADNNotificationUIFormGUI.php",
+        "line": 315,
+        "code": "$this->txt(self::F_PRESENTATION)",
+        "has_variable": true,
+        "variable": "F_PRESENTATION"
+    },
+    {
+        "id": 1366,
+        "file": "components\/ILIAS\/AdministrativeNotification\/classes\/class.ilADNNotificationUIFormGUI.php",
+        "line": 335,
+        "code": "$this->txt('form_title')",
+        "has_variable": false,
+        "variable": "form_title"
+    },
+    {
+        "id": 1368,
+        "file": "components\/ILIAS\/AdministrativeNotification\/classes\/class.ilADNTabHandling.php",
+        "line": 63,
+        "code": "$this->lng->txt(ilObjAdministrativeNotificationGUI::TAB_MAIN)",
+        "has_variable": true,
+        "variable": "O"
+    },
+    {
+        "id": 1370,
+        "file": "components\/ILIAS\/AdministrativeNotification\/classes\/class.ilADNTabHandling.php",
+        "line": 71,
+        "code": "$this->lng->txt(ilMMTopItemGUI::CMD_VIEW_TOP_ITEMS)",
+        "has_variable": true,
+        "variable": "MMT"
+    },
+    {
+        "id": 1372,
+        "file": "components\/ILIAS\/AdministrativeNotification\/classes\/class.ilADNTabHandling.php",
+        "line": 76,
+        "code": "$this->lng->txt(ilMMSubItemGUI::CMD_VIEW_SUB_ITEMS)",
+        "has_variable": true,
+        "variable": "MMS"
+    },
+    {
+        "id": 1374,
+        "file": "components\/ILIAS\/AdministrativeNotification\/classes\/class.ilADNTabHandling.php",
+        "line": 90,
+        "code": "$this->lng->txt('perm_settings')",
+        "has_variable": false,
+        "variable": "perm_settings"
+    },
+    {
+        "id": 1376,
+        "file": "components\/ILIAS\/AdministrativeNotification\/classes\/class.ilADNTabHandling.php",
+        "line": 97,
+        "code": "$this->lng->txt('tab_back')",
+        "has_variable": false,
+        "variable": "tab_back"
+    },
+    {
+        "id": 1378,
+        "file": "components\/ILIAS\/AdministrativeNotification\/classes\/class.ilADNTabHandling.php",
+        "line": 99,
+        "code": "$this->lng->txt('tab_back')",
+        "has_variable": false,
+        "variable": "tab_back"
+    },
+    {
+        "id": 1380,
+        "file": "components\/ILIAS\/AdministrativeNotification\/classes\/class.ilObjAdministrativeNotification.php",
+        "line": 38,
+        "code": "$this->lng->txt(\"obj_adn\")",
+        "has_variable": false,
+        "variable": "obj_adn"
+    },
+    {
+        "id": 1382,
+        "file": "components\/ILIAS\/AdministrativeNotification\/classes\/class.ilObjAdministrativeNotification.php",
+        "line": 47,
+        "code": "$this->lng->txt(\"administrative_notification_description\")",
+        "has_variable": false,
+        "variable": "administrative_notification_description"
+    }
+]

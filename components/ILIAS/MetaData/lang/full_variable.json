@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "type": "full",
+        "count": 8,
+        "description": "Variable usages without detectable prefixes or suffixes (pure variable references without static strings)"
+    },
+    "matches": [
+        {
+            "id": 27764,
+            "file": "components\/ILIAS\/MetaData\/classes\/Editor\/Presenter\/Utilities.php",
+            "line": 54,
+            "code": "$this->utilities->txt($key)",
+            "variable": "$key",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 27848,
+            "file": "components\/ILIAS\/MetaData\/classes\/Presentation\/Data.php",
+            "line": 105,
+            "code": "$this->utilities->txt($labels[$key][1])",
+            "variable": "\\$labels",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 27850,
+            "file": "components\/ILIAS\/MetaData\/classes\/Presentation\/Data.php",
+            "line": 106,
+            "code": "$this->utilities->txt($labels[$key][0])",
+            "variable": "\\$labels",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 27852,
+            "file": "components\/ILIAS\/MetaData\/classes\/Presentation\/Elements.php",
+            "line": 57,
+            "code": "$this->utilities->txt($lang_key)",
+            "variable": "$lang_key",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 27854,
+            "file": "components\/ILIAS\/MetaData\/classes\/Presentation\/Utilities.php",
+            "line": 50,
+            "code": "$this->lng->txt($key)",
+            "variable": "$key",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 27856,
+            "file": "components\/ILIAS\/MetaData\/classes\/Presentation\/Utilities.php",
+            "line": 56,
+            "code": "$this->lng->txt($key)",
+            "variable": "$key",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 27876,
+            "file": "components\/ILIAS\/MetaData\/classes\/Settings\/Copyright\/Usage\/class.ilMDCopyrightUsageTableGUI.php",
+            "line": 131,
+            "code": "$this->lng->txt($a_set['type'])",
+            "variable": "_",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 28056,
+            "file": "components\/ILIAS\/MetaData\/classes\/Settings\/Vocabularies\/Presentation.php",
+            "line": 74,
+            "code": "$this->presentation_utils->txt($key)",
+            "variable": "$key",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        }
+    ]
+}

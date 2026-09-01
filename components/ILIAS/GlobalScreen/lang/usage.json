@@ -1,0 +1,82 @@
+[
+    {
+        "id": 18736,
+        "file": "components\/ILIAS\/GlobalScreen\/src\/GUI\/I18n\/MultiLanguage\/TranslationWorkflowForm.php",
+        "line": 230,
+        "code": "$this->lng->txt('translations')",
+        "has_variable": false,
+        "variable": "translations"
+    },
+    {
+        "id": 18738,
+        "file": "components\/ILIAS\/GlobalScreen\/src\/GUI\/I18n\/Translator.php",
+        "line": 71,
+        "code": "$this->lng->txt($key)",
+        "has_variable": true,
+        "variable": "$key"
+    },
+    {
+        "id": 18740,
+        "file": "components\/ILIAS\/GlobalScreen\/src\/GUI\/I18n\/Translator.php",
+        "line": 74,
+        "code": "$this->lng->txt($key)",
+        "has_variable": true,
+        "variable": "$key"
+    },
+    {
+        "id": 18742,
+        "file": "components\/ILIAS\/GlobalScreen\/src\/Scope\/Layout\/Provider\/PagePart\/StandardPagePartProvider.php",
+        "line": 121,
+        "code": "$this->lang->txt('more')",
+        "has_variable": false,
+        "variable": "more"
+    },
+    {
+        "id": 18744,
+        "file": "components\/ILIAS\/GlobalScreen\/src\/Scope\/Layout\/Provider\/PagePart\/StandardPagePartProvider.php",
+        "line": 124,
+        "code": "$this->lang->txt('tools')",
+        "has_variable": false,
+        "variable": "tools"
+    },
+    {
+        "id": 18746,
+        "file": "components\/ILIAS\/GlobalScreen\/src\/Scope\/Layout\/Provider\/PagePart\/StandardPagePartProvider.php",
+        "line": 185,
+        "code": "$this->lang->txt('rep_main_page_logo_alt')",
+        "has_variable": false,
+        "variable": "rep_main_page_logo_alt"
+    },
+    {
+        "id": 18748,
+        "file": "components\/ILIAS\/GlobalScreen\/src\/Scope\/Layout\/Provider\/PagePart\/StandardPagePartProvider.php",
+        "line": 195,
+        "code": "$this->lang->txt('rep_main_page_logo_alt')",
+        "has_variable": false,
+        "variable": "rep_main_page_logo_alt"
+    },
+    {
+        "id": 18750,
+        "file": "components\/ILIAS\/GlobalScreen\/src\/Scope\/MainMenu\/Collector\/Renderer\/TopParentItemDrilldownRenderer.php",
+        "line": 104,
+        "code": "$this->txt('unable_to_render')",
+        "has_variable": false,
+        "variable": "unable_to_render"
+    },
+    {
+        "id": 18752,
+        "file": "components\/ILIAS\/GlobalScreen\/src\/Scope\/MainMenu\/Collector\/Renderer\/TopParentItemDrilldownRenderer.php",
+        "line": 123,
+        "code": "$this->lng->txt($key)",
+        "has_variable": true,
+        "variable": "$key"
+    },
+    {
+        "id": 18754,
+        "file": "components\/ILIAS\/GlobalScreen\/src\/Scope\/MetaBar\/Collector\/Renderer\/NotificationCenterRenderer.php",
+        "line": 63,
+        "code": "$this->lng->txt(\"noc\")",
+        "has_variable": false,
+        "variable": "noc"
+    }
+]

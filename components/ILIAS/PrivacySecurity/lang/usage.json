@@ -1,0 +1,426 @@
+[
+    {
+        "id": 30470,
+        "file": "components\/ILIAS\/PrivacySecurity\/classes\/class.ilExportFieldsInfo.php",
+        "line": 121,
+        "code": "$this->lng->txt('login')",
+        "has_variable": false,
+        "variable": "login"
+    },
+    {
+        "id": 30472,
+        "file": "components\/ILIAS\/PrivacySecurity\/classes\/class.ilExportFieldsInfo.php",
+        "line": 130,
+        "code": "$this->lng->txt($caption)",
+        "has_variable": true,
+        "variable": "$caption"
+    },
+    {
+        "id": 30474,
+        "file": "components\/ILIAS\/PrivacySecurity\/classes\/class.ilExportFieldsInfo.php",
+        "line": 138,
+        "code": "$this->lng->txt('cal_ch_field_ch')",
+        "has_variable": false,
+        "variable": "cal_ch_field_ch"
+    },
+    {
+        "id": 30476,
+        "file": "components\/ILIAS\/PrivacySecurity\/classes\/class.ilExportFieldsInfo.php",
+        "line": 160,
+        "code": "$this->lng->txt($this->getType() . '_cdf_tbl_last_edit')",
+        "has_variable": true,
+        "variable": "$this->getType() . '_cdf_tbl_last_edit'"
+    },
+    {
+        "id": 30478,
+        "file": "components\/ILIAS\/PrivacySecurity\/classes\/class.ilExportFieldsInfo.php",
+        "line": 175,
+        "code": "$this->lng->txt($field)",
+        "has_variable": true,
+        "variable": "$field"
+    },
+    {
+        "id": 30480,
+        "file": "components\/ILIAS\/PrivacySecurity\/classes\/class.ilObjPrivacySecurityGUI.php",
+        "line": 52,
+        "code": "$lng->txt(\"ps_error_message_https_header_missing\")",
+        "has_variable": false,
+        "variable": "ps_error_message_https_header_missing"
+    },
+    {
+        "id": 30482,
+        "file": "components\/ILIAS\/PrivacySecurity\/classes\/class.ilObjPrivacySecurityGUI.php",
+        "line": 53,
+        "code": "$lng->txt('https_not_possible')",
+        "has_variable": false,
+        "variable": "https_not_possible"
+    },
+    {
+        "id": 30484,
+        "file": "components\/ILIAS\/PrivacySecurity\/classes\/class.ilObjPrivacySecurityGUI.php",
+        "line": 54,
+        "code": "$lng->txt('http_not_possible')",
+        "has_variable": false,
+        "variable": "http_not_possible"
+    },
+    {
+        "id": 30486,
+        "file": "components\/ILIAS\/PrivacySecurity\/classes\/class.ilObjPrivacySecurityGUI.php",
+        "line": 55,
+        "code": "$lng->txt('ps_error_message_invalid_password_min_length')",
+        "has_variable": false,
+        "variable": "ps_error_message_invalid_password_min_length"
+    },
+    {
+        "id": 30488,
+        "file": "components\/ILIAS\/PrivacySecurity\/classes\/class.ilObjPrivacySecurityGUI.php",
+        "line": 56,
+        "code": "$lng->txt('ps_error_message_invalid_password_max_length')",
+        "has_variable": false,
+        "variable": "ps_error_message_invalid_password_max_length"
+    },
+    {
+        "id": 30490,
+        "file": "components\/ILIAS\/PrivacySecurity\/classes\/class.ilObjPrivacySecurityGUI.php",
+        "line": 57,
+        "code": "$lng->txt('ps_error_message_invalid_password_max_age')",
+        "has_variable": false,
+        "variable": "ps_error_message_invalid_password_max_age"
+    },
+    {
+        "id": 30492,
+        "file": "components\/ILIAS\/PrivacySecurity\/classes\/class.ilObjPrivacySecurityGUI.php",
+        "line": 58,
+        "code": "$lng->txt('ps_error_message_invalid_login_max_attempts')",
+        "has_variable": false,
+        "variable": "ps_error_message_invalid_login_max_attempts"
+    },
+    {
+        "id": 30494,
+        "file": "components\/ILIAS\/PrivacySecurity\/classes\/class.ilObjPrivacySecurityGUI.php",
+        "line": 59,
+        "code": "$lng->txt('ps_error_message_password_min1_because_chars')",
+        "has_variable": false,
+        "variable": "ps_error_message_password_min1_because_chars"
+    },
+    {
+        "id": 30496,
+        "file": "components\/ILIAS\/PrivacySecurity\/classes\/class.ilObjPrivacySecurityGUI.php",
+        "line": 60,
+        "code": "$lng->txt('ps_error_message_password_min2_because_chars_numbers')",
+        "has_variable": false,
+        "variable": "ps_error_message_password_min2_because_chars_numbers"
+    },
+    {
+        "id": 30498,
+        "file": "components\/ILIAS\/PrivacySecurity\/classes\/class.ilObjPrivacySecurityGUI.php",
+        "line": 61,
+        "code": "$lng->txt('ps_error_message_password_min3_because_chars_numbers_sc')",
+        "has_variable": false,
+        "variable": "ps_error_message_password_min3_because_chars_numbers_sc"
+    },
+    {
+        "id": 30500,
+        "file": "components\/ILIAS\/PrivacySecurity\/classes\/class.ilObjPrivacySecurityGUI.php",
+        "line": 62,
+        "code": "$lng->txt('ps_error_message_password_max_less_min')",
+        "has_variable": false,
+        "variable": "ps_error_message_password_max_less_min"
+    },
+    {
+        "id": 30502,
+        "file": "components\/ILIAS\/PrivacySecurity\/classes\/class.ilObjPrivacySecurityGUI.php",
+        "line": 74,
+        "code": "$this->lng->txt('no_permission')",
+        "has_variable": false,
+        "variable": "no_permission"
+    },
+    {
+        "id": 30504,
+        "file": "components\/ILIAS\/PrivacySecurity\/classes\/class.ilObjPrivacySecurityGUI.php",
+        "line": 131,
+        "code": "$this->lng->txt('ps_privacy_protection')",
+        "has_variable": false,
+        "variable": "ps_privacy_protection"
+    },
+    {
+        "id": 30506,
+        "file": "components\/ILIAS\/PrivacySecurity\/classes\/class.ilObjPrivacySecurityGUI.php",
+        "line": 134,
+        "code": "$this->lng->txt('ps_warning_modify')",
+        "has_variable": false,
+        "variable": "ps_warning_modify"
+    },
+    {
+        "id": 30508,
+        "file": "components\/ILIAS\/PrivacySecurity\/classes\/class.ilObjPrivacySecurityGUI.php",
+        "line": 165,
+        "code": "$this->lng->txt('ps_profile_export')",
+        "has_variable": false,
+        "variable": "ps_profile_export"
+    },
+    {
+        "id": 30510,
+        "file": "components\/ILIAS\/PrivacySecurity\/classes\/class.ilObjPrivacySecurityGUI.php",
+        "line": 168,
+        "code": "$this->lng->txt('ps_export_course')",
+        "has_variable": false,
+        "variable": "ps_export_course"
+    },
+    {
+        "id": 30512,
+        "file": "components\/ILIAS\/PrivacySecurity\/classes\/class.ilObjPrivacySecurityGUI.php",
+        "line": 172,
+        "code": "$this->lng->txt('ps_export_groups')",
+        "has_variable": false,
+        "variable": "ps_export_groups"
+    },
+    {
+        "id": 30514,
+        "file": "components\/ILIAS\/PrivacySecurity\/classes\/class.ilObjPrivacySecurityGUI.php",
+        "line": 176,
+        "code": "$this->lng->txt('ps_export_prgs')",
+        "has_variable": false,
+        "variable": "ps_export_prgs"
+    },
+    {
+        "id": 30516,
+        "file": "components\/ILIAS\/PrivacySecurity\/classes\/class.ilObjPrivacySecurityGUI.php",
+        "line": 180,
+        "code": "$this->lng->txt('ps_export_confirm')",
+        "has_variable": false,
+        "variable": "ps_export_confirm"
+    },
+    {
+        "id": 30518,
+        "file": "components\/ILIAS\/PrivacySecurity\/classes\/class.ilObjPrivacySecurityGUI.php",
+        "line": 181,
+        "code": "$this->lng->txt('ps_export_confirm_info')",
+        "has_variable": false,
+        "variable": "ps_export_confirm_info"
+    },
+    {
+        "id": 30520,
+        "file": "components\/ILIAS\/PrivacySecurity\/classes\/class.ilObjPrivacySecurityGUI.php",
+        "line": 185,
+        "code": "$this->lng->txt('ps_export_confirm_group')",
+        "has_variable": false,
+        "variable": "ps_export_confirm_group"
+    },
+    {
+        "id": 30522,
+        "file": "components\/ILIAS\/PrivacySecurity\/classes\/class.ilObjPrivacySecurityGUI.php",
+        "line": 186,
+        "code": "$this->lng->txt('ps_export_confirm_group_info')",
+        "has_variable": false,
+        "variable": "ps_export_confirm_group_info"
+    },
+    {
+        "id": 30524,
+        "file": "components\/ILIAS\/PrivacySecurity\/classes\/class.ilObjPrivacySecurityGUI.php",
+        "line": 190,
+        "code": "$this->lng->txt('ps_show_grp_access')",
+        "has_variable": false,
+        "variable": "ps_show_grp_access"
+    },
+    {
+        "id": 30526,
+        "file": "components\/ILIAS\/PrivacySecurity\/classes\/class.ilObjPrivacySecurityGUI.php",
+        "line": 194,
+        "code": "$this->lng->txt('ps_show_crs_access')",
+        "has_variable": false,
+        "variable": "ps_show_crs_access"
+    },
+    {
+        "id": 30528,
+        "file": "components\/ILIAS\/PrivacySecurity\/classes\/class.ilObjPrivacySecurityGUI.php",
+        "line": 198,
+        "code": "$this->lng->txt('ps_show_lso_access')",
+        "has_variable": false,
+        "variable": "ps_show_lso_access"
+    },
+    {
+        "id": 30530,
+        "file": "components\/ILIAS\/PrivacySecurity\/classes\/class.ilObjPrivacySecurityGUI.php",
+        "line": 203,
+        "code": "$this->lng->txt('ps_participants_list_courses')",
+        "has_variable": false,
+        "variable": "ps_participants_list_courses"
+    },
+    {
+        "id": 30532,
+        "file": "components\/ILIAS\/PrivacySecurity\/classes\/class.ilObjPrivacySecurityGUI.php",
+        "line": 214,
+        "code": "$this->lng->txt('save')",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 30534,
+        "file": "components\/ILIAS\/PrivacySecurity\/classes\/class.ilObjPrivacySecurityGUI.php",
+        "line": 242,
+        "code": "$this->lng->txt('ps_security_protection')",
+        "has_variable": false,
+        "variable": "ps_security_protection"
+    },
+    {
+        "id": 30536,
+        "file": "components\/ILIAS\/PrivacySecurity\/classes\/class.ilObjPrivacySecurityGUI.php",
+        "line": 255,
+        "code": "$this->lng->txt('no_permission')",
+        "has_variable": false,
+        "variable": "no_permission"
+    },
+    {
+        "id": 30538,
+        "file": "components\/ILIAS\/PrivacySecurity\/classes\/class.ilObjPrivacySecurityGUI.php",
+        "line": 301,
+        "code": "$this->lng->txt('err_check_input')",
+        "has_variable": false,
+        "variable": "err_check_input"
+    },
+    {
+        "id": 30540,
+        "file": "components\/ILIAS\/PrivacySecurity\/classes\/class.ilObjPrivacySecurityGUI.php",
+        "line": 333,
+        "code": "$this->lng->txt('settings_saved')",
+        "has_variable": false,
+        "variable": "settings_saved"
+    },
+    {
+        "id": 30542,
+        "file": "components\/ILIAS\/PrivacySecurity\/classes\/class.ilObjPrivacySecurityGUI.php",
+        "line": 344,
+        "code": "$this->lng->txt('no_permission')",
+        "has_variable": false,
+        "variable": "no_permission"
+    },
+    {
+        "id": 30544,
+        "file": "components\/ILIAS\/PrivacySecurity\/classes\/class.ilSecuritySettingsChecker.php",
+        "line": 36,
+        "code": "$lng->txt('password_empty')",
+        "has_variable": false,
+        "variable": "password_empty"
+    },
+    {
+        "id": 30546,
+        "file": "components\/ILIAS\/PrivacySecurity\/classes\/class.ilSecuritySettingsChecker.php",
+        "line": 45,
+        "code": "$lng->txt('password_to_short')",
+        "has_variable": false,
+        "variable": "password_to_short"
+    },
+    {
+        "id": 30548,
+        "file": "components\/ILIAS\/PrivacySecurity\/classes\/class.ilSecuritySettingsChecker.php",
+        "line": 52,
+        "code": "$lng->txt('password_to_long')",
+        "has_variable": false,
+        "variable": "password_to_long"
+    },
+    {
+        "id": 30550,
+        "file": "components\/ILIAS\/PrivacySecurity\/classes\/class.ilSecuritySettingsChecker.php",
+        "line": 71,
+        "code": "$lng->txt('password_must_chars_and_numbers')",
+        "has_variable": false,
+        "variable": "password_must_chars_and_numbers"
+    },
+    {
+        "id": 30552,
+        "file": "components\/ILIAS\/PrivacySecurity\/classes\/class.ilSecuritySettingsChecker.php",
+        "line": 81,
+        "code": "$lng->txt('password_must_contain_ucase_chars')",
+        "has_variable": false,
+        "variable": "password_must_contain_ucase_chars"
+    },
+    {
+        "id": 30554,
+        "file": "components\/ILIAS\/PrivacySecurity\/classes\/class.ilSecuritySettingsChecker.php",
+        "line": 93,
+        "code": "$lng->txt('password_must_contain_lcase_chars')",
+        "has_variable": false,
+        "variable": "password_must_contain_lcase_chars"
+    },
+    {
+        "id": 30556,
+        "file": "components\/ILIAS\/PrivacySecurity\/classes\/class.ilSecuritySettingsChecker.php",
+        "line": 104,
+        "code": "$lng->txt('password_must_special_chars')",
+        "has_variable": false,
+        "variable": "password_must_special_chars"
+    },
+    {
+        "id": 30558,
+        "file": "components\/ILIAS\/PrivacySecurity\/classes\/class.ilSecuritySettingsChecker.php",
+        "line": 111,
+        "code": "$lng->txt('password_contains_invalid_chars')",
+        "has_variable": false,
+        "variable": "password_contains_invalid_chars"
+    },
+    {
+        "id": 30560,
+        "file": "components\/ILIAS\/PrivacySecurity\/classes\/class.ilSecuritySettingsChecker.php",
+        "line": 119,
+        "code": "$lng->txt('password_multiple_errors')",
+        "has_variable": false,
+        "variable": "password_multiple_errors"
+    },
+    {
+        "id": 30562,
+        "file": "components\/ILIAS\/PrivacySecurity\/classes\/class.ilSecuritySettingsChecker.php",
+        "line": 198,
+        "code": "$lng->txt('password_allow_chars')",
+        "has_variable": false,
+        "variable": "password_allow_chars"
+    },
+    {
+        "id": 30564,
+        "file": "components\/ILIAS\/PrivacySecurity\/classes\/class.ilSecuritySettingsChecker.php",
+        "line": 202,
+        "code": "$lng->txt('password_to_short')",
+        "has_variable": false,
+        "variable": "password_to_short"
+    },
+    {
+        "id": 30566,
+        "file": "components\/ILIAS\/PrivacySecurity\/classes\/class.ilSecuritySettingsChecker.php",
+        "line": 207,
+        "code": "$lng->txt('password_to_long')",
+        "has_variable": false,
+        "variable": "password_to_long"
+    },
+    {
+        "id": 30568,
+        "file": "components\/ILIAS\/PrivacySecurity\/classes\/class.ilSecuritySettingsChecker.php",
+        "line": 212,
+        "code": "$lng->txt('password_must_chars_and_numbers')",
+        "has_variable": false,
+        "variable": "password_must_chars_and_numbers"
+    },
+    {
+        "id": 30570,
+        "file": "components\/ILIAS\/PrivacySecurity\/classes\/class.ilSecuritySettingsChecker.php",
+        "line": 217,
+        "code": "$lng->txt('password_must_special_chars')",
+        "has_variable": false,
+        "variable": "password_must_special_chars"
+    },
+    {
+        "id": 30572,
+        "file": "components\/ILIAS\/PrivacySecurity\/classes\/class.ilSecuritySettingsChecker.php",
+        "line": 222,
+        "code": "$lng->txt('password_must_contain_ucase_chars')",
+        "has_variable": false,
+        "variable": "password_must_contain_ucase_chars"
+    },
+    {
+        "id": 30574,
+        "file": "components\/ILIAS\/PrivacySecurity\/classes\/class.ilSecuritySettingsChecker.php",
+        "line": 229,
+        "code": "$lng->txt('password_must_contain_lcase_chars')",
+        "has_variable": false,
+        "variable": "password_must_contain_lcase_chars"
+    }
+]

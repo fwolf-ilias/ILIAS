@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "type": "full",
+        "count": 8,
+        "description": "Variable usages without detectable prefixes or suffixes (pure variable references without static strings)"
+    },
+    "matches": [
+        {
+            "id": 4552,
+            "file": "components\/ILIAS\/COPage\/Editor\/Server\/class.UIWrapper.php",
+            "line": 179,
+            "code": "$this->lng->txt($lng_key)",
+            "variable": "$lng_key",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 4764,
+            "file": "components\/ILIAS\/COPage\/Layout\/classes\/class.ilPageLayoutGUI.php",
+            "line": 145,
+            "code": "$lng->txt($a_mode)",
+            "variable": "$a_mode",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 5528,
+            "file": "components\/ILIAS\/COPage\/PC\/Paragraph\/MenuGUI.php",
+            "line": 370,
+            "code": "$lng->txt($section_title)",
+            "variable": "$section_title",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 6122,
+            "file": "components\/ILIAS\/COPage\/PC\/Table\/class.ilPCTableGUI.php",
+            "line": 984,
+            "code": "$lng->txt(\"\")",
+            "variable": "",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 6190,
+            "file": "components\/ILIAS\/COPage\/PC\/Tabs\/class.ilPCTabsGUI.php",
+            "line": 224,
+            "code": "$this->lng->txt(\"\")",
+            "variable": "",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 6192,
+            "file": "components\/ILIAS\/COPage\/PC\/Tabs\/class.ilPCTabsGUI.php",
+            "line": 225,
+            "code": "$this->lng->txt(\"\")",
+            "variable": "",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 6302,
+            "file": "components\/ILIAS\/COPage\/Page\/class.PageQueryActionHandler.php",
+            "line": 184,
+            "code": "$plugin->txt(\\ilPageComponentPlugin::TXT_CMD_INSERT)",
+            "variable": "P",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 6434,
+            "file": "components\/ILIAS\/COPage\/classes\/class.ilPageObjectGUI.php",
+            "line": 805,
+            "code": "$plugin->txt(ilPageComponentPlugin::TXT_CMD_INSERT)",
+            "variable": "P",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        }
+    ]
+}

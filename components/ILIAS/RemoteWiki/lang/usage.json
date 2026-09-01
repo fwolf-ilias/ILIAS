@@ -1,0 +1,90 @@
+[
+    {
+        "id": 31190,
+        "file": "components\/ILIAS\/RemoteWiki\/classes\/class.ilObjRemoteWikiAccess.php",
+        "line": 51,
+        "code": "$lng->txt(\"offline\")",
+        "has_variable": false,
+        "variable": "offline"
+    },
+    {
+        "id": 31192,
+        "file": "components\/ILIAS\/RemoteWiki\/classes\/class.ilObjRemoteWikiAccess.php",
+        "line": 66,
+        "code": "$lng->txt(\"offline\")",
+        "has_variable": false,
+        "variable": "offline"
+    },
+    {
+        "id": 31194,
+        "file": "components\/ILIAS\/RemoteWiki\/classes\/class.ilObjRemoteWikiGUI.php",
+        "line": 50,
+        "code": "$this->lng->txt('ecs_availability')",
+        "has_variable": false,
+        "variable": "ecs_availability"
+    },
+    {
+        "id": 31196,
+        "file": "components\/ILIAS\/RemoteWiki\/classes\/class.ilObjRemoteWikiGUI.php",
+        "line": 57,
+        "code": "$this->lng->txt('offline')",
+        "has_variable": false,
+        "variable": "offline"
+    },
+    {
+        "id": 31198,
+        "file": "components\/ILIAS\/RemoteWiki\/classes\/class.ilObjRemoteWikiGUI.php",
+        "line": 60,
+        "code": "$this->lng->txt('online')",
+        "has_variable": false,
+        "variable": "online"
+    },
+    {
+        "id": 31200,
+        "file": "components\/ILIAS\/RemoteWiki\/classes\/class.ilObjRemoteWikiGUI.php",
+        "line": 67,
+        "code": "$this->lng->txt('ecs_availability')",
+        "has_variable": false,
+        "variable": "ecs_availability"
+    },
+    {
+        "id": 31202,
+        "file": "components\/ILIAS\/RemoteWiki\/classes\/class.ilObjRemoteWikiGUI.php",
+        "line": 71,
+        "code": "$this->lng->txt('offline')",
+        "has_variable": false,
+        "variable": "offline"
+    },
+    {
+        "id": 31204,
+        "file": "components\/ILIAS\/RemoteWiki\/classes\/class.ilObjRemoteWikiGUI.php",
+        "line": 74,
+        "code": "$this->lng->txt('online')",
+        "has_variable": false,
+        "variable": "online"
+    },
+    {
+        "id": 31206,
+        "file": "components\/ILIAS\/RemoteWiki\/classes\/class.ilObjRemoteWikiListGUI.php",
+        "line": 79,
+        "code": "$this->lng->txt('organization')",
+        "has_variable": false,
+        "variable": "organization"
+    },
+    {
+        "id": 31208,
+        "file": "components\/ILIAS\/RemoteWiki\/classes\/class.ilObjRemoteWikiListGUI.php",
+        "line": 82,
+        "code": "$this->lng->txt(\"status\")",
+        "has_variable": false,
+        "variable": "status"
+    },
+    {
+        "id": 31210,
+        "file": "components\/ILIAS\/RemoteWiki\/classes\/class.ilObjRemoteWikiListGUI.php",
+        "line": 82,
+        "code": "$this->lng->txt(\"offline\")",
+        "has_variable": false,
+        "variable": "offline"
+    }
+]

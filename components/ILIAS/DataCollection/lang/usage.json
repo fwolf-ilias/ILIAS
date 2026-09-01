@@ -1,0 +1,3226 @@
+[
+    {
+        "id": 12934,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Content\/class.ilDclContentExporter.php",
+        "line": 145,
+        "code": "$this->lng->txt('dcl_no_export_data_available')",
+        "has_variable": false,
+        "variable": "dcl_no_export_data_available"
+    },
+    {
+        "id": 12936,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Content\/class.ilDclContentImporter.php",
+        "line": 84,
+        "code": "$this->lng->txt(\"dcl_file_not_readable\")",
+        "has_variable": false,
+        "variable": "dcl_file_not_readable"
+    },
+    {
+        "id": 12938,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Content\/class.ilDclContentImporter.php",
+        "line": 91,
+        "code": "$this->lng->txt('dcl_file_not_readable')",
+        "has_variable": false,
+        "variable": "dcl_file_not_readable"
+    },
+    {
+        "id": 12940,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Content\/class.ilDclContentImporter.php",
+        "line": 107,
+        "code": "$this->lng->txt('dcl_table_title_not_matching')",
+        "has_variable": false,
+        "variable": "dcl_table_title_not_matching"
+    },
+    {
+        "id": 12942,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Content\/class.ilDclContentImporter.php",
+        "line": 170,
+        "code": "$this->lng->txt(\"dcl_max_import\")",
+        "has_variable": false,
+        "variable": "dcl_max_import"
+    },
+    {
+        "id": 12944,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Content\/class.ilDclContentImporter.php",
+        "line": 184,
+        "code": "$this->lng->txt(\"dcl_not_supported_in_import\")",
+        "has_variable": false,
+        "variable": "dcl_not_supported_in_import"
+    },
+    {
+        "id": 12946,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Content\/class.ilDclContentImporter.php",
+        "line": 217,
+        "code": "$this->lng->txt(\"dcl_std_field_not_importable\")",
+        "has_variable": false,
+        "variable": "dcl_std_field_not_importable"
+    },
+    {
+        "id": 12948,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Content\/class.ilDclContentImporter.php",
+        "line": 220,
+        "code": "$this->lng->txt(\"dcl_row_not_found\")",
+        "has_variable": false,
+        "variable": "dcl_row_not_found"
+    },
+    {
+        "id": 12950,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Content\/class.ilDclRecordEditGUI.php",
+        "line": 199,
+        "code": "$this->lng->txt('dcl_confirm_delete_record')",
+        "has_variable": false,
+        "variable": "dcl_confirm_delete_record"
+    },
+    {
+        "id": 12952,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Content\/class.ilDclRecordEditGUI.php",
+        "line": 215,
+        "code": "$this->lng->txt('delete')",
+        "has_variable": false,
+        "variable": "delete"
+    },
+    {
+        "id": 12954,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Content\/class.ilDclRecordEditGUI.php",
+        "line": 216,
+        "code": "$this->lng->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 12956,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Content\/class.ilDclRecordEditGUI.php",
+        "line": 242,
+        "code": "$this->lng->txt(\"dcl_record_deleted\")",
+        "has_variable": false,
+        "variable": "dcl_record_deleted"
+    },
+    {
+        "id": 12958,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Content\/class.ilDclRecordEditGUI.php",
+        "line": 359,
+        "code": "$this->lng->txt(\"dcl_update_record\")",
+        "has_variable": false,
+        "variable": "dcl_update_record"
+    },
+    {
+        "id": 12960,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Content\/class.ilDclRecordEditGUI.php",
+        "line": 360,
+        "code": "$this->lng->txt(\"dcl_update_record\")",
+        "has_variable": false,
+        "variable": "dcl_update_record"
+    },
+    {
+        "id": 12962,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Content\/class.ilDclRecordEditGUI.php",
+        "line": 362,
+        "code": "$this->lng->txt(\"cancel\")",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 12964,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Content\/class.ilDclRecordEditGUI.php",
+        "line": 365,
+        "code": "$this->lng->txt(\"dcl_add_new_record\")",
+        "has_variable": false,
+        "variable": "dcl_add_new_record"
+    },
+    {
+        "id": 12966,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Content\/class.ilDclRecordEditGUI.php",
+        "line": 366,
+        "code": "$this->lng->txt(\"save\")",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 12968,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Content\/class.ilDclRecordEditGUI.php",
+        "line": 368,
+        "code": "$this->lng->txt(\"cancel\")",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 12970,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Content\/class.ilDclRecordEditGUI.php",
+        "line": 436,
+        "code": "$this->lng->txt('dcl_confirm_storing_records')",
+        "has_variable": false,
+        "variable": "dcl_confirm_storing_records"
+    },
+    {
+        "id": 12972,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Content\/class.ilDclRecordEditGUI.php",
+        "line": 441,
+        "code": "$this->lng->txt('dcl_confirm_storing_records_no_permission')",
+        "has_variable": false,
+        "variable": "dcl_confirm_storing_records_no_permission"
+    },
+    {
+        "id": 12974,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Content\/class.ilDclRecordEditGUI.php",
+        "line": 445,
+        "code": "$this->lng->txt('edit')",
+        "has_variable": false,
+        "variable": "edit"
+    },
+    {
+        "id": 12976,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Content\/class.ilDclRecordEditGUI.php",
+        "line": 446,
+        "code": "$this->lng->txt('save')",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 12978,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Content\/class.ilDclRecordEditGUI.php",
+        "line": 566,
+        "code": "$this->lng->txt('form_input_not_valid')",
+        "has_variable": false,
+        "variable": "form_input_not_valid"
+    },
+    {
+        "id": 12980,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Content\/class.ilDclRecordEditGUI.php",
+        "line": 638,
+        "code": "$this->lng->txt('user_not_known')",
+        "has_variable": false,
+        "variable": "user_not_known"
+    },
+    {
+        "id": 12982,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Content\/class.ilDclRecordEditGUI.php",
+        "line": 677,
+        "code": "$this->lng->txt(\"msg_obj_modified\")",
+        "has_variable": false,
+        "variable": "msg_obj_modified"
+    },
+    {
+        "id": 12984,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Content\/class.ilDclRecordEditGUI.php",
+        "line": 687,
+        "code": "$this->lng->txt('msg_obj_modified')",
+        "has_variable": false,
+        "variable": "msg_obj_modified"
+    },
+    {
+        "id": 12986,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Content\/class.ilDclRecordEditGUI.php",
+        "line": 725,
+        "code": "$this->lng->txt('dcl_msg_no_perm_edit')",
+        "has_variable": false,
+        "variable": "dcl_msg_no_perm_edit"
+    },
+    {
+        "id": 12988,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Content\/class.ilDclRecordEditGUI.php",
+        "line": 728,
+        "code": "$this->lng->txt('dcl_msg_no_perm_edit')",
+        "has_variable": false,
+        "variable": "dcl_msg_no_perm_edit"
+    },
+    {
+        "id": 12990,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Content\/class.ilDclRecordListGUI.php",
+        "line": 118,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 12992,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Content\/class.ilDclRecordListGUI.php",
+        "line": 141,
+        "code": "$this->lng->txt('back')",
+        "has_variable": false,
+        "variable": "back"
+    },
+    {
+        "id": 12994,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Content\/class.ilDclRecordListGUI.php",
+        "line": 168,
+        "code": "$this->lng->txt(\"dcl_add_new_record\")",
+        "has_variable": false,
+        "variable": "dcl_add_new_record"
+    },
+    {
+        "id": 12996,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Content\/class.ilDclRecordListGUI.php",
+        "line": 178,
+        "code": "$this->lng->txt(\"dcl_import_records .xls\")",
+        "has_variable": true,
+        "variable": "\"dcl_import_records .xls\""
+    },
+    {
+        "id": 12998,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Content\/class.ilDclRecordListGUI.php",
+        "line": 185,
+        "code": "$this->lng->txt(\"dcl_no_fields_yet\")",
+        "has_variable": false,
+        "variable": "dcl_no_fields_yet"
+    },
+    {
+        "id": 13000,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Content\/class.ilDclRecordListGUI.php",
+        "line": 189,
+        "code": "$this->lng->txt(\"dcl_create_fields\")",
+        "has_variable": false,
+        "variable": "dcl_create_fields"
+    },
+    {
+        "id": 13002,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Content\/class.ilDclRecordListGUI.php",
+        "line": 226,
+        "code": "$this->lng->txt('dcl_file_format_description')",
+        "has_variable": false,
+        "variable": "dcl_file_format_description"
+    },
+    {
+        "id": 13004,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Content\/class.ilDclRecordListGUI.php",
+        "line": 230,
+        "code": "$this->lng->txt(\"import_file\")",
+        "has_variable": false,
+        "variable": "import_file"
+    },
+    {
+        "id": 13006,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Content\/class.ilDclRecordListGUI.php",
+        "line": 235,
+        "code": "$this->lng->txt(\"dcl_simulate_import\")",
+        "has_variable": false,
+        "variable": "dcl_simulate_import"
+    },
+    {
+        "id": 13008,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Content\/class.ilDclRecordListGUI.php",
+        "line": 236,
+        "code": "$this->lng->txt(\"dcl_simulate_info\")",
+        "has_variable": false,
+        "variable": "dcl_simulate_info"
+    },
+    {
+        "id": 13010,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Content\/class.ilDclRecordListGUI.php",
+        "line": 239,
+        "code": "$this->lng->txt(\"import\")",
+        "has_variable": false,
+        "variable": "import"
+    },
+    {
+        "id": 13012,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Content\/class.ilDclRecordListGUI.php",
+        "line": 253,
+        "code": "$this->lng->txt(\"access_denied\")",
+        "has_variable": false,
+        "variable": "access_denied"
+    },
+    {
+        "id": 13014,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Content\/class.ilDclRecordListGUI.php",
+        "line": 284,
+        "code": "$this->lng->txt(\"dcl_import_terminated\")",
+        "has_variable": false,
+        "variable": "dcl_import_terminated"
+    },
+    {
+        "id": 13016,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Content\/class.ilDclRecordListGUI.php",
+        "line": 292,
+        "code": "$this->lng->txt(\"back\")",
+        "has_variable": false,
+        "variable": "back"
+    },
+    {
+        "id": 13018,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Content\/class.ilDclRecordListGUI.php",
+        "line": 385,
+        "code": "$this->lng->txt('dcl_confirm_delete_records')",
+        "has_variable": false,
+        "variable": "dcl_confirm_delete_records"
+    },
+    {
+        "id": 13020,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Content\/class.ilDclRecordListGUI.php",
+        "line": 411,
+        "code": "$this->lng->txt('dcl_delete_records')",
+        "has_variable": false,
+        "variable": "dcl_delete_records"
+    },
+    {
+        "id": 13022,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Content\/class.ilDclRecordListGUI.php",
+        "line": 412,
+        "code": "$this->lng->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 13024,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Content\/class.ilDclRecordListGUI.php",
+        "line": 447,
+        "code": "$this->lng->txt('dcl_deleted_records')",
+        "has_variable": false,
+        "variable": "dcl_deleted_records"
+    },
+    {
+        "id": 13026,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Content\/class.ilDclRecordListGUI.php",
+        "line": 454,
+        "code": "$this->lng->txt('dcl_skipped_delete_records')",
+        "has_variable": false,
+        "variable": "dcl_skipped_delete_records"
+    },
+    {
+        "id": 13028,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Content\/class.ilDclRecordListGUI.php",
+        "line": 483,
+        "code": "$this->lng->txt('view')",
+        "has_variable": false,
+        "variable": "view"
+    },
+    {
+        "id": 13030,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Content\/class.ilDclRecordListGUI.php",
+        "line": 492,
+        "code": "$this->lng->txt('dcl_manage')",
+        "has_variable": false,
+        "variable": "dcl_manage"
+    },
+    {
+        "id": 13032,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Content\/class.ilDclRecordListTableGUI.php",
+        "line": 73,
+        "code": "$this->lng->txt('dcl_delete_records')",
+        "has_variable": false,
+        "variable": "dcl_delete_records"
+    },
+    {
+        "id": 13034,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Content\/class.ilDclRecordListTableGUI.php",
+        "line": 91,
+        "code": "$this->lng->txt(\"dcl_status\")",
+        "has_variable": false,
+        "variable": "dcl_status"
+    },
+    {
+        "id": 13036,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Content\/class.ilDclRecordListTableGUI.php",
+        "line": 147,
+        "code": "$this->lng->txt(\"actions\")",
+        "has_variable": false,
+        "variable": "actions"
+    },
+    {
+        "id": 13038,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Content\/class.ilDclRecordListTableGUI.php",
+        "line": 193,
+        "code": "$this->lng->txt('dcl_detailed_view')",
+        "has_variable": false,
+        "variable": "dcl_detailed_view"
+    },
+    {
+        "id": 13040,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Content\/class.ilDclRecordListTableGUI.php",
+        "line": 200,
+        "code": "$this->lng->txt('edit')",
+        "has_variable": false,
+        "variable": "edit"
+    },
+    {
+        "id": 13042,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Content\/class.ilDclRecordListTableGUI.php",
+        "line": 207,
+        "code": "$this->lng->txt('delete')",
+        "has_variable": false,
+        "variable": "delete"
+    },
+    {
+        "id": 13044,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Content\/class.ilDclRecordListTableGUI.php",
+        "line": 215,
+        "code": "$this->lng->txt('dcl_comments')",
+        "has_variable": false,
+        "variable": "dcl_comments"
+    },
+    {
+        "id": 13046,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Content\/class.ilDclRecordListTableGUI.php",
+        "line": 225,
+        "code": "$this->lng->txt(\"actions\")",
+        "has_variable": false,
+        "variable": "actions"
+    },
+    {
+        "id": 13048,
+        "file": "components\/ILIAS\/DataCollection\/classes\/CreateView\/class.ilDclCreateViewDefinitionGUI.php",
+        "line": 82,
+        "code": "$this->lng->txt('dcl_tableview_default_value_fail')",
+        "has_variable": false,
+        "variable": "dcl_tableview_default_value_fail"
+    },
+    {
+        "id": 13050,
+        "file": "components\/ILIAS\/DataCollection\/classes\/CreateView\/class.ilDclCreateViewDefinitionGUI.php",
+        "line": 147,
+        "code": "$this->lng->txt('dcl_msg_tableview_updated')",
+        "has_variable": false,
+        "variable": "dcl_msg_tableview_updated"
+    },
+    {
+        "id": 13052,
+        "file": "components\/ILIAS\/DataCollection\/classes\/CreateView\/class.ilDclCreateViewTableGUI.php",
+        "line": 36,
+        "code": "$lng->txt('dcl_tableview_fieldsettings')",
+        "has_variable": false,
+        "variable": "dcl_tableview_fieldsettings"
+    },
+    {
+        "id": 13054,
+        "file": "components\/ILIAS\/DataCollection\/classes\/CreateView\/class.ilDclCreateViewTableGUI.php",
+        "line": 37,
+        "code": "$lng->txt('dcl_tableview_fieldtitle')",
+        "has_variable": false,
+        "variable": "dcl_tableview_fieldtitle"
+    },
+    {
+        "id": 13056,
+        "file": "components\/ILIAS\/DataCollection\/classes\/CreateView\/class.ilDclCreateViewTableGUI.php",
+        "line": 38,
+        "code": "$lng->txt('dcl_tableview_field_access')",
+        "has_variable": false,
+        "variable": "dcl_tableview_field_access"
+    },
+    {
+        "id": 13058,
+        "file": "components\/ILIAS\/DataCollection\/classes\/CreateView\/class.ilDclCreateViewTableGUI.php",
+        "line": 39,
+        "code": "$lng->txt('dcl_tableview_default_value')",
+        "has_variable": false,
+        "variable": "dcl_tableview_default_value"
+    },
+    {
+        "id": 13060,
+        "file": "components\/ILIAS\/DataCollection\/classes\/CreateView\/class.ilDclCreateViewTableGUI.php",
+        "line": 43,
+        "code": "$lng->txt('save')",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 13062,
+        "file": "components\/ILIAS\/DataCollection\/classes\/CreateView\/class.ilDclCreateViewTableGUI.php",
+        "line": 109,
+        "code": "$this->lng->txt(\"previous\")",
+        "has_variable": false,
+        "variable": "previous"
+    },
+    {
+        "id": 13064,
+        "file": "components\/ILIAS\/DataCollection\/classes\/CreateView\/class.ilDclCreateViewTableGUI.php",
+        "line": 109,
+        "code": "$this->lng->txt(\"next\")",
+        "has_variable": false,
+        "variable": "next"
+    },
+    {
+        "id": 13066,
+        "file": "components\/ILIAS\/DataCollection\/classes\/CreateView\/class.ilDclCreateViewTableGUI.php",
+        "line": 153,
+        "code": "$lng->txt(\"no_items\")",
+        "has_variable": false,
+        "variable": "no_items"
+    },
+    {
+        "id": 13068,
+        "file": "components\/ILIAS\/DataCollection\/classes\/CreateView\/class.ilDclCreateViewTableGUI.php",
+        "line": 191,
+        "code": "$lng->txt('dcl_tableview_visible')",
+        "has_variable": false,
+        "variable": "dcl_tableview_visible"
+    },
+    {
+        "id": 13070,
+        "file": "components\/ILIAS\/DataCollection\/classes\/CreateView\/class.ilDclCreateViewTableGUI.php",
+        "line": 192,
+        "code": "$lng->txt('dcl_tableview_required_visible')",
+        "has_variable": false,
+        "variable": "dcl_tableview_required_visible"
+    },
+    {
+        "id": 13072,
+        "file": "components\/ILIAS\/DataCollection\/classes\/CreateView\/class.ilDclCreateViewTableGUI.php",
+        "line": 193,
+        "code": "$lng->txt('dcl_tableview_locked_visible')",
+        "has_variable": false,
+        "variable": "dcl_tableview_locked_visible"
+    },
+    {
+        "id": 13074,
+        "file": "components\/ILIAS\/DataCollection\/classes\/CreateView\/class.ilDclCreateViewTableGUI.php",
+        "line": 194,
+        "code": "$lng->txt('dcl_tableview_not_visible')",
+        "has_variable": false,
+        "variable": "dcl_tableview_not_visible"
+    },
+    {
+        "id": 13076,
+        "file": "components\/ILIAS\/DataCollection\/classes\/DetailedView\/class.ilDclDetailedViewDefinitionConfig.php",
+        "line": 44,
+        "code": "$this->lng->txt('dcl_legend_placeholders')",
+        "has_variable": false,
+        "variable": "dcl_legend_placeholders"
+    },
+    {
+        "id": 13078,
+        "file": "components\/ILIAS\/DataCollection\/classes\/DetailedView\/class.ilDclDetailedViewDefinitionGUI.php",
+        "line": 82,
+        "code": "$this->lng->txt(\"dcl_view_viewdefinition\")",
+        "has_variable": false,
+        "variable": "dcl_view_viewdefinition"
+    },
+    {
+        "id": 13080,
+        "file": "components\/ILIAS\/DataCollection\/classes\/DetailedView\/class.ilDclDetailedViewDefinitionGUI.php",
+        "line": 96,
+        "code": "$this->lng->txt('dcl_placeholder_info')",
+        "has_variable": false,
+        "variable": "dcl_placeholder_info"
+    },
+    {
+        "id": 13082,
+        "file": "components\/ILIAS\/DataCollection\/classes\/DetailedView\/class.ilDclDetailedViewGUI.php",
+        "line": 61,
+        "code": "$this->lng->txt('table_not_found')",
+        "has_variable": false,
+        "variable": "table_not_found"
+    },
+    {
+        "id": 13084,
+        "file": "components\/ILIAS\/DataCollection\/classes\/DetailedView\/class.ilDclDetailedViewGUI.php",
+        "line": 94,
+        "code": "$this->lng->txt('dcl_msg_no_perm_view')",
+        "has_variable": false,
+        "variable": "dcl_msg_no_perm_view"
+    },
+    {
+        "id": 13086,
+        "file": "components\/ILIAS\/DataCollection\/classes\/DetailedView\/class.ilDclDetailedViewGUI.php",
+        "line": 131,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 13088,
+        "file": "components\/ILIAS\/DataCollection\/classes\/DetailedView\/class.ilDclDetailedViewGUI.php",
+        "line": 195,
+        "code": "$this->lng->txt('entry_of')",
+        "has_variable": false,
+        "variable": "entry_of"
+    },
+    {
+        "id": 13090,
+        "file": "components\/ILIAS\/DataCollection\/classes\/DetailedView\/class.ilDclDetailedViewGUI.php",
+        "line": 210,
+        "code": "$this->lng->txt('edit')",
+        "has_variable": false,
+        "variable": "edit"
+    },
+    {
+        "id": 13092,
+        "file": "components\/ILIAS\/DataCollection\/classes\/EditView\/class.ilDclEditViewDefinitionGUI.php",
+        "line": 96,
+        "code": "$this->lng->txt('dcl_msg_tableview_updated')",
+        "has_variable": false,
+        "variable": "dcl_msg_tableview_updated"
+    },
+    {
+        "id": 13094,
+        "file": "components\/ILIAS\/DataCollection\/classes\/EditView\/class.ilDclEditViewTableGUI.php",
+        "line": 31,
+        "code": "$this->lng->txt('dcl_tableview_fieldsettings')",
+        "has_variable": false,
+        "variable": "dcl_tableview_fieldsettings"
+    },
+    {
+        "id": 13096,
+        "file": "components\/ILIAS\/DataCollection\/classes\/EditView\/class.ilDclEditViewTableGUI.php",
+        "line": 32,
+        "code": "$this->lng->txt('dcl_tableview_fieldtitle')",
+        "has_variable": false,
+        "variable": "dcl_tableview_fieldtitle"
+    },
+    {
+        "id": 13098,
+        "file": "components\/ILIAS\/DataCollection\/classes\/EditView\/class.ilDclEditViewTableGUI.php",
+        "line": 33,
+        "code": "$this->lng->txt('dcl_tableview_field_access')",
+        "has_variable": false,
+        "variable": "dcl_tableview_field_access"
+    },
+    {
+        "id": 13100,
+        "file": "components\/ILIAS\/DataCollection\/classes\/EditView\/class.ilDclEditViewTableGUI.php",
+        "line": 37,
+        "code": "$this->lng->txt('save')",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 13102,
+        "file": "components\/ILIAS\/DataCollection\/classes\/EditView\/class.ilDclEditViewTableGUI.php",
+        "line": 110,
+        "code": "$this->lng->txt(\"previous\")",
+        "has_variable": false,
+        "variable": "previous"
+    },
+    {
+        "id": 13104,
+        "file": "components\/ILIAS\/DataCollection\/classes\/EditView\/class.ilDclEditViewTableGUI.php",
+        "line": 110,
+        "code": "$this->lng->txt(\"next\")",
+        "has_variable": false,
+        "variable": "next"
+    },
+    {
+        "id": 13106,
+        "file": "components\/ILIAS\/DataCollection\/classes\/EditView\/class.ilDclEditViewTableGUI.php",
+        "line": 158,
+        "code": "$lng->txt(\"no_items\")",
+        "has_variable": false,
+        "variable": "no_items"
+    },
+    {
+        "id": 13108,
+        "file": "components\/ILIAS\/DataCollection\/classes\/EditView\/class.ilDclEditViewTableGUI.php",
+        "line": 191,
+        "code": "$lng->txt('dcl_tableview_visible')",
+        "has_variable": false,
+        "variable": "dcl_tableview_visible"
+    },
+    {
+        "id": 13110,
+        "file": "components\/ILIAS\/DataCollection\/classes\/EditView\/class.ilDclEditViewTableGUI.php",
+        "line": 192,
+        "code": "$lng->txt('dcl_tableview_required_visible')",
+        "has_variable": false,
+        "variable": "dcl_tableview_required_visible"
+    },
+    {
+        "id": 13112,
+        "file": "components\/ILIAS\/DataCollection\/classes\/EditView\/class.ilDclEditViewTableGUI.php",
+        "line": 193,
+        "code": "$lng->txt('dcl_tableview_locked_visible')",
+        "has_variable": false,
+        "variable": "dcl_tableview_locked_visible"
+    },
+    {
+        "id": 13114,
+        "file": "components\/ILIAS\/DataCollection\/classes\/EditView\/class.ilDclEditViewTableGUI.php",
+        "line": 194,
+        "code": "$lng->txt('dcl_tableview_not_visible')",
+        "has_variable": false,
+        "variable": "dcl_tableview_not_visible"
+    },
+    {
+        "id": 13116,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Fields\/Base\/class.ilDclBaseFieldModel.php",
+        "line": 209,
+        "code": "$this->lng->txt('dcl_' . $this->getDatatypeTitle())",
+        "has_variable": true,
+        "variable": "'dcl_' . $this->getDatatypeTitle()"
+    },
+    {
+        "id": 13118,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Fields\/Base\/class.ilDclBaseFieldModel.php",
+        "line": 214,
+        "code": "$this->lng->txt('dcl_' . $this->getDatatypeTitle() . '_desc')",
+        "has_variable": true,
+        "variable": "'dcl_' . $this->getDatatypeTitle() . '_desc'"
+    },
+    {
+        "id": 13120,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Fields\/Base\/class.ilDclBaseFieldModel.php",
+        "line": 676,
+        "code": "$this->lng->txt('duplicate_entries_exist')",
+        "has_variable": false,
+        "variable": "duplicate_entries_exist"
+    },
+    {
+        "id": 13122,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Fields\/Base\/class.ilDclBaseFieldModel.php",
+        "line": 798,
+        "code": "$this->lng->txt('dcl_update_field')",
+        "has_variable": false,
+        "variable": "dcl_update_field"
+    },
+    {
+        "id": 13124,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Fields\/Base\/class.ilDclBaseFieldModel.php",
+        "line": 799,
+        "code": "$this->lng->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 13126,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Fields\/Base\/class.ilDclStandardField.php",
+        "line": 77,
+        "code": "$lng->txt(\"dcl_id\")",
+        "has_variable": false,
+        "variable": "dcl_id"
+    },
+    {
+        "id": 13128,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Fields\/Base\/class.ilDclStandardField.php",
+        "line": 78,
+        "code": "$lng->txt(\"dcl_id_description\")",
+        "has_variable": false,
+        "variable": "dcl_id_description"
+    },
+    {
+        "id": 13130,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Fields\/Base\/class.ilDclStandardField.php",
+        "line": 83,
+        "code": "$lng->txt(\"dcl_creation_date\")",
+        "has_variable": false,
+        "variable": "dcl_creation_date"
+    },
+    {
+        "id": 13132,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Fields\/Base\/class.ilDclStandardField.php",
+        "line": 84,
+        "code": "$lng->txt(\"dcl_creation_date_description\")",
+        "has_variable": false,
+        "variable": "dcl_creation_date_description"
+    },
+    {
+        "id": 13134,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Fields\/Base\/class.ilDclStandardField.php",
+        "line": 89,
+        "code": "$lng->txt(\"dcl_last_update\")",
+        "has_variable": false,
+        "variable": "dcl_last_update"
+    },
+    {
+        "id": 13136,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Fields\/Base\/class.ilDclStandardField.php",
+        "line": 90,
+        "code": "$lng->txt(\"dcl_last_update_description\")",
+        "has_variable": false,
+        "variable": "dcl_last_update_description"
+    },
+    {
+        "id": 13138,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Fields\/Base\/class.ilDclStandardField.php",
+        "line": 95,
+        "code": "$lng->txt(\"dcl_owner\")",
+        "has_variable": false,
+        "variable": "dcl_owner"
+    },
+    {
+        "id": 13140,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Fields\/Base\/class.ilDclStandardField.php",
+        "line": 96,
+        "code": "$lng->txt(\"dcl_owner_description\")",
+        "has_variable": false,
+        "variable": "dcl_owner_description"
+    },
+    {
+        "id": 13142,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Fields\/Base\/class.ilDclStandardField.php",
+        "line": 101,
+        "code": "$lng->txt(\"dcl_last_edited_by\")",
+        "has_variable": false,
+        "variable": "dcl_last_edited_by"
+    },
+    {
+        "id": 13144,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Fields\/Base\/class.ilDclStandardField.php",
+        "line": 102,
+        "code": "$lng->txt(\"dcl_last_edited_by_description\")",
+        "has_variable": false,
+        "variable": "dcl_last_edited_by_description"
+    },
+    {
+        "id": 13146,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Fields\/Base\/class.ilDclStandardField.php",
+        "line": 107,
+        "code": "$lng->txt('dcl_comments')",
+        "has_variable": false,
+        "variable": "dcl_comments"
+    },
+    {
+        "id": 13148,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Fields\/Base\/class.ilDclStandardField.php",
+        "line": 108,
+        "code": "$lng->txt('dcl_comments_desc')",
+        "has_variable": false,
+        "variable": "dcl_comments_desc"
+    },
+    {
+        "id": 13150,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Fields\/Base\/class.ilDclStandardField.php",
+        "line": 327,
+        "code": "$lng->txt(\"dcl_owner_name\")",
+        "has_variable": false,
+        "variable": "dcl_owner_name"
+    },
+    {
+        "id": 13152,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Fields\/Boolean\/class.ilDclBooleanFieldRepresentation.php",
+        "line": 46,
+        "code": "$this->lng->txt(\"dcl_any\")",
+        "has_variable": false,
+        "variable": "dcl_any"
+    },
+    {
+        "id": 13154,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Fields\/Boolean\/class.ilDclBooleanFieldRepresentation.php",
+        "line": 47,
+        "code": "$this->lng->txt(\"dcl_not_checked\")",
+        "has_variable": false,
+        "variable": "dcl_not_checked"
+    },
+    {
+        "id": 13156,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Fields\/Boolean\/class.ilDclBooleanFieldRepresentation.php",
+        "line": 48,
+        "code": "$this->lng->txt(\"dcl_checked\")",
+        "has_variable": false,
+        "variable": "dcl_checked"
+    },
+    {
+        "id": 13158,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Fields\/Boolean\/class.ilDclBooleanRecordFieldModel.php",
+        "line": 34,
+        "code": "$this->lng->txt('yes')",
+        "has_variable": false,
+        "variable": "yes"
+    },
+    {
+        "id": 13160,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Fields\/Boolean\/class.ilDclBooleanRecordFieldModel.php",
+        "line": 34,
+        "code": "$this->lng->txt('no')",
+        "has_variable": false,
+        "variable": "no"
+    },
+    {
+        "id": 13162,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Fields\/Boolean\/class.ilDclBooleanRecordRepresentation.php",
+        "line": 33,
+        "code": "$this->lng->txt(\"yes\")",
+        "has_variable": false,
+        "variable": "yes"
+    },
+    {
+        "id": 13164,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Fields\/Boolean\/class.ilDclBooleanRecordRepresentation.php",
+        "line": 38,
+        "code": "$this->lng->txt(\"no\")",
+        "has_variable": false,
+        "variable": "no"
+    },
+    {
+        "id": 13166,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Fields\/Copy\/class.ilDclCopyFieldModel.php",
+        "line": 62,
+        "code": "$this->lng->txt('dcl_copy_field')",
+        "has_variable": false,
+        "variable": "dcl_copy_field"
+    },
+    {
+        "id": 13168,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Fields\/Copy\/class.ilDclCopyFieldModel.php",
+        "line": 67,
+        "code": "$this->lng->txt('dcl_copy_field_desc')",
+        "has_variable": false,
+        "variable": "dcl_copy_field_desc"
+    },
+    {
+        "id": 13170,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Fields\/Copy\/class.ilDclCopyFieldRepresentation.php",
+        "line": 46,
+        "code": "$this->lng->txt('dcl_please_select')",
+        "has_variable": false,
+        "variable": "dcl_please_select"
+    },
+    {
+        "id": 13172,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Fields\/Copy\/class.ilDclCopyFieldRepresentation.php",
+        "line": 61,
+        "code": "$this->lng->txt('dcl_origin_not_found')",
+        "has_variable": false,
+        "variable": "dcl_origin_not_found"
+    },
+    {
+        "id": 13174,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Fields\/Copy\/class.ilDclCopyFieldRepresentation.php",
+        "line": 67,
+        "code": "$this->lng->txt('dcl_deprecated_copy')",
+        "has_variable": false,
+        "variable": "dcl_deprecated_copy"
+    },
+    {
+        "id": 13176,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Fields\/Copy\/class.ilDclCopyFieldRepresentation.php",
+        "line": 123,
+        "code": "$this->lng->txt('dcl_copy_title')",
+        "has_variable": false,
+        "variable": "dcl_copy_title"
+    },
+    {
+        "id": 13178,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Fields\/Copy\/class.ilDclCopyFieldRepresentation.php",
+        "line": 130,
+        "code": "$this->lng->txt('dcl_multiple_selection')",
+        "has_variable": false,
+        "variable": "dcl_multiple_selection"
+    },
+    {
+        "id": 13180,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Fields\/Date\/class.ilDclDateRecordRepresentation.php",
+        "line": 27,
+        "code": "$this->lng->txt('no_date')",
+        "has_variable": false,
+        "variable": "no_date"
+    },
+    {
+        "id": 13182,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Fields\/DateSelection\/class.ilDclDateSelectionFieldRepresentation.php",
+        "line": 26,
+        "code": "$this->lng->txt('dcl_selection_options')",
+        "has_variable": false,
+        "variable": "dcl_selection_options"
+    },
+    {
+        "id": 13184,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Fields\/Datetime\/class.ilDclDatetimeRecordRepresentation.php",
+        "line": 27,
+        "code": "$this->lng->txt('no_date')",
+        "has_variable": false,
+        "variable": "no_date"
+    },
+    {
+        "id": 13186,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Fields\/DatetimeSelection\/class.ilDclDatetimeSelectionFieldRepresentation.php",
+        "line": 26,
+        "code": "$this->lng->txt('dcl_selection_options')",
+        "has_variable": false,
+        "variable": "dcl_selection_options"
+    },
+    {
+        "id": 13188,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Fields\/File\/class.ilDclFileFieldRepresentation.php",
+        "line": 74,
+        "code": "$this->lng->txt('dcl_supported_filetypes')",
+        "has_variable": false,
+        "variable": "dcl_supported_filetypes"
+    },
+    {
+        "id": 13190,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Fields\/File\/class.ilDclFileFieldRepresentation.php",
+        "line": 77,
+        "code": "$this->lng->txt('dcl_supported_filetypes_desc')",
+        "has_variable": false,
+        "variable": "dcl_supported_filetypes_desc"
+    },
+    {
+        "id": 13192,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Fields\/File\/class.ilDclFileRecordRepresentation.php",
+        "line": 59,
+        "code": "$this->lng->txt('file_not_found')",
+        "has_variable": false,
+        "variable": "file_not_found"
+    },
+    {
+        "id": 13194,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Fields\/Formula\/FormulaParser\/Result\/ResultFormatter.php",
+        "line": 65,
+        "code": "$this->lng->txt($unit)",
+        "has_variable": true,
+        "variable": "$unit"
+    },
+    {
+        "id": 13196,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Fields\/Formula\/FormulaParser\/Result\/ResultFormatter.php",
+        "line": 128,
+        "code": "$this->lng->txt('lang_sep_decimal')",
+        "has_variable": false,
+        "variable": "lang_sep_decimal"
+    },
+    {
+        "id": 13198,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Fields\/Formula\/FormulaParser\/Result\/ResultFormatter.php",
+        "line": 129,
+        "code": "$this->lng->txt('lang_sep_thousand')",
+        "has_variable": false,
+        "variable": "lang_sep_thousand"
+    },
+    {
+        "id": 13200,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Fields\/Formula\/FormulaParser\/Substitution\/FieldSubstitution.php",
+        "line": 81,
+        "code": "$this->lng->txt('dcl_err_formula_field_not_found')",
+        "has_variable": false,
+        "variable": "dcl_err_formula_field_not_found"
+    },
+    {
+        "id": 13202,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Fields\/Formula\/class.ilDclFormulaFieldRepresentation.php",
+        "line": 32,
+        "code": "$this->lng->txt('dcl_formula_detail_desc')",
+        "has_variable": false,
+        "variable": "dcl_formula_detail_desc"
+    },
+    {
+        "id": 13204,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Fields\/Formula\/class.ilDclFormulaFieldRepresentation.php",
+        "line": 49,
+        "code": "$this->lng->txt('dcl_prop_expression')",
+        "has_variable": false,
+        "variable": "dcl_prop_expression"
+    },
+    {
+        "id": 13206,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Fields\/Formula\/class.ilDclFormulaFieldRepresentation.php",
+        "line": 61,
+        "code": "$this->lng->txt('dcl_prop_expression_info')",
+        "has_variable": false,
+        "variable": "dcl_prop_expression_info"
+    },
+    {
+        "id": 13208,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Fields\/Formula\/class.ilDclFormulaRecordFieldModel.php",
+        "line": 119,
+        "code": "$this->lng->txt('dcl_error_parsing_expression')",
+        "has_variable": false,
+        "variable": "dcl_error_parsing_expression"
+    },
+    {
+        "id": 13210,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Fields\/IliasReference\/class.ilDclIliasReferenceFieldRepresentation.php",
+        "line": 73,
+        "code": "$this->lng->txt('dcl_learning_progress')",
+        "has_variable": false,
+        "variable": "dcl_learning_progress"
+    },
+    {
+        "id": 13212,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Fields\/IliasReference\/class.ilDclIliasReferenceFieldRepresentation.php",
+        "line": 76,
+        "code": "$this->lng->txt('dcl_learning_progress_desc')",
+        "has_variable": false,
+        "variable": "dcl_learning_progress_desc"
+    },
+    {
+        "id": 13214,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Fields\/IliasReference\/class.ilDclIliasReferenceFieldRepresentation.php",
+        "line": 80,
+        "code": "$this->lng->txt('dcl_ilias_reference_link')",
+        "has_variable": false,
+        "variable": "dcl_ilias_reference_link"
+    },
+    {
+        "id": 13216,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Fields\/IliasReference\/class.ilDclIliasReferenceFieldRepresentation.php",
+        "line": 86,
+        "code": "$this->lng->txt('dcl_display_action_menu')",
+        "has_variable": false,
+        "variable": "dcl_display_action_menu"
+    },
+    {
+        "id": 13218,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Fields\/IliasReference\/class.ilDclIliasReferenceFieldRepresentation.php",
+        "line": 89,
+        "code": "$this->lng->txt('dcl_display_action_menu_desc')",
+        "has_variable": false,
+        "variable": "dcl_display_action_menu_desc"
+    },
+    {
+        "id": 13220,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Fields\/IliasReference\/class.ilDclIliasReferenceFieldRepresentation.php",
+        "line": 93,
+        "code": "$this->lng->txt('dcl_unique')",
+        "has_variable": false,
+        "variable": "dcl_unique"
+    },
+    {
+        "id": 13222,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Fields\/IliasReference\/class.ilDclIliasReferenceFieldRepresentation.php",
+        "line": 96,
+        "code": "$this->lng->txt('dcl_unique_desc')",
+        "has_variable": false,
+        "variable": "dcl_unique_desc"
+    },
+    {
+        "id": 13224,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Fields\/IliasReference\/class.ilDclIliasReferenceRecordRepresentation.php",
+        "line": 58,
+        "code": "$this->lng->txt('link')",
+        "has_variable": false,
+        "variable": "link"
+    },
+    {
+        "id": 13226,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Fields\/IliasReference\/class.ilDclIliasReferenceRecordRepresentation.php",
+        "line": 65,
+        "code": "$this->lng->txt('copy')",
+        "has_variable": false,
+        "variable": "copy"
+    },
+    {
+        "id": 13228,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Fields\/IliasReference\/class.ilDclIliasReferenceRecordRepresentation.php",
+        "line": 81,
+        "code": "$this->lng->txt('view')",
+        "has_variable": false,
+        "variable": "view"
+    },
+    {
+        "id": 13230,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Fields\/Mob\/class.ilDclMobFieldRepresentation.php",
+        "line": 54,
+        "code": "$this->lng->txt('dcl_' . $this->getField()->getDatatype()->getTitle())",
+        "has_variable": true,
+        "variable": "'dcl_' . $this->getField()->getDatatype()->getTitle()"
+    },
+    {
+        "id": 13232,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Fields\/Mob\/class.ilDclMobFieldRepresentation.php",
+        "line": 57,
+        "code": "$this->lng->txt('dcl_' . $this->getField()->getDatatype()->getTitle() . '_desc')",
+        "has_variable": true,
+        "variable": "'dcl_' . $this->getField()->getDatatype()->getTitle() . '_desc'"
+    },
+    {
+        "id": 13234,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Fields\/Mob\/class.ilDclMobFieldRepresentation.php",
+        "line": 62,
+        "code": "$this->lng->txt('dcl_link_detail_page')",
+        "has_variable": false,
+        "variable": "dcl_link_detail_page"
+    },
+    {
+        "id": 13236,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Fields\/Mob\/class.ilDclMobFieldRepresentation.php",
+        "line": 65,
+        "code": "$this->lng->txt('dcl_link_detail_page_desc')",
+        "has_variable": false,
+        "variable": "dcl_link_detail_page_desc"
+    },
+    {
+        "id": 13238,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Fields\/Mob\/class.ilDclMobRecordRepresentation.php",
+        "line": 56,
+        "code": "$this->lng->txt('details')",
+        "has_variable": false,
+        "variable": "details"
+    },
+    {
+        "id": 13240,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Fields\/Number\/class.ilDclNumberFieldRepresentation.php",
+        "line": 28,
+        "code": "$this->lng->txt('dcl_max_digits')",
+        "has_variable": false,
+        "variable": "dcl_max_digits"
+    },
+    {
+        "id": 13242,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Fields\/Plugin\/class.ilDclPluginFieldModel.php",
+        "line": 48,
+        "code": "$plugin->txt('field_type_name')",
+        "has_variable": false,
+        "variable": "field_type_name"
+    },
+    {
+        "id": 13244,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Fields\/Plugin\/class.ilDclPluginFieldModel.php",
+        "line": 51,
+        "code": "$plugin->txt('field_type_name')",
+        "has_variable": false,
+        "variable": "field_type_name"
+    },
+    {
+        "id": 13246,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Fields\/Plugin\/class.ilDclPluginFieldModel.php",
+        "line": 58,
+        "code": "$plugin->txt('field_type_info')",
+        "has_variable": false,
+        "variable": "field_type_info"
+    },
+    {
+        "id": 13248,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Fields\/Plugin\/class.ilDclPluginFieldModel.php",
+        "line": 61,
+        "code": "$plugin->txt('field_type_info')",
+        "has_variable": false,
+        "variable": "field_type_info"
+    },
+    {
+        "id": 13250,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Fields\/Rating\/class.ilDclRatingFieldRepresentation.php",
+        "line": 26,
+        "code": "$this->lng->txt(\"dcl_editable_in_table_gui\")",
+        "has_variable": false,
+        "variable": "dcl_editable_in_table_gui"
+    },
+    {
+        "id": 13252,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Fields\/Rating\/class.ilDclRatingFieldRepresentation.php",
+        "line": 44,
+        "code": "$this->lng->txt(\"dcl_any\")",
+        "has_variable": false,
+        "variable": "dcl_any"
+    },
+    {
+        "id": 13254,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Fields\/Reference\/class.ilDclReferenceFieldRepresentation.php",
+        "line": 39,
+        "code": "$this->lng->txt('dcl_please_select')",
+        "has_variable": false,
+        "variable": "dcl_please_select"
+    },
+    {
+        "id": 13256,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Fields\/Reference\/class.ilDclReferenceFieldRepresentation.php",
+        "line": 68,
+        "code": "$this->lng->txt('dcl_all_entries')",
+        "has_variable": false,
+        "variable": "dcl_all_entries"
+    },
+    {
+        "id": 13258,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Fields\/Reference\/class.ilDclReferenceFieldRepresentation.php",
+        "line": 70,
+        "code": "$this->lng->txt('dcl_no_entry')",
+        "has_variable": false,
+        "variable": "dcl_no_entry"
+    },
+    {
+        "id": 13260,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Fields\/Reference\/class.ilDclReferenceFieldRepresentation.php",
+        "line": 170,
+        "code": "$this->lng->txt('dcl_reference_title')",
+        "has_variable": false,
+        "variable": "dcl_reference_title"
+    },
+    {
+        "id": 13262,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Fields\/Reference\/class.ilDclReferenceFieldRepresentation.php",
+        "line": 174,
+        "code": "$this->lng->txt('dcl_reference_title_desc')",
+        "has_variable": false,
+        "variable": "dcl_reference_title_desc"
+    },
+    {
+        "id": 13264,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Fields\/Reference\/class.ilDclReferenceFieldRepresentation.php",
+        "line": 179,
+        "code": "$this->lng->txt('dcl_reference_link')",
+        "has_variable": false,
+        "variable": "dcl_reference_link"
+    },
+    {
+        "id": 13266,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Fields\/Reference\/class.ilDclReferenceFieldRepresentation.php",
+        "line": 182,
+        "code": "$this->lng->txt('dcl_reference_link_info')",
+        "has_variable": false,
+        "variable": "dcl_reference_link_info"
+    },
+    {
+        "id": 13268,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Fields\/Reference\/class.ilDclReferenceFieldRepresentation.php",
+        "line": 186,
+        "code": "$this->lng->txt('dcl_multiple_selection')",
+        "has_variable": false,
+        "variable": "dcl_multiple_selection"
+    },
+    {
+        "id": 13270,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Fields\/Reference\/class.ilDclReferenceRecordFieldModel.php",
+        "line": 79,
+        "code": "$this->lng->txt(\"dcl_no_such_reference\")",
+        "has_variable": false,
+        "variable": "dcl_no_such_reference"
+    },
+    {
+        "id": 13272,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Fields\/Selection\/class.ilDclSelectionFieldRepresentation.php",
+        "line": 36,
+        "code": "$this->lng->txt('dcl_selection_type')",
+        "has_variable": false,
+        "variable": "dcl_selection_type"
+    },
+    {
+        "id": 13274,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Fields\/Selection\/class.ilDclSelectionFieldRepresentation.php",
+        "line": 48,
+        "code": "$this->lng->txt('dcl_' . $option)",
+        "has_variable": true,
+        "variable": "'dcl_' . $option"
+    },
+    {
+        "id": 13276,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Fields\/Selection\/class.ilDclSelectionFieldRepresentation.php",
+        "line": 54,
+        "code": "$this->lng->txt('dcl_unique')",
+        "has_variable": false,
+        "variable": "dcl_unique"
+    },
+    {
+        "id": 13278,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Fields\/Selection\/class.ilDclSelectionFieldRepresentation.php",
+        "line": 57,
+        "code": "$this->lng->txt('dcl_unique_desc')",
+        "has_variable": false,
+        "variable": "dcl_unique_desc"
+    },
+    {
+        "id": 13280,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Fields\/Selection\/class.ilDclSelectionFieldRepresentation.php",
+        "line": 83,
+        "code": "$this->lng->txt('dcl_please_select')",
+        "has_variable": false,
+        "variable": "dcl_please_select"
+    },
+    {
+        "id": 13282,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Fields\/Selection\/class.ilDclSelectionFieldRepresentation.php",
+        "line": 109,
+        "code": "$this->lng->txt('dcl_all_entries')",
+        "has_variable": false,
+        "variable": "dcl_all_entries"
+    },
+    {
+        "id": 13284,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Fields\/Selection\/class.ilDclSelectionFieldRepresentation.php",
+        "line": 114,
+        "code": "$this->lng->txt('dcl_no_entry')",
+        "has_variable": false,
+        "variable": "dcl_no_entry"
+    },
+    {
+        "id": 13286,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Fields\/Selection\/class.ilDclSelectionRecordFieldModel.php",
+        "line": 61,
+        "code": "$this->lng->txt(\"dcl_no_such_reference\")",
+        "has_variable": false,
+        "variable": "dcl_no_such_reference"
+    },
+    {
+        "id": 13288,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Fields\/Text\/class.ilDclTextFieldRepresentation.php",
+        "line": 67,
+        "code": "$this->lng->txt('dcl_text_email_detail_desc')",
+        "has_variable": false,
+        "variable": "dcl_text_email_detail_desc"
+    },
+    {
+        "id": 13290,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Fields\/Text\/class.ilDclTextFieldRepresentation.php",
+        "line": 69,
+        "code": "$this->lng->txt('dcl_text_email_title')",
+        "has_variable": false,
+        "variable": "dcl_text_email_title"
+    },
+    {
+        "id": 13292,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Fields\/Text\/class.ilDclTextFieldRepresentation.php",
+        "line": 72,
+        "code": "$this->lng->txt('dcl_text_email_title_info')",
+        "has_variable": false,
+        "variable": "dcl_text_email_title_info"
+    },
+    {
+        "id": 13294,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Fields\/Text\/class.ilDclTextFieldRepresentation.php",
+        "line": 75,
+        "code": "$this->lng->txt(\"dcl_max_text_length\")",
+        "has_variable": false,
+        "variable": "dcl_max_text_length"
+    },
+    {
+        "id": 13296,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Fields\/Text\/class.ilDclTextFieldRepresentation.php",
+        "line": 88,
+        "code": "$this->lng->txt('dcl_length')",
+        "has_variable": false,
+        "variable": "dcl_length"
+    },
+    {
+        "id": 13298,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Fields\/Text\/class.ilDclTextFieldRepresentation.php",
+        "line": 96,
+        "code": "$this->lng->txt('dcl_length_info')",
+        "has_variable": false,
+        "variable": "dcl_length_info"
+    },
+    {
+        "id": 13300,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Fields\/Text\/class.ilDclTextFieldRepresentation.php",
+        "line": 100,
+        "code": "$this->lng->txt('dcl_url')",
+        "has_variable": false,
+        "variable": "dcl_url"
+    },
+    {
+        "id": 13302,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Fields\/Text\/class.ilDclTextFieldRepresentation.php",
+        "line": 106,
+        "code": "$this->lng->txt('dcl_link_detail_page')",
+        "has_variable": false,
+        "variable": "dcl_link_detail_page"
+    },
+    {
+        "id": 13304,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Fields\/Text\/class.ilDclTextFieldRepresentation.php",
+        "line": 109,
+        "code": "$this->lng->txt('dcl_link_detail_page_desc')",
+        "has_variable": false,
+        "variable": "dcl_link_detail_page_desc"
+    },
+    {
+        "id": 13306,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Fields\/Text\/class.ilDclTextFieldRepresentation.php",
+        "line": 113,
+        "code": "$this->lng->txt('dcl_unique')",
+        "has_variable": false,
+        "variable": "dcl_unique"
+    },
+    {
+        "id": 13308,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Fields\/Text\/class.ilDclTextFieldRepresentation.php",
+        "line": 116,
+        "code": "$this->lng->txt('dcl_unique_desc')",
+        "has_variable": false,
+        "variable": "dcl_unique_desc"
+    },
+    {
+        "id": 13310,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Fields\/Text\/class.ilDclTextFieldRepresentation.php",
+        "line": 120,
+        "code": "$this->lng->txt('dcl_regex')",
+        "has_variable": false,
+        "variable": "dcl_regex"
+    },
+    {
+        "id": 13312,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Fields\/Text\/class.ilDclTextFieldRepresentation.php",
+        "line": 123,
+        "code": "$this->lng->txt('dcl_regex_info')",
+        "has_variable": false,
+        "variable": "dcl_regex_info"
+    },
+    {
+        "id": 13314,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Fields\/Text\/class.ilDclTextRecordRepresentation.php",
+        "line": 80,
+        "code": "$this->lng->txt($key)",
+        "has_variable": true,
+        "variable": "$key"
+    },
+    {
+        "id": 13316,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Fields\/TextSelection\/class.ilDclTextSelectionFieldRepresentation.php",
+        "line": 26,
+        "code": "$this->lng->txt('dcl_selection_options')",
+        "has_variable": false,
+        "variable": "dcl_selection_options"
+    },
+    {
+        "id": 13318,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Fields\/class.ilDclFieldEditGUI.php",
+        "line": 163,
+        "code": "$lng->txt('dcl_confirm_delete_field')",
+        "has_variable": false,
+        "variable": "dcl_confirm_delete_field"
+    },
+    {
+        "id": 13320,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Fields\/class.ilDclFieldEditGUI.php",
+        "line": 167,
+        "code": "$lng->txt('delete')",
+        "has_variable": false,
+        "variable": "delete"
+    },
+    {
+        "id": 13322,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Fields\/class.ilDclFieldEditGUI.php",
+        "line": 168,
+        "code": "$lng->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 13324,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Fields\/class.ilDclFieldEditGUI.php",
+        "line": 219,
+        "code": "$lng->txt('dcl_edit_field')",
+        "has_variable": false,
+        "variable": "dcl_edit_field"
+    },
+    {
+        "id": 13326,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Fields\/class.ilDclFieldEditGUI.php",
+        "line": 225,
+        "code": "$lng->txt('dcl_update_field')",
+        "has_variable": false,
+        "variable": "dcl_update_field"
+    },
+    {
+        "id": 13328,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Fields\/class.ilDclFieldEditGUI.php",
+        "line": 227,
+        "code": "$lng->txt('dcl_new_field')",
+        "has_variable": false,
+        "variable": "dcl_new_field"
+    },
+    {
+        "id": 13330,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Fields\/class.ilDclFieldEditGUI.php",
+        "line": 234,
+        "code": "$lng->txt('dcl_create_field')",
+        "has_variable": false,
+        "variable": "dcl_create_field"
+    },
+    {
+        "id": 13332,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Fields\/class.ilDclFieldEditGUI.php",
+        "line": 236,
+        "code": "$lng->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 13334,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Fields\/class.ilDclFieldEditGUI.php",
+        "line": 238,
+        "code": "$lng->txt(\"title\")",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 13336,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Fields\/class.ilDclFieldEditGUI.php",
+        "line": 241,
+        "code": "$lng->txt('fieldtitle_allow_chars')",
+        "has_variable": false,
+        "variable": "fieldtitle_allow_chars"
+    },
+    {
+        "id": 13338,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Fields\/class.ilDclFieldEditGUI.php",
+        "line": 248,
+        "code": "$lng->txt(\"dcl_field_description\")",
+        "has_variable": false,
+        "variable": "dcl_field_description"
+    },
+    {
+        "id": 13340,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Fields\/class.ilDclFieldEditGUI.php",
+        "line": 249,
+        "code": "$lng->txt('dcl_field_description_desc')",
+        "has_variable": false,
+        "variable": "dcl_field_description_desc"
+    },
+    {
+        "id": 13342,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Fields\/class.ilDclFieldEditGUI.php",
+        "line": 252,
+        "code": "$lng->txt('dcl_datatype')",
+        "has_variable": false,
+        "variable": "dcl_datatype"
+    },
+    {
+        "id": 13344,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Fields\/class.ilDclFieldEditGUI.php",
+        "line": 297,
+        "code": "$lng->txt(\"dcl_field_title_change_warning\")",
+        "has_variable": false,
+        "variable": "dcl_field_title_change_warning"
+    },
+    {
+        "id": 13346,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Fields\/class.ilDclFieldEditGUI.php",
+        "line": 317,
+        "code": "$lng->txt(\"dcl_msg_field_modified\")",
+        "has_variable": false,
+        "variable": "dcl_msg_field_modified"
+    },
+    {
+        "id": 13348,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Fields\/class.ilDclFieldEditGUI.php",
+        "line": 321,
+        "code": "$lng->txt(\"msg_field_created\")",
+        "has_variable": false,
+        "variable": "msg_field_created"
+    },
+    {
+        "id": 13350,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Fields\/class.ilDclFieldEditGUI.php",
+        "line": 350,
+        "code": "$lng->txt(\"dcl_field_title_unique\")",
+        "has_variable": false,
+        "variable": "dcl_field_title_unique"
+    },
+    {
+        "id": 13352,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Fields\/class.ilDclFieldEditGUI.php",
+        "line": 357,
+        "code": "$lng->txt(\"form_input_not_valid\")",
+        "has_variable": false,
+        "variable": "form_input_not_valid"
+    },
+    {
+        "id": 13354,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Fields\/class.ilDclFieldListGUI.php",
+        "line": 64,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 13356,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Fields\/class.ilDclFieldListGUI.php",
+        "line": 99,
+        "code": "$this->lng->txt('dcl_msg_fields_deleted')",
+        "has_variable": false,
+        "variable": "dcl_msg_fields_deleted"
+    },
+    {
+        "id": 13358,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Fields\/class.ilDclFieldListGUI.php",
+        "line": 111,
+        "code": "$this->lng->txt('dcl_confirm_delete_fields')",
+        "has_variable": false,
+        "variable": "dcl_confirm_delete_fields"
+    },
+    {
+        "id": 13360,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Fields\/class.ilDclFieldListGUI.php",
+        "line": 115,
+        "code": "$this->lng->txt('dcl_delete_fields_no_selection')",
+        "has_variable": false,
+        "variable": "dcl_delete_fields_no_selection"
+    },
+    {
+        "id": 13362,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Fields\/class.ilDclFieldListGUI.php",
+        "line": 129,
+        "code": "$this->lng->txt('delete')",
+        "has_variable": false,
+        "variable": "delete"
+    },
+    {
+        "id": 13364,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Fields\/class.ilDclFieldListGUI.php",
+        "line": 130,
+        "code": "$this->lng->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 13366,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Fields\/class.ilDclFieldListGUI.php",
+        "line": 172,
+        "code": "$this->lng->txt(\"dcl_table_settings_saved\")",
+        "has_variable": false,
+        "variable": "dcl_table_settings_saved"
+    },
+    {
+        "id": 13368,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Fields\/class.ilDclFieldListGUI.php",
+        "line": 183,
+        "code": "$this->lng->txt(\"dcl_add_new_field\")",
+        "has_variable": false,
+        "variable": "dcl_add_new_field"
+    },
+    {
+        "id": 13370,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Fields\/class.ilDclFieldListTableGUI.php",
+        "line": 46,
+        "code": "$this->lng->txt('dcl_order')",
+        "has_variable": false,
+        "variable": "dcl_order"
+    },
+    {
+        "id": 13372,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Fields\/class.ilDclFieldListTableGUI.php",
+        "line": 47,
+        "code": "$this->lng->txt('dcl_fieldtitle')",
+        "has_variable": false,
+        "variable": "dcl_fieldtitle"
+    },
+    {
+        "id": 13374,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Fields\/class.ilDclFieldListTableGUI.php",
+        "line": 48,
+        "code": "$this->lng->txt('dcl_in_export')",
+        "has_variable": false,
+        "variable": "dcl_in_export"
+    },
+    {
+        "id": 13376,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Fields\/class.ilDclFieldListTableGUI.php",
+        "line": 49,
+        "code": "$this->lng->txt('dcl_description')",
+        "has_variable": false,
+        "variable": "dcl_description"
+    },
+    {
+        "id": 13378,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Fields\/class.ilDclFieldListTableGUI.php",
+        "line": 50,
+        "code": "$this->lng->txt('dcl_field_datatype')",
+        "has_variable": false,
+        "variable": "dcl_field_datatype"
+    },
+    {
+        "id": 13380,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Fields\/class.ilDclFieldListTableGUI.php",
+        "line": 51,
+        "code": "$this->lng->txt('actions')",
+        "has_variable": false,
+        "variable": "actions"
+    },
+    {
+        "id": 13382,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Fields\/class.ilDclFieldListTableGUI.php",
+        "line": 55,
+        "code": "$this->lng->txt('dcl_delete_fields')",
+        "has_variable": false,
+        "variable": "dcl_delete_fields"
+    },
+    {
+        "id": 13384,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Fields\/class.ilDclFieldListTableGUI.php",
+        "line": 62,
+        "code": "$this->lng->txt('save')",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 13386,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Fields\/class.ilDclFieldListTableGUI.php",
+        "line": 134,
+        "code": "$this->lng->txt(\"previous\")",
+        "has_variable": false,
+        "variable": "previous"
+    },
+    {
+        "id": 13388,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Fields\/class.ilDclFieldListTableGUI.php",
+        "line": 134,
+        "code": "$this->lng->txt(\"next\")",
+        "has_variable": false,
+        "variable": "next"
+    },
+    {
+        "id": 13390,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Fields\/class.ilDclFieldListTableGUI.php",
+        "line": 182,
+        "code": "$this->lng->txt(\"no_items\")",
+        "has_variable": false,
+        "variable": "no_items"
+    },
+    {
+        "id": 13392,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Fields\/class.ilDclFieldListTableGUI.php",
+        "line": 251,
+        "code": "$this->lng->txt('edit')",
+        "has_variable": false,
+        "variable": "edit"
+    },
+    {
+        "id": 13394,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Fields\/class.ilDclFieldListTableGUI.php",
+        "line": 256,
+        "code": "$this->lng->txt('delete')",
+        "has_variable": false,
+        "variable": "delete"
+    },
+    {
+        "id": 13396,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Fields\/class.ilDclFieldListTableGUI.php",
+        "line": 259,
+        "code": "$this->lng->txt('actions')",
+        "has_variable": false,
+        "variable": "actions"
+    },
+    {
+        "id": 13398,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Helpers\/class.ilDclCheckboxInputGUI.php",
+        "line": 29,
+        "code": "$lng->txt(\"msg_input_is_required\")",
+        "has_variable": false,
+        "variable": "msg_input_is_required"
+    },
+    {
+        "id": 13400,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Helpers\/class.ilDclSwitcher.php",
+        "line": 55,
+        "code": "$this->lng->txt('dcl_table')",
+        "has_variable": false,
+        "variable": "dcl_table"
+    },
+    {
+        "id": 13402,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Helpers\/class.ilDclSwitcher.php",
+        "line": 78,
+        "code": "$this->lng->txt('dcl_tableview')",
+        "has_variable": false,
+        "variable": "dcl_tableview"
+    },
+    {
+        "id": 13404,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Helpers\/class.ilDclTextInputGUI.php",
+        "line": 52,
+        "code": "$lng->txt('msg_input_does_not_match_regexp')",
+        "has_variable": false,
+        "variable": "msg_input_does_not_match_regexp"
+    },
+    {
+        "id": 13406,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Table\/class.ilDclTableEditGUI.php",
+        "line": 74,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 13408,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Table\/class.ilDclTableEditGUI.php",
+        "line": 92,
+        "code": "$this->lng->txt('dcl_new_table')",
+        "has_variable": false,
+        "variable": "dcl_new_table"
+    },
+    {
+        "id": 13410,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Table\/class.ilDclTableEditGUI.php",
+        "line": 99,
+        "code": "$this->lng->txt('dcl_edit_table')",
+        "has_variable": false,
+        "variable": "dcl_edit_table"
+    },
+    {
+        "id": 13412,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Table\/class.ilDclTableEditGUI.php",
+        "line": 111,
+        "code": "$this->lng->txt('title')",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 13414,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Table\/class.ilDclTableEditGUI.php",
+        "line": 112,
+        "code": "$this->lng->txt('additional_info')",
+        "has_variable": false,
+        "variable": "additional_info"
+    },
+    {
+        "id": 13416,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Table\/class.ilDclTableEditGUI.php",
+        "line": 114,
+        "code": "$this->lng->txt('general_settings')",
+        "has_variable": false,
+        "variable": "general_settings"
+    },
+    {
+        "id": 13418,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Table\/class.ilDclTableEditGUI.php",
+        "line": 125,
+        "code": "$this->lng->txt('dcl_default_sort_field')",
+        "has_variable": false,
+        "variable": "dcl_default_sort_field"
+    },
+    {
+        "id": 13420,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Table\/class.ilDclTableEditGUI.php",
+        "line": 130,
+        "code": "$this->lng->txt('dcl_default_sort_field_order')",
+        "has_variable": false,
+        "variable": "dcl_default_sort_field_order"
+    },
+    {
+        "id": 13422,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Table\/class.ilDclTableEditGUI.php",
+        "line": 131,
+        "code": "$this->lng->txt('dcl_asc')",
+        "has_variable": false,
+        "variable": "dcl_asc"
+    },
+    {
+        "id": 13424,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Table\/class.ilDclTableEditGUI.php",
+        "line": 131,
+        "code": "$this->lng->txt('dcl_desc')",
+        "has_variable": false,
+        "variable": "dcl_desc"
+    },
+    {
+        "id": 13426,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Table\/class.ilDclTableEditGUI.php",
+        "line": 132,
+        "code": "$this->lng->txt('dcl_default_sort_field_order_desc')",
+        "has_variable": false,
+        "variable": "dcl_default_sort_field_order_desc"
+    },
+    {
+        "id": 13428,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Table\/class.ilDclTableEditGUI.php",
+        "line": 138,
+        "code": "$this->lng->txt('dcl_table_settings')",
+        "has_variable": false,
+        "variable": "dcl_table_settings"
+    },
+    {
+        "id": 13430,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Table\/class.ilDclTableEditGUI.php",
+        "line": 143,
+        "code": "$this->lng->txt('dcl_add_perm')",
+        "has_variable": false,
+        "variable": "dcl_add_perm"
+    },
+    {
+        "id": 13432,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Table\/class.ilDclTableEditGUI.php",
+        "line": 144,
+        "code": "$this->lng->txt('dcl_add_perm_desc')",
+        "has_variable": false,
+        "variable": "dcl_add_perm_desc"
+    },
+    {
+        "id": 13434,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Table\/class.ilDclTableEditGUI.php",
+        "line": 146,
+        "code": "$this->lng->txt('dcl_edit_perm')",
+        "has_variable": false,
+        "variable": "dcl_edit_perm"
+    },
+    {
+        "id": 13436,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Table\/class.ilDclTableEditGUI.php",
+        "line": 147,
+        "code": "$this->lng->txt('dcl_all_entries')",
+        "has_variable": false,
+        "variable": "dcl_all_entries"
+    },
+    {
+        "id": 13438,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Table\/class.ilDclTableEditGUI.php",
+        "line": 148,
+        "code": "$this->lng->txt('dcl_own_entries')",
+        "has_variable": false,
+        "variable": "dcl_own_entries"
+    },
+    {
+        "id": 13440,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Table\/class.ilDclTableEditGUI.php",
+        "line": 149,
+        "code": "$this->lng->txt('dcl_no_entries')",
+        "has_variable": false,
+        "variable": "dcl_no_entries"
+    },
+    {
+        "id": 13442,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Table\/class.ilDclTableEditGUI.php",
+        "line": 151,
+        "code": "$this->lng->txt('dcl_delete_perm')",
+        "has_variable": false,
+        "variable": "dcl_delete_perm"
+    },
+    {
+        "id": 13444,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Table\/class.ilDclTableEditGUI.php",
+        "line": 152,
+        "code": "$this->lng->txt('dcl_all_entries')",
+        "has_variable": false,
+        "variable": "dcl_all_entries"
+    },
+    {
+        "id": 13446,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Table\/class.ilDclTableEditGUI.php",
+        "line": 153,
+        "code": "$this->lng->txt('dcl_own_entries')",
+        "has_variable": false,
+        "variable": "dcl_own_entries"
+    },
+    {
+        "id": 13448,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Table\/class.ilDclTableEditGUI.php",
+        "line": 154,
+        "code": "$this->lng->txt('dcl_no_entries')",
+        "has_variable": false,
+        "variable": "dcl_no_entries"
+    },
+    {
+        "id": 13450,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Table\/class.ilDclTableEditGUI.php",
+        "line": 159,
+        "code": "$this->lng->txt('dcl_limit_start')",
+        "has_variable": false,
+        "variable": "dcl_limit_start"
+    },
+    {
+        "id": 13452,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Table\/class.ilDclTableEditGUI.php",
+        "line": 160,
+        "code": "$this->lng->txt('dcl_limit_end')",
+        "has_variable": false,
+        "variable": "dcl_limit_end"
+    },
+    {
+        "id": 13454,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Table\/class.ilDclTableEditGUI.php",
+        "line": 162,
+        "code": "$this->lng->txt('dcl_limited')",
+        "has_variable": false,
+        "variable": "dcl_limited"
+    },
+    {
+        "id": 13456,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Table\/class.ilDclTableEditGUI.php",
+        "line": 163,
+        "code": "$this->lng->txt('dcl_limited_desc')",
+        "has_variable": false,
+        "variable": "dcl_limited_desc"
+    },
+    {
+        "id": 13458,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Table\/class.ilDclTableEditGUI.php",
+        "line": 165,
+        "code": "$this->lng->txt('dcl_record_settings')",
+        "has_variable": false,
+        "variable": "dcl_record_settings"
+    },
+    {
+        "id": 13460,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Table\/class.ilDclTableEditGUI.php",
+        "line": 181,
+        "code": "$this->lng->txt('dcl_' . $label)",
+        "has_variable": true,
+        "variable": "'dcl_' . $label"
+    },
+    {
+        "id": 13462,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Table\/class.ilDclTableEditGUI.php",
+        "line": 182,
+        "code": "$this->lng->txt('dcl_' . $label . '_desc')",
+        "has_variable": true,
+        "variable": "'dcl_' . $label . '_desc'"
+    },
+    {
+        "id": 13464,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Table\/class.ilDclTableEditGUI.php",
+        "line": 227,
+        "code": "$this->lng->txt('dcl_table_title_unique')",
+        "has_variable": false,
+        "variable": "dcl_table_title_unique"
+    },
+    {
+        "id": 13466,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Table\/class.ilDclTableEditGUI.php",
+        "line": 271,
+        "code": "$this->lng->txt($message)",
+        "has_variable": true,
+        "variable": "$message"
+    },
+    {
+        "id": 13468,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Table\/class.ilDclTableEditGUI.php",
+        "line": 282,
+        "code": "$this->lng->txt('dcl_confirm_delete_table')",
+        "has_variable": false,
+        "variable": "dcl_confirm_delete_table"
+    },
+    {
+        "id": 13470,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Table\/class.ilDclTableEditGUI.php",
+        "line": 286,
+        "code": "$this->lng->txt('delete')",
+        "has_variable": false,
+        "variable": "delete"
+    },
+    {
+        "id": 13472,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Table\/class.ilDclTableEditGUI.php",
+        "line": 287,
+        "code": "$this->lng->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 13474,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Table\/class.ilDclTableEditGUI.php",
+        "line": 302,
+        "code": "$this->lng->txt(\"dcl_cant_delete_last_table\")",
+        "has_variable": false,
+        "variable": "dcl_cant_delete_last_table"
+    },
+    {
+        "id": 13476,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Table\/class.ilDclTableListGUI.php",
+        "line": 59,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 13478,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Table\/class.ilDclTableListGUI.php",
+        "line": 93,
+        "code": "$this->lng->txt('back')",
+        "has_variable": false,
+        "variable": "back"
+    },
+    {
+        "id": 13480,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Table\/class.ilDclTableListGUI.php",
+        "line": 132,
+        "code": "$this->lng->txt(\"dcl_add_new_table\")",
+        "has_variable": false,
+        "variable": "dcl_add_new_table"
+    },
+    {
+        "id": 13482,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Table\/class.ilDclTableListGUI.php",
+        "line": 140,
+        "code": "$this->lng->txt('dcl_tables')",
+        "has_variable": false,
+        "variable": "dcl_tables"
+    },
+    {
+        "id": 13484,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Table\/class.ilDclTableListGUI.php",
+        "line": 160,
+        "code": "$this->lng->txt('visible')",
+        "has_variable": false,
+        "variable": "visible"
+    },
+    {
+        "id": 13486,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Table\/class.ilDclTableListGUI.php",
+        "line": 160,
+        "code": "$this->lng->txt($table->getIsVisible() ? 'yes' : 'no')",
+        "has_variable": true,
+        "variable": "I"
+    },
+    {
+        "id": 13488,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Table\/class.ilDclTableListGUI.php",
+        "line": 161,
+        "code": "$this->lng->txt('comments')",
+        "has_variable": false,
+        "variable": "comments"
+    },
+    {
+        "id": 13490,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Table\/class.ilDclTableListGUI.php",
+        "line": 161,
+        "code": "$this->lng->txt($table->getPublicCommentsEnabled() ? 'active' : 'inactive')",
+        "has_variable": true,
+        "variable": "P"
+    },
+    {
+        "id": 13492,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Table\/class.ilDclTableListGUI.php",
+        "line": 170,
+        "code": "$this->lng->txt('default')",
+        "has_variable": false,
+        "variable": "default"
+    },
+    {
+        "id": 13494,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Table\/class.ilDclTableListGUI.php",
+        "line": 187,
+        "code": "$this->lng->txt('settings')",
+        "has_variable": false,
+        "variable": "settings"
+    },
+    {
+        "id": 13496,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Table\/class.ilDclTableListGUI.php",
+        "line": 192,
+        "code": "$this->lng->txt('dcl_list_fields')",
+        "has_variable": false,
+        "variable": "dcl_list_fields"
+    },
+    {
+        "id": 13498,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Table\/class.ilDclTableListGUI.php",
+        "line": 197,
+        "code": "$this->lng->txt('dcl_tableviews')",
+        "has_variable": false,
+        "variable": "dcl_tableviews"
+    },
+    {
+        "id": 13500,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Table\/class.ilDclTableListGUI.php",
+        "line": 202,
+        "code": "$this->lng->txt('delete')",
+        "has_variable": false,
+        "variable": "delete"
+    },
+    {
+        "id": 13502,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Table\/class.ilDclTableListGUI.php",
+        "line": 208,
+        "code": "$this->lng->txt('set_as_default')",
+        "has_variable": false,
+        "variable": "set_as_default"
+    },
+    {
+        "id": 13504,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Table\/class.ilDclTableListGUI.php",
+        "line": 218,
+        "code": "$this->lng->txt('dcl_tables')",
+        "has_variable": false,
+        "variable": "dcl_tables"
+    },
+    {
+        "id": 13506,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Table\/class.ilDclTableListGUI.php",
+        "line": 221,
+        "code": "$this->lng->txt('settings')",
+        "has_variable": false,
+        "variable": "settings"
+    },
+    {
+        "id": 13508,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Table\/class.ilDclTableListGUI.php",
+        "line": 226,
+        "code": "$this->lng->txt('dcl_list_fields')",
+        "has_variable": false,
+        "variable": "dcl_list_fields"
+    },
+    {
+        "id": 13510,
+        "file": "components\/ILIAS\/DataCollection\/classes\/Table\/class.ilDclTableListGUI.php",
+        "line": 231,
+        "code": "$this->lng->txt('dcl_tableviews')",
+        "has_variable": false,
+        "variable": "dcl_tableviews"
+    },
+    {
+        "id": 13512,
+        "file": "components\/ILIAS\/DataCollection\/classes\/TableView\/class.ilDclTableView.php",
+        "line": 423,
+        "code": "$lng->txt('dcl_title_standard')",
+        "has_variable": false,
+        "variable": "dcl_title_standard"
+    },
+    {
+        "id": 13514,
+        "file": "components\/ILIAS\/DataCollection\/classes\/TableView\/class.ilDclTableViewEditFieldsTableGUI.php",
+        "line": 31,
+        "code": "$lng->txt('dcl_tableview_fieldsettings')",
+        "has_variable": false,
+        "variable": "dcl_tableview_fieldsettings"
+    },
+    {
+        "id": 13516,
+        "file": "components\/ILIAS\/DataCollection\/classes\/TableView\/class.ilDclTableViewEditFieldsTableGUI.php",
+        "line": 32,
+        "code": "$lng->txt('dcl_fieldtitle')",
+        "has_variable": false,
+        "variable": "dcl_fieldtitle"
+    },
+    {
+        "id": 13518,
+        "file": "components\/ILIAS\/DataCollection\/classes\/TableView\/class.ilDclTableViewEditFieldsTableGUI.php",
+        "line": 33,
+        "code": "$lng->txt('dcl_field_visible')",
+        "has_variable": false,
+        "variable": "dcl_field_visible"
+    },
+    {
+        "id": 13520,
+        "file": "components\/ILIAS\/DataCollection\/classes\/TableView\/class.ilDclTableViewEditFieldsTableGUI.php",
+        "line": 34,
+        "code": "$lng->txt('dcl_filter')",
+        "has_variable": false,
+        "variable": "dcl_filter"
+    },
+    {
+        "id": 13522,
+        "file": "components\/ILIAS\/DataCollection\/classes\/TableView\/class.ilDclTableViewEditFieldsTableGUI.php",
+        "line": 35,
+        "code": "$lng->txt('dcl_std_filter')",
+        "has_variable": false,
+        "variable": "dcl_std_filter"
+    },
+    {
+        "id": 13524,
+        "file": "components\/ILIAS\/DataCollection\/classes\/TableView\/class.ilDclTableViewEditFieldsTableGUI.php",
+        "line": 36,
+        "code": "$lng->txt('dcl_filter_changeable')",
+        "has_variable": false,
+        "variable": "dcl_filter_changeable"
+    },
+    {
+        "id": 13526,
+        "file": "components\/ILIAS\/DataCollection\/classes\/TableView\/class.ilDclTableViewEditFieldsTableGUI.php",
+        "line": 40,
+        "code": "$lng->txt('save')",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 13528,
+        "file": "components\/ILIAS\/DataCollection\/classes\/TableView\/class.ilDclTableViewEditFieldsTableGUI.php",
+        "line": 121,
+        "code": "$this->lng->txt(\"previous\")",
+        "has_variable": false,
+        "variable": "previous"
+    },
+    {
+        "id": 13530,
+        "file": "components\/ILIAS\/DataCollection\/classes\/TableView\/class.ilDclTableViewEditFieldsTableGUI.php",
+        "line": 121,
+        "code": "$this->lng->txt(\"next\")",
+        "has_variable": false,
+        "variable": "next"
+    },
+    {
+        "id": 13532,
+        "file": "components\/ILIAS\/DataCollection\/classes\/TableView\/class.ilDclTableViewEditFieldsTableGUI.php",
+        "line": 169,
+        "code": "$lng->txt(\"no_items\")",
+        "has_variable": false,
+        "variable": "no_items"
+    },
+    {
+        "id": 13534,
+        "file": "components\/ILIAS\/DataCollection\/classes\/TableView\/class.ilDclTableViewEditGUI.php",
+        "line": 101,
+        "code": "$this->lng->txt('dcl_tableviews')",
+        "has_variable": false,
+        "variable": "dcl_tableviews"
+    },
+    {
+        "id": 13536,
+        "file": "components\/ILIAS\/DataCollection\/classes\/TableView\/class.ilDclTableViewEditGUI.php",
+        "line": 105,
+        "code": "$this->lng->txt('dcl_tables')",
+        "has_variable": false,
+        "variable": "dcl_tables"
+    },
+    {
+        "id": 13538,
+        "file": "components\/ILIAS\/DataCollection\/classes\/TableView\/class.ilDclTableViewEditGUI.php",
+        "line": 143,
+        "code": "$this->lng->txt('dcl_new_view')",
+        "has_variable": false,
+        "variable": "dcl_new_view"
+    },
+    {
+        "id": 13540,
+        "file": "components\/ILIAS\/DataCollection\/classes\/TableView\/class.ilDclTableViewEditGUI.php",
+        "line": 150,
+        "code": "$this->lng->txt('dcl_edit_view')",
+        "has_variable": false,
+        "variable": "dcl_edit_view"
+    },
+    {
+        "id": 13542,
+        "file": "components\/ILIAS\/DataCollection\/classes\/TableView\/class.ilDclTableViewEditGUI.php",
+        "line": 174,
+        "code": "$this->lng->txt('title')",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 13544,
+        "file": "components\/ILIAS\/DataCollection\/classes\/TableView\/class.ilDclTableViewEditGUI.php",
+        "line": 175,
+        "code": "$this->lng->txt('description')",
+        "has_variable": false,
+        "variable": "description"
+    },
+    {
+        "id": 13546,
+        "file": "components\/ILIAS\/DataCollection\/classes\/TableView\/class.ilDclTableViewEditGUI.php",
+        "line": 180,
+        "code": "$this->lng->txt('roles')",
+        "has_variable": false,
+        "variable": "roles"
+    },
+    {
+        "id": 13548,
+        "file": "components\/ILIAS\/DataCollection\/classes\/TableView\/class.ilDclTableViewEditGUI.php",
+        "line": 182,
+        "code": "$this->lng->txt('roles_desc')",
+        "has_variable": false,
+        "variable": "roles_desc"
+    },
+    {
+        "id": 13550,
+        "file": "components\/ILIAS\/DataCollection\/classes\/TableView\/class.ilDclTableViewEditGUI.php",
+        "line": 185,
+        "code": "$this->lng->txt('role_limitation')",
+        "has_variable": false,
+        "variable": "role_limitation"
+    },
+    {
+        "id": 13552,
+        "file": "components\/ILIAS\/DataCollection\/classes\/TableView\/class.ilDclTableViewEditGUI.php",
+        "line": 188,
+        "code": "$this->lng->txt('general_settings')",
+        "has_variable": false,
+        "variable": "general_settings"
+    },
+    {
+        "id": 13554,
+        "file": "components\/ILIAS\/DataCollection\/classes\/TableView\/class.ilDclTableViewEditGUI.php",
+        "line": 222,
+        "code": "$this->lng->txt('settings')",
+        "has_variable": false,
+        "variable": "settings"
+    },
+    {
+        "id": 13556,
+        "file": "components\/ILIAS\/DataCollection\/classes\/TableView\/class.ilDclTableViewEditGUI.php",
+        "line": 227,
+        "code": "$this->lng->txt('dcl_create_entry_rules')",
+        "has_variable": false,
+        "variable": "dcl_create_entry_rules"
+    },
+    {
+        "id": 13558,
+        "file": "components\/ILIAS\/DataCollection\/classes\/TableView\/class.ilDclTableViewEditGUI.php",
+        "line": 232,
+        "code": "$this->lng->txt('dcl_edit_entry_rules')",
+        "has_variable": false,
+        "variable": "dcl_edit_entry_rules"
+    },
+    {
+        "id": 13560,
+        "file": "components\/ILIAS\/DataCollection\/classes\/TableView\/class.ilDclTableViewEditGUI.php",
+        "line": 237,
+        "code": "$this->lng->txt('dcl_list_visibility_and_filter')",
+        "has_variable": false,
+        "variable": "dcl_list_visibility_and_filter"
+    },
+    {
+        "id": 13562,
+        "file": "components\/ILIAS\/DataCollection\/classes\/TableView\/class.ilDclTableViewEditGUI.php",
+        "line": 242,
+        "code": "$this->lng->txt('dcl_detailed_view')",
+        "has_variable": false,
+        "variable": "dcl_detailed_view"
+    },
+    {
+        "id": 13564,
+        "file": "components\/ILIAS\/DataCollection\/classes\/TableView\/class.ilDclTableViewEditGUI.php",
+        "line": 259,
+        "code": "$this->lng->txt('dcl_msg_tableview_created')",
+        "has_variable": false,
+        "variable": "dcl_msg_tableview_created"
+    },
+    {
+        "id": 13566,
+        "file": "components\/ILIAS\/DataCollection\/classes\/TableView\/class.ilDclTableViewEditGUI.php",
+        "line": 263,
+        "code": "$this->lng->txt('dcl_msg_tableview_updated')",
+        "has_variable": false,
+        "variable": "dcl_msg_tableview_updated"
+    },
+    {
+        "id": 13568,
+        "file": "components\/ILIAS\/DataCollection\/classes\/TableView\/class.ilDclTableViewEditGUI.php",
+        "line": 271,
+        "code": "$this->lng->txt('dcl_new_view')",
+        "has_variable": false,
+        "variable": "dcl_new_view"
+    },
+    {
+        "id": 13570,
+        "file": "components\/ILIAS\/DataCollection\/classes\/TableView\/class.ilDclTableViewEditGUI.php",
+        "line": 276,
+        "code": "$this->lng->txt('dcl_edit_view')",
+        "has_variable": false,
+        "variable": "dcl_edit_view"
+    },
+    {
+        "id": 13572,
+        "file": "components\/ILIAS\/DataCollection\/classes\/TableView\/class.ilDclTableViewEditGUI.php",
+        "line": 326,
+        "code": "$this->lng->txt('dcl_msg_tableview_updated')",
+        "has_variable": false,
+        "variable": "dcl_msg_tableview_updated"
+    },
+    {
+        "id": 13574,
+        "file": "components\/ILIAS\/DataCollection\/classes\/TableView\/class.ilDclTableViewEditGUI.php",
+        "line": 350,
+        "code": "$this->lng->txt('dcl_tableview_confirm_delete')",
+        "has_variable": false,
+        "variable": "dcl_tableview_confirm_delete"
+    },
+    {
+        "id": 13576,
+        "file": "components\/ILIAS\/DataCollection\/classes\/TableView\/class.ilDclTableViewEditGUI.php",
+        "line": 354,
+        "code": "$this->lng->txt('delete')",
+        "has_variable": false,
+        "variable": "delete"
+    },
+    {
+        "id": 13578,
+        "file": "components\/ILIAS\/DataCollection\/classes\/TableView\/class.ilDclTableViewEditGUI.php",
+        "line": 355,
+        "code": "$this->lng->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 13580,
+        "file": "components\/ILIAS\/DataCollection\/classes\/TableView\/class.ilDclTableViewEditGUI.php",
+        "line": 363,
+        "code": "$this->lng->txt('dcl_msg_tableview_deleted')",
+        "has_variable": false,
+        "variable": "dcl_msg_tableview_deleted"
+    },
+    {
+        "id": 13582,
+        "file": "components\/ILIAS\/DataCollection\/classes\/TableView\/class.ilDclTableViewEditGUI.php",
+        "line": 369,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 13584,
+        "file": "components\/ILIAS\/DataCollection\/classes\/TableView\/class.ilDclTableViewEditGUI.php",
+        "line": 397,
+        "code": "$this->lng->txt(\"dcl_tableview_copy\")",
+        "has_variable": false,
+        "variable": "dcl_tableview_copy"
+    },
+    {
+        "id": 13586,
+        "file": "components\/ILIAS\/DataCollection\/classes\/TableView\/class.ilDclTableViewFieldSetting.php",
+        "line": 378,
+        "code": "$lng->txt('dcl_' . $this->field)",
+        "has_variable": true,
+        "variable": "'dcl_' . $this->field"
+    },
+    {
+        "id": 13588,
+        "file": "components\/ILIAS\/DataCollection\/classes\/TableView\/class.ilDclTableViewGUI.php",
+        "line": 77,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 13590,
+        "file": "components\/ILIAS\/DataCollection\/classes\/TableView\/class.ilDclTableViewGUI.php",
+        "line": 129,
+        "code": "$this->lng->txt(\"dcl_add_new_view\")",
+        "has_variable": false,
+        "variable": "dcl_add_new_view"
+    },
+    {
+        "id": 13592,
+        "file": "components\/ILIAS\/DataCollection\/classes\/TableView\/class.ilDclTableViewGUI.php",
+        "line": 147,
+        "code": "$this->lng->txt('dcl_tableviews_of_X')",
+        "has_variable": false,
+        "variable": "dcl_tableviews_of_X"
+    },
+    {
+        "id": 13594,
+        "file": "components\/ILIAS\/DataCollection\/classes\/TableView\/class.ilDclTableViewGUI.php",
+        "line": 183,
+        "code": "$this->lng->txt('edit')",
+        "has_variable": false,
+        "variable": "edit"
+    },
+    {
+        "id": 13596,
+        "file": "components\/ILIAS\/DataCollection\/classes\/TableView\/class.ilDclTableViewGUI.php",
+        "line": 187,
+        "code": "$this->lng->txt('copy')",
+        "has_variable": false,
+        "variable": "copy"
+    },
+    {
+        "id": 13598,
+        "file": "components\/ILIAS\/DataCollection\/classes\/TableView\/class.ilDclTableViewGUI.php",
+        "line": 191,
+        "code": "$this->lng->txt('delete')",
+        "has_variable": false,
+        "variable": "delete"
+    },
+    {
+        "id": 13600,
+        "file": "components\/ILIAS\/DataCollection\/classes\/TableView\/class.ilDclTableViewGUI.php",
+        "line": 204,
+        "code": "$this->lng->txt('dcl_msg_tableviews_delete_all')",
+        "has_variable": false,
+        "variable": "dcl_msg_tableviews_delete_all"
+    },
+    {
+        "id": 13602,
+        "file": "components\/ILIAS\/DataCollection\/classes\/class.ilDataCollectionExportOptionsXLSX.php",
+        "line": 57,
+        "code": "$this->lng->txt('dcl_xls_async_export')",
+        "has_variable": false,
+        "variable": "dcl_xls_async_export"
+    },
+    {
+        "id": 13604,
+        "file": "components\/ILIAS\/DataCollection\/classes\/class.ilDataCollectionExportOptionsXLSX.php",
+        "line": 156,
+        "code": "$this->lng->txt('dcl_no_export_data_available')",
+        "has_variable": false,
+        "variable": "dcl_no_export_data_available"
+    },
+    {
+        "id": 13606,
+        "file": "components\/ILIAS\/DataCollection\/classes\/class.ilDataCollectionExportOptionsXLSX.php",
+        "line": 170,
+        "code": "$this->lng->txt('dcl_no_export_async_config')",
+        "has_variable": false,
+        "variable": "dcl_no_export_async_config"
+    },
+    {
+        "id": 13608,
+        "file": "components\/ILIAS\/DataCollection\/classes\/class.ilDataCollectionGlobalTemplate.php",
+        "line": 565,
+        "code": "$this->lng->txt(\"icon\")",
+        "has_variable": false,
+        "variable": "icon"
+    },
+    {
+        "id": 13610,
+        "file": "components\/ILIAS\/DataCollection\/classes\/class.ilDataCollectionGlobalTemplate.php",
+        "line": 566,
+        "code": "$this->lng->txt(\"icon\")",
+        "has_variable": false,
+        "variable": "icon"
+    },
+    {
+        "id": 13612,
+        "file": "components\/ILIAS\/DataCollection\/classes\/class.ilDataCollectionGlobalTemplate.php",
+        "line": 1114,
+        "code": "$this->lng->txt($this->tree_flat_mode . \"view\")",
+        "has_variable": true,
+        "variable": "$this->tree_flat_mode . \"view\""
+    },
+    {
+        "id": 13614,
+        "file": "components\/ILIAS\/DataCollection\/classes\/class.ilDataCollectionGlobalTemplate.php",
+        "line": 1165,
+        "code": "$this->lng->txt(\"actions\")",
+        "has_variable": false,
+        "variable": "actions"
+    },
+    {
+        "id": 13616,
+        "file": "components\/ILIAS\/DataCollection\/classes\/class.ilDataCollectionGlobalTemplate.php",
+        "line": 1181,
+        "code": "$this->lng->txt(\"actions\")",
+        "has_variable": false,
+        "variable": "actions"
+    },
+    {
+        "id": 13618,
+        "file": "components\/ILIAS\/DataCollection\/classes\/class.ilDataCollectionMailNotification.php",
+        "line": 70,
+        "code": "$lng->txt('dcl_change_notification_subject')",
+        "has_variable": false,
+        "variable": "dcl_change_notification_subject"
+    },
+    {
+        "id": 13620,
+        "file": "components\/ILIAS\/DataCollection\/classes\/class.ilDataCollectionMailNotification.php",
+        "line": 75,
+        "code": "$lng->txt('obj_dcl')",
+        "has_variable": false,
+        "variable": "obj_dcl"
+    },
+    {
+        "id": 13622,
+        "file": "components\/ILIAS\/DataCollection\/classes\/class.ilDataCollectionMailNotification.php",
+        "line": 76,
+        "code": "$lng->txt('dcl_table')",
+        "has_variable": false,
+        "variable": "dcl_table"
+    },
+    {
+        "id": 13624,
+        "file": "components\/ILIAS\/DataCollection\/classes\/class.ilDataCollectionMailNotification.php",
+        "line": 78,
+        "code": "$lng->txt('dcl_record')",
+        "has_variable": false,
+        "variable": "dcl_record"
+    },
+    {
+        "id": 13626,
+        "file": "components\/ILIAS\/DataCollection\/classes\/class.ilDataCollectionMailNotification.php",
+        "line": 96,
+        "code": "$lng->txt('dcl_changed_by')",
+        "has_variable": false,
+        "variable": "dcl_changed_by"
+    },
+    {
+        "id": 13628,
+        "file": "components\/ILIAS\/DataCollection\/classes\/class.ilDataCollectionMailNotification.php",
+        "line": 97,
+        "code": "$lng->txt('dcl_change_notification_link')",
+        "has_variable": false,
+        "variable": "dcl_change_notification_link"
+    },
+    {
+        "id": 13630,
+        "file": "components\/ILIAS\/DataCollection\/classes\/class.ilDataCollectionMailNotification.php",
+        "line": 107,
+        "code": "$lng->txt('dcl_change_notification_dcl_new_record')",
+        "has_variable": false,
+        "variable": "dcl_change_notification_dcl_new_record"
+    },
+    {
+        "id": 13632,
+        "file": "components\/ILIAS\/DataCollection\/classes\/class.ilDataCollectionMailNotification.php",
+        "line": 109,
+        "code": "$lng->txt('dcl_change_notification_dcl_update_record')",
+        "has_variable": false,
+        "variable": "dcl_change_notification_dcl_update_record"
+    },
+    {
+        "id": 13634,
+        "file": "components\/ILIAS\/DataCollection\/classes\/class.ilDataCollectionMailNotification.php",
+        "line": 111,
+        "code": "$lng->txt('dcl_change_notification_dcl_delete_record')",
+        "has_variable": false,
+        "variable": "dcl_change_notification_dcl_delete_record"
+    },
+    {
+        "id": 13636,
+        "file": "components\/ILIAS\/DataCollection\/classes\/class.ilObjDataCollection.php",
+        "line": 59,
+        "code": "$this->lng->txt('dcl_title_standard')",
+        "has_variable": false,
+        "variable": "dcl_title_standard"
+    },
+    {
+        "id": 13638,
+        "file": "components\/ILIAS\/DataCollection\/classes\/class.ilObjDataCollectionAccess.php",
+        "line": 98,
+        "code": "$lng->txt(\"offline\")",
+        "has_variable": false,
+        "variable": "offline"
+    },
+    {
+        "id": 13640,
+        "file": "components\/ILIAS\/DataCollection\/classes\/class.ilObjDataCollectionAccess.php",
+        "line": 107,
+        "code": "$lng->txt(\"offline\")",
+        "has_variable": false,
+        "variable": "offline"
+    },
+    {
+        "id": 13642,
+        "file": "components\/ILIAS\/DataCollection\/classes\/class.ilObjDataCollectionAccess.php",
+        "line": 109,
+        "code": "$lng->txt(\"online\")",
+        "has_variable": false,
+        "variable": "online"
+    },
+    {
+        "id": 13644,
+        "file": "components\/ILIAS\/DataCollection\/classes\/class.ilObjDataCollectionAccess.php",
+        "line": 119,
+        "code": "$lng->txt(\"offline\")",
+        "has_variable": false,
+        "variable": "offline"
+    },
+    {
+        "id": 13646,
+        "file": "components\/ILIAS\/DataCollection\/classes\/class.ilObjDataCollectionGUI.php",
+        "line": 101,
+        "code": "$this->lng->txt('table_not_found')",
+        "has_variable": false,
+        "variable": "table_not_found"
+    },
+    {
+        "id": 13648,
+        "file": "components\/ILIAS\/DataCollection\/classes\/class.ilObjDataCollectionGUI.php",
+        "line": 127,
+        "code": "$this->lng->txt('tableview_not_found')",
+        "has_variable": false,
+        "variable": "tableview_not_found"
+    },
+    {
+        "id": 13650,
+        "file": "components\/ILIAS\/DataCollection\/classes\/class.ilObjDataCollectionGUI.php",
+        "line": 214,
+        "code": "$this->lng->txt('dcl_no_table_found')",
+        "has_variable": false,
+        "variable": "dcl_no_table_found"
+    },
+    {
+        "id": 13652,
+        "file": "components\/ILIAS\/DataCollection\/classes\/class.ilObjDataCollectionGUI.php",
+        "line": 216,
+        "code": "$this->lng->txt('dcl_no_tableview_found')",
+        "has_variable": false,
+        "variable": "dcl_no_tableview_found"
+    },
+    {
+        "id": 13654,
+        "file": "components\/ILIAS\/DataCollection\/classes\/class.ilObjDataCollectionGUI.php",
+        "line": 226,
+        "code": "$this->lng->txt('dcl_no_table_found')",
+        "has_variable": false,
+        "variable": "dcl_no_table_found"
+    },
+    {
+        "id": 13656,
+        "file": "components\/ILIAS\/DataCollection\/classes\/class.ilObjDataCollectionGUI.php",
+        "line": 228,
+        "code": "$this->lng->txt('dcl_no_tableview_found')",
+        "has_variable": false,
+        "variable": "dcl_no_tableview_found"
+    },
+    {
+        "id": 13658,
+        "file": "components\/ILIAS\/DataCollection\/classes\/class.ilObjDataCollectionGUI.php",
+        "line": 269,
+        "code": "$this->lng->txt('dcl_no_tableview_found')",
+        "has_variable": false,
+        "variable": "dcl_no_tableview_found"
+    },
+    {
+        "id": 13660,
+        "file": "components\/ILIAS\/DataCollection\/classes\/class.ilObjDataCollectionGUI.php",
+        "line": 274,
+        "code": "$this->lng->txt('back')",
+        "has_variable": false,
+        "variable": "back"
+    },
+    {
+        "id": 13662,
+        "file": "components\/ILIAS\/DataCollection\/classes\/class.ilObjDataCollectionGUI.php",
+        "line": 285,
+        "code": "$this->lng->txt('dcl_no_tableview_found')",
+        "has_variable": false,
+        "variable": "dcl_no_tableview_found"
+    },
+    {
+        "id": 13664,
+        "file": "components\/ILIAS\/DataCollection\/classes\/class.ilObjDataCollectionGUI.php",
+        "line": 290,
+        "code": "$this->lng->txt('back')",
+        "has_variable": false,
+        "variable": "back"
+    },
+    {
+        "id": 13666,
+        "file": "components\/ILIAS\/DataCollection\/classes\/class.ilObjDataCollectionGUI.php",
+        "line": 299,
+        "code": "$this->lng->txt('dcl_no_table_found')",
+        "has_variable": false,
+        "variable": "dcl_no_table_found"
+    },
+    {
+        "id": 13668,
+        "file": "components\/ILIAS\/DataCollection\/classes\/class.ilObjDataCollectionGUI.php",
+        "line": 301,
+        "code": "$this->lng->txt('dcl_no_tableview_found')",
+        "has_variable": false,
+        "variable": "dcl_no_tableview_found"
+    },
+    {
+        "id": 13670,
+        "file": "components\/ILIAS\/DataCollection\/classes\/class.ilObjDataCollectionGUI.php",
+        "line": 416,
+        "code": "$this->lng->txt('object_added')",
+        "has_variable": false,
+        "variable": "object_added"
+    },
+    {
+        "id": 13672,
+        "file": "components\/ILIAS\/DataCollection\/classes\/class.ilObjDataCollectionGUI.php",
+        "line": 437,
+        "code": "$this->lng->txt('meta_data')",
+        "has_variable": false,
+        "variable": "meta_data"
+    },
+    {
+        "id": 13674,
+        "file": "components\/ILIAS\/DataCollection\/classes\/class.ilObjDataCollectionGUI.php",
+        "line": 449,
+        "code": "$this->lng->txt($langKey)",
+        "has_variable": true,
+        "variable": "$langKey"
+    },
+    {
+        "id": 13676,
+        "file": "components\/ILIAS\/DataCollection\/classes\/class.ilObjDataCollectionGUI.php",
+        "line": 457,
+        "code": "$this->lng->txt('title')",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 13678,
+        "file": "components\/ILIAS\/DataCollection\/classes\/class.ilObjDataCollectionGUI.php",
+        "line": 458,
+        "code": "$this->lng->txt('description')",
+        "has_variable": false,
+        "variable": "description"
+    },
+    {
+        "id": 13680,
+        "file": "components\/ILIAS\/DataCollection\/classes\/class.ilObjDataCollectionGUI.php",
+        "line": 460,
+        "code": "$this->lng->txt('dcl_activate_notification')",
+        "has_variable": false,
+        "variable": "dcl_activate_notification"
+    },
+    {
+        "id": 13682,
+        "file": "components\/ILIAS\/DataCollection\/classes\/class.ilObjDataCollectionGUI.php",
+        "line": 461,
+        "code": "$this->lng->txt('dcl_notification_info')",
+        "has_variable": false,
+        "variable": "dcl_notification_info"
+    },
+    {
+        "id": 13684,
+        "file": "components\/ILIAS\/DataCollection\/classes\/class.ilObjDataCollectionGUI.php",
+        "line": 463,
+        "code": "$this->lng->txt($this->type . '_edit')",
+        "has_variable": true,
+        "variable": "$this->type . '_edit'"
+    },
+    {
+        "id": 13686,
+        "file": "components\/ILIAS\/DataCollection\/classes\/class.ilObjDataCollectionGUI.php",
+        "line": 472,
+        "code": "$this->lng->txt('online')",
+        "has_variable": false,
+        "variable": "online"
+    },
+    {
+        "id": 13688,
+        "file": "components\/ILIAS\/DataCollection\/classes\/class.ilObjDataCollectionGUI.php",
+        "line": 473,
+        "code": "$this->lng->txt('dcl_online_info')",
+        "has_variable": false,
+        "variable": "dcl_online_info"
+    },
+    {
+        "id": 13690,
+        "file": "components\/ILIAS\/DataCollection\/classes\/class.ilObjDataCollectionGUI.php",
+        "line": 475,
+        "code": "$this->lng->txt('obj_activation_list_gui')",
+        "has_variable": false,
+        "variable": "obj_activation_list_gui"
+    },
+    {
+        "id": 13692,
+        "file": "components\/ILIAS\/DataCollection\/classes\/class.ilObjDataCollectionGUI.php",
+        "line": 484,
+        "code": "$this->lng->txt('cont_presentation')",
+        "has_variable": false,
+        "variable": "cont_presentation"
+    },
+    {
+        "id": 13694,
+        "file": "components\/ILIAS\/DataCollection\/classes\/class.ilObjDataCollectionGUI.php",
+        "line": 492,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 13696,
+        "file": "components\/ILIAS\/DataCollection\/classes\/class.ilObjDataCollectionGUI.php",
+        "line": 504,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 13698,
+        "file": "components\/ILIAS\/DataCollection\/classes\/class.ilObjDataCollectionGUI.php",
+        "line": 520,
+        "code": "$this->lng->txt('msg_obj_modified')",
+        "has_variable": false,
+        "variable": "msg_obj_modified"
+    },
+    {
+        "id": 13700,
+        "file": "components\/ILIAS\/DataCollection\/classes\/class.ilObjDataCollectionGUI.php",
+        "line": 530,
+        "code": "$this->lng->txt('general')",
+        "has_variable": false,
+        "variable": "general"
+    },
+    {
+        "id": 13702,
+        "file": "components\/ILIAS\/DataCollection\/classes\/class.ilObjDataCollectionGUI.php",
+        "line": 535,
+        "code": "$this->lng->txt('cont_style')",
+        "has_variable": false,
+        "variable": "cont_style"
+    },
+    {
+        "id": 13704,
+        "file": "components\/ILIAS\/DataCollection\/classes\/class.ilObjDataCollectionGUI.php",
+        "line": 597,
+        "code": "$this->lng->txt('dcl_notification_deactivate')",
+        "has_variable": false,
+        "variable": "dcl_notification_deactivate"
+    },
+    {
+        "id": 13706,
+        "file": "components\/ILIAS\/DataCollection\/classes\/class.ilObjDataCollectionGUI.php",
+        "line": 604,
+        "code": "$this->lng->txt('dcl_notification_settings')",
+        "has_variable": false,
+        "variable": "dcl_notification_settings"
+    },
+    {
+        "id": 13708,
+        "file": "components\/ILIAS\/DataCollection\/classes\/class.ilObjDataCollectionGUI.php",
+        "line": 609,
+        "code": "$this->lng->txt('dcl_notification_activated')",
+        "has_variable": false,
+        "variable": "dcl_notification_activated"
+    },
+    {
+        "id": 13710,
+        "file": "components\/ILIAS\/DataCollection\/classes\/class.ilObjDataCollectionGUI.php",
+        "line": 613,
+        "code": "$this->lng->txt('dcl_notification_activate')",
+        "has_variable": false,
+        "variable": "dcl_notification_activate"
+    },
+    {
+        "id": 13712,
+        "file": "components\/ILIAS\/DataCollection\/classes\/class.ilObjDataCollectionGUI.php",
+        "line": 617,
+        "code": "$this->lng->txt('dcl_notification_deactivated')",
+        "has_variable": false,
+        "variable": "dcl_notification_deactivated"
+    },
+    {
+        "id": 13714,
+        "file": "components\/ILIAS\/DataCollection\/classes\/class.ilObjDataCollectionGUI.php",
+        "line": 628,
+        "code": "$this->lng->txt('dcl_notification_settings')",
+        "has_variable": false,
+        "variable": "dcl_notification_settings"
+    },
+    {
+        "id": 13716,
+        "file": "components\/ILIAS\/DataCollection\/classes\/class.ilObjDataCollectionGUI.php",
+        "line": 631,
+        "code": "$this->lng->txt('dcl_new_entries')",
+        "has_variable": false,
+        "variable": "dcl_new_entries"
+    },
+    {
+        "id": 13718,
+        "file": "components\/ILIAS\/DataCollection\/classes\/class.ilObjDataCollectionGUI.php",
+        "line": 633,
+        "code": "$this->lng->txt('dcl_updated_entries')",
+        "has_variable": false,
+        "variable": "dcl_updated_entries"
+    },
+    {
+        "id": 13720,
+        "file": "components\/ILIAS\/DataCollection\/classes\/class.ilObjDataCollectionGUI.php",
+        "line": 635,
+        "code": "$this->lng->txt('dcl_deleted_entries')",
+        "has_variable": false,
+        "variable": "dcl_deleted_entries"
+    },
+    {
+        "id": 13722,
+        "file": "components\/ILIAS\/DataCollection\/classes\/class.ilObjDataCollectionListGUI.php",
+        "line": 55,
+        "code": "$this->lng->txt(\"status\")",
+        "has_variable": false,
+        "variable": "status"
+    },
+    {
+        "id": 13724,
+        "file": "components\/ILIAS\/DataCollection\/classes\/class.ilObjDataCollectionListGUI.php",
+        "line": 56,
+        "code": "$this->lng->txt(\"offline\")",
+        "has_variable": false,
+        "variable": "offline"
+    },
+    {
+        "id": 13726,
+        "file": "components\/ILIAS\/DataCollection\/exceptions\/ilDclInputException.php",
+        "line": 45,
+        "code": "$this->lng->txt('dcl_wrong_input_type')",
+        "has_variable": false,
+        "variable": "dcl_wrong_input_type"
+    },
+    {
+        "id": 13728,
+        "file": "components\/ILIAS\/DataCollection\/exceptions\/ilDclInputException.php",
+        "line": 47,
+        "code": "$this->lng->txt('dcl_wrong_length')",
+        "has_variable": false,
+        "variable": "dcl_wrong_length"
+    },
+    {
+        "id": 13730,
+        "file": "components\/ILIAS\/DataCollection\/exceptions\/ilDclInputException.php",
+        "line": 49,
+        "code": "$this->lng->txt('dcl_wrong_regex')",
+        "has_variable": false,
+        "variable": "dcl_wrong_regex"
+    },
+    {
+        "id": 13732,
+        "file": "components\/ILIAS\/DataCollection\/exceptions\/ilDclInputException.php",
+        "line": 51,
+        "code": "$this->lng->txt('dcl_invalid_regex_config')",
+        "has_variable": false,
+        "variable": "dcl_invalid_regex_config"
+    },
+    {
+        "id": 13734,
+        "file": "components\/ILIAS\/DataCollection\/exceptions\/ilDclInputException.php",
+        "line": 53,
+        "code": "$this->lng->txt('dcl_unique_exception')",
+        "has_variable": false,
+        "variable": "dcl_unique_exception"
+    },
+    {
+        "id": 13736,
+        "file": "components\/ILIAS\/DataCollection\/exceptions\/ilDclInputException.php",
+        "line": 55,
+        "code": "$this->lng->txt('dcl_noturl_exception')",
+        "has_variable": false,
+        "variable": "dcl_noturl_exception"
+    },
+    {
+        "id": 13738,
+        "file": "components\/ILIAS\/DataCollection\/exceptions\/ilDclInputException.php",
+        "line": 57,
+        "code": "$this->lng->txt('dcl_unknown_exception')",
+        "has_variable": false,
+        "variable": "dcl_unknown_exception"
+    }
+]

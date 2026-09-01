@@ -1,0 +1,240 @@
+{
+    "metadata": {
+        "type": "full",
+        "count": 21,
+        "description": "Variable usages without detectable prefixes or suffixes (pure variable references without static strings)"
+    },
+    "matches": [
+        {
+            "id": 1320,
+            "file": "components\/ILIAS\/AdministrativeNotification\/classes\/class.ilADNNotificationUIFormGUI.php",
+            "line": 96,
+            "code": "$this->txt(self::F_TYPE . '_' . ilADNNotification::TYPE_INFO)",
+            "variable": "self::F_TYPE . '_' . ilADNNotification::TYPE_INFO",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 1322,
+            "file": "components\/ILIAS\/AdministrativeNotification\/classes\/class.ilADNNotificationUIFormGUI.php",
+            "line": 97,
+            "code": "$this->txt(self::F_TYPE . '_' . ilADNNotification::TYPE_WARNING)",
+            "variable": "self::F_TYPE . '_' . ilADNNotification::TYPE_WARNING",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 1324,
+            "file": "components\/ILIAS\/AdministrativeNotification\/classes\/class.ilADNNotificationUIFormGUI.php",
+            "line": 98,
+            "code": "$this->txt(self::F_TYPE . '_' . ilADNNotification::TYPE_ERROR)",
+            "variable": "self::F_TYPE . '_' . ilADNNotification::TYPE_ERROR",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 1326,
+            "file": "components\/ILIAS\/AdministrativeNotification\/classes\/class.ilADNNotificationUIFormGUI.php",
+            "line": 118,
+            "code": "$this->txt(self::F_TYPE)",
+            "variable": "F_TYPE",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 1328,
+            "file": "components\/ILIAS\/AdministrativeNotification\/classes\/class.ilADNNotificationUIFormGUI.php",
+            "line": 128,
+            "code": "$this->txt(self::F_TITLE)",
+            "variable": "F_TITLE",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 1330,
+            "file": "components\/ILIAS\/AdministrativeNotification\/classes\/class.ilADNNotificationUIFormGUI.php",
+            "line": 140,
+            "code": "$this->txt(self::F_BODY)",
+            "variable": "F_BODY",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 1332,
+            "file": "components\/ILIAS\/AdministrativeNotification\/classes\/class.ilADNNotificationUIFormGUI.php",
+            "line": 154,
+            "code": "$this->txt(self::F_DISPLAY_DATE_START)",
+            "variable": "F_DISPLAY_DATE_START",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 1334,
+            "file": "components\/ILIAS\/AdministrativeNotification\/classes\/class.ilADNNotificationUIFormGUI.php",
+            "line": 164,
+            "code": "$this->txt(self::F_DISPLAY_DATE_END)",
+            "variable": "F_DISPLAY_DATE_END",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 1336,
+            "file": "components\/ILIAS\/AdministrativeNotification\/classes\/class.ilADNNotificationUIFormGUI.php",
+            "line": 174,
+            "code": "$this->txt(self::F_EVENT_DATE_START)",
+            "variable": "F_EVENT_DATE_START",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 1338,
+            "file": "components\/ILIAS\/AdministrativeNotification\/classes\/class.ilADNNotificationUIFormGUI.php",
+            "line": 184,
+            "code": "$this->txt(self::F_EVENT_DATE_END)",
+            "variable": "F_EVENT_DATE_END",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 1340,
+            "file": "components\/ILIAS\/AdministrativeNotification\/classes\/class.ilADNNotificationUIFormGUI.php",
+            "line": 195,
+            "code": "$this->txt(self::F_TYPE_DURING_EVENT)",
+            "variable": "F_TYPE_DURING_EVENT",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 1346,
+            "file": "components\/ILIAS\/AdministrativeNotification\/classes\/class.ilADNNotificationUIFormGUI.php",
+            "line": 216,
+            "code": "$this->txt(self::F_PERMANENT)",
+            "variable": "F_PERMANENT",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 1350,
+            "file": "components\/ILIAS\/AdministrativeNotification\/classes\/class.ilADNNotificationUIFormGUI.php",
+            "line": 253,
+            "code": "$this->txt(self::F_DISMISSABLE)",
+            "variable": "F_DISMISSABLE",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 1354,
+            "file": "components\/ILIAS\/AdministrativeNotification\/classes\/class.ilADNNotificationUIFormGUI.php",
+            "line": 280,
+            "code": "$this->txt(self::F_SHOW_TO_ALL_LANGUAGES)",
+            "variable": "F_SHOW_TO_ALL_LANGUAGES",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 1356,
+            "file": "components\/ILIAS\/AdministrativeNotification\/classes\/class.ilADNNotificationUIFormGUI.php",
+            "line": 284,
+            "code": "$this->txt(self::F_HAS_LANGUAGE_LIMITATION)",
+            "variable": "F_HAS_LANGUAGE_LIMITATION",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 1360,
+            "file": "components\/ILIAS\/AdministrativeNotification\/classes\/class.ilADNNotificationUIFormGUI.php",
+            "line": 309,
+            "code": "$this->txt(self::F_SHOW_TO_ALL_ROLES)",
+            "variable": "F_SHOW_TO_ALL_ROLES",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 1362,
+            "file": "components\/ILIAS\/AdministrativeNotification\/classes\/class.ilADNNotificationUIFormGUI.php",
+            "line": 313,
+            "code": "$this->txt(self::F_LIMIT_TO_ROLES)",
+            "variable": "F_LIMIT_TO_ROLES",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 1364,
+            "file": "components\/ILIAS\/AdministrativeNotification\/classes\/class.ilADNNotificationUIFormGUI.php",
+            "line": 315,
+            "code": "$this->txt(self::F_PRESENTATION)",
+            "variable": "F_PRESENTATION",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 1368,
+            "file": "components\/ILIAS\/AdministrativeNotification\/classes\/class.ilADNTabHandling.php",
+            "line": 63,
+            "code": "$this->lng->txt(ilObjAdministrativeNotificationGUI::TAB_MAIN)",
+            "variable": "O",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 1370,
+            "file": "components\/ILIAS\/AdministrativeNotification\/classes\/class.ilADNTabHandling.php",
+            "line": 71,
+            "code": "$this->lng->txt(ilMMTopItemGUI::CMD_VIEW_TOP_ITEMS)",
+            "variable": "MMT",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 1372,
+            "file": "components\/ILIAS\/AdministrativeNotification\/classes\/class.ilADNTabHandling.php",
+            "line": 76,
+            "code": "$this->lng->txt(ilMMSubItemGUI::CMD_VIEW_SUB_ITEMS)",
+            "variable": "MMS",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        }
+    ]
+}

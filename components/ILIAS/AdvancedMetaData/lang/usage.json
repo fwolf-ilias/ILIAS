@@ -1,0 +1,1762 @@
+[
+    {
+        "id": 1384,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/Record\/class.ilAdvancedMDRecord.php",
+        "line": 163,
+        "code": "$lng->txt(\"obj_\" . $at[\"obj_type\"])",
+        "has_variable": true,
+        "variable": "\"obj_\" . $at[\"obj_type\"]"
+    },
+    {
+        "id": 1386,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/Record\/class.ilAdvancedMDRecord.php",
+        "line": 166,
+        "code": "$lng->txt($at[\"obj_type\"] . \"_\" . $at[\"sub_type\"])",
+        "has_variable": true,
+        "variable": "$at[\"obj_type\"] . \"_\" . $at[\"sub_type\"]"
+    },
+    {
+        "id": 1388,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/Record\/class.ilAdvancedMDRecordExportFilesTableGUI.php",
+        "line": 37,
+        "code": "$this->lng->txt('md_adv_records')",
+        "has_variable": false,
+        "variable": "md_adv_records"
+    },
+    {
+        "id": 1390,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/Record\/class.ilAdvancedMDRecordExportFilesTableGUI.php",
+        "line": 38,
+        "code": "$this->lng->txt('date')",
+        "has_variable": false,
+        "variable": "date"
+    },
+    {
+        "id": 1392,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/Record\/class.ilAdvancedMDRecordExportFilesTableGUI.php",
+        "line": 39,
+        "code": "$this->lng->txt('filesize')",
+        "has_variable": false,
+        "variable": "filesize"
+    },
+    {
+        "id": 1394,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/Record\/class.ilAdvancedMDRecordExportFilesTableGUI.php",
+        "line": 80,
+        "code": "$this->lng->txt('bytes')",
+        "has_variable": false,
+        "variable": "bytes"
+    },
+    {
+        "id": 1396,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/Record\/class.ilAdvancedMDRecordGUI.php",
+        "line": 557,
+        "code": "$this->lng->txt(\"meta_adv_records\")",
+        "has_variable": false,
+        "variable": "meta_adv_records"
+    },
+    {
+        "id": 1398,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/Record\/class.ilAdvancedMDRecordTableGUI.php",
+        "line": 44,
+        "code": "$this->lng->txt('md_adv_col_presentation_ordering')",
+        "has_variable": false,
+        "variable": "md_adv_col_presentation_ordering"
+    },
+    {
+        "id": 1400,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/Record\/class.ilAdvancedMDRecordTableGUI.php",
+        "line": 45,
+        "code": "$this->lng->txt('title')",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 1402,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/Record\/class.ilAdvancedMDRecordTableGUI.php",
+        "line": 46,
+        "code": "$this->lng->txt('md_fields')",
+        "has_variable": false,
+        "variable": "md_fields"
+    },
+    {
+        "id": 1404,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/Record\/class.ilAdvancedMDRecordTableGUI.php",
+        "line": 47,
+        "code": "$this->lng->txt('md_adv_scope')",
+        "has_variable": false,
+        "variable": "md_adv_scope"
+    },
+    {
+        "id": 1406,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/Record\/class.ilAdvancedMDRecordTableGUI.php",
+        "line": 48,
+        "code": "$this->lng->txt('md_obj_types')",
+        "has_variable": false,
+        "variable": "md_obj_types"
+    },
+    {
+        "id": 1408,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/Record\/class.ilAdvancedMDRecordTableGUI.php",
+        "line": 49,
+        "code": "$this->lng->txt('md_adv_active')",
+        "has_variable": false,
+        "variable": "md_adv_active"
+    },
+    {
+        "id": 1410,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/Record\/class.ilAdvancedMDRecordTableGUI.php",
+        "line": 51,
+        "code": "$this->lng->txt('actions')",
+        "has_variable": false,
+        "variable": "actions"
+    },
+    {
+        "id": 1412,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/Record\/class.ilAdvancedMDRecordTableGUI.php",
+        "line": 76,
+        "code": "$this->lng->txt(\"meta_obj_type_inactive\")",
+        "has_variable": false,
+        "variable": "meta_obj_type_inactive"
+    },
+    {
+        "id": 1414,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/Record\/class.ilAdvancedMDRecordTableGUI.php",
+        "line": 77,
+        "code": "$this->lng->txt(\"meta_obj_type_mandatory\")",
+        "has_variable": false,
+        "variable": "meta_obj_type_mandatory"
+    },
+    {
+        "id": 1416,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/Record\/class.ilAdvancedMDRecordTableGUI.php",
+        "line": 78,
+        "code": "$this->lng->txt(\"meta_obj_type_optional\")",
+        "has_variable": false,
+        "variable": "meta_obj_type_optional"
+    },
+    {
+        "id": 1418,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/Record\/class.ilAdvancedMDRecordTableGUI.php",
+        "line": 83,
+        "code": "$this->lng->txt(\"meta_obj_type_inactive\")",
+        "has_variable": false,
+        "variable": "meta_obj_type_inactive"
+    },
+    {
+        "id": 1420,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/Record\/class.ilAdvancedMDRecordTableGUI.php",
+        "line": 84,
+        "code": "$this->lng->txt(\"meta_obj_type_active\")",
+        "has_variable": false,
+        "variable": "meta_obj_type_active"
+    },
+    {
+        "id": 1422,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/Record\/class.ilAdvancedMDRecordTableGUI.php",
+        "line": 184,
+        "code": "$this->lng->txt('md_adv_scope_list_header')",
+        "has_variable": false,
+        "variable": "md_adv_scope_list_header"
+    },
+    {
+        "id": 1424,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/Record\/class.ilAdvancedMDRecordTableGUI.php",
+        "line": 200,
+        "code": "$this->lng->txt('meta_local')",
+        "has_variable": false,
+        "variable": "meta_local"
+    },
+    {
+        "id": 1426,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/Record\/class.ilAdvancedMDRecordTableGUI.php",
+        "line": 200,
+        "code": "$this->lng->txt('meta_global')",
+        "has_variable": false,
+        "variable": "meta_global"
+    },
+    {
+        "id": 1428,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/Record\/class.ilAdvancedMDRecordTableGUI.php",
+        "line": 219,
+        "code": "$this->lng->txt('md_adv_no_fields')",
+        "has_variable": false,
+        "variable": "md_adv_no_fields"
+    },
+    {
+        "id": 1430,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/Record\/class.ilAdvancedMDRecordTableGUI.php",
+        "line": 224,
+        "code": "$this->lng->txt($definition_obj->getTypeTitle())",
+        "has_variable": true,
+        "variable": "$definition_obj->getTypeTitle()"
+    },
+    {
+        "id": 1432,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/Record\/class.ilAdvancedMDRecordTableGUI.php",
+        "line": 241,
+        "code": "$this->lng->txt('edit')",
+        "has_variable": false,
+        "variable": "edit"
+    },
+    {
+        "id": 1434,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/Record\/class.ilAdvancedMDRecordTableGUI.php",
+        "line": 248,
+        "code": "$this->lng->txt('md_adv_field_table')",
+        "has_variable": false,
+        "variable": "md_adv_field_table"
+    },
+    {
+        "id": 1436,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/Services\/SubObjectModes\/Filter\/Supplier.php",
+        "line": 131,
+        "code": "$this->lng->txt(\"search_any\")",
+        "has_variable": false,
+        "variable": "search_any"
+    },
+    {
+        "id": 1438,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/Translation\/class.ilAdvancedMDFieldTranslations.php",
+        "line": 181,
+        "code": "$this->lng->txt('md_adv_int_current')",
+        "has_variable": false,
+        "variable": "md_adv_int_current"
+    },
+    {
+        "id": 1440,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/Translation\/class.ilAdvancedMDFieldTranslations.php",
+        "line": 181,
+        "code": "$this->lng->txt('meta_l_' . $active_language)",
+        "has_variable": true,
+        "variable": "'meta_l_' . $active_language"
+    },
+    {
+        "id": 1442,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/Translation\/class.ilAdvancedMDFieldTranslations.php",
+        "line": 185,
+        "code": "$this->lng->txt('md_adv_int_default')",
+        "has_variable": false,
+        "variable": "md_adv_int_default"
+    },
+    {
+        "id": 1444,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/Translation\/class.ilAdvancedMDFieldTranslations.php",
+        "line": 185,
+        "code": "$this->lng->txt('meta_l_' . $translation->getLangKey())",
+        "has_variable": true,
+        "variable": "'meta_l_' . $translation->getLangKey()"
+    },
+    {
+        "id": 1446,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/Translation\/class.ilAdvancedMDRecordLanguageTableGUI.php",
+        "line": 66,
+        "code": "$this->lng->txt('md_adv_record_lng_table')",
+        "has_variable": false,
+        "variable": "md_adv_record_lng_table"
+    },
+    {
+        "id": 1448,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/Translation\/class.ilAdvancedMDRecordLanguageTableGUI.php",
+        "line": 69,
+        "code": "$this->lng->txt('md_adv_record_lng_table_lng')",
+        "has_variable": false,
+        "variable": "md_adv_record_lng_table_lng"
+    },
+    {
+        "id": 1450,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/Translation\/class.ilAdvancedMDRecordLanguageTableGUI.php",
+        "line": 70,
+        "code": "$this->lng->txt('md_adv_record_lng_table_default')",
+        "has_variable": false,
+        "variable": "md_adv_record_lng_table_default"
+    },
+    {
+        "id": 1452,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/Translation\/class.ilAdvancedMDRecordLanguageTableGUI.php",
+        "line": 71,
+        "code": "$this->lng->txt('md_adv_record_lng_table_active')",
+        "has_variable": false,
+        "variable": "md_adv_record_lng_table_active"
+    },
+    {
+        "id": 1454,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/Translation\/class.ilAdvancedMDRecordLanguageTableGUI.php",
+        "line": 72,
+        "code": "$this->lng->txt('md_adv_record_lng_table_inst')",
+        "has_variable": false,
+        "variable": "md_adv_record_lng_table_inst"
+    },
+    {
+        "id": 1456,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/Translation\/class.ilAdvancedMDRecordLanguageTableGUI.php",
+        "line": 74,
+        "code": "$this->lng->txt('md_adv_record_activate_languages')",
+        "has_variable": false,
+        "variable": "md_adv_record_activate_languages"
+    },
+    {
+        "id": 1458,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/Translation\/class.ilAdvancedMDRecordLanguageTableGUI.php",
+        "line": 100,
+        "code": "$this->lng->txt('meta_l_' . $language_code)",
+        "has_variable": true,
+        "variable": "'meta_l_' . $language_code"
+    },
+    {
+        "id": 1460,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/Translation\/class.ilAdvancedMDRecordTranslationGUI.php",
+        "line": 52,
+        "code": "$this->language->txt('err_check_input')",
+        "has_variable": false,
+        "variable": "err_check_input"
+    },
+    {
+        "id": 1462,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/Translation\/class.ilAdvancedMDRecordTranslationGUI.php",
+        "line": 53,
+        "code": "$this->language->txt('md_adn_int_error_no_default')",
+        "has_variable": false,
+        "variable": "md_adn_int_error_no_default"
+    },
+    {
+        "id": 1464,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/Translation\/class.ilAdvancedMDRecordTranslationGUI.php",
+        "line": 72,
+        "code": "$this->language->txt('settings_saved')",
+        "has_variable": false,
+        "variable": "settings_saved"
+    },
+    {
+        "id": 1466,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/Translation\/class.ilAdvancedMDRecordTranslations.php",
+        "line": 165,
+        "code": "$this->lng->txt('md_adv_int_current')",
+        "has_variable": false,
+        "variable": "md_adv_int_current"
+    },
+    {
+        "id": 1468,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/Translation\/class.ilAdvancedMDRecordTranslations.php",
+        "line": 165,
+        "code": "$this->lng->txt('meta_l_' . $active_language)",
+        "has_variable": true,
+        "variable": "'meta_l_' . $active_language"
+    },
+    {
+        "id": 1470,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/Translation\/class.ilAdvancedMDRecordTranslations.php",
+        "line": 169,
+        "code": "$this->lng->txt('md_adv_int_default')",
+        "has_variable": false,
+        "variable": "md_adv_int_default"
+    },
+    {
+        "id": 1472,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/Translation\/class.ilAdvancedMDRecordTranslations.php",
+        "line": 169,
+        "code": "$this->lng->txt('meta_l_' . $translation->getLangKey())",
+        "has_variable": true,
+        "variable": "'meta_l_' . $translation->getLangKey()"
+    },
+    {
+        "id": 1474,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/Translation\/class.ilAdvancedMDTranslationGUI.php",
+        "line": 99,
+        "code": "$this->language->txt('obj_add_languages')",
+        "has_variable": false,
+        "variable": "obj_add_languages"
+    },
+    {
+        "id": 1476,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/Translation\/class.ilAdvancedMDTranslationGUI.php",
+        "line": 103,
+        "code": "$this->language->txt('obj_additional_langs')",
+        "has_variable": false,
+        "variable": "obj_additional_langs"
+    },
+    {
+        "id": 1478,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/Translation\/class.ilAdvancedMDTranslationGUI.php",
+        "line": 113,
+        "code": "$this->language->txt('save')",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 1480,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/Translation\/class.ilAdvancedMDTranslationGUI.php",
+        "line": 117,
+        "code": "$this->language->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 1482,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/Translation\/class.ilAdvancedMDTranslationGUI.php",
+        "line": 133,
+        "code": "$this->language->txt('select_one')",
+        "has_variable": false,
+        "variable": "select_one"
+    },
+    {
+        "id": 1484,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/Translation\/class.ilAdvancedMDTranslationGUI.php",
+        "line": 138,
+        "code": "$this->language->txt('meta_l_' . $language)",
+        "has_variable": true,
+        "variable": "'meta_l_' . $language"
+    },
+    {
+        "id": 1486,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/Translation\/class.ilAdvancedMDTranslationGUI.php",
+        "line": 148,
+        "code": "$this->language->txt('err_check_input')",
+        "has_variable": false,
+        "variable": "err_check_input"
+    },
+    {
+        "id": 1488,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/Translation\/class.ilAdvancedMDTranslationGUI.php",
+        "line": 157,
+        "code": "$this->language->txt('settings_saved')",
+        "has_variable": false,
+        "variable": "settings_saved"
+    },
+    {
+        "id": 1490,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/Types\/class.ilAdvancedMDFieldDefinitionAddress.php",
+        "line": 54,
+        "code": "$lng->txt(\"street\")",
+        "has_variable": false,
+        "variable": "street"
+    },
+    {
+        "id": 1492,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/Types\/class.ilAdvancedMDFieldDefinitionAddress.php",
+        "line": 56,
+        "code": "$lng->txt(\"city\")",
+        "has_variable": false,
+        "variable": "city"
+    },
+    {
+        "id": 1494,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/Types\/class.ilAdvancedMDFieldDefinitionAddress.php",
+        "line": 58,
+        "code": "$lng->txt(\"location\")",
+        "has_variable": false,
+        "variable": "location"
+    },
+    {
+        "id": 1496,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/Types\/class.ilAdvancedMDFieldDefinitionFloat.php",
+        "line": 108,
+        "code": "$lng->txt(\"md_adv_number_decimals\")",
+        "has_variable": false,
+        "variable": "md_adv_number_decimals"
+    },
+    {
+        "id": 1498,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/Types\/class.ilAdvancedMDFieldDefinitionFloat.php",
+        "line": 130,
+        "code": "$lng->txt(\"md_adv_number_decimals\")",
+        "has_variable": false,
+        "variable": "md_adv_number_decimals"
+    },
+    {
+        "id": 1500,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/Types\/class.ilAdvancedMDFieldDefinitionGroupBased.php",
+        "line": 79,
+        "code": "$lng->txt(\"options\")",
+        "has_variable": false,
+        "variable": "options"
+    },
+    {
+        "id": 1502,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/Types\/class.ilAdvancedMDFieldDefinitionGroupBased.php",
+        "line": 92,
+        "code": "$lng->txt(\"options\")",
+        "has_variable": false,
+        "variable": "options"
+    },
+    {
+        "id": 1504,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/Types\/class.ilAdvancedMDFieldDefinitionGroupBased.php",
+        "line": 218,
+        "code": "$lng->txt(\"option\")",
+        "has_variable": false,
+        "variable": "option"
+    },
+    {
+        "id": 1506,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/Types\/class.ilAdvancedMDFieldDefinitionGroupTableGUI.php",
+        "line": 36,
+        "code": "$this->lng->txt(\"option\")",
+        "has_variable": false,
+        "variable": "option"
+    },
+    {
+        "id": 1508,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/Types\/class.ilAdvancedMDFieldDefinitionGroupTableGUI.php",
+        "line": 42,
+        "code": "$this->lng->txt(\"action\")",
+        "has_variable": false,
+        "variable": "action"
+    },
+    {
+        "id": 1510,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/Types\/class.ilAdvancedMDFieldDefinitionGroupTableGUI.php",
+        "line": 81,
+        "code": "$this->lng->txt(\"edit\")",
+        "has_variable": false,
+        "variable": "edit"
+    },
+    {
+        "id": 1512,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/Types\/class.ilAdvancedMDFieldDefinitionInteger.php",
+        "line": 137,
+        "code": "$this->lng->txt(\"md_adv_number_min\")",
+        "has_variable": false,
+        "variable": "md_adv_number_min"
+    },
+    {
+        "id": 1514,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/Types\/class.ilAdvancedMDFieldDefinitionInteger.php",
+        "line": 140,
+        "code": "$this->lng->txt(\"md_adv_number_max\")",
+        "has_variable": false,
+        "variable": "md_adv_number_max"
+    },
+    {
+        "id": 1516,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/Types\/class.ilAdvancedMDFieldDefinitionInteger.php",
+        "line": 148,
+        "code": "$this->lng->txt(\"md_adv_number_suffix\")",
+        "has_variable": false,
+        "variable": "md_adv_number_suffix"
+    },
+    {
+        "id": 1518,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/Types\/class.ilAdvancedMDFieldDefinitionInteger.php",
+        "line": 158,
+        "code": "$this->lng->txt(\"md_adv_number_min\")",
+        "has_variable": false,
+        "variable": "md_adv_number_min"
+    },
+    {
+        "id": 1520,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/Types\/class.ilAdvancedMDFieldDefinitionInteger.php",
+        "line": 163,
+        "code": "$this->lng->txt(\"md_adv_number_max\")",
+        "has_variable": false,
+        "variable": "md_adv_number_max"
+    },
+    {
+        "id": 1522,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/Types\/class.ilAdvancedMDFieldDefinitionInteger.php",
+        "line": 168,
+        "code": "$this->lng->txt(\"md_adv_number_suffix\")",
+        "has_variable": false,
+        "variable": "md_adv_number_suffix"
+    },
+    {
+        "id": 1524,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/Types\/class.ilAdvancedMDFieldDefinitionSelect.php",
+        "line": 131,
+        "code": "$this->lng->txt(\"meta_advmd_select_options\")",
+        "has_variable": false,
+        "variable": "meta_advmd_select_options"
+    },
+    {
+        "id": 1526,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/Types\/class.ilAdvancedMDFieldDefinitionSelect.php",
+        "line": 157,
+        "code": "$this->lng->txt('meta_advmd_select_options')",
+        "has_variable": false,
+        "variable": "meta_advmd_select_options"
+    },
+    {
+        "id": 1528,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/Types\/class.ilAdvancedMDFieldDefinitionSelect.php",
+        "line": 172,
+        "code": "$this->lng->txt('meta_advmd_select_options_edit')",
+        "has_variable": false,
+        "variable": "meta_advmd_select_options_edit"
+    },
+    {
+        "id": 1530,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/Types\/class.ilAdvancedMDFieldDefinitionSelect.php",
+        "line": 177,
+        "code": "$this->lng->txt('meta_advmd_select_first_position_identifier')",
+        "has_variable": false,
+        "variable": "meta_advmd_select_first_position_identifier"
+    },
+    {
+        "id": 1532,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/Types\/class.ilAdvancedMDFieldDefinitionSelect.php",
+        "line": 181,
+        "code": "$this->lng->txt('meta_advmd_select_position_identifier')",
+        "has_variable": false,
+        "variable": "meta_advmd_select_position_identifier"
+    },
+    {
+        "id": 1534,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/Types\/class.ilAdvancedMDFieldDefinitionSelect.php",
+        "line": 212,
+        "code": "$this->lng->txt('meta_advmd_select_new_option')",
+        "has_variable": false,
+        "variable": "meta_advmd_select_new_option"
+    },
+    {
+        "id": 1536,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/Types\/class.ilAdvancedMDFieldDefinitionSelect.php",
+        "line": 246,
+        "code": "$this->lng->txt('meta_advmd_select_option_value')",
+        "has_variable": false,
+        "variable": "meta_advmd_select_option_value"
+    },
+    {
+        "id": 1538,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/Types\/class.ilAdvancedMDFieldDefinitionSelect.php",
+        "line": 256,
+        "code": "$this->lng->txt('meta_advmd_select_option_position')",
+        "has_variable": false,
+        "variable": "meta_advmd_select_option_position"
+    },
+    {
+        "id": 1540,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/Types\/class.ilAdvancedMDFieldDefinitionSelect.php",
+        "line": 270,
+        "code": "$this->lng->txt('meta_advmd_select_delete_option')",
+        "has_variable": false,
+        "variable": "meta_advmd_select_delete_option"
+    },
+    {
+        "id": 1542,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/Types\/class.ilAdvancedMDFieldDefinitionSelect.php",
+        "line": 303,
+        "code": "$this->lng->txt(\"meta_advmd_select_options\")",
+        "has_variable": false,
+        "variable": "meta_advmd_select_options"
+    },
+    {
+        "id": 1544,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/Types\/class.ilAdvancedMDFieldDefinitionSelect.php",
+        "line": 577,
+        "code": "$lng->txt(\"md_adv_confirm_definition_select_section\")",
+        "has_variable": false,
+        "variable": "md_adv_confirm_definition_select_section"
+    },
+    {
+        "id": 1546,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/Types\/class.ilAdvancedMDFieldDefinitionSelect.php",
+        "line": 583,
+        "code": "$lng->txt(\"md_adv_confirm_definition_select_option\")",
+        "has_variable": false,
+        "variable": "md_adv_confirm_definition_select_option"
+    },
+    {
+        "id": 1548,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/Types\/class.ilAdvancedMDFieldDefinitionSelect.php",
+        "line": 595,
+        "code": "$lng->txt(\"md_adv_confirm_definition_select_option_all\")",
+        "has_variable": false,
+        "variable": "md_adv_confirm_definition_select_option_all"
+    },
+    {
+        "id": 1550,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/Types\/class.ilAdvancedMDFieldDefinitionSelect.php",
+        "line": 599,
+        "code": "$lng->txt(\"md_adv_confirm_definition_select_option_all_action\")",
+        "has_variable": false,
+        "variable": "md_adv_confirm_definition_select_option_all_action"
+    },
+    {
+        "id": 1552,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/Types\/class.ilAdvancedMDFieldDefinitionSelect.php",
+        "line": 604,
+        "code": "$lng->txt(\"please_select\")",
+        "has_variable": false,
+        "variable": "please_select"
+    },
+    {
+        "id": 1554,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/Types\/class.ilAdvancedMDFieldDefinitionSelect.php",
+        "line": 605,
+        "code": "$lng->txt(\"md_adv_confirm_definition_select_option_remove\")",
+        "has_variable": false,
+        "variable": "md_adv_confirm_definition_select_option_remove"
+    },
+    {
+        "id": 1556,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/Types\/class.ilAdvancedMDFieldDefinitionSelect.php",
+        "line": 610,
+        "code": "$lng->txt(\"md_adv_confirm_definition_select_option_overwrite\")",
+        "has_variable": false,
+        "variable": "md_adv_confirm_definition_select_option_overwrite"
+    },
+    {
+        "id": 1558,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/Types\/class.ilAdvancedMDFieldDefinitionSelect.php",
+        "line": 620,
+        "code": "$lng->txt(\"msg_input_is_required\")",
+        "has_variable": false,
+        "variable": "msg_input_is_required"
+    },
+    {
+        "id": 1560,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/Types\/class.ilAdvancedMDFieldDefinitionSelect.php",
+        "line": 621,
+        "code": "$lng->txt(\"form_input_not_valid\")",
+        "has_variable": false,
+        "variable": "form_input_not_valid"
+    },
+    {
+        "id": 1562,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/Types\/class.ilAdvancedMDFieldDefinitionSelect.php",
+        "line": 624,
+        "code": "$lng->txt(\"md_adv_confirm_definition_select_option_single\")",
+        "has_variable": false,
+        "variable": "md_adv_confirm_definition_select_option_single"
+    },
+    {
+        "id": 1564,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/Types\/class.ilAdvancedMDFieldDefinitionSelect.php",
+        "line": 643,
+        "code": "$lng->txt(\"obj_\" . $type)",
+        "has_variable": true,
+        "variable": "\"obj_\" . $type"
+    },
+    {
+        "id": 1566,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/Types\/class.ilAdvancedMDFieldDefinitionSelect.php",
+        "line": 665,
+        "code": "$lng->txt(\"please_select\")",
+        "has_variable": false,
+        "variable": "please_select"
+    },
+    {
+        "id": 1568,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/Types\/class.ilAdvancedMDFieldDefinitionSelect.php",
+        "line": 666,
+        "code": "$lng->txt(\"md_adv_confirm_definition_select_option_remove\")",
+        "has_variable": false,
+        "variable": "md_adv_confirm_definition_select_option_remove"
+    },
+    {
+        "id": 1570,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/Types\/class.ilAdvancedMDFieldDefinitionSelect.php",
+        "line": 671,
+        "code": "$lng->txt(\"md_adv_confirm_definition_select_option_overwrite\")",
+        "has_variable": false,
+        "variable": "md_adv_confirm_definition_select_option_overwrite"
+    },
+    {
+        "id": 1572,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/Types\/class.ilAdvancedMDFieldDefinitionSelect.php",
+        "line": 680,
+        "code": "$lng->txt(\"msg_input_is_required\")",
+        "has_variable": false,
+        "variable": "msg_input_is_required"
+    },
+    {
+        "id": 1574,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/Types\/class.ilAdvancedMDFieldDefinitionSelect.php",
+        "line": 681,
+        "code": "$lng->txt(\"form_input_not_valid\")",
+        "has_variable": false,
+        "variable": "form_input_not_valid"
+    },
+    {
+        "id": 1576,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/Types\/class.ilAdvancedMDFieldDefinitionText.php",
+        "line": 139,
+        "code": "$lng->txt(\"md_adv_text_max_length\")",
+        "has_variable": false,
+        "variable": "md_adv_text_max_length"
+    },
+    {
+        "id": 1578,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/Types\/class.ilAdvancedMDFieldDefinitionText.php",
+        "line": 142,
+        "code": "$lng->txt(\"md_adv_text_multi\")",
+        "has_variable": false,
+        "variable": "md_adv_text_multi"
+    },
+    {
+        "id": 1580,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/Types\/class.ilAdvancedMDFieldDefinitionText.php",
+        "line": 142,
+        "code": "$lng->txt(\"yes\")",
+        "has_variable": false,
+        "variable": "yes"
+    },
+    {
+        "id": 1582,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/Types\/class.ilAdvancedMDFieldDefinitionText.php",
+        "line": 164,
+        "code": "$lng->txt(\"md_adv_text_max_length\")",
+        "has_variable": false,
+        "variable": "md_adv_text_max_length"
+    },
+    {
+        "id": 1584,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/Types\/class.ilAdvancedMDFieldDefinitionText.php",
+        "line": 167,
+        "code": "$lng->txt(\"characters\")",
+        "has_variable": false,
+        "variable": "characters"
+    },
+    {
+        "id": 1586,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/Types\/class.ilAdvancedMDFieldDefinitionText.php",
+        "line": 172,
+        "code": "$lng->txt(\"md_adv_text_multi\")",
+        "has_variable": false,
+        "variable": "md_adv_text_multi"
+    },
+    {
+        "id": 1588,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/Types\/class.ilAdvancedMDFieldDefinitionText.php",
+        "line": 186,
+        "code": "$lng->txt('md_adv_text_multi_val')",
+        "has_variable": false,
+        "variable": "md_adv_text_multi_val"
+    },
+    {
+        "id": 1590,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/Types\/class.ilAdvancedMDFieldDefinitionText.php",
+        "line": 189,
+        "code": "$lng->txt('md_adv_text_multi_val_info')",
+        "has_variable": false,
+        "variable": "md_adv_text_multi_val_info"
+    },
+    {
+        "id": 1592,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/class.ilAdvancedMDFieldDefinition.php",
+        "line": 599,
+        "code": "$lng->txt('title')",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 1594,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/class.ilAdvancedMDFieldDefinition.php",
+        "line": 617,
+        "code": "$lng->txt('description')",
+        "has_variable": false,
+        "variable": "description"
+    },
+    {
+        "id": 1596,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/class.ilAdvancedMDFieldDefinition.php",
+        "line": 634,
+        "code": "$lng->txt('md_adv_searchable')",
+        "has_variable": false,
+        "variable": "md_adv_searchable"
+    },
+    {
+        "id": 1598,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/class.ilAdvancedMDFieldDefinition.php",
+        "line": 645,
+        "code": "$lng->txt('md_adv_required')",
+        "has_variable": false,
+        "variable": "md_adv_required"
+    },
+    {
+        "id": 1600,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/class.ilAdvancedMDFieldTableGUI.php",
+        "line": 55,
+        "code": "$this->lng->txt('position')",
+        "has_variable": false,
+        "variable": "position"
+    },
+    {
+        "id": 1602,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/class.ilAdvancedMDFieldTableGUI.php",
+        "line": 56,
+        "code": "$this->lng->txt('title')",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 1604,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/class.ilAdvancedMDFieldTableGUI.php",
+        "line": 57,
+        "code": "$this->lng->txt('md_adv_field_fields')",
+        "has_variable": false,
+        "variable": "md_adv_field_fields"
+    },
+    {
+        "id": 1606,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/class.ilAdvancedMDFieldTableGUI.php",
+        "line": 58,
+        "code": "$this->lng->txt('options')",
+        "has_variable": false,
+        "variable": "options"
+    },
+    {
+        "id": 1608,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/class.ilAdvancedMDFieldTableGUI.php",
+        "line": 81,
+        "code": "$this->lng->txt('md_adv_searchable')",
+        "has_variable": false,
+        "variable": "md_adv_searchable"
+    },
+    {
+        "id": 1610,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/class.ilAdvancedMDFieldTableGUI.php",
+        "line": 114,
+        "code": "$this->lng->txt('edit')",
+        "has_variable": false,
+        "variable": "edit"
+    },
+    {
+        "id": 1612,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/class.ilAdvancedMDFieldTableGUI.php",
+        "line": 136,
+        "code": "$this->lng->txt($definition->getTypeTitle())",
+        "has_variable": true,
+        "variable": "$definition->getTypeTitle()"
+    },
+    {
+        "id": 1614,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/class.ilAdvancedMDSettingsGUI.php",
+        "line": 308,
+        "code": "$this->lng->txt('add')",
+        "has_variable": false,
+        "variable": "add"
+    },
+    {
+        "id": 1616,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/class.ilAdvancedMDSettingsGUI.php",
+        "line": 320,
+        "code": "$this->lng->txt('import')",
+        "has_variable": false,
+        "variable": "import"
+    },
+    {
+        "id": 1618,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/class.ilAdvancedMDSettingsGUI.php",
+        "line": 335,
+        "code": "$this->lng->txt(\"md_record_list_table\")",
+        "has_variable": false,
+        "variable": "md_record_list_table"
+    },
+    {
+        "id": 1620,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/class.ilAdvancedMDSettingsGUI.php",
+        "line": 339,
+        "code": "$this->lng->txt('add')",
+        "has_variable": false,
+        "variable": "add"
+    },
+    {
+        "id": 1622,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/class.ilAdvancedMDSettingsGUI.php",
+        "line": 340,
+        "code": "$this->lng->txt('export')",
+        "has_variable": false,
+        "variable": "export"
+    },
+    {
+        "id": 1624,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/class.ilAdvancedMDSettingsGUI.php",
+        "line": 344,
+        "code": "$this->lng->txt(\"delete\")",
+        "has_variable": false,
+        "variable": "delete"
+    },
+    {
+        "id": 1626,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/class.ilAdvancedMDSettingsGUI.php",
+        "line": 345,
+        "code": "$this->lng->txt(\"save\")",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 1628,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/class.ilAdvancedMDSettingsGUI.php",
+        "line": 379,
+        "code": "$this->lng->txt('err_check_input')",
+        "has_variable": false,
+        "variable": "err_check_input"
+    },
+    {
+        "id": 1630,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/class.ilAdvancedMDSettingsGUI.php",
+        "line": 434,
+        "code": "$this->lng->txt('settings_saved')",
+        "has_variable": false,
+        "variable": "settings_saved"
+    },
+    {
+        "id": 1632,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/class.ilAdvancedMDSettingsGUI.php",
+        "line": 446,
+        "code": "$this->lng->txt('select_one')",
+        "has_variable": false,
+        "variable": "select_one"
+    },
+    {
+        "id": 1634,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/class.ilAdvancedMDSettingsGUI.php",
+        "line": 464,
+        "code": "$this->lng->txt('msg_no_perm_copy')",
+        "has_variable": false,
+        "variable": "msg_no_perm_copy"
+    },
+    {
+        "id": 1636,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/class.ilAdvancedMDSettingsGUI.php",
+        "line": 477,
+        "code": "$this->lng->txt('md_adv_records_exported')",
+        "has_variable": false,
+        "variable": "md_adv_records_exported"
+    },
+    {
+        "id": 1638,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/class.ilAdvancedMDSettingsGUI.php",
+        "line": 496,
+        "code": "$this->lng->txt(\"md_record_export_table\")",
+        "has_variable": false,
+        "variable": "md_record_export_table"
+    },
+    {
+        "id": 1640,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/class.ilAdvancedMDSettingsGUI.php",
+        "line": 498,
+        "code": "$this->lng->txt('download')",
+        "has_variable": false,
+        "variable": "download"
+    },
+    {
+        "id": 1642,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/class.ilAdvancedMDSettingsGUI.php",
+        "line": 501,
+        "code": "$this->lng->txt(\"delete\")",
+        "has_variable": false,
+        "variable": "delete"
+    },
+    {
+        "id": 1644,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/class.ilAdvancedMDSettingsGUI.php",
+        "line": 517,
+        "code": "$this->lng->txt('md_adv_select_one_file')",
+        "has_variable": false,
+        "variable": "md_adv_select_one_file"
+    },
+    {
+        "id": 1646,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/class.ilAdvancedMDSettingsGUI.php",
+        "line": 536,
+        "code": "$this->lng->txt('select_one')",
+        "has_variable": false,
+        "variable": "select_one"
+    },
+    {
+        "id": 1648,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/class.ilAdvancedMDSettingsGUI.php",
+        "line": 543,
+        "code": "$this->lng->txt(\"md_adv_delete_files_sure\")",
+        "has_variable": false,
+        "variable": "md_adv_delete_files_sure"
+    },
+    {
+        "id": 1650,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/class.ilAdvancedMDSettingsGUI.php",
+        "line": 544,
+        "code": "$this->lng->txt(\"cancel\")",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 1652,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/class.ilAdvancedMDSettingsGUI.php",
+        "line": 545,
+        "code": "$this->lng->txt(\"confirm\")",
+        "has_variable": false,
+        "variable": "confirm"
+    },
+    {
+        "id": 1654,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/class.ilAdvancedMDSettingsGUI.php",
+        "line": 574,
+        "code": "$this->lng->txt('select_one')",
+        "has_variable": false,
+        "variable": "select_one"
+    },
+    {
+        "id": 1656,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/class.ilAdvancedMDSettingsGUI.php",
+        "line": 580,
+        "code": "$this->lng->txt('permission_denied')",
+        "has_variable": false,
+        "variable": "permission_denied"
+    },
+    {
+        "id": 1658,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/class.ilAdvancedMDSettingsGUI.php",
+        "line": 594,
+        "code": "$this->lng->txt('md_adv_deleted_files')",
+        "has_variable": false,
+        "variable": "md_adv_deleted_files"
+    },
+    {
+        "id": 1660,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/class.ilAdvancedMDSettingsGUI.php",
+        "line": 609,
+        "code": "$this->lng->txt('select_one')",
+        "has_variable": false,
+        "variable": "select_one"
+    },
+    {
+        "id": 1662,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/class.ilAdvancedMDSettingsGUI.php",
+        "line": 618,
+        "code": "$this->lng->txt(\"md_adv_delete_record_sure\")",
+        "has_variable": false,
+        "variable": "md_adv_delete_record_sure"
+    },
+    {
+        "id": 1664,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/class.ilAdvancedMDSettingsGUI.php",
+        "line": 619,
+        "code": "$this->lng->txt(\"cancel\")",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 1666,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/class.ilAdvancedMDSettingsGUI.php",
+        "line": 620,
+        "code": "$this->lng->txt(\"confirm\")",
+        "has_variable": false,
+        "variable": "confirm"
+    },
+    {
+        "id": 1668,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/class.ilAdvancedMDSettingsGUI.php",
+        "line": 638,
+        "code": "$this->lng->txt('select_one')",
+        "has_variable": false,
+        "variable": "select_one"
+    },
+    {
+        "id": 1670,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/class.ilAdvancedMDSettingsGUI.php",
+        "line": 664,
+        "code": "$this->lng->txt('msg_no_perm_delete')",
+        "has_variable": false,
+        "variable": "msg_no_perm_delete"
+    },
+    {
+        "id": 1672,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/class.ilAdvancedMDSettingsGUI.php",
+        "line": 672,
+        "code": "$this->lng->txt('md_adv_deleted_records')",
+        "has_variable": false,
+        "variable": "md_adv_deleted_records"
+    },
+    {
+        "id": 1674,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/class.ilAdvancedMDSettingsGUI.php",
+        "line": 793,
+        "code": "$this->lng->txt('settings_saved')",
+        "has_variable": false,
+        "variable": "settings_saved"
+    },
+    {
+        "id": 1676,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/class.ilAdvancedMDSettingsGUI.php",
+        "line": 801,
+        "code": "$this->lng->txt('select_one')",
+        "has_variable": false,
+        "variable": "select_one"
+    },
+    {
+        "id": 1678,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/class.ilAdvancedMDSettingsGUI.php",
+        "line": 813,
+        "code": "$this->lng->txt(\"md_adv_delete_fields_sure\")",
+        "has_variable": false,
+        "variable": "md_adv_delete_fields_sure"
+    },
+    {
+        "id": 1680,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/class.ilAdvancedMDSettingsGUI.php",
+        "line": 814,
+        "code": "$this->lng->txt(\"cancel\")",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 1682,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/class.ilAdvancedMDSettingsGUI.php",
+        "line": 815,
+        "code": "$this->lng->txt(\"confirm\")",
+        "has_variable": false,
+        "variable": "confirm"
+    },
+    {
+        "id": 1684,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/class.ilAdvancedMDSettingsGUI.php",
+        "line": 831,
+        "code": "$this->lng->txt('select_one')",
+        "has_variable": false,
+        "variable": "select_one"
+    },
+    {
+        "id": 1686,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/class.ilAdvancedMDSettingsGUI.php",
+        "line": 849,
+        "code": "$this->lng->txt('msg_no_perm_delete')",
+        "has_variable": false,
+        "variable": "msg_no_perm_delete"
+    },
+    {
+        "id": 1688,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/class.ilAdvancedMDSettingsGUI.php",
+        "line": 857,
+        "code": "$this->lng->txt('md_adv_deleted_fields')",
+        "has_variable": false,
+        "variable": "md_adv_deleted_fields"
+    },
+    {
+        "id": 1690,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/class.ilAdvancedMDSettingsGUI.php",
+        "line": 913,
+        "code": "$this->lng->txt($field->getTypeTitle())",
+        "has_variable": true,
+        "variable": "$field->getTypeTitle()"
+    },
+    {
+        "id": 1692,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/class.ilAdvancedMDSettingsGUI.php",
+        "line": 918,
+        "code": "$this->lng->txt($field->getTypeTitle())",
+        "has_variable": true,
+        "variable": "$field->getTypeTitle()"
+    },
+    {
+        "id": 1694,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/class.ilAdvancedMDSettingsGUI.php",
+        "line": 928,
+        "code": "$this->lng->txt('meta_advmd_add_field')",
+        "has_variable": false,
+        "variable": "meta_advmd_add_field"
+    },
+    {
+        "id": 1696,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/class.ilAdvancedMDSettingsGUI.php",
+        "line": 934,
+        "code": "$this->lng->txt(\"md_adv_field_filter_warning\")",
+        "has_variable": false,
+        "variable": "md_adv_field_filter_warning"
+    },
+    {
+        "id": 1698,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/class.ilAdvancedMDSettingsGUI.php",
+        "line": 951,
+        "code": "$this->lng->txt(\"md_adv_field_table\")",
+        "has_variable": false,
+        "variable": "md_adv_field_table"
+    },
+    {
+        "id": 1700,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/class.ilAdvancedMDSettingsGUI.php",
+        "line": 954,
+        "code": "$this->lng->txt(\"save\")",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 1702,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/class.ilAdvancedMDSettingsGUI.php",
+        "line": 956,
+        "code": "$this->lng->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 1704,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/class.ilAdvancedMDSettingsGUI.php",
+        "line": 957,
+        "code": "$this->lng->txt(\"delete\")",
+        "has_variable": false,
+        "variable": "delete"
+    },
+    {
+        "id": 1706,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/class.ilAdvancedMDSettingsGUI.php",
+        "line": 974,
+        "code": "$this->lng->txt('select_one')",
+        "has_variable": false,
+        "variable": "select_one"
+    },
+    {
+        "id": 1708,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/class.ilAdvancedMDSettingsGUI.php",
+        "line": 1010,
+        "code": "$this->lng->txt('settings_saved')",
+        "has_variable": false,
+        "variable": "settings_saved"
+    },
+    {
+        "id": 1710,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/class.ilAdvancedMDSettingsGUI.php",
+        "line": 1031,
+        "code": "$this->lng->txt('err_check_input')",
+        "has_variable": false,
+        "variable": "err_check_input"
+    },
+    {
+        "id": 1712,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/class.ilAdvancedMDSettingsGUI.php",
+        "line": 1047,
+        "code": "$this->lng->txt('settings_saved')",
+        "has_variable": false,
+        "variable": "settings_saved"
+    },
+    {
+        "id": 1714,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/class.ilAdvancedMDSettingsGUI.php",
+        "line": 1086,
+        "code": "$this->lng->txt('md_adv_record_list')",
+        "has_variable": false,
+        "variable": "md_adv_record_list"
+    },
+    {
+        "id": 1716,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/class.ilAdvancedMDSettingsGUI.php",
+        "line": 1093,
+        "code": "$this->lng->txt('settings')",
+        "has_variable": false,
+        "variable": "settings"
+    },
+    {
+        "id": 1718,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/class.ilAdvancedMDSettingsGUI.php",
+        "line": 1104,
+        "code": "$this->lng->txt('obj_multilinguality')",
+        "has_variable": false,
+        "variable": "obj_multilinguality"
+    },
+    {
+        "id": 1720,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/class.ilAdvancedMDSettingsGUI.php",
+        "line": 1114,
+        "code": "$this->lng->txt('md_adv_record_list')",
+        "has_variable": false,
+        "variable": "md_adv_record_list"
+    },
+    {
+        "id": 1722,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/class.ilAdvancedMDSettingsGUI.php",
+        "line": 1118,
+        "code": "$this->lng->txt('md_adv_field_list')",
+        "has_variable": false,
+        "variable": "md_adv_field_list"
+    },
+    {
+        "id": 1724,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/class.ilAdvancedMDSettingsGUI.php",
+        "line": 1135,
+        "code": "$this->lng->txt('file')",
+        "has_variable": false,
+        "variable": "file"
+    },
+    {
+        "id": 1726,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/class.ilAdvancedMDSettingsGUI.php",
+        "line": 1140,
+        "code": "$this->lng->txt('md_adv_import_record')",
+        "has_variable": false,
+        "variable": "md_adv_import_record"
+    },
+    {
+        "id": 1728,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/class.ilAdvancedMDSettingsGUI.php",
+        "line": 1141,
+        "code": "$this->lng->txt('import')",
+        "has_variable": false,
+        "variable": "import"
+    },
+    {
+        "id": 1730,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/class.ilAdvancedMDSettingsGUI.php",
+        "line": 1142,
+        "code": "$this->lng->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 1732,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/class.ilAdvancedMDSettingsGUI.php",
+        "line": 1175,
+        "code": "$this->lng->txt('md_adv_added_new_record')",
+        "has_variable": false,
+        "variable": "md_adv_added_new_record"
+    },
+    {
+        "id": 1734,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/class.ilAdvancedMDSettingsGUI.php",
+        "line": 1196,
+        "code": "$this->lng->txt('err_check_input')",
+        "has_variable": false,
+        "variable": "err_check_input"
+    },
+    {
+        "id": 1736,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/class.ilAdvancedMDSettingsGUI.php",
+        "line": 1226,
+        "code": "$this->lng->txt('md_adv_added_new_record')",
+        "has_variable": false,
+        "variable": "md_adv_added_new_record"
+    },
+    {
+        "id": 1738,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/class.ilAdvancedMDSettingsGUI.php",
+        "line": 1291,
+        "code": "$this->lng->txt('settings_saved')",
+        "has_variable": false,
+        "variable": "settings_saved"
+    },
+    {
+        "id": 1740,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/class.ilAdvancedMDSettingsGUI.php",
+        "line": 1302,
+        "code": "$this->lng->txt(\"md_adv_confirm_definition\")",
+        "has_variable": false,
+        "variable": "md_adv_confirm_definition"
+    },
+    {
+        "id": 1742,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/class.ilAdvancedMDSettingsGUI.php",
+        "line": 1366,
+        "code": "$this->lng->txt('settings_saved')",
+        "has_variable": false,
+        "variable": "settings_saved"
+    },
+    {
+        "id": 1744,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/class.ilAdvancedMDSettingsGUI.php",
+        "line": 1390,
+        "code": "$this->lng->txt(\"type\")",
+        "has_variable": false,
+        "variable": "type"
+    },
+    {
+        "id": 1746,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/class.ilAdvancedMDSettingsGUI.php",
+        "line": 1391,
+        "code": "$this->lng->txt($a_definition->getTypeTitle())",
+        "has_variable": true,
+        "variable": "$a_definition->getTypeTitle()"
+    },
+    {
+        "id": 1748,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/class.ilAdvancedMDSettingsGUI.php",
+        "line": 1396,
+        "code": "$this->lng->txt('md_adv_create_field')",
+        "has_variable": false,
+        "variable": "md_adv_create_field"
+    },
+    {
+        "id": 1750,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/class.ilAdvancedMDSettingsGUI.php",
+        "line": 1397,
+        "code": "$this->lng->txt('create')",
+        "has_variable": false,
+        "variable": "create"
+    },
+    {
+        "id": 1752,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/class.ilAdvancedMDSettingsGUI.php",
+        "line": 1399,
+        "code": "$this->lng->txt('md_adv_edit_field')",
+        "has_variable": false,
+        "variable": "md_adv_edit_field"
+    },
+    {
+        "id": 1754,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/class.ilAdvancedMDSettingsGUI.php",
+        "line": 1400,
+        "code": "$this->lng->txt('save')",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 1756,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/class.ilAdvancedMDSettingsGUI.php",
+        "line": 1403,
+        "code": "$this->lng->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 1758,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/class.ilAdvancedMDSettingsGUI.php",
+        "line": 1440,
+        "code": "$this->lng->txt('title')",
+        "has_variable": false,
+        "variable": "title"
+    },
+    {
+        "id": 1760,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/class.ilAdvancedMDSettingsGUI.php",
+        "line": 1453,
+        "code": "$this->lng->txt('description')",
+        "has_variable": false,
+        "variable": "description"
+    },
+    {
+        "id": 1762,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/class.ilAdvancedMDSettingsGUI.php",
+        "line": 1464,
+        "code": "$this->lng->txt('md_adv_active')",
+        "has_variable": false,
+        "variable": "md_adv_active"
+    },
+    {
+        "id": 1764,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/class.ilAdvancedMDSettingsGUI.php",
+        "line": 1475,
+        "code": "$this->lng->txt('md_adv_scope')",
+        "has_variable": false,
+        "variable": "md_adv_scope"
+    },
+    {
+        "id": 1766,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/class.ilAdvancedMDSettingsGUI.php",
+        "line": 1476,
+        "code": "$this->lng->txt('md_adv_scope_info')",
+        "has_variable": false,
+        "variable": "md_adv_scope_info"
+    },
+    {
+        "id": 1768,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/class.ilAdvancedMDSettingsGUI.php",
+        "line": 1481,
+        "code": "$this->lng->txt('md_adv_scope_objects')",
+        "has_variable": false,
+        "variable": "md_adv_scope_objects"
+    },
+    {
+        "id": 1770,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/class.ilAdvancedMDSettingsGUI.php",
+        "line": 1505,
+        "code": "$this->lng->txt('md_obj_types')",
+        "has_variable": false,
+        "variable": "md_obj_types"
+    },
+    {
+        "id": 1772,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/class.ilAdvancedMDSettingsGUI.php",
+        "line": 1510,
+        "code": "$this->lng->txt(\"meta_obj_type_inactive\")",
+        "has_variable": false,
+        "variable": "meta_obj_type_inactive"
+    },
+    {
+        "id": 1774,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/class.ilAdvancedMDSettingsGUI.php",
+        "line": 1511,
+        "code": "$this->lng->txt(\"meta_obj_type_mandatory\")",
+        "has_variable": false,
+        "variable": "meta_obj_type_mandatory"
+    },
+    {
+        "id": 1776,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/class.ilAdvancedMDSettingsGUI.php",
+        "line": 1512,
+        "code": "$this->lng->txt(\"meta_obj_type_optional\")",
+        "has_variable": false,
+        "variable": "meta_obj_type_optional"
+    },
+    {
+        "id": 1778,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/class.ilAdvancedMDSettingsGUI.php",
+        "line": 1584,
+        "code": "$this->lng->txt('md_adv_create_record')",
+        "has_variable": false,
+        "variable": "md_adv_create_record"
+    },
+    {
+        "id": 1780,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/class.ilAdvancedMDSettingsGUI.php",
+        "line": 1585,
+        "code": "$this->lng->txt('add')",
+        "has_variable": false,
+        "variable": "add"
+    },
+    {
+        "id": 1782,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/class.ilAdvancedMDSettingsGUI.php",
+        "line": 1586,
+        "code": "$this->lng->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 1784,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/class.ilAdvancedMDSettingsGUI.php",
+        "line": 1590,
+        "code": "$this->lng->txt('md_adv_edit_record')",
+        "has_variable": false,
+        "variable": "md_adv_edit_record"
+    },
+    {
+        "id": 1786,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/class.ilAdvancedMDSettingsGUI.php",
+        "line": 1591,
+        "code": "$this->lng->txt('save')",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 1788,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/class.ilAdvancedMDSettingsGUI.php",
+        "line": 1592,
+        "code": "$this->lng->txt('cancel')",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 1790,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/class.ilAdvancedMDSettingsGUI.php",
+        "line": 1620,
+        "code": "$this->lng->txt('objs_' . $obj_type)",
+        "has_variable": true,
+        "variable": "'objs_' . $obj_type"
+    },
+    {
+        "id": 1792,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/class.ilAdvancedMDSettingsGUI.php",
+        "line": 1623,
+        "code": "$this->lng->txt('description')",
+        "has_variable": false,
+        "variable": "description"
+    },
+    {
+        "id": 1794,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/class.ilAdvancedMDSettingsGUI.php",
+        "line": 1625,
+        "code": "$this->lng->txt('md_adv_desc_show')",
+        "has_variable": false,
+        "variable": "md_adv_desc_show"
+    },
+    {
+        "id": 1796,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/class.ilAdvancedMDSettingsGUI.php",
+        "line": 1633,
+        "code": "$this->lng->txt('md_adv_field_names')",
+        "has_variable": false,
+        "variable": "md_adv_field_names"
+    },
+    {
+        "id": 1798,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/class.ilAdvancedMDSettingsGUI.php",
+        "line": 1635,
+        "code": "$this->lng->txt('md_adv_fields_show')",
+        "has_variable": false,
+        "variable": "md_adv_fields_show"
+    },
+    {
+        "id": 1800,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/class.ilAdvancedMDSettingsGUI.php",
+        "line": 1655,
+        "code": "$this->lng->txt('md_adv_show')",
+        "has_variable": false,
+        "variable": "md_adv_show"
+    },
+    {
+        "id": 1802,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/class.ilAdvancedMDSettingsGUI.php",
+        "line": 1663,
+        "code": "$this->lng->txt('position')",
+        "has_variable": false,
+        "variable": "position"
+    },
+    {
+        "id": 1804,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/class.ilAdvancedMDSettingsGUI.php",
+        "line": 1677,
+        "code": "$this->lng->txt('bold')",
+        "has_variable": false,
+        "variable": "bold"
+    },
+    {
+        "id": 1806,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/class.ilAdvancedMDSettingsGUI.php",
+        "line": 1689,
+        "code": "$this->lng->txt('newline')",
+        "has_variable": false,
+        "variable": "newline"
+    },
+    {
+        "id": 1808,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/class.ilAdvancedMDSettingsGUI.php",
+        "line": 1703,
+        "code": "$this->lng->txt('md_adv_substitution_table')",
+        "has_variable": false,
+        "variable": "md_adv_substitution_table"
+    },
+    {
+        "id": 1810,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/class.ilAdvancedMDSettingsGUI.php",
+        "line": 1706,
+        "code": "$this->lng->txt('save')",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 1812,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/class.ilAdvancedMDSettingsGUI.php",
+        "line": 1985,
+        "code": "$this->lng->txt('err_select_one')",
+        "has_variable": false,
+        "variable": "err_select_one"
+    },
+    {
+        "id": 1814,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/class.ilAdvancedMDSettingsGUI.php",
+        "line": 2008,
+        "code": "$this->lng->txt(\"md_adv_edit_complex_option\")",
+        "has_variable": false,
+        "variable": "md_adv_edit_complex_option"
+    },
+    {
+        "id": 1816,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/class.ilAdvancedMDSettingsGUI.php",
+        "line": 2014,
+        "code": "$this->lng->txt(\"save\")",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 1818,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/class.ilAdvancedMDSettingsGUI.php",
+        "line": 2015,
+        "code": "$this->lng->txt(\"cancel\")",
+        "has_variable": false,
+        "variable": "cancel"
+    },
+    {
+        "id": 1820,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/class.ilAdvancedMDSettingsGUI.php",
+        "line": 2031,
+        "code": "$this->lng->txt(\"settings_saved\")",
+        "has_variable": false,
+        "variable": "settings_saved"
+    },
+    {
+        "id": 1822,
+        "file": "components\/ILIAS\/AdvancedMetaData\/classes\/class.ilAdvancedMDSettingsGUI.php",
+        "line": 2070,
+        "code": "$this->lng->txt('meta_aria_language_selection')",
+        "has_variable": false,
+        "variable": "meta_aria_language_selection"
+    }
+]

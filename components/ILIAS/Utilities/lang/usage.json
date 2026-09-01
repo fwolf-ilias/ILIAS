@@ -1,0 +1,90 @@
+[
+    {
+        "id": 48392,
+        "file": "components\/ILIAS\/Utilities\/classes\/class.ilLegacyFormElementsUtil.php",
+        "line": 90,
+        "code": "$lng->txt($segment_name)",
+        "has_variable": true,
+        "variable": "$segment_name"
+    },
+    {
+        "id": 48394,
+        "file": "components\/ILIAS\/Utilities\/classes\/class.ilLegacyFormElementsUtil.php",
+        "line": 381,
+        "code": "$lng->txt($val)",
+        "has_variable": true,
+        "variable": "$val"
+    },
+    {
+        "id": 48396,
+        "file": "components\/ILIAS\/Utilities\/classes\/class.ilUtil.php",
+        "line": 57,
+        "code": "$lng->txt(\"obj_\" . $a_type)",
+        "has_variable": true,
+        "variable": "\"obj_\" . $a_type"
+    },
+    {
+        "id": 48398,
+        "file": "components\/ILIAS\/Utilities\/classes\/class.ilUtil.php",
+        "line": 57,
+        "code": "$lng->txt(\n            \"obj_\" . $a_type\n        )",
+        "has_variable": true,
+        "variable": "\"obj_\" . $a_type"
+    },
+    {
+        "id": 48400,
+        "file": "components\/ILIAS\/Utilities\/classes\/class.ilUtil.php",
+        "line": 1404,
+        "code": "$lng->txt('lang_sep_thousand')",
+        "has_variable": false,
+        "variable": "lang_sep_thousand"
+    },
+    {
+        "id": 48402,
+        "file": "components\/ILIAS\/Utilities\/classes\/class.ilUtil.php",
+        "line": 1474,
+        "code": "$a_lng->txt('lang_sep_decimal')",
+        "has_variable": false,
+        "variable": "lang_sep_decimal"
+    },
+    {
+        "id": 48404,
+        "file": "components\/ILIAS\/Utilities\/classes\/class.ilUtil.php",
+        "line": 1475,
+        "code": "$a_lng->txt('lang_sep_thousand')",
+        "has_variable": false,
+        "variable": "lang_sep_thousand"
+    },
+    {
+        "id": 48406,
+        "file": "components\/ILIAS\/Utilities\/classes\/class.ilUtil.php",
+        "line": 1478,
+        "code": "$a_lng->txt($scaled_unit)",
+        "has_variable": true,
+        "variable": "$scaled_unit"
+    },
+    {
+        "id": 48408,
+        "file": "components\/ILIAS\/Utilities\/classes\/class.ilUtil.php",
+        "line": 1483,
+        "code": "$a_lng->txt('lang_sep_decimal')",
+        "has_variable": false,
+        "variable": "lang_sep_decimal"
+    },
+    {
+        "id": 48410,
+        "file": "components\/ILIAS\/Utilities\/classes\/class.ilUtil.php",
+        "line": 1484,
+        "code": "$a_lng->txt('lang_sep_thousand')",
+        "has_variable": false,
+        "variable": "lang_sep_thousand"
+    },
+    {
+        "id": 48412,
+        "file": "components\/ILIAS\/Utilities\/classes\/class.ilUtil.php",
+        "line": 1486,
+        "code": "$a_lng->txt('lang_size_bytes')",
+        "has_variable": false,
+        "variable": "lang_size_bytes"
+    }
+]

@@ -1,0 +1,42 @@
+{
+    "metadata": {
+        "type": "full",
+        "count": 3,
+        "description": "Variable usages without detectable prefixes or suffixes (pure variable references without static strings)"
+    },
+    "matches": [
+        {
+            "id": 29994,
+            "file": "components\/ILIAS\/Portfolio\/Administration\/class.ilPortfolioRoleAssignmentTableGUI.php",
+            "line": 44,
+            "code": "$this->lng->txt(\"\")",
+            "variable": "",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 30130,
+            "file": "components\/ILIAS\/Portfolio\/Page\/class.ilPortfolioPageGUI.php",
+            "line": 1151,
+            "code": "$this->lng->txt($presentation->getUserCertificate()->getObjType())",
+            "variable": "$presentation->getUserCertificate()->getObjType()",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 30134,
+            "file": "components\/ILIAS\/Portfolio\/Page\/class.ilPortfolioPageTableGUI.php",
+            "line": 57,
+            "code": "$this->lng->txt(\"\")",
+            "variable": "",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        }
+    ]
+}

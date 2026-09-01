@@ -1,0 +1,314 @@
+[
+    {
+        "id": 24918,
+        "file": "components\/ILIAS\/Logging\/classes\/class.ilLogComponentTableGUI.php",
+        "line": 58,
+        "code": "$this->lng->txt('log_component_col_component')",
+        "has_variable": false,
+        "variable": "log_component_col_component"
+    },
+    {
+        "id": 24920,
+        "file": "components\/ILIAS\/Logging\/classes\/class.ilLogComponentTableGUI.php",
+        "line": 59,
+        "code": "$this->lng->txt('log_component_col_level')",
+        "has_variable": false,
+        "variable": "log_component_col_level"
+    },
+    {
+        "id": 24922,
+        "file": "components\/ILIAS\/Logging\/classes\/class.ilLogComponentTableGUI.php",
+        "line": 64,
+        "code": "$this->lng->txt('save')",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 24924,
+        "file": "components\/ILIAS\/Logging\/classes\/class.ilLogComponentTableGUI.php",
+        "line": 65,
+        "code": "$this->lng->txt('log_component_btn_reset')",
+        "has_variable": false,
+        "variable": "log_component_btn_reset"
+    },
+    {
+        "id": 24926,
+        "file": "components\/ILIAS\/Logging\/classes\/class.ilLogComponentTableGUI.php",
+        "line": 100,
+        "code": "$this->lng->txt('log_component_unknown')",
+        "has_variable": false,
+        "variable": "log_component_unknown"
+    },
+    {
+        "id": 24928,
+        "file": "components\/ILIAS\/Logging\/classes\/class.ilLogComponentTableGUI.php",
+        "line": 116,
+        "code": "$this->lng->txt('log_level_default')",
+        "has_variable": false,
+        "variable": "log_level_default"
+    },
+    {
+        "id": 24930,
+        "file": "components\/ILIAS\/Logging\/classes\/class.ilLogComponentTableGUI.php",
+        "line": 133,
+        "code": "$this->lng->txt('log_level_debug')",
+        "has_variable": false,
+        "variable": "log_level_debug"
+    },
+    {
+        "id": 24932,
+        "file": "components\/ILIAS\/Logging\/classes\/class.ilLogComponentTableGUI.php",
+        "line": 134,
+        "code": "$this->lng->txt('log_level_info')",
+        "has_variable": false,
+        "variable": "log_level_info"
+    },
+    {
+        "id": 24934,
+        "file": "components\/ILIAS\/Logging\/classes\/class.ilLogComponentTableGUI.php",
+        "line": 135,
+        "code": "$this->lng->txt('log_level_notice')",
+        "has_variable": false,
+        "variable": "log_level_notice"
+    },
+    {
+        "id": 24936,
+        "file": "components\/ILIAS\/Logging\/classes\/class.ilLogComponentTableGUI.php",
+        "line": 136,
+        "code": "$this->lng->txt('log_level_warning')",
+        "has_variable": false,
+        "variable": "log_level_warning"
+    },
+    {
+        "id": 24938,
+        "file": "components\/ILIAS\/Logging\/classes\/class.ilLogComponentTableGUI.php",
+        "line": 137,
+        "code": "$this->lng->txt('log_level_error')",
+        "has_variable": false,
+        "variable": "log_level_error"
+    },
+    {
+        "id": 24940,
+        "file": "components\/ILIAS\/Logging\/classes\/class.ilLogComponentTableGUI.php",
+        "line": 138,
+        "code": "$this->lng->txt('log_level_critical')",
+        "has_variable": false,
+        "variable": "log_level_critical"
+    },
+    {
+        "id": 24942,
+        "file": "components\/ILIAS\/Logging\/classes\/class.ilLogComponentTableGUI.php",
+        "line": 139,
+        "code": "$this->lng->txt('log_level_alert')",
+        "has_variable": false,
+        "variable": "log_level_alert"
+    },
+    {
+        "id": 24944,
+        "file": "components\/ILIAS\/Logging\/classes\/class.ilLogComponentTableGUI.php",
+        "line": 140,
+        "code": "$this->lng->txt('log_level_emergency')",
+        "has_variable": false,
+        "variable": "log_level_emergency"
+    },
+    {
+        "id": 24946,
+        "file": "components\/ILIAS\/Logging\/classes\/class.ilLogComponentTableGUI.php",
+        "line": 141,
+        "code": "$this->lng->txt('log_level_off')",
+        "has_variable": false,
+        "variable": "log_level_off"
+    },
+    {
+        "id": 24948,
+        "file": "components\/ILIAS\/Logging\/classes\/class.ilObjLoggingSettingsGUI.php",
+        "line": 116,
+        "code": "$this->lng->txt(static::SUB_SECTION_ERROR)",
+        "has_variable": true,
+        "variable": "SUB_SECTION_ERROR"
+    },
+    {
+        "id": 24950,
+        "file": "components\/ILIAS\/Logging\/classes\/class.ilObjLoggingSettingsGUI.php",
+        "line": 121,
+        "code": "$this->lng->txt(static::SUB_SECTION_COMPONENTS)",
+        "has_variable": true,
+        "variable": "SUB_SECTION_COMPONENTS"
+    },
+    {
+        "id": 24952,
+        "file": "components\/ILIAS\/Logging\/classes\/class.ilObjLoggingSettingsGUI.php",
+        "line": 188,
+        "code": "$this->lng->txt('settings_saved')",
+        "has_variable": false,
+        "variable": "settings_saved"
+    },
+    {
+        "id": 24954,
+        "file": "components\/ILIAS\/Logging\/classes\/class.ilObjLoggingSettingsGUI.php",
+        "line": 196,
+        "code": "$this->lng->txt('settings_saved')",
+        "has_variable": false,
+        "variable": "settings_saved"
+    },
+    {
+        "id": 24956,
+        "file": "components\/ILIAS\/Logging\/classes\/class.ilObjLoggingSettingsGUI.php",
+        "line": 220,
+        "code": "$this->lng->txt('error_settings_saved')",
+        "has_variable": false,
+        "variable": "error_settings_saved"
+    },
+    {
+        "id": 24958,
+        "file": "components\/ILIAS\/Logging\/classes\/class.ilObjLoggingSettingsGUI.php",
+        "line": 223,
+        "code": "$this->lng->txt('err_check_input')",
+        "has_variable": false,
+        "variable": "err_check_input"
+    },
+    {
+        "id": 24960,
+        "file": "components\/ILIAS\/Logging\/classes\/class.ilObjLoggingSettingsGUI.php",
+        "line": 231,
+        "code": "$this->lng->txt('logs_settings')",
+        "has_variable": false,
+        "variable": "logs_settings"
+    },
+    {
+        "id": 24962,
+        "file": "components\/ILIAS\/Logging\/classes\/class.ilObjLoggingSettingsGUI.php",
+        "line": 235,
+        "code": "$this->lng->txt('save')",
+        "has_variable": false,
+        "variable": "save"
+    },
+    {
+        "id": 24964,
+        "file": "components\/ILIAS\/Logging\/classes\/class.ilObjLoggingSettingsGUI.php",
+        "line": 238,
+        "code": "$this->lng->txt('log_error_folder')",
+        "has_variable": false,
+        "variable": "log_error_folder"
+    },
+    {
+        "id": 24966,
+        "file": "components\/ILIAS\/Logging\/classes\/class.ilObjLoggingSettingsGUI.php",
+        "line": 242,
+        "code": "$this->lng->txt('log_error_mail')",
+        "has_variable": false,
+        "variable": "log_error_mail"
+    },
+    {
+        "id": 24968,
+        "file": "components\/ILIAS\/Logging\/classes\/error\/class.ilLoggerCronCleanErrorFiles.php",
+        "line": 50,
+        "code": "$this->lng->txt(\"log_error_file_cleanup_title\")",
+        "has_variable": false,
+        "variable": "log_error_file_cleanup_title"
+    },
+    {
+        "id": 24970,
+        "file": "components\/ILIAS\/Logging\/classes\/error\/class.ilLoggerCronCleanErrorFiles.php",
+        "line": 55,
+        "code": "$this->lng->txt(\"log_error_file_cleanup_info\")",
+        "has_variable": false,
+        "variable": "log_error_file_cleanup_info"
+    },
+    {
+        "id": 24972,
+        "file": "components\/ILIAS\/Logging\/classes\/error\/class.ilLoggerCronCleanErrorFiles.php",
+        "line": 89,
+        "code": "$this->lng->txt(\"log_error_path_not_configured_or_wrong\")",
+        "has_variable": false,
+        "variable": "log_error_path_not_configured_or_wrong"
+    },
+    {
+        "id": 24974,
+        "file": "components\/ILIAS\/Logging\/classes\/error\/class.ilLoggerCronCleanErrorFiles.php",
+        "line": 143,
+        "code": "$this->lng->txt('frm_clear_older_then')",
+        "has_variable": false,
+        "variable": "frm_clear_older_then"
+    },
+    {
+        "id": 24976,
+        "file": "components\/ILIAS\/Logging\/classes\/error\/class.ilLoggerCronCleanErrorFiles.php",
+        "line": 147,
+        "code": "$this->lng->txt('frm_clear_older_then_info')",
+        "has_variable": false,
+        "variable": "frm_clear_older_then_info"
+    },
+    {
+        "id": 24978,
+        "file": "components\/ILIAS\/Logging\/classes\/public\/class.ilLogLevel.php",
+        "line": 68,
+        "code": "$lng->txt('log_level_debug')",
+        "has_variable": false,
+        "variable": "log_level_debug"
+    },
+    {
+        "id": 24980,
+        "file": "components\/ILIAS\/Logging\/classes\/public\/class.ilLogLevel.php",
+        "line": 69,
+        "code": "$lng->txt('log_level_info')",
+        "has_variable": false,
+        "variable": "log_level_info"
+    },
+    {
+        "id": 24982,
+        "file": "components\/ILIAS\/Logging\/classes\/public\/class.ilLogLevel.php",
+        "line": 70,
+        "code": "$lng->txt('log_level_notice')",
+        "has_variable": false,
+        "variable": "log_level_notice"
+    },
+    {
+        "id": 24984,
+        "file": "components\/ILIAS\/Logging\/classes\/public\/class.ilLogLevel.php",
+        "line": 71,
+        "code": "$lng->txt('log_level_warning')",
+        "has_variable": false,
+        "variable": "log_level_warning"
+    },
+    {
+        "id": 24986,
+        "file": "components\/ILIAS\/Logging\/classes\/public\/class.ilLogLevel.php",
+        "line": 72,
+        "code": "$lng->txt('log_level_error')",
+        "has_variable": false,
+        "variable": "log_level_error"
+    },
+    {
+        "id": 24988,
+        "file": "components\/ILIAS\/Logging\/classes\/public\/class.ilLogLevel.php",
+        "line": 73,
+        "code": "$lng->txt('log_level_critical')",
+        "has_variable": false,
+        "variable": "log_level_critical"
+    },
+    {
+        "id": 24990,
+        "file": "components\/ILIAS\/Logging\/classes\/public\/class.ilLogLevel.php",
+        "line": 74,
+        "code": "$lng->txt('log_level_alert')",
+        "has_variable": false,
+        "variable": "log_level_alert"
+    },
+    {
+        "id": 24992,
+        "file": "components\/ILIAS\/Logging\/classes\/public\/class.ilLogLevel.php",
+        "line": 75,
+        "code": "$lng->txt('log_level_emergency')",
+        "has_variable": false,
+        "variable": "log_level_emergency"
+    },
+    {
+        "id": 24994,
+        "file": "components\/ILIAS\/Logging\/classes\/public\/class.ilLogLevel.php",
+        "line": 76,
+        "code": "$lng->txt('log_level_off')",
+        "has_variable": false,
+        "variable": "log_level_off"
+    }
+]

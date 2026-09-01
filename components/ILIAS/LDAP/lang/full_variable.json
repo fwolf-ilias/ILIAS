@@ -1,0 +1,31 @@
+{
+    "metadata": {
+        "type": "full",
+        "count": 2,
+        "description": "Variable usages without detectable prefixes or suffixes (pure variable references without static strings)"
+    },
+    "matches": [
+        {
+            "id": 21600,
+            "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+            "line": 365,
+            "code": "$this->lng->txt($roleErrorMessage)",
+            "variable": "$roleErrorMessage",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        },
+        {
+            "id": 21618,
+            "file": "components\/ILIAS\/LDAP\/classes\/class.ilLDAPSettingsGUI.php",
+            "line": 446,
+            "code": "$this->lng->txt($roleErrorMessage)",
+            "variable": "$roleErrorMessage",
+            "has_variable": true,
+            "prefix": "",
+            "suffix": "",
+            "matching_variables": []
+        }
+    ]
+}

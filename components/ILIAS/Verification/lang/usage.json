@@ -1,0 +1,10 @@
+[
+    {
+        "id": 48414,
+        "file": "components\/ILIAS\/Verification\/classes\/Certificate\/class.ilCertificateVerificationFileService.php",
+        "line": 70,
+        "code": "$this->language->txt('error_creating_certificate_pdf')",
+        "has_variable": false,
+        "variable": "error_creating_certificate_pdf"
+    }
+]
